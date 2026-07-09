@@ -1,0 +1,344 @@
+Partida #192
+Data: 1912-01-18
+Mandante: Fluminense Football Club
+Visitante: Paladino Foot-Ball Club
+Placar: 3 x 4
+Seed: -
+Estádio: Arena Guanabara
+Clima: Chuva leve
+Placar tempo normal: 3 x 4
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Fluminense Football Club x Paladino Foot-Ball Club | estádio=Arena Guanabara | clima=Chuva leve | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 0 Paladino Foot-Ball Club
+[001] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.313 roll=0.014
+[001] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Renato Lobo Mau line=2 duel=30.18 corte=-1.30
+[001] FINAL Paladino Foot-Ball Club | Lisandro Paladino fam=5 duel=11.47 on_target=0.484 goal=0.136
+[001] FINAL Lisandro Paladino: fora/alvo perdido (roll=0.515)
+[002] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 0 Paladino Foot-Ball Club
+[002] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.313 roll=0.185
+[002] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Jerônimo Monteiro line=2 duel=-29.24 corte=-1.30
+[002] JOGADA falhou: Jerônimo Monteiro cortou
+[003] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 Paladino Foot-Ball Club
+[003] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.101
+[003] JOGADA Fluminense Football Club | Leôncio Rebelo x Lisandro Paladino line=5 duel=104.90 corte=-1.38
+[003] FINAL Fluminense Football Club | Renato Lobo Mau fam=1 duel=13.96 on_target=0.553 goal=0.210
+[003] FINAL Renato Lobo Mau: fora/alvo perdido (roll=0.632)
+[004] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 0 Paladino Foot-Ball Club
+[004] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.313 roll=0.220
+[004] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Ricard Seyolle line=3 duel=6.13 corte=-1.30
+[004] JOGADA Paladino Foot-Ball Club | Yoshida, o Samurai Errante x Renato Lobo Mau line=4 duel=6.24 corte=-1.30
+[004] FINAL Paladino Foot-Ball Club | Lisandro Paladino fam=5 duel=-63.41 on_target=0.481 goal=0.107
+[004] FINAL Lisandro Paladino: GOL subtipo=FALTA (roll=0.036)
+[005] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 1 Paladino Foot-Ball Club
+[005] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.436 roll=0.060
+[005] JOGADA Fluminense Football Club | Ricard Seyolle x Richard Lionheart line=4 duel=3.04 corte=-1.12
+[005] FINAL Fluminense Football Club | Renato Lobo Mau fam=3 duel=-3.26 on_target=0.500 goal=0.156
+[005] FINAL Renato Lobo Mau: fora/alvo perdido (roll=0.552)
+[006] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 1 Paladino Foot-Ball Club
+[006] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.342 roll=0.195
+[006] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Nicolau Freitas line=2 duel=10.95 corte=-1.30
+[006] FINAL Paladino Foot-Ball Club | Clérigo Inácio fam=5 duel=-1.37 on_target=0.482 goal=0.131
+[006] FINAL Clérigo Inácio: GOL subtipo=FALTA (roll=0.095)
+[007] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[007] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.334 roll=0.191
+[007] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Jerônimo Monteiro line=2 duel=-16.44 corte=-1.30
+[008] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[008] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.334 roll=0.073
+[008] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Florêncio Carmona line=3 duel=0.83 corte=-1.30
+[008] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Oscar Alfredo Cox line=5 duel=59.05 corte=-2.05
+[008] FINAL Paladino Foot-Ball Club | Cássio Jiló fam=5 duel=1.36 on_target=0.468 goal=0.124
+[008] FINAL Cássio Jiló: no alvo sem gol (roll=0.606)
+[009] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[009] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.334 roll=0.258
+[009] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Oscar Alfredo Cox line=4 duel=80.08 corte=-1.30
+[009] FINAL Paladino Foot-Ball Club | Perseu Kalitsas fam=5 duel=5.97 on_target=0.465 goal=0.125
+[009] FINAL Perseu Kalitsas: no alvo sem gol (roll=0.830)
+[010] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[010] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.334 roll=0.661
+[011] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[011] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.362 roll=0.764
+[012] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[012] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.472 roll=0.613
+[013] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[013] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.362 roll=0.057
+[013] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Florêncio Carmona line=3 duel=-2.09 corte=-1.30
+[013] JOGADA falhou: Florêncio Carmona cortou
+[014] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[014] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.472 roll=0.036
+[014] JOGADA Fluminense Football Club | Laurindo Nogueira x Perseu Kalitsas line=4 duel=37.83 corte=-1.12
+[014] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=17.74 on_target=0.605 goal=0.229
+[014] FINAL Óliver Teixeira: fora/alvo perdido (roll=0.908)
+[015] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[015] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.472 roll=0.572
+[016] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[016] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.362 roll=0.164
+[016] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Oscar Alfredo Cox line=4 duel=1.42 corte=-1.30
+[016] JOGADA Paladino Foot-Ball Club | Yoshida, o Samurai Errante x Leôncio Rebelo line=4 duel=-27.78 corte=-1.30
+[016] JOGADA falhou: Leôncio Rebelo cortou
+[017] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[017] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.472 roll=0.725
+[018] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[018] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.472 roll=0.855
+[019] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[019] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.362 roll=0.242
+[019] JOGADA Paladino Foot-Ball Club | Perseu Kalitsas x Oscar Alfredo Cox line=3 duel=-12.06 corte=-1.30
+[019] JOGADA falhou: Oscar Alfredo Cox cortou
+[020] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[020] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.472 roll=0.723
+[021] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[021] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.389 roll=0.366
+[021] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Nicolau Freitas line=3 duel=-25.15 corte=-1.30
+[021] JOGADA falhou: Nicolau Freitas cortou
+[022] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[022] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.508 roll=0.525
+[023] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[023] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.508 roll=0.030
+[023] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Perseu Kalitsas line=4 duel=59.07 corte=-1.12
+[023] FINAL Fluminense Football Club | Élton Brandão fam=1 duel=1.21 on_target=0.631 goal=0.227
+[023] FINAL Élton Brandão: fora/alvo perdido (roll=0.835)
+[024] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[024] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.508 roll=0.736
+[024] FINAL Fluminense Football Club | Florêncio Carmona fam=5 duel=0.61 on_target=0.539 goal=0.133
+[024] FINAL Florêncio Carmona: no alvo sem gol (roll=0.370)
+[025] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[025] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.389 roll=0.525
+[026] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[026] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.508 roll=0.297
+[026] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Richard Lionheart line=4 duel=82.23 corte=-1.12
+[026] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=18.45 on_target=0.636 goal=0.237
+[026] FINAL Óliver Teixeira: fora/alvo perdido (roll=0.754)
+[027] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[027] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.389 roll=0.799
+[028] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 2 Paladino Foot-Ball Club
+[028] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.508 roll=0.257
+[028] JOGADA Fluminense Football Club | Jerônimo Monteiro x Índio Catapora line=3 duel=3.31 corte=-1.12
+[028] FINAL Fluminense Football Club | Oscar Alfredo Cox fam=1 duel=13.28 on_target=0.634 goal=0.233
+[028] FINAL Oscar Alfredo Cox: GOL subtipo=CHUTE (roll=0.142)
+[029] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 2 Paladino Foot-Ball Club
+[029] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.507 roll=0.666
+[030] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 2 Paladino Foot-Ball Club
+[030] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.507 roll=0.291
+[030] JOGADA Fluminense Football Club | Renato Lobo Mau x Escalibur da Califórnia line=5 duel=52.64 corte=-1.87
+[030] FINAL Fluminense Football Club | Renato Lobo Mau fam=1 duel=0.80 on_target=0.627 goal=0.225
+[030] FINAL Renato Lobo Mau: fora/alvo perdido (roll=0.975)
+[031] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 2 Paladino Foot-Ball Club
+[031] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.398 roll=0.443
+[032] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 2 Paladino Foot-Ball Club
+[032] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.400 roll=0.724
+[033] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 2 Paladino Foot-Ball Club
+[033] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.400 roll=0.836
+[034] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 2 Paladino Foot-Ball Club
+[034] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.400 roll=0.116
+[034] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Laurindo Nogueira line=3 duel=-36.93 corte=-1.30
+[035] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 2 Paladino Foot-Ball Club
+[035] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.400 roll=0.334
+[035] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Élton Brandão line=3 duel=42.35 corte=-1.30
+[035] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Óliver Teixeira line=5 duel=52.06 corte=-1.55
+[035] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Jerônimo Monteiro line=5 duel=63.65 corte=-1.55
+[035] FINAL Paladino Foot-Ball Club | Lisandro Paladino fam=1 duel=-13.94 on_target=0.634 goal=0.226
+[035] FINAL Lisandro Paladino: GOL subtipo=CHUTE (roll=0.034)
+[036] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 3 Paladino Foot-Ball Club
+[036] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.391 roll=0.032
+[036] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Ricard Seyolle line=3 duel=1.39 corte=-1.30
+[036] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Renato Lobo Mau line=4 duel=17.47 corte=-1.30
+[036] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Nicolau Freitas line=5 duel=23.57 corte=-2.05
+[036] FINAL Paladino Foot-Ball Club | Lisandro Paladino fam=1 duel=-15.30 on_target=0.609 goal=0.209
+[036] FINAL Lisandro Paladino: GOL subtipo=CHUTE (roll=0.208)
+[037] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[037] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.383 roll=0.542
+[037] FINAL Paladino Foot-Ball Club | Escalibur da Califórnia fam=5 duel=-34.68 on_target=0.498 goal=0.111
+[037] FINAL Escalibur da Califórnia: fora/alvo perdido (roll=0.831)
+[038] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[038] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.383 roll=0.444
+[039] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[039] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.383 roll=0.395
+[040] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[040] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.508 roll=0.894
+[041] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[041] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.508 roll=0.356
+[041] JOGADA Fluminense Football Club | Jerônimo Monteiro x Ladislau Lancelot line=3 duel=-8.75 corte=-1.12
+[041] JOGADA falhou: Ladislau Lancelot cortou
+[042] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[042] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.508 roll=0.308
+[042] JOGADA Fluminense Football Club | Élton Brandão x Richard Lionheart line=4 duel=-27.26 corte=-1.12
+[042] JOGADA falhou: Richard Lionheart cortou
+[043] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[043] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.508 roll=0.951
+[044] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[044] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.383 roll=0.432
+[045] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[045] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.383 roll=0.622
+[045] FINAL Paladino Foot-Ball Club | Escalibur da Califórnia fam=5 duel=-30.54 on_target=0.498 goal=0.113
+[045] FINAL Escalibur da Califórnia: no alvo sem gol (roll=0.899)
+[046] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[046] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.472 roll=0.833
+[047] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[047] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.472 roll=0.014
+[047] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Cássio Jiló line=4 duel=21.65 corte=-1.12
+[047] FINAL Fluminense Football Club | Renato Lobo Mau fam=1 duel=-1.72 on_target=0.596 goal=0.217
+[047] FINAL Renato Lobo Mau: fora/alvo perdido (roll=0.633)
+[048] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[048] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.472 roll=0.060
+[048] JOGADA Fluminense Football Club | Jerônimo Monteiro x Escalibur da Califórnia line=4 duel=52.55 corte=-1.12
+[048] FINAL Fluminense Football Club | Renato Lobo Mau fam=1 duel=-1.38 on_target=0.596 goal=0.217
+[048] FINAL Renato Lobo Mau: no alvo sem gol (roll=0.711)
+[049] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[049] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.356 roll=0.637
+[049] FINAL Paladino Foot-Ball Club | Índio Catapora fam=5 duel=-27.95 on_target=0.472 goal=0.110
+[049] FINAL Índio Catapora: no alvo sem gol (roll=0.332)
+[050] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[050] SUB Fluminense Football Club: saiu Élton Brandão (SA) | entrou Wilson Coimbra (PE) | subs=1/5
+[050] SUB Paladino Foot-Ball Club: saiu Pinocchio Giacometti (MC) | entrou Sapateiro Souza (MC) | subs=1/5
+[050] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.467 roll=0.939
+[051] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[051] SUB Fluminense Football Club: saiu Renato Lobo Mau (CA) | entrou Agenor Vila (CA) | subs=2/5
+[051] SUB Paladino Foot-Ball Club: saiu Lisandro Paladino (CA) | entrou Estácio Espingarda (CA) | subs=2/5
+[051] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.464 roll=0.592
+[052] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[052] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.464 roll=0.359
+[052] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Sapateiro Souza line=5 duel=92.51 corte=-1.37
+[052] FINAL Fluminense Football Club | Oscar Alfredo Cox fam=1 duel=28.87 on_target=0.603 goal=0.233
+[052] FINAL Oscar Alfredo Cox: fora/alvo perdido (roll=0.883)
+[053] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[053] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.464 roll=0.070
+[053] JOGADA Fluminense Football Club | Jerônimo Monteiro x Clérigo Inácio line=4 duel=79.27 corte=-1.12
+[053] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=29.35 on_target=0.599 goal=0.231
+[053] FINAL Agenor Vila: no alvo sem gol (roll=0.777)
+[054] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[054] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.464 roll=0.258
+[054] JOGADA Fluminense Football Club | Laurindo Nogueira x Ladislau Lancelot line=3 duel=-7.72 corte=-1.12
+[054] JOGADA falhou: Ladislau Lancelot cortou
+[055] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[055] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.464 roll=0.450
+[055] JOGADA Fluminense Football Club | Florêncio Carmona x Perseu Kalitsas line=4 duel=104.32 corte=-1.12
+[055] FINAL Fluminense Football Club | Wilson Coimbra fam=1 duel=35.12 on_target=0.599 goal=0.233
+[055] FINAL Wilson Coimbra: no alvo sem gol (roll=0.746)
+[056] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[056] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.499 roll=0.489
+[056] JOGADA Fluminense Football Club | Óliver Teixeira x Richard Lionheart line=4 duel=-5.91 corte=-1.12
+[056] JOGADA falhou: Richard Lionheart cortou
+[057] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[057] SUB Paladino Foot-Ball Club: saiu Perseu Kalitsas (PD) | entrou Guarnição Soldado (PD) | subs=3/5
+[057] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.379 roll=0.908
+[058] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[058] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.479 roll=0.612
+[059] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[059] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.479 roll=0.918
+[060] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[060] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.479 roll=0.208
+[060] JOGADA Fluminense Football Club | Wilson Coimbra x Richard Lionheart line=4 duel=7.77 corte=-1.11
+[060] FINAL Fluminense Football Club | Wilson Coimbra fam=3 duel=22.83 on_target=0.571 goal=0.183
+[060] FINAL Wilson Coimbra: fora/alvo perdido (roll=0.854)
+[061] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[061] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.382 roll=0.675
+[062] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[062] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.382 roll=0.207
+[062] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Wilson Coimbra line=3 duel=12.14 corte=-1.30
+[062] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Florêncio Carmona line=4 duel=-23.04 corte=-1.30
+[063] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[063] SUB Fluminense Football Club: saiu Florêncio Carmona (MC) | entrou Otávio Carvalho (MD) | subs=3/5
+[063] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.483 roll=0.842
+[064] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[064] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.483 roll=0.943
+[065] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[065] SUB Paladino Foot-Ball Club: saiu Yoshida, o Samurai Errante (ZAG) | entrou Godofredo Nunes (ZAG) | subs=4/5
+[065] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.380 roll=0.798
+[066] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[066] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.480 roll=0.582
+[067] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 4 Paladino Foot-Ball Club
+[067] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.480 roll=0.336
+[067] JOGADA Fluminense Football Club | Laurindo Nogueira x Clérigo Inácio line=4 duel=34.06 corte=-1.11
+[067] FINAL Fluminense Football Club | Wilson Coimbra fam=1 duel=29.41 on_target=0.630 goal=0.238
+[067] FINAL Wilson Coimbra: GOL subtipo=CHUTE (roll=0.040)
+[068] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 4 Paladino Foot-Ball Club
+[068] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.480 roll=0.507
+[069] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 2 x 4 Paladino Foot-Ball Club
+[069] SUB Paladino Foot-Ball Club: saiu Índio Catapora (LD) | entrou Martin Luther Williams (LD) | subs=5/5
+[069] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.390 roll=0.774
+[070] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 2 x 4 Paladino Foot-Ball Club
+[070] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.408 roll=0.695
+[071] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 2 x 4 Paladino Foot-Ball Club
+[071] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.408 roll=0.208
+[071] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Nicolau Freitas line=3 duel=53.13 corte=-1.30
+[071] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Otávio Carvalho line=4 duel=-16.13 corte=-1.30
+[072] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 4 Paladino Foot-Ball Club
+[072] SUB Fluminense Football Club: saiu Nicolau Freitas (LE) | entrou Beraldo Botelho (LE) | subs=4/5
+[072] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.489 roll=0.423
+[072] JOGADA Fluminense Football Club | Wilson Coimbra x Clérigo Inácio line=3 duel=101.48 corte=-1.06
+[072] FINAL Fluminense Football Club | Agenor Vila fam=3 duel=17.76 on_target=0.571 goal=0.181
+[072] FINAL Agenor Vila: fora/alvo perdido (roll=0.957)
+[073] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 2 x 4 Paladino Foot-Ball Club
+[073] SUB Fluminense Football Club: saiu Óliver Teixeira (PE) | entrou Estefânio Matos (PD) | subs=5/5
+[073] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.410 roll=0.943
+[074] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 2 x 4 Paladino Foot-Ball Club
+[074] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.410 roll=0.599
+[075] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 2 x 4 Paladino Foot-Ball Club
+[075] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.410 roll=0.643
+[076] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 2 x 4 Paladino Foot-Ball Club
+[076] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.398 roll=0.326
+[076] JOGADA Paladino Foot-Ball Club | Godofredo Nunes x Leôncio Rebelo line=2 duel=9.81 corte=-1.30
+[076] FINAL Paladino Foot-Ball Club | Estácio Espingarda fam=1 duel=9.80 on_target=0.592 goal=0.215
+[076] FINAL Estácio Espingarda: no alvo sem gol (roll=0.604)
+[077] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 2 x 4 Paladino Foot-Ball Club
+[077] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.398 roll=0.484
+[078] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 4 Paladino Foot-Ball Club
+[078] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.518 roll=0.002
+[078] JOGADA Fluminense Football Club | Beraldo Botelho x Cássio Jiló line=4 duel=11.87 corte=-1.07
+[078] FINAL Fluminense Football Club | Ricard Seyolle fam=1 duel=25.68 on_target=0.670 goal=0.246
+[078] FINAL Ricard Seyolle: GOL subtipo=CHUTE (roll=0.186)
+[079] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[079] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.402 roll=0.700
+[080] posse=Fluminense Football Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[080] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.518 roll=0.683
+[081] posse=Fluminense Football Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[081] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.518 roll=0.592
+[082] posse=Fluminense Football Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[082] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.518 roll=0.538
+[083] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[083] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.402 roll=0.673
+[084] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[084] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.402 roll=0.564
+[085] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[085] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.402 roll=0.451
+[086] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[086] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.402 roll=0.470
+[087] posse=Fluminense Football Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[087] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.512 roll=0.490
+[087] JOGADA Fluminense Football Club | Laurindo Nogueira x Godofredo Nunes line=5 duel=-4.55 corte=-1.32
+[087] JOGADA falhou: Godofredo Nunes cortou
+[088] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[088] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.402 roll=0.528
+[089] posse=Fluminense Football Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[089] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.512 roll=0.482
+[089] JOGADA Fluminense Football Club | Leôncio Rebelo x Estácio Espingarda line=4 duel=57.24 corte=-1.07
+[089] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=6.48 on_target=0.672 goal=0.232
+[089] FINAL Agenor Vila: no alvo sem gol (roll=0.669)
+[090] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[090] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.402 roll=0.079
+[090] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Estefânio Matos line=4 duel=35.57 corte=-1.30
+[090] FINAL Paladino Foot-Ball Club | Clérigo Inácio fam=5 duel=-0.11 on_target=0.528 goal=0.137
+[090] FINAL Clérigo Inácio: fora/alvo perdido (roll=0.543)
+[091] posse=Fluminense Football Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[091] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.512 roll=0.328
+[091] JOGADA Fluminense Football Club | Estefânio Matos x Ladislau Lancelot line=4 duel=7.18 corte=-1.07
+[091] FINAL Fluminense Football Club | Wilson Coimbra fam=3 duel=12.97 on_target=0.610 goal=0.182
+[091] FINAL Wilson Coimbra: fora/alvo perdido (roll=0.836)
+[092] posse=Paladino Foot-Ball Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[092] BUILD Paladino Foot-Ball Club vs Fluminense Football Club prob=0.402 roll=0.379
+[092] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Agenor Vila line=4 duel=11.93 corte=-1.30
+[092] FINAL Paladino Foot-Ball Club | Guarnição Soldado fam=5 duel=5.26 on_target=0.524 goal=0.137
+[092] FINAL Guarnição Soldado: fora/alvo perdido (roll=0.550)
+[093] posse=Fluminense Football Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[093] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.512 roll=0.336
+[093] JOGADA Fluminense Football Club | Laurindo Nogueira x Estácio Espingarda line=4 duel=67.95 corte=-1.07
+[093] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=3.07 on_target=0.672 goal=0.231
+[093] FINAL Agenor Vila: fora/alvo perdido (roll=0.706)
+[094] posse=Fluminense Football Club | placar Fluminense Football Club 3 x 4 Paladino Foot-Ball Club
+[094] BUILD Fluminense Football Club vs Paladino Foot-Ball Club prob=0.512 roll=0.428
+[094] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Ladislau Lancelot line=4 duel=62.16 corte=-1.07
+[094] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=3.75 on_target=0.672 goal=0.231
+[094] FINAL Agenor Vila: fora/alvo perdido (roll=0.778)

@@ -1,0 +1,328 @@
+Partida #203
+Data: 1912-01-20
+Mandante: Cattete Football Club
+Visitante: Argentino Football Club
+Placar: 0 x 2
+Seed: -
+Estádio: Arena do Cattete
+Clima: Ensolarado
+Placar tempo normal: 0 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Cattete Football Club x Argentino Football Club | estádio=Arena do Cattete | clima=Ensolarado | seed=- | perfil=caotico | pressão=Normal · peso 9/10
+[001] posse=Argentino Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[001] BUILD Argentino Football Club vs Cattete Football Club prob=0.367 roll=0.803
+[002] posse=Cattete Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[002] BUILD Cattete Football Club vs Argentino Football Club prob=0.385 roll=0.825
+[003] posse=Argentino Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[003] BUILD Argentino Football Club vs Cattete Football Club prob=0.367 roll=0.826
+[004] posse=Cattete Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[004] BUILD Cattete Football Club vs Argentino Football Club prob=0.385 roll=0.310
+[004] JOGADA Cattete Football Club | Crixás Lima x Eriberto Reyes line=3 duel=0.59 corte=-1.70
+[004] FINAL Cattete Football Club | Crixás Lima fam=5 duel=0.09 on_target=0.658 goal=0.182
+[004] FINAL Crixás Lima: fora/alvo perdido (roll=0.811)
+[005] posse=Argentino Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[005] BUILD Argentino Football Club vs Cattete Football Club prob=0.367 roll=0.352
+[005] JOGADA Argentino Football Club | Florentino Berdardinelli x Jetro Seixas line=3 duel=15.48 corte=-1.11
+[005] JOGADA Argentino Football Club | Abira Leão x Teodemiro Leão line=4 duel=3.18 corte=-1.11
+[005] FINAL Argentino Football Club | Anisauá Peralta fam=1 duel=7.27 on_target=0.764 goal=0.288
+[005] FINAL Anisauá Peralta: no alvo sem gol (roll=0.605)
+[006] posse=Argentino Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[006] BUILD Argentino Football Club vs Cattete Football Club prob=0.367 roll=0.468
+[007] posse=Argentino Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[007] BUILD Argentino Football Club vs Cattete Football Club prob=0.367 roll=0.513
+[008] posse=Argentino Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[008] BUILD Argentino Football Club vs Cattete Football Club prob=0.367 roll=0.538
+[009] posse=Argentino Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[009] BUILD Argentino Football Club vs Cattete Football Club prob=0.367 roll=0.670
+[010] posse=Cattete Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[010] BUILD Cattete Football Club vs Argentino Football Club prob=0.385 roll=0.588
+[011] posse=Cattete Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[011] BUILD Cattete Football Club vs Argentino Football Club prob=0.416 roll=0.760
+[012] posse=Argentino Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[012] BUILD Argentino Football Club vs Cattete Football Club prob=0.396 roll=0.695
+[013] posse=Argentino Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[013] BUILD Argentino Football Club vs Cattete Football Club prob=0.396 roll=0.811
+[014] posse=Argentino Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[014] BUILD Argentino Football Club vs Cattete Football Club prob=0.396 roll=0.585
+[015] posse=Cattete Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[015] BUILD Cattete Football Club vs Argentino Football Club prob=0.416 roll=0.666
+[016] posse=Cattete Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[016] BUILD Cattete Football Club vs Argentino Football Club prob=0.416 roll=0.872
+[017] posse=Argentino Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[017] BUILD Argentino Football Club vs Cattete Football Club prob=0.396 roll=0.642
+[018] posse=Cattete Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[018] BUILD Cattete Football Club vs Argentino Football Club prob=0.416 roll=0.449
+[019] posse=Cattete Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[019] BUILD Cattete Football Club vs Argentino Football Club prob=0.416 roll=0.252
+[019] JOGADA Cattete Football Club | Teodemiro Leão x Eriberto Reyes line=3 duel=40.11 corte=-1.70
+[019] FINAL Cattete Football Club | Héber Galvão fam=5 duel=-1.07 on_target=0.719 goal=0.197
+[019] FINAL Héber Galvão: no alvo sem gol (roll=0.234)
+[020] posse=Argentino Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[020] BUILD Argentino Football Club vs Cattete Football Club prob=0.396 roll=0.872
+[021] posse=Cattete Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[021] BUILD Cattete Football Club vs Argentino Football Club prob=0.448 roll=0.754
+[022] posse=Argentino Football Club | placar Cattete Football Club 0 x 0 Argentino Football Club
+[022] BUILD Argentino Football Club vs Cattete Football Club prob=0.426 roll=0.421
+[022] JOGADA Argentino Football Club | Anisauá Peralta x Teodemiro Leão line=3 duel=20.30 corte=-1.11
+[022] JOGADA Argentino Football Club | Eriberto Reyes x Héber Galvão line=4 duel=42.98 corte=-1.11
+[022] JOGADA Argentino Football Club | Tamandaré Maldonado x Héber Galvão line=5 duel=107.47 corte=-1.36
+[022] FINAL Argentino Football Club | Anisauá Peralta fam=1 duel=1.83 on_target=0.868 goal=0.314
+[022] FINAL Anisauá Peralta: GOL subtipo=CHUTE (roll=0.170)
+[023] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[023] BUILD Cattete Football Club vs Argentino Football Club prob=0.503 roll=0.272
+[023] JOGADA Cattete Football Club | Héber Galvão x Tamandaré Maldonado line=3 duel=8.14 corte=-1.70
+[023] FINAL Cattete Football Club | Cananéia Padilha fam=5 duel=-16.47 on_target=0.756 goal=0.197
+[023] FINAL Cananéia Padilha: no alvo sem gol (roll=0.392)
+[024] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[024] BUILD Cattete Football Club vs Argentino Football Club prob=0.503 roll=0.517
+[025] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[025] BUILD Cattete Football Club vs Argentino Football Club prob=0.503 roll=0.701
+[026] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[026] BUILD Argentino Football Club vs Cattete Football Club prob=0.426 roll=0.211
+[026] JOGADA Argentino Football Club | Amani Pádua x Héber Galvão line=3 duel=39.32 corte=-1.30
+[026] JOGADA Argentino Football Club | Amani Pádua x Edmar Portela line=4 duel=-22.01 corte=-1.30
+[026] FINAL Argentino Football Club | Amani Pádua fam=5 duel=-19.65 on_target=0.728 goal=0.168
+[026] FINAL Amani Pádua: no alvo sem gol (roll=0.325)
+[027] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[027] BUILD Cattete Football Club vs Argentino Football Club prob=0.503 roll=0.100
+[027] JOGADA Cattete Football Club | Héber Galvão x Heliodoro Catão line=4 duel=14.65 corte=-1.70
+[027] JOGADA Cattete Football Club | Teodemiro Leão x Márcio de Lima line=4 duel=-8.11 corte=-1.70
+[028] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[028] BUILD Argentino Football Club vs Cattete Football Club prob=0.426 roll=0.794
+[029] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[029] BUILD Cattete Football Club vs Argentino Football Club prob=0.503 roll=0.158
+[029] JOGADA Cattete Football Club | Edmar Portela x Tamandaré Maldonado line=3 duel=96.30 corte=-1.70
+[029] FINAL Cattete Football Club | Héber Galvão fam=5 duel=0.06 on_target=0.759 goal=0.207
+[029] FINAL Héber Galvão: no alvo sem gol (roll=0.403)
+[030] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[030] BUILD Cattete Football Club vs Argentino Football Club prob=0.503 roll=0.458
+[030] JOGADA Cattete Football Club | Guatambu Magalhães x Tamandaré Maldonado line=4 duel=-8.65 corte=-1.70
+[030] JOGADA falhou: Tamandaré Maldonado cortou
+[031] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[031] BUILD Argentino Football Club vs Cattete Football Club prob=0.426 roll=0.552
+[032] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[032] BUILD Cattete Football Club vs Argentino Football Club prob=0.503 roll=0.494
+[032] JOGADA Cattete Football Club | Ubiraci Schneider x Márcio de Lima line=4 duel=-19.94 corte=-1.70
+[032] JOGADA falhou: Márcio de Lima cortou
+[033] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[033] BUILD Argentino Football Club vs Cattete Football Club prob=0.426 roll=0.405
+[033] JOGADA Argentino Football Club | Heliodoro Catão x Ubiraci Schneider line=3 duel=44.44 corte=-1.30
+[033] JOGADA Argentino Football Club | Abira Leão x Jetro Seixas line=4 duel=-73.50 corte=-1.30
+[033] JOGADA falhou: Jetro Seixas cortou
+[034] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[034] BUILD Argentino Football Club vs Cattete Football Club prob=0.426 roll=0.352
+[034] JOGADA Argentino Football Club | Márcio de Lima x Cândido Baptista line=4 duel=2.55 corte=-1.30
+[034] FINAL Argentino Football Club | Heliodoro Catão fam=1 duel=10.70 on_target=0.867 goal=0.319
+[034] FINAL Heliodoro Catão: no alvo sem gol (roll=0.861)
+[035] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[035] BUILD Cattete Football Club vs Argentino Football Club prob=0.503 roll=0.720
+[036] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[036] BUILD Cattete Football Club vs Argentino Football Club prob=0.503 roll=0.170
+[036] JOGADA Cattete Football Club | Héber Galvão x Tamandaré Maldonado line=4 duel=-3.64 corte=-1.70
+[036] JOGADA falhou: Tamandaré Maldonado cortou
+[037] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[037] BUILD Argentino Football Club vs Cattete Football Club prob=0.426 roll=0.970
+[038] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[038] BUILD Argentino Football Club vs Cattete Football Club prob=0.426 roll=0.728
+[039] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[039] BUILD Cattete Football Club vs Argentino Football Club prob=0.503 roll=0.462
+[039] JOGADA Cattete Football Club | Héber Galvão x Amani Pádua line=4 duel=-14.16 corte=-1.70
+[039] JOGADA falhou: Amani Pádua cortou
+[040] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[040] BUILD Cattete Football Club vs Argentino Football Club prob=0.503 roll=0.033
+[040] JOGADA Cattete Football Club | Ubiraci Schneider x Eriberto Reyes line=2 duel=50.93 corte=-1.70
+[040] FINAL Cattete Football Club | Héber Galvão fam=5 duel=-53.40 on_target=0.755 goal=0.175
+[040] FINAL Héber Galvão: no alvo sem gol (roll=0.301)
+[041] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[041] BUILD Argentino Football Club vs Cattete Football Club prob=0.426 roll=0.045
+[041] JOGADA Argentino Football Club | Heliodoro Catão x Guatambu Magalhães line=3 duel=-10.35 corte=-1.30
+[041] JOGADA falhou: Guatambu Magalhães cortou
+[042] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[042] BUILD Cattete Football Club vs Argentino Football Club prob=0.503 roll=0.858
+[043] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[043] BUILD Argentino Football Club vs Cattete Football Club prob=0.426 roll=0.513
+[044] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[044] BUILD Argentino Football Club vs Cattete Football Club prob=0.426 roll=0.992
+[045] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[045] BUILD Cattete Football Club vs Argentino Football Club prob=0.503 roll=0.225
+[045] JOGADA Cattete Football Club | Cândido Baptista x Tamandaré Maldonado line=4 duel=-0.26 corte=-1.70
+[045] JOGADA Cattete Football Club | Cândido Baptista x Márcio de Lima line=4 duel=-9.84 corte=-1.70
+[045] JOGADA falhou: Márcio de Lima cortou
+[046] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[046] BUILD Cattete Football Club vs Argentino Football Club prob=0.468 roll=0.924
+[047] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[047] BUILD Cattete Football Club vs Argentino Football Club prob=0.468 roll=0.105
+[047] JOGADA Cattete Football Club | Crixás Lima x Ariello line=2 duel=3.45 corte=-1.70
+[047] FINAL Cattete Football Club | Héber Galvão fam=1 duel=5.44 on_target=0.827 goal=0.315
+[047] FINAL Héber Galvão: no alvo sem gol (roll=0.982)
+[048] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[048] BUILD Argentino Football Club vs Cattete Football Club prob=0.396 roll=0.310
+[048] JOGADA Argentino Football Club | Abaçaí Azevedo x Jetro Seixas line=3 duel=-15.26 corte=-1.30
+[048] JOGADA falhou: Jetro Seixas cortou
+[049] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[049] BUILD Cattete Football Club vs Argentino Football Club prob=0.468 roll=0.688
+[050] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[050] BUILD Cattete Football Club vs Argentino Football Club prob=0.468 roll=0.555
+[051] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[051] BUILD Argentino Football Club vs Cattete Football Club prob=0.396 roll=0.339
+[051] JOGADA Argentino Football Club | Anisauá Peralta x Teodemiro Leão line=3 duel=20.53 corte=-1.30
+[051] JOGADA Argentino Football Club | Tamandaré Maldonado x Héber Galvão line=5 duel=37.30 corte=-1.55
+[051] JOGADA Argentino Football Club | Ariello x Héber Galvão line=5 duel=83.53 corte=-1.55
+[051] FINAL Argentino Football Club | Heliodoro Catão fam=1 duel=11.28 on_target=0.824 goal=0.309
+[051] FINAL Heliodoro Catão: no alvo sem gol (roll=0.827)
+[052] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[052] SUB Cattete Football Club: saiu Teodemiro Leão (MC) | entrou Emanuel Robledo (VOL) | subs=1/5
+[052] BUILD Argentino Football Club vs Cattete Football Club prob=0.396 roll=0.873
+[053] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[053] BUILD Cattete Football Club vs Argentino Football Club prob=0.472 roll=0.594
+[054] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[054] BUILD Argentino Football Club vs Cattete Football Club prob=0.396 roll=0.223
+[054] JOGADA Argentino Football Club | Márcio de Lima x Emanuel Robledo line=4 duel=-39.84 corte=-1.30
+[054] FINAL Argentino Football Club | Márcio de Lima fam=5 duel=-54.11 on_target=0.693 goal=0.145
+[054] FINAL Márcio de Lima: no alvo sem gol (roll=0.373)
+[055] posse=Cattete Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[055] SUB Cattete Football Club: saiu Ubiraci Schneider (MC) | entrou Xanxerê Alcoforado (VOL) | subs=2/5
+[055] BUILD Cattete Football Club vs Argentino Football Club prob=0.476 roll=0.205
+[055] JOGADA Cattete Football Club | Cananéia Padilha x Ariello line=4 duel=-38.57 corte=-1.70
+[055] JOGADA falhou: Ariello cortou
+[056] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[056] SUB Cattete Football Club: saiu Crixás Lima (SA) | entrou Alão Schultz (PE) | subs=3/5
+[056] BUILD Argentino Football Club vs Cattete Football Club prob=0.480 roll=0.364
+[056] JOGADA Argentino Football Club | Amani Pádua x Guatambu Magalhães line=2 duel=65.54 corte=-1.30
+[056] JOGADA Argentino Football Club | Eriberto Reyes x Cananéia Padilha line=4 duel=20.18 corte=-1.30
+[056] FINAL Argentino Football Club | Anisauá Peralta fam=5 duel=13.33 on_target=0.753 goal=0.209
+[056] FINAL Anisauá Peralta: fora/alvo perdido (roll=0.952)
+[057] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[057] BUILD Argentino Football Club vs Cattete Football Club prob=0.480 roll=0.058
+[057] JOGADA Argentino Football Club | Anisauá Peralta x Alão Schultz line=4 duel=13.32 corte=-1.30
+[057] FINAL Argentino Football Club | Heliodoro Catão fam=5 duel=-39.51 on_target=0.748 goal=0.177
+[057] FINAL Heliodoro Catão: no alvo sem gol (roll=0.349)
+[058] posse=Argentino Football Club | placar Cattete Football Club 0 x 1 Argentino Football Club
+[058] BUILD Argentino Football Club vs Cattete Football Club prob=0.480 roll=0.448
+[058] JOGADA Argentino Football Club | Tamandaré Maldonado x Cananéia Padilha line=3 duel=31.94 corte=-1.30
+[058] FINAL Argentino Football Club | Heliodoro Catão fam=5 duel=-38.93 on_target=0.748 goal=0.177
+[058] FINAL Heliodoro Catão: GOL subtipo=FALTA (roll=0.027)
+[059] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[059] SUB Cattete Football Club: saiu Acácio Casagrande (ZAG) | entrou Eudes Manhães (ZAG) | subs=4/5
+[059] SUB Argentino Football Club: saiu Anisauá Peralta (SA) | entrou Enoch Magia (PE) | subs=1/5
+[059] BUILD Cattete Football Club vs Argentino Football Club prob=0.450 roll=0.334
+[059] JOGADA Cattete Football Club | Alão Schultz x Amani Pádua line=4 duel=33.92 corte=-1.12
+[059] JOGADA Cattete Football Club | Eudes Manhães x Abira Leão line=4 duel=2.94 corte=-1.12
+[059] JOGADA Cattete Football Club | Emanuel Robledo x Eriberto Reyes line=5 duel=81.04 corte=-1.37
+[059] FINAL Cattete Football Club | Cananéia Padilha fam=1 duel=-9.34 on_target=0.867 goal=0.305
+[059] FINAL Cananéia Padilha: no alvo sem gol (roll=0.612)
+[060] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[060] SUB Cattete Football Club: saiu Cananéia Padilha (ME) | entrou Jandir Minas (ME) | subs=5/5
+[060] BUILD Cattete Football Club vs Argentino Football Club prob=0.519 roll=0.671
+[061] posse=Argentino Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[061] BUILD Argentino Football Club vs Cattete Football Club prob=0.419 roll=0.088
+[061] JOGADA Argentino Football Club | Eriberto Reyes x Edmar Portela line=2 duel=-8.55 corte=-1.30
+[062] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[062] SUB Argentino Football Club: saiu Abira Leão (ZAG) | entrou Regino Escobar (ZAG) | subs=2/5
+[062] BUILD Cattete Football Club vs Argentino Football Club prob=0.520 roll=0.945
+[063] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[063] SUB Argentino Football Club: saiu Ariello (MC) | entrou Quimbaya Torreno (VOL) | subs=3/5
+[063] BUILD Cattete Football Club vs Argentino Football Club prob=0.521 roll=0.689
+[064] posse=Argentino Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[064] SUB Argentino Football Club: saiu Márcio de Lima (ZAG) | entrou Filinto Quinteiro (ZAG) | subs=4/5
+[064] BUILD Argentino Football Club vs Cattete Football Club prob=0.475 roll=0.570
+[065] posse=Argentino Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[065] SUB Argentino Football Club: saiu Heliodoro Catão (PD) | entrou Coari Ladeira (PD) | subs=5/5
+[065] BUILD Argentino Football Club vs Cattete Football Club prob=0.450 roll=0.626
+[066] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[066] BUILD Cattete Football Club vs Argentino Football Club prob=0.457 roll=0.574
+[067] posse=Argentino Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[067] BUILD Argentino Football Club vs Cattete Football Club prob=0.450 roll=0.457
+[068] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[068] BUILD Cattete Football Club vs Argentino Football Club prob=0.457 roll=0.189
+[068] JOGADA Cattete Football Club | Jandir Minas x Enoch Magia line=2 duel=113.74 corte=-1.10
+[068] FINAL Cattete Football Club | Alão Schultz fam=3 duel=10.25 on_target=0.786 goal=0.244
+[068] FINAL Alão Schultz: no alvo sem gol (roll=0.411)
+[069] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[069] BUILD Cattete Football Club vs Argentino Football Club prob=0.457 roll=0.920
+[070] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[070] BUILD Cattete Football Club vs Argentino Football Club prob=0.457 roll=0.824
+[071] posse=Argentino Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[071] BUILD Argentino Football Club vs Cattete Football Club prob=0.453 roll=0.589
+[072] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[072] BUILD Cattete Football Club vs Argentino Football Club prob=0.457 roll=0.532
+[073] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[073] BUILD Cattete Football Club vs Argentino Football Club prob=0.457 roll=0.348
+[073] JOGADA Cattete Football Club | Xanxerê Alcoforado x Regino Escobar line=3 duel=25.44 corte=-1.06
+[073] FINAL Cattete Football Club | Alão Schultz fam=1 duel=21.57 on_target=0.867 goal=0.323
+[073] FINAL Alão Schultz: no alvo sem gol (roll=0.420)
+[074] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[074] BUILD Cattete Football Club vs Argentino Football Club prob=0.457 roll=0.634
+[075] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[075] BUILD Cattete Football Club vs Argentino Football Club prob=0.457 roll=0.811
+[076] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[076] BUILD Cattete Football Club vs Argentino Football Club prob=0.493 roll=0.996
+[077] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[077] BUILD Cattete Football Club vs Argentino Football Club prob=0.493 roll=0.759
+[078] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[078] BUILD Cattete Football Club vs Argentino Football Club prob=0.493 roll=0.471
+[078] JOGADA Cattete Football Club | Guatambu Magalhães x Filinto Quinteiro line=3 duel=-17.31 corte=-1.06
+[078] JOGADA falhou: Filinto Quinteiro cortou
+[079] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[079] BUILD Cattete Football Club vs Argentino Football Club prob=0.493 roll=0.347
+[079] JOGADA Cattete Football Club | Cândido Baptista x Florentino Berdardinelli line=3 duel=43.84 corte=-1.06
+[079] FINAL Cattete Football Club | Héber Galvão fam=3 duel=-6.15 on_target=0.844 goal=0.248
+[079] FINAL Héber Galvão: no alvo sem gol (roll=0.265)
+[080] posse=Argentino Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[080] BUILD Argentino Football Club vs Cattete Football Club prob=0.440 roll=0.359
+[080] JOGADA Argentino Football Club | Abaçaí Azevedo x Cândido Baptista line=3 duel=16.38 corte=-1.30
+[080] JOGADA Argentino Football Club | Eriberto Reyes x Jetro Seixas line=4 duel=-9.19 corte=-1.30
+[080] JOGADA falhou: Jetro Seixas cortou
+[081] posse=Argentino Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[081] BUILD Argentino Football Club vs Cattete Football Club prob=0.440 roll=0.674
+[082] posse=Argentino Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[082] BUILD Argentino Football Club vs Cattete Football Club prob=0.440 roll=0.066
+[082] JOGADA Argentino Football Club | Coari Ladeira x Jetro Seixas line=3 duel=5.53 corte=-1.30
+[082] JOGADA Argentino Football Club | Filinto Quinteiro x Guatambu Magalhães line=5 duel=65.93 corte=-1.55
+[082] FINAL Argentino Football Club | Eriberto Reyes fam=5 duel=-15.66 on_target=0.711 goal=0.191
+[082] FINAL Eriberto Reyes: no alvo sem gol (roll=0.839)
+[083] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[083] BUILD Cattete Football Club vs Argentino Football Club prob=0.493 roll=0.718
+[084] posse=Argentino Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[084] BUILD Argentino Football Club vs Cattete Football Club prob=0.440 roll=0.734
+[085] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[085] BUILD Cattete Football Club vs Argentino Football Club prob=0.580 roll=0.319
+[085] JOGADA Cattete Football Club | Cândido Baptista x Regino Escobar line=3 duel=11.84 corte=-1.06
+[085] FINAL Cattete Football Club | Cândido Baptista fam=3 duel=-15.96 on_target=0.920 goal=0.248
+[085] FINAL Cândido Baptista: no alvo sem gol (roll=0.780)
+[086] posse=Argentino Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[086] BUILD Argentino Football Club vs Cattete Football Club prob=0.440 roll=0.748
+[087] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[087] BUILD Cattete Football Club vs Argentino Football Club prob=0.580 roll=0.448
+[087] JOGADA Cattete Football Club | Emanuel Robledo x Abaçaí Azevedo line=4 duel=-68.18 corte=-1.06
+[087] JOGADA falhou: Abaçaí Azevedo cortou
+[088] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[088] BUILD Cattete Football Club vs Argentino Football Club prob=0.580 roll=0.180
+[088] JOGADA Cattete Football Club | Xanxerê Alcoforado x Tamandaré Maldonado line=3 duel=15.03 corte=-1.06
+[088] FINAL Cattete Football Club | Emanuel Robledo fam=1 duel=3.28 on_target=0.920 goal=0.344
+[088] FINAL Emanuel Robledo: no alvo sem gol (roll=0.469)
+[089] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[089] BUILD Cattete Football Club vs Argentino Football Club prob=0.580 roll=0.811
+[090] posse=Argentino Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[090] BUILD Argentino Football Club vs Cattete Football Club prob=0.440 roll=0.435
+[090] JOGADA Argentino Football Club | Amani Pádua x Eudes Manhães line=2 duel=-13.72 corte=-1.30
+[090] JOGADA falhou: Eudes Manhães cortou
+[091] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[091] BUILD Cattete Football Club vs Argentino Football Club prob=0.580 roll=0.693
+[092] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[092] BUILD Cattete Football Club vs Argentino Football Club prob=0.580 roll=0.012
+[092] JOGADA Cattete Football Club | Héber Galvão x Eriberto Reyes line=4 duel=-9.51 corte=-1.06
+[093] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[093] BUILD Cattete Football Club vs Argentino Football Club prob=0.580 roll=0.861
+[094] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[094] BUILD Cattete Football Club vs Argentino Football Club prob=0.580 roll=0.922
+[095] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[095] BUILD Cattete Football Club vs Argentino Football Club prob=0.580 roll=0.020
+[095] JOGADA Cattete Football Club | Jandir Minas x Abaçaí Azevedo line=2 duel=-4.66 corte=-1.06
+[095] JOGADA falhou: Abaçaí Azevedo cortou
+[096] posse=Cattete Football Club | placar Cattete Football Club 0 x 2 Argentino Football Club
+[096] BUILD Cattete Football Club vs Argentino Football Club prob=0.580 roll=0.756

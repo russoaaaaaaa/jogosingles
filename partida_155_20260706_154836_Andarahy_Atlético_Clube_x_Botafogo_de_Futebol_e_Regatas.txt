@@ -1,0 +1,336 @@
+Partida #155
+Data: 1912-01-14
+Mandante: Andarahy Atlético Clube
+Visitante: Botafogo de Futebol e Regatas
+Placar: 0 x 1
+Seed: -
+Estádio: Arena Andarahy
+Clima: Chuva leve
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Andarahy Atlético Clube x Botafogo de Futebol e Regatas | estádio=Arena Andarahy | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[001] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.383 roll=0.740
+[002] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[002] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.383 roll=0.968
+[003] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[003] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.383 roll=0.649
+[004] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[004] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.355 roll=0.387
+[005] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[005] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.355 roll=0.689
+[006] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[006] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.355 roll=0.220
+[006] JOGADA Andarahy Atlético Clube | Juan Ferraresi x Marco Medeiros line=3 duel=-4.09 corte=-1.70
+[006] JOGADA falhou: Marco Medeiros cortou
+[007] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[007] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.383 roll=0.190
+[007] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Erasmo do Carmo line=3 duel=86.56 corte=-1.10
+[007] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Cláudio Maciel Fonseca line=4 duel=-25.57 corte=-1.10
+[007] JOGADA falhou: Cláudio Maciel Fonseca cortou
+[008] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[008] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.383 roll=0.868
+[009] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[009] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.355 roll=0.350
+[009] JOGADA Andarahy Atlético Clube | Ptolomeu Garcia x Alisson Caiçara line=3 duel=36.58 corte=-1.70
+[009] FINAL Andarahy Atlético Clube | Vizeu Júnior fam=5 duel=-6.87 on_target=0.520 goal=0.142
+[009] FINAL Vizeu Júnior: fora/alvo perdido (roll=0.595)
+[010] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[010] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.355 roll=0.789
+[011] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[011] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.414 roll=0.877
+[012] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[012] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.384 roll=0.220
+[012] JOGADA Andarahy Atlético Clube | Vizeu Júnior x Rúben Águas line=4 duel=25.85 corte=-1.70
+[012] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=-72.23 on_target=0.563 goal=0.124
+[012] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.863)
+[013] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[013] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.414 roll=0.691
+[014] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[014] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.414 roll=0.777
+[015] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[015] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.384 roll=0.617
+[016] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[016] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.384 roll=0.202
+[016] JOGADA Andarahy Atlético Clube | Vevé x Geraldo Pascoal line=5 duel=53.99 corte=-2.45
+[016] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=-69.92 on_target=0.563 goal=0.125
+[016] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.976)
+[017] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[017] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.414 roll=0.206
+[017] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Heitor Barbosa line=3 duel=24.01 corte=-1.10
+[017] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x Cláudio Maciel Fonseca line=5 duel=9.37 corte=-1.85
+[017] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x Heitor Barbosa line=5 duel=18.41 corte=-1.85
+[017] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=14.82 on_target=0.658 goal=0.245
+[017] FINAL Tadeuzinho: fora/alvo perdido (roll=0.833)
+[018] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[018] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.414 roll=0.153
+[018] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Maurílio Barros line=3 duel=13.56 corte=-1.10
+[018] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Vizeu Júnior line=4 duel=51.70 corte=-1.10
+[018] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Vizeu Júnior line=5 duel=48.77 corte=-1.85
+[018] FINAL Botafogo de Futebol e Regatas | João Sanches fam=1 duel=-5.66 on_target=0.648 goal=0.232
+[018] FINAL João Sanches: no alvo sem gol (roll=0.567)
+[019] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[019] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.384 roll=0.875
+[020] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[020] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.384 roll=0.181
+[020] JOGADA Andarahy Atlético Clube | Osvaldo Daimi x Fernando Hamada line=4 duel=-5.27 corte=-1.70
+[021] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[021] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.445 roll=0.467
+[022] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[022] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.413 roll=0.810
+[023] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[023] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.413 roll=0.441
+[024] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[024] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.445 roll=0.672
+[025] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 0 Botafogo de Futebol e Regatas
+[025] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.445 roll=0.097
+[025] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Erasmo do Carmo line=3 duel=20.55 corte=-1.10
+[025] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x Sandro Delchiaro line=4 duel=6.86 corte=-1.10
+[025] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Maurílio Barros line=5 duel=23.62 corte=-1.35
+[025] FINAL Botafogo de Futebol e Regatas | Fernando Hamada fam=1 duel=3.37 on_target=0.692 goal=0.248
+[025] FINAL Fernando Hamada: GOL subtipo=CHUTE (roll=0.206)
+[026] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[026] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.497 roll=0.655
+[027] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[027] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.497 roll=0.791
+[028] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[028] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.497 roll=0.549
+[029] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[029] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.445 roll=0.573
+[030] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[030] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.497 roll=0.682
+[031] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[031] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.497 roll=0.068
+[031] JOGADA Andarahy Atlético Clube | Maurílio Barros x Aloísio Coelho line=4 duel=-1.78 corte=-1.70
+[031] JOGADA falhou: Aloísio Coelho cortou
+[032] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[032] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.497 roll=0.311
+[032] JOGADA Andarahy Atlético Clube | Maurílio Barros x Lucimar Garavelo line=5 duel=-7.23 corte=-1.95
+[032] JOGADA falhou: Lucimar Garavelo cortou
+[033] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[033] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.497 roll=0.982
+[034] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[034] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.445 roll=0.678
+[035] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[035] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.497 roll=0.858
+[036] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[036] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.445 roll=0.086
+[036] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Sandro Delchiaro line=4 duel=-2.58 corte=-1.30
+[037] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[037] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.497 roll=0.354
+[037] JOGADA Andarahy Atlético Clube | Juan Ferraresi x Lucimar Garavelo line=4 duel=-29.45 corte=-1.70
+[037] JOGADA falhou: Lucimar Garavelo cortou
+[038] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[038] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.497 roll=0.570
+[039] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[039] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.445 roll=0.377
+[039] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Maurílio Barros line=3 duel=4.63 corte=-1.30
+[039] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Erasmo do Carmo line=4 duel=-7.07 corte=-1.30
+[040] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[040] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.497 roll=0.729
+[041] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[041] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.445 roll=0.353
+[041] JOGADA Botafogo de Futebol e Regatas | João Sanches x Sandro Delchiaro line=3 duel=-2.64 corte=-1.30
+[041] JOGADA falhou: Sandro Delchiaro cortou
+[042] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[042] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.497 roll=0.964
+[043] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[043] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.445 roll=0.485
+[044] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[044] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.445 roll=0.889
+[045] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[045] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.445 roll=0.989
+[046] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[046] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.462 roll=0.149
+[046] JOGADA Andarahy Atlético Clube | Juan Ferraresi x Tadeuzinho line=3 duel=17.17 corte=-1.70
+[046] FINAL Andarahy Atlético Clube | Vevé fam=5 duel=-9.01 on_target=0.564 goal=0.153
+[046] FINAL Vevé: fora/alvo perdido (roll=0.718)
+[047] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[047] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.462 roll=0.017
+[047] JOGADA Andarahy Atlético Clube | Vevé x Alisson Caiçara line=4 duel=14.06 corte=-1.70
+[047] FINAL Andarahy Atlético Clube | Maurílio Barros fam=5 duel=1.93 on_target=0.562 goal=0.157
+[047] FINAL Maurílio Barros: fora/alvo perdido (roll=0.601)
+[048] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[048] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.462 roll=0.970
+[049] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[049] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.462 roll=0.200
+[049] JOGADA Andarahy Atlético Clube | Erasmo do Carmo x Aloísio Coelho line=4 duel=-4.45 corte=-1.70
+[049] JOGADA falhou: Aloísio Coelho cortou
+[050] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[050] SUB Andarahy Atlético Clube: saiu Vevé (MA) | entrou Roberto Paiva Gomes (MC) | subs=1/5
+[050] SUB Botafogo de Futebol e Regatas: saiu João Sanches (SA) | entrou Severino Desempregado (MA) | subs=1/5
+[050] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.418 roll=0.736
+[051] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[051] SUB Andarahy Atlético Clube: saiu Vizeu Júnior (CA) | entrou Augusto Ventura (CA) | subs=2/5
+[051] SUB Botafogo de Futebol e Regatas: saiu Rúben Águas (SA) | entrou Escudo Calábrio Defensor (SA) | subs=2/5
+[051] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.386 roll=0.826
+[052] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[052] SUB Andarahy Atlético Clube: saiu Juan Ferraresi (LE) | entrou Fabiano Maldonado (LE) | subs=3/5
+[052] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.443 roll=0.534
+[053] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[053] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.392 roll=0.443
+[054] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[054] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.392 roll=0.655
+[055] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[055] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.443 roll=0.345
+[055] JOGADA Andarahy Atlético Clube | Sandro Delchiaro x Geraldo Pascoal line=4 duel=-23.39 corte=-1.70
+[055] JOGADA falhou: Geraldo Pascoal cortou
+[056] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[056] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.477 roll=0.852
+[057] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[057] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.477 roll=0.761
+[058] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[058] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.477 roll=0.797
+[059] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[059] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.477 roll=0.048
+[059] JOGADA Andarahy Atlético Clube | Augusto Ventura x Aloísio Coelho line=5 duel=1.92 corte=-2.45
+[059] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=13.41 on_target=0.600 goal=0.169
+[059] FINAL Ptolomeu Garcia: no alvo sem gol (roll=0.807)
+[060] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[060] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.421 roll=0.673
+[061] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[061] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.421 roll=0.063
+[061] JOGADA Botafogo de Futebol e Regatas | Escudo Calábrio Defensor x Erasmo do Carmo line=4 duel=29.40 corte=-1.30
+[061] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Fabiano Maldonado line=5 duel=65.83 corte=-1.55
+[061] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Maurílio Barros line=5 duel=40.78 corte=-2.05
+[061] FINAL Botafogo de Futebol e Regatas | Escudo Calábrio Defensor fam=1 duel=19.20 on_target=0.683 goal=0.250
+[061] FINAL Escudo Calábrio Defensor: fora/alvo perdido (roll=0.867)
+[062] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[062] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.421 roll=0.596
+[063] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[063] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.480 roll=0.238
+[063] JOGADA Andarahy Atlético Clube | Augusto Ventura x Alisson Caiçara line=5 duel=25.45 corte=-2.45
+[063] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=-42.09 on_target=0.597 goal=0.145
+[063] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.979)
+[064] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[064] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.421 roll=0.059
+[064] JOGADA Botafogo de Futebol e Regatas | César Delgado x Augusto Ventura line=3 duel=-1.34 corte=-1.30
+[065] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[065] SUB Botafogo de Futebol e Regatas: saiu Marco Medeiros (MC) | entrou Jessé Soares (VOL) | subs=3/5
+[065] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.424 roll=0.755
+[066] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[066] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.424 roll=0.214
+[066] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Heitor Barbosa line=3 duel=28.79 corte=-1.30
+[066] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Osvaldo Daimi line=4 duel=-11.32 corte=-1.30
+[067] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[067] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.479 roll=0.969
+[068] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[068] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.479 roll=0.966
+[069] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[069] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.479 roll=0.801
+[070] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[070] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.419 roll=0.025
+[070] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Sandro Delchiaro line=3 duel=39.72 corte=-1.30
+[070] JOGADA Botafogo de Futebol e Regatas | Jessé Soares x Cláudio Maciel Fonseca line=4 duel=31.93 corte=-1.30
+[070] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Heitor Barbosa line=5 duel=28.55 corte=-2.05
+[070] FINAL Botafogo de Futebol e Regatas | Fernando Hamada fam=1 duel=11.41 on_target=0.680 goal=0.251
+[070] FINAL Fernando Hamada: no alvo sem gol (roll=0.305)
+[071] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[071] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.419 roll=0.039
+[071] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Fabiano Maldonado line=4 duel=-35.28 corte=-1.30
+[071] JOGADA falhou: Fabiano Maldonado cortou
+[072] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[072] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.419 roll=0.586
+[073] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[073] SUB Botafogo de Futebol e Regatas: saiu Geraldo Pascoal (ZAG) | entrou Augusto Bota Fogo no Adversário (ZAG) | subs=4/5
+[073] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.480 roll=0.992
+[074] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[074] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.419 roll=0.107
+[074] JOGADA Botafogo de Futebol e Regatas | Escudo Calábrio Defensor x Cláudio Maciel Fonseca line=4 duel=30.43 corte=-1.30
+[074] FINAL Botafogo de Futebol e Regatas | Escudo Calábrio Defensor fam=1 duel=19.95 on_target=0.670 goal=0.250
+[074] FINAL Escudo Calábrio Defensor: fora/alvo perdido (roll=0.850)
+[075] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[075] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.480 roll=0.098
+[075] JOGADA Andarahy Atlético Clube | Ptolomeu Garcia x Augusto Bota Fogo no Adversário line=5 duel=27.28 corte=-2.45
+[075] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=11.61 on_target=0.600 goal=0.170
+[075] FINAL Ptolomeu Garcia: no alvo sem gol (roll=0.758)
+[076] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[076] SUB Botafogo de Futebol e Regatas: saiu Alisson Caiçara (LE) | entrou Jurandir Guerra (LD) | subs=5/5
+[076] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.518 roll=0.133
+[076] JOGADA Andarahy Atlético Clube | Fabiano Maldonado x César Delgado line=5 duel=48.89 corte=-1.95
+[076] FINAL Andarahy Atlético Clube | Heitor Barbosa fam=5 duel=-51.69 on_target=0.629 goal=0.144
+[076] FINAL Heitor Barbosa: no alvo sem gol (roll=0.804)
+[077] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[077] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.518 roll=0.446
+[077] JOGADA Andarahy Atlético Clube | Heitor Barbosa x Jessé Soares line=3 duel=-39.27 corte=-1.70
+[077] JOGADA falhou: Jessé Soares cortou
+[078] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[078] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.518 roll=0.112
+[078] JOGADA Andarahy Atlético Clube | Sandro Delchiaro x Fernando Hamada line=4 duel=22.58 corte=-1.70
+[078] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=9.56 on_target=0.642 goal=0.177
+[078] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.677)
+[079] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[079] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.518 roll=0.515
+[079] JOGADA Andarahy Atlético Clube | Heitor Barbosa x César Delgado line=4 duel=-17.28 corte=-1.70
+[079] JOGADA falhou: César Delgado cortou
+[080] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[080] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.518 roll=0.488
+[080] JOGADA Andarahy Atlético Clube | Sandro Delchiaro x Augusto Bota Fogo no Adversário line=4 duel=-41.98 corte=-1.70
+[080] JOGADA falhou: Augusto Bota Fogo no Adversário cortou
+[081] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[081] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.518 roll=0.211
+[081] JOGADA Andarahy Atlético Clube | Osvaldo Daimi x Tadeuzinho line=4 duel=56.75 corte=-1.70
+[081] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=7.44 on_target=0.642 goal=0.176
+[081] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.978)
+[082] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[082] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.406 roll=0.544
+[083] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[083] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.406 roll=0.122
+[083] JOGADA Botafogo de Futebol e Regatas | Augusto Bota Fogo no Adversário x Ptolomeu Garcia line=3 duel=23.19 corte=-1.30
+[083] JOGADA Botafogo de Futebol e Regatas | Jessé Soares x Roberto Paiva Gomes line=4 duel=18.92 corte=-1.30
+[083] FINAL Botafogo de Futebol e Regatas | Severino Desempregado fam=1 duel=24.94 on_target=0.658 goal=0.242
+[083] FINAL Severino Desempregado: no alvo sem gol (roll=0.337)
+[084] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[084] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.406 roll=0.836
+[085] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[085] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.546 roll=0.395
+[085] JOGADA Andarahy Atlético Clube | Erasmo do Carmo x Lucimar Garavelo line=4 duel=24.59 corte=-1.70
+[085] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=-42.88 on_target=0.679 goal=0.151
+[085] FINAL Ptolomeu Garcia: no alvo sem gol (roll=0.301)
+[086] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[086] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.406 roll=0.604
+[087] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[087] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.406 roll=0.728
+[088] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[088] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.406 roll=0.292
+[088] JOGADA Botafogo de Futebol e Regatas | Augusto Bota Fogo no Adversário x Osvaldo Daimi line=3 duel=11.25 corte=-1.30
+[088] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Cláudio Maciel Fonseca line=4 duel=12.35 corte=-1.30
+[088] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Ptolomeu Garcia line=5 duel=8.87 corte=-2.05
+[088] FINAL Botafogo de Futebol e Regatas | Severino Desempregado fam=1 duel=21.05 on_target=0.657 goal=0.240
+[088] FINAL Severino Desempregado: no alvo sem gol (roll=0.774)
+[089] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[089] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.546 roll=0.469
+[089] JOGADA Andarahy Atlético Clube | Erasmo do Carmo x Fernando Hamada line=4 duel=42.43 corte=-1.70
+[089] FINAL Andarahy Atlético Clube | Roberto Paiva Gomes fam=5 duel=0.68 on_target=0.678 goal=0.170
+[089] FINAL Roberto Paiva Gomes: fora/alvo perdido (roll=0.929)
+[090] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[090] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.546 roll=0.231
+[090] JOGADA Andarahy Atlético Clube | Fabiano Maldonado x Jurandir Guerra line=5 duel=-17.42 corte=-1.95
+[090] JOGADA falhou: Jurandir Guerra cortou
+[091] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[091] BUILD Andarahy Atlético Clube vs Botafogo de Futebol e Regatas prob=0.546 roll=0.887
+[092] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[092] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.406 roll=0.807
+[093] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[093] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.406 roll=0.190
+[093] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Erasmo do Carmo line=3 duel=13.23 corte=-1.30
+[093] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Cláudio Maciel Fonseca line=4 duel=2.76 corte=-1.30
+[093] JOGADA Botafogo de Futebol e Regatas | Jurandir Guerra x Ptolomeu Garcia line=4 duel=1.14 corte=-1.30
+[093] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=7.92 on_target=0.666 goal=0.239
+[093] FINAL Tadeuzinho: no alvo sem gol (roll=0.844)
+[094] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[094] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.406 roll=0.330
+[094] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Maurílio Barros line=3 duel=-6.69 corte=-1.30
+[094] JOGADA falhou: Maurílio Barros cortou
+[095] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[095] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.406 roll=0.917
+[096] posse=Botafogo de Futebol e Regatas | placar Andarahy Atlético Clube 0 x 1 Botafogo de Futebol e Regatas
+[096] BUILD Botafogo de Futebol e Regatas vs Andarahy Atlético Clube prob=0.406 roll=0.359
+[096] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Sandro Delchiaro line=2 duel=95.12 corte=-1.30
+[096] JOGADA Botafogo de Futebol e Regatas | Jurandir Guerra x Ptolomeu Garcia line=4 duel=-1.19 corte=-1.30
+[096] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=5.89 on_target=0.666 goal=0.238
+[096] FINAL Tadeuzinho: no alvo sem gol (roll=0.770)

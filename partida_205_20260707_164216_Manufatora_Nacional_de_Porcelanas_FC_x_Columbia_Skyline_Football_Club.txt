@@ -1,0 +1,316 @@
+Partida #205
+Data: 1912-01-20
+Mandante: Manufatora Nacional de Porcelanas FC
+Visitante: Columbia Skyline Football Club
+Placar: 0 x 1
+Seed: -
+Estádio: Campo do Pilares
+Clima: Chuva leve
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Manufatora Nacional de Porcelanas FC x Columbia Skyline Football Club | estádio=Campo do Pilares | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[001] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.340 roll=0.207
+[001] JOGADA Columbia Skyline Football Club | Josh Battle x Hamilton Madureira line=3 duel=10.33 corte=-1.11
+[001] JOGADA Columbia Skyline Football Club | Big W x Betino Passos line=4 duel=-51.28 corte=-1.11
+[001] JOGADA falhou: Betino Passos cortou
+[002] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[002] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.295 roll=0.861
+[003] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[003] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.295 roll=0.302
+[004] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[004] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.295 roll=0.639
+[005] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[005] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.295 roll=0.466
+[006] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[006] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.295 roll=0.535
+[007] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[007] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.340 roll=0.512
+[008] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[008] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.295 roll=0.457
+[009] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[009] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.295 roll=0.815
+[010] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[010] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.295 roll=0.479
+[011] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[011] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.367 roll=0.835
+[012] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[012] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.367 roll=0.875
+[013] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[013] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.318 roll=0.868
+[014] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[014] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.367 roll=0.249
+[014] JOGADA Columbia Skyline Football Club | Pedrão x Firmo Machado line=3 duel=38.16 corte=-1.11
+[014] JOGADA Columbia Skyline Football Club | Awper x Marino Moreira line=4 duel=-0.04 corte=-1.11
+[014] FINAL Columbia Skyline Football Club | Willian Biden fam=3 duel=10.12 on_target=0.587 goal=0.185
+[014] FINAL Willian Biden: no alvo sem gol (roll=0.355)
+[015] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[015] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.367 roll=0.971
+[016] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[016] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.367 roll=0.843
+[017] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[017] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.367 roll=0.614
+[018] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[018] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.367 roll=0.898
+[019] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[019] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.367 roll=0.402
+[020] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[020] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.318 roll=0.749
+[021] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[021] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.342 roll=0.518
+[022] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[022] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.342 roll=0.061
+[022] JOGADA Manufatora Nacional de Porcelanas FC | Betino Passos x Jack Wynand line=3 duel=-35.73 corte=-1.70
+[022] JOGADA falhou: Jack Wynand cortou
+[023] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[023] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.342 roll=0.811
+[024] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[024] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.754
+[025] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[025] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.342 roll=0.946
+[026] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[026] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.342 roll=0.916
+[027] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[027] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.056
+[027] JOGADA Columbia Skyline Football Club | Big W x Hamilton Madureira line=3 duel=9.58 corte=-1.11
+[027] JOGADA Columbia Skyline Football Club | Ray Bonder x Hamilton Madureira line=4 duel=17.57 corte=-1.11
+[027] JOGADA Columbia Skyline Football Club | Awper x Firmo Machado line=4 duel=33.03 corte=-1.11
+[027] FINAL Columbia Skyline Football Club | Edward Gayville fam=1 duel=19.11 on_target=0.681 goal=0.250
+[027] FINAL Edward Gayville: no alvo sem gol (roll=0.715)
+[028] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[028] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.040
+[028] JOGADA Columbia Skyline Football Club | Awper x Barão Sapateiro line=3 duel=26.70 corte=-1.11
+[028] JOGADA Columbia Skyline Football Club | Quagmire x Hamilton Madureira line=4 duel=3.10 corte=-1.11
+[028] FINAL Columbia Skyline Football Club | Edward Gayville fam=1 duel=20.70 on_target=0.681 goal=0.251
+[028] FINAL Edward Gayville: fora/alvo perdido (roll=0.982)
+[029] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[029] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.218
+[029] JOGADA Columbia Skyline Football Club | Jack Wynand x Hamilton Madureira line=2 duel=30.07 corte=-1.11
+[029] JOGADA Columbia Skyline Football Club | Edward Gayville x Hamilton Madureira line=3 duel=30.09 corte=-1.11
+[029] JOGADA Columbia Skyline Football Club | Ray Bonder x Hamilton Madureira line=4 duel=-34.84 corte=-1.11
+[029] JOGADA falhou: Hamilton Madureira cortou
+[030] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[030] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.384
+[030] JOGADA Columbia Skyline Football Club | Josh Battle x Porcelano line=4 duel=-12.88 corte=-1.11
+[030] JOGADA falhou: Porcelano cortou
+[031] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[031] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.825
+[031] FINAL Columbia Skyline Football Club | Pedrão fam=5 duel=1.36 on_target=0.578 goal=0.141
+[031] FINAL Pedrão: no alvo sem gol (roll=0.924)
+[032] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[032] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.768
+[033] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[033] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.440
+[034] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[034] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.345 roll=0.657
+[035] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[035] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.127
+[035] JOGADA Columbia Skyline Football Club | Big W x Porcelano line=3 duel=-17.72 corte=-1.10
+[035] JOGADA falhou: Porcelano cortou
+[036] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[036] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.345 roll=0.147
+[036] JOGADA Manufatora Nacional de Porcelanas FC | Marino Moreira x Big W line=4 duel=-42.57 corte=-1.70
+[036] JOGADA falhou: Big W cortou
+[037] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[037] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.428
+[038] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[038] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.714
+[039] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[039] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.345 roll=0.209
+[039] JOGADA Manufatora Nacional de Porcelanas FC | Hamilton Madureira x Big W line=3 duel=-21.95 corte=-1.70
+[039] JOGADA falhou: Big W cortou
+[040] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[040] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.345 roll=0.246
+[040] JOGADA Manufatora Nacional de Porcelanas FC | Marino Moreira x Ray Bonder line=2 duel=34.94 corte=-1.70
+[040] FINAL Manufatora Nacional de Porcelanas FC | Firmo Machado fam=5 duel=-19.43 on_target=0.586 goal=0.147
+[040] FINAL Firmo Machado: no alvo sem gol (roll=0.212)
+[041] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[041] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.345 roll=0.576
+[042] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[042] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.197
+[042] JOGADA Columbia Skyline Football Club | Jack Wynand x Firmo Machado line=2 duel=117.16 corte=-1.10
+[042] JOGADA Columbia Skyline Football Club | Fruit Salad James x Betino Passos line=5 duel=97.04 corte=-1.35
+[042] JOGADA Columbia Skyline Football Club | Ray Bonder x Marino Moreira line=5 duel=93.43 corte=-1.35
+[042] FINAL Columbia Skyline Football Club | Ray Bonder fam=1 duel=20.27 on_target=0.683 goal=0.252
+[042] FINAL Ray Bonder: no alvo sem gol (roll=0.602)
+[043] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[043] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.345 roll=0.414
+[044] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[044] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.781
+[045] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[045] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.345 roll=0.190
+[045] JOGADA Manufatora Nacional de Porcelanas FC | Marino Moreira x Ray Bonder line=2 duel=33.42 corte=-1.70
+[045] FINAL Manufatora Nacional de Porcelanas FC | Manufator de Gols fam=5 duel=-4.10 on_target=0.587 goal=0.154
+[045] FINAL Manufator de Gols: no alvo sem gol (roll=0.173)
+[046] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[046] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.321 roll=0.179
+[046] JOGADA Manufatora Nacional de Porcelanas FC | Porcelano x Josh Battle line=2 duel=33.70 corte=-1.70
+[046] FINAL Manufatora Nacional de Porcelanas FC | Alamiro Morais fam=5 duel=-9.63 on_target=0.554 goal=0.145
+[046] FINAL Alamiro Morais: fora/alvo perdido (roll=0.849)
+[047] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[047] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.367 roll=0.777
+[048] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[048] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.321 roll=0.628
+[049] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[049] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.367 roll=0.482
+[050] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[050] SUB Manufatora Nacional de Porcelanas FC: saiu Firmo Machado (CA) | entrou Silvestre Texeira (CA) | subs=1/5
+[050] SUB Columbia Skyline Football Club: saiu Willian Biden (CA) | entrou Owen Barkfield (SA) | subs=1/5
+[050] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.318 roll=0.664
+[051] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[051] SUB Manufatora Nacional de Porcelanas FC: saiu Manufator de Gols (SA) | entrou Didaco Dias (MA) | subs=2/5
+[051] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.358 roll=0.430
+[052] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[052] SUB Manufatora Nacional de Porcelanas FC: saiu Râdamas Seixas (PE) | entrou Héber Álvares (PE) | subs=3/5
+[052] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.360 roll=0.287
+[052] JOGADA Columbia Skyline Football Club | Pedrão x Porcelano line=2 duel=-20.84 corte=-1.10
+[052] JOGADA falhou: Porcelano cortou
+[053] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[053] SUB Manufatora Nacional de Porcelanas FC: saiu Betino Passos (LE) | entrou Absalão de Castro (LD) | subs=4/5
+[053] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.363 roll=0.958
+[054] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[054] SUB Manufatora Nacional de Porcelanas FC: saiu Barão Sapateiro (VOL) | entrou Torquato Custódio (ZAG) | subs=5/5
+[054] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.300 roll=0.228
+[054] JOGADA Manufatora Nacional de Porcelanas FC | Marino Moreira x Fruit Salad James line=4 duel=-34.82 corte=-1.70
+[054] JOGADA falhou: Fruit Salad James cortou
+[055] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[055] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.365 roll=0.632
+[056] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[056] SUB Columbia Skyline Football Club: saiu Awper (PE) | entrou Shutz Ethan Cuckley (ME) | subs=2/5
+[056] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.392 roll=0.660
+[057] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[057] SUB Columbia Skyline Football Club: saiu Pedrão (PD) | entrou Louis Long (MD) | subs=3/5
+[057] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.323 roll=0.199
+[057] JOGADA Manufatora Nacional de Porcelanas FC | Silvestre Texeira x Big W line=4 duel=-13.93 corte=-1.70
+[057] JOGADA falhou: Big W cortou
+[058] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[058] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.366 roll=0.300
+[058] JOGADA Columbia Skyline Football Club | Shutz Ethan Cuckley x Porcelano line=4 duel=6.10 corte=-1.10
+[058] JOGADA Columbia Skyline Football Club | Josh Battle x Torquato Custódio line=5 duel=-9.06 corte=-1.35
+[058] JOGADA falhou: Torquato Custódio cortou
+[059] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[059] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.366 roll=0.063
+[059] JOGADA Columbia Skyline Football Club | Big W x Didaco Dias line=3 duel=39.16 corte=-1.10
+[059] JOGADA Columbia Skyline Football Club | Fruit Salad James x Válter Brito line=4 duel=25.20 corte=-1.10
+[059] FINAL Columbia Skyline Football Club | Owen Barkfield fam=1 duel=30.30 on_target=0.682 goal=0.256
+[059] FINAL Owen Barkfield: no alvo sem gol (roll=0.367)
+[060] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[060] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.327 roll=0.591
+[061] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[061] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.327 roll=0.552
+[062] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[062] SUB Columbia Skyline Football Club: saiu Quagmire (ZAG) | entrou Valdemir Clemente (ZAG) | subs=4/5
+[062] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.328 roll=0.743
+[063] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[063] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.328 roll=0.617
+[064] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[064] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.328 roll=0.137
+[064] JOGADA Manufatora Nacional de Porcelanas FC | Válter Brito x Fruit Salad James line=3 duel=-30.89 corte=-1.70
+[064] JOGADA falhou: Fruit Salad James cortou
+[065] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[065] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.366 roll=0.636
+[066] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[066] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.366 roll=0.161
+[066] JOGADA Columbia Skyline Football Club | Shutz Ethan Cuckley x Marino Moreira line=2 duel=103.17 corte=-1.10
+[066] JOGADA Columbia Skyline Football Club | Jack Wynand x Marino Moreira line=5 duel=18.31 corte=-1.35
+[066] JOGADA Columbia Skyline Football Club | Louis Long x Héber Álvares line=5 duel=40.48 corte=-1.35
+[066] FINAL Columbia Skyline Football Club | Edward Gayville fam=1 duel=21.60 on_target=0.681 goal=0.251
+[066] FINAL Edward Gayville: fora/alvo perdido (roll=0.992)
+[067] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[067] SUB Columbia Skyline Football Club: saiu Josh Battle (VOL) | entrou Leon First Bush (VOL) | subs=5/5
+[067] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.365 roll=0.517
+[068] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[068] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.365 roll=0.330
+[068] JOGADA Columbia Skyline Football Club | Leon First Bush x Absalão de Castro line=2 duel=23.38 corte=-1.09
+[068] FINAL Columbia Skyline Football Club | Owen Barkfield fam=1 duel=28.57 on_target=0.682 goal=0.255
+[068] FINAL Owen Barkfield: no alvo sem gol (roll=0.717)
+[069] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[069] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.332 roll=0.604
+[070] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[070] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.365 roll=0.099
+[070] JOGADA Columbia Skyline Football Club | Fruit Salad James x Marino Moreira line=3 duel=10.66 corte=-1.09
+[070] JOGADA Columbia Skyline Football Club | Jack Wynand x Didaco Dias line=5 duel=61.22 corte=-1.34
+[070] FINAL Columbia Skyline Football Club | Owen Barkfield fam=1 duel=28.07 on_target=0.682 goal=0.255
+[070] FINAL Owen Barkfield: fora/alvo perdido (roll=0.707)
+[071] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[071] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.365 roll=0.178
+[071] JOGADA Columbia Skyline Football Club | Big W x Marino Moreira line=3 duel=36.64 corte=-1.09
+[071] JOGADA Columbia Skyline Football Club | Edward Gayville x Hamilton Madureira line=4 duel=-61.34 corte=-1.09
+[071] JOGADA falhou: Hamilton Madureira cortou
+[072] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[072] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.365 roll=0.603
+[073] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[073] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.365 roll=0.585
+[074] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[074] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.365 roll=0.377
+[075] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[075] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.332 roll=0.011
+[075] JOGADA Manufatora Nacional de Porcelanas FC | Didaco Dias x Shutz Ethan Cuckley line=3 duel=34.96 corte=-1.70
+[075] FINAL Manufatora Nacional de Porcelanas FC | Alamiro Morais fam=5 duel=-55.15 on_target=0.582 goal=0.132
+[075] FINAL Alamiro Morais: fora/alvo perdido (roll=0.944)
+[076] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 0 Columbia Skyline Football Club
+[076] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.376 roll=0.038
+[076] JOGADA Columbia Skyline Football Club | Fruit Salad James x Hamilton Madureira line=3 duel=23.15 corte=-1.05
+[076] JOGADA Columbia Skyline Football Club | Jack Wynand x Didaco Dias line=4 duel=13.83 corte=-1.05
+[076] JOGADA Columbia Skyline Football Club | Big W x Didaco Dias line=4 duel=0.77 corte=-1.05
+[076] FINAL Columbia Skyline Football Club | Shutz Ethan Cuckley fam=1 duel=24.17 on_target=0.694 goal=0.255
+[076] FINAL Shutz Ethan Cuckley: GOL subtipo=CHUTE (roll=0.085)
+[077] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[077] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.378 roll=0.938
+[078] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[078] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.378 roll=0.756
+[079] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[079] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.378 roll=0.897
+[080] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[080] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.378 roll=0.833
+[081] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[081] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.378 roll=0.357
+[081] JOGADA Columbia Skyline Football Club | Jack Wynand x Silvestre Texeira line=4 duel=-44.65 corte=-1.30
+[081] JOGADA falhou: Silvestre Texeira cortou
+[082] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[082] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.403 roll=0.125
+[082] JOGADA Manufatora Nacional de Porcelanas FC | Hamilton Madureira x Valdemir Clemente line=4 duel=-44.48 corte=-1.70
+[082] JOGADA falhou: Valdemir Clemente cortou
+[083] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[083] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.378 roll=0.769
+[084] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[084] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.378 roll=0.905
+[085] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[085] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.424 roll=0.269
+[085] JOGADA Manufatora Nacional de Porcelanas FC | Alamiro Morais x Big W line=4 duel=-20.27 corte=-1.70
+[085] JOGADA falhou: Big W cortou
+[086] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[086] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.424 roll=0.495
+[087] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[087] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.378 roll=0.148
+[087] JOGADA Columbia Skyline Football Club | Leon First Bush x Marino Moreira line=3 duel=57.44 corte=-1.30
+[087] JOGADA Columbia Skyline Football Club | Fruit Salad James x Marino Moreira line=4 duel=5.19 corte=-1.30
+[087] JOGADA Columbia Skyline Football Club | Edward Gayville x Alamiro Morais line=5 duel=14.55 corte=-2.05
+[087] FINAL Columbia Skyline Football Club | Edward Gayville fam=1 duel=12.09 on_target=0.655 goal=0.236
+[087] FINAL Edward Gayville: no alvo sem gol (roll=0.268)
+[088] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[088] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.378 roll=0.903
+[089] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[089] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.424 roll=0.303
+[089] JOGADA Manufatora Nacional de Porcelanas FC | Absalão de Castro x Shutz Ethan Cuckley line=2 duel=-3.80 corte=-1.70
+[089] JOGADA falhou: Shutz Ethan Cuckley cortou
+[090] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[090] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.424 roll=0.627
+[091] posse=Columbia Skyline Football Club | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[091] BUILD Columbia Skyline Football Club vs Manufatora Nacional de Porcelanas FC prob=0.378 roll=0.556
+[092] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[092] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.424 roll=0.513
+[093] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[093] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.424 roll=0.573
+[094] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[094] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.424 roll=0.348
+[094] JOGADA Manufatora Nacional de Porcelanas FC | Porcelano x Owen Barkfield line=4 duel=25.00 corte=-1.70
+[094] JOGADA Manufatora Nacional de Porcelanas FC | Héber Álvares x Leon First Bush line=5 duel=0.82 corte=-2.45
+[094] FINAL Manufatora Nacional de Porcelanas FC | Didaco Dias fam=5 duel=-16.79 on_target=0.673 goal=0.158
+[094] FINAL Didaco Dias: no alvo sem gol (roll=0.341)
+[095] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 1 Columbia Skyline Football Club
+[095] BUILD Manufatora Nacional de Porcelanas FC vs Columbia Skyline Football Club prob=0.424 roll=0.579

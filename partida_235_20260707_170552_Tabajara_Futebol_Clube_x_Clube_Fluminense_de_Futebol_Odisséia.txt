@@ -1,0 +1,314 @@
+Partida #235
+Data: 1912-01-24
+Mandante: Tabajara Futebol Clube
+Visitante: Clube Fluminense de Futebol Odisséia
+Placar: 1 x 4
+Seed: -
+Estádio: Tabajarão
+Clima: Frio forte
+Placar tempo normal: 1 x 4
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Tabajara Futebol Clube x Clube Fluminense de Futebol Odisséia | estádio=Tabajarão | clima=Frio forte | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 0 Clube Fluminense de Futebol Odisséia
+[001] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.434 roll=0.494
+[002] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube Fluminense de Futebol Odisséia
+[002] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.312 roll=0.414
+[003] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube Fluminense de Futebol Odisséia
+[003] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.312 roll=0.199
+[003] JOGADA Tabajara Futebol Clube | Ruinvaldo x Adhemar Meira line=5 duel=-35.21 corte=-2.45
+[003] JOGADA falhou: Adhemar Meira cortou
+[004] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 0 Clube Fluminense de Futebol Odisséia
+[004] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.434 roll=0.423
+[004] JOGADA Clube Fluminense de Futebol Odisséia | Hildebrando Guardado x Nivaldo Calado line=5 duel=132.32 corte=-1.84
+[004] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=1 duel=29.01 on_target=0.681 goal=0.260
+[004] FINAL Eustáquio Miranda: GOL subtipo=CHUTE (roll=0.202)
+[005] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[005] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.353 roll=0.607
+[006] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[006] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.434 roll=0.010
+[006] JOGADA Clube Fluminense de Futebol Odisséia | Hildebrando Guardado x Udo Salomão line=3 duel=120.53 corte=-1.30
+[006] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=28.36 on_target=0.689 goal=0.264
+[006] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.321)
+[007] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[007] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.353 roll=0.916
+[008] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[008] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.434 roll=0.323
+[008] JOGADA Clube Fluminense de Futebol Odisséia | Armando de Almeida x Heldo Silveira line=5 duel=12.28 corte=-1.55
+[008] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=21.35 on_target=0.683 goal=0.258
+[008] FINAL Hildebrando Guardado: no alvo sem gol (roll=0.858)
+[009] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[009] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.434 roll=0.106
+[009] JOGADA Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza x Ruinvaldo line=5 duel=147.37 corte=-2.05
+[009] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=3 duel=8.91 on_target=0.624 goal=0.197
+[009] FINAL Teobaldo Mascarenhas: fora/alvo perdido (roll=0.835)
+[010] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[010] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.353 roll=0.822
+[011] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[011] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.470 roll=0.517
+[012] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[012] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.382 roll=0.641
+[013] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[013] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.382 roll=0.376
+[013] JOGADA Tabajara Futebol Clube | Ruinzinho Gaúcho x Adhemar Meira line=5 duel=-32.69 corte=-2.45
+[013] JOGADA falhou: Adhemar Meira cortou
+[014] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[014] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.382 roll=0.965
+[015] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[015] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.470 roll=0.167
+[015] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Ruinzinho Gaúcho line=4 duel=-13.16 corte=-1.30
+[015] JOGADA falhou: Ruinzinho Gaúcho cortou
+[016] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[016] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.382 roll=0.891
+[017] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[017] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.382 roll=0.263
+[017] JOGADA Tabajara Futebol Clube | Nivaldo Calado x Wilton Bigode line=3 duel=-30.35 corte=-1.70
+[017] JOGADA falhou: Wilton Bigode cortou
+[018] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[018] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.470 roll=0.729
+[019] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 1 Clube Fluminense de Futebol Odisséia
+[019] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.470 roll=0.094
+[019] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Délio Proença line=5 duel=110.30 corte=-1.55
+[019] FINAL Clube Fluminense de Futebol Odisséia | Marcel Ganem fam=1 duel=-1.99 on_target=0.737 goal=0.263
+[019] FINAL Marcel Ganem: GOL subtipo=CHUTE (roll=0.177)
+[020] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 2 Clube Fluminense de Futebol Odisséia
+[020] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.386 roll=0.384
+[020] JOGADA Tabajara Futebol Clube | Udo Salomão x Armando de Almeida line=4 duel=44.15 corte=-1.70
+[020] FINAL Tabajara Futebol Clube | Ruinzinho Gaúcho fam=5 duel=-39.42 on_target=0.639 goal=0.157
+[020] FINAL Ruinzinho Gaúcho: no alvo sem gol (roll=0.682)
+[021] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 2 Clube Fluminense de Futebol Odisséia
+[021] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.497 roll=0.336
+[021] JOGADA Clube Fluminense de Futebol Odisséia | Eustáquio Miranda x Abaeté Hoffmann line=5 duel=25.33 corte=-2.05
+[021] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=3 duel=16.26 on_target=0.684 goal=0.208
+[021] FINAL Hildebrando Guardado: GOL subtipo=CHUTE (roll=0.175)
+[022] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 3 Clube Fluminense de Futebol Odisséia
+[022] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.490 roll=0.460
+[022] JOGADA Clube Fluminense de Futebol Odisséia | Eduardo Batista x Tom Cruise line=5 duel=59.07 corte=-1.55
+[022] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=20.96 on_target=0.733 goal=0.259
+[022] FINAL Hildebrando Guardado: fora/alvo perdido (roll=0.929)
+[023] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 3 Clube Fluminense de Futebol Odisséia
+[023] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.490 roll=0.943
+[024] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 3 Clube Fluminense de Futebol Odisséia
+[024] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.418 roll=0.619
+[025] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 3 Clube Fluminense de Futebol Odisséia
+[025] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.490 roll=0.049
+[025] JOGADA Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas x Heldo Silveira line=5 duel=89.12 corte=-2.05
+[025] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=23.93 on_target=0.739 goal=0.263
+[025] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.788)
+[026] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 3 Clube Fluminense de Futebol Odisséia
+[026] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.418 roll=0.854
+[027] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 3 Clube Fluminense de Futebol Odisséia
+[027] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.490 roll=0.737
+[028] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 3 Clube Fluminense de Futebol Odisséia
+[028] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.418 roll=0.117
+[028] JOGADA Tabajara Futebol Clube | Gisvaldo Teles x Teobaldo Mascarenhas line=4 duel=-19.26 corte=-1.70
+[028] JOGADA falhou: Teobaldo Mascarenhas cortou
+[029] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 3 Clube Fluminense de Futebol Odisséia
+[029] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.418 roll=0.761
+[030] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 3 Clube Fluminense de Futebol Odisséia
+[030] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.418 roll=0.326
+[030] JOGADA Tabajara Futebol Clube | Gisvaldo Teles x Bremer Klotzbücher Nunes line=4 duel=-36.65 corte=-1.70
+[030] JOGADA falhou: Bremer Klotzbücher Nunes cortou
+[031] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 0 x 3 Clube Fluminense de Futebol Odisséia
+[031] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.490 roll=0.206
+[031] JOGADA Clube Fluminense de Futebol Odisséia | Eduardo Batista x Ruinvaldo line=5 duel=93.17 corte=-1.55
+[031] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=27.61 on_target=0.739 goal=0.265
+[031] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.823)
+[032] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 3 Clube Fluminense de Futebol Odisséia
+[032] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.418 roll=0.375
+[032] JOGADA Tabajara Futebol Clube | Gisvaldo Teles x Eduardo Batista line=5 duel=2.46 corte=-1.95
+[032] FINAL Tabajara Futebol Clube | Udo Salomão fam=5 duel=-29.74 on_target=0.667 goal=0.165
+[032] FINAL Udo Salomão: GOL subtipo=FALTA (roll=0.127)
+[033] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[033] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.415 roll=0.635
+[034] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[034] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.415 roll=0.603
+[035] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[035] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.415 roll=0.254
+[035] JOGADA Tabajara Futebol Clube | Samambaia x Wilton Bigode line=4 duel=-55.61 corte=-1.70
+[035] JOGADA falhou: Wilton Bigode cortou
+[036] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[036] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.415 roll=0.223
+[036] JOGADA Tabajara Futebol Clube | Ruinzinho Gaúcho x Tomás Soares Ziza line=5 duel=-24.42 corte=-2.45
+[036] JOGADA falhou: Tomás Soares Ziza cortou
+[037] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[037] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.497 roll=0.096
+[037] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Udo Salomão line=4 duel=11.84 corte=-1.30
+[037] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=24.68 on_target=0.761 goal=0.275
+[037] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.442)
+[038] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[038] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.497 roll=0.370
+[038] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Abaeté Hoffmann line=3 duel=27.54 corte=-1.30
+[038] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=1 duel=24.16 on_target=0.751 goal=0.270
+[038] FINAL Eustáquio Miranda: fora/alvo perdido (roll=0.988)
+[039] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[039] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.415 roll=0.565
+[040] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[040] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.415 roll=0.768
+[041] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[041] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.415 roll=0.323
+[041] JOGADA Tabajara Futebol Clube | Nivaldo Calado x Eustáquio Miranda line=5 duel=37.91 corte=-2.45
+[041] FINAL Tabajara Futebol Clube | Délio Proença fam=5 duel=-26.67 on_target=0.665 goal=0.165
+[041] FINAL Délio Proença: no alvo sem gol (roll=0.631)
+[042] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[042] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.497 roll=0.722
+[043] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[043] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.415 roll=0.540
+[044] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[044] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.415 roll=0.087
+[044] JOGADA Tabajara Futebol Clube | Abaeté Hoffmann x Teobaldo Mascarenhas line=5 duel=-28.43 corte=-1.95
+[044] JOGADA falhou: Teobaldo Mascarenhas cortou
+[045] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[045] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.415 roll=0.368
+[045] JOGADA Tabajara Futebol Clube | Gisvaldo Teles x Wilton Bigode line=5 duel=-6.40 corte=-1.95
+[045] JOGADA falhou: Wilton Bigode cortou
+[046] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[046] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.463 roll=0.718
+[047] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[047] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.463 roll=0.194
+[047] JOGADA Clube Fluminense de Futebol Odisséia | Eduardo Batista x Abaeté Hoffmann line=4 duel=61.96 corte=-1.30
+[047] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=33.37 on_target=0.717 goal=0.268
+[047] FINAL Tomás Soares Ziza: no alvo sem gol (roll=0.585)
+[048] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[048] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.463 roll=0.745
+[049] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[049] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.463 roll=0.925
+[050] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[050] SUB Tabajara Futebol Clube: saiu Abaeté Hoffmann (VOL) | entrou Gedeão Andrade (MC) | subs=1/5
+[050] SUB Clube Fluminense de Futebol Odisséia: saiu Hildebrando Guardado (CA) | entrou Walfrid Hoff (CA) | subs=1/5
+[050] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.459 roll=0.719
+[051] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[051] SUB Tabajara Futebol Clube: saiu Ruinvaldo (CA) | entrou Duplex (SA) | subs=2/5
+[051] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.389 roll=0.997
+[052] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[052] SUB Tabajara Futebol Clube: saiu Samambaia (ZAG) | entrou Kiekeylson (ZAG) | subs=3/5
+[052] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.389 roll=0.890
+[052] FINAL Tabajara Futebol Clube | Gisvaldo Teles fam=5 duel=-39.25 on_target=0.630 goal=0.153
+[052] FINAL Gisvaldo Teles: no alvo sem gol (roll=0.686)
+[053] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[053] SUB Tabajara Futebol Clube: saiu Délio Proença (PE) | entrou Vladimir Ali (ME) | subs=4/5
+[053] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.390 roll=0.437
+[054] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[054] SUB Tabajara Futebol Clube: saiu Tom Cruise (LE) | entrou Tupiniquim Ladeira (LE) | subs=5/5
+[054] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.390 roll=0.554
+[055] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[055] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.390 roll=0.925
+[056] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[056] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.494 roll=0.318
+[056] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Heldo Silveira line=3 duel=-6.14 corte=-1.30
+[056] JOGADA falhou: Heldo Silveira cortou
+[057] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[057] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.494 roll=0.593
+[058] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[058] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.419 roll=0.696
+[059] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[059] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.494 roll=0.554
+[060] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[060] SUB Clube Fluminense de Futebol Odisséia: saiu Teobaldo Mascarenhas (SA) | entrou Renato Lugon (SA) | subs=2/5
+[060] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.426 roll=0.195
+[060] JOGADA Tabajara Futebol Clube | Nivaldo Calado x Tomás Soares Ziza line=4 duel=-23.97 corte=-1.70
+[060] JOGADA falhou: Tomás Soares Ziza cortou
+[061] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[061] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.426 roll=0.339
+[061] JOGADA Tabajara Futebol Clube | Heldo Silveira x Tomás Soares Ziza line=4 duel=-9.90 corte=-1.70
+[061] JOGADA falhou: Tomás Soares Ziza cortou
+[062] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[062] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.426 roll=0.001
+[062] JOGADA Tabajara Futebol Clube | Tupiniquim Ladeira x Tomás Soares Ziza line=5 duel=57.14 corte=-1.95
+[062] FINAL Tabajara Futebol Clube | Gedeão Andrade fam=5 duel=-51.29 on_target=0.668 goal=0.155
+[062] FINAL Gedeão Andrade: fora/alvo perdido (roll=0.692)
+[063] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[063] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.488 roll=0.898
+[064] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[064] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.488 roll=0.810
+[065] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[065] SUB Clube Fluminense de Futebol Odisséia: saiu Armando de Almeida (MC) | entrou Dmitri Frank (MC) | subs=3/5
+[065] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.426 roll=0.392
+[065] JOGADA Tabajara Futebol Clube | Gedeão Andrade x Wilton Bigode line=4 duel=-13.54 corte=-1.70
+[065] JOGADA falhou: Wilton Bigode cortou
+[066] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[066] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.488 roll=0.537
+[067] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[067] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.488 roll=0.112
+[067] JOGADA Clube Fluminense de Futebol Odisséia | Dmitri Frank x Duplex line=5 duel=132.29 corte=-1.55
+[067] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=36.37 on_target=0.749 goal=0.274
+[067] FINAL Walfrid Hoff: no alvo sem gol (roll=0.536)
+[068] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[068] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.426 roll=0.480
+[069] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[069] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.488 roll=0.690
+[070] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[070] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.488 roll=0.546
+[071] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[071] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.426 roll=0.889
+[072] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[072] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.488 roll=0.427
+[072] JOGADA Clube Fluminense de Futebol Odisséia | Dmitri Frank x Tupiniquim Ladeira line=5 duel=32.75 corte=-1.55
+[072] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=28.76 on_target=0.748 goal=0.270
+[072] FINAL Walfrid Hoff: no alvo sem gol (roll=0.420)
+[073] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[073] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.426 roll=0.921
+[074] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[074] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.426 roll=0.045
+[074] JOGADA Tabajara Futebol Clube | Nivaldo Calado x Wilton Bigode line=5 duel=-29.79 corte=-2.45
+[074] JOGADA falhou: Wilton Bigode cortou
+[075] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[075] SUB Clube Fluminense de Futebol Odisséia: saiu Eustáquio Miranda (MA) | entrou Charles Durant (MA) | subs=4/5
+[075] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.481 roll=0.664
+[076] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[076] SUB Clube Fluminense de Futebol Odisséia: saiu Bremer Klotzbücher Nunes (ZAG) | entrou Áquiles Nascimento (ZAG) | subs=5/5
+[076] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.465 roll=0.579
+[077] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[077] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.468 roll=0.949
+[078] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 3 Clube Fluminense de Futebol Odisséia
+[078] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.465 roll=0.295
+[078] JOGADA Clube Fluminense de Futebol Odisséia | Walfrid Hoff x Gisvaldo Teles line=5 duel=21.12 corte=-2.05
+[078] FINAL Clube Fluminense de Futebol Odisséia | Renato Lugon fam=1 duel=39.95 on_target=0.730 goal=0.271
+[078] FINAL Renato Lugon: GOL subtipo=CHUTE (roll=0.074)
+[079] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[079] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.468 roll=0.574
+[080] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[080] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.458 roll=0.892
+[081] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[081] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.458 roll=0.747
+[082] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[082] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.458 roll=0.029
+[082] JOGADA Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza x Duplex line=4 duel=29.40 corte=-1.30
+[082] FINAL Clube Fluminense de Futebol Odisséia | Marcel Ganem fam=3 duel=-10.68 on_target=0.648 goal=0.189
+[082] FINAL Marcel Ganem: fora/alvo perdido (roll=0.732)
+[083] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[083] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.468 roll=0.477
+[084] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[084] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.458 roll=0.619
+[085] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[085] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.543 roll=0.552
+[086] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[086] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.458 roll=0.244
+[086] JOGADA Clube Fluminense de Futebol Odisséia | Dmitri Frank x Vladimir Ali line=4 duel=109.23 corte=-1.30
+[086] FINAL Clube Fluminense de Futebol Odisséia | Wilton Bigode fam=1 duel=4.51 on_target=0.716 goal=0.255
+[086] FINAL Wilton Bigode: no alvo sem gol (roll=0.500)
+[087] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[087] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.543 roll=0.221
+[087] JOGADA Tabajara Futebol Clube | Gedeão Andrade x Marcel Ganem line=5 duel=55.60 corte=-1.95
+[087] FINAL Tabajara Futebol Clube | Gedeão Andrade fam=5 duel=-13.04 on_target=0.820 goal=0.188
+[087] FINAL Gedeão Andrade: no alvo sem gol (roll=0.280)
+[088] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[088] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.458 roll=0.424
+[088] JOGADA Clube Fluminense de Futebol Odisséia | Eduardo Batista x Gisvaldo Teles line=5 duel=4.94 corte=-1.55
+[088] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=16.11 on_target=0.710 goal=0.257
+[088] FINAL Walfrid Hoff: no alvo sem gol (roll=0.677)
+[089] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[089] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.458 roll=0.711
+[090] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[090] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.543 roll=0.915
+[091] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[091] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.543 roll=0.944
+[092] posse=Clube Fluminense de Futebol Odisséia | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[092] BUILD Clube Fluminense de Futebol Odisséia vs Tabajara Futebol Clube prob=0.458 roll=0.465
+[093] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 4 Clube Fluminense de Futebol Odisséia
+[093] BUILD Tabajara Futebol Clube vs Clube Fluminense de Futebol Odisséia prob=0.543 roll=0.366
+[093] JOGADA Tabajara Futebol Clube | Kiekeylson x Wilton Bigode line=4 duel=-11.09 corte=-1.70
+[093] JOGADA falhou: Wilton Bigode cortou

@@ -1,0 +1,334 @@
+Partida #201
+Data: 1912-01-20
+Mandante: Tabajara Futebol Clube
+Visitante: Clube de Regatas do Flamengo
+Placar: 2 x 2
+Seed: -
+Estádio: Tabajarão
+Clima: Calor forte
+Placar tempo normal: 2 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Tabajara Futebol Clube x Clube de Regatas do Flamengo | estádio=Tabajarão | clima=Calor forte | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[001] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.330 roll=0.326
+[001] JOGADA Tabajara Futebol Clube | Heldo Silveira x Narciso Araújo line=4 duel=6.31 corte=-1.70
+[001] FINAL Tabajara Futebol Clube | Nivaldo Calado fam=5 duel=-11.72 on_target=0.586 goal=0.155
+[001] FINAL Nivaldo Calado: no alvo sem gol (roll=0.852)
+[002] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[002] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.351 roll=0.243
+[002] JOGADA Clube de Regatas do Flamengo | Leonardo Praga x Tom Cruise line=3 duel=-25.50 corte=-1.10
+[002] JOGADA falhou: Tom Cruise cortou
+[003] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[003] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.330 roll=0.617
+[004] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[004] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.351 roll=0.710
+[005] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[005] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.330 roll=0.609
+[006] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[006] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.351 roll=0.220
+[006] JOGADA Clube de Regatas do Flamengo | Gabriel Luno x Délio Proença line=3 duel=38.36 corte=-1.10
+[006] JOGADA Clube de Regatas do Flamengo | Leonardo Praga x Tom Cruise line=4 duel=-39.07 corte=-1.10
+[006] JOGADA falhou: Tom Cruise cortou
+[007] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[007] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.330 roll=0.445
+[008] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[008] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.330 roll=0.116
+[008] JOGADA Tabajara Futebol Clube | Ruinzinho Gaúcho x Benedito Justo line=3 duel=-4.62 corte=-1.70
+[008] JOGADA falhou: Benedito Justo cortou
+[009] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[009] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.351 roll=0.307
+[009] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Délio Proença line=2 duel=76.20 corte=-1.10
+[009] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Heldo Silveira line=5 duel=44.01 corte=-1.35
+[009] JOGADA Clube de Regatas do Flamengo | José Papato x Udo Salomão line=5 duel=96.44 corte=-1.35
+[009] FINAL Clube de Regatas do Flamengo | Gabriel Luno fam=1 duel=5.03 on_target=0.667 goal=0.239
+[009] FINAL Gabriel Luno: fora/alvo perdido (roll=0.759)
+[010] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[010] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.330 roll=0.049
+[010] JOGADA Tabajara Futebol Clube | Délio Proença x Oliveira Marques line=4 duel=42.97 corte=-1.70
+[010] FINAL Tabajara Futebol Clube | Abaeté Hoffmann fam=5 duel=-100.41 on_target=0.579 goal=0.114
+[010] FINAL Abaeté Hoffmann: no alvo sem gol (roll=0.407)
+[011] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[011] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.357 roll=0.003
+[011] JOGADA Tabajara Futebol Clube | Samambaia x Oliveira Marques line=4 duel=-38.28 corte=-1.70
+[011] JOGADA falhou: Oliveira Marques cortou
+[012] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[012] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.379 roll=0.754
+[013] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[013] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.379 roll=0.619
+[014] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[014] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.357 roll=0.921
+[015] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[015] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.357 roll=0.514
+[016] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[016] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.379 roll=0.636
+[017] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[017] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.379 roll=0.035
+[017] JOGADA Clube de Regatas do Flamengo | Carlo Garcia Bisneto x Ruinzinho Gaúcho line=3 duel=-14.63 corte=-1.10
+[017] JOGADA falhou: Ruinzinho Gaúcho cortou
+[018] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[018] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.357 roll=0.059
+[018] JOGADA Tabajara Futebol Clube | Ruinvaldo x Evandro Pessoa line=5 duel=-25.52 corte=-2.45
+[018] JOGADA falhou: Evandro Pessoa cortou
+[019] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[019] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.379 roll=0.497
+[020] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[020] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.379 roll=0.932
+[021] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[021] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.384 roll=0.139
+[021] JOGADA Tabajara Futebol Clube | Tom Cruise x Vicente Paiva line=5 duel=-5.18 corte=-1.95
+[021] JOGADA falhou: Vicente Paiva cortou
+[022] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[022] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.384 roll=0.317
+[022] JOGADA Tabajara Futebol Clube | Abaeté Hoffmann x Vicente Paiva line=4 duel=-19.91 corte=-1.70
+[022] JOGADA falhou: Vicente Paiva cortou
+[023] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[023] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.384 roll=0.894
+[024] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[024] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.384 roll=0.616
+[025] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[025] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.408 roll=0.050
+[025] JOGADA Clube de Regatas do Flamengo | Narciso Araújo x Ruinzinho Gaúcho line=4 duel=-28.68 corte=-1.10
+[025] JOGADA falhou: Ruinzinho Gaúcho cortou
+[026] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 0 Clube de Regatas do Flamengo
+[026] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.408 roll=0.007
+[026] JOGADA Clube de Regatas do Flamengo | Narciso Araújo x Gisvaldo Teles line=3 duel=1.73 corte=-1.10
+[026] JOGADA Clube de Regatas do Flamengo | Narciso Araújo x Nivaldo Calado line=5 duel=102.32 corte=-1.35
+[026] FINAL Clube de Regatas do Flamengo | Gabriel Luno fam=1 duel=-2.77 on_target=0.758 goal=0.258
+[026] FINAL Gabriel Luno: GOL subtipo=CHUTE (roll=0.166)
+[027] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[027] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.432 roll=0.950
+[028] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[028] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.408 roll=0.784
+[029] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[029] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.432 roll=0.666
+[030] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[030] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.432 roll=0.920
+[031] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[031] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.432 roll=0.538
+[032] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[032] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.432 roll=0.777
+[033] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[033] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.408 roll=0.540
+[034] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[034] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.408 roll=0.223
+[034] JOGADA Clube de Regatas do Flamengo | Narciso Araújo x Ruinzinho Gaúcho line=3 duel=0.41 corte=-1.30
+[034] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Ruinvaldo line=4 duel=-3.98 corte=-1.30
+[034] JOGADA falhou: Ruinvaldo cortou
+[035] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[035] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.432 roll=0.634
+[036] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[036] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.432 roll=0.047
+[036] JOGADA Tabajara Futebol Clube | Samambaia x José Papato line=5 duel=-14.26 corte=-1.95
+[036] JOGADA falhou: José Papato cortou
+[037] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[037] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.408 roll=0.503
+[038] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[038] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.408 roll=0.280
+[038] JOGADA Clube de Regatas do Flamengo | Vicente Paiva x Nivaldo Calado line=4 duel=29.19 corte=-1.30
+[038] FINAL Clube de Regatas do Flamengo | Raul Caetano fam=1 duel=-7.68 on_target=0.763 goal=0.258
+[038] FINAL Raul Caetano: fora/alvo perdido (roll=0.765)
+[039] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[039] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.408 roll=0.531
+[040] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[040] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.408 roll=0.073
+[040] JOGADA Clube de Regatas do Flamengo | Vicente Paiva x Tom Cruise line=3 duel=4.49 corte=-1.30
+[040] JOGADA Clube de Regatas do Flamengo | Raul Caetano x Udo Salomão line=5 duel=67.04 corte=-2.05
+[040] JOGADA Clube de Regatas do Flamengo | Carlo Garcia Bisneto x Ruinvaldo line=5 duel=75.47 corte=-1.55
+[040] FINAL Clube de Regatas do Flamengo | Gabriel Luno fam=1 duel=-8.66 on_target=0.757 goal=0.255
+[040] FINAL Gabriel Luno: no alvo sem gol (roll=0.257)
+[041] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[041] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.408 roll=0.810
+[042] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[042] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.408 roll=0.025
+[042] JOGADA Clube de Regatas do Flamengo | José Papato x Udo Salomão line=2 duel=12.64 corte=-1.30
+[042] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Ruinzinho Gaúcho line=3 duel=-13.94 corte=-1.30
+[042] JOGADA falhou: Ruinzinho Gaúcho cortou
+[043] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[043] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.432 roll=0.493
+[044] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[044] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.432 roll=0.897
+[045] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[045] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.432 roll=0.989
+[046] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[046] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.402 roll=0.403
+[047] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[047] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.402 roll=0.514
+[048] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[048] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.402 roll=0.936
+[049] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[049] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.402 roll=0.355
+[049] JOGADA Tabajara Futebol Clube | Ruinvaldo x Carlo Garcia Bisneto line=4 duel=-5.09 corte=-1.70
+[049] JOGADA falhou: Carlo Garcia Bisneto cortou
+[050] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[050] SUB Tabajara Futebol Clube: saiu Abaeté Hoffmann (VOL) | entrou Gedeão Andrade (MC) | subs=1/5
+[050] SUB Clube de Regatas do Flamengo: saiu Gabriel Luno (SA) | entrou Bastiano Previti (CA) | subs=1/5
+[050] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.403 roll=0.461
+[051] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[051] SUB Tabajara Futebol Clube: saiu Ruinvaldo (CA) | entrou Duplex (SA) | subs=2/5
+[051] SUB Clube de Regatas do Flamengo: saiu Raul Caetano (CA) | entrou Maurício Sampaio (CA) | subs=2/5
+[051] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.410 roll=0.428
+[052] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[052] SUB Tabajara Futebol Clube: saiu Délio Proença (PE) | entrou Vladimir Ali (ME) | subs=3/5
+[052] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.411 roll=0.300
+[052] JOGADA Tabajara Futebol Clube | Vladimir Ali x Narciso Araújo line=5 duel=107.34 corte=-1.95
+[052] FINAL Tabajara Futebol Clube | Nivaldo Calado fam=5 duel=-62.25 on_target=0.631 goal=0.143
+[052] FINAL Nivaldo Calado: no alvo sem gol (roll=0.677)
+[053] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Clube de Regatas do Flamengo
+[053] SUB Tabajara Futebol Clube: saiu Samambaia (ZAG) | entrou Kiekeylson (ZAG) | subs=4/5
+[053] SUB Clube de Regatas do Flamengo: saiu Vicente Paiva (MC) | entrou Diego Moraes (MC) | subs=3/5
+[053] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.413 roll=0.118
+[053] JOGADA Tabajara Futebol Clube | Gisvaldo Teles x Diego Moraes line=5 duel=0.09 corte=-1.95
+[053] FINAL Tabajara Futebol Clube | Duplex fam=5 duel=31.85 on_target=0.637 goal=0.189
+[053] FINAL Duplex: GOL subtipo=FALTA (roll=0.133)
+[054] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 1 Clube de Regatas do Flamengo
+[054] SUB Tabajara Futebol Clube: saiu Tom Cruise (LE) | entrou Tupiniquim Ladeira (LE) | subs=5/5
+[054] SUB Clube de Regatas do Flamengo: saiu Benedito Justo (LE) | entrou Carlos Moura (LE) | subs=4/5
+[054] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.361 roll=0.944
+[055] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 1 Clube de Regatas do Flamengo
+[055] SUB Clube de Regatas do Flamengo: saiu Leonardo Praga (VOL) | entrou Jessé Barros (ZAG) | subs=5/5
+[055] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.377 roll=0.832
+[056] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 1 Clube de Regatas do Flamengo
+[056] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.387 roll=0.524
+[057] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 1 Clube de Regatas do Flamengo
+[057] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.387 roll=0.123
+[057] JOGADA Clube de Regatas do Flamengo | Carlo Garcia Bisneto x Udo Salomão line=3 duel=19.71 corte=-1.10
+[057] JOGADA Clube de Regatas do Flamengo | Narciso Araújo x Duplex line=4 duel=-10.43 corte=-1.10
+[057] JOGADA falhou: Duplex cortou
+[058] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 1 Clube de Regatas do Flamengo
+[058] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.359 roll=0.381
+[059] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 1 Clube de Regatas do Flamengo
+[059] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.359 roll=0.605
+[060] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 1 Clube de Regatas do Flamengo
+[060] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.409 roll=0.305
+[060] JOGADA Tabajara Futebol Clube | Ruinzinho Gaúcho x Diego Moraes line=3 duel=-21.68 corte=-1.70
+[061] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 1 Clube de Regatas do Flamengo
+[061] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.359 roll=0.045
+[061] JOGADA Clube de Regatas do Flamengo | Evandro Pessoa x Duplex line=3 duel=14.12 corte=-1.09
+[061] JOGADA Clube de Regatas do Flamengo | Bastiano Previti x Heldo Silveira line=4 duel=17.42 corte=-1.09
+[061] JOGADA Clube de Regatas do Flamengo | Jessé Barros x Gisvaldo Teles line=4 duel=1.66 corte=-1.09
+[061] FINAL Clube de Regatas do Flamengo | Bastiano Previti fam=1 duel=27.80 on_target=0.767 goal=0.277
+[061] FINAL Bastiano Previti: GOL subtipo=CHUTE (roll=0.265)
+[062] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[062] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.455 roll=0.057
+[062] JOGADA Tabajara Futebol Clube | Tupiniquim Ladeira x Diego Moraes line=4 duel=54.32 corte=-1.70
+[062] FINAL Tabajara Futebol Clube | Duplex fam=5 duel=29.10 on_target=0.671 goal=0.194
+[062] FINAL Duplex: no alvo sem gol (roll=0.922)
+[063] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[063] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.387 roll=0.077
+[063] JOGADA Clube de Regatas do Flamengo | Carlo Garcia Bisneto x Ruinzinho Gaúcho line=3 duel=-7.69 corte=-1.30
+[063] JOGADA falhou: Ruinzinho Gaúcho cortou
+[064] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[064] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.455 roll=0.889
+[065] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[065] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.387 roll=0.320
+[065] JOGADA Clube de Regatas do Flamengo | José Papato x Heldo Silveira line=3 duel=-1.20 corte=-1.30
+[065] JOGADA Clube de Regatas do Flamengo | Bastiano Previti x Ruinzinho Gaúcho line=4 duel=17.66 corte=-1.30
+[065] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Duplex line=5 duel=39.43 corte=-1.55
+[065] FINAL Clube de Regatas do Flamengo | Maurício Sampaio fam=1 duel=16.18 on_target=0.766 goal=0.271
+[065] FINAL Maurício Sampaio: no alvo sem gol (roll=0.776)
+[066] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[066] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.387 roll=0.338
+[066] JOGADA Clube de Regatas do Flamengo | Narciso Araújo x Vladimir Ali line=3 duel=12.89 corte=-1.30
+[066] JOGADA Clube de Regatas do Flamengo | Maurício Sampaio x Ruinzinho Gaúcho line=4 duel=-55.41 corte=-1.30
+[066] JOGADA falhou: Ruinzinho Gaúcho cortou
+[067] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[067] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.455 roll=0.098
+[067] JOGADA Tabajara Futebol Clube | Gedeão Andrade x Bastiano Previti line=5 duel=87.12 corte=-1.95
+[067] FINAL Tabajara Futebol Clube | Ruinzinho Gaúcho fam=5 duel=-53.73 on_target=0.666 goal=0.152
+[067] FINAL Ruinzinho Gaúcho: no alvo sem gol (roll=0.687)
+[068] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[068] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.387 roll=0.779
+[069] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[069] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.455 roll=0.814
+[070] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[070] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.384 roll=0.419
+[071] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[071] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.455 roll=0.404
+[071] JOGADA Tabajara Futebol Clube | Udo Salomão x Bastiano Previti line=4 duel=49.07 corte=-1.70
+[071] FINAL Tabajara Futebol Clube | Nivaldo Calado fam=5 duel=-6.54 on_target=0.668 goal=0.176
+[071] FINAL Nivaldo Calado: no alvo sem gol (roll=0.383)
+[072] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[072] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.455 roll=0.321
+[072] JOGADA Tabajara Futebol Clube | Gedeão Andrade x Jessé Barros line=4 duel=3.38 corte=-1.70
+[072] FINAL Tabajara Futebol Clube | Vladimir Ali fam=5 duel=10.93 on_target=0.669 goal=0.185
+[072] FINAL Vladimir Ali: fora/alvo perdido (roll=0.765)
+[073] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[073] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.455 roll=0.369
+[073] JOGADA Tabajara Futebol Clube | Heldo Silveira x Maurício Sampaio line=5 duel=15.91 corte=-1.95
+[073] FINAL Tabajara Futebol Clube | Vladimir Ali fam=5 duel=-31.57 on_target=0.666 goal=0.163
+[073] FINAL Vladimir Ali: no alvo sem gol (roll=0.231)
+[074] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[074] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.455 roll=0.906
+[075] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[075] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.384 roll=0.590
+[076] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[076] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.491 roll=0.153
+[076] JOGADA Tabajara Futebol Clube | Nivaldo Calado x Maurício Sampaio line=5 duel=18.66 corte=-2.45
+[076] FINAL Tabajara Futebol Clube | Duplex fam=5 duel=16.99 on_target=0.718 goal=0.198
+[076] FINAL Duplex: no alvo sem gol (roll=0.873)
+[077] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[077] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.491 roll=0.326
+[077] JOGADA Tabajara Futebol Clube | Vladimir Ali x Diego Moraes line=4 duel=18.58 corte=-1.70
+[077] FINAL Tabajara Futebol Clube | Nivaldo Calado fam=5 duel=-48.49 on_target=0.712 goal=0.162
+[077] FINAL Nivaldo Calado: fora/alvo perdido (roll=0.748)
+[078] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[078] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.372 roll=0.845
+[079] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[079] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.372 roll=0.039
+[079] JOGADA Clube de Regatas do Flamengo | Carlo Garcia Bisneto x Nivaldo Calado line=2 duel=9.80 corte=-1.30
+[079] JOGADA Clube de Regatas do Flamengo | Carlo Garcia Bisneto x Udo Salomão line=3 duel=10.83 corte=-1.30
+[079] JOGADA Clube de Regatas do Flamengo | Bastiano Previti x Duplex line=4 duel=-53.15 corte=-1.30
+[079] JOGADA falhou: Duplex cortou
+[080] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[080] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.372 roll=0.282
+[080] JOGADA Clube de Regatas do Flamengo | Evandro Pessoa x Udo Salomão line=3 duel=1.47 corte=-1.30
+[080] FINAL Clube de Regatas do Flamengo | Bastiano Previti fam=1 duel=7.48 on_target=0.739 goal=0.259
+[080] FINAL Bastiano Previti: no alvo sem gol (roll=0.995)
+[081] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[081] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.491 roll=0.333
+[081] JOGADA Tabajara Futebol Clube | Kiekeylson x Carlos Moura line=4 duel=-2.04 corte=-1.70
+[081] JOGADA falhou: Carlos Moura cortou
+[082] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[082] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.491 roll=0.378
+[082] JOGADA Tabajara Futebol Clube | Nivaldo Calado x Maurício Sampaio line=3 duel=23.18 corte=-1.70
+[082] FINAL Tabajara Futebol Clube | Ruinzinho Gaúcho fam=5 duel=-53.73 on_target=0.712 goal=0.165
+[082] FINAL Ruinzinho Gaúcho: no alvo sem gol (roll=0.302)
+[083] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[083] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.491 roll=0.645
+[084] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[084] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.372 roll=0.599
+[085] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[085] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.372 roll=0.137
+[085] JOGADA Clube de Regatas do Flamengo | Maurício Sampaio x Heldo Silveira line=2 duel=-6.71 corte=-1.30
+[085] JOGADA falhou: Heldo Silveira cortou
+[086] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 1 x 2 Clube de Regatas do Flamengo
+[086] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.569 roll=0.352
+[086] JOGADA Tabajara Futebol Clube | Nivaldo Calado x Narciso Araújo line=4 duel=3.81 corte=-1.70
+[086] FINAL Tabajara Futebol Clube | Ruinzinho Gaúcho fam=5 duel=-53.73 on_target=0.815 goal=0.165
+[086] FINAL Ruinzinho Gaúcho: GOL subtipo=FALTA (roll=0.053)
+[087] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 2 x 2 Clube de Regatas do Flamengo
+[087] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.492 roll=0.884
+[088] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 2 x 2 Clube de Regatas do Flamengo
+[088] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.428 roll=0.607
+[089] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 2 x 2 Clube de Regatas do Flamengo
+[089] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.492 roll=0.919
+[090] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 2 x 2 Clube de Regatas do Flamengo
+[090] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.428 roll=0.837
+[091] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 2 x 2 Clube de Regatas do Flamengo
+[091] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.428 roll=0.380
+[091] JOGADA Clube de Regatas do Flamengo | José Papato x Gedeão Andrade line=3 duel=3.32 corte=-1.05
+[091] JOGADA Clube de Regatas do Flamengo | José Papato x Gisvaldo Teles line=5 duel=35.92 corte=-1.30
+[091] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Gedeão Andrade line=5 duel=20.97 corte=-1.30
+[091] FINAL Clube de Regatas do Flamengo | Bastiano Previti fam=1 duel=2.58 on_target=0.893 goal=0.267
+[091] FINAL Bastiano Previti: no alvo sem gol (roll=0.867)
+[092] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 2 x 2 Clube de Regatas do Flamengo
+[092] BUILD Tabajara Futebol Clube vs Clube de Regatas do Flamengo prob=0.492 roll=0.023
+[092] JOGADA Tabajara Futebol Clube | Heldo Silveira x Oliveira Marques line=5 duel=33.79 corte=-1.95
+[092] FINAL Tabajara Futebol Clube | Udo Salomão fam=5 duel=-53.34 on_target=0.773 goal=0.152
+[092] FINAL Udo Salomão: fora/alvo perdido (roll=0.926)
+[093] posse=Clube de Regatas do Flamengo | placar Tabajara Futebol Clube 2 x 2 Clube de Regatas do Flamengo
+[093] BUILD Clube de Regatas do Flamengo vs Tabajara Futebol Clube prob=0.428 roll=0.474

@@ -1,0 +1,319 @@
+Partida #240
+Data: 1912-01-24
+Mandante: Lusitânia Sport Club
+Visitante: Fluminense Football Club
+Placar: 1 x 2
+Seed: -
+Estádio: Estádio Luso Carioca
+Clima: Chuva leve
+Placar tempo normal: 1 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Lusitânia Sport Club x Fluminense Football Club | estádio=Estádio Luso Carioca | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[001] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.378 roll=0.227
+[001] JOGADA Fluminense Football Club | Renato Lobo Mau x Sindulfo Mascarenhas line=4 duel=119.39 corte=-1.11
+[001] FINAL Fluminense Football Club | Renato Lobo Mau fam=1 duel=11.75 on_target=0.599 goal=0.220
+[001] FINAL Renato Lobo Mau: no alvo sem gol (roll=0.302)
+[002] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[002] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.291 roll=0.209
+[002] JOGADA Lusitânia Sport Club | Sindulfo Mascarenhas x Nicolau Freitas line=4 duel=-5.22 corte=-1.70
+[002] JOGADA falhou: Nicolau Freitas cortou
+[003] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[003] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.378 roll=0.746
+[004] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[004] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.378 roll=0.828
+[005] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[005] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.378 roll=0.364
+[005] JOGADA Fluminense Football Club | Nicolau Freitas x Nilton Bettencourt line=4 duel=31.26 corte=-1.11
+[005] FINAL Fluminense Football Club | Élton Brandão fam=1 duel=6.59 on_target=0.600 goal=0.218
+[005] FINAL Élton Brandão: no alvo sem gol (roll=0.609)
+[006] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[006] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.291 roll=0.023
+[006] JOGADA Lusitânia Sport Club | Nilton Bettencourt x Jerônimo Monteiro line=3 duel=39.67 corte=-1.70
+[006] FINAL Lusitânia Sport Club | Anaim Rodrigues fam=5 duel=-13.35 on_target=0.520 goal=0.135
+[006] FINAL Anaim Rodrigues: no alvo sem gol (roll=0.233)
+[007] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[007] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.378 roll=0.879
+[008] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[008] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.378 roll=0.496
+[009] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[009] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.378 roll=0.149
+[009] JOGADA Fluminense Football Club | Ricard Seyolle x Cícero Feijóo line=5 duel=97.36 corte=-1.86
+[009] FINAL Fluminense Football Club | Oscar Alfredo Cox fam=3 duel=-3.82 on_target=0.547 goal=0.166
+[009] FINAL Oscar Alfredo Cox: no alvo sem gol (roll=0.916)
+[010] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[010] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.378 roll=0.714
+[011] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[011] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.315 roll=0.879
+[012] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[012] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.315 roll=0.235
+[012] JOGADA Lusitânia Sport Club | Fábio Pinto x Élton Brandão line=4 duel=21.52 corte=-1.70
+[012] JOGADA Lusitânia Sport Club | Fábio Pinto x Oscar Alfredo Cox line=4 duel=-35.81 corte=-1.70
+[013] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[013] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.315 roll=0.569
+[014] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[014] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.315 roll=1.000
+[015] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[015] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.315 roll=0.077
+[015] JOGADA Lusitânia Sport Club | Eliseu Mateus x Élton Brandão line=3 duel=32.55 corte=-1.70
+[015] FINAL Lusitânia Sport Club | Anaim Rodrigues fam=5 duel=-11.82 on_target=0.562 goal=0.145
+[015] FINAL Anaim Rodrigues: fora/alvo perdido (roll=0.774)
+[016] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[016] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.409 roll=0.376
+[016] JOGADA Fluminense Football Club | Leôncio Rebelo x Anaim Rodrigues line=5 duel=4.29 corte=-1.36
+[016] FINAL Fluminense Football Club | Oscar Alfredo Cox fam=1 duel=20.52 on_target=0.653 goal=0.241
+[016] FINAL Oscar Alfredo Cox: no alvo sem gol (roll=0.400)
+[017] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[017] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.409 roll=0.314
+[017] JOGADA Fluminense Football Club | Ricard Seyolle x Fábio Pinto line=3 duel=18.48 corte=-1.11
+[017] FINAL Fluminense Football Club | Élton Brandão fam=3 duel=-28.11 on_target=0.586 goal=0.164
+[017] FINAL Élton Brandão: fora/alvo perdido (roll=0.727)
+[018] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[018] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.315 roll=0.411
+[019] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[019] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.409 roll=0.013
+[019] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Diogo Ribeiro line=4 duel=26.84 corte=-1.11
+[019] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=20.20 on_target=0.650 goal=0.240
+[019] FINAL Óliver Teixeira: no alvo sem gol (roll=0.471)
+[020] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[020] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.315 roll=0.788
+[021] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[021] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.339 roll=0.077
+[021] JOGADA Lusitânia Sport Club | Cícero Feijóo x Nicolau Freitas line=3 duel=-27.12 corte=-1.70
+[022] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[022] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.339 roll=0.389
+[023] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[023] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.317
+[023] JOGADA Fluminense Football Club | Jerônimo Monteiro x Fábio Pinto line=5 duel=61.07 corte=-1.36
+[023] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=20.44 on_target=0.684 goal=0.247
+[023] FINAL Óliver Teixeira: no alvo sem gol (roll=0.781)
+[024] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[024] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.339 roll=0.867
+[025] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 0 Fluminense Football Club
+[025] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.100
+[025] JOGADA Fluminense Football Club | Élton Brandão x Nilton Bettencourt line=5 duel=92.11 corte=-1.86
+[025] FINAL Fluminense Football Club | Élton Brandão fam=1 duel=-1.73 on_target=0.681 goal=0.236
+[025] FINAL Élton Brandão: GOL subtipo=CHUTE (roll=0.162)
+[026] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 1 Fluminense Football Club
+[026] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.381 roll=0.351
+[026] JOGADA Lusitânia Sport Club | Eliseu Mateus x Renato Lobo Mau line=3 duel=36.46 corte=-1.70
+[026] FINAL Lusitânia Sport Club | Jabes Sousa fam=5 duel=-79.38 on_target=0.591 goal=0.121
+[026] FINAL Jabes Sousa: no alvo sem gol (roll=0.828)
+[027] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 1 Fluminense Football Club
+[027] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.546
+[028] posse=Fluminense Football Club | placar Lusitânia Sport Club 0 x 1 Fluminense Football Club
+[028] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.531
+[029] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 1 Fluminense Football Club
+[029] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.381 roll=0.133
+[029] JOGADA Lusitânia Sport Club | Sindulfo Mascarenhas x Ricard Seyolle line=3 duel=36.81 corte=-1.70
+[029] FINAL Lusitânia Sport Club | Nilton Bettencourt fam=5 duel=-15.79 on_target=0.594 goal=0.150
+[029] FINAL Nilton Bettencourt: GOL subtipo=FALTA (roll=0.026)
+[030] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[030] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.339 roll=0.055
+[030] JOGADA Lusitânia Sport Club | Cícero Feijóo x Leôncio Rebelo line=4 duel=-87.52 corte=-1.70
+[030] JOGADA falhou: Leôncio Rebelo cortou
+[031] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[031] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.830
+[032] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[032] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.625
+[033] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[033] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.541
+[034] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[034] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.501
+[035] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[035] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.495
+[036] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[036] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.341 roll=0.004
+[036] JOGADA Lusitânia Sport Club | Anaim Rodrigues x Nicolau Freitas line=4 duel=-3.94 corte=-1.70
+[037] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[037] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.341 roll=0.582
+[038] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[038] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.043
+[038] JOGADA Fluminense Football Club | Ricard Seyolle x Nilton Bettencourt line=4 duel=62.81 corte=-1.11
+[038] FINAL Fluminense Football Club | Óliver Teixeira fam=3 duel=12.94 on_target=0.620 goal=0.189
+[038] FINAL Óliver Teixeira: fora/alvo perdido (roll=0.669)
+[039] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[039] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.371
+[039] JOGADA Fluminense Football Club | Ricard Seyolle x Fábio Pinto line=3 duel=22.40 corte=-1.11
+[039] FINAL Fluminense Football Club | Óliver Teixeira fam=3 duel=13.05 on_target=0.620 goal=0.189
+[039] FINAL Óliver Teixeira: fora/alvo perdido (roll=0.758)
+[040] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[040] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.341 roll=0.096
+[040] JOGADA Lusitânia Sport Club | Alcino Lobo x Renato Lobo Mau line=4 duel=1.43 corte=-1.70
+[040] JOGADA Lusitânia Sport Club | Anaim Rodrigues x Élton Brandão line=4 duel=41.59 corte=-1.70
+[040] FINAL Lusitânia Sport Club | Eliseu Mateus fam=5 duel=-5.86 on_target=0.593 goal=0.153
+[040] FINAL Eliseu Mateus: no alvo sem gol (roll=0.903)
+[041] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[041] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.323
+[041] JOGADA Fluminense Football Club | Jerônimo Monteiro x Cícero Feijóo line=5 duel=-2.92 corte=-1.36
+[041] JOGADA falhou: Cícero Feijóo cortou
+[042] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[042] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.097
+[042] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Diogo Ribeiro line=4 duel=28.87 corte=-1.11
+[042] FINAL Fluminense Football Club | Renato Lobo Mau fam=1 duel=-6.78 on_target=0.680 goal=0.233
+[042] FINAL Renato Lobo Mau: fora/alvo perdido (roll=0.896)
+[043] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[043] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.341 roll=0.768
+[044] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[044] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.402
+[044] JOGADA Fluminense Football Club | Nicolau Freitas x Sindulfo Mascarenhas line=5 duel=83.92 corte=-1.36
+[044] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=19.45 on_target=0.684 goal=0.247
+[044] FINAL Óliver Teixeira: fora/alvo perdido (roll=0.802)
+[045] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[045] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.440 roll=0.150
+[045] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Anaim Rodrigues line=4 duel=27.41 corte=-1.11
+[045] FINAL Fluminense Football Club | Ricard Seyolle fam=1 duel=23.20 on_target=0.684 goal=0.248
+[045] FINAL Ricard Seyolle: no alvo sem gol (roll=0.785)
+[046] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[046] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.409 roll=0.659
+[047] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[047] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.317 roll=0.289
+[047] JOGADA Lusitânia Sport Club | Cícero Feijóo x Renato Lobo Mau line=4 duel=76.18 corte=-1.70
+[047] FINAL Lusitânia Sport Club | Sindulfo Mascarenhas fam=5 duel=-13.92 on_target=0.562 goal=0.144
+[047] FINAL Sindulfo Mascarenhas: no alvo sem gol (roll=0.676)
+[048] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[048] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.409 roll=0.674
+[049] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[049] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.317 roll=0.221
+[049] JOGADA Lusitânia Sport Club | Jabes Sousa x Renato Lobo Mau line=4 duel=41.34 corte=-1.70
+[049] JOGADA Lusitânia Sport Club | Sindulfo Mascarenhas x Jerônimo Monteiro line=5 duel=-26.46 corte=-2.45
+[049] JOGADA falhou: Jerônimo Monteiro cortou
+[050] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[050] SUB Lusitânia Sport Club: saiu Nilton Bettencourt (CA) | entrou Lucínio Menezes (PD) | subs=1/5
+[050] SUB Fluminense Football Club: saiu Élton Brandão (SA) | entrou Wilson Coimbra (PE) | subs=1/5
+[050] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.409 roll=0.486
+[051] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[051] SUB Lusitânia Sport Club: saiu Sindulfo Mascarenhas (SA) | entrou Jonathan Gama (MA) | subs=2/5
+[051] SUB Fluminense Football Club: saiu Renato Lobo Mau (CA) | entrou Agenor Vila (CA) | subs=2/5
+[051] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.408 roll=0.377
+[051] JOGADA Fluminense Football Club | Leôncio Rebelo x Fábio Pinto line=5 duel=56.69 corte=-1.36
+[051] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=18.27 on_target=0.650 goal=0.239
+[051] FINAL Óliver Teixeira: no alvo sem gol (roll=0.738)
+[052] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[052] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.308 roll=0.203
+[052] JOGADA Lusitânia Sport Club | Laércio Falcao x Jerônimo Monteiro line=3 duel=-29.25 corte=-1.70
+[052] JOGADA falhou: Jerônimo Monteiro cortou
+[053] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[053] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.308 roll=0.268
+[053] JOGADA Lusitânia Sport Club | Jabes Sousa x Leôncio Rebelo line=4 duel=-20.48 corte=-1.70
+[053] JOGADA falhou: Leôncio Rebelo cortou
+[054] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[054] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.308 roll=0.370
+[055] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[055] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.308 roll=0.080
+[055] JOGADA Lusitânia Sport Club | Alcino Lobo x Florêncio Carmona line=4 duel=-3.80 corte=-1.70
+[055] JOGADA falhou: Florêncio Carmona cortou
+[056] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[056] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.332 roll=0.663
+[057] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[057] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.332 roll=0.598
+[058] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[058] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.413 roll=0.813
+[059] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[059] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.413 roll=0.734
+[060] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[060] SUB Lusitânia Sport Club: saiu Laércio Falcao (MC) | entrou Leonídio Furtado (MD) | subs=3/5
+[060] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.337 roll=0.888
+[061] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[061] SUB Fluminense Football Club: saiu Oscar Alfredo Cox (MC) | entrou Otávio Carvalho (MD) | subs=3/5
+[061] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.338 roll=0.970
+[062] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[062] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.380 roll=0.551
+[063] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[063] SUB Lusitânia Sport Club: saiu Fábio Pinto (LE) | entrou Susano Bettencourt (LE) | subs=4/5
+[063] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.383 roll=0.746
+[064] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[064] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.338 roll=0.694
+[065] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[065] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.338 roll=0.949
+[066] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[066] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.383 roll=0.234
+[066] JOGADA Fluminense Football Club | Nicolau Freitas x Lucínio Menezes line=3 duel=13.25 corte=-1.10
+[066] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=18.05 on_target=0.683 goal=0.245
+[066] FINAL Agenor Vila: no alvo sem gol (roll=0.736)
+[067] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[067] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.383 roll=0.367
+[067] JOGADA Fluminense Football Club | Nicolau Freitas x Jabes Sousa line=5 duel=39.25 corte=-1.35
+[067] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=18.17 on_target=0.684 goal=0.246
+[067] FINAL Óliver Teixeira: no alvo sem gol (roll=0.764)
+[068] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[068] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.383 roll=0.315
+[068] JOGADA Fluminense Football Club | Jerônimo Monteiro x Anaim Rodrigues line=3 duel=7.81 corte=-1.10
+[068] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=18.49 on_target=0.683 goal=0.246
+[068] FINAL Agenor Vila: no alvo sem gol (roll=0.975)
+[069] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[069] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.383 roll=0.110
+[069] JOGADA Fluminense Football Club | Otávio Carvalho x Leonídio Furtado line=4 duel=103.86 corte=-1.10
+[069] FINAL Fluminense Football Club | Agenor Vila fam=3 duel=19.49 on_target=0.620 goal=0.191
+[069] FINAL Agenor Vila: no alvo sem gol (roll=0.852)
+[070] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[070] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.383 roll=0.395
+[071] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[071] SUB Lusitânia Sport Club: saiu Diogo Ribeiro (ZAG) | entrou Evangelista Branco (ZAG) | subs=5/5
+[071] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.342 roll=0.637
+[072] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[072] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.386 roll=0.505
+[073] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[073] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.342 roll=0.420
+[074] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[074] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.386 roll=0.314
+[074] JOGADA Fluminense Football Club | Wilson Coimbra x Leonídio Furtado line=4 duel=64.96 corte=-1.06
+[074] FINAL Fluminense Football Club | Ricard Seyolle fam=3 duel=18.54 on_target=0.620 goal=0.191
+[074] FINAL Ricard Seyolle: no alvo sem gol (roll=0.503)
+[075] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[075] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.386 roll=0.783
+[076] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[076] SUB Fluminense Football Club: saiu Nicolau Freitas (LE) | entrou Beraldo Botelho (LE) | subs=4/5
+[076] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.397 roll=0.129
+[076] JOGADA Fluminense Football Club | Jerônimo Monteiro x Eliseu Mateus line=5 duel=46.66 corte=-1.31
+[076] FINAL Fluminense Football Club | Florêncio Carmona fam=1 duel=7.92 on_target=0.694 goal=0.242
+[076] FINAL Florêncio Carmona: no alvo sem gol (roll=0.945)
+[077] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[077] SUB Fluminense Football Club: saiu Óliver Teixeira (PE) | entrou Estefânio Matos (PD) | subs=5/5
+[077] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.352 roll=0.381
+[078] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[078] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.352 roll=0.372
+[079] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 1 Fluminense Football Club
+[079] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.388 roll=0.382
+[079] JOGADA Fluminense Football Club | Otávio Carvalho x Cícero Feijóo line=5 duel=25.43 corte=-1.31
+[079] FINAL Fluminense Football Club | Estefânio Matos fam=3 duel=-8.99 on_target=0.630 goal=0.180
+[079] FINAL Estefânio Matos: GOL subtipo=CABECA (roll=0.056)
+[080] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[080] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.408 roll=0.156
+[080] JOGADA Lusitânia Sport Club | Cícero Feijóo x Jerônimo Monteiro line=3 duel=-12.98 corte=-1.70
+[080] JOGADA falhou: Jerônimo Monteiro cortou
+[081] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[081] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.386 roll=0.732
+[082] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[082] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.408 roll=0.077
+[082] JOGADA Lusitânia Sport Club | Alcino Lobo x Ricard Seyolle line=3 duel=-21.91 corte=-1.70
+[082] JOGADA falhou: Ricard Seyolle cortou
+[083] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[083] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.386 roll=0.835
+[084] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[084] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.386 roll=0.900
+[085] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[085] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.386 roll=0.287
+[085] JOGADA Fluminense Football Club | Leôncio Rebelo x Lucínio Menezes line=4 duel=24.04 corte=-1.30
+[085] FINAL Fluminense Football Club | Wilson Coimbra fam=1 duel=24.42 on_target=0.657 goal=0.237
+[085] FINAL Wilson Coimbra: fora/alvo perdido (roll=0.733)
+[086] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[086] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.386 roll=0.794
+[087] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[087] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.386 roll=0.818
+[088] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[088] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.386 roll=0.819
+[089] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[089] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.386 roll=0.867
+[090] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[090] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.430 roll=0.474
+[091] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[091] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.430 roll=0.683
+[092] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[092] BUILD Lusitânia Sport Club vs Fluminense Football Club prob=0.430 roll=0.975
+[093] posse=Fluminense Football Club | placar Lusitânia Sport Club 1 x 2 Fluminense Football Club
+[093] BUILD Fluminense Football Club vs Lusitânia Sport Club prob=0.386 roll=0.948

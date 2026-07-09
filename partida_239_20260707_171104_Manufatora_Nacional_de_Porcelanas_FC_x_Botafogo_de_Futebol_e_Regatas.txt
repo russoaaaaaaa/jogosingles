@@ -1,0 +1,320 @@
+Partida #239
+Data: 1912-01-24
+Mandante: Manufatora Nacional de Porcelanas FC
+Visitante: Botafogo de Futebol e Regatas
+Placar: 0 x 1
+Seed: -
+Estádio: Campo do Pilares
+Clima: Chuva leve
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Manufatora Nacional de Porcelanas FC x Botafogo de Futebol e Regatas | estádio=Campo do Pilares | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[001] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.288 roll=0.901
+[002] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[002] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.399 roll=0.346
+[002] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x Porcelano line=3 duel=9.01 corte=-1.10
+[002] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Alamiro Morais line=4 duel=33.13 corte=-1.10
+[002] JOGADA Botafogo de Futebol e Regatas | César Delgado x Betino Passos line=5 duel=111.20 corte=-1.35
+[002] FINAL Botafogo de Futebol e Regatas | João Sanches fam=1 duel=17.44 on_target=0.603 goal=0.228
+[002] FINAL João Sanches: no alvo sem gol (roll=0.710)
+[003] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[003] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.288 roll=0.650
+[004] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[004] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.288 roll=0.511
+[005] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[005] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.288 roll=0.694
+[006] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[006] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.399 roll=0.104
+[006] JOGADA Botafogo de Futebol e Regatas | João Sanches x Válter Brito line=2 duel=52.08 corte=-1.10
+[006] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Barão Sapateiro line=3 duel=39.30 corte=-1.10
+[006] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Válter Brito line=4 duel=11.39 corte=-1.10
+[006] FINAL Botafogo de Futebol e Regatas | Rúben Águas fam=1 duel=19.02 on_target=0.603 goal=0.229
+[006] FINAL Rúben Águas: fora/alvo perdido (roll=0.784)
+[007] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[007] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.399 roll=0.899
+[008] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[008] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.288 roll=0.211
+[008] JOGADA Manufatora Nacional de Porcelanas FC | Barão Sapateiro x Alisson Caiçara line=4 duel=-27.50 corte=-1.70
+[008] JOGADA falhou: Alisson Caiçara cortou
+[009] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[009] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.288 roll=0.466
+[010] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[010] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.399 roll=0.538
+[011] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[011] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.432 roll=0.242
+[011] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Alamiro Morais line=2 duel=87.88 corte=-1.10
+[011] JOGADA Botafogo de Futebol e Regatas | João Sanches x Barão Sapateiro line=5 duel=94.71 corte=-1.85
+[011] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Porcelano line=5 duel=80.68 corte=-1.85
+[011] FINAL Botafogo de Futebol e Regatas | João Sanches fam=1 duel=13.34 on_target=0.651 goal=0.242
+[011] FINAL João Sanches: no alvo sem gol (roll=0.696)
+[012] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[012] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.311 roll=0.897
+[013] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[013] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.311 roll=0.901
+[014] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[014] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.311 roll=0.298
+[014] JOGADA Manufatora Nacional de Porcelanas FC | Râdamas Seixas x Tadeuzinho line=4 duel=12.47 corte=-1.70
+[014] JOGADA Manufatora Nacional de Porcelanas FC | Válter Brito x Fernando Hamada line=5 duel=-15.63 corte=-1.95
+[014] JOGADA falhou: Fernando Hamada cortou
+[015] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[015] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.432 roll=0.230
+[015] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Manufator de Gols line=2 duel=71.09 corte=-1.10
+[015] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Manufator de Gols line=5 duel=107.21 corte=-1.35
+[015] FINAL Botafogo de Futebol e Regatas | Fernando Hamada fam=1 duel=17.81 on_target=0.657 goal=0.247
+[015] FINAL Fernando Hamada: no alvo sem gol (roll=0.534)
+[016] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[016] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.311 roll=0.274
+[016] JOGADA Manufatora Nacional de Porcelanas FC | Válter Brito x Tadeuzinho line=3 duel=19.75 corte=-1.70
+[016] FINAL Manufatora Nacional de Porcelanas FC | Manufator de Gols fam=5 duel=-0.23 on_target=0.557 goal=0.149
+[016] FINAL Manufator de Gols: fora/alvo perdido (roll=0.927)
+[017] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[017] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.311 roll=0.448
+[018] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[018] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.432 roll=0.158
+[018] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x Betino Passos line=2 duel=21.57 corte=-1.10
+[018] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=28.52 on_target=0.653 goal=0.249
+[018] FINAL Tadeuzinho: fora/alvo perdido (roll=0.879)
+[019] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[019] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.311 roll=0.274
+[019] JOGADA Manufatora Nacional de Porcelanas FC | Betino Passos x César Delgado line=3 duel=-32.72 corte=-1.70
+[019] JOGADA falhou: César Delgado cortou
+[020] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[020] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.311 roll=0.483
+[021] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[021] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.335 roll=0.750
+[022] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[022] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.335 roll=0.192
+[022] JOGADA Manufatora Nacional de Porcelanas FC | Barão Sapateiro x Lucimar Garavelo line=4 duel=-71.26 corte=-1.70
+[022] JOGADA falhou: Lucimar Garavelo cortou
+[023] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[023] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.335 roll=0.497
+[024] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[024] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.464 roll=0.600
+[025] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[025] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.335 roll=0.522
+[026] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[026] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.335 roll=0.250
+[026] JOGADA Manufatora Nacional de Porcelanas FC | Manufator de Gols x Rúben Águas line=4 duel=-54.44 corte=-1.70
+[026] JOGADA falhou: Rúben Águas cortou
+[027] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[027] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.464 roll=0.272
+[027] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Râdamas Seixas line=3 duel=80.30 corte=-1.10
+[027] JOGADA Botafogo de Futebol e Regatas | João Sanches x Barão Sapateiro line=4 duel=17.84 corte=-1.10
+[027] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Betino Passos line=4 duel=14.16 corte=-1.10
+[027] FINAL Botafogo de Futebol e Regatas | Rúben Águas fam=1 duel=7.73 on_target=0.684 goal=0.246
+[027] FINAL Rúben Águas: no alvo sem gol (roll=0.380)
+[028] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[028] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.335 roll=0.156
+[028] JOGADA Manufatora Nacional de Porcelanas FC | Firmo Machado x Alisson Caiçara line=4 duel=-3.90 corte=-1.70
+[028] JOGADA falhou: Alisson Caiçara cortou
+[029] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[029] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.464 roll=0.021
+[029] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Betino Passos line=2 duel=14.75 corte=-1.10
+[029] FINAL Botafogo de Futebol e Regatas | Fernando Hamada fam=1 duel=19.14 on_target=0.691 goal=0.255
+[029] FINAL Fernando Hamada: no alvo sem gol (roll=0.371)
+[030] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[030] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.335 roll=0.117
+[030] JOGADA Manufatora Nacional de Porcelanas FC | Betino Passos x João Sanches line=2 duel=57.55 corte=-1.70
+[030] FINAL Manufatora Nacional de Porcelanas FC | Barão Sapateiro fam=5 duel=-31.25 on_target=0.580 goal=0.138
+[030] FINAL Barão Sapateiro: no alvo sem gol (roll=0.970)
+[031] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[031] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.335 roll=0.589
+[032] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[032] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.464 roll=0.444
+[032] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Betino Passos line=3 duel=23.11 corte=-1.10
+[032] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Válter Brito line=4 duel=15.42 corte=-1.10
+[032] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Hamilton Madureira line=5 duel=104.86 corte=-1.85
+[032] FINAL Botafogo de Futebol e Regatas | Rúben Águas fam=1 duel=5.12 on_target=0.684 goal=0.245
+[032] FINAL Rúben Águas: no alvo sem gol (roll=0.706)
+[033] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[033] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.337 roll=0.048
+[033] JOGADA Manufatora Nacional de Porcelanas FC | Porcelano x Rúben Águas line=4 duel=2.44 corte=-1.70
+[033] JOGADA Manufatora Nacional de Porcelanas FC | Válter Brito x Tadeuzinho line=4 duel=-2.81 corte=-1.70
+[034] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[034] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.464 roll=0.975
+[035] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[035] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.337 roll=0.965
+[036] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[036] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.464 roll=0.669
+[037] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[037] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.337 roll=0.729
+[038] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[038] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.464 roll=0.791
+[039] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[039] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.464 roll=0.419
+[039] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Manufator de Gols line=2 duel=117.85 corte=-1.10
+[039] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Alamiro Morais line=4 duel=4.02 corte=-1.10
+[039] FINAL Botafogo de Futebol e Regatas | João Sanches fam=1 duel=-0.86 on_target=0.684 goal=0.243
+[039] FINAL João Sanches: no alvo sem gol (roll=0.933)
+[040] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[040] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.464 roll=0.681
+[041] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[041] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.337 roll=0.714
+[042] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[042] LESÃO Manufatora Nacional de Porcelanas FC: Argiloso | contusão grave | gravidade=grave | 13 jogo(s)
+[042] SUB Manufatora Nacional de Porcelanas FC: saiu Argiloso (GOL) | entrou Leonel Costa (GOL) | subs=1/5
+[042] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.464 roll=0.021
+[042] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Râdamas Seixas line=3 duel=109.19 corte=-1.10
+[042] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Firmo Machado line=4 duel=60.72 corte=-1.10
+[042] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Alamiro Morais line=4 duel=5.60 corte=-1.10
+[042] FINAL Botafogo de Futebol e Regatas | César Delgado fam=1 duel=10.45 on_target=0.690 goal=0.251
+[042] FINAL César Delgado: no alvo sem gol (roll=0.377)
+[043] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[043] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.345 roll=0.446
+[044] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[044] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.464 roll=0.075
+[044] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x Barão Sapateiro line=2 duel=20.18 corte=-1.10
+[044] FINAL Botafogo de Futebol e Regatas | Rúben Águas fam=1 duel=-8.46 on_target=0.683 goal=0.240
+[044] FINAL Rúben Águas: no alvo sem gol (roll=0.320)
+[045] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[045] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.345 roll=0.177
+[045] JOGADA Manufatora Nacional de Porcelanas FC | Marino Moreira x Lucimar Garavelo line=3 duel=27.52 corte=-1.70
+[045] FINAL Manufatora Nacional de Porcelanas FC | Marino Moreira fam=5 duel=-9.17 on_target=0.584 goal=0.149
+[045] FINAL Marino Moreira: no alvo sem gol (roll=0.260)
+[046] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[046] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.321 roll=0.316
+[046] JOGADA Manufatora Nacional de Porcelanas FC | Válter Brito x Lucimar Garavelo line=3 duel=-37.13 corte=-1.70
+[046] JOGADA falhou: Lucimar Garavelo cortou
+[047] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[047] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.321 roll=0.251
+[047] JOGADA Manufatora Nacional de Porcelanas FC | Firmo Machado x João Sanches line=2 duel=4.28 corte=-1.70
+[047] FINAL Manufatora Nacional de Porcelanas FC | Manufator de Gols fam=1 duel=-12.24 on_target=0.640 goal=0.228
+[047] FINAL Manufator de Gols: no alvo sem gol (roll=0.482)
+[048] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[048] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.321 roll=0.717
+[049] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[049] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.321 roll=0.252
+[049] JOGADA Manufatora Nacional de Porcelanas FC | Betino Passos x Tadeuzinho line=2 duel=50.80 corte=-1.70
+[049] FINAL Manufatora Nacional de Porcelanas FC | Firmo Machado fam=5 duel=-21.47 on_target=0.556 goal=0.140
+[049] FINAL Firmo Machado: fora/alvo perdido (roll=0.861)
+[050] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[050] SUB Manufatora Nacional de Porcelanas FC: saiu Firmo Machado (CA) | entrou Silvestre Texeira (CA) | subs=2/5
+[050] SUB Botafogo de Futebol e Regatas: saiu João Sanches (SA) | entrou Severino Desempregado (MA) | subs=1/5
+[050] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.434 roll=0.863
+[051] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[051] SUB Manufatora Nacional de Porcelanas FC: saiu Manufator de Gols (SA) | entrou Didaco Dias (MA) | subs=3/5
+[051] SUB Botafogo de Futebol e Regatas: saiu Rúben Águas (SA) | entrou Escudo Calábrio Defensor (SA) | subs=2/5
+[051] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.409 roll=0.465
+[052] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[052] SUB Manufatora Nacional de Porcelanas FC: saiu Râdamas Seixas (PE) | entrou Héber Álvares (PE) | subs=4/5
+[052] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.296 roll=0.496
+[053] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[053] SUB Manufatora Nacional de Porcelanas FC: saiu Betino Passos (LE) | entrou Absalão de Castro (LD) | subs=5/5
+[053] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.414 roll=0.426
+[054] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[054] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.414 roll=0.482
+[055] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[055] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.297 roll=0.424
+[056] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[056] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.319 roll=0.474
+[057] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[057] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.445 roll=0.887
+[058] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[058] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.417 roll=0.481
+[059] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[059] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.319 roll=0.575
+[060] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[060] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.323 roll=0.247
+[060] JOGADA Manufatora Nacional de Porcelanas FC | Didaco Dias x Lucimar Garavelo line=4 duel=-31.19 corte=-1.70
+[060] JOGADA falhou: Lucimar Garavelo cortou
+[061] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[061] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.417 roll=0.726
+[062] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[062] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.323 roll=0.972
+[063] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[063] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.323 roll=0.454
+[064] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[064] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.417 roll=0.800
+[065] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[065] SUB Botafogo de Futebol e Regatas: saiu Marco Medeiros (MC) | entrou Jessé Soares (VOL) | subs=3/5
+[065] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.419 roll=0.305
+[065] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Héber Álvares line=4 duel=9.50 corte=-1.10
+[065] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Héber Álvares line=5 duel=55.09 corte=-1.35
+[065] FINAL Botafogo de Futebol e Regatas | Severino Desempregado fam=1 duel=28.88 on_target=0.684 goal=0.256
+[065] FINAL Severino Desempregado: no alvo sem gol (roll=0.303)
+[066] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[066] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.322 roll=0.608
+[067] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[067] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.322 roll=0.002
+[067] JOGADA Manufatora Nacional de Porcelanas FC | Barão Sapateiro x Tadeuzinho line=4 duel=0.90 corte=-1.70
+[067] FINAL Manufatora Nacional de Porcelanas FC | Válter Brito fam=5 duel=-33.63 on_target=0.578 goal=0.137
+[067] FINAL Válter Brito: no alvo sem gol (roll=0.293)
+[068] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[068] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.325 roll=0.720
+[068] FINAL Manufatora Nacional de Porcelanas FC | Válter Brito fam=5 duel=-75.87 on_target=0.576 goal=0.120
+[068] FINAL Válter Brito: fora/alvo perdido (roll=0.648)
+[069] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[069] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.325 roll=0.971
+[070] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[070] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.325 roll=0.884
+[071] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[071] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.325 roll=0.611
+[072] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[072] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.419 roll=0.918
+[073] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[073] SUB Botafogo de Futebol e Regatas: saiu Geraldo Pascoal (ZAG) | entrou Augusto Bota Fogo no Adversário (ZAG) | subs=4/5
+[073] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.419 roll=0.931
+[074] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[074] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.326 roll=0.928
+[075] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[075] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.326 roll=0.348
+[076] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[076] SUB Botafogo de Futebol e Regatas: saiu Alisson Caiçara (LE) | entrou Jurandir Guerra (LD) | subs=5/5
+[076] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.336 roll=0.803
+[077] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[077] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.431 roll=0.266
+[077] JOGADA Botafogo de Futebol e Regatas | Jurandir Guerra x Absalão de Castro line=2 duel=79.40 corte=-1.05
+[077] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Barão Sapateiro line=5 duel=50.90 corte=-1.30
+[077] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=12.86 on_target=0.700 goal=0.253
+[077] FINAL Tadeuzinho: no alvo sem gol (roll=0.868)
+[078] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[078] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.336 roll=0.472
+[079] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[079] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.431 roll=0.183
+[079] JOGADA Botafogo de Futebol e Regatas | Augusto Bota Fogo no Adversário x Válter Brito line=3 duel=47.34 corte=-1.05
+[079] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Marino Moreira line=4 duel=-9.39 corte=-1.05
+[079] JOGADA falhou: Marino Moreira cortou
+[080] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[080] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.336 roll=0.657
+[081] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[081] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.336 roll=0.294
+[081] JOGADA Manufatora Nacional de Porcelanas FC | Barão Sapateiro x Fernando Hamada line=2 duel=-14.77 corte=-1.70
+[081] JOGADA falhou: Fernando Hamada cortou
+[082] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[082] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.336 roll=0.423
+[083] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[083] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.336 roll=0.777
+[084] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[084] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.336 roll=0.871
+[085] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[085] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.454 roll=0.660
+[086] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 0 Botafogo de Futebol e Regatas
+[086] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.454 roll=0.415
+[086] JOGADA Botafogo de Futebol e Regatas | Augusto Bota Fogo no Adversário x Héber Álvares line=3 duel=28.10 corte=-1.05
+[086] JOGADA Botafogo de Futebol e Regatas | César Delgado x Barão Sapateiro line=4 duel=20.81 corte=-1.05
+[086] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=15.91 on_target=0.744 goal=0.254
+[086] FINAL Tadeuzinho: GOL subtipo=CHUTE (roll=0.211)
+[087] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 1 Botafogo de Futebol e Regatas
+[087] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.429 roll=0.477
+[088] posse=Manufatora Nacional de Porcelanas FC | placar Manufatora Nacional de Porcelanas FC 0 x 1 Botafogo de Futebol e Regatas
+[088] BUILD Manufatora Nacional de Porcelanas FC vs Botafogo de Futebol e Regatas prob=0.426 roll=0.681
+[089] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 1 Botafogo de Futebol e Regatas
+[089] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.429 roll=0.825
+[090] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 1 Botafogo de Futebol e Regatas
+[090] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.429 roll=0.629
+[091] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 1 Botafogo de Futebol e Regatas
+[091] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.429 roll=0.327
+[091] JOGADA Botafogo de Futebol e Regatas | César Delgado x Marino Moreira line=2 duel=16.10 corte=-1.30
+[091] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Válter Brito line=3 duel=9.55 corte=-1.30
+[091] JOGADA Botafogo de Futebol e Regatas | Jurandir Guerra x Didaco Dias line=4 duel=16.60 corte=-1.30
+[091] FINAL Botafogo de Futebol e Regatas | Fernando Hamada fam=1 duel=8.31 on_target=0.665 goal=0.240
+[091] FINAL Fernando Hamada: no alvo sem gol (roll=0.670)
+[092] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 1 Botafogo de Futebol e Regatas
+[092] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.429 roll=0.842
+[093] posse=Botafogo de Futebol e Regatas | placar Manufatora Nacional de Porcelanas FC 0 x 1 Botafogo de Futebol e Regatas
+[093] BUILD Botafogo de Futebol e Regatas vs Manufatora Nacional de Porcelanas FC prob=0.429 roll=0.593

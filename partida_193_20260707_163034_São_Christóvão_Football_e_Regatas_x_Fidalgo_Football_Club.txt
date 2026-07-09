@@ -1,0 +1,344 @@
+Partida #193
+Data: 1912-01-18
+Mandante: São Christóvão Football e Regatas
+Visitante: Fidalgo Football Club
+Placar: 2 x 1
+Seed: -
+Estádio: Estádio Figueira de Mello
+Clima: Calor forte
+Placar tempo normal: 2 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: São Christóvão Football e Regatas x Fidalgo Football Club | estádio=Estádio Figueira de Mello | clima=Calor forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[001] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.288 roll=0.227
+[001] JOGADA Fidalgo Football Club | Apolônio Fasano x Regente Feijó line=2 duel=-12.51 corte=-1.10
+[002] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[002] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.401 roll=0.396
+[002] JOGADA São Christóvão Football e Regatas | Tadeu Gavião x Agnelo Orrico line=4 duel=47.82 corte=-1.70
+[002] FINAL São Christóvão Football e Regatas | Calistêmico Soares fam=5 duel=-83.79 on_target=0.522 goal=0.110
+[002] FINAL Calistêmico Soares: no alvo sem gol (roll=0.754)
+[003] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[003] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.401 roll=0.388
+[003] JOGADA São Christóvão Football e Regatas | Putréfio Lemos x Ícaro Custódio line=4 duel=3.30 corte=-1.70
+[003] FINAL São Christóvão Football e Regatas | Fevereiriano Macedo fam=5 duel=2.66 on_target=0.527 goal=0.147
+[003] FINAL Fevereiriano Macedo: no alvo sem gol (roll=0.275)
+[004] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[004] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.401 roll=0.156
+[004] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Jaguará Guerreiro line=4 duel=27.91 corte=-1.70
+[004] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=5 duel=3.16 on_target=0.526 goal=0.147
+[004] FINAL Tadeu Gavião: fora/alvo perdido (roll=0.899)
+[005] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[005] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.401 roll=0.973
+[005] FINAL São Christóvão Football e Regatas | Mauricélio Canoa fam=5 duel=-110.47 on_target=0.517 goal=0.098
+[005] FINAL Mauricélio Canoa: fora/alvo perdido (roll=0.945)
+[006] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[006] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.401 roll=0.924
+[007] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[007] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.288 roll=0.053
+[007] JOGADA Fidalgo Football Club | Lukas Lombardi x Valério Cesarino line=4 duel=7.71 corte=-1.10
+[007] JOGADA Fidalgo Football Club | Patrício Gouveia x Celíaco Diabético line=5 duel=45.88 corte=-1.35
+[007] JOGADA Fidalgo Football Club | Ícaro Custódio x Tadeu Gavião line=5 duel=119.48 corte=-1.35
+[007] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=1 duel=3.52 on_target=0.595 goal=0.213
+[007] FINAL Pacheco Arcoverde: no alvo sem gol (roll=0.986)
+[008] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[008] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.288 roll=0.711
+[009] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[009] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.401 roll=0.977
+[010] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[010] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.401 roll=0.100
+[010] JOGADA São Christóvão Football e Regatas | Valério Cesarino x Pacheco Arcoverde line=5 duel=78.37 corte=-1.95
+[010] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=9.40 on_target=0.533 goal=0.152
+[010] FINAL Murilo Sousa: no alvo sem gol (roll=0.679)
+[011] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[011] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.433 roll=0.160
+[011] JOGADA São Christóvão Football e Regatas | Tadeu Gavião x Patrício Gouveia line=4 duel=41.68 corte=-1.70
+[011] FINAL São Christóvão Football e Regatas | Fevereiriano Macedo fam=5 duel=-77.32 on_target=0.564 goal=0.121
+[011] FINAL Fevereiriano Macedo: no alvo sem gol (roll=0.648)
+[012] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[012] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.312 roll=0.704
+[013] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[013] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.312 roll=0.132
+[013] JOGADA Fidalgo Football Club | Ícaro Custódio x Murilo Sousa line=3 duel=3.86 corte=-1.10
+[013] JOGADA Fidalgo Football Club | Agnelo Orrico x Murilo Sousa line=4 duel=-16.27 corte=-1.10
+[013] JOGADA falhou: Murilo Sousa cortou
+[014] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[014] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.433 roll=0.266
+[014] JOGADA São Christóvão Football e Regatas | Calistêmico Soares x Pacheco Arcoverde line=3 duel=44.72 corte=-1.70
+[014] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=9.74 on_target=0.575 goal=0.162
+[014] FINAL Murilo Sousa: no alvo sem gol (roll=0.470)
+[015] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[015] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.433 roll=0.418
+[015] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Jaguará Guerreiro line=4 duel=51.47 corte=-1.70
+[015] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=5 duel=-75.98 on_target=0.564 goal=0.121
+[015] FINAL Tadeu Gavião: no alvo sem gol (roll=0.783)
+[016] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[016] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.312 roll=0.750
+[017] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[017] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.433 roll=0.670
+[018] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[018] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.433 roll=0.928
+[019] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[019] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.312 roll=0.321
+[020] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[020] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.312 roll=0.663
+[021] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[021] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.335 roll=0.807
+[022] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[022] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.466 roll=0.134
+[022] JOGADA São Christóvão Football e Regatas | Tadeu Gavião x Torquato Brasileiro line=4 duel=9.04 corte=-1.70
+[022] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=5 duel=-73.51 on_target=0.593 goal=0.126
+[022] FINAL Tadeu Gavião: no alvo sem gol (roll=0.896)
+[023] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[023] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.466 roll=0.585
+[024] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[024] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.466 roll=0.632
+[025] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[025] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.466 roll=0.484
+[026] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[026] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.466 roll=0.338
+[026] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Jaguará Guerreiro line=5 duel=26.49 corte=-1.95
+[026] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=-58.52 on_target=0.601 goal=0.135
+[026] FINAL Murilo Sousa: no alvo sem gol (roll=0.356)
+[027] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[027] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.335 roll=0.487
+[028] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[028] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.466 roll=0.970
+[029] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[029] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.335 roll=0.366
+[030] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[030] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.466 roll=0.079
+[030] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Bauá Laranjeira line=4 duel=35.39 corte=-1.70
+[030] FINAL São Christóvão Football e Regatas | Fevereiriano Macedo fam=5 duel=-7.11 on_target=0.598 goal=0.157
+[030] FINAL Fevereiriano Macedo: no alvo sem gol (roll=0.255)
+[031] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[031] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.335 roll=0.688
+[031] FINAL Fidalgo Football Club | Lukas Lombardi fam=5 duel=-8.35 on_target=0.575 goal=0.132
+[031] FINAL Lukas Lombardi: fora/alvo perdido (roll=0.956)
+[032] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[032] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.468 roll=0.117
+[032] JOGADA São Christóvão Football e Regatas | Putréfio Lemos x Pacheco Arcoverde line=3 duel=33.45 corte=-1.70
+[032] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=5 duel=-7.42 on_target=0.598 goal=0.158
+[032] FINAL Tadeu Gavião: no alvo sem gol (roll=0.453)
+[033] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[033] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.468 roll=0.531
+[034] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[034] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.468 roll=0.821
+[035] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[035] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.468 roll=0.530
+[036] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[036] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.468 roll=0.823
+[037] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[037] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.468 roll=0.245
+[037] JOGADA São Christóvão Football e Regatas | Pedro Bittecourt x Lukas Lombardi line=5 duel=-3.58 corte=-1.95
+[037] JOGADA falhou: Lukas Lombardi cortou
+[038] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[038] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.468 roll=0.226
+[038] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Pacheco Arcoverde line=4 duel=22.45 corte=-1.70
+[038] FINAL São Christóvão Football e Regatas | Fevereiriano Macedo fam=5 duel=-65.12 on_target=0.595 goal=0.131
+[038] FINAL Fevereiriano Macedo: no alvo sem gol (roll=0.527)
+[039] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[039] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.468 roll=0.016
+[039] JOGADA São Christóvão Football e Regatas | Pedro Bittecourt x Bryan Figueiredo line=4 duel=-12.65 corte=-1.70
+[039] JOGADA falhou: Bryan Figueiredo cortou
+[040] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[040] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.468 roll=0.879
+[041] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[041] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.468 roll=0.006
+[041] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Patrício Gouveia line=3 duel=26.06 corte=-1.70
+[041] FINAL São Christóvão Football e Regatas | Calistêmico Soares fam=5 duel=1.10 on_target=0.599 goal=0.162
+[041] FINAL Calistêmico Soares: no alvo sem gol (roll=0.184)
+[042] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[042] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.468 roll=0.573
+[043] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[043] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.335 roll=0.791
+[044] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[044] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.468 roll=0.974
+[045] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fidalgo Football Club
+[045] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.468 roll=0.199
+[045] JOGADA São Christóvão Football e Regatas | Tadeu Gavião x Torquato Brasileiro line=3 duel=5.39 corte=-1.70
+[045] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=5 duel=-1.93 on_target=0.598 goal=0.160
+[045] FINAL Tadeu Gavião: GOL subtipo=FALTA (roll=0.119)
+[046] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fidalgo Football Club
+[046] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.436 roll=0.791
+[046] FINAL São Christóvão Football e Regatas | Calistêmico Soares fam=5 duel=1.34 on_target=0.569 goal=0.157
+[046] FINAL Calistêmico Soares: GOL subtipo=FALTA (roll=0.147)
+[047] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 0 Fidalgo Football Club
+[047] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.426 roll=0.364
+[047] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Jaguará Guerreiro line=4 duel=21.94 corte=-1.70
+[047] FINAL São Christóvão Football e Regatas | Fevereiriano Macedo fam=5 duel=-1.38 on_target=0.546 goal=0.145
+[047] FINAL Fevereiriano Macedo: no alvo sem gol (roll=0.890)
+[048] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 0 Fidalgo Football Club
+[048] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.426 roll=0.817
+[049] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 0 Fidalgo Football Club
+[049] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.426 roll=0.974
+[050] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 0 Fidalgo Football Club
+[050] SUB São Christóvão Football e Regatas: saiu Tadeu Gavião (SA) | entrou Lúcio Gouveia (MA) | subs=1/5
+[050] SUB Fidalgo Football Club: saiu Apolônio Fasano (ME) | entrou Nilton Soares (ME) | subs=1/5
+[050] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.421 roll=0.376
+[050] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Bauá Laranjeira line=5 duel=-1.79 corte=-1.95
+[050] FINAL São Christóvão Football e Regatas | Valério Cesarino fam=5 duel=-23.01 on_target=0.542 goal=0.135
+[050] FINAL Valério Cesarino: no alvo sem gol (roll=0.141)
+[051] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 0 Fidalgo Football Club
+[051] SUB São Christóvão Football e Regatas: saiu Fevereiriano Macedo (CA) | entrou Jacó Freire (CA) | subs=2/5
+[051] SUB Fidalgo Football Club: saiu Pacheco Arcoverde (CA) | entrou Arley Quadros (PD) | subs=2/5
+[051] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.407 roll=0.018
+[051] JOGADA São Christóvão Football e Regatas | Putréfio Lemos x Bryan Figueiredo line=4 duel=15.32 corte=-1.70
+[051] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=12.92 on_target=0.553 goal=0.154
+[051] FINAL Murilo Sousa: no alvo sem gol (roll=0.602)
+[052] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 0 Fidalgo Football Club
+[052] SUB São Christóvão Football e Regatas: saiu Valério Cesarino (LD) | entrou Ricardo Leal (LE) | subs=3/5
+[052] SUB Fidalgo Football Club: saiu Torquato Brasileiro (ZAG) | entrou Avati Volpi (ZAG) | subs=3/5
+[052] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.349 roll=0.465
+[053] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 0 Fidalgo Football Club
+[053] SUB São Christóvão Football e Regatas: saiu Pedro Bittecourt (VOL) | entrou Ciríaco Paredes (ZAG) | subs=4/5
+[053] SUB Fidalgo Football Club: saiu Agnelo Orrico (SA) | entrou Macacos Jesus (SA) | subs=4/5
+[053] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.330 roll=0.451
+[054] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 0 Fidalgo Football Club
+[054] SUB São Christóvão Football e Regatas: saiu Calistêmico Soares (MC) | entrou Miguel Moreira (ME) | subs=5/5
+[054] SUB Fidalgo Football Club: saiu Bryan Figueiredo (LE) | entrou Rorá Catão (LE) | subs=5/5
+[054] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.366 roll=0.610
+[055] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 0 Fidalgo Football Club
+[055] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.370 roll=0.866
+[056] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 0 Fidalgo Football Club
+[056] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.397 roll=0.006
+[056] JOGADA Fidalgo Football Club | Bauá Laranjeira x Ciríaco Paredes line=2 duel=21.04 corte=-1.30
+[056] FINAL Fidalgo Football Club | Macacos Jesus fam=5 duel=-51.03 on_target=0.585 goal=0.127
+[056] FINAL Macacos Jesus: GOL subtipo=FALTA (roll=0.086)
+[057] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[057] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.403 roll=0.500
+[058] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[058] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.393 roll=0.342
+[058] JOGADA Fidalgo Football Club | Nilton Soares x Murilo Sousa line=4 duel=13.72 corte=-1.30
+[058] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Ciríaco Paredes line=5 duel=29.54 corte=-1.55
+[058] JOGADA Fidalgo Football Club | Nilton Soares x Lúcio Gouveia line=5 duel=81.53 corte=-1.55
+[058] FINAL Fidalgo Football Club | Macacos Jesus fam=1 duel=11.16 on_target=0.680 goal=0.243
+[058] FINAL Macacos Jesus: no alvo sem gol (roll=0.388)
+[059] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[059] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.403 roll=0.587
+[060] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[060] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.396 roll=0.778
+[061] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[061] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.403 roll=0.771
+[062] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[062] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.396 roll=0.114
+[062] JOGADA Fidalgo Football Club | Lukas Lombardi x Putréfio Lemos line=4 duel=7.57 corte=-1.30
+[062] JOGADA Fidalgo Football Club | Patrício Gouveia x Regente Feijó line=5 duel=23.82 corte=-1.55
+[062] FINAL Fidalgo Football Club | Macacos Jesus fam=5 duel=-8.33 on_target=0.588 goal=0.146
+[062] FINAL Macacos Jesus: no alvo sem gol (roll=0.646)
+[063] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[063] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.396 roll=0.858
+[064] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[064] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.403 roll=0.541
+[065] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[065] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.403 roll=0.350
+[065] JOGADA São Christóvão Football e Regatas | Lúcio Gouveia x Bauá Laranjeira line=3 duel=85.77 corte=-1.30
+[065] FINAL São Christóvão Football e Regatas | Putréfio Lemos fam=3 duel=-9.11 on_target=0.619 goal=0.182
+[065] FINAL Putréfio Lemos: fora/alvo perdido (roll=0.815)
+[066] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[066] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.396 roll=0.378
+[066] JOGADA Fidalgo Football Club | Bauá Laranjeira x Lúcio Gouveia line=3 duel=-26.67 corte=-1.30
+[066] JOGADA falhou: Lúcio Gouveia cortou
+[067] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[067] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.396 roll=0.906
+[068] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[068] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.403 roll=0.444
+[069] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[069] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.396 roll=0.498
+[070] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[070] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.398 roll=0.075
+[070] JOGADA São Christóvão Football e Regatas | Miguel Moreira x Lukas Lombardi line=4 duel=89.34 corte=-1.30
+[070] FINAL São Christóvão Football e Regatas | Putréfio Lemos fam=3 duel=-17.85 on_target=0.606 goal=0.178
+[070] FINAL Putréfio Lemos: fora/alvo perdido (roll=0.985)
+[071] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[071] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.398 roll=0.232
+[071] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Macacos Jesus line=4 duel=-20.80 corte=-1.30
+[071] JOGADA falhou: Macacos Jesus cortou
+[072] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[072] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.396 roll=0.632
+[073] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[073] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.396 roll=0.501
+[074] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[074] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.396 roll=0.249
+[074] JOGADA Fidalgo Football Club | Nilton Soares x Murilo Sousa line=4 duel=-58.63 corte=-1.30
+[074] JOGADA falhou: Murilo Sousa cortou
+[075] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[075] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.396 roll=0.468
+[076] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[076] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.386 roll=0.569
+[077] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[077] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.386 roll=0.048
+[077] JOGADA São Christóvão Football e Regatas | Lúcio Gouveia x Ícaro Custódio line=5 duel=74.44 corte=-2.05
+[077] FINAL São Christóvão Football e Regatas | Miguel Moreira fam=3 duel=-0.35 on_target=0.593 goal=0.177
+[077] FINAL Miguel Moreira: fora/alvo perdido (roll=0.931)
+[078] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[078] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.386 roll=0.130
+[078] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Rorá Catão line=3 duel=-14.69 corte=-1.30
+[078] JOGADA falhou: Rorá Catão cortou
+[079] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[079] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.428 roll=0.116
+[079] JOGADA Fidalgo Football Club | Ícaro Custódio x Murilo Sousa line=3 duel=-4.22 corte=-1.30
+[080] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[080] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.428 roll=0.810
+[081] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[081] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.428 roll=0.569
+[082] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[082] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.386 roll=0.328
+[082] JOGADA São Christóvão Football e Regatas | Regente Feijó x Lukas Lombardi line=4 duel=25.88 corte=-1.30
+[082] FINAL São Christóvão Football e Regatas | Lúcio Gouveia fam=1 duel=15.02 on_target=0.656 goal=0.237
+[082] FINAL Lúcio Gouveia: no alvo sem gol (roll=0.950)
+[083] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[083] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.428 roll=0.123
+[083] JOGADA Fidalgo Football Club | Ícaro Custódio x Jacó Freire line=3 duel=-7.69 corte=-1.30
+[083] JOGADA falhou: Jacó Freire cortou
+[084] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[084] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.386 roll=0.007
+[084] JOGADA São Christóvão Football e Regatas | Ricardo Leal x Ícaro Custódio line=5 duel=34.82 corte=-1.55
+[084] FINAL São Christóvão Football e Regatas | Jacó Freire fam=1 duel=-0.97 on_target=0.654 goal=0.230
+[084] FINAL Jacó Freire: fora/alvo perdido (roll=0.926)
+[085] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[085] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.386 roll=0.128
+[085] JOGADA São Christóvão Football e Regatas | Regente Feijó x Nilton Soares line=4 duel=5.66 corte=-1.30
+[085] FINAL São Christóvão Football e Regatas | Jacó Freire fam=1 duel=5.50 on_target=0.655 goal=0.232
+[085] FINAL Jacó Freire: no alvo sem gol (roll=0.475)
+[086] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[086] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.451 roll=0.024
+[086] JOGADA Fidalgo Football Club | Rorá Catão x Lúcio Gouveia line=2 duel=-18.31 corte=-1.30
+[086] JOGADA falhou: Lúcio Gouveia cortou
+[087] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[087] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.451 roll=0.134
+[087] JOGADA Fidalgo Football Club | Avati Volpi x Lúcio Gouveia line=3 duel=-12.86 corte=-1.30
+[087] JOGADA falhou: Lúcio Gouveia cortou
+[088] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[088] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.451 roll=0.957
+[089] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[089] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.386 roll=0.352
+[089] JOGADA São Christóvão Football e Regatas | Ricardo Leal x Patrício Gouveia line=4 duel=47.80 corte=-1.30
+[089] FINAL São Christóvão Football e Regatas | Lúcio Gouveia fam=1 duel=8.45 on_target=0.656 goal=0.234
+[089] FINAL Lúcio Gouveia: no alvo sem gol (roll=0.481)
+[090] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[090] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.451 roll=0.871
+[091] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[091] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.451 roll=0.963
+[092] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[092] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.386 roll=0.878
+[093] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[093] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.386 roll=0.314
+[093] JOGADA São Christóvão Football e Regatas | Putréfio Lemos x Avati Volpi line=5 duel=46.36 corte=-1.55
+[093] FINAL São Christóvão Football e Regatas | Jacó Freire fam=1 duel=-0.70 on_target=0.654 goal=0.230
+[093] FINAL Jacó Freire: no alvo sem gol (roll=0.625)
+[094] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[094] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.386 roll=0.685
+[094] FINAL São Christóvão Football e Regatas | Lúcio Gouveia fam=5 duel=0.18 on_target=0.560 goal=0.135
+[094] FINAL Lúcio Gouveia: no alvo sem gol (roll=0.235)
+[095] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[095] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.386 roll=0.895
+[096] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[096] BUILD São Christóvão Football e Regatas vs Fidalgo Football Club prob=0.386 roll=0.474
+[097] posse=Fidalgo Football Club | placar São Christóvão Football e Regatas 2 x 1 Fidalgo Football Club
+[097] BUILD Fidalgo Football Club vs São Christóvão Football e Regatas prob=0.451 roll=0.448
+[097] JOGADA Fidalgo Football Club | Macacos Jesus x Ricardo Leal line=4 duel=-5.40 corte=-1.30
+[097] JOGADA falhou: Ricardo Leal cortou

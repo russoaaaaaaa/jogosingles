@@ -1,0 +1,303 @@
+Partida #187
+Data: 1912-01-18
+Mandante: Pinto United
+Visitante: Manufatora Nacional de Porcelanas FC
+Placar: 1 x 0
+Seed: -
+Estádio: Pintão
+Clima: Nublado
+Placar tempo normal: 1 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Pinto United x Manufatora Nacional de Porcelanas FC | estádio=Pintão | clima=Nublado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[001] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.353 roll=0.738
+[002] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[002] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.275 roll=0.373
+[003] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[003] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.353 roll=0.999
+[004] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[004] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.275 roll=0.336
+[005] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[005] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.275 roll=0.966
+[006] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[006] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.275 roll=0.411
+[007] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[007] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.275 roll=0.033
+[007] JOGADA Manufatora Nacional de Porcelanas FC | Válter Brito x Elisson Gusmão line=4 duel=-34.24 corte=-1.30
+[008] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[008] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.354 roll=0.235
+[008] JOGADA Pinto United | Capão Bicudo x Marino Moreira line=3 duel=19.10 corte=-1.13
+[008] JOGADA Pinto United | Jetro Trindade x Hamilton Madureira line=4 duel=9.14 corte=-1.13
+[008] JOGADA Pinto United | Ladislau Alves x Firmo Machado line=4 duel=40.52 corte=-1.13
+[008] FINAL Pinto United | Capão Bicudo fam=3 duel=-3.13 on_target=0.541 goal=0.168
+[008] FINAL Capão Bicudo: fora/alvo perdido (roll=0.541)
+[009] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[009] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.274 roll=0.938
+[010] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[010] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.274 roll=0.824
+[011] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[011] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.297 roll=0.003
+[011] JOGADA Manufatora Nacional de Porcelanas FC | Marino Moreira x Kuaray Gato line=4 duel=-11.88 corte=-1.30
+[012] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[012] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.382 roll=0.480
+[013] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[013] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.382 roll=0.660
+[014] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[014] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.382 roll=0.480
+[015] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[015] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.382 roll=0.556
+[016] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[016] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.297 roll=0.533
+[017] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[017] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.297 roll=0.883
+[018] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[018] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.297 roll=0.146
+[018] JOGADA Manufatora Nacional de Porcelanas FC | Alamiro Morais x Capão Bicudo line=3 duel=1.23 corte=-1.30
+[018] FINAL Manufatora Nacional de Porcelanas FC | Râdamas Seixas fam=5 duel=-20.48 on_target=0.554 goal=0.137
+[018] FINAL Râdamas Seixas: no alvo sem gol (roll=0.958)
+[019] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[019] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.382 roll=0.068
+[019] JOGADA Pinto United | Mairã Coxinha x Râdamas Seixas line=4 duel=30.16 corte=-1.13
+[019] JOGADA Pinto United | Ovoberto x Marino Moreira line=4 duel=12.26 corte=-1.13
+[019] JOGADA Pinto United | Mairã Coxinha x Porcelano line=5 duel=55.87 corte=-1.38
+[019] FINAL Pinto United | Júlio do Cocoricó fam=1 duel=13.75 on_target=0.645 goal=0.240
+[019] FINAL Júlio do Cocoricó: fora/alvo perdido (roll=0.820)
+[020] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[020] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.382 roll=0.715
+[021] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[021] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.411 roll=0.711
+[022] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[022] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.319 roll=0.522
+[023] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[023] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.411 roll=0.568
+[024] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[024] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.319 roll=0.319
+[024] JOGADA Manufatora Nacional de Porcelanas FC | Betino Passos x Mairã Coxinha line=3 duel=4.63 corte=-1.30
+[024] FINAL Manufatora Nacional de Porcelanas FC | Marino Moreira fam=5 duel=-77.38 on_target=0.574 goal=0.114
+[024] FINAL Marino Moreira: no alvo sem gol (roll=0.237)
+[025] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[025] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.319 roll=0.911
+[026] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[026] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.319 roll=0.568
+[027] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[027] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.411 roll=0.792
+[028] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[028] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.319 roll=0.288
+[028] JOGADA Manufatora Nacional de Porcelanas FC | Râdamas Seixas x Ladislau Alves line=3 duel=10.02 corte=-1.30
+[028] FINAL Manufatora Nacional de Porcelanas FC | Firmo Machado fam=5 duel=-21.62 on_target=0.584 goal=0.141
+[028] FINAL Firmo Machado: fora/alvo perdido (roll=0.844)
+[029] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[029] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.319 roll=0.604
+[030] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[030] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.319 roll=0.616
+[031] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[031] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.319 roll=0.695
+[032] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[032] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.411 roll=0.939
+[033] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[033] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.321 roll=0.234
+[033] JOGADA Manufatora Nacional de Porcelanas FC | Alamiro Morais x Kuaray Gato line=2 duel=36.46 corte=-1.30
+[033] FINAL Manufatora Nacional de Porcelanas FC | Râdamas Seixas fam=5 duel=-80.17 on_target=0.580 goal=0.115
+[033] FINAL Râdamas Seixas: no alvo sem gol (roll=0.433)
+[034] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[034] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.321 roll=0.364
+[035] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[035] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.321 roll=0.964
+[036] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[036] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.411 roll=0.634
+[037] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[037] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.411 roll=0.271
+[037] JOGADA Pinto United | Ovoberto x Râdamas Seixas line=4 duel=42.01 corte=-1.12
+[037] FINAL Pinto United | Júlio do Cocoricó fam=1 duel=3.19 on_target=0.678 goal=0.243
+[037] FINAL Júlio do Cocoricó: no alvo sem gol (roll=0.738)
+[038] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[038] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.321 roll=0.842
+[039] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[039] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.321 roll=0.508
+[040] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[040] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.411 roll=0.597
+[041] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[041] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.321 roll=0.032
+[041] JOGADA Manufatora Nacional de Porcelanas FC | Hamilton Madureira x Áquila Frangalho line=2 duel=-10.98 corte=-1.30
+[041] JOGADA falhou: Áquila Frangalho cortou
+[042] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[042] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.411 roll=0.569
+[043] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[043] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.411 roll=0.886
+[044] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[044] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.321 roll=0.224
+[044] JOGADA Manufatora Nacional de Porcelanas FC | Porcelano x Falo Furioso line=2 duel=23.20 corte=-1.30
+[044] FINAL Manufatora Nacional de Porcelanas FC | Hamilton Madureira fam=1 duel=-17.42 on_target=0.667 goal=0.229
+[044] FINAL Hamilton Madureira: no alvo sem gol (roll=0.813)
+[045] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[045] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.321 roll=0.597
+[046] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[046] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.299 roll=0.369
+[047] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[047] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.299 roll=0.582
+[048] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[048] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.299 roll=0.583
+[049] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[049] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.382 roll=0.449
+[050] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[050] SUB Manufatora Nacional de Porcelanas FC: saiu Firmo Machado (CA) | entrou Silvestre Texeira (CA) | subs=1/5
+[050] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.383 roll=0.053
+[050] JOGADA Pinto United | Júlio do Cocoricó x Alamiro Morais line=4 duel=1.98 corte=-1.12
+[050] FINAL Pinto United | Falo Furioso fam=1 duel=19.36 on_target=0.653 goal=0.247
+[050] FINAL Falo Furioso: fora/alvo perdido (roll=0.798)
+[051] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[051] SUB Manufatora Nacional de Porcelanas FC: saiu Manufator de Gols (SA) | entrou Didaco Dias (MA) | subs=2/5
+[051] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.278 roll=0.127
+[051] JOGADA Manufatora Nacional de Porcelanas FC | Barão Sapateiro x Ladislau Alves line=4 duel=-24.60 corte=-1.30
+[051] JOGADA falhou: Ladislau Alves cortou
+[052] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[052] SUB Manufatora Nacional de Porcelanas FC: saiu Râdamas Seixas (PE) | entrou Héber Álvares (PE) | subs=3/5
+[052] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.274 roll=0.921
+[053] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[053] SUB Manufatora Nacional de Porcelanas FC: saiu Betino Passos (LE) | entrou Absalão de Castro (LD) | subs=4/5
+[053] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.275 roll=0.096
+[053] JOGADA Manufatora Nacional de Porcelanas FC | Marino Moreira x Falo Furioso line=2 duel=56.56 corte=-1.30
+[053] FINAL Manufatora Nacional de Porcelanas FC | Alamiro Morais fam=5 duel=-9.28 on_target=0.551 goal=0.141
+[053] FINAL Alamiro Morais: no alvo sem gol (roll=0.390)
+[054] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[054] SUB Manufatora Nacional de Porcelanas FC: saiu Barão Sapateiro (VOL) | entrou Torquato Custódio (ZAG) | subs=5/5
+[054] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.276 roll=0.408
+[055] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[055] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.394 roll=0.887
+[056] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[056] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.424 roll=0.135
+[056] JOGADA Pinto United | Falo Furioso x Válter Brito line=5 duel=44.46 corte=-1.87
+[056] JOGADA Pinto United | Júlio do Cocoricó x Marino Moreira line=5 duel=35.89 corte=-1.87
+[056] JOGADA Pinto United | Ladislau Alves x Alamiro Morais line=5 duel=8.84 corte=-1.37
+[056] FINAL Pinto United | Falo Furioso fam=1 duel=18.45 on_target=0.687 goal=0.254
+[056] FINAL Falo Furioso: no alvo sem gol (roll=0.658)
+[057] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[057] SUB Pinto United: saiu Áquila Frangalho (LD) | entrou Paulo Codornaldo (LD) | subs=1/5
+[057] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.298 roll=0.775
+[058] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[058] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.395 roll=0.075
+[058] JOGADA Pinto United | Falo Furioso x Hamilton Madureira line=5 duel=19.57 corte=-1.87
+[058] JOGADA Pinto United | Paulo Codornaldo x Absalão de Castro line=5 duel=79.78 corte=-1.37
+[058] JOGADA Pinto United | Falo Furioso x Didaco Dias line=5 duel=71.34 corte=-1.87
+[058] FINAL Pinto United | Falo Furioso fam=1 duel=18.27 on_target=0.687 goal=0.254
+[058] FINAL Falo Furioso: no alvo sem gol (roll=0.266)
+[059] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[059] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.298 roll=0.380
+[060] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[060] SUB Pinto United: saiu Júlio do Cocoricó (CA) | entrou Oribá (PD) | subs=2/5
+[060] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.394 roll=0.124
+[060] JOGADA Pinto United | Paulo Codornaldo x Torquato Custódio line=5 duel=19.01 corte=-1.37
+[060] JOGADA Pinto United | Jetro Trindade x Torquato Custódio line=5 duel=31.47 corte=-1.37
+[060] FINAL Pinto United | Oribá fam=1 duel=31.20 on_target=0.682 goal=0.257
+[060] FINAL Oribá: no alvo sem gol (roll=0.264)
+[061] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[061] SUB Pinto United: saiu Mairã Coxinha (MC) | entrou Mairubi Asinha (VOL) | subs=3/5
+[061] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.301 roll=0.668
+[062] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[062] SUB Pinto United: saiu Ladislau Alves (MD) | entrou Urbino Pinguino (MD) | subs=4/5
+[062] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.392 roll=0.206
+[062] JOGADA Pinto United | Jetro Trindade x Absalão de Castro line=5 duel=-4.37 corte=-1.37
+[062] JOGADA falhou: Absalão de Castro cortou
+[063] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[063] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.301 roll=0.331
+[064] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[064] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.301 roll=0.615
+[065] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[065] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.392 roll=0.814
+[066] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[066] SUB Pinto United: saiu Ovoberto (MC) | entrou Raimundo Frango Jeba (VOL) | subs=5/5
+[066] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.391 roll=0.317
+[066] JOGADA Pinto United | Urbino Pinguino x Porcelano line=4 duel=3.05 corte=-1.12
+[066] FINAL Pinto United | Falo Furioso fam=3 duel=16.08 on_target=0.623 goal=0.196
+[066] FINAL Falo Furioso: no alvo sem gol (roll=0.449)
+[067] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[067] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.391 roll=0.485
+[068] posse=Pinto United | placar Pinto United 0 x 0 Manufatora Nacional de Porcelanas FC
+[068] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.391 roll=0.026
+[068] JOGADA Pinto United | Paulo Codornaldo x Silvestre Texeira line=5 duel=89.99 corte=-1.36
+[068] FINAL Pinto United | Oribá fam=1 duel=30.43 on_target=0.682 goal=0.257
+[068] FINAL Oribá: GOL subtipo=CHUTE (roll=0.146)
+[069] posse=Pinto United | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[069] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.419 roll=0.913
+[070] posse=Pinto United | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[070] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.415 roll=0.487
+[071] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[071] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.348 roll=0.568
+[072] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[072] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.348 roll=0.515
+[073] posse=Pinto United | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[073] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.415 roll=0.504
+[074] posse=Pinto United | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[074] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.415 roll=0.606
+[075] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[075] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.348 roll=0.879
+[076] posse=Pinto United | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[076] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.403 roll=0.013
+[076] JOGADA Pinto United | Falo Furioso x Torquato Custódio line=5 duel=10.86 corte=-2.05
+[076] JOGADA Pinto United | Jetro Trindade x Absalão de Castro line=5 duel=18.59 corte=-1.55
+[076] JOGADA Pinto United | Mairubi Asinha x Hamilton Madureira line=5 duel=28.99 corte=-1.55
+[076] FINAL Pinto United | Oribá fam=1 duel=26.26 on_target=0.656 goal=0.246
+[076] FINAL Oribá: fora/alvo perdido (roll=0.818)
+[077] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[077] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.376 roll=0.711
+[078] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[078] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.376 roll=0.236
+[078] JOGADA Manufatora Nacional de Porcelanas FC | Silvestre Texeira x Falo Furioso line=4 duel=20.53 corte=-1.30
+[078] FINAL Manufatora Nacional de Porcelanas FC | Silvestre Texeira fam=5 duel=-17.45 on_target=0.630 goal=0.154
+[078] FINAL Silvestre Texeira: fora/alvo perdido (roll=0.957)
+[079] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[079] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.376 roll=0.909
+[080] posse=Pinto United | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[080] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.403 roll=0.828
+[081] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[081] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.376 roll=0.193
+[081] JOGADA Manufatora Nacional de Porcelanas FC | Alamiro Morais x Capão Bicudo line=3 duel=14.54 corte=-1.30
+[081] FINAL Manufatora Nacional de Porcelanas FC | Marino Moreira fam=5 duel=-8.92 on_target=0.621 goal=0.155
+[081] FINAL Marino Moreira: fora/alvo perdido (roll=0.996)
+[082] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[082] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.376 roll=0.769
+[083] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[083] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.376 roll=0.293
+[083] JOGADA Manufatora Nacional de Porcelanas FC | Porcelano x Mairubi Asinha line=3 duel=-10.40 corte=-1.30
+[083] JOGADA falhou: Mairubi Asinha cortou
+[084] posse=Pinto United | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[084] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.403 roll=0.003
+[084] JOGADA Pinto United | Jetro Trindade x Alamiro Morais line=4 duel=5.21 corte=-1.30
+[084] JOGADA Pinto United | Raimundo Frango Jeba x Marino Moreira line=4 duel=20.44 corte=-1.30
+[084] FINAL Pinto United | Raimundo Frango Jeba fam=1 duel=12.87 on_target=0.656 goal=0.238
+[084] FINAL Raimundo Frango Jeba: fora/alvo perdido (roll=0.747)
+[085] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[085] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.396 roll=0.546
+[086] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[086] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.396 roll=0.471
+[087] posse=Pinto United | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[087] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.403 roll=0.936
+[088] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[088] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.396 roll=0.935
+[089] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[089] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.396 roll=0.305
+[089] JOGADA Manufatora Nacional de Porcelanas FC | Alamiro Morais x Raimundo Frango Jeba line=2 duel=24.09 corte=-1.30
+[089] FINAL Manufatora Nacional de Porcelanas FC | Hamilton Madureira fam=5 duel=-18.61 on_target=0.660 goal=0.149
+[089] FINAL Hamilton Madureira: no alvo sem gol (roll=0.914)
+[090] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[090] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.396 roll=0.256
+[090] JOGADA Manufatora Nacional de Porcelanas FC | Absalão de Castro x Jetro Trindade line=4 duel=-26.56 corte=-1.30
+[091] posse=Pinto United | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[091] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.403 roll=0.654
+[092] posse=Pinto United | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[092] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.403 roll=0.877
+[093] posse=Manufatora Nacional de Porcelanas FC | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[093] BUILD Manufatora Nacional de Porcelanas FC vs Pinto United prob=0.396 roll=0.358
+[093] JOGADA Manufatora Nacional de Porcelanas FC | Marino Moreira x Jetro Trindade line=2 duel=32.77 corte=-1.30
+[093] FINAL Manufatora Nacional de Porcelanas FC | Absalão de Castro fam=5 duel=-69.08 on_target=0.665 goal=0.128
+[093] FINAL Absalão de Castro: no alvo sem gol (roll=0.761)
+[094] posse=Pinto United | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[094] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.403 roll=0.473
+[095] posse=Pinto United | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[095] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.403 roll=0.587
+[096] posse=Pinto United | placar Pinto United 1 x 0 Manufatora Nacional de Porcelanas FC
+[096] BUILD Pinto United vs Manufatora Nacional de Porcelanas FC prob=0.403 roll=0.932

@@ -1,0 +1,297 @@
+Partida #197
+Data: 1912-01-18
+Mandante: Palmeiras Atlético Clube
+Visitante: Modesto Football Club
+Placar: 2 x 2
+Seed: -
+Estádio: Arena São Christóvão
+Clima: Nublado
+Placar tempo normal: 2 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Palmeiras Atlético Clube x Modesto Football Club | estádio=Arena São Christóvão | clima=Nublado | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[001] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.345 roll=0.957
+[002] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[002] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.345 roll=0.956
+[003] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[003] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.345 roll=0.275
+[003] JOGADA Palmeiras Atlético Clube | Vladimiro Bandeira x Mário Ricci line=2 duel=33.18 corte=-1.70
+[003] FINAL Palmeiras Atlético Clube | Amadeus Carrico fam=5 duel=-2.77 on_target=0.580 goal=0.155
+[003] FINAL Amadeus Carrico: fora/alvo perdido (roll=0.788)
+[004] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[004] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.345 roll=0.956
+[005] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[005] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.361 roll=0.411
+[006] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[006] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.345 roll=0.417
+[007] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[007] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.361 roll=0.414
+[008] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[008] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.361 roll=0.731
+[009] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[009] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.361 roll=0.485
+[010] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[010] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.345 roll=0.789
+[011] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[011] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.391 roll=0.445
+[012] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[012] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.391 roll=0.527
+[013] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[013] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.373 roll=0.841
+[014] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[014] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.391 roll=0.979
+[015] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[015] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.373 roll=0.534
+[016] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[016] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.391 roll=0.425
+[017] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[017] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.373 roll=0.065
+[017] JOGADA Palmeiras Atlético Clube | Aquil Cardoso x Marton Amaral line=3 duel=30.12 corte=-1.70
+[017] FINAL Palmeiras Atlético Clube | Hermenegildo Coimbra fam=5 duel=-10.09 on_target=0.624 goal=0.161
+[017] FINAL Hermenegildo Coimbra: fora/alvo perdido (roll=0.985)
+[018] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[018] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.391 roll=0.838
+[019] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[019] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.373 roll=0.596
+[020] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[020] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.373 roll=0.374
+[021] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[021] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.420 roll=0.421
+[022] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[022] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.401 roll=0.060
+[022] JOGADA Palmeiras Atlético Clube | Caetano Modesto x Tales Saldanha line=3 duel=10.19 corte=-1.70
+[022] FINAL Palmeiras Atlético Clube | Elísio Albergaria fam=5 duel=-17.35 on_target=0.658 goal=0.163
+[022] FINAL Elísio Albergaria: fora/alvo perdido (roll=0.883)
+[023] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[023] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.401 roll=0.972
+[024] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[024] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.401 roll=0.255
+[024] JOGADA Palmeiras Atlético Clube | Elísio Albergaria x Aquil Gavião line=3 duel=-13.69 corte=-1.70
+[024] JOGADA falhou: Aquil Gavião cortou
+[025] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[025] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.401 roll=0.343
+[025] JOGADA Palmeiras Atlético Clube | Hermenegildo Coimbra x Margarido Caminha line=4 duel=-23.27 corte=-1.70
+[025] JOGADA falhou: Margarido Caminha cortou
+[026] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[026] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.420 roll=0.611
+[027] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[027] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.420 roll=0.679
+[028] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[028] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.401 roll=0.276
+[028] JOGADA Palmeiras Atlético Clube | Hermenegildo Coimbra x Margarido Caminha line=4 duel=-8.62 corte=-1.70
+[029] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[029] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.401 roll=0.362
+[029] JOGADA Palmeiras Atlético Clube | Amadeus Carrico x Aquil Gavião line=3 duel=-8.18 corte=-1.70
+[029] JOGADA falhou: Aquil Gavião cortou
+[030] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[030] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.401 roll=0.595
+[031] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[031] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.401 roll=0.831
+[032] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[032] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.420 roll=0.234
+[032] JOGADA Modesto Football Club | Mário Ricci x Amadeus Carrico line=4 duel=57.00 corte=-1.10
+[032] FINAL Modesto Football Club | Marton Amaral fam=1 duel=10.45 on_target=0.763 goal=0.274
+[032] FINAL Marton Amaral: fora/alvo perdido (roll=0.964)
+[033] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[033] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.420 roll=0.811
+[034] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[034] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.404 roll=0.030
+[034] JOGADA Palmeiras Atlético Clube | Hermenegildo Coimbra x Margarido Caminha line=3 duel=2.20 corte=-1.70
+[034] FINAL Palmeiras Atlético Clube | Amadeus Carrico fam=5 duel=-14.94 on_target=0.659 goal=0.165
+[034] FINAL Amadeus Carrico: fora/alvo perdido (roll=0.940)
+[035] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[035] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.404 roll=0.321
+[035] JOGADA Palmeiras Atlético Clube | Oto Dantas x Conceição Malta line=3 duel=-11.05 corte=-1.70
+[035] JOGADA falhou: Conceição Malta cortou
+[036] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[036] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.404 roll=0.532
+[037] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[037] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.420 roll=0.858
+[038] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[038] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.404 roll=0.243
+[038] JOGADA Palmeiras Atlético Clube | Albino Rocha x Primitivo Ramos line=3 duel=-16.82 corte=-1.70
+[038] JOGADA falhou: Primitivo Ramos cortou
+[039] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[039] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.404 roll=0.769
+[040] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[040] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.404 roll=0.430
+[041] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[041] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.420 roll=0.827
+[042] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[042] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.404 roll=0.623
+[043] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[043] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.420 roll=0.859
+[044] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[044] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.404 roll=0.842
+[045] posse=Modesto Football Club | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[045] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.420 roll=0.922
+[046] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Modesto Football Club
+[046] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.376 roll=0.473
+[046] FINAL Palmeiras Atlético Clube | Hermenegildo Coimbra fam=5 duel=-9.76 on_target=0.625 goal=0.162
+[046] FINAL Hermenegildo Coimbra: GOL subtipo=FALTA (roll=0.015)
+[047] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[047] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.376 roll=0.752
+[048] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[048] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.478 roll=0.472
+[048] JOGADA Modesto Football Club | Tales Saldanha x Aquil Cardoso line=4 duel=47.46 corte=-1.09
+[048] FINAL Modesto Football Club | Bissau fam=1 duel=1.42 on_target=0.727 goal=0.262
+[048] FINAL Bissau: fora/alvo perdido (roll=0.892)
+[049] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[049] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.478 roll=0.308
+[049] JOGADA Modesto Football Club | Conceição Malta x Octaviano Tomás line=4 duel=30.09 corte=-1.09
+[049] FINAL Modesto Football Club | Marton Amaral fam=1 duel=2.49 on_target=0.724 goal=0.261
+[049] FINAL Marton Amaral: fora/alvo perdido (roll=0.892)
+[050] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[050] SUB Palmeiras Atlético Clube: saiu Elísio Albergaria (SA) | entrou Azuil Moura (SA) | subs=1/5
+[050] SUB Modesto Football Club: saiu Bissau (CA) | entrou Rigoberto Cabral (SA) | subs=1/5
+[050] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.369 roll=0.686
+[051] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[051] SUB Palmeiras Atlético Clube: saiu Amadeus Carrico (CA) | entrou Mílton Albuquerque (CA) | subs=2/5
+[051] SUB Modesto Football Club: saiu Marton Amaral (SA) | entrou Aldonço Canavieira (PD) | subs=2/5
+[051] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.402 roll=0.243
+[051] JOGADA Modesto Football Club | Margarido Caminha x Xavier Pascoal line=5 duel=-2.09 corte=-1.34
+[051] JOGADA falhou: Xavier Pascoal cortou
+[052] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[052] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.402 roll=0.048
+[052] JOGADA Modesto Football Club | Tales Saldanha x Mílton Albuquerque line=4 duel=21.32 corte=-1.09
+[052] FINAL Modesto Football Club | Rigoberto Cabral fam=1 duel=30.79 on_target=0.729 goal=0.277
+[052] FINAL Rigoberto Cabral: no alvo sem gol (roll=0.479)
+[053] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[053] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.402 roll=0.876
+[054] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[054] SUB Modesto Football Club: saiu Conceição Malta (ZAG) | entrou Célio Dimas (ZAG) | subs=3/5
+[054] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.402 roll=0.887
+[055] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[055] SUB Modesto Football Club: saiu Aquil Gavião (ZAG) | entrou Joscelino Santana (ZAG) | subs=4/5
+[055] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.406 roll=0.540
+[056] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[056] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.408 roll=0.645
+[057] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[057] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.408 roll=0.423
+[058] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[058] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.408 roll=0.825
+[059] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[059] SUB Palmeiras Atlético Clube: saiu Hermenegildo Coimbra (MA) | entrou Dorico Guedes (MA) | subs=3/5
+[059] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.406 roll=0.121
+[059] JOGADA Palmeiras Atlético Clube | Vladimiro Bandeira x Mário Ricci line=3 duel=2.05 corte=-1.70
+[059] FINAL Palmeiras Atlético Clube | Mílton Albuquerque fam=5 duel=8.10 on_target=0.665 goal=0.177
+[059] FINAL Mílton Albuquerque: no alvo sem gol (roll=0.529)
+[060] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[060] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.410 roll=0.710
+[061] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[061] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.437 roll=0.149
+[061] JOGADA Modesto Football Club | Margarido Caminha x Octaviano Tomás line=3 duel=21.36 corte=-1.10
+[061] FINAL Modesto Football Club | Aldonço Canavieira fam=1 duel=23.45 on_target=0.766 goal=0.281
+[061] FINAL Aldonço Canavieira: no alvo sem gol (roll=0.639)
+[062] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[062] SUB Modesto Football Club: saiu Cid Lamego (LD) | entrou Paranhos Pedrosa (LE) | subs=5/5
+[062] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.437 roll=0.124
+[062] JOGADA Modesto Football Club | Aldonço Canavieira x Azuil Moura line=4 duel=43.12 corte=-1.10
+[062] FINAL Modesto Football Club | Aldonço Canavieira fam=3 duel=16.29 on_target=0.694 goal=0.215
+[062] FINAL Aldonço Canavieira: fora/alvo perdido (roll=0.749)
+[063] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[063] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.437 roll=0.972
+[064] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[064] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.437 roll=0.999
+[065] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[065] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.437 roll=0.577
+[066] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[066] SUB Palmeiras Atlético Clube: saiu Aquil Cardoso (AE) | entrou Mirco Henriques (LE) | subs=4/5
+[066] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.351 roll=0.595
+[067] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[067] SUB Palmeiras Atlético Clube: saiu Xavier Pascoal (ZAG) | entrou Vili Cardoso (ZAG) | subs=5/5
+[067] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.414 roll=0.568
+[068] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[068] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.445 roll=0.995
+[069] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[069] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.445 roll=0.560
+[069] FINAL Modesto Football Club | Aldonço Canavieira fam=5 duel=19.36 on_target=0.654 goal=0.168
+[069] FINAL Aldonço Canavieira: fora/alvo perdido (roll=0.981)
+[070] posse=Modesto Football Club | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[070] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.445 roll=0.471
+[071] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[071] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.414 roll=0.876
+[072] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[072] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.414 roll=0.374
+[072] JOGADA Palmeiras Atlético Clube | Albino Rocha x Célio Dimas line=4 duel=26.57 corte=-1.70
+[072] FINAL Palmeiras Atlético Clube | Dorico Guedes fam=5 duel=17.21 on_target=0.657 goal=0.184
+[072] FINAL Dorico Guedes: no alvo sem gol (roll=0.637)
+[073] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 1 x 0 Modesto Football Club
+[073] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.414 roll=0.119
+[073] JOGADA Palmeiras Atlético Clube | Vili Cardoso x Canhoteiro line=4 duel=23.40 corte=-1.70
+[073] FINAL Palmeiras Atlético Clube | Albino Rocha fam=5 duel=-42.07 on_target=0.648 goal=0.153
+[073] FINAL Albino Rocha: GOL subtipo=FALTA (roll=0.145)
+[074] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 2 x 0 Modesto Football Club
+[074] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.410 roll=0.626
+[075] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 2 x 0 Modesto Football Club
+[075] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.410 roll=0.219
+[075] JOGADA Palmeiras Atlético Clube | Caetano Modesto x Mário Ricci line=3 duel=9.89 corte=-1.70
+[075] FINAL Palmeiras Atlético Clube | Octaviano Tomás fam=5 duel=-68.88 on_target=0.635 goal=0.132
+[075] FINAL Octaviano Tomás: fora/alvo perdido (roll=0.871)
+[076] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 2 x 0 Modesto Football Club
+[076] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.398 roll=0.215
+[076] JOGADA Palmeiras Atlético Clube | Mirco Henriques x Joscelino Santana line=4 duel=36.98 corte=-1.70
+[076] FINAL Palmeiras Atlético Clube | Mílton Albuquerque fam=5 duel=-1.51 on_target=0.633 goal=0.164
+[076] FINAL Mílton Albuquerque: fora/alvo perdido (roll=0.915)
+[077] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 0 Modesto Football Club
+[077] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.481 roll=0.576
+[078] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 0 Modesto Football Club
+[078] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.481 roll=0.047
+[078] JOGADA Modesto Football Club | Célio Dimas x Dorico Guedes line=5 duel=-21.05 corte=-1.30
+[078] JOGADA falhou: Dorico Guedes cortou
+[079] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 0 Modesto Football Club
+[079] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.481 roll=0.903
+[080] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 0 Modesto Football Club
+[080] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.481 roll=0.063
+[080] JOGADA Modesto Football Club | Paranhos Pedrosa x Albino Rocha line=3 duel=1.60 corte=-1.05
+[080] FINAL Modesto Football Club | Rigoberto Cabral fam=1 duel=25.39 on_target=0.821 goal=0.297
+[080] FINAL Rigoberto Cabral: no alvo sem gol (roll=0.586)
+[081] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 0 Modesto Football Club
+[081] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.481 roll=0.290
+[081] JOGADA Modesto Football Club | Mário Ricci x Vili Cardoso line=4 duel=-41.42 corte=-1.05
+[081] JOGADA falhou: Vili Cardoso cortou
+[082] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 0 Modesto Football Club
+[082] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.481 roll=0.028
+[082] JOGADA Modesto Football Club | Primitivo Ramos x Octaviano Tomás line=5 duel=70.08 corte=-1.30
+[082] FINAL Modesto Football Club | Rigoberto Cabral fam=1 duel=23.97 on_target=0.820 goal=0.305
+[082] FINAL Rigoberto Cabral: GOL subtipo=CHUTE (roll=0.302)
+[083] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 2 x 1 Modesto Football Club
+[083] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.402 roll=0.386
+[083] JOGADA Palmeiras Atlético Clube | Caetano Modesto x Joscelino Santana line=2 duel=38.31 corte=-1.70
+[083] FINAL Palmeiras Atlético Clube | Dorico Guedes fam=5 duel=9.27 on_target=0.643 goal=0.180
+[083] FINAL Dorico Guedes: no alvo sem gol (roll=0.422)
+[084] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 2 x 1 Modesto Football Club
+[084] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.402 roll=0.628
+[085] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 1 Modesto Football Club
+[085] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.557 roll=0.954
+[086] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 1 Modesto Football Club
+[086] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.557 roll=0.602
+[087] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 1 Modesto Football Club
+[087] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.557 roll=0.061
+[087] JOGADA Modesto Football Club | Aldonço Canavieira x Caetano Modesto line=5 duel=11.04 corte=-1.80
+[087] FINAL Modesto Football Club | Aldonço Canavieira fam=3 duel=7.78 on_target=0.849 goal=0.228
+[087] FINAL Aldonço Canavieira: no alvo sem gol (roll=0.477)
+[088] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 1 Modesto Football Club
+[088] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.557 roll=0.682
+[089] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 1 Modesto Football Club
+[089] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.557 roll=0.229
+[089] JOGADA Modesto Football Club | Rigoberto Cabral x Mirco Henriques line=3 duel=1.07 corte=-1.05
+[089] FINAL Modesto Football Club | Primitivo Ramos fam=1 duel=-3.03 on_target=0.920 goal=0.288
+[089] FINAL Primitivo Ramos: GOL subtipo=CHUTE (roll=0.047)
+[090] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 2 x 2 Modesto Football Club
+[090] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.498 roll=0.767
+[091] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 2 Modesto Football Club
+[091] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.457 roll=0.556
+[092] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 2 Modesto Football Club
+[092] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.457 roll=0.963
+[093] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 2 x 2 Modesto Football Club
+[093] BUILD Palmeiras Atlético Clube vs Modesto Football Club prob=0.498 roll=0.255
+[093] JOGADA Palmeiras Atlético Clube | Dorico Guedes x Aldonço Canavieira line=2 duel=28.78 corte=-1.70
+[093] FINAL Palmeiras Atlético Clube | Mílton Albuquerque fam=3 duel=-11.10 on_target=0.824 goal=0.220
+[093] FINAL Mílton Albuquerque: no alvo sem gol (roll=0.794)
+[094] posse=Modesto Football Club | placar Palmeiras Atlético Clube 2 x 2 Modesto Football Club
+[094] BUILD Modesto Football Club vs Palmeiras Atlético Clube prob=0.457 roll=0.714

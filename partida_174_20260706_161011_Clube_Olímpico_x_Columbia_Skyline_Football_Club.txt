@@ -1,0 +1,311 @@
+Partida #174
+Data: 1912-01-16
+Mandante: Clube Olímpico
+Visitante: Columbia Skyline Football Club
+Placar: 3 x 2
+Seed: -
+Estádio: Estádio Moça Bonita
+Clima: Frio forte
+Placar tempo normal: 3 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube Olímpico x Columbia Skyline Football Club | estádio=Estádio Moça Bonita | clima=Frio forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Columbia Skyline Football Club | placar Clube Olímpico 0 x 0 Columbia Skyline Football Club
+[001] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.296 roll=0.484
+[002] posse=Columbia Skyline Football Club | placar Clube Olímpico 0 x 0 Columbia Skyline Football Club
+[002] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.296 roll=0.659
+[003] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Columbia Skyline Football Club
+[003] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.362 roll=0.552
+[004] posse=Columbia Skyline Football Club | placar Clube Olímpico 0 x 0 Columbia Skyline Football Club
+[004] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.296 roll=0.165
+[004] JOGADA Columbia Skyline Football Club | Josh Battle x Ítalo Coimbra line=3 duel=26.39 corte=-1.30
+[004] JOGADA Columbia Skyline Football Club | Josh Battle x Francisco Borja line=4 duel=-6.10 corte=-1.30
+[005] posse=Columbia Skyline Football Club | placar Clube Olímpico 0 x 0 Columbia Skyline Football Club
+[005] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.296 roll=0.047
+[005] JOGADA Columbia Skyline Football Club | Jack Wynand x Omar Cordeiro line=4 duel=-9.34 corte=-1.30
+[005] JOGADA falhou: Omar Cordeiro cortou
+[006] posse=Columbia Skyline Football Club | placar Clube Olímpico 0 x 0 Columbia Skyline Football Club
+[006] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.296 roll=0.740
+[007] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Columbia Skyline Football Club
+[007] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.362 roll=0.829
+[008] posse=Columbia Skyline Football Club | placar Clube Olímpico 0 x 0 Columbia Skyline Football Club
+[008] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.296 roll=0.736
+[009] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Columbia Skyline Football Club
+[009] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.362 roll=0.841
+[010] posse=Columbia Skyline Football Club | placar Clube Olímpico 0 x 0 Columbia Skyline Football Club
+[010] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.296 roll=0.367
+[011] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Columbia Skyline Football Club
+[011] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.392 roll=0.509
+[012] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Columbia Skyline Football Club
+[012] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.392 roll=0.520
+[013] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Columbia Skyline Football Club
+[013] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.392 roll=0.201
+[013] JOGADA Clube Olímpico | Epaminondas da Luz x Pedrão line=4 duel=50.12 corte=-1.13
+[013] FINAL Clube Olímpico | Pedro Dalcher fam=1 duel=25.79 on_target=0.660 goal=0.251
+[013] FINAL Pedro Dalcher: GOL subtipo=CHUTE (roll=0.053)
+[014] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 0 Columbia Skyline Football Club
+[014] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.383 roll=0.054
+[014] JOGADA Columbia Skyline Football Club | Big W x Geraldo Barros line=4 duel=-71.18 corte=-1.30
+[014] JOGADA falhou: Geraldo Barros cortou
+[015] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 0 Columbia Skyline Football Club
+[015] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.383 roll=0.149
+[015] JOGADA Columbia Skyline Football Club | Ray Bonder x Geraldo Barros line=2 duel=70.33 corte=-1.30
+[015] JOGADA Columbia Skyline Football Club | Pedrão x Pedro Dalcher line=5 duel=51.18 corte=-2.05
+[015] JOGADA Columbia Skyline Football Club | Josh Battle x Ítalo Coimbra line=5 duel=83.79 corte=-1.55
+[015] FINAL Columbia Skyline Football Club | Willian Biden fam=1 duel=-11.59 on_target=0.642 goal=0.231
+[015] FINAL Willian Biden: GOL subtipo=CHUTE (roll=0.140)
+[016] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[016] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.392 roll=0.785
+[017] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[017] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.320 roll=0.529
+[018] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[018] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.392 roll=0.343
+[018] JOGADA Clube Olímpico | Geraldo Barros x Big W line=3 duel=-6.29 corte=-1.13
+[018] JOGADA falhou: Big W cortou
+[019] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[019] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.320 roll=0.823
+[020] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[020] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.320 roll=0.304
+[020] JOGADA Columbia Skyline Football Club | Big W x Kian MacGiolla line=3 duel=-19.12 corte=-1.30
+[020] JOGADA falhou: Kian MacGiolla cortou
+[021] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[021] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.344 roll=0.581
+[022] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[022] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.816
+[023] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[023] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.531
+[024] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[024] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.344 roll=0.260
+[024] JOGADA Columbia Skyline Football Club | Pedrão x Francisco Borja line=3 duel=-23.06 corte=-1.30
+[025] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[025] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.834
+[026] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[026] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.151
+[026] JOGADA Clube Olímpico | José Piendibene x Josh Battle line=5 duel=61.02 corte=-1.88
+[026] FINAL Clube Olímpico | Ítalo Coimbra fam=1 duel=-3.75 on_target=0.691 goal=0.244
+[026] FINAL Ítalo Coimbra: no alvo sem gol (roll=0.270)
+[027] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[027] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.344 roll=0.731
+[028] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[028] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.549
+[029] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[029] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.458
+[030] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[030] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.345
+[030] JOGADA Clube Olímpico | Geraldo Barros x Fruit Salad James line=3 duel=-12.32 corte=-1.13
+[030] JOGADA falhou: Fruit Salad James cortou
+[031] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[031] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.920
+[032] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[032] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.670
+[033] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[033] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.346 roll=0.427
+[034] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[034] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.941
+[035] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[035] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.536
+[036] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[036] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.502
+[037] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[037] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.323
+[037] JOGADA Clube Olímpico | Omar Cordeiro x Quagmire line=5 duel=19.00 corte=-1.38
+[037] FINAL Clube Olímpico | José Piendibene fam=1 duel=0.77 on_target=0.693 goal=0.247
+[037] FINAL José Piendibene: no alvo sem gol (roll=0.299)
+[038] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[038] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.480
+[039] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[039] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.346 roll=0.767
+[040] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[040] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.346 roll=0.063
+[040] JOGADA Columbia Skyline Football Club | Quagmire x Omar Cordeiro line=4 duel=-27.14 corte=-1.30
+[040] JOGADA falhou: Omar Cordeiro cortou
+[041] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[041] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.346 roll=0.725
+[042] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[042] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.247
+[042] JOGADA Clube Olímpico | Kian MacGiolla x Big W line=4 duel=6.38 corte=-1.13
+[042] FINAL Clube Olímpico | José Piendibene fam=1 duel=-3.55 on_target=0.693 goal=0.245
+[042] FINAL José Piendibene: no alvo sem gol (roll=0.433)
+[043] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[043] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.346 roll=0.053
+[043] JOGADA Columbia Skyline Football Club | Fruit Salad James x Epaminondas da Luz line=3 duel=8.33 corte=-1.30
+[043] JOGADA Columbia Skyline Football Club | Big W x Pedro Dalcher line=4 duel=-81.75 corte=-1.30
+[043] JOGADA falhou: Pedro Dalcher cortou
+[044] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[044] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.421 roll=0.273
+[044] JOGADA Clube Olímpico | José Piendibene x Pedrão line=5 duel=79.09 corte=-1.88
+[044] FINAL Clube Olímpico | Ítalo Coimbra fam=1 duel=-1.18 on_target=0.691 goal=0.245
+[044] FINAL Ítalo Coimbra: no alvo sem gol (roll=0.359)
+[045] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[045] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.346 roll=0.657
+[046] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[046] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.392 roll=0.772
+[047] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[047] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.322 roll=0.613
+[048] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[048] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.322 roll=0.776
+[049] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[049] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.322 roll=0.331
+[050] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[050] SUB Clube Olímpico: saiu José Piendibene (SA) | entrou Salomão Cruz (PE) | subs=1/5
+[050] SUB Columbia Skyline Football Club: saiu Willian Biden (CA) | entrou Owen Barkfield (SA) | subs=1/5
+[050] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.387 roll=0.646
+[051] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[051] SUB Clube Olímpico: saiu Ítalo Coimbra (CA) | entrou Eduardo Pessoa (SA) | subs=2/5
+[051] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.385 roll=0.550
+[052] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[052] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.312 roll=0.520
+[053] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[053] SUB Columbia Skyline Football Club: saiu Awper (PE) | entrou Shutz Ethan Cuckley (ME) | subs=2/5
+[053] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.386 roll=0.629
+[054] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[054] SUB Columbia Skyline Football Club: saiu Pedrão (PD) | entrou Louis Long (MD) | subs=3/5
+[054] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.386 roll=0.751
+[055] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[055] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.386 roll=0.875
+[056] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[056] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.415 roll=0.003
+[056] JOGADA Clube Olímpico | Salomão Cruz x Ray Bonder line=3 duel=55.95 corte=-1.13
+[056] FINAL Clube Olímpico | Eduardo Pessoa fam=3 duel=3.79 on_target=0.619 goal=0.187
+[056] FINAL Eduardo Pessoa: no alvo sem gol (roll=0.771)
+[057] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[057] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.336 roll=0.767
+[058] posse=Columbia Skyline Football Club | placar Clube Olímpico 1 x 1 Columbia Skyline Football Club
+[058] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.336 roll=0.138
+[058] JOGADA Columbia Skyline Football Club | Shutz Ethan Cuckley x Pedro Dalcher line=4 duel=12.28 corte=-1.30
+[058] JOGADA Columbia Skyline Football Club | Quagmire x Eduardo Pessoa line=4 duel=-0.12 corte=-1.30
+[058] JOGADA Columbia Skyline Football Club | Shutz Ethan Cuckley x Adner Albuquerque line=5 duel=82.22 corte=-1.55
+[058] FINAL Columbia Skyline Football Club | Louis Long fam=1 duel=14.31 on_target=0.679 goal=0.250
+[058] FINAL Louis Long: GOL subtipo=CHUTE (roll=0.095)
+[059] posse=Clube Olímpico | placar Clube Olímpico 1 x 2 Columbia Skyline Football Club
+[059] SUB Columbia Skyline Football Club: saiu Quagmire (ZAG) | entrou Valdemir Clemente (ZAG) | subs=4/5
+[059] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.475 roll=0.834
+[060] posse=Clube Olímpico | placar Clube Olímpico 1 x 2 Columbia Skyline Football Club
+[060] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.475 roll=0.292
+[060] JOGADA Clube Olímpico | Kian MacGiolla x Jack Wynand line=5 duel=0.99 corte=-1.36
+[060] FINAL Clube Olímpico | Salomão Cruz fam=1 duel=42.34 on_target=0.685 goal=0.261
+[060] FINAL Salomão Cruz: GOL subtipo=CHUTE (roll=0.224)
+[061] posse=Columbia Skyline Football Club | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[061] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.340 roll=0.625
+[062] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[062] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.393 roll=0.005
+[062] JOGADA Clube Olímpico | Epaminondas da Luz x Shutz Ethan Cuckley line=3 duel=19.39 corte=-1.12
+[062] FINAL Clube Olímpico | Salomão Cruz fam=1 duel=41.54 on_target=0.685 goal=0.261
+[062] FINAL Salomão Cruz: no alvo sem gol (roll=0.641)
+[063] posse=Columbia Skyline Football Club | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[063] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.340 roll=0.100
+[063] JOGADA Columbia Skyline Football Club | Louis Long x Francisco Borja line=3 duel=12.57 corte=-1.30
+[063] FINAL Columbia Skyline Football Club | Edward Gayville fam=5 duel=12.62 on_target=0.585 goal=0.158
+[063] FINAL Edward Gayville: no alvo sem gol (roll=0.255)
+[064] posse=Columbia Skyline Football Club | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[064] SUB Columbia Skyline Football Club: saiu Josh Battle (VOL) | entrou Leon First Bush (VOL) | subs=5/5
+[064] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.337 roll=0.713
+[065] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[065] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.396 roll=0.527
+[066] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[066] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.396 roll=0.256
+[066] JOGADA Clube Olímpico | Kian MacGiolla x Owen Barkfield line=5 duel=20.20 corte=-1.38
+[066] FINAL Clube Olímpico | Eduardo Pessoa fam=1 duel=21.19 on_target=0.683 goal=0.251
+[066] FINAL Eduardo Pessoa: no alvo sem gol (roll=0.795)
+[067] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[067] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.396 roll=0.573
+[068] posse=Columbia Skyline Football Club | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[068] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.340 roll=0.125
+[068] JOGADA Columbia Skyline Football Club | Valdemir Clemente x Salomão Cruz line=3 duel=9.72 corte=-1.30
+[068] JOGADA Columbia Skyline Football Club | Valdemir Clemente x Eduardo Pessoa line=4 duel=25.73 corte=-1.30
+[068] JOGADA Columbia Skyline Football Club | Edward Gayville x Salomão Cruz line=5 duel=19.35 corte=-2.05
+[068] FINAL Columbia Skyline Football Club | Louis Long fam=1 duel=15.34 on_target=0.679 goal=0.251
+[068] FINAL Louis Long: fora/alvo perdido (roll=0.918)
+[069] posse=Columbia Skyline Football Club | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[069] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.340 roll=0.181
+[069] JOGADA Columbia Skyline Football Club | Shutz Ethan Cuckley x Kian MacGiolla line=3 duel=73.93 corte=-1.30
+[069] JOGADA Columbia Skyline Football Club | Fruit Salad James x Farelo line=4 duel=-11.19 corte=-1.30
+[069] JOGADA falhou: Farelo cortou
+[070] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[070] SUB Clube Olímpico: saiu Francisco Borja (MC) | entrou Levi Daschner (MC) | subs=3/5
+[070] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.395 roll=0.609
+[071] posse=Columbia Skyline Football Club | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[071] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.343 roll=0.598
+[072] posse=Columbia Skyline Football Club | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[072] SUB Clube Olímpico: saiu Epaminondas da Luz (MC) | entrou Juca Martelinho (MA) | subs=4/5
+[072] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.343 roll=0.442
+[073] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[073] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.393 roll=0.914
+[074] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[074] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.393 roll=0.696
+[075] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[075] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.393 roll=0.131
+[075] JOGADA Clube Olímpico | Farelo x Jack Wynand line=5 duel=49.53 corte=-1.33
+[075] FINAL Clube Olímpico | Salomão Cruz fam=1 duel=33.80 on_target=0.685 goal=0.257
+[075] FINAL Salomão Cruz: fora/alvo perdido (roll=0.859)
+[076] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[076] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.405 roll=0.481
+[077] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[077] SUB Clube Olímpico: saiu Kian MacGiolla (ZAG) | entrou Jandir Café (ZAG) | subs=5/5
+[077] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.405 roll=0.289
+[077] JOGADA Clube Olímpico | Geraldo Barros x Owen Barkfield line=3 duel=54.07 corte=-1.08
+[077] FINAL Clube Olímpico | Salomão Cruz fam=1 duel=32.25 on_target=0.699 goal=0.259
+[077] FINAL Salomão Cruz: no alvo sem gol (roll=0.799)
+[078] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[078] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.405 roll=0.666
+[079] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Columbia Skyline Football Club
+[079] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.405 roll=0.008
+[079] JOGADA Clube Olímpico | Eduardo Pessoa x Big W line=3 duel=10.25 corte=-1.08
+[079] FINAL Clube Olímpico | Pedro Dalcher fam=1 duel=24.71 on_target=0.709 goal=0.261
+[079] FINAL Pedro Dalcher: GOL subtipo=CHUTE (roll=0.222)
+[080] posse=Columbia Skyline Football Club | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[080] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.423 roll=0.344
+[080] JOGADA Columbia Skyline Football Club | Big W x Levi Daschner line=2 duel=-27.67 corte=-1.30
+[080] JOGADA falhou: Levi Daschner cortou
+[081] posse=Clube Olímpico | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[081] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.401 roll=0.043
+[081] JOGADA Clube Olímpico | Jandir Café x Owen Barkfield line=5 duel=96.82 corte=-1.55
+[081] FINAL Clube Olímpico | Juca Martelinho fam=1 duel=31.38 on_target=0.658 goal=0.246
+[081] FINAL Juca Martelinho: no alvo sem gol (roll=0.562)
+[082] posse=Columbia Skyline Football Club | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[082] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.423 roll=0.163
+[082] JOGADA Columbia Skyline Football Club | Big W x Adner Albuquerque line=4 duel=-19.13 corte=-1.30
+[082] JOGADA falhou: Adner Albuquerque cortou
+[083] posse=Columbia Skyline Football Club | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[083] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.423 roll=0.481
+[083] FINAL Columbia Skyline Football Club | Ray Bonder fam=5 duel=-45.48 on_target=0.629 goal=0.141
+[083] FINAL Ray Bonder: fora/alvo perdido (roll=0.905)
+[084] posse=Columbia Skyline Football Club | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[084] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.423 roll=0.667
+[085] posse=Columbia Skyline Football Club | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[085] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.445 roll=0.671
+[086] posse=Clube Olímpico | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[086] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.401 roll=0.073
+[086] JOGADA Clube Olímpico | Pedro Dalcher x Big W line=3 duel=22.74 corte=-1.30
+[086] FINAL Clube Olímpico | Juca Martelinho fam=3 duel=17.14 on_target=0.596 goal=0.185
+[086] FINAL Juca Martelinho: no alvo sem gol (roll=0.407)
+[087] posse=Columbia Skyline Football Club | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[087] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.445 roll=0.790
+[088] posse=Columbia Skyline Football Club | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[088] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.445 roll=0.569
+[089] posse=Clube Olímpico | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[089] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.401 roll=0.961
+[090] posse=Clube Olímpico | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[090] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.401 roll=0.153
+[090] JOGADA Clube Olímpico | Pedro Dalcher x Shutz Ethan Cuckley line=4 duel=29.57 corte=-1.30
+[090] FINAL Clube Olímpico | Pedro Dalcher fam=3 duel=10.08 on_target=0.605 goal=0.186
+[090] FINAL Pedro Dalcher: no alvo sem gol (roll=0.305)
+[091] posse=Columbia Skyline Football Club | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[091] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.445 roll=0.168
+[091] JOGADA Columbia Skyline Football Club | Shutz Ethan Cuckley x Juca Martelinho line=4 duel=-9.51 corte=-1.30
+[092] posse=Columbia Skyline Football Club | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[092] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.445 roll=0.103
+[092] JOGADA Columbia Skyline Football Club | Ray Bonder x Pedro Dalcher line=3 duel=-2.69 corte=-1.30
+[093] posse=Columbia Skyline Football Club | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[093] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.445 roll=0.496
+[094] posse=Columbia Skyline Football Club | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[094] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.445 roll=0.476
+[095] posse=Columbia Skyline Football Club | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[095] BUILD Columbia Skyline Football Club vs Clube Olímpico prob=0.445 roll=0.152
+[095] JOGADA Columbia Skyline Football Club | Louis Long x Levi Daschner line=3 duel=-5.47 corte=-1.30
+[095] JOGADA falhou: Levi Daschner cortou
+[096] posse=Clube Olímpico | placar Clube Olímpico 3 x 2 Columbia Skyline Football Club
+[096] BUILD Clube Olímpico vs Columbia Skyline Football Club prob=0.401 roll=0.762

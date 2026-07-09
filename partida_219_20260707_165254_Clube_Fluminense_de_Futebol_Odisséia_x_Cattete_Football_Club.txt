@@ -1,0 +1,325 @@
+Partida #219
+Data: 1912-01-22
+Mandante: Clube Fluminense de Futebol Odisséia
+Visitante: Cattete Football Club
+Placar: 4 x 1
+Seed: -
+Estádio: Estádio Olímpico de Nictheroy
+Clima: Chuva leve
+Placar tempo normal: 4 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube Fluminense de Futebol Odisséia x Cattete Football Club | estádio=Estádio Olímpico de Nictheroy | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 0 x 0 Cattete Football Club
+[001] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.265 roll=0.813
+[002] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Cattete Football Club
+[002] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.421 roll=0.119
+[002] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Cândido Baptista line=3 duel=59.25 corte=-1.13
+[002] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=21.18 on_target=0.613 goal=0.236
+[002] FINAL Teobaldo Mascarenhas: GOL subtipo=CHUTE (roll=0.078)
+[003] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Cattete Football Club
+[003] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.308 roll=0.652
+[004] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Cattete Football Club
+[004] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.308 roll=0.120
+[004] JOGADA Cattete Football Club | Ubiraci Schneider x Tomás Soares Ziza line=2 duel=49.62 corte=-1.30
+[004] FINAL Cattete Football Club | Ubiraci Schneider fam=5 duel=-36.11 on_target=0.514 goal=0.123
+[004] FINAL Ubiraci Schneider: GOL subtipo=FALTA (roll=0.120)
+[005] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 1 Cattete Football Club
+[005] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.421 roll=0.860
+[006] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 1 x 1 Cattete Football Club
+[006] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.265 roll=0.602
+[007] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 1 x 1 Cattete Football Club
+[007] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.265 roll=0.956
+[007] FINAL Cattete Football Club | Edmar Portela fam=5 duel=-117.20 on_target=0.507 goal=0.088
+[007] FINAL Edmar Portela: fora/alvo perdido (roll=0.530)
+[008] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 1 x 1 Cattete Football Club
+[008] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.265 roll=0.869
+[009] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 1 Cattete Football Club
+[009] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.421 roll=0.432
+[010] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 1 Cattete Football Club
+[010] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.421 roll=0.158
+[010] JOGADA Clube Fluminense de Futebol Odisséia | Eduardo Batista x Acácio Casagrande line=4 duel=-15.99 corte=-1.13
+[010] FINAL Clube Fluminense de Futebol Odisséia | Eduardo Batista fam=5 duel=-72.79 on_target=0.517 goal=0.101
+[010] FINAL Eduardo Batista: fora/alvo perdido (roll=0.553)
+[011] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 1 Cattete Football Club
+[011] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.455 roll=0.011
+[011] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Héber Galvão line=5 duel=127.99 corte=-1.38
+[011] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=22.29 on_target=0.662 goal=0.253
+[011] FINAL Teobaldo Mascarenhas: GOL subtipo=CHUTE (roll=0.039)
+[012] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[012] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.455 roll=0.297
+[012] JOGADA Clube Fluminense de Futebol Odisséia | Armando de Almeida x Teodemiro Leão line=4 duel=59.22 corte=-1.30
+[012] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=1 duel=22.75 on_target=0.654 goal=0.249
+[012] FINAL Eustáquio Miranda: no alvo sem gol (roll=0.525)
+[013] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[013] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.455 roll=0.770
+[014] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[014] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.333 roll=0.747
+[015] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[015] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.333 roll=0.121
+[015] JOGADA Cattete Football Club | Teodemiro Leão x Teobaldo Mascarenhas line=3 duel=-15.59 corte=-1.30
+[015] JOGADA falhou: Teobaldo Mascarenhas cortou
+[016] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[016] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.333 roll=0.440
+[017] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[017] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.333 roll=0.425
+[018] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[018] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.455 roll=0.439
+[018] JOGADA Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas x Acácio Casagrande line=4 duel=90.36 corte=-1.30
+[018] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=15.70 on_target=0.656 goal=0.247
+[018] FINAL Hildebrando Guardado: no alvo sem gol (roll=0.436)
+[019] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[019] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.333 roll=0.691
+[020] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[020] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.333 roll=0.251
+[020] JOGADA Cattete Football Club | Crixás Lima x Wilton Bigode line=2 duel=25.09 corte=-1.30
+[020] FINAL Cattete Football Club | Héber Galvão fam=5 duel=-1.43 on_target=0.563 goal=0.149
+[020] FINAL Héber Galvão: no alvo sem gol (roll=0.672)
+[021] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[021] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.490 roll=0.969
+[022] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[022] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.490 roll=0.281
+[022] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Crixás Lima line=4 duel=86.78 corte=-1.30
+[022] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=14.32 on_target=0.691 goal=0.254
+[022] FINAL Hildebrando Guardado: no alvo sem gol (roll=0.921)
+[023] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[023] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.358 roll=0.268
+[023] JOGADA Cattete Football Club | Ubiraci Schneider x Marcel Ganem line=3 duel=-18.54 corte=-1.30
+[023] JOGADA falhou: Marcel Ganem cortou
+[024] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[024] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.358 roll=0.380
+[025] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[025] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.358 roll=0.603
+[026] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[026] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.358 roll=0.001
+[026] JOGADA Cattete Football Club | Guatambu Magalhães x Marcel Ganem line=4 duel=-25.77 corte=-1.30
+[026] JOGADA falhou: Marcel Ganem cortou
+[027] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[027] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.490 roll=0.765
+[028] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[028] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.490 roll=0.311
+[028] JOGADA Clube Fluminense de Futebol Odisséia | Armando de Almeida x Acácio Casagrande line=5 duel=20.24 corte=-1.55
+[028] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=25.18 on_target=0.697 goal=0.262
+[028] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.521)
+[029] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[029] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.490 roll=0.577
+[030] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[030] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.490 roll=0.022
+[030] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Cândido Baptista line=5 duel=59.44 corte=-1.55
+[030] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=27.57 on_target=0.691 goal=0.260
+[030] FINAL Tomás Soares Ziza: fora/alvo perdido (roll=0.841)
+[031] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[031] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.490 roll=0.862
+[032] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[032] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.490 roll=0.457
+[032] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Edmar Portela line=3 duel=35.51 corte=-1.30
+[032] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=19.45 on_target=0.696 goal=0.259
+[032] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.537)
+[033] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[033] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.490 roll=0.209
+[033] JOGADA Clube Fluminense de Futebol Odisséia | Eduardo Batista x Guatambu Magalhães line=5 duel=10.92 corte=-1.55
+[033] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=28.68 on_target=0.691 goal=0.260
+[033] FINAL Tomás Soares Ziza: fora/alvo perdido (roll=0.945)
+[034] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[034] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.358 roll=0.334
+[034] JOGADA Cattete Football Club | Edmar Portela x Armando de Almeida line=3 duel=6.66 corte=-1.30
+[034] FINAL Cattete Football Club | Cândido Baptista fam=5 duel=-19.59 on_target=0.583 goal=0.142
+[034] FINAL Cândido Baptista: fora/alvo perdido (roll=0.762)
+[035] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[035] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.490 roll=0.472
+[035] JOGADA Clube Fluminense de Futebol Odisséia | Eduardo Batista x Teodemiro Leão line=4 duel=86.04 corte=-1.30
+[035] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=26.06 on_target=0.697 goal=0.262
+[035] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.549)
+[036] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[036] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.358 roll=0.691
+[037] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[037] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.358 roll=0.762
+[038] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[038] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.358 roll=0.779
+[039] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[039] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.490 roll=0.518
+[039] FINAL Clube Fluminense de Futebol Odisséia | Marcel Ganem fam=5 duel=-14.42 on_target=0.591 goal=0.139
+[039] FINAL Marcel Ganem: fora/alvo perdido (roll=0.901)
+[040] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[040] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.358 roll=0.498
+[041] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[041] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.358 roll=0.015
+[041] JOGADA Cattete Football Club | Ubiraci Schneider x Armando de Almeida line=3 duel=-12.60 corte=-1.30
+[041] JOGADA falhou: Armando de Almeida cortou
+[042] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[042] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.358 roll=0.205
+[042] JOGADA Cattete Football Club | Héber Galvão x Hildebrando Guardado line=3 duel=18.51 corte=-1.30
+[042] FINAL Cattete Football Club | Edmar Portela fam=5 duel=-25.63 on_target=0.583 goal=0.139
+[042] FINAL Edmar Portela: no alvo sem gol (roll=0.420)
+[043] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[043] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.490 roll=0.504
+[044] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[044] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.358 roll=0.993
+[045] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[045] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.358 roll=0.380
+[046] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[046] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.333 roll=0.994
+[047] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[047] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.333 roll=0.658
+[048] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[048] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.455 roll=0.080
+[048] JOGADA Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza x Teodemiro Leão line=4 duel=58.34 corte=-1.30
+[048] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=3 duel=9.13 on_target=0.595 goal=0.188
+[048] FINAL Hildebrando Guardado: no alvo sem gol (roll=0.987)
+[049] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[049] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.455 roll=0.174
+[049] JOGADA Clube Fluminense de Futebol Odisséia | Eduardo Batista x Héber Galvão line=4 duel=87.30 corte=-1.30
+[049] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=6.65 on_target=0.656 goal=0.243
+[049] FINAL Hildebrando Guardado: no alvo sem gol (roll=0.423)
+[050] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[050] SUB Clube Fluminense de Futebol Odisséia: saiu Hildebrando Guardado (CA) | entrou Walfrid Hoff (CA) | subs=1/5
+[050] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.451 roll=0.163
+[050] JOGADA Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza x Ubiraci Schneider line=4 duel=37.60 corte=-1.30
+[050] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=3 duel=43.93 on_target=0.592 goal=0.202
+[050] FINAL Walfrid Hoff: fora/alvo perdido (roll=0.889)
+[051] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[051] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.451 roll=0.272
+[051] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Teodemiro Leão line=4 duel=62.36 corte=-1.30
+[051] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=41.45 on_target=0.652 goal=0.256
+[051] FINAL Walfrid Hoff: no alvo sem gol (roll=0.925)
+[052] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[052] SUB Cattete Football Club: saiu Teodemiro Leão (MC) | entrou Emanuel Robledo (VOL) | subs=1/5
+[052] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.334 roll=0.822
+[053] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[053] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.450 roll=0.748
+[054] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[054] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.334 roll=0.055
+[054] JOGADA Cattete Football Club | Jetro Seixas x Wilton Bigode line=4 duel=-20.48 corte=-1.30
+[054] JOGADA falhou: Wilton Bigode cortou
+[055] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[055] SUB Cattete Football Club: saiu Ubiraci Schneider (MC) | entrou Xanxerê Alcoforado (VOL) | subs=2/5
+[055] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.449 roll=0.741
+[056] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Cattete Football Club
+[056] SUB Cattete Football Club: saiu Crixás Lima (SA) | entrou Alão Schultz (PE) | subs=3/5
+[056] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.482 roll=0.155
+[056] JOGADA Clube Fluminense de Futebol Odisséia | Adhemar Meira x Héber Galvão line=3 duel=36.40 corte=-1.30
+[056] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=39.54 on_target=0.686 goal=0.263
+[056] FINAL Walfrid Hoff: GOL subtipo=CHUTE (roll=0.240)
+[057] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[057] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.471 roll=0.799
+[058] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[058] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.368 roll=0.210
+[058] JOGADA Cattete Football Club | Cananéia Padilha x Armando de Almeida line=3 duel=-3.03 corte=-1.30
+[058] JOGADA falhou: Armando de Almeida cortou
+[059] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[059] SUB Cattete Football Club: saiu Acácio Casagrande (ZAG) | entrou Eudes Manhães (ZAG) | subs=4/5
+[059] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.475 roll=0.438
+[059] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Edmar Portela line=5 duel=37.36 corte=-1.55
+[059] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=38.52 on_target=0.659 goal=0.244
+[059] FINAL Walfrid Hoff: no alvo sem gol (roll=0.730)
+[060] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[060] SUB Cattete Football Club: saiu Cananéia Padilha (ME) | entrou Jandir Minas (ME) | subs=5/5
+[060] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.368 roll=0.870
+[061] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[061] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.478 roll=0.331
+[061] JOGADA Clube Fluminense de Futebol Odisséia | Eduardo Batista x Xanxerê Alcoforado line=5 duel=34.22 corte=-1.55
+[061] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=36.55 on_target=0.659 goal=0.244
+[061] FINAL Walfrid Hoff: no alvo sem gol (roll=0.783)
+[062] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[062] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.368 roll=0.822
+[063] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[063] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.368 roll=0.517
+[064] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[064] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.368 roll=0.110
+[064] JOGADA Cattete Football Club | Cândido Baptista x Eduardo Batista line=3 duel=-20.27 corte=-1.30
+[064] JOGADA falhou: Eduardo Batista cortou
+[065] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[065] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.478 roll=0.089
+[065] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Jetro Seixas line=3 duel=27.58 corte=-1.30
+[065] FINAL Clube Fluminense de Futebol Odisséia | Marcel Ganem fam=1 duel=7.17 on_target=0.667 goal=0.235
+[065] FINAL Marcel Ganem: no alvo sem gol (roll=0.931)
+[066] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[066] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.478 roll=0.072
+[066] JOGADA Clube Fluminense de Futebol Odisséia | Armando de Almeida x Guatambu Magalhães line=5 duel=11.70 corte=-1.55
+[066] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=34.77 on_target=0.659 goal=0.243
+[066] FINAL Walfrid Hoff: fora/alvo perdido (roll=0.776)
+[067] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[067] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.368 roll=0.399
+[068] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[068] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.368 roll=0.562
+[069] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[069] SUB Clube Fluminense de Futebol Odisséia: saiu Armando de Almeida (MC) | entrou Dmitri Frank (MC) | subs=2/5
+[069] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.478 roll=0.319
+[069] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Xanxerê Alcoforado line=3 duel=24.17 corte=-1.30
+[069] FINAL Clube Fluminense de Futebol Odisséia | Wilton Bigode fam=1 duel=22.76 on_target=0.668 goal=0.242
+[069] FINAL Wilton Bigode: fora/alvo perdido (roll=0.677)
+[070] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[070] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.368 roll=0.940
+[071] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[071] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.478 roll=0.997
+[072] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Cattete Football Club
+[072] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.478 roll=0.325
+[072] JOGADA Clube Fluminense de Futebol Odisséia | Dmitri Frank x Cândido Baptista line=4 duel=69.01 corte=-1.30
+[072] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=25.13 on_target=0.670 goal=0.244
+[072] FINAL Teobaldo Mascarenhas: GOL subtipo=CHUTE (roll=0.059)
+[073] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[073] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.467 roll=0.943
+[074] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[074] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.467 roll=0.888
+[075] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[075] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.372 roll=0.329
+[075] JOGADA Cattete Football Club | Eudes Manhães x Teobaldo Mascarenhas line=3 duel=-8.78 corte=-1.30
+[075] JOGADA falhou: Teobaldo Mascarenhas cortou
+[076] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[076] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.453 roll=0.227
+[076] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Jetro Seixas line=4 duel=28.27 corte=-1.30
+[076] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=24.04 on_target=0.620 goal=0.221
+[076] FINAL Walfrid Hoff: no alvo sem gol (roll=0.955)
+[077] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[077] SUB Clube Fluminense de Futebol Odisséia: saiu Teobaldo Mascarenhas (SA) | entrou Renato Lugon (SA) | subs=3/5
+[077] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.401 roll=0.732
+[078] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[078] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.443 roll=0.625
+[079] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[079] SUB Clube Fluminense de Futebol Odisséia: saiu Bremer Klotzbücher Nunes (ZAG) | entrou Áquiles Nascimento (ZAG) | subs=4/5
+[079] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.406 roll=0.999
+[080] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[080] SUB Clube Fluminense de Futebol Odisséia: saiu Eustáquio Miranda (MA) | entrou Charles Durant (MA) | subs=5/5
+[080] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.410 roll=0.307
+[080] JOGADA Cattete Football Club | Guatambu Magalhães x Charles Durant line=4 duel=-33.13 corte=-1.30
+[080] JOGADA falhou: Charles Durant cortou
+[081] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[081] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.410 roll=0.770
+[082] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[082] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.410 roll=0.712
+[083] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[083] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.410 roll=0.391
+[083] JOGADA Cattete Football Club | Xanxerê Alcoforado x Walfrid Hoff line=3 duel=26.40 corte=-1.30
+[083] FINAL Cattete Football Club | Alão Schultz fam=5 duel=9.34 on_target=0.634 goal=0.166
+[083] FINAL Alão Schultz: no alvo sem gol (roll=0.268)
+[084] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[084] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.410 roll=0.088
+[084] JOGADA Cattete Football Club | Jetro Seixas x Dmitri Frank line=4 duel=-26.32 corte=-1.30
+[084] JOGADA falhou: Dmitri Frank cortou
+[085] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[085] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.432 roll=0.950
+[086] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[086] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.432 roll=0.528
+[087] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[087] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.433 roll=0.431
+[087] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Héber Galvão line=5 duel=88.26 corte=-1.55
+[087] FINAL Clube Fluminense de Futebol Odisséia | Renato Lugon fam=1 duel=37.91 on_target=0.617 goal=0.223
+[087] FINAL Renato Lugon: fora/alvo perdido (roll=0.972)
+[088] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[088] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.432 roll=0.790
+[089] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[089] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.433 roll=0.208
+[089] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Héber Galvão line=5 duel=85.90 corte=-1.55
+[089] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=12.46 on_target=0.618 goal=0.214
+[089] FINAL Walfrid Hoff: fora/alvo perdido (roll=0.630)
+[090] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[090] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.433 roll=0.716
+[091] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[091] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.433 roll=0.950
+[092] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[092] BUILD Clube Fluminense de Futebol Odisséia vs Cattete Football Club prob=0.433 roll=0.909
+[093] posse=Cattete Football Club | placar Clube Fluminense de Futebol Odisséia 4 x 1 Cattete Football Club
+[093] BUILD Cattete Football Club vs Clube Fluminense de Futebol Odisséia prob=0.432 roll=0.742

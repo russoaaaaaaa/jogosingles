@@ -1,0 +1,335 @@
+Partida #190
+Data: 1912-01-18
+Mandante: Andarahy Atlético Clube
+Visitante: Clube Olímpico
+Placar: 2 x 2
+Seed: -
+Estádio: Arena Andarahy
+Clima: Ensolarado
+Placar tempo normal: 2 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Andarahy Atlético Clube x Clube Olímpico | estádio=Arena Andarahy | clima=Ensolarado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[001] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.378 roll=0.386
+[002] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[002] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.330 roll=0.595
+[003] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[003] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.378 roll=0.602
+[004] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[004] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.378 roll=0.245
+[004] JOGADA Clube Olímpico | Farelo x Vizeu Júnior line=4 duel=105.75 corte=-1.10
+[004] FINAL Clube Olímpico | José Piendibene fam=1 duel=13.28 on_target=0.610 goal=0.229
+[004] FINAL José Piendibene: no alvo sem gol (roll=0.887)
+[005] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[005] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.378 roll=0.117
+[005] JOGADA Clube Olímpico | Ítalo Coimbra x Ptolomeu Garcia line=5 duel=87.66 corte=-1.85
+[005] FINAL Clube Olímpico | José Piendibene fam=1 duel=9.15 on_target=0.610 goal=0.227
+[005] FINAL José Piendibene: fora/alvo perdido (roll=0.991)
+[006] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[006] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.330 roll=0.419
+[007] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[007] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.378 roll=0.605
+[008] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[008] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.378 roll=0.859
+[009] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[009] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.330 roll=0.781
+[010] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[010] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.330 roll=0.778
+[011] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[011] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.426
+[012] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[012] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.548
+[013] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[013] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.357 roll=0.009
+[013] JOGADA Andarahy Atlético Clube | Heitor Barbosa x Omar Cordeiro line=5 duel=-32.82 corte=-1.95
+[013] JOGADA falhou: Omar Cordeiro cortou
+[014] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[014] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.973
+[015] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[015] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.357 roll=0.907
+[016] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[016] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.591
+[017] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[017] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.357 roll=0.524
+[018] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[018] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.975
+[019] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[019] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.519
+[020] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[020] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.269
+[020] JOGADA Clube Olímpico | Ítalo Coimbra x Heitor Barbosa line=4 duel=74.18 corte=-1.10
+[020] FINAL Clube Olímpico | Francisco Borja fam=1 duel=13.00 on_target=0.652 goal=0.241
+[020] FINAL Francisco Borja: no alvo sem gol (roll=0.569)
+[021] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[021] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.384 roll=0.693
+[022] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[022] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.384 roll=0.521
+[023] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[023] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.384 roll=0.997
+[024] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[024] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.384 roll=0.947
+[025] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[025] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.384 roll=0.167
+[025] JOGADA Andarahy Atlético Clube | Vevé x Omar Cordeiro line=4 duel=-26.65 corte=-1.70
+[026] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[026] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.440 roll=0.855
+[027] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[027] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.440 roll=0.175
+[027] JOGADA Clube Olímpico | Kian MacGiolla x Osvaldo Daimi line=4 duel=-7.82 corte=-1.10
+[027] JOGADA falhou: Osvaldo Daimi cortou
+[028] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[028] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.440 roll=0.026
+[028] JOGADA Clube Olímpico | Ítalo Coimbra x Juan Ferraresi line=3 duel=2.13 corte=-1.10
+[028] FINAL Clube Olímpico | José Piendibene fam=1 duel=0.12 on_target=0.693 goal=0.246
+[028] FINAL José Piendibene: no alvo sem gol (roll=0.823)
+[029] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[029] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.440 roll=0.642
+[030] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[030] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.440 roll=0.340
+[030] JOGADA Clube Olímpico | Farelo x Heitor Barbosa line=5 duel=29.53 corte=-1.35
+[030] FINAL Clube Olímpico | Ítalo Coimbra fam=1 duel=-8.15 on_target=0.689 goal=0.240
+[030] FINAL Ítalo Coimbra: fora/alvo perdido (roll=0.862)
+[031] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[031] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.384 roll=0.421
+[032] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[032] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.386 roll=0.677
+[033] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[033] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.440 roll=0.637
+[034] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[034] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.386 roll=0.262
+[034] JOGADA Andarahy Atlético Clube | Vevé x Farelo line=5 duel=-30.01 corte=-2.45
+[034] JOGADA falhou: Farelo cortou
+[035] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[035] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.386 roll=0.997
+[036] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[036] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.440 roll=0.711
+[037] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[037] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.440 roll=0.718
+[038] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[038] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.386 roll=0.069
+[038] JOGADA Andarahy Atlético Clube | Erasmo do Carmo x Epaminondas da Luz line=5 duel=57.50 corte=-1.95
+[038] FINAL Andarahy Atlético Clube | Vizeu Júnior fam=5 duel=-20.70 on_target=0.587 goal=0.147
+[038] FINAL Vizeu Júnior: no alvo sem gol (roll=0.411)
+[039] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[039] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.440 roll=0.730
+[040] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[040] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.386 roll=0.450
+[041] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[041] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.440 roll=0.052
+[041] JOGADA Clube Olímpico | Omar Cordeiro x Heitor Barbosa line=5 duel=114.54 corte=-1.35
+[041] FINAL Clube Olímpico | José Piendibene fam=1 duel=-6.99 on_target=0.692 goal=0.242
+[041] FINAL José Piendibene: no alvo sem gol (roll=0.738)
+[042] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[042] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.440 roll=0.314
+[042] JOGADA Clube Olímpico | Ítalo Coimbra x Erasmo do Carmo line=5 duel=42.11 corte=-1.85
+[042] FINAL Clube Olímpico | Pedro Dalcher fam=1 duel=23.58 on_target=0.697 goal=0.258
+[042] FINAL Pedro Dalcher: no alvo sem gol (roll=0.453)
+[043] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[043] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.386 roll=0.186
+[043] JOGADA Andarahy Atlético Clube | Ptolomeu Garcia x Farelo line=5 duel=-9.99 corte=-2.45
+[043] JOGADA falhou: Farelo cortou
+[044] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[044] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.386 roll=0.995
+[045] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[045] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.386 roll=0.272
+[045] JOGADA Andarahy Atlético Clube | Sandro Delchiaro x Francisco Borja line=5 duel=-13.80 corte=-1.95
+[045] JOGADA falhou: Francisco Borja cortou
+[046] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[046] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.251
+[046] JOGADA Clube Olímpico | Farelo x Vevé line=4 duel=49.61 corte=-1.10
+[046] FINAL Clube Olímpico | José Piendibene fam=1 duel=-3.20 on_target=0.658 goal=0.237
+[046] FINAL José Piendibene: fora/alvo perdido (roll=0.697)
+[047] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[047] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.359 roll=0.277
+[047] JOGADA Andarahy Atlético Clube | Sandro Delchiaro x Ítalo Coimbra line=4 duel=11.48 corte=-1.70
+[047] FINAL Andarahy Atlético Clube | Vizeu Júnior fam=5 duel=-16.36 on_target=0.558 goal=0.145
+[047] FINAL Vizeu Júnior: fora/alvo perdido (roll=0.673)
+[048] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[048] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.738
+[049] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[049] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.359 roll=0.796
+[050] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[050] SUB Andarahy Atlético Clube: saiu Vevé (MA) | entrou Roberto Paiva Gomes (MC) | subs=1/5
+[050] SUB Clube Olímpico: saiu José Piendibene (SA) | entrou Salomão Cruz (PE) | subs=1/5
+[050] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.358 roll=0.156
+[050] JOGADA Andarahy Atlético Clube | Erasmo do Carmo x Salomão Cruz line=5 duel=11.72 corte=-1.95
+[050] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=-53.56 on_target=0.561 goal=0.130
+[050] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.935)
+[051] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[051] SUB Andarahy Atlético Clube: saiu Vizeu Júnior (CA) | entrou Augusto Ventura (CA) | subs=2/5
+[051] SUB Clube Olímpico: saiu Ítalo Coimbra (CA) | entrou Eduardo Pessoa (SA) | subs=2/5
+[051] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.348 roll=0.427
+[052] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[052] SUB Andarahy Atlético Clube: saiu Heitor Barbosa (VOL) | entrou Fabiano Maldonado (MC) | subs=3/5
+[052] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.407 roll=0.174
+[052] JOGADA Clube Olímpico | Pedro Dalcher x Fabiano Maldonado line=4 duel=25.18 corte=-1.10
+[052] FINAL Clube Olímpico | Salomão Cruz fam=3 duel=19.47 on_target=0.590 goal=0.188
+[052] FINAL Salomão Cruz: no alvo sem gol (roll=0.299)
+[053] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[053] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.407 roll=0.367
+[053] JOGADA Clube Olímpico | Adner Albuquerque x Osvaldo Daimi line=3 duel=-12.37 corte=-1.10
+[053] JOGADA falhou: Osvaldo Daimi cortou
+[054] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[054] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.348 roll=0.110
+[054] JOGADA Andarahy Atlético Clube | Ptolomeu Garcia x Farelo line=5 duel=49.74 corte=-2.45
+[054] FINAL Andarahy Atlético Clube | Augusto Ventura fam=5 duel=-19.66 on_target=0.561 goal=0.145
+[054] FINAL Augusto Ventura: fora/alvo perdido (roll=0.815)
+[055] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[055] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.407 roll=0.679
+[056] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[056] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.374 roll=0.546
+[056] FINAL Andarahy Atlético Clube | Osvaldo Daimi fam=5 duel=-21.59 on_target=0.586 goal=0.147
+[056] FINAL Osvaldo Daimi: fora/alvo perdido (roll=0.822)
+[057] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[057] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.374 roll=0.187
+[057] JOGADA Andarahy Atlético Clube | Fabiano Maldonado x Kian MacGiolla line=4 duel=-3.67 corte=-1.70
+[058] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[058] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.374 roll=0.117
+[058] JOGADA Andarahy Atlético Clube | Erasmo do Carmo x Omar Cordeiro line=5 duel=-19.37 corte=-1.95
+[058] JOGADA falhou: Omar Cordeiro cortou
+[059] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[059] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.374 roll=0.333
+[059] JOGADA Andarahy Atlético Clube | Maurílio Barros x Salomão Cruz line=5 duel=64.94 corte=-1.95
+[059] FINAL Andarahy Atlético Clube | Augusto Ventura fam=5 duel=-60.06 on_target=0.588 goal=0.131
+[059] FINAL Augusto Ventura: no alvo sem gol (roll=0.832)
+[060] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[060] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.611
+[061] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[061] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.365
+[061] JOGADA Clube Olímpico | Epaminondas da Luz x Maurílio Barros line=3 duel=21.88 corte=-1.09
+[061] FINAL Clube Olímpico | Salomão Cruz fam=1 duel=33.62 on_target=0.685 goal=0.256
+[061] FINAL Salomão Cruz: no alvo sem gol (roll=0.663)
+[062] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[062] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.378 roll=0.688
+[063] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 0 Clube Olímpico
+[063] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.403
+[063] JOGADA Clube Olímpico | Salomão Cruz x Osvaldo Daimi line=5 duel=105.28 corte=-1.84
+[063] FINAL Clube Olímpico | Epaminondas da Luz fam=3 duel=-11.41 on_target=0.627 goal=0.183
+[063] FINAL Epaminondas da Luz: GOL subtipo=CHUTE (roll=0.117)
+[064] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 1 Clube Olímpico
+[064] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.437 roll=0.812
+[065] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Clube Olímpico
+[065] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.459 roll=0.642
+[066] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Clube Olímpico
+[066] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.459 roll=0.895
+[067] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 1 Clube Olímpico
+[067] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.437 roll=0.977
+[068] posse=Clube Olímpico | placar Andarahy Atlético Clube 0 x 1 Clube Olímpico
+[068] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.437 roll=0.614
+[069] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Clube Olímpico
+[069] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.459 roll=0.411
+[069] JOGADA Andarahy Atlético Clube | Osvaldo Daimi x Omar Cordeiro line=5 duel=13.97 corte=-1.95
+[069] FINAL Andarahy Atlético Clube | Fabiano Maldonado fam=5 duel=2.90 on_target=0.595 goal=0.163
+[069] FINAL Fabiano Maldonado: fora/alvo perdido (roll=0.675)
+[070] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Clube Olímpico
+[070] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.459 roll=0.022
+[070] JOGADA Andarahy Atlético Clube | Juan Ferraresi x Pedro Dalcher line=5 duel=-0.31 corte=-1.95
+[070] FINAL Andarahy Atlético Clube | Maurílio Barros fam=5 duel=-51.60 on_target=0.587 goal=0.137
+[070] FINAL Maurílio Barros: no alvo sem gol (roll=0.443)
+[071] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 1 Clube Olímpico
+[071] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.459 roll=0.411
+[071] JOGADA Andarahy Atlético Clube | Juan Ferraresi x Pedro Dalcher line=4 duel=0.81 corte=-1.70
+[071] FINAL Andarahy Atlético Clube | Maurílio Barros fam=5 duel=-50.53 on_target=0.587 goal=0.137
+[071] FINAL Maurílio Barros: GOL subtipo=FALTA (roll=0.030)
+[072] posse=Clube Olímpico | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[072] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.956
+[072] FINAL Clube Olímpico | Epaminondas da Luz fam=5 duel=-30.54 on_target=0.589 goal=0.130
+[072] FINAL Epaminondas da Luz: no alvo sem gol (roll=0.996)
+[073] posse=Clube Olímpico | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[073] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.409 roll=0.261
+[073] JOGADA Clube Olímpico | Kian MacGiolla x Sandro Delchiaro line=4 duel=53.20 corte=-1.04
+[073] FINAL Clube Olímpico | Pedro Dalcher fam=1 duel=28.01 on_target=0.697 goal=0.260
+[073] FINAL Pedro Dalcher: no alvo sem gol (roll=0.738)
+[074] posse=Clube Olímpico | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[074] SUB Clube Olímpico: saiu Francisco Borja (MC) | entrou Levi Daschner (MC) | subs=3/5
+[074] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.408 roll=0.343
+[074] JOGADA Clube Olímpico | Epaminondas da Luz x Fabiano Maldonado line=5 duel=12.02 corte=-1.30
+[074] FINAL Clube Olímpico | Omar Cordeiro fam=1 duel=24.44 on_target=0.690 goal=0.255
+[074] FINAL Omar Cordeiro: no alvo sem gol (roll=0.450)
+[075] posse=Clube Olímpico | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[075] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.408 roll=0.161
+[075] JOGADA Clube Olímpico | Epaminondas da Luz x Cláudio Maciel Fonseca line=5 duel=16.96 corte=-1.30
+[075] FINAL Clube Olímpico | Salomão Cruz fam=1 duel=31.72 on_target=0.685 goal=0.255
+[075] FINAL Salomão Cruz: no alvo sem gol (roll=0.372)
+[076] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[076] SUB Clube Olímpico: saiu Epaminondas da Luz (MC) | entrou Juca Martelinho (MA) | subs=4/5
+[076] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.393 roll=0.619
+[077] posse=Clube Olímpico | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[077] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.420 roll=0.393
+[077] JOGADA Clube Olímpico | Pedro Dalcher x Erasmo do Carmo line=4 duel=32.12 corte=-1.05
+[077] FINAL Clube Olímpico | Salomão Cruz fam=3 duel=-9.60 on_target=0.631 goal=0.182
+[077] FINAL Salomão Cruz: fora/alvo perdido (roll=0.921)
+[078] posse=Clube Olímpico | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[078] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.420 roll=0.771
+[079] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[079] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.393 roll=0.997
+[080] posse=Clube Olímpico | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[080] SUB Clube Olímpico: saiu Eduardo Pessoa (SA) | entrou John Fortnite (PD) | subs=5/5
+[080] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.419 roll=0.150
+[080] JOGADA Clube Olímpico | Farelo x Fabiano Maldonado line=5 duel=15.76 corte=-1.30
+[080] FINAL Clube Olímpico | Pedro Dalcher fam=1 duel=20.86 on_target=0.710 goal=0.259
+[080] FINAL Pedro Dalcher: no alvo sem gol (roll=0.318)
+[081] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[081] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.393 roll=0.240
+[081] JOGADA Andarahy Atlético Clube | Osvaldo Daimi x Farelo line=4 duel=-23.48 corte=-1.70
+[081] JOGADA falhou: Farelo cortou
+[082] posse=Clube Olímpico | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[082] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.419 roll=0.282
+[082] JOGADA Clube Olímpico | Omar Cordeiro x Maurílio Barros line=4 duel=28.40 corte=-1.05
+[082] FINAL Clube Olímpico | John Fortnite fam=1 duel=35.29 on_target=0.698 goal=0.259
+[082] FINAL John Fortnite: no alvo sem gol (roll=0.911)
+[083] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[083] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.393 roll=0.514
+[084] posse=Clube Olímpico | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[084] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.419 roll=0.892
+[085] posse=Clube Olímpico | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[085] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.441 roll=0.657
+[086] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[086] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.413 roll=0.451
+[087] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Olímpico
+[087] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.413 roll=0.138
+[087] JOGADA Andarahy Atlético Clube | Ptolomeu Garcia x Levi Daschner line=4 duel=29.98 corte=-1.70
+[087] FINAL Andarahy Atlético Clube | Augusto Ventura fam=5 duel=-19.71 on_target=0.642 goal=0.153
+[087] FINAL Augusto Ventura: GOL subtipo=FALTA (roll=0.011)
+[088] posse=Clube Olímpico | placar Andarahy Atlético Clube 2 x 1 Clube Olímpico
+[088] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.555 roll=0.136
+[088] JOGADA Clube Olímpico | Geraldo Barros x Sandro Delchiaro line=4 duel=0.94 corte=-1.02
+[088] FINAL Clube Olímpico | John Fortnite fam=1 duel=29.30 on_target=0.778 goal=0.265
+[088] FINAL John Fortnite: fora/alvo perdido (roll=0.891)
+[089] posse=Clube Olímpico | placar Andarahy Atlético Clube 2 x 1 Clube Olímpico
+[089] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.555 roll=0.482
+[089] JOGADA Clube Olímpico | Juca Martelinho x Osvaldo Daimi line=4 duel=28.92 corte=-1.02
+[089] FINAL Clube Olímpico | Pedro Dalcher fam=3 duel=8.45 on_target=0.718 goal=0.202
+[089] FINAL Pedro Dalcher: no alvo sem gol (roll=0.495)
+[090] posse=Clube Olímpico | placar Andarahy Atlético Clube 2 x 1 Clube Olímpico
+[090] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.555 roll=0.599
+[091] posse=Clube Olímpico | placar Andarahy Atlético Clube 2 x 1 Clube Olímpico
+[091] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.555 roll=0.992
+[092] posse=Clube Olímpico | placar Andarahy Atlético Clube 2 x 1 Clube Olímpico
+[092] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.555 roll=0.018
+[092] JOGADA Clube Olímpico | Geraldo Barros x Juan Ferraresi line=4 duel=2.78 corte=-1.02
+[092] FINAL Clube Olímpico | John Fortnite fam=1 duel=28.01 on_target=0.778 goal=0.264
+[092] FINAL John Fortnite: GOL subtipo=CHUTE (roll=0.132)
+[093] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Olímpico
+[093] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.413 roll=0.820
+[094] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Olímpico
+[094] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.413 roll=0.458
+[095] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Olímpico
+[095] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.413 roll=0.382
+[095] JOGADA Andarahy Atlético Clube | Roberto Paiva Gomes x Farelo line=4 duel=26.19 corte=-1.70
+[095] FINAL Andarahy Atlético Clube | Augusto Ventura fam=5 duel=-23.09 on_target=0.642 goal=0.151
+[095] FINAL Augusto Ventura: no alvo sem gol (roll=0.513)
+[096] posse=Clube Olímpico | placar Andarahy Atlético Clube 2 x 2 Clube Olímpico
+[096] BUILD Clube Olímpico vs Andarahy Atlético Clube prob=0.441 roll=0.338
+[096] JOGADA Clube Olímpico | Levi Daschner x Osvaldo Daimi line=5 duel=86.39 corte=-1.30
+[096] FINAL Clube Olímpico | John Fortnite fam=1 duel=22.72 on_target=0.741 goal=0.253
+[096] FINAL John Fortnite: no alvo sem gol (roll=0.438)
+[097] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Olímpico
+[097] BUILD Andarahy Atlético Clube vs Clube Olímpico prob=0.413 roll=0.048
+[097] JOGADA Andarahy Atlético Clube | Erasmo do Carmo x John Fortnite line=3 duel=45.27 corte=-1.70
+[097] FINAL Andarahy Atlético Clube | Maurílio Barros fam=5 duel=-0.51 on_target=0.640 goal=0.160
+[097] FINAL Maurílio Barros: fora/alvo perdido (roll=0.874)

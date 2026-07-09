@@ -1,0 +1,323 @@
+Partida #162
+Data: 1912-01-14
+Mandante: America Football Club
+Visitante: Fidalgo Football Club
+Placar: 4 x 1
+Seed: -
+Estádio: Arena Andarahy
+Clima: Ensolarado
+Placar tempo normal: 4 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: America Football Club x Fidalgo Football Club | estádio=Arena Andarahy | clima=Ensolarado | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Fidalgo Football Club | placar America Football Club 0 x 0 Fidalgo Football Club
+[001] BUILD Fidalgo Football Club vs America Football Club prob=0.330 roll=0.578
+[002] posse=America Football Club | placar America Football Club 0 x 0 Fidalgo Football Club
+[002] BUILD America Football Club vs Fidalgo Football Club prob=0.379 roll=0.625
+[003] posse=America Football Club | placar America Football Club 0 x 0 Fidalgo Football Club
+[003] BUILD America Football Club vs Fidalgo Football Club prob=0.379 roll=0.810
+[004] posse=America Football Club | placar America Football Club 0 x 0 Fidalgo Football Club
+[004] BUILD America Football Club vs Fidalgo Football Club prob=0.379 roll=0.962
+[005] posse=Fidalgo Football Club | placar America Football Club 0 x 0 Fidalgo Football Club
+[005] BUILD Fidalgo Football Club vs America Football Club prob=0.330 roll=0.127
+[005] JOGADA Fidalgo Football Club | Ícaro Custódio x Eduardo Lagarto line=3 duel=-4.88 corte=-1.30
+[006] posse=America Football Club | placar America Football Club 0 x 0 Fidalgo Football Club
+[006] BUILD America Football Club vs Fidalgo Football Club prob=0.379 roll=0.633
+[007] posse=America Football Club | placar America Football Club 0 x 0 Fidalgo Football Club
+[007] BUILD America Football Club vs Fidalgo Football Club prob=0.379 roll=0.484
+[008] posse=America Football Club | placar America Football Club 0 x 0 Fidalgo Football Club
+[008] BUILD America Football Club vs Fidalgo Football Club prob=0.379 roll=0.858
+[009] posse=Fidalgo Football Club | placar America Football Club 0 x 0 Fidalgo Football Club
+[009] BUILD Fidalgo Football Club vs America Football Club prob=0.330 roll=0.397
+[010] posse=America Football Club | placar America Football Club 0 x 0 Fidalgo Football Club
+[010] BUILD America Football Club vs Fidalgo Football Club prob=0.379 roll=0.332
+[010] JOGADA America Football Club | Geraldo França x Bryan Figueiredo line=2 duel=66.55 corte=-1.14
+[010] FINAL America Football Club | Thiago Aguiar fam=3 duel=-0.06 on_target=0.614 goal=0.190
+[010] FINAL Thiago Aguiar: GOL subtipo=CHUTE (roll=0.044)
+[011] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[011] BUILD Fidalgo Football Club vs America Football Club prob=0.404 roll=0.298
+[011] JOGADA Fidalgo Football Club | Lukas Lombardi x Filipe de Oliveira line=3 duel=1.05 corte=-1.30
+[011] FINAL Fidalgo Football Club | Jaguará Guerreiro fam=5 duel=-13.57 on_target=0.630 goal=0.160
+[011] FINAL Jaguará Guerreiro: fora/alvo perdido (roll=0.652)
+[012] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[012] BUILD America Football Club vs Fidalgo Football Club prob=0.409 roll=0.624
+[013] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[013] BUILD America Football Club vs Fidalgo Football Club prob=0.409 roll=0.209
+[013] JOGADA America Football Club | Thiago Freixó x Lukas Lombardi line=2 duel=-2.19 corte=-1.30
+[013] JOGADA falhou: Lukas Lombardi cortou
+[014] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[014] BUILD Fidalgo Football Club vs America Football Club prob=0.404 roll=0.367
+[014] JOGADA Fidalgo Football Club | Ícaro Custódio x Filipe de Oliveira line=4 duel=-10.43 corte=-1.30
+[015] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[015] BUILD Fidalgo Football Club vs America Football Club prob=0.404 roll=0.917
+[016] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[016] BUILD Fidalgo Football Club vs America Football Club prob=0.404 roll=0.841
+[017] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[017] BUILD Fidalgo Football Club vs America Football Club prob=0.404 roll=0.014
+[017] JOGADA Fidalgo Football Club | Torquato Brasileiro x Davi Ambrósio Rios line=2 duel=47.15 corte=-1.30
+[017] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Davi Ambrósio Rios line=5 duel=64.55 corte=-2.05
+[017] FINAL Fidalgo Football Club | Patrício Gouveia fam=5 duel=-95.89 on_target=0.623 goal=0.119
+[017] FINAL Patrício Gouveia: no alvo sem gol (roll=0.500)
+[018] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[018] BUILD America Football Club vs Fidalgo Football Club prob=0.409 roll=0.878
+[019] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[019] BUILD Fidalgo Football Club vs America Football Club prob=0.404 roll=0.479
+[020] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[020] BUILD Fidalgo Football Club vs America Football Club prob=0.404 roll=0.927
+[021] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[021] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.261
+[021] JOGADA America Football Club | Thiago Aguiar x Patrício Gouveia line=3 duel=83.54 corte=-1.30
+[021] FINAL America Football Club | Eduardo Lagarto fam=1 duel=27.46 on_target=0.769 goal=0.285
+[021] FINAL Eduardo Lagarto: no alvo sem gol (roll=0.821)
+[022] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[022] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.991
+[023] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[023] BUILD Fidalgo Football Club vs America Football Club prob=0.435 roll=0.194
+[023] JOGADA Fidalgo Football Club | Lukas Lombardi x Antônio Figueroa line=3 duel=-11.56 corte=-1.30
+[023] JOGADA falhou: Antônio Figueroa cortou
+[024] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[024] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.731
+[025] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[025] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.599
+[026] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[026] BUILD Fidalgo Football Club vs America Football Club prob=0.435 roll=0.112
+[026] JOGADA Fidalgo Football Club | Bryan Figueiredo x Thiago Freixó line=4 duel=-84.58 corte=-1.30
+[026] JOGADA falhou: Thiago Freixó cortou
+[027] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[027] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.713
+[028] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[028] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.721
+[029] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[029] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.255
+[029] JOGADA America Football Club | Eduardo Lagarto x Bryan Figueiredo line=3 duel=23.97 corte=-1.30
+[029] FINAL America Football Club | Thiago Aguiar fam=3 duel=-7.37 on_target=0.697 goal=0.205
+[029] FINAL Thiago Aguiar: fora/alvo perdido (roll=0.818)
+[030] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[030] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.544
+[031] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[031] BUILD Fidalgo Football Club vs America Football Club prob=0.435 roll=0.820
+[032] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[032] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.565
+[033] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[033] BUILD Fidalgo Football Club vs America Football Club prob=0.435 roll=0.581
+[034] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[034] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.081
+[034] JOGADA America Football Club | Basílico Freitas x Bryan Figueiredo line=3 duel=7.07 corte=-1.30
+[034] FINAL America Football Club | Eduardo Lagarto fam=1 duel=17.32 on_target=0.768 goal=0.280
+[034] FINAL Eduardo Lagarto: no alvo sem gol (roll=0.718)
+[035] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[035] BUILD Fidalgo Football Club vs America Football Club prob=0.435 roll=0.722
+[036] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[036] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.936
+[037] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[037] BUILD Fidalgo Football Club vs America Football Club prob=0.435 roll=0.479
+[038] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[038] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.183
+[038] JOGADA America Football Club | Davi Ambrósio Rios x Bryan Figueiredo line=3 duel=-14.94 corte=-1.30
+[038] JOGADA falhou: Bryan Figueiredo cortou
+[039] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[039] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.148
+[039] JOGADA America Football Club | Thiago Freixó x Torquato Brasileiro line=4 duel=12.80 corte=-1.30
+[039] JOGADA America Football Club | Paolo Gonçalves x Bauá Laranjeira line=4 duel=-11.93 corte=-1.30
+[040] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[040] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.395
+[040] JOGADA America Football Club | Eduardo Lagarto x Agnelo Orrico line=4 duel=31.70 corte=-1.30
+[040] JOGADA America Football Club | Basílico Freitas x Apolônio Fasano line=4 duel=28.33 corte=-1.30
+[040] JOGADA America Football Club | Valdomiro Machado x Patrício Gouveia line=5 duel=20.04 corte=-2.05
+[040] FINAL America Football Club | Geraldo França fam=1 duel=13.82 on_target=0.770 goal=0.279
+[040] FINAL Geraldo França: no alvo sem gol (roll=0.926)
+[041] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[041] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.884
+[042] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[042] BUILD Fidalgo Football Club vs America Football Club prob=0.435 roll=0.800
+[043] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[043] BUILD Fidalgo Football Club vs America Football Club prob=0.435 roll=0.313
+[043] JOGADA Fidalgo Football Club | Patrício Gouveia x Eduardo Lagarto line=4 duel=-81.76 corte=-1.30
+[043] JOGADA falhou: Eduardo Lagarto cortou
+[044] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[044] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.186
+[044] JOGADA America Football Club | Basílico Freitas x Agnelo Orrico line=3 duel=33.47 corte=-1.30
+[044] FINAL America Football Club | Geraldo França fam=1 duel=16.34 on_target=0.770 goal=0.280
+[044] FINAL Geraldo França: no alvo sem gol (roll=0.757)
+[045] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[045] BUILD America Football Club vs Fidalgo Football Club prob=0.440 roll=0.590
+[046] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[046] BUILD America Football Club vs Fidalgo Football Club prob=0.409 roll=0.529
+[047] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[047] BUILD America Football Club vs Fidalgo Football Club prob=0.409 roll=0.296
+[047] JOGADA America Football Club | Filipe de Oliveira x Jaguará Guerreiro line=2 duel=8.98 corte=-1.30
+[047] FINAL America Football Club | Valdomiro Machado fam=1 duel=0.01 on_target=0.726 goal=0.261
+[047] FINAL Valdomiro Machado: fora/alvo perdido (roll=0.747)
+[048] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[048] BUILD Fidalgo Football Club vs America Football Club prob=0.404 roll=0.488
+[049] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[049] BUILD America Football Club vs Fidalgo Football Club prob=0.409 roll=0.100
+[049] JOGADA America Football Club | Thiago Freixó x Patrício Gouveia line=3 duel=5.96 corte=-1.30
+[049] FINAL America Football Club | Basílico Freitas fam=1 duel=-3.81 on_target=0.725 goal=0.259
+[049] FINAL Basílico Freitas: fora/alvo perdido (roll=0.862)
+[050] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[050] SUB America Football Club: saiu Valdomiro Machado (SA) | entrou Lázaro Almeida (MA) | subs=1/5
+[050] SUB Fidalgo Football Club: saiu Apolônio Fasano (ME) | entrou Nilton Soares (ME) | subs=1/5
+[050] BUILD America Football Club vs Fidalgo Football Club prob=0.414 roll=0.304
+[050] JOGADA America Football Club | Paolo Gonçalves x Patrício Gouveia line=2 duel=41.50 corte=-1.30
+[050] FINAL America Football Club | Lázaro Almeida fam=1 duel=23.91 on_target=0.728 goal=0.274
+[050] FINAL Lázaro Almeida: no alvo sem gol (roll=0.351)
+[051] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[051] SUB America Football Club: saiu Thiago Aguiar (CA) | entrou Pedro Gago (CA) | subs=2/5
+[051] BUILD Fidalgo Football Club vs America Football Club prob=0.407 roll=0.106
+[051] JOGADA Fidalgo Football Club | Ícaro Custódio x Geraldo França line=4 duel=14.97 corte=-1.30
+[051] JOGADA Fidalgo Football Club | Patrício Gouveia x Pedro Gago line=4 duel=-33.61 corte=-1.30
+[052] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[052] BUILD America Football Club vs Fidalgo Football Club prob=0.399 roll=0.627
+[053] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[053] SUB Fidalgo Football Club: saiu Torquato Brasileiro (ZAG) | entrou Avati Volpi (ZAG) | subs=2/5
+[053] BUILD Fidalgo Football Club vs America Football Club prob=0.406 roll=0.969
+[054] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[054] BUILD America Football Club vs Fidalgo Football Club prob=0.400 roll=0.195
+[054] JOGADA America Football Club | Filipe de Oliveira x Nilton Soares line=3 duel=-10.73 corte=-1.30
+[055] posse=America Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[055] SUB Fidalgo Football Club: saiu Agnelo Orrico (SA) | entrou Arley Quadros (PD) | subs=3/5
+[055] BUILD America Football Club vs Fidalgo Football Club prob=0.400 roll=0.425
+[056] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[056] BUILD Fidalgo Football Club vs America Football Club prob=0.432 roll=0.316
+[056] JOGADA Fidalgo Football Club | Bryan Figueiredo x Pedro Gago line=4 duel=-105.36 corte=-1.30
+[056] JOGADA falhou: Pedro Gago cortou
+[057] posse=Fidalgo Football Club | placar America Football Club 1 x 0 Fidalgo Football Club
+[057] SUB America Football Club: saiu Davi Ambrósio Rios (LE) | entrou Luís Barcelar (LE) | subs=3/5
+[057] SUB Fidalgo Football Club: saiu Patrício Gouveia (MC) | entrou Janardo Páscoa (VOL) | subs=4/5
+[057] BUILD Fidalgo Football Club vs America Football Club prob=0.444 roll=0.232
+[057] JOGADA Fidalgo Football Club | Lukas Lombardi x Paolo Gonçalves line=3 duel=2.34 corte=-1.30
+[057] FINAL Fidalgo Football Club | Jaguará Guerreiro fam=5 duel=-2.61 on_target=0.663 goal=0.170
+[057] FINAL Jaguará Guerreiro: GOL subtipo=FALTA (roll=0.039)
+[058] posse=America Football Club | placar America Football Club 1 x 1 Fidalgo Football Club
+[058] SUB America Football Club: saiu Geraldo França (MA) | entrou Jessé Paiva (MC) | subs=4/5
+[058] BUILD America Football Club vs Fidalgo Football Club prob=0.427 roll=0.442
+[059] posse=Fidalgo Football Club | placar America Football Club 1 x 1 Fidalgo Football Club
+[059] BUILD Fidalgo Football Club vs America Football Club prob=0.398 roll=0.262
+[059] JOGADA Fidalgo Football Club | Janardo Páscoa x Lázaro Almeida line=2 duel=52.74 corte=-1.30
+[059] JOGADA Fidalgo Football Club | Bryan Figueiredo x Filipe de Oliveira line=5 duel=48.86 corte=-1.55
+[059] JOGADA Fidalgo Football Club | Arley Quadros x Eduardo Lagarto line=5 duel=83.06 corte=-2.05
+[059] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=1 duel=0.78 on_target=0.765 goal=0.272
+[059] FINAL Pacheco Arcoverde: no alvo sem gol (roll=0.347)
+[060] posse=Fidalgo Football Club | placar America Football Club 1 x 1 Fidalgo Football Club
+[060] SUB America Football Club: saiu Filipe de Oliveira (MC) | entrou Hector Barbosa (VOL) | subs=5/5
+[060] BUILD Fidalgo Football Club vs America Football Club prob=0.401 roll=0.097
+[060] JOGADA Fidalgo Football Club | Bauá Laranjeira x Eduardo Lagarto line=3 duel=-17.56 corte=-1.30
+[061] posse=America Football Club | placar America Football Club 1 x 1 Fidalgo Football Club
+[061] BUILD America Football Club vs Fidalgo Football Club prob=0.428 roll=0.599
+[062] posse=America Football Club | placar America Football Club 1 x 1 Fidalgo Football Club
+[062] BUILD America Football Club vs Fidalgo Football Club prob=0.428 roll=0.345
+[062] JOGADA America Football Club | Lázaro Almeida x Arley Quadros line=4 duel=39.97 corte=-1.13
+[062] FINAL America Football Club | Pedro Gago fam=3 duel=26.22 on_target=0.696 goal=0.221
+[062] FINAL Pedro Gago: GOL subtipo=CHUTE (roll=0.193)
+[063] posse=America Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[063] SUB Fidalgo Football Club: saiu Bryan Figueiredo (LE) | entrou Macacos Jesus (LD) | subs=5/5
+[063] BUILD America Football Club vs Fidalgo Football Club prob=0.427 roll=0.928
+[064] posse=Fidalgo Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[064] BUILD Fidalgo Football Club vs America Football Club prob=0.450 roll=0.745
+[065] posse=Fidalgo Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[065] BUILD Fidalgo Football Club vs America Football Club prob=0.450 roll=0.032
+[065] JOGADA Fidalgo Football Club | Macacos Jesus x Paolo Gonçalves line=3 duel=81.44 corte=-1.30
+[065] JOGADA Fidalgo Football Club | Bauá Laranjeira x Paolo Gonçalves line=4 duel=-15.02 corte=-1.30
+[065] JOGADA falhou: Paolo Gonçalves cortou
+[066] posse=Fidalgo Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[066] BUILD Fidalgo Football Club vs America Football Club prob=0.450 roll=0.591
+[067] posse=Fidalgo Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[067] BUILD Fidalgo Football Club vs America Football Club prob=0.450 roll=0.016
+[067] JOGADA Fidalgo Football Club | Janardo Páscoa x Thiago Freixó line=3 duel=-0.58 corte=-1.30
+[067] JOGADA Fidalgo Football Club | Bauá Laranjeira x Basílico Freitas line=5 duel=25.24 corte=-1.55
+[067] FINAL Fidalgo Football Club | Arley Quadros fam=5 duel=-37.80 on_target=0.660 goal=0.152
+[067] FINAL Arley Quadros: no alvo sem gol (roll=0.178)
+[068] posse=Fidalgo Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[068] BUILD Fidalgo Football Club vs America Football Club prob=0.450 roll=0.892
+[069] posse=Fidalgo Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[069] BUILD Fidalgo Football Club vs America Football Club prob=0.450 roll=0.472
+[070] posse=America Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[070] BUILD America Football Club vs Fidalgo Football Club prob=0.424 roll=0.770
+[071] posse=America Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[071] BUILD America Football Club vs Fidalgo Football Club prob=0.423 roll=0.454
+[072] posse=Fidalgo Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[072] BUILD Fidalgo Football Club vs America Football Club prob=0.450 roll=0.537
+[073] posse=America Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[073] BUILD America Football Club vs Fidalgo Football Club prob=0.423 roll=0.005
+[073] JOGADA America Football Club | Lázaro Almeida x Lukas Lombardi line=3 duel=34.67 corte=-1.30
+[073] FINAL America Football Club | Jessé Paiva fam=3 duel=10.92 on_target=0.685 goal=0.213
+[073] FINAL Jessé Paiva: no alvo sem gol (roll=0.656)
+[074] posse=America Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[074] BUILD America Football Club vs Fidalgo Football Club prob=0.423 roll=0.608
+[075] posse=Fidalgo Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[075] BUILD Fidalgo Football Club vs America Football Club prob=0.450 roll=0.613
+[076] posse=America Football Club | placar America Football Club 2 x 1 Fidalgo Football Club
+[076] BUILD America Football Club vs Fidalgo Football Club prob=0.411 roll=0.160
+[076] JOGADA America Football Club | Hector Barbosa x Avati Volpi line=2 duel=4.46 corte=-1.30
+[076] FINAL America Football Club | Lázaro Almeida fam=1 duel=22.67 on_target=0.739 goal=0.272
+[076] FINAL Lázaro Almeida: GOL subtipo=CHUTE (roll=0.038)
+[077] posse=America Football Club | placar America Football Club 3 x 1 Fidalgo Football Club
+[077] BUILD America Football Club vs Fidalgo Football Club prob=0.407 roll=0.340
+[077] JOGADA America Football Club | Antônio Figueroa x Lukas Lombardi line=3 duel=17.97 corte=-1.30
+[077] FINAL America Football Club | Eduardo Lagarto fam=1 duel=11.30 on_target=0.729 goal=0.260
+[077] FINAL Eduardo Lagarto: GOL subtipo=CHUTE (roll=0.095)
+[078] posse=America Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[078] BUILD America Football Club vs Fidalgo Football Club prob=0.400 roll=0.665
+[079] posse=America Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[079] BUILD America Football Club vs Fidalgo Football Club prob=0.400 roll=0.863
+[080] posse=Fidalgo Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[080] BUILD Fidalgo Football Club vs America Football Club prob=0.495 roll=0.353
+[080] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Hector Barbosa line=3 duel=-16.31 corte=-1.30
+[081] posse=America Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[081] BUILD America Football Club vs Fidalgo Football Club prob=0.400 roll=0.266
+[081] JOGADA America Football Club | Eduardo Lagarto x Ícaro Custódio line=4 duel=-52.48 corte=-1.30
+[081] JOGADA falhou: Ícaro Custódio cortou
+[082] posse=Fidalgo Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[082] BUILD Fidalgo Football Club vs America Football Club prob=0.495 roll=0.990
+[083] posse=America Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[083] BUILD America Football Club vs Fidalgo Football Club prob=0.400 roll=0.579
+[084] posse=America Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[084] BUILD America Football Club vs Fidalgo Football Club prob=0.400 roll=0.281
+[084] JOGADA America Football Club | Pedro Gago x Janardo Páscoa line=3 duel=10.79 corte=-1.30
+[084] FINAL America Football Club | Hector Barbosa fam=1 duel=16.87 on_target=0.704 goal=0.256
+[084] FINAL Hector Barbosa: fora/alvo perdido (roll=0.911)
+[085] posse=America Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[085] BUILD America Football Club vs Fidalgo Football Club prob=0.400 roll=0.570
+[086] posse=Fidalgo Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[086] BUILD Fidalgo Football Club vs America Football Club prob=0.573 roll=0.115
+[086] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Hector Barbosa line=2 duel=-21.32 corte=-1.30
+[087] posse=Fidalgo Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[087] BUILD Fidalgo Football Club vs America Football Club prob=0.573 roll=0.257
+[087] JOGADA Fidalgo Football Club | Janardo Páscoa x Jessé Paiva line=4 duel=-13.66 corte=-1.30
+[087] JOGADA falhou: Jessé Paiva cortou
+[088] posse=Fidalgo Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[088] BUILD Fidalgo Football Club vs America Football Club prob=0.573 roll=0.256
+[088] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Antônio Figueroa line=4 duel=-11.82 corte=-1.30
+[088] JOGADA falhou: Antônio Figueroa cortou
+[089] posse=Fidalgo Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[089] BUILD Fidalgo Football Club vs America Football Club prob=0.573 roll=0.886
+[090] posse=America Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[090] BUILD America Football Club vs Fidalgo Football Club prob=0.400 roll=0.786
+[091] posse=America Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[091] BUILD America Football Club vs Fidalgo Football Club prob=0.400 roll=0.682
+[092] posse=America Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[092] BUILD America Football Club vs Fidalgo Football Club prob=0.400 roll=0.150
+[092] JOGADA America Football Club | Luís Barcelar x Janardo Páscoa line=3 duel=29.51 corte=-1.30
+[092] FINAL America Football Club | Jessé Paiva fam=1 duel=-0.75 on_target=0.704 goal=0.249
+[092] FINAL Jessé Paiva: fora/alvo perdido (roll=0.999)
+[093] posse=America Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[093] BUILD America Football Club vs Fidalgo Football Club prob=0.400 roll=0.567
+[094] posse=Fidalgo Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[094] BUILD Fidalgo Football Club vs America Football Club prob=0.573 roll=0.243
+[094] JOGADA Fidalgo Football Club | Arley Quadros x Eduardo Lagarto line=3 duel=-5.38 corte=-1.30
+[094] JOGADA falhou: Eduardo Lagarto cortou
+[095] posse=Fidalgo Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[095] BUILD Fidalgo Football Club vs America Football Club prob=0.573 roll=0.415
+[095] JOGADA Fidalgo Football Club | Arley Quadros x Antônio Figueroa line=3 duel=24.79 corte=-1.30
+[095] JOGADA Fidalgo Football Club | Avati Volpi x Paolo Gonçalves line=4 duel=-12.90 corte=-1.30
+[095] JOGADA falhou: Paolo Gonçalves cortou
+[096] posse=America Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[096] BUILD America Football Club vs Fidalgo Football Club prob=0.400 roll=0.829
+[097] posse=Fidalgo Football Club | placar America Football Club 4 x 1 Fidalgo Football Club
+[097] BUILD Fidalgo Football Club vs America Football Club prob=0.573 roll=0.166
+[097] JOGADA Fidalgo Football Club | Janardo Páscoa x Lázaro Almeida line=3 duel=-3.29 corte=-1.30
+[097] JOGADA falhou: Lázaro Almeida cortou

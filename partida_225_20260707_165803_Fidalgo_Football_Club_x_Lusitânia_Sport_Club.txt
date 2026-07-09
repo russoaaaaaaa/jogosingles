@@ -1,0 +1,311 @@
+Partida #225
+Data: 1912-01-22
+Mandante: Fidalgo Football Club
+Visitante: Lusitânia Sport Club
+Placar: 0 x 1
+Seed: -
+Estádio: Estádio Distrital de Madureira
+Clima: Calor forte
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Fidalgo Football Club x Lusitânia Sport Club | estádio=Estádio Distrital de Madureira | clima=Calor forte | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[001] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.273 roll=0.421
+[002] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[002] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.303 roll=0.143
+[002] JOGADA Fidalgo Football Club | Apolônio Fasano x Sindulfo Mascarenhas line=4 duel=29.45 corte=-1.15
+[002] JOGADA Fidalgo Football Club | Bauá Laranjeira x Anaim Rodrigues line=4 duel=-10.10 corte=-1.15
+[003] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[003] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.303 roll=0.307
+[004] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[004] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.273 roll=0.322
+[004] FINAL Lusitânia Sport Club | Alcino Lobo fam=5 duel=-88.36 on_target=0.472 goal=0.093
+[004] FINAL Alcino Lobo: fora/alvo perdido (roll=0.862)
+[005] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[005] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.273 roll=0.894
+[006] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[006] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.273 roll=0.595
+[007] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[007] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.273 roll=0.924
+[008] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[008] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.303 roll=0.163
+[008] JOGADA Fidalgo Football Club | Lukas Lombardi x Eliseu Mateus line=3 duel=11.91 corte=-1.15
+[008] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Nilton Bettencourt line=4 duel=-10.82 corte=-1.15
+[008] JOGADA falhou: Nilton Bettencourt cortou
+[009] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[009] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.273 roll=0.815
+[010] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[010] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.273 roll=0.599
+[011] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[011] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.327 roll=0.175
+[011] JOGADA Fidalgo Football Club | Ícaro Custódio x Laércio Falcao line=4 duel=24.45 corte=-1.15
+[011] JOGADA Fidalgo Football Club | Agnelo Orrico x Nilton Bettencourt line=4 duel=36.31 corte=-1.15
+[011] JOGADA Fidalgo Football Club | Lukas Lombardi x Diogo Ribeiro line=5 duel=7.10 corte=-1.40
+[011] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=1 duel=2.47 on_target=0.589 goal=0.213
+[011] FINAL Pacheco Arcoverde: no alvo sem gol (roll=0.998)
+[012] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[012] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.327 roll=0.335
+[013] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[013] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.327 roll=0.679
+[014] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[014] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.296 roll=0.699
+[015] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[015] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.296 roll=0.581
+[016] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[016] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.296 roll=0.266
+[016] JOGADA Lusitânia Sport Club | Cícero Feijóo x Apolônio Fasano line=2 duel=4.63 corte=-1.30
+[016] FINAL Lusitânia Sport Club | Jabes Sousa fam=1 duel=11.76 on_target=0.601 goal=0.229
+[016] FINAL Jabes Sousa: fora/alvo perdido (roll=0.774)
+[017] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[017] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.327 roll=0.923
+[018] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[018] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.327 roll=0.462
+[019] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[019] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.296 roll=0.807
+[020] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[020] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.327 roll=0.058
+[020] JOGADA Fidalgo Football Club | Torquato Brasileiro x Cícero Feijóo line=2 duel=-22.82 corte=-1.15
+[020] JOGADA falhou: Cícero Feijóo cortou
+[021] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[021] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.318 roll=0.673
+[022] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[022] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.318 roll=0.661
+[023] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[023] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.318 roll=0.550
+[024] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[024] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.352 roll=0.457
+[025] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[025] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.318 roll=0.724
+[026] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[026] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.318 roll=0.147
+[026] JOGADA Lusitânia Sport Club | Alcino Lobo x Patrício Gouveia line=3 duel=10.91 corte=-1.30
+[026] FINAL Lusitânia Sport Club | Sindulfo Mascarenhas fam=5 duel=-76.69 on_target=0.539 goal=0.108
+[026] FINAL Sindulfo Mascarenhas: no alvo sem gol (roll=0.724)
+[027] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[027] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.352 roll=0.568
+[028] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[028] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.318 roll=0.059
+[028] JOGADA Lusitânia Sport Club | Sindulfo Mascarenhas x Agnelo Orrico line=3 duel=22.91 corte=-1.30
+[028] FINAL Lusitânia Sport Club | Laércio Falcao fam=5 duel=-17.17 on_target=0.538 goal=0.133
+[028] FINAL Laércio Falcao: no alvo sem gol (roll=0.912)
+[029] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[029] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.318 roll=0.974
+[030] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[030] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.352 roll=0.656
+[031] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[031] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.352 roll=0.973
+[032] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[032] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.320 roll=0.482
+[033] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[033] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.352 roll=0.549
+[034] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[034] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.320 roll=0.389
+[035] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[035] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.320 roll=0.791
+[036] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[036] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.320 roll=0.937
+[037] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[037] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.320 roll=0.031
+[037] JOGADA Lusitânia Sport Club | Anaim Rodrigues x Pacheco Arcoverde line=3 duel=30.56 corte=-1.30
+[037] FINAL Lusitânia Sport Club | Sindulfo Mascarenhas fam=5 duel=-70.63 on_target=0.539 goal=0.112
+[037] FINAL Sindulfo Mascarenhas: fora/alvo perdido (roll=0.827)
+[038] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[038] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.352 roll=0.340
+[038] JOGADA Fidalgo Football Club | Agnelo Orrico x Diogo Ribeiro line=3 duel=-3.15 corte=-1.14
+[039] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[039] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.320 roll=0.224
+[039] JOGADA Lusitânia Sport Club | Anaim Rodrigues x Jaguará Guerreiro line=4 duel=-8.39 corte=-1.30
+[039] JOGADA falhou: Jaguará Guerreiro cortou
+[040] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[040] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.352 roll=0.207
+[040] JOGADA Fidalgo Football Club | Bryan Figueiredo x Alcino Lobo line=3 duel=-11.91 corte=-1.14
+[040] JOGADA falhou: Alcino Lobo cortou
+[041] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[041] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.320 roll=0.093
+[041] JOGADA Lusitânia Sport Club | Nilton Bettencourt x Jaguará Guerreiro line=3 duel=43.14 corte=-1.30
+[041] FINAL Lusitânia Sport Club | Sindulfo Mascarenhas fam=5 duel=-8.17 on_target=0.543 goal=0.139
+[041] FINAL Sindulfo Mascarenhas: no alvo sem gol (roll=0.317)
+[042] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[042] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.352 roll=0.667
+[043] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[043] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.352 roll=0.253
+[043] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Cícero Feijóo line=3 duel=-15.46 corte=-1.14
+[043] JOGADA falhou: Cícero Feijóo cortou
+[044] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[044] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.352 roll=0.237
+[044] JOGADA Fidalgo Football Club | Torquato Brasileiro x Eliseu Mateus line=2 duel=-15.11 corte=-1.14
+[044] JOGADA falhou: Eliseu Mateus cortou
+[045] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[045] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.320 roll=0.356
+[046] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[046] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.327 roll=0.074
+[046] JOGADA Fidalgo Football Club | Patrício Gouveia x Cícero Feijóo line=3 duel=-19.69 corte=-1.14
+[046] JOGADA falhou: Cícero Feijóo cortou
+[047] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[047] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.298 roll=0.221
+[047] JOGADA Lusitânia Sport Club | Laércio Falcao x Jaguará Guerreiro line=4 duel=-23.76 corte=-1.30
+[047] JOGADA falhou: Jaguará Guerreiro cortou
+[048] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[048] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.298 roll=0.020
+[048] JOGADA Lusitânia Sport Club | Eliseu Mateus x Jaguará Guerreiro line=4 duel=-20.47 corte=-1.30
+[048] JOGADA falhou: Jaguará Guerreiro cortou
+[049] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[049] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.327 roll=0.934
+[050] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[050] SUB Fidalgo Football Club: saiu Apolônio Fasano (ME) | entrou Nilton Soares (ME) | subs=1/5
+[050] SUB Lusitânia Sport Club: saiu Sindulfo Mascarenhas (SA) | entrou Lucínio Menezes (PD) | subs=1/5
+[050] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.290 roll=0.218
+[050] JOGADA Lusitânia Sport Club | Jabes Sousa x Ícaro Custódio line=4 duel=-6.44 corte=-1.30
+[050] JOGADA falhou: Ícaro Custódio cortou
+[051] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[051] SUB Fidalgo Football Club: saiu Torquato Brasileiro (ZAG) | entrou Avati Volpi (ZAG) | subs=2/5
+[051] SUB Lusitânia Sport Club: saiu Nilton Bettencourt (CA) | entrou Jonathan Gama (CA) | subs=2/5
+[051] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.323 roll=0.440
+[052] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[052] SUB Fidalgo Football Club: saiu Agnelo Orrico (SA) | entrou Arley Quadros (PD) | subs=3/5
+[052] SUB Lusitânia Sport Club: saiu Fábio Pinto (LE) | entrou Leonídio Furtado (LE) | subs=3/5
+[052] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.323 roll=0.322
+[052] JOGADA Fidalgo Football Club | Nilton Soares x Cícero Feijóo line=3 duel=20.81 corte=-1.14
+[052] JOGADA Fidalgo Football Club | Avati Volpi x Alcino Lobo line=4 duel=7.48 corte=-1.14
+[052] JOGADA Fidalgo Football Club | Ícaro Custódio x Jabes Sousa line=4 duel=-6.48 corte=-1.14
+[053] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[053] SUB Fidalgo Football Club: saiu Bryan Figueiredo (LE) | entrou Macacos Jesus (LD) | subs=4/5
+[053] SUB Lusitânia Sport Club: saiu Laércio Falcao (MC) | entrou Jonathan Siqueira (MD) | subs=4/5
+[053] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.272 roll=0.274
+[054] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[054] SUB Fidalgo Football Club: saiu Patrício Gouveia (MC) | entrou Janardo Páscoa (VOL) | subs=5/5
+[054] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.320 roll=0.811
+[055] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[055] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.320 roll=0.019
+[055] JOGADA Fidalgo Football Club | Avati Volpi x Jabes Sousa line=2 duel=0.67 corte=-1.14
+[055] JOGADA Fidalgo Football Club | Avati Volpi x Anaim Rodrigues line=3 duel=4.16 corte=-1.14
+[055] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Jonathan Siqueira line=4 duel=-15.81 corte=-1.14
+[055] JOGADA falhou: Jonathan Siqueira cortou
+[056] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[056] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.293 roll=0.445
+[057] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[057] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.293 roll=0.498
+[058] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[058] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.344 roll=0.454
+[059] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[059] SUB Lusitânia Sport Club: saiu Diogo Ribeiro (ZAG) | entrou Evangelista Branco (ZAG) | subs=5/5
+[059] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.347 roll=0.617
+[060] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[060] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.297 roll=0.142
+[060] JOGADA Lusitânia Sport Club | Lucínio Menezes x Bauá Laranjeira line=3 duel=16.08 corte=-1.30
+[060] FINAL Lusitânia Sport Club | Jonathan Siqueira fam=5 duel=18.14 on_target=0.543 goal=0.151
+[060] FINAL Jonathan Siqueira: no alvo sem gol (roll=0.454)
+[061] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[061] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.347 roll=0.349
+[062] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[062] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.347 roll=0.087
+[062] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Jonathan Gama line=2 duel=39.76 corte=-1.13
+[062] JOGADA Fidalgo Football Club | Arley Quadros x Leonídio Furtado line=5 duel=71.03 corte=-1.88
+[062] JOGADA Fidalgo Football Club | Bauá Laranjeira x Jonathan Gama line=5 duel=4.62 corte=-1.38
+[062] FINAL Fidalgo Football Club | Nilton Soares fam=1 duel=-5.87 on_target=0.625 goal=0.219
+[062] FINAL Nilton Soares: no alvo sem gol (roll=0.332)
+[063] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[063] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.347 roll=0.341
+[063] JOGADA Fidalgo Football Club | Lukas Lombardi x Alcino Lobo line=2 duel=76.31 corte=-1.13
+[063] JOGADA Fidalgo Football Club | Macacos Jesus x Jonathan Siqueira line=4 duel=-0.60 corte=-1.13
+[063] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Alcino Lobo line=5 duel=-5.97 corte=-1.88
+[063] JOGADA falhou: Alcino Lobo cortou
+[064] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[064] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.297 roll=0.895
+[065] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[065] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.347 roll=0.435
+[066] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[066] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.297 roll=0.371
+[067] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[067] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.347 roll=0.232
+[067] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Jonathan Siqueira line=4 duel=-29.47 corte=-1.13
+[067] JOGADA falhou: Jonathan Siqueira cortou
+[068] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[068] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.300 roll=0.683
+[069] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[069] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.300 roll=0.989
+[070] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[070] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.300 roll=0.174
+[070] JOGADA Lusitânia Sport Club | Anaim Rodrigues x Janardo Páscoa line=2 duel=36.92 corte=-1.30
+[070] FINAL Lusitânia Sport Club | Cícero Feijóo fam=5 duel=-20.61 on_target=0.540 goal=0.134
+[070] FINAL Cícero Feijóo: fora/alvo perdido (roll=0.985)
+[071] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[071] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.300 roll=0.225
+[071] JOGADA Lusitânia Sport Club | Evangelista Branco x Arley Quadros line=4 duel=12.00 corte=-1.30
+[071] JOGADA Lusitânia Sport Club | Jabes Sousa x Avati Volpi line=5 duel=39.23 corte=-1.55
+[071] JOGADA Lusitânia Sport Club | Jonathan Gama x Lukas Lombardi line=5 duel=89.83 corte=-2.05
+[071] FINAL Lusitânia Sport Club | Lucínio Menezes fam=1 duel=19.23 on_target=0.628 goal=0.238
+[071] FINAL Lucínio Menezes: fora/alvo perdido (roll=0.799)
+[072] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[072] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.347 roll=0.453
+[073] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[073] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.300 roll=0.847
+[074] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 0 Lusitânia Sport Club
+[074] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.300 roll=0.660
+[074] FINAL Lusitânia Sport Club | Anaim Rodrigues fam=5 duel=-7.74 on_target=0.541 goal=0.140
+[074] FINAL Anaim Rodrigues: GOL subtipo=FALTA (roll=0.120)
+[075] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[075] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.297 roll=0.777
+[076] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[076] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.420 roll=0.420
+[076] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Cícero Feijóo line=3 duel=24.52 corte=-1.08
+[076] JOGADA Fidalgo Football Club | Avati Volpi x Anaim Rodrigues line=4 duel=-57.10 corte=-1.08
+[076] JOGADA falhou: Anaim Rodrigues cortou
+[077] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[077] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.288 roll=0.607
+[078] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[078] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.288 roll=0.187
+[078] JOGADA Lusitânia Sport Club | Evangelista Branco x Lukas Lombardi line=2 duel=37.08 corte=-1.30
+[078] FINAL Lusitânia Sport Club | Jonathan Siqueira fam=5 duel=7.42 on_target=0.521 goal=0.141
+[078] FINAL Jonathan Siqueira: fora/alvo perdido (roll=0.819)
+[079] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[079] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.288 roll=0.837
+[080] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[080] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.420 roll=0.472
+[081] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[081] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.288 roll=0.042
+[081] JOGADA Lusitânia Sport Club | Eliseu Mateus x Pacheco Arcoverde line=3 duel=22.36 corte=-1.30
+[081] FINAL Lusitânia Sport Club | Jabes Sousa fam=5 duel=-5.33 on_target=0.525 goal=0.137
+[081] FINAL Jabes Sousa: no alvo sem gol (roll=0.718)
+[082] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[082] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.288 roll=0.439
+[083] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[083] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.288 roll=0.842
+[084] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[084] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.420 roll=0.394
+[084] JOGADA Fidalgo Football Club | Janardo Páscoa x Anaim Rodrigues line=3 duel=-1.34 corte=-1.08
+[084] JOGADA falhou: Anaim Rodrigues cortou
+[085] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[085] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.416 roll=0.959
+[086] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[086] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.416 roll=0.853
+[087] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[087] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.416 roll=0.724
+[088] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[088] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.416 roll=0.566
+[089] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[089] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.416 roll=0.503
+[090] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[090] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.416 roll=0.852
+[091] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[091] BUILD Fidalgo Football Club vs Lusitânia Sport Club prob=0.416 roll=0.522
+[092] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[092] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.288 roll=0.249
+[092] JOGADA Lusitânia Sport Club | Alcino Lobo x Lukas Lombardi line=3 duel=11.37 corte=-1.30
+[092] FINAL Lusitânia Sport Club | Jonathan Siqueira fam=5 duel=-50.88 on_target=0.518 goal=0.114
+[092] FINAL Jonathan Siqueira: fora/alvo perdido (roll=0.970)
+[093] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[093] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.288 roll=0.997
+[094] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[094] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.288 roll=0.164
+[094] JOGADA Lusitânia Sport Club | Cícero Feijóo x Lukas Lombardi line=2 duel=15.88 corte=-1.30
+[094] FINAL Lusitânia Sport Club | Eliseu Mateus fam=1 duel=1.83 on_target=0.603 goal=0.216
+[094] FINAL Eliseu Mateus: no alvo sem gol (roll=0.714)
+[095] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[095] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.288 roll=0.305
+[096] posse=Lusitânia Sport Club | placar Fidalgo Football Club 0 x 1 Lusitânia Sport Club
+[096] BUILD Lusitânia Sport Club vs Fidalgo Football Club prob=0.288 roll=0.384

@@ -1,0 +1,318 @@
+Partida #209
+Data: 1912-01-20
+Mandante: Paladino Foot-Ball Club
+Visitante: America Football Club
+Placar: 1 x 0
+Seed: -
+Estádio: Estádio da Aldeia Campista
+Clima: Calor forte
+Placar tempo normal: 1 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Paladino Foot-Ball Club x America Football Club | estádio=Estádio da Aldeia Campista | clima=Calor forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[001] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.395 roll=0.387
+[001] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Filipe de Oliveira line=3 duel=9.24 corte=-1.70
+[001] JOGADA Paladino Foot-Ball Club | Yoshida, o Samurai Errante x Paolo Gonçalves line=4 duel=-37.99 corte=-1.70
+[001] JOGADA falhou: Paolo Gonçalves cortou
+[002] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[002] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.395 roll=0.209
+[002] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Paolo Gonçalves line=3 duel=-8.32 corte=-1.70
+[002] JOGADA falhou: Paolo Gonçalves cortou
+[003] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[003] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.395 roll=0.877
+[004] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[004] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.313 roll=0.367
+[005] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[005] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.313 roll=0.301
+[005] JOGADA America Football Club | Thiago Aguiar x Pinocchio Giacometti line=3 duel=34.20 corte=-1.11
+[005] FINAL America Football Club | Eduardo Lagarto fam=1 duel=20.85 on_target=0.611 goal=0.232
+[005] FINAL Eduardo Lagarto: no alvo sem gol (roll=0.607)
+[006] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[006] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.313 roll=0.914
+[007] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[007] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.395 roll=0.601
+[008] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[008] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.313 roll=0.435
+[009] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[009] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.395 roll=0.168
+[009] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Antônio Figueroa line=3 duel=-13.55 corte=-1.70
+[009] JOGADA falhou: Antônio Figueroa cortou
+[010] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[010] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.395 roll=0.719
+[011] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[011] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.339 roll=0.313
+[011] JOGADA America Football Club | Thiago Freixó x Ladislau Lancelot line=4 duel=-7.42 corte=-1.11
+[011] JOGADA falhou: Ladislau Lancelot cortou
+[012] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[012] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.428 roll=0.655
+[013] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[013] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.339 roll=0.640
+[014] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[014] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.428 roll=0.291
+[014] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Paolo Gonçalves line=3 duel=-4.11 corte=-1.70
+[014] JOGADA falhou: Paolo Gonçalves cortou
+[015] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[015] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.339 roll=0.316
+[015] JOGADA America Football Club | Antônio Figueroa x Escalibur da Califórnia line=3 duel=-16.57 corte=-1.11
+[016] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[016] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.339 roll=0.319
+[016] JOGADA America Football Club | Basílico Freitas x Richard Lionheart line=2 duel=-17.39 corte=-1.11
+[016] JOGADA falhou: Richard Lionheart cortou
+[017] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[017] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.339 roll=0.501
+[018] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[018] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.428 roll=0.134
+[018] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Paolo Gonçalves line=3 duel=45.83 corte=-1.70
+[018] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Paolo Gonçalves line=4 duel=-42.19 corte=-1.70
+[018] JOGADA falhou: Paolo Gonçalves cortou
+[019] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[019] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.428 roll=0.372
+[019] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Eduardo Lagarto line=3 duel=-8.75 corte=-1.70
+[019] JOGADA falhou: Eduardo Lagarto cortou
+[020] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[020] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.428 roll=0.293
+[020] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Geraldo França line=3 duel=-6.66 corte=-1.70
+[020] JOGADA falhou: Geraldo França cortou
+[021] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[021] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.579
+[022] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[022] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.460 roll=0.372
+[022] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Basílico Freitas line=2 duel=27.28 corte=-1.70
+[022] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Thiago Aguiar line=3 duel=26.40 corte=-1.70
+[022] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Thiago Freixó line=4 duel=-14.73 corte=-1.70
+[023] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[023] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.460 roll=0.572
+[024] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[024] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.557
+[025] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[025] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.739
+[026] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[026] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.460 roll=0.147
+[026] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Paolo Gonçalves line=4 duel=5.64 corte=-1.70
+[026] FINAL Paladino Foot-Ball Club | Perseu Kalitsas fam=5 duel=-76.62 on_target=0.594 goal=0.123
+[026] FINAL Perseu Kalitsas: fora/alvo perdido (roll=0.721)
+[027] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[027] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.460 roll=0.234
+[027] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Antônio Figueroa line=3 duel=-0.61 corte=-1.70
+[027] JOGADA Paladino Foot-Ball Club | Índio Catapora x Thiago Aguiar line=5 duel=31.21 corte=-1.95
+[027] JOGADA Paladino Foot-Ball Club | Yoshida, o Samurai Errante x Thiago Freixó line=5 duel=29.72 corte=-1.95
+[027] FINAL Paladino Foot-Ball Club | Lisandro Paladino fam=1 duel=-13.14 on_target=0.694 goal=0.245
+[027] FINAL Lisandro Paladino: fora/alvo perdido (roll=0.785)
+[028] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[028] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.709
+[029] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[029] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.524
+[030] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[030] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.460 roll=0.608
+[031] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[031] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.460 roll=0.169
+[031] JOGADA Paladino Foot-Ball Club | Perseu Kalitsas x Davi Ambrósio Rios line=3 duel=61.42 corte=-1.70
+[031] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Davi Ambrósio Rios line=4 duel=-2.63 corte=-1.70
+[031] JOGADA falhou: Davi Ambrósio Rios cortou
+[032] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[032] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.722
+[033] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[033] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.720
+[034] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[034] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.732
+[035] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[035] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.199
+[035] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Thiago Aguiar line=3 duel=69.62 corte=-1.70
+[035] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Thiago Freixó line=4 duel=13.53 corte=-1.70
+[035] FINAL Paladino Foot-Ball Club | Lisandro Paladino fam=5 duel=-12.33 on_target=0.605 goal=0.155
+[035] FINAL Lisandro Paladino: no alvo sem gol (roll=0.779)
+[036] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[036] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.149
+[036] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Thiago Freixó line=2 duel=-19.18 corte=-1.70
+[036] JOGADA falhou: Thiago Freixó cortou
+[037] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[037] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.833
+[038] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[038] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.663
+[039] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[039] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.873
+[040] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[040] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.012
+[040] JOGADA Paladino Foot-Ball Club | Perseu Kalitsas x Thiago Aguiar line=2 duel=31.36 corte=-1.70
+[040] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Davi Ambrósio Rios line=3 duel=0.05 corte=-1.70
+[040] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Paolo Gonçalves line=4 duel=-77.33 corte=-1.70
+[040] JOGADA falhou: Paolo Gonçalves cortou
+[041] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[041] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.888
+[042] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[042] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.383
+[043] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[043] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.622
+[044] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[044] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.724
+[045] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[045] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.289
+[045] JOGADA Paladino Foot-Ball Club | Índio Catapora x Geraldo França line=3 duel=2.20 corte=-1.70
+[045] FINAL Paladino Foot-Ball Club | Clérigo Inácio fam=5 duel=-56.56 on_target=0.599 goal=0.133
+[045] FINAL Clérigo Inácio: no alvo sem gol (roll=0.918)
+[046] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[046] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.430 roll=0.167
+[046] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Paolo Gonçalves line=3 duel=12.20 corte=-1.70
+[046] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Davi Ambrósio Rios line=4 duel=-55.48 corte=-1.70
+[046] JOGADA falhou: Davi Ambrósio Rios cortou
+[047] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[047] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.430 roll=0.575
+[048] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[048] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.339 roll=0.515
+[049] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[049] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.339 roll=0.409
+[050] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[050] SUB Paladino Foot-Ball Club: saiu Pinocchio Giacometti (MC) | entrou Sapateiro Souza (MC) | subs=1/5
+[050] SUB America Football Club: saiu Thiago Aguiar (CA) | entrou Pedro Gago (CA) | subs=1/5
+[050] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.389 roll=0.632
+[051] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[051] SUB Paladino Foot-Ball Club: saiu Lisandro Paladino (CA) | entrou Estácio Espingarda (CA) | subs=2/5
+[051] SUB America Football Club: saiu Valdomiro Machado (SA) | entrou Lázaro Almeida (MA) | subs=2/5
+[051] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.440 roll=0.999
+[052] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[052] SUB Paladino Foot-Ball Club: saiu Perseu Kalitsas (PD) | entrou Guarnição Soldado (PD) | subs=3/5
+[052] SUB America Football Club: saiu Davi Ambrósio Rios (LE) | entrou Luís Barcelar (LE) | subs=3/5
+[052] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.360 roll=0.598
+[053] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[053] SUB America Football Club: saiu Geraldo França (MA) | entrou Jessé Paiva (MC) | subs=4/5
+[053] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.388 roll=0.679
+[054] posse=America Football Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[054] SUB Paladino Foot-Ball Club: saiu Yoshida, o Samurai Errante (ZAG) | entrou Godofredo Nunes (ZAG) | subs=4/5
+[054] SUB America Football Club: saiu Basílico Freitas (MC) | entrou Hector Barbosa (VOL) | subs=5/5
+[054] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.351 roll=0.796
+[055] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[055] SUB Paladino Foot-Ball Club: saiu Índio Catapora (LD) | entrou Martin Luther Williams (LD) | subs=5/5
+[055] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.441 roll=0.970
+[056] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 America Football Club
+[056] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.474 roll=0.392
+[056] JOGADA Paladino Foot-Ball Club | Guarnição Soldado x Jessé Paiva line=3 duel=7.94 corte=-1.70
+[056] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Pedro Gago line=4 duel=-38.49 corte=-1.70
+[056] FINAL Paladino Foot-Ball Club | Escalibur da Califórnia fam=5 duel=-27.37 on_target=0.590 goal=0.143
+[056] FINAL Escalibur da Califórnia: GOL subtipo=FALTA (roll=0.016)
+[057] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[057] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.405 roll=0.355
+[057] JOGADA America Football Club | Jessé Paiva x Ladislau Lancelot line=3 duel=6.67 corte=-1.11
+[057] FINAL America Football Club | Filipe de Oliveira fam=1 duel=-1.26 on_target=0.685 goal=0.241
+[057] FINAL Filipe de Oliveira: fora/alvo perdido (roll=0.986)
+[058] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[058] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.474 roll=0.095
+[058] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Antônio Figueroa line=4 duel=-35.34 corte=-1.70
+[058] JOGADA falhou: Antônio Figueroa cortou
+[059] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[059] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.474 roll=0.598
+[060] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[060] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.478 roll=0.694
+[061] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[061] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.478 roll=0.013
+[061] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Pedro Gago line=3 duel=-20.88 corte=-1.70
+[061] JOGADA falhou: Pedro Gago cortou
+[062] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[062] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.478 roll=0.145
+[062] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Hector Barbosa line=2 duel=28.98 corte=-1.70
+[062] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Lázaro Almeida line=4 duel=2.32 corte=-1.70
+[062] FINAL Paladino Foot-Ball Club | Guarnição Soldado fam=5 duel=15.61 on_target=0.595 goal=0.164
+[062] FINAL Guarnição Soldado: no alvo sem gol (roll=0.591)
+[063] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[063] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.405 roll=0.347
+[063] JOGADA America Football Club | Filipe de Oliveira x Estácio Espingarda line=4 duel=12.21 corte=-1.10
+[063] JOGADA America Football Club | Eduardo Lagarto x Martin Luther Williams line=5 duel=52.20 corte=-1.85
+[063] JOGADA America Football Club | Jessé Paiva x Clérigo Inácio line=5 duel=96.05 corte=-1.35
+[063] FINAL America Football Club | Jessé Paiva fam=1 duel=18.47 on_target=0.683 goal=0.249
+[063] FINAL Jessé Paiva: no alvo sem gol (roll=0.332)
+[064] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[064] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.478 roll=0.568
+[065] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[065] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.405 roll=0.813
+[066] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[066] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.405 roll=0.592
+[067] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[067] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.405 roll=0.399
+[067] JOGADA America Football Club | Antônio Figueroa x Sapateiro Souza line=4 duel=-35.52 corte=-1.10
+[067] JOGADA falhou: Sapateiro Souza cortou
+[068] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[068] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.405 roll=0.836
+[069] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[069] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.481 roll=0.156
+[069] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Hector Barbosa line=3 duel=25.61 corte=-1.70
+[069] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Jessé Paiva line=4 duel=-13.42 corte=-1.70
+[069] FINAL Paladino Foot-Ball Club | Ladislau Lancelot fam=5 duel=-18.79 on_target=0.593 goal=0.149
+[069] FINAL Ladislau Lancelot: fora/alvo perdido (roll=0.787)
+[070] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[070] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.476 roll=0.453
+[070] JOGADA Paladino Foot-Ball Club | Martin Luther Williams x Luís Barcelar line=4 duel=10.04 corte=-1.70
+[070] FINAL Paladino Foot-Ball Club | Estácio Espingarda fam=5 duel=13.31 on_target=0.584 goal=0.164
+[070] FINAL Estácio Espingarda: fora/alvo perdido (roll=0.591)
+[071] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[071] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.405 roll=0.782
+[072] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[072] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.405 roll=0.187
+[072] JOGADA America Football Club | Paolo Gonçalves x Richard Lionheart line=3 duel=-23.99 corte=-1.06
+[072] JOGADA falhou: Richard Lionheart cortou
+[073] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[073] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.405 roll=0.742
+[074] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[074] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.405 roll=0.942
+[075] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[075] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.405 roll=0.274
+[075] JOGADA America Football Club | Filipe de Oliveira x Martin Luther Williams line=4 duel=-34.28 corte=-1.06
+[075] JOGADA falhou: Martin Luther Williams cortou
+[076] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[076] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.765
+[077] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[077] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.443
+[077] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Paolo Gonçalves line=2 duel=1.64 corte=-1.70
+[077] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Antônio Figueroa line=3 duel=3.25 corte=-1.70
+[077] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Paolo Gonçalves line=5 duel=42.72 corte=-1.95
+[077] FINAL Paladino Foot-Ball Club | Estácio Espingarda fam=1 duel=1.48 on_target=0.656 goal=0.236
+[077] FINAL Estácio Espingarda: no alvo sem gol (roll=0.929)
+[078] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[078] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.989
+[079] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[079] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.235
+[079] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Paolo Gonçalves line=2 duel=27.75 corte=-1.70
+[079] JOGADA Paladino Foot-Ball Club | Godofredo Nunes x Filipe de Oliveira line=5 duel=19.45 corte=-1.95
+[079] JOGADA Paladino Foot-Ball Club | Godofredo Nunes x Hector Barbosa line=5 duel=-18.28 corte=-1.95
+[079] JOGADA falhou: Hector Barbosa cortou
+[080] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[080] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.570
+[081] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[081] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.935
+[082] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[082] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.668
+[083] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[083] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.437 roll=0.559
+[084] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[084] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.437 roll=0.746
+[085] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[085] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.460 roll=0.599
+[086] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[086] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.460 roll=0.855
+[087] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[087] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.112
+[087] JOGADA Paladino Foot-Ball Club | Godofredo Nunes x Jessé Paiva line=3 duel=12.80 corte=-1.70
+[087] FINAL Paladino Foot-Ball Club | Clérigo Inácio fam=5 duel=-2.96 on_target=0.579 goal=0.152
+[087] FINAL Clérigo Inácio: no alvo sem gol (roll=0.926)
+[088] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[088] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.801
+[089] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[089] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.114
+[089] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Hector Barbosa line=4 duel=-33.36 corte=-1.70
+[089] JOGADA falhou: Hector Barbosa cortou
+[090] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[090] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.903
+[091] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[091] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.460 roll=0.729
+[092] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[092] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.460 roll=0.507
+[093] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[093] BUILD Paladino Foot-Ball Club vs America Football Club prob=0.462 roll=0.682
+[094] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[094] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.460 roll=0.389
+[094] JOGADA America Football Club | Antônio Figueroa x Cássio Jiló line=4 duel=-44.69 corte=-1.06
+[094] JOGADA falhou: Cássio Jiló cortou
+[095] posse=America Football Club | placar Paladino Foot-Ball Club 1 x 0 America Football Club
+[095] BUILD America Football Club vs Paladino Foot-Ball Club prob=0.460 roll=0.934

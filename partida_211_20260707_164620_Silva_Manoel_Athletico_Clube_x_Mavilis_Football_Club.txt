@@ -1,0 +1,347 @@
+Partida #211
+Data: 1912-01-20
+Mandante: Silva Manoel Athletico Clube
+Visitante: Mavilis Football Club
+Placar: 0 x 3
+Seed: -
+Estádio: Arena André Cavalcanti
+Clima: Frio forte
+Placar tempo normal: 0 x 3
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Silva Manoel Athletico Clube x Mavilis Football Club | estádio=Arena André Cavalcanti | clima=Frio forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 0 Mavilis Football Club
+[001] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.270 roll=0.149
+[001] JOGADA Mavilis Football Club | Adonai Barroso x Pacal Esteves line=2 duel=30.11 corte=-1.12
+[001] JOGADA Mavilis Football Club | Jácome Moretti x Amado Mina line=3 duel=3.95 corte=-1.12
+[001] FINAL Mavilis Football Club | Ruperto Gallo fam=1 duel=9.81 on_target=0.597 goal=0.223
+[001] FINAL Ruperto Gallo: no alvo sem gol (roll=0.502)
+[002] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Mavilis Football Club
+[002] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.305 roll=0.464
+[003] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Mavilis Football Club
+[003] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.305 roll=0.109
+[003] JOGADA Silva Manoel Athletico Clube | Amado Mina x Ruperto Gallo line=3 duel=52.18 corte=-1.70
+[003] JOGADA Silva Manoel Athletico Clube | Raphael Lima x Ruperto Gallo line=4 duel=9.17 corte=-1.70
+[003] JOGADA Silva Manoel Athletico Clube | Amado Mina x Ruperto Gallo line=4 duel=25.10 corte=-1.70
+[003] FINAL Silva Manoel Athletico Clube | Raphael Lima fam=5 duel=-8.31 on_target=0.512 goal=0.136
+[003] FINAL Raphael Lima: no alvo sem gol (roll=0.689)
+[004] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 0 Mavilis Football Club
+[004] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.270 roll=0.378
+[004] FINAL Mavilis Football Club | Ruperto Gallo fam=5 duel=6.59 on_target=0.510 goal=0.131
+[004] FINAL Ruperto Gallo: GOL subtipo=FALTA (roll=0.118)
+[005] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[005] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.338 roll=0.817
+[006] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[006] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.270 roll=0.426
+[007] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[007] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.270 roll=0.298
+[008] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[008] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.338 roll=0.292
+[008] JOGADA Silva Manoel Athletico Clube | Maragogi Perdigão x Adonai Barroso line=3 duel=-18.15 corte=-1.70
+[008] JOGADA falhou: Adonai Barroso cortou
+[009] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[009] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.270 roll=0.832
+[010] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[010] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.338 roll=0.194
+[010] JOGADA Silva Manoel Athletico Clube | Raphael Lima x Amam Calmon line=2 duel=-18.36 corte=-1.70
+[010] JOGADA falhou: Amam Calmon cortou
+[011] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[011] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.292 roll=0.481
+[012] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[012] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.292 roll=0.790
+[013] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[013] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.292 roll=0.130
+[013] JOGADA Mavilis Football Club | Tapuruquara Páscoa x Uaupés Cunha line=4 duel=8.98 corte=-1.30
+[013] FINAL Mavilis Football Club | Isaí Zago fam=3 duel=-3.10 on_target=0.580 goal=0.176
+[013] FINAL Isaí Zago: no alvo sem gol (roll=0.186)
+[014] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[014] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.292 roll=0.221
+[014] JOGADA Mavilis Football Club | Deusdedito Varella x Iguape Saviano line=2 duel=16.06 corte=-1.30
+[014] FINAL Mavilis Football Club | Ruperto Gallo fam=1 duel=5.76 on_target=0.645 goal=0.236
+[014] FINAL Ruperto Gallo: no alvo sem gol (roll=0.712)
+[015] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[015] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.366 roll=0.294
+[015] JOGADA Silva Manoel Athletico Clube | Estevão Nunes x Ernane Naves line=3 duel=28.13 corte=-1.70
+[015] JOGADA Silva Manoel Athletico Clube | Maragogi Perdigão x Isaí Zago line=4 duel=24.33 corte=-1.70
+[015] JOGADA Silva Manoel Athletico Clube | Estevão Nunes x Jácome Moretti line=5 duel=31.39 corte=-2.45
+[015] FINAL Silva Manoel Athletico Clube | Estevão Nunes fam=1 duel=0.35 on_target=0.642 goal=0.238
+[015] FINAL Estevão Nunes: no alvo sem gol (roll=0.628)
+[016] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[016] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.366 roll=0.836
+[017] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[017] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.366 roll=0.407
+[018] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[018] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.366 roll=0.727
+[018] FINAL Silva Manoel Athletico Clube | Inocêncio Natividade fam=5 duel=-98.92 on_target=0.547 goal=0.107
+[018] FINAL Inocêncio Natividade: no alvo sem gol (roll=0.307)
+[019] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[019] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.366 roll=0.124
+[019] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Adonai Barroso line=3 duel=-11.18 corte=-1.70
+[019] JOGADA falhou: Adonai Barroso cortou
+[020] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[020] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.366 roll=0.427
+[020] FINAL Silva Manoel Athletico Clube | Amado Mina fam=5 duel=-32.55 on_target=0.550 goal=0.136
+[020] FINAL Amado Mina: no alvo sem gol (roll=0.392)
+[021] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[021] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.314 roll=0.662
+[022] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[022] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.314 roll=0.029
+[022] JOGADA Mavilis Football Club | Adonai Barroso x Maragogi Perdigão line=4 duel=19.25 corte=-1.30
+[022] JOGADA Mavilis Football Club | Ruperto Gallo x Estevão Nunes line=4 duel=23.89 corte=-1.30
+[022] FINAL Mavilis Football Club | Ernane Naves fam=1 duel=19.55 on_target=0.669 goal=0.244
+[022] FINAL Ernane Naves: no alvo sem gol (roll=0.716)
+[023] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[023] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.393 roll=0.737
+[024] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[024] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.393 roll=0.267
+[024] JOGADA Silva Manoel Athletico Clube | Raphael Lima x Amam Calmon line=4 duel=-18.88 corte=-1.70
+[025] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[025] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.314 roll=0.183
+[025] JOGADA Mavilis Football Club | Jácome Moretti x Iguape Saviano line=2 duel=37.96 corte=-1.30
+[025] JOGADA Mavilis Football Club | Jácome Moretti x Pacal Esteves line=3 duel=102.90 corte=-1.30
+[025] JOGADA Mavilis Football Club | Murilo Lopes x Maragogi Perdigão line=4 duel=18.16 corte=-1.30
+[026] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[026] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.393 roll=0.128
+[026] JOGADA Silva Manoel Athletico Clube | Maragogi Perdigão x Tapuruquara Páscoa line=3 duel=-1.07 corte=-1.70
+[026] JOGADA Silva Manoel Athletico Clube | Iguape Saviano x Amam Calmon line=4 duel=-2.60 corte=-1.70
+[027] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 1 Mavilis Football Club
+[027] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.314 roll=0.208
+[027] JOGADA Mavilis Football Club | Jácome Moretti x Iguape Saviano line=2 duel=38.50 corte=-1.30
+[027] JOGADA Mavilis Football Club | Iguaçu Cristo x Raphael Lima line=3 duel=27.56 corte=-1.30
+[027] JOGADA Mavilis Football Club | Ernane Naves x Estevão Nunes line=5 duel=38.26 corte=-1.55
+[027] FINAL Mavilis Football Club | Isaí Zago fam=1 duel=12.94 on_target=0.674 goal=0.244
+[027] FINAL Isaí Zago: GOL subtipo=CHUTE (roll=0.045)
+[028] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[028] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.307 roll=0.646
+[029] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[029] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.397 roll=0.705
+[030] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[030] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.397 roll=0.445
+[031] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[031] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.307 roll=0.556
+[032] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[032] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.397 roll=0.909
+[033] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[033] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.397 roll=0.760
+[034] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[034] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.307 roll=0.509
+[034] FINAL Mavilis Football Club | Tapuruquara Páscoa fam=5 duel=-50.92 on_target=0.546 goal=0.107
+[034] FINAL Tapuruquara Páscoa: no alvo sem gol (roll=0.789)
+[035] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[035] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.397 roll=0.225
+[035] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Iguaçu Cristo line=2 duel=58.15 corte=-1.70
+[035] JOGADA Silva Manoel Athletico Clube | Estevão Nunes x Amam Calmon line=4 duel=-1.77 corte=-1.70
+[035] FINAL Silva Manoel Athletico Clube | Estevão Nunes fam=5 duel=-0.11 on_target=0.589 goal=0.158
+[035] FINAL Estevão Nunes: fora/alvo perdido (roll=0.607)
+[036] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[036] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.307 roll=0.112
+[036] JOGADA Mavilis Football Club | Ernane Naves x Igarapava Baldin line=3 duel=77.66 corte=-1.30
+[036] JOGADA Mavilis Football Club | Ernane Naves x Igarapava Baldin line=4 duel=3.01 corte=-1.30
+[036] JOGADA Mavilis Football Club | Jácome Moretti x Maragogi Perdigão line=4 duel=23.02 corte=-1.30
+[036] FINAL Mavilis Football Club | Ruperto Gallo fam=1 duel=8.56 on_target=0.651 goal=0.227
+[036] FINAL Ruperto Gallo: no alvo sem gol (roll=0.259)
+[037] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[037] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.397 roll=0.338
+[037] JOGADA Silva Manoel Athletico Clube | Pacal Esteves x Ernane Naves line=3 duel=-1.97 corte=-1.70
+[037] JOGADA falhou: Ernane Naves cortou
+[038] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[038] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.397 roll=0.952
+[039] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[039] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.307 roll=0.846
+[040] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[040] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.307 roll=0.094
+[040] JOGADA Mavilis Football Club | Ruperto Gallo x Raphael Lima line=3 duel=27.04 corte=-1.30
+[040] FINAL Mavilis Football Club | Ruperto Gallo fam=1 duel=8.89 on_target=0.652 goal=0.227
+[040] FINAL Ruperto Gallo: no alvo sem gol (roll=0.249)
+[041] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[041] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.307 roll=0.422
+[042] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[042] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.307 roll=0.050
+[042] JOGADA Mavilis Football Club | Tapuruquara Páscoa x Iguape Saviano line=4 duel=14.58 corte=-1.30
+[042] FINAL Mavilis Football Club | Ernane Naves fam=3 duel=-9.76 on_target=0.581 goal=0.164
+[042] FINAL Ernane Naves: no alvo sem gol (roll=0.275)
+[043] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[043] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.397 roll=0.646
+[044] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 2 Mavilis Football Club
+[044] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.307 roll=0.176
+[044] JOGADA Mavilis Football Club | Amam Calmon x Estevão Nunes line=2 duel=73.43 corte=-1.30
+[044] JOGADA Mavilis Football Club | Murilo Lopes x Uaupés Cunha line=5 duel=19.00 corte=-1.55
+[044] JOGADA Mavilis Football Club | Amam Calmon x Maragogi Perdigão line=5 duel=14.87 corte=-1.55
+[044] FINAL Mavilis Football Club | Ruperto Gallo fam=1 duel=11.83 on_target=0.652 goal=0.228
+[044] FINAL Ruperto Gallo: GOL subtipo=CHUTE (roll=0.035)
+[045] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[045] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.300 roll=0.151
+[045] JOGADA Mavilis Football Club | Murilo Lopes x Maragogi Perdigão line=4 duel=8.62 corte=-1.30
+[045] FINAL Mavilis Football Club | Ruperto Gallo fam=1 duel=9.26 on_target=0.624 goal=0.213
+[045] FINAL Ruperto Gallo: no alvo sem gol (roll=0.954)
+[046] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[046] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.279 roll=0.815
+[047] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[047] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.279 roll=0.628
+[048] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[048] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.373 roll=0.181
+[048] JOGADA Silva Manoel Athletico Clube | Igarapava Baldin x Ernane Naves line=4 duel=-10.74 corte=-1.70
+[048] JOGADA falhou: Ernane Naves cortou
+[049] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[049] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.373 roll=0.280
+[049] JOGADA Silva Manoel Athletico Clube | Igarapava Baldin x Adonai Barroso line=4 duel=-17.26 corte=-1.70
+[050] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[050] SUB Silva Manoel Athletico Clube: saiu Maragogi Perdigão (MC) | entrou Tarek Rios (VOL) | subs=1/5
+[050] SUB Mavilis Football Club: saiu Deusdedito Varella (MC) | entrou Boaçava Cerqueira (VOL) | subs=1/5
+[050] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.282 roll=0.616
+[051] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[051] SUB Silva Manoel Athletico Clube: saiu Raphael Lima (CA) | entrou Iauaretê Capitão (PE) | subs=2/5
+[051] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.375 roll=0.733
+[052] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[052] SUB Silva Manoel Athletico Clube: saiu Pacal Esteves (MD) | entrou Anatólio Filippi (PD) | subs=3/5
+[052] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.282 roll=0.706
+[053] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[053] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.282 roll=0.009
+[053] JOGADA Mavilis Football Club | Iguaçu Cristo x Iauaretê Capitão line=3 duel=8.37 corte=-1.30
+[053] JOGADA Mavilis Football Club | Ernane Naves x Iguape Saviano line=5 duel=36.21 corte=-1.55
+[053] JOGADA Mavilis Football Club | Boaçava Cerqueira x Igarapava Baldin line=5 duel=104.21 corte=-1.55
+[053] FINAL Mavilis Football Club | Ruperto Gallo fam=1 duel=6.42 on_target=0.593 goal=0.205
+[053] FINAL Ruperto Gallo: fora/alvo perdido (roll=0.788)
+[054] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[054] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.373 roll=0.524
+[055] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[055] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.282 roll=0.758
+[056] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[056] SUB Silva Manoel Athletico Clube: saiu Inocêncio Natividade (LD) | entrou Aron Capiberibe (LD) | subs=4/5
+[056] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.304 roll=0.006
+[056] JOGADA Mavilis Football Club | Jácome Moretti x Amado Mina line=4 duel=-7.92 corte=-1.30
+[056] JOGADA falhou: Amado Mina cortou
+[057] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[057] SUB Silva Manoel Athletico Clube: saiu Uaupés Cunha (MC) | entrou Porfírio Gadelha (VOL) | subs=5/5
+[057] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.400 roll=0.686
+[058] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[058] SUB Mavilis Football Club: saiu Isaí Zago (SA) | entrou Valentino Jacinto (PD) | subs=2/5
+[058] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.307 roll=0.641
+[059] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[059] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.400 roll=0.399
+[059] JOGADA Silva Manoel Athletico Clube | Anatólio Filippi x Tapuruquara Páscoa line=2 duel=87.56 corte=-1.70
+[059] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Iguaçu Cristo line=4 duel=-13.82 corte=-1.70
+[060] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[060] SUB Mavilis Football Club: saiu Amam Calmon (ZAG) | entrou Jordão Resendes (ZAG) | subs=3/5
+[060] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.403 roll=0.094
+[060] JOGADA Silva Manoel Athletico Clube | Iauaretê Capitão x Valentino Jacinto line=3 duel=27.98 corte=-1.70
+[060] JOGADA Silva Manoel Athletico Clube | Iguape Saviano x Jácome Moretti line=4 duel=5.26 corte=-1.70
+[060] JOGADA Silva Manoel Athletico Clube | Aron Capiberibe x Jácome Moretti line=5 duel=96.93 corte=-1.95
+[060] FINAL Silva Manoel Athletico Clube | Anatólio Filippi fam=5 duel=17.63 on_target=0.594 goal=0.170
+[060] FINAL Anatólio Filippi: no alvo sem gol (roll=0.251)
+[061] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[061] SUB Mavilis Football Club: saiu Murilo Lopes (LD) | entrou Quirilo França (LD) | subs=4/5
+[061] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.307 roll=0.377
+[062] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[062] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.403 roll=0.287
+[062] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Ruperto Gallo line=4 duel=12.79 corte=-1.70
+[062] JOGADA Silva Manoel Athletico Clube | Anatólio Filippi x Boaçava Cerqueira line=5 duel=-17.04 corte=-2.45
+[062] JOGADA falhou: Boaçava Cerqueira cortou
+[063] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[063] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.403 roll=0.074
+[063] JOGADA Silva Manoel Athletico Clube | Tarek Rios x Ruperto Gallo line=4 duel=-37.16 corte=-1.70
+[063] JOGADA falhou: Ruperto Gallo cortou
+[064] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[064] SUB Mavilis Football Club: saiu Ruperto Gallo (CA) | entrou Adílio Câmara (PE) | subs=5/5
+[064] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.403 roll=0.101
+[064] JOGADA Silva Manoel Athletico Clube | Estevão Nunes x Jordão Resendes line=4 duel=-29.50 corte=-1.70
+[065] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[065] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.308 roll=0.452
+[066] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[066] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.308 roll=0.397
+[067] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[067] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.308 roll=0.297
+[067] JOGADA Mavilis Football Club | Jácome Moretti x Iauaretê Capitão line=3 duel=17.02 corte=-1.30
+[067] JOGADA Mavilis Football Club | Adonai Barroso x Iauaretê Capitão line=4 duel=19.63 corte=-1.30
+[067] JOGADA Mavilis Football Club | Adonai Barroso x Aron Capiberibe line=4 duel=-29.42 corte=-1.30
+[067] JOGADA falhou: Aron Capiberibe cortou
+[068] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[068] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.403 roll=0.769
+[069] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[069] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.403 roll=0.697
+[070] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[070] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.308 roll=0.293
+[070] JOGADA Mavilis Football Club | Jácome Moretti x Aron Capiberibe line=2 duel=-20.83 corte=-1.30
+[070] JOGADA falhou: Aron Capiberibe cortou
+[071] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[071] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.308 roll=0.690
+[072] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[072] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.308 roll=0.074
+[072] JOGADA Mavilis Football Club | Ernane Naves x Anatólio Filippi line=4 duel=17.41 corte=-1.30
+[072] JOGADA Mavilis Football Club | Jácome Moretti x Iguape Saviano line=4 duel=18.69 corte=-1.30
+[072] FINAL Mavilis Football Club | Valentino Jacinto fam=1 duel=28.82 on_target=0.627 goal=0.221
+[072] FINAL Valentino Jacinto: fora/alvo perdido (roll=0.748)
+[073] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[073] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.308 roll=0.631
+[074] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[074] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.403 roll=0.418
+[075] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[075] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.308 roll=0.381
+[076] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[076] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.435 roll=0.872
+[077] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[077] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.299 roll=0.873
+[078] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[078] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.435 roll=0.684
+[078] FINAL Silva Manoel Athletico Clube | Porfírio Gadelha fam=5 duel=-8.90 on_target=0.635 goal=0.166
+[078] FINAL Porfírio Gadelha: fora/alvo perdido (roll=0.920)
+[079] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[079] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.299 roll=0.300
+[080] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[080] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.299 roll=0.830
+[081] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[081] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.435 roll=0.644
+[082] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[082] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.299 roll=0.859
+[083] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[083] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.435 roll=0.809
+[084] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[084] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.299 roll=0.185
+[084] JOGADA Mavilis Football Club | Ernane Naves x Estevão Nunes line=4 duel=-49.33 corte=-1.30
+[084] JOGADA falhou: Estevão Nunes cortou
+[085] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[085] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.299 roll=0.927
+[086] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[086] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.458 roll=0.038
+[086] JOGADA Silva Manoel Athletico Clube | Estevão Nunes x Boaçava Cerqueira line=3 duel=-22.69 corte=-1.70
+[086] JOGADA falhou: Boaçava Cerqueira cortou
+[087] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[087] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.299 roll=0.229
+[087] JOGADA Mavilis Football Club | Quirilo França x Amado Mina line=4 duel=5.28 corte=-1.30
+[087] FINAL Mavilis Football Club | Ernane Naves fam=1 duel=0.41 on_target=0.603 goal=0.202
+[087] FINAL Ernane Naves: fora/alvo perdido (roll=0.909)
+[088] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[088] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.299 roll=0.833
+[089] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[089] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.458 roll=0.933
+[090] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[090] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.458 roll=0.514
+[091] posse=Mavilis Football Club | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[091] BUILD Mavilis Football Club vs Silva Manoel Athletico Clube prob=0.299 roll=0.477
+[092] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[092] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.458 roll=0.444
+[092] JOGADA Silva Manoel Athletico Clube | Iguape Saviano x Valentino Jacinto line=2 duel=18.46 corte=-1.70
+[092] JOGADA Silva Manoel Athletico Clube | Iauaretê Capitão x Tapuruquara Páscoa line=3 duel=57.69 corte=-1.70
+[092] JOGADA Silva Manoel Athletico Clube | Anatólio Filippi x Iguaçu Cristo line=4 duel=-77.67 corte=-1.70
+[092] JOGADA falhou: Iguaçu Cristo cortou
+[093] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[093] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.458 roll=0.096
+[093] JOGADA Silva Manoel Athletico Clube | Iauaretê Capitão x Adonai Barroso line=2 duel=-11.21 corte=-1.70
+[093] JOGADA falhou: Adonai Barroso cortou
+[094] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[094] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.458 roll=0.983
+[095] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[095] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.458 roll=0.363
+[095] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Jácome Moretti line=4 duel=-8.45 corte=-1.70
+[096] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[096] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.458 roll=0.405
+[096] JOGADA Silva Manoel Athletico Clube | Estevão Nunes x Ernane Naves line=2 duel=0.69 corte=-1.70
+[096] FINAL Silva Manoel Athletico Clube | Iauaretê Capitão fam=5 duel=-6.87 on_target=0.674 goal=0.165
+[096] FINAL Iauaretê Capitão: fora/alvo perdido (roll=0.745)
+[097] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 3 Mavilis Football Club
+[097] BUILD Silva Manoel Athletico Clube vs Mavilis Football Club prob=0.458 roll=0.011
+[097] JOGADA Silva Manoel Athletico Clube | Aron Capiberibe x Quirilo França line=3 duel=-6.21 corte=-1.70
+[097] JOGADA falhou: Quirilo França cortou

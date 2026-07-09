@@ -1,0 +1,312 @@
+Partida #223
+Data: 1912-01-22
+Mandante: Botafogo de Futebol e Regatas
+Visitante: Futebol Clube Galitos
+Placar: 1 x 0
+Seed: -
+Estádio: Estádio General Severiano
+Clima: Chuva forte
+Placar tempo normal: 1 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Botafogo de Futebol e Regatas x Futebol Clube Galitos | estádio=Estádio General Severiano | clima=Chuva forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[001] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.408 roll=0.746
+[002] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[002] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.408 roll=0.604
+[003] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[003] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.216 roll=0.922
+[004] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[004] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.216 roll=0.063
+[004] JOGADA Futebol Clube Galitos | Roriz Lanza x Tadeuzinho line=3 duel=10.37 corte=-1.30
+[004] FINAL Futebol Clube Galitos | Bruce Moleiro fam=5 duel=-10.29 on_target=0.513 goal=0.133
+[004] FINAL Bruce Moleiro: fora/alvo perdido (roll=0.926)
+[005] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[005] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.408 roll=0.809
+[006] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[006] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.216 roll=0.042
+[006] JOGADA Futebol Clube Galitos | Galito x Lucimar Garavelo line=3 duel=-39.45 corte=-1.30
+[006] JOGADA falhou: Lucimar Garavelo cortou
+[007] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[007] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.408 roll=0.323
+[007] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Poti Malaquias line=4 duel=20.95 corte=-1.12
+[007] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Poti Malaquias line=5 duel=18.14 corte=-1.37
+[007] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Bruce Moleiro line=5 duel=141.37 corte=-1.37
+[007] FINAL Botafogo de Futebol e Regatas | Fernando Hamada fam=1 duel=4.59 on_target=0.606 goal=0.224
+[007] FINAL Fernando Hamada: no alvo sem gol (roll=0.453)
+[008] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[008] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.408 roll=0.554
+[009] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[009] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.216 roll=0.398
+[010] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[010] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.408 roll=0.231
+[010] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Poti Malaquias line=3 duel=-4.43 corte=-1.12
+[010] JOGADA falhou: Poti Malaquias cortou
+[011] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[011] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.441 roll=0.372
+[011] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Telmo Lousada line=2 duel=132.97 corte=-1.12
+[011] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Pajeú Bottura line=4 duel=-8.93 corte=-1.12
+[011] JOGADA falhou: Pajeú Bottura cortou
+[012] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[012] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.234 roll=0.768
+[013] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[013] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.234 roll=0.273
+[014] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[014] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.441 roll=0.048
+[014] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Telmo Lousada line=3 duel=16.01 corte=-1.12
+[014] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Bruce Moleiro line=5 duel=48.83 corte=-1.87
+[014] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x Xenócrates Alves line=5 duel=116.07 corte=-1.87
+[014] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=30.91 on_target=0.655 goal=0.250
+[014] FINAL Tadeuzinho: no alvo sem gol (roll=0.577)
+[015] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[015] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.234 roll=0.143
+[015] JOGADA Futebol Clube Galitos | Telmo Lousada x Aloísio Coelho line=3 duel=-24.11 corte=-1.30
+[015] JOGADA falhou: Aloísio Coelho cortou
+[016] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[016] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.234 roll=0.047
+[016] JOGADA Futebol Clube Galitos | Poti Malaquias x Lucimar Garavelo line=2 duel=-29.33 corte=-1.30
+[016] JOGADA falhou: Lucimar Garavelo cortou
+[017] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[017] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.441 roll=0.204
+[017] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Galito line=2 duel=75.70 corte=-1.12
+[017] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Xenócrates Alves line=4 duel=45.36 corte=-1.12
+[017] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Poti Malaquias line=5 duel=11.78 corte=-1.87
+[017] FINAL Botafogo de Futebol e Regatas | Rúben Águas fam=1 duel=16.01 on_target=0.650 goal=0.241
+[017] FINAL Rúben Águas: fora/alvo perdido (roll=0.661)
+[018] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[018] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.441 roll=0.658
+[019] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[019] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.234 roll=0.953
+[020] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[020] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.441 roll=0.438
+[020] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Telmo Lousada line=2 duel=136.19 corte=-1.12
+[020] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Florival Ottoni line=4 duel=-11.55 corte=-1.12
+[021] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[021] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.252 roll=0.701
+[022] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[022] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.252 roll=0.351
+[023] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[023] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.127
+[023] JOGADA Botafogo de Futebol e Regatas | João Sanches x Telmo Lousada line=4 duel=20.16 corte=-1.12
+[023] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Pajeú Bottura line=4 duel=-5.63 corte=-1.12
+[024] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[024] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.252 roll=0.657
+[025] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[025] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.252 roll=0.259
+[026] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[026] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.626
+[027] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[027] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.357
+[027] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Telmo Lousada line=4 duel=44.63 corte=-1.12
+[027] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Bruce Moleiro line=4 duel=55.16 corte=-1.12
+[027] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=26.89 on_target=0.690 goal=0.256
+[027] FINAL Tadeuzinho: fora/alvo perdido (roll=0.818)
+[028] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[028] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.011
+[028] JOGADA Botafogo de Futebol e Regatas | João Sanches x Pajeú Bottura line=4 duel=-2.58 corte=-1.12
+[028] JOGADA falhou: Pajeú Bottura cortou
+[029] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[029] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.252 roll=0.876
+[030] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[030] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.979
+[031] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[031] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.252 roll=0.604
+[032] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[032] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.254 roll=0.984
+[033] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[033] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.925
+[034] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[034] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.724
+[035] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[035] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.254 roll=0.831
+[036] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[036] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.738
+[037] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[037] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.254 roll=0.745
+[038] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[038] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.477
+[039] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[039] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.479
+[040] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[040] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.979
+[041] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[041] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.254 roll=0.926
+[042] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[042] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.254 roll=0.528
+[043] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[043] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.549
+[044] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[044] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.028
+[044] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Telmo Lousada line=3 duel=43.39 corte=-1.12
+[044] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Pajeú Bottura line=4 duel=-11.92 corte=-1.12
+[044] JOGADA falhou: Pajeú Bottura cortou
+[045] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[045] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.474 roll=0.466
+[045] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Teffé Cabrera line=3 duel=46.68 corte=-1.12
+[045] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Rui Paim line=4 duel=41.37 corte=-1.12
+[045] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Teffé Cabrera line=5 duel=44.39 corte=-1.87
+[045] FINAL Botafogo de Futebol e Regatas | João Sanches fam=1 duel=6.68 on_target=0.684 goal=0.245
+[045] FINAL João Sanches: no alvo sem gol (roll=0.601)
+[046] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[046] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.236 roll=0.270
+[047] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[047] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.441 roll=0.137
+[047] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Galito line=3 duel=49.42 corte=-1.12
+[047] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Bruce Moleiro line=4 duel=-32.38 corte=-1.12
+[047] JOGADA falhou: Bruce Moleiro cortou
+[048] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[048] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.441 roll=0.256
+[048] JOGADA Botafogo de Futebol e Regatas | João Sanches x Telmo Lousada line=3 duel=30.44 corte=-1.12
+[048] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Roriz Lanza line=4 duel=20.14 corte=-1.12
+[048] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Rui Paim line=5 duel=103.70 corte=-1.37
+[048] FINAL Botafogo de Futebol e Regatas | João Sanches fam=1 duel=5.68 on_target=0.650 goal=0.237
+[048] FINAL João Sanches: no alvo sem gol (roll=0.697)
+[049] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[049] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.236 roll=0.928
+[050] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[050] SUB Botafogo de Futebol e Regatas: saiu João Sanches (SA) | entrou Severino Desempregado (MA) | subs=1/5
+[050] SUB Futebol Clube Galitos: saiu Bruce Moleiro (SA) | entrou Uru Mina (PD) | subs=1/5
+[050] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.442 roll=0.874
+[051] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[051] SUB Botafogo de Futebol e Regatas: saiu Rúben Águas (SA) | entrou Escudo Calábrio Defensor (SA) | subs=2/5
+[051] SUB Futebol Clube Galitos: saiu Xenócrates Alves (MC) | entrou Erico Bissoli (VOL) | subs=2/5
+[051] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.407 roll=0.917
+[052] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[052] SUB Futebol Clube Galitos: saiu Galito (CA) | entrou Ildo Gatti (PE) | subs=3/5
+[052] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.225 roll=0.398
+[053] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[053] SUB Futebol Clube Galitos: saiu Rui Paim (MC) | entrou Franklim Ladeira (VOL) | subs=4/5
+[053] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.410 roll=0.377
+[053] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Erico Bissoli line=2 duel=-29.91 corte=-1.12
+[053] JOGADA falhou: Erico Bissoli cortou
+[054] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[054] SUB Futebol Clube Galitos: saiu Teffé Cabrera (ME) | entrou Mamede Garcia (ME) | subs=5/5
+[054] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.411 roll=0.297
+[054] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Ildo Gatti line=3 duel=32.38 corte=-1.12
+[054] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Erico Bissoli line=4 duel=-29.90 corte=-1.12
+[055] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[055] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.224 roll=0.786
+[056] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[056] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.442 roll=0.626
+[057] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[057] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.442 roll=0.655
+[058] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[058] SUB Botafogo de Futebol e Regatas: saiu Marco Medeiros (MC) | entrou Jessé Soares (VOL) | subs=3/5
+[058] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.241 roll=0.222
+[058] JOGADA Futebol Clube Galitos | Florival Ottoni x Alisson Caiçara line=4 duel=-64.41 corte=-1.30
+[058] JOGADA falhou: Alisson Caiçara cortou
+[059] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[059] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.241 roll=0.921
+[060] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[060] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.415 roll=0.347
+[060] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Erico Bissoli line=3 duel=-1.69 corte=-1.12
+[060] JOGADA falhou: Erico Bissoli cortou
+[061] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[061] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.415 roll=0.442
+[062] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[062] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.244 roll=0.887
+[063] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[063] SUB Botafogo de Futebol e Regatas: saiu Aloísio Coelho (ZAG) | entrou Augusto Bota Fogo no Adversário (ZAG) | subs=4/5
+[063] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.244 roll=0.496
+[064] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[064] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.415 roll=0.939
+[065] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[065] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.244 roll=0.544
+[066] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[066] SUB Botafogo de Futebol e Regatas: saiu Tadeuzinho (CA) | entrou Isaías da Cruz (CA) | subs=5/5
+[066] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.246 roll=0.425
+[067] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[067] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.246 roll=0.024
+[067] JOGADA Futebol Clube Galitos | Florival Ottoni x Fernando Hamada line=4 duel=-18.66 corte=-1.30
+[068] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[068] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.385 roll=0.469
+[069] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[069] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.249 roll=0.876
+[070] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[070] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.249 roll=0.641
+[071] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[071] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.249 roll=0.011
+[071] JOGADA Futebol Clube Galitos | Pajeú Bottura x Escudo Calábrio Defensor line=3 duel=-46.85 corte=-1.30
+[072] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[072] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.249 roll=0.846
+[072] FINAL Futebol Clube Galitos | Florival Ottoni fam=5 duel=-28.29 on_target=0.577 goal=0.138
+[072] FINAL Florival Ottoni: no alvo sem gol (roll=0.557)
+[073] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[073] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.249 roll=0.045
+[073] JOGADA Futebol Clube Galitos | Telmo Lousada x Fernando Hamada line=3 duel=-9.68 corte=-1.30
+[073] JOGADA falhou: Fernando Hamada cortou
+[074] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[074] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.249 roll=0.524
+[075] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[075] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.385 roll=0.460
+[076] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[076] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.257 roll=0.387
+[077] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[077] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.257 roll=0.055
+[077] JOGADA Futebol Clube Galitos | Pajeú Bottura x Geraldo Pascoal line=3 duel=-22.97 corte=-1.30
+[078] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[078] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.257 roll=0.375
+[079] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[079] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.397 roll=0.062
+[079] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Florival Ottoni line=3 duel=35.93 corte=-1.07
+[079] JOGADA Botafogo de Futebol e Regatas | Escudo Calábrio Defensor x Roriz Lanza line=4 duel=-2.23 corte=-1.07
+[079] JOGADA falhou: Roriz Lanza cortou
+[080] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[080] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.397 roll=0.106
+[080] JOGADA Botafogo de Futebol e Regatas | Jessé Soares x Roriz Lanza line=4 duel=-6.20 corte=-1.07
+[080] JOGADA falhou: Roriz Lanza cortou
+[081] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[081] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.257 roll=0.225
+[081] JOGADA Futebol Clube Galitos | Franklim Ladeira x Severino Desempregado line=4 duel=-25.23 corte=-1.30
+[082] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[082] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.397 roll=0.638
+[083] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Futebol Clube Galitos
+[083] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.397 roll=0.232
+[083] JOGADA Botafogo de Futebol e Regatas | César Delgado x Uru Mina line=4 duel=14.05 corte=-1.07
+[083] JOGADA Botafogo de Futebol e Regatas | Escudo Calábrio Defensor x Pajeú Bottura line=4 duel=24.64 corte=-1.07
+[083] FINAL Botafogo de Futebol e Regatas | Fernando Hamada fam=1 duel=11.07 on_target=0.703 goal=0.252
+[083] FINAL Fernando Hamada: GOL subtipo=CHUTE (roll=0.110)
+[084] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Futebol Clube Galitos
+[084] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.397 roll=0.831
+[085] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Futebol Clube Galitos
+[085] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.397 roll=0.224
+[085] JOGADA Botafogo de Futebol e Regatas | Jessé Soares x Uru Mina line=2 duel=36.18 corte=-1.30
+[085] JOGADA Botafogo de Futebol e Regatas | Isaías da Cruz x Roriz Lanza line=3 duel=4.62 corte=-1.30
+[085] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Franklim Ladeira line=4 duel=-13.80 corte=-1.30
+[085] JOGADA falhou: Franklim Ladeira cortou
+[086] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 1 x 0 Futebol Clube Galitos
+[086] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.317 roll=0.093
+[086] JOGADA Futebol Clube Galitos | Poti Malaquias x Severino Desempregado line=3 duel=6.16 corte=-1.30
+[086] FINAL Futebol Clube Galitos | Uru Mina fam=5 duel=-8.64 on_target=0.671 goal=0.158
+[086] FINAL Uru Mina: no alvo sem gol (roll=0.564)
+[087] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 1 x 0 Futebol Clube Galitos
+[087] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.317 roll=0.618
+[088] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Futebol Clube Galitos
+[088] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.397 roll=0.288
+[088] JOGADA Botafogo de Futebol e Regatas | Augusto Bota Fogo no Adversário x Franklim Ladeira line=3 duel=64.68 corte=-1.30
+[088] JOGADA Botafogo de Futebol e Regatas | Augusto Bota Fogo no Adversário x Roriz Lanza line=4 duel=-7.77 corte=-1.30
+[088] JOGADA falhou: Roriz Lanza cortou
+[089] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 1 x 0 Futebol Clube Galitos
+[089] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.317 roll=0.856
+[090] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Futebol Clube Galitos
+[090] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.397 roll=0.425
+[091] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 1 x 0 Futebol Clube Galitos
+[091] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.317 roll=0.338
+[092] posse=Futebol Clube Galitos | placar Botafogo de Futebol e Regatas 1 x 0 Futebol Clube Galitos
+[092] BUILD Futebol Clube Galitos vs Botafogo de Futebol e Regatas prob=0.317 roll=0.459
+[093] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Futebol Clube Galitos
+[093] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.397 roll=0.227
+[093] JOGADA Botafogo de Futebol e Regatas | César Delgado x Ildo Gatti line=2 duel=29.36 corte=-1.30
+[093] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Erico Bissoli line=3 duel=0.85 corte=-1.30
+[093] JOGADA Botafogo de Futebol e Regatas | César Delgado x Ildo Gatti line=4 duel=30.70 corte=-1.30
+[093] FINAL Botafogo de Futebol e Regatas | Isaías da Cruz fam=1 duel=9.03 on_target=0.655 goal=0.233
+[093] FINAL Isaías da Cruz: fora/alvo perdido (roll=0.913)
+[094] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Futebol Clube Galitos
+[094] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.397 roll=0.715
+[095] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Futebol Clube Galitos
+[095] BUILD Botafogo de Futebol e Regatas vs Futebol Clube Galitos prob=0.397 roll=0.892
+[095] FINAL Botafogo de Futebol e Regatas | Jessé Soares fam=5 duel=13.71 on_target=0.560 goal=0.141
+[095] FINAL Jessé Soares: no alvo sem gol (roll=0.269)

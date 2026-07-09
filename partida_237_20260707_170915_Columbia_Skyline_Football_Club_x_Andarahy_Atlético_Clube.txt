@@ -1,0 +1,308 @@
+Partida #237
+Data: 1912-01-24
+Mandante: Columbia Skyline Football Club
+Visitante: Andarahy Atlético Clube
+Placar: 1 x 2
+Seed: -
+Estádio: Estádio Comstock
+Clima: Calor forte
+Placar tempo normal: 1 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Columbia Skyline Football Club x Andarahy Atlético Clube | estádio=Estádio Comstock | clima=Calor forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[001] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.354 roll=0.241
+[001] JOGADA Andarahy Atlético Clube | Sandro Delchiaro x Quagmire line=5 duel=43.79 corte=-1.55
+[001] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=9.99 on_target=0.532 goal=0.150
+[001] FINAL Ptolomeu Garcia: no alvo sem gol (roll=0.581)
+[002] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[002] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.354 roll=0.608
+[003] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[003] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.354 roll=0.818
+[004] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[004] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.354 roll=0.339
+[004] JOGADA Andarahy Atlético Clube | Vizeu Júnior x Fruit Salad James line=5 duel=61.07 corte=-2.05
+[004] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=10.26 on_target=0.532 goal=0.151
+[004] FINAL Ptolomeu Garcia: no alvo sem gol (roll=0.339)
+[005] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[005] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.342 roll=0.629
+[006] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[006] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.342 roll=0.952
+[007] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[007] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.342 roll=0.664
+[008] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[008] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.354 roll=0.034
+[008] JOGADA Andarahy Atlético Clube | Heitor Barbosa x Louis Long line=4 duel=22.25 corte=-1.30
+[008] FINAL Andarahy Atlético Clube | Vevé fam=5 duel=4.19 on_target=0.524 goal=0.145
+[008] FINAL Vevé: fora/alvo perdido (roll=0.622)
+[009] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[009] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.354 roll=0.723
+[010] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[010] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.342 roll=0.366
+[011] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[011] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.370 roll=0.909
+[012] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[012] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.383 roll=0.440
+[013] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[013] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.383 roll=0.852
+[014] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[014] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.383 roll=0.869
+[015] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[015] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.383 roll=0.594
+[016] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[016] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.370 roll=0.601
+[017] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Andarahy Atlético Clube
+[017] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.370 roll=0.191
+[017] JOGADA Columbia Skyline Football Club | Fruit Salad James x Sandro Delchiaro line=3 duel=6.81 corte=-1.11
+[017] FINAL Columbia Skyline Football Club | Edward Gayville fam=1 duel=3.66 on_target=0.647 goal=0.231
+[017] FINAL Edward Gayville: GOL subtipo=CHUTE (roll=0.200)
+[018] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[018] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.370 roll=0.377
+[019] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[019] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.461 roll=0.791
+[020] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[020] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.370 roll=0.812
+[021] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[021] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.398 roll=0.176
+[021] JOGADA Columbia Skyline Football Club | Josh Battle x Vizeu Júnior line=3 duel=27.19 corte=-1.30
+[021] JOGADA Columbia Skyline Football Club | Edward Gayville x Osvaldo Daimi line=4 duel=-2.02 corte=-1.30
+[021] JOGADA falhou: Osvaldo Daimi cortou
+[022] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[022] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.496 roll=0.760
+[023] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[023] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.496 roll=0.552
+[024] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[024] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.398 roll=0.120
+[024] JOGADA Columbia Skyline Football Club | Fruit Salad James x Osvaldo Daimi line=3 duel=-7.15 corte=-1.30
+[024] JOGADA falhou: Osvaldo Daimi cortou
+[025] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[025] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.398 roll=0.589
+[025] FINAL Columbia Skyline Football Club | Fruit Salad James fam=5 duel=-16.79 on_target=0.578 goal=0.131
+[025] FINAL Fruit Salad James: no alvo sem gol (roll=0.473)
+[026] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[026] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.398 roll=0.990
+[027] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[027] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.398 roll=0.436
+[028] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[028] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.496 roll=0.032
+[028] JOGADA Andarahy Atlético Clube | Maurílio Barros x Quagmire line=4 duel=8.08 corte=-1.30
+[028] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=-54.00 on_target=0.602 goal=0.138
+[028] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.828)
+[029] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[029] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.496 roll=0.131
+[029] JOGADA Andarahy Atlético Clube | Vizeu Júnior x Josh Battle line=5 duel=-13.54 corte=-2.05
+[029] JOGADA falhou: Josh Battle cortou
+[030] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[030] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.398 roll=0.153
+[030] JOGADA Columbia Skyline Football Club | Louis Long x Maurílio Barros line=3 duel=3.73 corte=-1.30
+[030] FINAL Columbia Skyline Football Club | Awper fam=3 duel=-11.58 on_target=0.616 goal=0.176
+[030] FINAL Awper: no alvo sem gol (roll=0.590)
+[031] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[031] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.496 roll=0.523
+[031] FINAL Andarahy Atlético Clube | Heitor Barbosa fam=5 duel=-16.42 on_target=0.594 goal=0.152
+[031] FINAL Heitor Barbosa: fora/alvo perdido (roll=0.699)
+[032] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[032] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.496 roll=0.038
+[032] JOGADA Andarahy Atlético Clube | Maurílio Barros x Louis Long line=3 duel=96.39 corte=-1.30
+[032] FINAL Andarahy Atlético Clube | Vevé fam=5 duel=-61.76 on_target=0.593 goal=0.132
+[032] FINAL Vevé: no alvo sem gol (roll=0.278)
+[033] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[033] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.496 roll=0.468
+[033] JOGADA Andarahy Atlético Clube | Heitor Barbosa x Douglas Philson line=5 duel=13.92 corte=-1.55
+[033] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=12.94 on_target=0.606 goal=0.169
+[033] FINAL Ptolomeu Garcia: no alvo sem gol (roll=0.700)
+[034] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[034] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.398 roll=0.206
+[034] JOGADA Columbia Skyline Football Club | Shutz Ethan Cuckley x Vevé line=3 duel=31.63 corte=-1.30
+[034] JOGADA Columbia Skyline Football Club | Quagmire x Heitor Barbosa line=4 duel=-0.84 corte=-1.30
+[034] FINAL Columbia Skyline Football Club | Awper fam=1 duel=-4.68 on_target=0.680 goal=0.234
+[034] FINAL Awper: no alvo sem gol (roll=0.615)
+[035] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[035] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.398 roll=0.465
+[036] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[036] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.398 roll=0.233
+[036] JOGADA Columbia Skyline Football Club | Jack Wynand x Cláudio Maciel Fonseca line=2 duel=76.49 corte=-1.30
+[036] JOGADA Columbia Skyline Football Club | Jack Wynand x Sandro Delchiaro line=4 duel=6.70 corte=-1.30
+[036] JOGADA Columbia Skyline Football Club | Big W x Maurílio Barros line=5 duel=53.47 corte=-1.55
+[036] FINAL Columbia Skyline Football Club | Edward Gayville fam=1 duel=4.52 on_target=0.681 goal=0.239
+[036] FINAL Edward Gayville: fora/alvo perdido (roll=0.874)
+[037] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[037] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.496 roll=0.565
+[038] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[038] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.398 roll=0.042
+[038] JOGADA Columbia Skyline Football Club | Edward Gayville x Sandro Delchiaro line=2 duel=92.33 corte=-1.30
+[038] JOGADA Columbia Skyline Football Club | Awper x Vevé line=5 duel=25.34 corte=-2.05
+[038] JOGADA Columbia Skyline Football Club | Jack Wynand x Erasmo do Carmo line=5 duel=10.40 corte=-1.55
+[038] FINAL Columbia Skyline Football Club | Awper fam=1 duel=-10.50 on_target=0.679 goal=0.232
+[038] FINAL Awper: fora/alvo perdido (roll=0.686)
+[039] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[039] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.496 roll=0.169
+[039] JOGADA Andarahy Atlético Clube | Cláudio Maciel Fonseca x Josh Battle line=5 duel=28.10 corte=-1.55
+[039] FINAL Andarahy Atlético Clube | Erasmo do Carmo fam=5 duel=-3.20 on_target=0.596 goal=0.158
+[039] FINAL Erasmo do Carmo: no alvo sem gol (roll=0.340)
+[040] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[040] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.496 roll=0.785
+[041] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[041] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.398 roll=0.282
+[041] JOGADA Columbia Skyline Football Club | Louis Long x Sandro Delchiaro line=4 duel=5.90 corte=-1.30
+[041] FINAL Columbia Skyline Football Club | Awper fam=3 duel=-13.46 on_target=0.616 goal=0.176
+[041] FINAL Awper: no alvo sem gol (roll=0.408)
+[042] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[042] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.496 roll=0.553
+[043] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[043] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.398 roll=0.011
+[043] JOGADA Columbia Skyline Football Club | Edward Gayville x Ptolomeu Garcia line=2 duel=83.38 corte=-1.30
+[043] JOGADA Columbia Skyline Football Club | Douglas Philson x Vevé line=5 duel=76.31 corte=-1.55
+[043] JOGADA Columbia Skyline Football Club | Edward Gayville x Maurílio Barros line=5 duel=16.24 corte=-2.05
+[043] FINAL Columbia Skyline Football Club | Awper fam=1 duel=-6.77 on_target=0.679 goal=0.233
+[043] FINAL Awper: no alvo sem gol (roll=0.859)
+[044] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[044] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.398 roll=0.121
+[044] JOGADA Columbia Skyline Football Club | Jack Wynand x Vizeu Júnior line=3 duel=36.19 corte=-1.30
+[044] JOGADA Columbia Skyline Football Club | Louis Long x Osvaldo Daimi line=4 duel=-11.11 corte=-1.30
+[044] JOGADA falhou: Osvaldo Daimi cortou
+[045] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[045] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.496 roll=0.524
+[046] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[046] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.461 roll=0.964
+[047] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[047] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.461 roll=0.608
+[048] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[048] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.370 roll=0.613
+[049] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[049] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.370 roll=0.733
+[050] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[050] SUB Columbia Skyline Football Club: saiu Awper (PE) | entrou Pedrão (PD) | subs=1/5
+[050] SUB Andarahy Atlético Clube: saiu Vevé (MA) | entrou Roberto Paiva Gomes (MC) | subs=1/5
+[050] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.366 roll=0.932
+[051] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[051] SUB Columbia Skyline Football Club: saiu Quagmire (ZAG) | entrou Valdemir Clemente (ZAG) | subs=2/5
+[051] SUB Andarahy Atlético Clube: saiu Vizeu Júnior (CA) | entrou Augusto Ventura (CA) | subs=2/5
+[051] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.368 roll=0.519
+[052] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[052] SUB Andarahy Atlético Clube: saiu Juan Ferraresi (LE) | entrou Fabiano Maldonado (LE) | subs=3/5
+[052] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.445 roll=0.668
+[053] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[053] SUB Columbia Skyline Football Club: saiu Douglas Philson (MC) | entrou Leon First Bush (VOL) | subs=3/5
+[053] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.446 roll=0.777
+[054] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[054] SUB Columbia Skyline Football Club: saiu Shutz Ethan Cuckley (ME) | entrou Owen Barkfield (ME) | subs=4/5
+[054] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.452 roll=0.965
+[055] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[055] SUB Columbia Skyline Football Club: saiu Josh Battle (VOL) | entrou T Guy (VOL) | subs=5/5
+[055] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.332 roll=0.998
+[056] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[056] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.357 roll=0.419
+[057] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[057] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.488 roll=0.010
+[057] JOGADA Andarahy Atlético Clube | Osvaldo Daimi x Valdemir Clemente line=4 duel=-16.42 corte=-1.30
+[057] JOGADA falhou: Valdemir Clemente cortou
+[058] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[058] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.488 roll=0.987
+[059] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[059] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.488 roll=0.471
+[059] JOGADA Andarahy Atlético Clube | Osvaldo Daimi x Valdemir Clemente line=5 duel=-15.98 corte=-1.55
+[059] JOGADA falhou: Valdemir Clemente cortou
+[060] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[060] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.357 roll=0.068
+[060] JOGADA Columbia Skyline Football Club | Jack Wynand x Heitor Barbosa line=4 duel=11.68 corte=-1.30
+[060] JOGADA Columbia Skyline Football Club | Edward Gayville x Osvaldo Daimi line=4 duel=-8.78 corte=-1.30
+[061] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[061] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.491 roll=0.043
+[061] JOGADA Andarahy Atlético Clube | Augusto Ventura x Louis Long line=3 duel=14.16 corte=-1.30
+[061] FINAL Andarahy Atlético Clube | Erasmo do Carmo fam=5 duel=-2.30 on_target=0.596 goal=0.160
+[061] FINAL Erasmo do Carmo: no alvo sem gol (roll=0.675)
+[062] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 0 Andarahy Atlético Clube
+[062] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.491 roll=0.238
+[062] JOGADA Andarahy Atlético Clube | Fabiano Maldonado x Valdemir Clemente line=4 duel=48.41 corte=-1.30
+[062] FINAL Andarahy Atlético Clube | Augusto Ventura fam=5 duel=-8.12 on_target=0.593 goal=0.156
+[062] FINAL Augusto Ventura: GOL subtipo=FALTA (roll=0.153)
+[063] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[063] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.329 roll=0.395
+[064] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[064] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.329 roll=0.861
+[065] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[065] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.410 roll=0.804
+[066] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[066] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.410 roll=0.769
+[067] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[067] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.410 roll=0.526
+[068] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[068] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.413 roll=0.587
+[069] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[069] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.413 roll=0.210
+[069] JOGADA Andarahy Atlético Clube | Augusto Ventura x Edward Gayville line=4 duel=15.38 corte=-1.30
+[069] FINAL Andarahy Atlético Clube | Augusto Ventura fam=5 duel=-13.59 on_target=0.593 goal=0.153
+[069] FINAL Augusto Ventura: fora/alvo perdido (roll=0.725)
+[070] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[070] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.329 roll=0.819
+[071] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[071] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.413 roll=0.098
+[071] JOGADA Andarahy Atlético Clube | Roberto Paiva Gomes x Leon First Bush line=4 duel=48.79 corte=-1.30
+[071] FINAL Andarahy Atlético Clube | Roberto Paiva Gomes fam=5 duel=9.71 on_target=0.595 goal=0.164
+[071] FINAL Roberto Paiva Gomes: no alvo sem gol (roll=0.447)
+[072] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[072] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.413 roll=0.948
+[073] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[073] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.329 roll=0.905
+[074] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[074] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.329 roll=0.337
+[075] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[075] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.413 roll=0.975
+[076] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[076] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.339 roll=0.727
+[077] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[077] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.425 roll=0.770
+[078] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[078] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.339 roll=0.015
+[078] JOGADA Columbia Skyline Football Club | Fruit Salad James x Ptolomeu Garcia line=3 duel=0.19 corte=-1.05
+[078] JOGADA Columbia Skyline Football Club | Edward Gayville x Roberto Paiva Gomes line=4 duel=-10.30 corte=-1.05
+[079] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[079] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.425 roll=0.280
+[079] JOGADA Andarahy Atlético Clube | Erasmo do Carmo x Leon First Bush line=4 duel=25.30 corte=-1.30
+[079] FINAL Andarahy Atlético Clube | Augusto Ventura fam=5 duel=-17.03 on_target=0.604 goal=0.153
+[079] FINAL Augusto Ventura: fora/alvo perdido (roll=0.643)
+[080] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[080] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.425 roll=0.935
+[081] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[081] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.339 roll=0.058
+[081] JOGADA Columbia Skyline Football Club | Pedrão x Sandro Delchiaro line=4 duel=-3.55 corte=-1.05
+[082] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[082] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.339 roll=0.761
+[083] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 1 Andarahy Atlético Clube
+[083] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.425 roll=0.283
+[083] JOGADA Andarahy Atlético Clube | Erasmo do Carmo x Big W line=5 duel=-0.57 corte=-1.55
+[083] FINAL Andarahy Atlético Clube | Erasmo do Carmo fam=5 duel=-4.66 on_target=0.607 goal=0.159
+[083] FINAL Erasmo do Carmo: GOL subtipo=FALTA (roll=0.039)
+[084] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Andarahy Atlético Clube
+[084] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.408 roll=0.686
+[085] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Andarahy Atlético Clube
+[085] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.430 roll=0.908
+[086] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Andarahy Atlético Clube
+[086] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.430 roll=0.560
+[087] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Andarahy Atlético Clube
+[087] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.430 roll=0.216
+[087] JOGADA Columbia Skyline Football Club | Leon First Bush x Roberto Paiva Gomes line=2 duel=-4.45 corte=-1.04
+[087] JOGADA falhou: Roberto Paiva Gomes cortou
+[088] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 2 Andarahy Atlético Clube
+[088] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.451 roll=0.632
+[089] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Andarahy Atlético Clube
+[089] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.430 roll=0.646
+[090] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Andarahy Atlético Clube
+[090] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.430 roll=0.997
+[091] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 2 Andarahy Atlético Clube
+[091] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.451 roll=0.603
+[092] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Andarahy Atlético Clube
+[092] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.430 roll=0.990
+[093] posse=Andarahy Atlético Clube | placar Columbia Skyline Football Club 1 x 2 Andarahy Atlético Clube
+[093] BUILD Andarahy Atlético Clube vs Columbia Skyline Football Club prob=0.451 roll=0.907
+[094] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Andarahy Atlético Clube
+[094] LESÃO Andarahy Atlético Clube: Augusto Ventura | lesão muscular | gravidade=moderada | 4 jogo(s)
+[094] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.430 roll=0.237
+[094] JOGADA Columbia Skyline Football Club | Jack Wynand x Sandro Delchiaro line=3 duel=-4.73 corte=-1.04
+[094] JOGADA falhou: Sandro Delchiaro cortou
+[095] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Andarahy Atlético Clube
+[095] BUILD Columbia Skyline Football Club vs Andarahy Atlético Clube prob=0.430 roll=0.775

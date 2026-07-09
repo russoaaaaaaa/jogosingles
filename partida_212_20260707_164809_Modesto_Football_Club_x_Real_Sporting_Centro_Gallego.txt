@@ -1,0 +1,330 @@
+Partida #212
+Data: 1912-01-20
+Mandante: Modesto Football Club
+Visitante: Real Sporting Centro Gallego
+Placar: 1 x 1
+Seed: -
+Estádio: Esplanada da Bocayuva
+Clima: Calor forte
+Placar tempo normal: 1 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Modesto Football Club x Real Sporting Centro Gallego | estádio=Esplanada da Bocayuva | clima=Calor forte | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Real Sporting Centro Gallego | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[001] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.335 roll=0.597
+[002] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[002] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.354 roll=0.327
+[002] JOGADA Modesto Football Club | Mário Ricci x Júlio Falcão line=3 duel=-21.95 corte=-1.70
+[002] JOGADA falhou: Júlio Falcão cortou
+[003] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[003] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.354 roll=0.183
+[003] JOGADA Modesto Football Club | Tales Saldanha x Costa Cavalcanti line=3 duel=3.83 corte=-1.70
+[003] FINAL Modesto Football Club | Marton Amaral fam=5 duel=-82.23 on_target=0.475 goal=0.101
+[003] FINAL Marton Amaral: fora/alvo perdido (roll=0.923)
+[004] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[004] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.354 roll=0.316
+[004] JOGADA Modesto Football Club | Canhoteiro x Costa Cavalcanti line=3 duel=7.49 corte=-1.70
+[004] FINAL Modesto Football Club | Bissau fam=5 duel=-67.44 on_target=0.477 goal=0.107
+[004] FINAL Bissau: no alvo sem gol (roll=0.317)
+[005] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[005] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.354 roll=0.511
+[006] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[006] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.354 roll=0.061
+[006] JOGADA Modesto Football Club | Margarido Caminha x Argonauta Tenório line=5 duel=30.46 corte=-1.95
+[006] FINAL Modesto Football Club | Marton Amaral fam=5 duel=-0.41 on_target=0.479 goal=0.132
+[006] FINAL Marton Amaral: fora/alvo perdido (roll=0.952)
+[007] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[007] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.354 roll=0.493
+[007] FINAL Modesto Football Club | Tales Saldanha fam=5 duel=-33.38 on_target=0.476 goal=0.119
+[007] FINAL Tales Saldanha: no alvo sem gol (roll=0.283)
+[008] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[008] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.354 roll=0.904
+[009] posse=Real Sporting Centro Gallego | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[009] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.335 roll=0.886
+[010] posse=Real Sporting Centro Gallego | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[010] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.335 roll=0.773
+[011] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[011] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.383 roll=0.750
+[012] posse=Real Sporting Centro Gallego | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[012] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.362 roll=0.797
+[013] posse=Real Sporting Centro Gallego | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[013] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.362 roll=0.847
+[014] posse=Real Sporting Centro Gallego | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[014] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.362 roll=0.289
+[014] JOGADA Real Sporting Centro Gallego | Leonardo Dedeca x Mário Ricci line=2 duel=2.05 corte=-1.10
+[014] JOGADA Real Sporting Centro Gallego | Júlio Falcão x Bissau line=3 duel=37.10 corte=-1.10
+[014] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Margarido Caminha line=4 duel=-47.25 corte=-1.10
+[014] JOGADA falhou: Margarido Caminha cortou
+[015] posse=Real Sporting Centro Gallego | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[015] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.362 roll=0.863
+[016] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[016] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.383 roll=0.283
+[016] JOGADA Modesto Football Club | Marton Amaral x Leonardo Dedeca line=4 duel=117.92 corte=-1.70
+[016] FINAL Modesto Football Club | Bissau fam=5 duel=6.30 on_target=0.519 goal=0.144
+[016] FINAL Bissau: no alvo sem gol (roll=0.679)
+[017] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[017] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.383 roll=0.946
+[018] posse=Real Sporting Centro Gallego | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[018] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.362 roll=0.281
+[018] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Marton Amaral line=4 duel=19.68 corte=-1.10
+[018] JOGADA Real Sporting Centro Gallego | Júlio Falcão x Marton Amaral line=4 duel=45.55 corte=-1.10
+[018] FINAL Real Sporting Centro Gallego | Argonauta Tenório fam=3 duel=0.71 on_target=0.540 goal=0.167
+[018] FINAL Argonauta Tenório: no alvo sem gol (roll=0.176)
+[019] posse=Real Sporting Centro Gallego | placar Modesto Football Club 0 x 0 Real Sporting Centro Gallego
+[019] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.362 roll=0.033
+[019] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Marton Amaral line=4 duel=44.49 corte=-1.10
+[019] FINAL Real Sporting Centro Gallego | Argonauta Tenório fam=1 duel=1.28 on_target=0.595 goal=0.218
+[019] FINAL Argonauta Tenório: GOL subtipo=CHUTE (roll=0.164)
+[020] posse=Real Sporting Centro Gallego | placar Modesto Football Club 0 x 1 Real Sporting Centro Gallego
+[020] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.362 roll=0.240
+[020] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Bissau line=3 duel=39.41 corte=-1.30
+[020] JOGADA Real Sporting Centro Gallego | Linwood Hays x Canhoteiro line=4 duel=-8.26 corte=-1.30
+[021] posse=Real Sporting Centro Gallego | placar Modesto Football Club 0 x 1 Real Sporting Centro Gallego
+[021] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.390 roll=0.241
+[021] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Bissau line=3 duel=40.86 corte=-1.30
+[021] JOGADA Real Sporting Centro Gallego | Ítalo Terrível x Marton Amaral line=4 duel=-44.92 corte=-1.30
+[021] JOGADA falhou: Marton Amaral cortou
+[022] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Real Sporting Centro Gallego
+[022] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.496 roll=0.213
+[022] JOGADA Modesto Football Club | Mário Ricci x Argonauta Tenório line=4 duel=20.14 corte=-1.70
+[022] FINAL Modesto Football Club | Tales Saldanha fam=5 duel=-28.78 on_target=0.543 goal=0.135
+[022] FINAL Tales Saldanha: no alvo sem gol (roll=0.597)
+[023] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Real Sporting Centro Gallego
+[023] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.496 roll=0.738
+[024] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Real Sporting Centro Gallego
+[024] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.496 roll=0.874
+[025] posse=Real Sporting Centro Gallego | placar Modesto Football Club 0 x 1 Real Sporting Centro Gallego
+[025] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.390 roll=0.659
+[026] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Real Sporting Centro Gallego
+[026] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.496 roll=0.140
+[026] JOGADA Modesto Football Club | Aquil Gavião x Ítalo Terrível line=5 duel=54.42 corte=-1.95
+[026] FINAL Modesto Football Club | Bissau fam=5 duel=2.64 on_target=0.548 goal=0.149
+[026] FINAL Bissau: GOL subtipo=FALTA (roll=0.083)
+[027] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[027] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.390 roll=0.951
+[028] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[028] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.390 roll=0.614
+[029] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[029] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.390 roll=0.320
+[029] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Margarido Caminha line=3 duel=16.82 corte=-1.10
+[029] JOGADA Real Sporting Centro Gallego | Ítalo Terrível x Conceição Malta line=4 duel=10.55 corte=-1.10
+[029] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Mário Ricci line=4 duel=-21.40 corte=-1.10
+[030] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[030] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.412 roll=0.272
+[030] JOGADA Modesto Football Club | Mário Ricci x Leonardo Dedeca line=4 duel=51.14 corte=-1.70
+[030] FINAL Modesto Football Club | Marton Amaral fam=5 duel=-70.09 on_target=0.540 goal=0.116
+[030] FINAL Marton Amaral: no alvo sem gol (roll=0.208)
+[031] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[031] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.390 roll=0.833
+[032] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[032] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.390 roll=0.968
+[033] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[033] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.415 roll=0.893
+[034] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[034] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.390 roll=0.078
+[034] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Conceição Malta line=3 duel=21.47 corte=-1.09
+[034] JOGADA Real Sporting Centro Gallego | Argonauta Tenório x Aquil Gavião line=4 duel=-87.45 corte=-1.09
+[034] JOGADA falhou: Aquil Gavião cortou
+[035] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[035] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.415 roll=0.371
+[035] JOGADA Modesto Football Club | Cid Lamego x Linwood Hays line=5 duel=-7.12 corte=-1.95
+[035] JOGADA falhou: Linwood Hays cortou
+[036] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[036] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.415 roll=0.763
+[037] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[037] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.415 roll=0.482
+[038] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[038] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.415 roll=0.255
+[038] JOGADA Modesto Football Club | Mário Ricci x Júlio Falcão line=4 duel=-7.31 corte=-1.70
+[039] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[039] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.415 roll=0.679
+[040] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[040] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.415 roll=0.954
+[041] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[041] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.415 roll=0.393
+[041] JOGADA Modesto Football Club | Bissau x Júlio Falcão line=5 duel=44.99 corte=-2.45
+[041] FINAL Modesto Football Club | Bissau fam=5 duel=-60.55 on_target=0.543 goal=0.121
+[041] FINAL Bissau: no alvo sem gol (roll=0.536)
+[042] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[042] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.415 roll=0.351
+[042] JOGADA Modesto Football Club | Margarido Caminha x Júlio Falcão line=4 duel=-3.89 corte=-1.70
+[043] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[043] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.415 roll=0.953
+[044] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[044] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.415 roll=0.058
+[044] JOGADA Modesto Football Club | Tales Saldanha x Júlio Falcão line=5 duel=-8.05 corte=-1.95
+[044] JOGADA falhou: Júlio Falcão cortou
+[045] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[045] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.390 roll=0.028
+[045] JOGADA Real Sporting Centro Gallego | Ítalo Terrível x Primitivo Ramos line=3 duel=-3.39 corte=-1.09
+[046] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[046] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.362 roll=0.401
+[047] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[047] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.386 roll=0.420
+[048] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[048] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.386 roll=0.084
+[048] JOGADA Modesto Football Club | Bissau x Alerrando Mesquita line=5 duel=0.78 corte=-2.45
+[048] FINAL Modesto Football Club | Bissau fam=5 duel=0.51 on_target=0.519 goal=0.143
+[048] FINAL Bissau: no alvo sem gol (roll=0.601)
+[049] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[049] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.386 roll=0.198
+[049] JOGADA Modesto Football Club | Cid Lamego x Costa Cavalcanti line=4 duel=-10.81 corte=-1.70
+[050] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[050] SUB Modesto Football Club: saiu Bissau (CA) | entrou Rigoberto Cabral (SA) | subs=1/5
+[050] SUB Real Sporting Centro Gallego: saiu Argonauta Tenório (CA) | entrou Guiné (CA) | subs=1/5
+[050] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.362 roll=0.547
+[051] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[051] SUB Modesto Football Club: saiu Marton Amaral (SA) | entrou Aldonço Canavieira (PD) | subs=2/5
+[051] SUB Real Sporting Centro Gallego: saiu Leonardo Dedeca (PE) | entrou Juan Gordito Artetas (PE) | subs=2/5
+[051] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.363 roll=0.082
+[051] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Cid Lamego line=4 duel=15.20 corte=-1.09
+[051] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Tales Saldanha line=5 duel=-0.39 corte=-1.34
+[051] JOGADA Real Sporting Centro Gallego | Rodrigão Barbosa x Rigoberto Cabral line=5 duel=42.06 corte=-1.34
+[051] FINAL Real Sporting Centro Gallego | Guiné fam=1 duel=34.53 on_target=0.600 goal=0.233
+[051] FINAL Guiné: no alvo sem gol (roll=0.981)
+[052] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[052] SUB Modesto Football Club: saiu Cid Lamego (LD) | entrou Joscelino Santana (LE) | subs=3/5
+[052] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.342 roll=0.214
+[052] JOGADA Modesto Football Club | Aquil Gavião x Francesco Maldonatti line=5 duel=5.75 corte=-1.95
+[052] FINAL Modesto Football Club | Aldonço Canavieira fam=5 duel=13.72 on_target=0.520 goal=0.148
+[052] FINAL Aldonço Canavieira: fora/alvo perdido (roll=0.542)
+[053] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[053] SUB Modesto Football Club: saiu Conceição Malta (ZAG) | entrou Célio Dimas (ZAG) | subs=4/5
+[053] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.365 roll=0.745
+[054] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[054] SUB Modesto Football Club: saiu Aquil Gavião (ZAG) | entrou Paranhos Pedrosa (ZAG) | subs=5/5
+[054] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.337 roll=0.707
+[055] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[055] SUB Real Sporting Centro Gallego: saiu Ítalo Terrível (PD) | entrou Salazar Bravo (PD) | subs=3/5
+[055] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.367 roll=0.395
+[056] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[056] SUB Real Sporting Centro Gallego: saiu Rodrigão Barbosa (ZAG) | entrou Felipe Thiago (ZAG) | subs=4/5
+[056] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.371 roll=0.883
+[056] FINAL Modesto Football Club | Aldonço Canavieira fam=5 duel=14.11 on_target=0.547 goal=0.153
+[056] FINAL Aldonço Canavieira: no alvo sem gol (roll=0.259)
+[057] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[057] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.395 roll=0.952
+[058] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[058] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.368 roll=0.635
+[059] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[059] SUB Real Sporting Centro Gallego: saiu Linwood Hays (ZAG) | entrou Gustavo Piocó (VOL) | subs=5/5
+[059] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.366 roll=0.881
+[060] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[060] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.366 roll=0.625
+[061] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[061] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.377 roll=0.726
+[062] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[062] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.377 roll=0.821
+[063] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[063] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.377 roll=0.579
+[064] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[064] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.377 roll=0.932
+[065] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[065] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.377 roll=0.122
+[065] JOGADA Modesto Football Club | Primitivo Ramos x Felipe Thiago line=5 duel=11.78 corte=-1.95
+[065] FINAL Modesto Football Club | Aldonço Canavieira fam=5 duel=-34.20 on_target=0.545 goal=0.133
+[065] FINAL Aldonço Canavieira: fora/alvo perdido (roll=0.879)
+[066] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[066] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.377 roll=0.774
+[067] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[067] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.366 roll=0.125
+[067] JOGADA Real Sporting Centro Gallego | Guiné x Aldonço Canavieira line=2 duel=100.75 corte=-1.09
+[067] JOGADA Real Sporting Centro Gallego | Guiné x Paranhos Pedrosa line=4 duel=0.08 corte=-1.09
+[067] FINAL Real Sporting Centro Gallego | Costa Cavalcanti fam=1 duel=13.76 on_target=0.628 goal=0.230
+[067] FINAL Costa Cavalcanti: fora/alvo perdido (roll=0.918)
+[068] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[068] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.381 roll=0.049
+[068] JOGADA Modesto Football Club | Mário Ricci x Felipe Thiago line=5 duel=-40.86 corte=-1.95
+[068] JOGADA falhou: Felipe Thiago cortou
+[069] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[069] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.366 roll=0.483
+[070] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[070] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.366 roll=0.667
+[071] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[071] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.366 roll=0.382
+[072] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[072] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.381 roll=0.391
+[073] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[073] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.381 roll=0.679
+[074] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[074] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.366 roll=0.452
+[075] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[075] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.366 roll=0.455
+[076] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[076] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.392 roll=0.029
+[076] JOGADA Modesto Football Club | Primitivo Ramos x Alerrando Mesquita line=3 duel=5.37 corte=-1.70
+[076] FINAL Modesto Football Club | Primitivo Ramos fam=5 duel=-20.33 on_target=0.559 goal=0.142
+[076] FINAL Primitivo Ramos: fora/alvo perdido (roll=0.988)
+[077] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[077] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.392 roll=0.412
+[078] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[078] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.392 roll=0.836
+[079] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[079] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.392 roll=0.279
+[079] JOGADA Modesto Football Club | Paranhos Pedrosa x Guiné line=4 duel=31.60 corte=-1.70
+[079] FINAL Modesto Football Club | Tales Saldanha fam=5 duel=-19.95 on_target=0.554 goal=0.140
+[079] FINAL Tales Saldanha: fora/alvo perdido (roll=0.876)
+[080] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[080] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.392 roll=0.927
+[081] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[081] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.377 roll=0.618
+[082] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[082] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.377 roll=0.243
+[082] JOGADA Real Sporting Centro Gallego | Felipe Thiago x Rigoberto Cabral line=2 duel=24.63 corte=-1.04
+[082] JOGADA Real Sporting Centro Gallego | Felipe Thiago x Aldonço Canavieira line=3 duel=13.60 corte=-1.04
+[082] JOGADA Real Sporting Centro Gallego | Salazar Bravo x Canhoteiro line=4 duel=15.83 corte=-1.04
+[082] FINAL Real Sporting Centro Gallego | Costa Cavalcanti fam=1 duel=7.60 on_target=0.640 goal=0.230
+[082] FINAL Costa Cavalcanti: no alvo sem gol (roll=0.914)
+[083] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[083] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.392 roll=0.767
+[084] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[084] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.392 roll=0.625
+[085] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[085] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.374 roll=0.102
+[085] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Rigoberto Cabral line=3 duel=20.27 corte=-1.04
+[085] FINAL Real Sporting Centro Gallego | Rogério Freitas fam=3 duel=-7.49 on_target=0.579 goal=0.171
+[085] FINAL Rogério Freitas: no alvo sem gol (roll=0.934)
+[086] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[086] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.388 roll=0.431
+[087] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[087] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.374 roll=0.626
+[088] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[088] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.374 roll=0.110
+[088] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Rigoberto Cabral line=4 duel=-17.93 corte=-1.04
+[088] JOGADA falhou: Rigoberto Cabral cortou
+[089] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[089] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.374 roll=0.530
+[090] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[090] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.374 roll=0.887
+[091] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[091] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.388 roll=0.535
+[092] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[092] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.388 roll=0.026
+[092] JOGADA Modesto Football Club | Rigoberto Cabral x Rogério Freitas line=4 duel=13.91 corte=-1.70
+[092] FINAL Modesto Football Club | Rigoberto Cabral fam=5 duel=-42.71 on_target=0.557 goal=0.132
+[092] FINAL Rigoberto Cabral: fora/alvo perdido (roll=0.939)
+[093] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[093] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.374 roll=0.328
+[093] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Margarido Caminha line=3 duel=-7.24 corte=-1.04
+[093] JOGADA falhou: Margarido Caminha cortou
+[094] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[094] BUILD Modesto Football Club vs Real Sporting Centro Gallego prob=0.388 roll=0.164
+[094] JOGADA Modesto Football Club | Joscelino Santana x Gustavo Piocó line=4 duel=17.61 corte=-1.70
+[094] FINAL Modesto Football Club | Aldonço Canavieira fam=5 duel=-9.03 on_target=0.558 goal=0.146
+[094] FINAL Aldonço Canavieira: no alvo sem gol (roll=0.611)
+[095] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[095] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.374 roll=0.091
+[095] JOGADA Real Sporting Centro Gallego | Felipe Thiago x Margarido Caminha line=3 duel=30.80 corte=-1.04
+[095] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Rigoberto Cabral line=4 duel=24.94 corte=-1.04
+[095] FINAL Real Sporting Centro Gallego | Costa Cavalcanti fam=1 duel=5.36 on_target=0.639 goal=0.229
+[095] FINAL Costa Cavalcanti: no alvo sem gol (roll=0.872)
+[096] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[096] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.374 roll=0.411
+[097] posse=Real Sporting Centro Gallego | placar Modesto Football Club 1 x 1 Real Sporting Centro Gallego
+[097] BUILD Real Sporting Centro Gallego vs Modesto Football Club prob=0.374 roll=0.273
+[097] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Paranhos Pedrosa line=3 duel=56.48 corte=-1.04
+[097] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Célio Dimas line=4 duel=-14.42 corte=-1.04
+[097] JOGADA falhou: Célio Dimas cortou

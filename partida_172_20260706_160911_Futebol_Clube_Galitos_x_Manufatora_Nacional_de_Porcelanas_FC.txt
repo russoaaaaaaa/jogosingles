@@ -1,0 +1,315 @@
+Partida #172
+Data: 1912-01-16
+Mandante: Futebol Clube Galitos
+Visitante: Manufatora Nacional de Porcelanas FC
+Placar: 3 x 2
+Seed: -
+Estádio: Vaz do Engenho
+Clima: Chuva leve
+Placar tempo normal: 3 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Futebol Clube Galitos x Manufatora Nacional de Porcelanas FC | estádio=Vaz do Engenho | clima=Chuva leve | seed=- | perfil=caotico | pressão=Normal · peso 9/10
+[001] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[001] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.369 roll=0.886
+[002] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[002] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.290 roll=0.923
+[003] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[003] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.290 roll=0.740
+[004] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[004] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.290 roll=0.325
+[005] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[005] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.290 roll=0.386
+[006] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[006] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.369 roll=0.969
+[007] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[007] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.369 roll=0.950
+[008] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[008] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.290 roll=0.027
+[008] JOGADA Futebol Clube Galitos | Rui Paim x Râdamas Seixas line=4 duel=14.93 corte=-1.13
+[008] JOGADA Futebol Clube Galitos | Telmo Lousada x Betino Passos line=4 duel=-1.67 corte=-1.13
+[009] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[009] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.369 roll=0.520
+[010] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[010] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.369 roll=0.162
+[010] JOGADA Manufatora Nacional de Porcelanas FC | Porcelano x Telmo Lousada line=3 duel=21.90 corte=-1.30
+[010] FINAL Manufatora Nacional de Porcelanas FC | Manufator de Gols fam=5 duel=-62.24 on_target=0.653 goal=0.145
+[010] FINAL Manufator de Gols: fora/alvo perdido (roll=0.655)
+[011] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[011] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.399 roll=0.656
+[012] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[012] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.399 roll=0.845
+[013] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[013] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.399 roll=0.990
+[014] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[014] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.314 roll=0.043
+[014] JOGADA Futebol Clube Galitos | Poti Malaquias x Barão Sapateiro line=3 duel=55.70 corte=-1.13
+[014] FINAL Futebol Clube Galitos | Bruce Moleiro fam=1 duel=-7.35 on_target=0.818 goal=0.292
+[014] FINAL Bruce Moleiro: fora/alvo perdido (roll=0.977)
+[015] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[015] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.314 roll=0.658
+[016] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[016] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.399 roll=0.423
+[017] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[017] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.399 roll=0.516
+[017] FINAL Manufatora Nacional de Porcelanas FC | Manufator de Gols fam=5 duel=8.76 on_target=0.710 goal=0.194
+[017] FINAL Manufator de Gols: no alvo sem gol (roll=0.398)
+[018] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[018] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.399 roll=0.100
+[018] JOGADA Manufatora Nacional de Porcelanas FC | Barão Sapateiro x Galito line=4 duel=19.83 corte=-1.30
+[018] FINAL Manufatora Nacional de Porcelanas FC | Manufator de Gols fam=5 duel=9.05 on_target=0.710 goal=0.194
+[018] FINAL Manufator de Gols: no alvo sem gol (roll=0.498)
+[019] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[019] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.314 roll=0.929
+[020] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[020] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.314 roll=0.542
+[021] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[021] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.337 roll=0.769
+[022] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[022] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.429 roll=0.112
+[022] JOGADA Manufatora Nacional de Porcelanas FC | Hamilton Madureira x Xenócrates Alves line=3 duel=13.09 corte=-1.30
+[022] FINAL Manufatora Nacional de Porcelanas FC | Manufator de Gols fam=5 duel=7.15 on_target=0.747 goal=0.199
+[022] FINAL Manufator de Gols: no alvo sem gol (roll=0.524)
+[023] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[023] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.429 roll=0.040
+[023] JOGADA Manufatora Nacional de Porcelanas FC | Porcelano x Galito line=2 duel=80.28 corte=-1.30
+[023] FINAL Manufatora Nacional de Porcelanas FC | Firmo Machado fam=5 duel=-14.10 on_target=0.740 goal=0.185
+[023] FINAL Firmo Machado: no alvo sem gol (roll=0.573)
+[024] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[024] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.429 roll=0.263
+[024] JOGADA Manufatora Nacional de Porcelanas FC | Râdamas Seixas x Poti Malaquias line=3 duel=-21.66 corte=-1.30
+[024] JOGADA falhou: Poti Malaquias cortou
+[025] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[025] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.429 roll=0.888
+[026] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[026] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.337 roll=0.102
+[026] JOGADA Futebol Clube Galitos | Rui Paim x Betino Passos line=3 duel=0.60 corte=-1.13
+[026] FINAL Futebol Clube Galitos | Bruce Moleiro fam=1 duel=-5.92 on_target=0.861 goal=0.302
+[026] FINAL Bruce Moleiro: no alvo sem gol (roll=0.345)
+[027] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 0 x 0 Manufatora Nacional de Porcelanas FC
+[027] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.429 roll=0.263
+[027] JOGADA Manufatora Nacional de Porcelanas FC | Barão Sapateiro x Bruce Moleiro line=3 duel=9.72 corte=-1.30
+[027] FINAL Manufatora Nacional de Porcelanas FC | Firmo Machado fam=5 duel=-15.25 on_target=0.740 goal=0.184
+[027] FINAL Firmo Machado: GOL subtipo=FALTA (roll=0.149)
+[028] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 1 Manufatora Nacional de Porcelanas FC
+[028] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.384 roll=0.161
+[028] JOGADA Futebol Clube Galitos | Pajeú Bottura x Betino Passos line=4 duel=-62.72 corte=-1.13
+[028] JOGADA falhou: Betino Passos cortou
+[029] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 1 Manufatora Nacional de Porcelanas FC
+[029] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.384 roll=0.132
+[029] JOGADA Futebol Clube Galitos | Rui Paim x Betino Passos line=4 duel=2.22 corte=-1.13
+[029] JOGADA Futebol Clube Galitos | Poti Malaquias x Porcelano line=5 duel=20.97 corte=-1.38
+[029] FINAL Futebol Clube Galitos | Teffé Cabrera fam=1 duel=-10.78 on_target=0.852 goal=0.295
+[029] FINAL Teffé Cabrera: GOL subtipo=CHUTE (roll=0.257)
+[030] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[030] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.337 roll=0.747
+[031] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[031] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.337 roll=0.478
+[032] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[032] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.337 roll=0.654
+[032] FINAL Futebol Clube Galitos | Xenócrates Alves fam=5 duel=-28.68 on_target=0.727 goal=0.160
+[032] FINAL Xenócrates Alves: fora/alvo perdido (roll=0.805)
+[033] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[033] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.432 roll=0.647
+[034] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[034] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.337 roll=0.809
+[035] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[035] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.432 roll=0.876
+[036] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[036] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.337 roll=0.693
+[037] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[037] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.337 roll=0.327
+[037] JOGADA Futebol Clube Galitos | Pajeú Bottura x Alamiro Morais line=3 duel=-13.27 corte=-1.12
+[037] JOGADA falhou: Alamiro Morais cortou
+[038] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[038] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.432 roll=0.506
+[039] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[039] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.432 roll=0.109
+[039] JOGADA Manufatora Nacional de Porcelanas FC | Betino Passos x Pajeú Bottura line=3 duel=-16.66 corte=-1.30
+[039] JOGADA falhou: Pajeú Bottura cortou
+[040] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[040] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.432 roll=0.517
+[041] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[041] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.432 roll=0.991
+[042] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[042] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.432 roll=0.493
+[043] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[043] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.337 roll=0.566
+[044] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[044] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.337 roll=0.080
+[044] JOGADA Futebol Clube Galitos | Xenócrates Alves x Alamiro Morais line=4 duel=-21.97 corte=-1.12
+[044] JOGADA falhou: Alamiro Morais cortou
+[045] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[045] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.432 roll=0.355
+[045] JOGADA Manufatora Nacional de Porcelanas FC | Alamiro Morais x Roriz Lanza line=3 duel=-1.96 corte=-1.30
+[045] JOGADA falhou: Roriz Lanza cortou
+[046] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[046] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.314 roll=0.370
+[047] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[047] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.402 roll=0.732
+[048] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[048] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.402 roll=0.041
+[048] JOGADA Manufatora Nacional de Porcelanas FC | Firmo Machado x Florival Ottoni line=3 duel=-11.88 corte=-1.30
+[048] JOGADA falhou: Florival Ottoni cortou
+[049] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[049] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.314 roll=0.452
+[049] FINAL Futebol Clube Galitos | Pajeú Bottura fam=5 duel=-26.14 on_target=0.689 goal=0.156
+[049] FINAL Pajeú Bottura: no alvo sem gol (roll=0.323)
+[050] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[050] SUB Futebol Clube Galitos: saiu Bruce Moleiro (SA) | entrou Uru Mina (PD) | subs=1/5
+[050] SUB Manufatora Nacional de Porcelanas FC: saiu Firmo Machado (CA) | entrou Silvestre Texeira (CA) | subs=1/5
+[050] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.386 roll=0.439
+[051] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[051] SUB Futebol Clube Galitos: saiu Xenócrates Alves (MC) | entrou Erico Bissoli (VOL) | subs=2/5
+[051] SUB Manufatora Nacional de Porcelanas FC: saiu Manufator de Gols (SA) | entrou Didaco Dias (MA) | subs=2/5
+[051] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.324 roll=0.996
+[052] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[052] SUB Futebol Clube Galitos: saiu Galito (CA) | entrou Ildo Gatti (PE) | subs=3/5
+[052] SUB Manufatora Nacional de Porcelanas FC: saiu Râdamas Seixas (PE) | entrou Héber Álvares (PE) | subs=3/5
+[052] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.353 roll=0.805
+[053] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Manufatora Nacional de Porcelanas FC
+[053] SUB Futebol Clube Galitos: saiu Rui Paim (MC) | entrou Franklim Ladeira (VOL) | subs=4/5
+[053] SUB Manufatora Nacional de Porcelanas FC: saiu Betino Passos (LE) | entrou Absalão de Castro (LD) | subs=4/5
+[053] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.311 roll=0.033
+[053] JOGADA Futebol Clube Galitos | Roriz Lanza x Porcelano line=2 duel=22.60 corte=-1.11
+[053] FINAL Futebol Clube Galitos | Ildo Gatti fam=1 duel=9.48 on_target=0.820 goal=0.302
+[053] FINAL Ildo Gatti: GOL subtipo=CHUTE (roll=0.003)
+[054] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 2 x 1 Manufatora Nacional de Porcelanas FC
+[054] SUB Futebol Clube Galitos: saiu Teffé Cabrera (ME) | entrou Mamede Garcia (ME) | subs=5/5
+[054] SUB Manufatora Nacional de Porcelanas FC: saiu Barão Sapateiro (VOL) | entrou Torquato Custódio (ZAG) | subs=5/5
+[054] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.405 roll=0.272
+[054] JOGADA Manufatora Nacional de Porcelanas FC | Didaco Dias x Roriz Lanza line=4 duel=3.61 corte=-1.30
+[054] FINAL Manufatora Nacional de Porcelanas FC | Didaco Dias fam=5 duel=2.03 on_target=0.714 goal=0.196
+[054] FINAL Didaco Dias: no alvo sem gol (roll=0.947)
+[055] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 2 x 1 Manufatora Nacional de Porcelanas FC
+[055] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.313 roll=0.704
+[056] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 2 x 1 Manufatora Nacional de Porcelanas FC
+[056] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.336 roll=0.894
+[057] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 2 x 1 Manufatora Nacional de Porcelanas FC
+[057] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.436 roll=0.466
+[058] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 2 x 1 Manufatora Nacional de Porcelanas FC
+[058] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.436 roll=0.579
+[059] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 2 x 1 Manufatora Nacional de Porcelanas FC
+[059] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.336 roll=0.216
+[059] JOGADA Futebol Clube Galitos | Erico Bissoli x Válter Brito line=3 duel=28.69 corte=-1.30
+[059] FINAL Futebol Clube Galitos | Telmo Lousada fam=1 duel=-12.01 on_target=0.858 goal=0.297
+[059] FINAL Telmo Lousada: GOL subtipo=CHUTE (roll=0.064)
+[060] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[060] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.331 roll=0.393
+[061] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[061] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.331 roll=0.520
+[061] FINAL Futebol Clube Galitos | Pajeú Bottura fam=5 duel=-25.05 on_target=0.703 goal=0.154
+[061] FINAL Pajeú Bottura: fora/alvo perdido (roll=0.933)
+[062] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[062] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.331 roll=0.042
+[062] JOGADA Futebol Clube Galitos | Poti Malaquias x Alamiro Morais line=3 duel=-7.00 corte=-1.30
+[062] JOGADA falhou: Alamiro Morais cortou
+[063] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[063] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.444 roll=0.120
+[063] JOGADA Manufatora Nacional de Porcelanas FC | Marino Moreira x Florival Ottoni line=3 duel=7.29 corte=-1.30
+[063] FINAL Manufatora Nacional de Porcelanas FC | Didaco Dias fam=5 duel=-41.62 on_target=0.750 goal=0.180
+[063] FINAL Didaco Dias: fora/alvo perdido (roll=0.775)
+[064] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[064] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.444 roll=0.192
+[064] JOGADA Manufatora Nacional de Porcelanas FC | Alamiro Morais x Uru Mina line=4 duel=0.99 corte=-1.30
+[064] JOGADA Manufatora Nacional de Porcelanas FC | Marino Moreira x Erico Bissoli line=4 duel=-17.59 corte=-1.30
+[065] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[065] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.331 roll=0.885
+[066] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[066] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.444 roll=0.193
+[066] JOGADA Manufatora Nacional de Porcelanas FC | Alamiro Morais x Franklim Ladeira line=3 duel=-10.36 corte=-1.30
+[066] JOGADA falhou: Franklim Ladeira cortou
+[067] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[067] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.444 roll=0.010
+[067] JOGADA Manufatora Nacional de Porcelanas FC | Marino Moreira x Mamede Garcia line=3 duel=-15.49 corte=-1.30
+[067] JOGADA falhou: Mamede Garcia cortou
+[068] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[068] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.444 roll=0.413
+[068] JOGADA Manufatora Nacional de Porcelanas FC | Porcelano x Pajeú Bottura line=4 duel=-10.97 corte=-1.30
+[068] JOGADA falhou: Pajeú Bottura cortou
+[069] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[069] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.444 roll=0.095
+[069] JOGADA Manufatora Nacional de Porcelanas FC | Porcelano x Florival Ottoni line=2 duel=14.65 corte=-1.30
+[069] FINAL Manufatora Nacional de Porcelanas FC | Alamiro Morais fam=5 duel=-6.07 on_target=0.743 goal=0.197
+[069] FINAL Alamiro Morais: fora/alvo perdido (roll=0.776)
+[070] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[070] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.444 roll=0.846
+[071] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[071] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.331 roll=0.948
+[072] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[072] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.444 roll=0.917
+[073] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[073] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.444 roll=0.697
+[074] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[074] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.444 roll=0.671
+[075] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[075] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.444 roll=0.768
+[076] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[076] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.321 roll=0.831
+[077] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[077] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.479 roll=0.390
+[077] JOGADA Manufatora Nacional de Porcelanas FC | Torquato Custódio x Poti Malaquias line=2 duel=-7.10 corte=-1.30
+[077] JOGADA falhou: Poti Malaquias cortou
+[078] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[078] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.479 roll=0.782
+[079] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[079] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.321 roll=0.383
+[080] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 1 Manufatora Nacional de Porcelanas FC
+[080] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.479 roll=0.419
+[080] JOGADA Manufatora Nacional de Porcelanas FC | Alamiro Morais x Pajeú Bottura line=2 duel=-0.07 corte=-1.30
+[080] FINAL Manufatora Nacional de Porcelanas FC | Silvestre Texeira fam=3 duel=-11.38 on_target=0.854 goal=0.266
+[080] FINAL Silvestre Texeira: GOL subtipo=CABECA (roll=0.161)
+[081] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[081] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.474 roll=0.143
+[081] JOGADA Manufatora Nacional de Porcelanas FC | Válter Brito x Florival Ottoni line=3 duel=19.82 corte=-1.30
+[081] FINAL Manufatora Nacional de Porcelanas FC | Alamiro Morais fam=5 duel=-8.46 on_target=0.794 goal=0.204
+[081] FINAL Alamiro Morais: no alvo sem gol (roll=0.483)
+[082] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[082] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.474 roll=0.721
+[083] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[083] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.474 roll=0.830
+[084] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[084] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.324 roll=0.269
+[084] JOGADA Futebol Clube Galitos | Uru Mina x Alamiro Morais line=3 duel=4.74 corte=-1.30
+[084] FINAL Futebol Clube Galitos | Telmo Lousada fam=3 duel=-22.28 on_target=0.751 goal=0.225
+[084] FINAL Telmo Lousada: fora/alvo perdido (roll=0.970)
+[085] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[085] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.580 roll=0.439
+[085] JOGADA Manufatora Nacional de Porcelanas FC | Didaco Dias x Telmo Lousada line=3 duel=10.15 corte=-1.30
+[085] FINAL Manufatora Nacional de Porcelanas FC | Didaco Dias fam=5 duel=-52.48 on_target=0.916 goal=0.190
+[085] FINAL Didaco Dias: no alvo sem gol (roll=0.889)
+[086] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[086] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.580 roll=0.609
+[087] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[087] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.580 roll=0.226
+[087] JOGADA Manufatora Nacional de Porcelanas FC | Silvestre Texeira x Poti Malaquias line=2 duel=-15.75 corte=-1.30
+[087] JOGADA falhou: Poti Malaquias cortou
+[088] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[088] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.324 roll=0.357
+[089] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[089] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.580 roll=0.497
+[089] JOGADA Manufatora Nacional de Porcelanas FC | Silvestre Texeira x Pajeú Bottura line=3 duel=-14.76 corte=-1.30
+[089] JOGADA falhou: Pajeú Bottura cortou
+[090] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[090] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.580 roll=0.668
+[091] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[091] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.580 roll=0.136
+[091] JOGADA Manufatora Nacional de Porcelanas FC | Silvestre Texeira x Mamede Garcia line=3 duel=0.70 corte=-1.30
+[091] FINAL Manufatora Nacional de Porcelanas FC | Alamiro Morais fam=5 duel=-50.59 on_target=0.904 goal=0.187
+[091] FINAL Alamiro Morais: no alvo sem gol (roll=0.415)
+[092] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[092] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.580 roll=0.752
+[093] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[093] BUILD Futebol Clube Galitos vs Manufatora Nacional de Porcelanas FC prob=0.324 roll=0.402
+[094] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[094] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.580 roll=0.550
+[094] JOGADA Manufatora Nacional de Porcelanas FC | Torquato Custódio x Ildo Gatti line=4 duel=-0.80 corte=-1.30
+[094] JOGADA Manufatora Nacional de Porcelanas FC | Alamiro Morais x Mamede Garcia line=4 duel=3.74 corte=-1.30
+[094] JOGADA Manufatora Nacional de Porcelanas FC | Torquato Custódio x Uru Mina line=5 duel=24.66 corte=-1.55
+[094] FINAL Manufatora Nacional de Porcelanas FC | Porcelano fam=1 duel=5.32 on_target=0.920 goal=0.344
+[094] FINAL Porcelano: no alvo sem gol (roll=0.628)
+[095] posse=Manufatora Nacional de Porcelanas FC | placar Futebol Clube Galitos 3 x 2 Manufatora Nacional de Porcelanas FC
+[095] BUILD Manufatora Nacional de Porcelanas FC vs Futebol Clube Galitos prob=0.580 roll=0.694

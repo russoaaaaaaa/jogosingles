@@ -1,0 +1,299 @@
+Partida #164
+Data: 1912-01-14
+Mandante: Associação Athletica Internacional
+Visitante: Palmeiras Atlético Clube
+Placar: 0 x 0
+Seed: -
+Estádio: Estádio Carneiro Leão
+Clima: Chuva forte
+Placar tempo normal: 0 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Associação Athletica Internacional x Palmeiras Atlético Clube | estádio=Estádio Carneiro Leão | clima=Chuva forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[001] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.308 roll=0.121
+[001] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Aquil Cardoso line=3 duel=89.49 corte=-1.30
+[001] JOGADA Associação Athletica Internacional | Leo Basbaum x Xavier Pascoal line=4 duel=-12.06 corte=-1.30
+[001] JOGADA falhou: Xavier Pascoal cortou
+[002] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[002] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.251 roll=0.463
+[003] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[003] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.251 roll=0.749
+[004] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[004] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.251 roll=0.283
+[005] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[005] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.251 roll=0.892
+[006] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[006] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.308 roll=0.538
+[007] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[007] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.251 roll=0.612
+[008] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[008] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.308 roll=0.281
+[008] JOGADA Associação Athletica Internacional | Lorenzo Silva x Amadeus Carrico line=2 duel=65.78 corte=-1.30
+[008] JOGADA Associação Athletica Internacional | Horácio Canhão x Elísio Albergaria line=4 duel=36.77 corte=-1.30
+[008] JOGADA Associação Athletica Internacional | Astrojildo x Amadeus Carrico line=5 duel=34.32 corte=-1.55
+[008] FINAL Associação Athletica Internacional | Gio Occhetto fam=1 duel=-4.21 on_target=0.598 goal=0.216
+[008] FINAL Gio Occhetto: fora/alvo perdido (roll=0.736)
+[009] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[009] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.251 roll=0.512
+[010] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[010] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.308 roll=0.973
+[011] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[011] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.333 roll=0.741
+[012] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[012] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.333 roll=0.409
+[013] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[013] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.333 roll=0.354
+[014] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[014] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.333 roll=0.445
+[015] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[015] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.333 roll=0.772
+[016] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[016] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.333 roll=0.969
+[017] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[017] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.333 roll=0.418
+[018] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[018] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.272 roll=0.432
+[019] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[019] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.333 roll=0.428
+[020] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[020] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.272 roll=0.796
+[021] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[021] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.292 roll=0.488
+[022] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[022] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.292 roll=0.123
+[022] JOGADA Palmeiras Atlético Clube | Xavier Pascoal x Astrojildo line=3 duel=-20.73 corte=-1.30
+[022] JOGADA falhou: Astrojildo cortou
+[023] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[023] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.358 roll=0.403
+[024] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[024] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.292 roll=0.117
+[024] JOGADA Palmeiras Atlético Clube | Hermenegildo Coimbra x Leo Basbaum line=2 duel=33.46 corte=-1.30
+[024] FINAL Palmeiras Atlético Clube | Caetano Modesto fam=3 duel=-29.49 on_target=0.611 goal=0.166
+[024] FINAL Caetano Modesto: fora/alvo perdido (roll=0.614)
+[025] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[025] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.292 roll=0.215
+[025] JOGADA Palmeiras Atlético Clube | Xavier Pascoal x Lorenzo Silva line=3 duel=-21.35 corte=-1.30
+[025] JOGADA falhou: Lorenzo Silva cortou
+[026] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[026] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.358 roll=0.045
+[026] JOGADA Associação Athletica Internacional | Lorenzo Silva x Octaviano Tomás line=3 duel=-7.10 corte=-1.30
+[027] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[027] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.292 roll=0.546
+[028] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[028] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.358 roll=0.694
+[029] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[029] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.358 roll=0.425
+[030] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[030] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.292 roll=0.447
+[031] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[031] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.292 roll=0.162
+[031] JOGADA Palmeiras Atlético Clube | Aquil Cardoso x Christiano Cordeiro line=3 duel=22.39 corte=-1.30
+[031] FINAL Palmeiras Atlético Clube | Elísio Albergaria fam=1 duel=-18.72 on_target=0.672 goal=0.224
+[031] FINAL Elísio Albergaria: no alvo sem gol (roll=0.350)
+[032] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[032] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.358 roll=0.765
+[033] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[033] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.292 roll=0.426
+[034] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[034] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.358 roll=0.204
+[034] JOGADA Associação Athletica Internacional | Horácio Canhão x Caetano Modesto line=3 duel=-8.33 corte=-1.30
+[034] JOGADA falhou: Caetano Modesto cortou
+[035] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[035] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.358 roll=0.588
+[036] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[036] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.292 roll=0.858
+[037] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[037] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.358 roll=0.347
+[037] JOGADA Associação Athletica Internacional | Gio Occhetto x Octaviano Tomás line=3 duel=-19.06 corte=-1.30
+[038] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[038] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.358 roll=0.023
+[038] JOGADA Associação Athletica Internacional | Didinho x Hermenegildo Coimbra line=2 duel=68.35 corte=-1.30
+[038] JOGADA Associação Athletica Internacional | Leo Basbaum x Octaviano Tomás line=5 duel=51.25 corte=-2.05
+[038] FINAL Associação Athletica Internacional | Leo Basbaum fam=1 duel=-17.14 on_target=0.680 goal=0.233
+[038] FINAL Leo Basbaum: fora/alvo perdido (roll=0.948)
+[039] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[039] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.358 roll=0.273
+[039] JOGADA Associação Athletica Internacional | Horácio Canhão x Xavier Pascoal line=2 duel=-5.96 corte=-1.30
+[039] JOGADA falhou: Xavier Pascoal cortou
+[040] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[040] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.358 roll=0.082
+[040] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Hermenegildo Coimbra line=4 duel=19.52 corte=-1.30
+[040] JOGADA Associação Athletica Internacional | Alceo Panicucci x Aquil Cardoso line=4 duel=16.13 corte=-1.30
+[040] FINAL Associação Athletica Internacional | Gio Occhetto fam=3 duel=-9.51 on_target=0.616 goal=0.180
+[040] FINAL Gio Occhetto: fora/alvo perdido (roll=0.641)
+[041] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[041] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.358 roll=0.350
+[041] JOGADA Associação Athletica Internacional | Berno Rossi x Elísio Albergaria line=3 duel=19.24 corte=-1.30
+[041] FINAL Associação Athletica Internacional | Leo Basbaum fam=1 duel=-13.81 on_target=0.680 goal=0.234
+[041] FINAL Leo Basbaum: fora/alvo perdido (roll=0.791)
+[042] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[042] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.358 roll=0.746
+[043] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[043] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.292 roll=0.269
+[043] JOGADA Palmeiras Atlético Clube | Octaviano Tomás x Gio Occhetto line=3 duel=14.08 corte=-1.30
+[043] FINAL Palmeiras Atlético Clube | Amadeus Carrico fam=1 duel=-9.63 on_target=0.674 goal=0.229
+[043] FINAL Amadeus Carrico: no alvo sem gol (roll=0.382)
+[044] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[044] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.292 roll=0.712
+[045] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[045] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.292 roll=0.790
+[046] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[046] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.333 roll=0.100
+[046] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Octaviano Tomás line=4 duel=-13.33 corte=-1.30
+[047] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[047] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.333 roll=0.834
+[048] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[048] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.333 roll=0.517
+[049] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[049] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.272 roll=0.037
+[049] JOGADA Palmeiras Atlético Clube | Vladimiro Bandeira x Astrojildo line=3 duel=-8.86 corte=-1.30
+[049] JOGADA falhou: Astrojildo cortou
+[050] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[050] SUB Associação Athletica Internacional: saiu Gio Occhetto (CA) | entrou Elizeu Alagoano (CA) | subs=1/5
+[050] SUB Palmeiras Atlético Clube: saiu Amadeus Carrico (CA) | entrou Mílton Albuquerque (CA) | subs=1/5
+[050] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.348 roll=0.290
+[050] JOGADA Associação Athletica Internacional | Leo Basbaum x Xavier Pascoal line=4 duel=-14.94 corte=-1.70
+[050] JOGADA falhou: Xavier Pascoal cortou
+[051] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[051] SUB Associação Athletica Internacional: saiu Leo Basbaum (CA) | entrou Ítalinho (CA) | subs=2/5
+[051] SUB Palmeiras Atlético Clube: saiu Elísio Albergaria (SA) | entrou Azuil Moura (SA) | subs=2/5
+[051] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.250 roll=0.406
+[052] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[052] SUB Associação Athletica Internacional: saiu Horácio Canhão (MA) | entrou Arythoreon (MA) | subs=3/5
+[052] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.331 roll=0.977
+[052] FINAL Associação Athletica Internacional | Astrojildo fam=5 duel=-59.61 on_target=0.560 goal=0.126
+[052] FINAL Astrojildo: no alvo sem gol (roll=0.177)
+[053] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[053] SUB Palmeiras Atlético Clube: saiu Hermenegildo Coimbra (MA) | entrou Dorico Guedes (MA) | subs=3/5
+[053] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.250 roll=0.884
+[054] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[054] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.332 roll=0.394
+[055] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[055] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.250 roll=0.837
+[056] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[056] SUB Associação Athletica Internacional: saiu Berno Rossi (ZAG) | entrou Fabrício Leão (ZAG) | subs=4/5
+[056] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.270 roll=0.657
+[057] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[057] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.357 roll=0.434
+[058] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[058] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.357 roll=0.379
+[059] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[059] SUB Palmeiras Atlético Clube: saiu Aquil Cardoso (AE) | entrou Mirco Henriques (LE) | subs=4/5
+[059] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.353 roll=0.134
+[059] JOGADA Associação Athletica Internacional | Arythoreon x Xavier Pascoal line=3 duel=17.04 corte=-1.70
+[059] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Azuil Moura line=4 duel=-55.02 corte=-1.70
+[059] JOGADA falhou: Azuil Moura cortou
+[060] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[060] SUB Palmeiras Atlético Clube: saiu Xavier Pascoal (ZAG) | entrou Vili Cardoso (ZAG) | subs=5/5
+[060] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.372 roll=0.540
+[061] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[061] SUB Associação Athletica Internacional: saiu Christiano Cordeiro (AD) | entrou Rodolfo Freire (AD) | subs=5/5
+[061] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.281 roll=0.973
+[062] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[062] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.281 roll=0.996
+[063] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[063] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.361 roll=0.126
+[063] JOGADA Associação Athletica Internacional | Alceo Panicucci x Octaviano Tomás line=4 duel=-10.01 corte=-1.70
+[063] JOGADA falhou: Octaviano Tomás cortou
+[064] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[064] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.361 roll=0.944
+[065] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[065] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.361 roll=0.916
+[066] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[066] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.361 roll=0.132
+[066] JOGADA Associação Athletica Internacional | Arythoreon x Vladimiro Bandeira line=3 duel=55.05 corte=-1.70
+[066] JOGADA Associação Athletica Internacional | Lorenzo Silva x Mílton Albuquerque line=4 duel=-4.29 corte=-1.70
+[066] JOGADA falhou: Mílton Albuquerque cortou
+[067] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[067] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.281 roll=0.848
+[068] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[068] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.365 roll=0.833
+[069] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[069] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.281 roll=0.013
+[069] JOGADA Palmeiras Atlético Clube | Octaviano Tomás x Rodolfo Freire line=4 duel=-86.54 corte=-1.10
+[069] JOGADA falhou: Rodolfo Freire cortou
+[070] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[070] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.365 roll=0.050
+[070] JOGADA Associação Athletica Internacional | Fabrício Leão x Vladimiro Bandeira line=3 duel=-9.20 corte=-1.70
+[070] JOGADA falhou: Vladimiro Bandeira cortou
+[071] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[071] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.365 roll=0.014
+[071] JOGADA Associação Athletica Internacional | Fabrício Leão x Mílton Albuquerque line=2 duel=53.99 corte=-1.70
+[071] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Oto Dantas line=5 duel=52.33 corte=-1.95
+[071] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Caetano Modesto line=5 duel=-2.84 corte=-1.95
+[071] JOGADA falhou: Caetano Modesto cortou
+[072] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[072] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.281 roll=0.966
+[073] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[073] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.281 roll=0.573
+[074] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[074] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.365 roll=0.236
+[074] JOGADA Associação Athletica Internacional | Astrojildo x Dorico Guedes line=3 duel=-19.44 corte=-1.70
+[074] JOGADA falhou: Dorico Guedes cortou
+[075] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[075] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.365 roll=0.252
+[075] JOGADA Associação Athletica Internacional | Astrojildo x Vladimiro Bandeira line=4 duel=-44.40 corte=-1.70
+[075] JOGADA falhou: Vladimiro Bandeira cortou
+[076] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[076] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.289 roll=0.105
+[076] JOGADA Palmeiras Atlético Clube | Dorico Guedes x Didinho line=4 duel=15.69 corte=-1.06
+[076] JOGADA Palmeiras Atlético Clube | Oto Dantas x Lorenzo Silva line=5 duel=20.17 corte=-1.31
+[076] JOGADA Palmeiras Atlético Clube | Caetano Modesto x Astrojildo line=5 duel=53.24 corte=-1.31
+[076] FINAL Palmeiras Atlético Clube | Caetano Modesto fam=1 duel=8.15 on_target=0.689 goal=0.239
+[076] FINAL Caetano Modesto: no alvo sem gol (roll=0.419)
+[077] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[077] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.376 roll=0.757
+[078] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[078] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.376 roll=0.358
+[078] JOGADA Associação Athletica Internacional | Elizeu Alagoano x Dorico Guedes line=3 duel=4.25 corte=-1.70
+[078] FINAL Associação Athletica Internacional | Arythoreon fam=5 duel=7.60 on_target=0.605 goal=0.163
+[078] FINAL Arythoreon: no alvo sem gol (roll=0.253)
+[079] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[079] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.376 roll=0.024
+[079] JOGADA Associação Athletica Internacional | Alceo Panicucci x Mílton Albuquerque line=3 duel=23.13 corte=-1.70
+[079] JOGADA Associação Athletica Internacional | Astrojildo x Albino Rocha line=4 duel=-34.89 corte=-1.70
+[079] JOGADA falhou: Albino Rocha cortou
+[080] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[080] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.289 roll=0.882
+[080] FINAL Palmeiras Atlético Clube | Dorico Guedes fam=5 duel=10.75 on_target=0.592 goal=0.144
+[080] FINAL Dorico Guedes: no alvo sem gol (roll=0.876)
+[081] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[081] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.289 roll=0.670
+[082] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[082] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.289 roll=0.281
+[082] JOGADA Palmeiras Atlético Clube | Vili Cardoso x Alceo Panicucci line=4 duel=19.44 corte=-1.06
+[082] JOGADA Palmeiras Atlético Clube | Azuil Moura x Alceo Panicucci line=4 duel=2.42 corte=-1.06
+[082] JOGADA Palmeiras Atlético Clube | Azuil Moura x Alceo Panicucci line=5 duel=29.67 corte=-1.81
+[082] FINAL Palmeiras Atlético Clube | Azuil Moura fam=1 duel=-5.98 on_target=0.692 goal=0.235
+[082] FINAL Azuil Moura: no alvo sem gol (roll=0.729)
+[083] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[083] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.289 roll=0.598
+[084] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[084] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.289 roll=0.057
+[084] JOGADA Palmeiras Atlético Clube | Octaviano Tomás x Abílio Boca-torta line=3 duel=13.64 corte=-1.06
+[084] FINAL Palmeiras Atlético Clube | Dorico Guedes fam=1 duel=8.83 on_target=0.693 goal=0.242
+[084] FINAL Dorico Guedes: fora/alvo perdido (roll=0.972)
+[085] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[085] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.305 roll=0.813
+[086] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[086] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.305 roll=0.378
+[087] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[087] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.305 roll=0.728
+[088] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[088] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.305 roll=0.914
+[089] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[089] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.305 roll=0.289
+[089] JOGADA Palmeiras Atlético Clube | Azuil Moura x Astrojildo line=3 duel=-9.60 corte=-1.06
+[089] JOGADA falhou: Astrojildo cortou
+[090] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[090] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.305 roll=0.878
+[091] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[091] BUILD Associação Athletica Internacional vs Palmeiras Atlético Clube prob=0.396 roll=0.746
+[092] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[092] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.305 roll=0.790
+[093] posse=Palmeiras Atlético Clube | placar Associação Athletica Internacional 0 x 0 Palmeiras Atlético Clube
+[093] BUILD Palmeiras Atlético Clube vs Associação Athletica Internacional prob=0.305 roll=0.354

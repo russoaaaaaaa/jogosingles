@@ -1,0 +1,356 @@
+Partida #154
+Data: 1912-01-14
+Mandante: Pinto United
+Visitante: Futebol Clube Galitos
+Placar: 1 x 0
+Seed: -
+Estádio: Pintão
+Clima: Calor forte
+Placar tempo normal: 1 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Pinto United x Futebol Clube Galitos | estádio=Pintão | clima=Calor forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[001] BUILD Futebol Clube Galitos vs Pinto United prob=0.216 roll=0.826
+[002] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[002] BUILD Pinto United vs Futebol Clube Galitos prob=0.355 roll=0.157
+[002] JOGADA Pinto United | Mairã Coxinha x Bruce Moleiro line=4 duel=29.60 corte=-1.13
+[002] JOGADA Pinto United | Elisson Gusmão x Florival Ottoni line=4 duel=-5.42 corte=-1.13
+[003] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[003] BUILD Futebol Clube Galitos vs Pinto United prob=0.216 roll=0.884
+[004] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[004] BUILD Pinto United vs Futebol Clube Galitos prob=0.355 roll=0.938
+[005] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[005] BUILD Futebol Clube Galitos vs Pinto United prob=0.216 roll=0.380
+[006] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[006] BUILD Pinto United vs Futebol Clube Galitos prob=0.355 roll=0.009
+[006] JOGADA Pinto United | Capão Bicudo x Rui Paim line=5 duel=23.40 corte=-1.38
+[006] JOGADA Pinto United | Ovoberto x Telmo Lousada line=5 duel=112.18 corte=-1.38
+[006] FINAL Pinto United | Júlio do Cocoricó fam=1 duel=17.04 on_target=0.598 goal=0.226
+[006] FINAL Júlio do Cocoricó: no alvo sem gol (roll=0.335)
+[007] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[007] BUILD Pinto United vs Futebol Clube Galitos prob=0.355 roll=0.842
+[008] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[008] BUILD Pinto United vs Futebol Clube Galitos prob=0.355 roll=0.850
+[009] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[009] BUILD Futebol Clube Galitos vs Pinto United prob=0.216 roll=0.234
+[010] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[010] BUILD Futebol Clube Galitos vs Pinto United prob=0.216 roll=0.694
+[011] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[011] BUILD Futebol Clube Galitos vs Pinto United prob=0.233 roll=0.246
+[012] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[012] BUILD Futebol Clube Galitos vs Pinto United prob=0.233 roll=0.416
+[013] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[013] BUILD Pinto United vs Futebol Clube Galitos prob=0.384 roll=0.131
+[013] JOGADA Pinto United | Elisson Gusmão x Roriz Lanza line=5 duel=72.72 corte=-1.38
+[013] FINAL Pinto United | Júlio do Cocoricó fam=1 duel=11.28 on_target=0.645 goal=0.238
+[013] FINAL Júlio do Cocoricó: no alvo sem gol (roll=0.257)
+[014] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[014] BUILD Futebol Clube Galitos vs Pinto United prob=0.233 roll=0.738
+[015] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[015] BUILD Futebol Clube Galitos vs Pinto United prob=0.233 roll=0.815
+[016] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[016] BUILD Pinto United vs Futebol Clube Galitos prob=0.384 roll=0.004
+[016] JOGADA Pinto United | Mairã Coxinha x Xenócrates Alves line=4 duel=30.60 corte=-1.13
+[016] JOGADA Pinto United | Elisson Gusmão x Xenócrates Alves line=5 duel=47.30 corte=-1.38
+[016] JOGADA Pinto United | Júlio do Cocoricó x Pajeú Bottura line=5 duel=3.22 corte=-1.88
+[016] FINAL Pinto United | Mairã Coxinha fam=1 duel=-3.00 on_target=0.644 goal=0.231
+[016] FINAL Mairã Coxinha: no alvo sem gol (roll=0.604)
+[017] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[017] BUILD Futebol Clube Galitos vs Pinto United prob=0.233 roll=0.133
+[017] JOGADA Futebol Clube Galitos | Teffé Cabrera x Kuaray Gato line=2 duel=31.53 corte=-1.30
+[017] FINAL Futebol Clube Galitos | Bruce Moleiro fam=5 duel=-14.51 on_target=0.560 goal=0.142
+[017] FINAL Bruce Moleiro: fora/alvo perdido (roll=0.694)
+[018] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[018] BUILD Futebol Clube Galitos vs Pinto United prob=0.233 roll=0.058
+[018] JOGADA Futebol Clube Galitos | Rui Paim x Elisson Gusmão line=3 duel=18.43 corte=-1.30
+[018] FINAL Futebol Clube Galitos | Bruce Moleiro fam=5 duel=-80.37 on_target=0.556 goal=0.112
+[018] FINAL Bruce Moleiro: fora/alvo perdido (roll=0.601)
+[019] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[019] BUILD Futebol Clube Galitos vs Pinto United prob=0.233 roll=0.805
+[020] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[020] BUILD Futebol Clube Galitos vs Pinto United prob=0.233 roll=0.220
+[020] JOGADA Futebol Clube Galitos | Florival Ottoni x Elisson Gusmão line=3 duel=-13.87 corte=-1.30
+[020] JOGADA falhou: Elisson Gusmão cortou
+[021] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[021] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.308
+[021] JOGADA Pinto United | Kuaray Gato x Poti Malaquias line=4 duel=-75.40 corte=-1.13
+[021] JOGADA falhou: Poti Malaquias cortou
+[022] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[022] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.710
+[023] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[023] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.024
+[023] JOGADA Pinto United | Áquila Frangalho x Telmo Lousada line=4 duel=29.50 corte=-1.13
+[023] JOGADA Pinto United | Falo Furioso x Roriz Lanza line=4 duel=7.20 corte=-1.13
+[023] FINAL Pinto United | Ladislau Alves fam=1 duel=-1.92 on_target=0.676 goal=0.238
+[023] FINAL Ladislau Alves: no alvo sem gol (roll=0.585)
+[024] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[024] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.998
+[025] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[025] BUILD Futebol Clube Galitos vs Pinto United prob=0.251 roll=0.655
+[025] FINAL Futebol Clube Galitos | Poti Malaquias fam=5 duel=-34.10 on_target=0.578 goal=0.134
+[025] FINAL Poti Malaquias: no alvo sem gol (roll=0.649)
+[026] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[026] BUILD Futebol Clube Galitos vs Pinto United prob=0.251 roll=0.890
+[027] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[027] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.175
+[027] JOGADA Pinto United | Júlio do Cocoricó x Teffé Cabrera line=5 duel=7.74 corte=-1.88
+[027] JOGADA Pinto United | Capão Bicudo x Florival Ottoni line=5 duel=81.78 corte=-1.38
+[027] JOGADA Pinto United | Jetro Trindade x Roriz Lanza line=5 duel=34.40 corte=-1.38
+[027] FINAL Pinto United | Júlio do Cocoricó fam=1 duel=4.88 on_target=0.679 goal=0.242
+[027] FINAL Júlio do Cocoricó: fora/alvo perdido (roll=0.697)
+[028] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[028] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.153
+[028] JOGADA Pinto United | Kuaray Gato x Telmo Lousada line=4 duel=25.43 corte=-1.13
+[028] JOGADA Pinto United | Júlio do Cocoricó x Roriz Lanza line=4 duel=-3.34 corte=-1.13
+[028] JOGADA falhou: Roriz Lanza cortou
+[029] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[029] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.588
+[030] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[030] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.537
+[031] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[031] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.630
+[032] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[032] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.570
+[033] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[033] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.625
+[034] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[034] BUILD Futebol Clube Galitos vs Pinto United prob=0.254 roll=0.166
+[034] JOGADA Futebol Clube Galitos | Florival Ottoni x Ovoberto line=2 duel=-16.17 corte=-1.30
+[034] JOGADA falhou: Ovoberto cortou
+[035] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[035] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.449
+[036] posse=Futebol Clube Galitos | placar Pinto United 0 x 0 Futebol Clube Galitos
+[036] BUILD Futebol Clube Galitos vs Pinto United prob=0.254 roll=0.252
+[036] JOGADA Futebol Clube Galitos | Telmo Lousada x Ladislau Alves line=4 duel=-11.18 corte=-1.30
+[036] JOGADA falhou: Ladislau Alves cortou
+[037] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[037] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.383
+[037] JOGADA Pinto United | Mairã Coxinha x Telmo Lousada line=3 duel=27.47 corte=-1.13
+[037] FINAL Pinto United | Júlio do Cocoricó fam=1 duel=9.89 on_target=0.679 goal=0.245
+[037] FINAL Júlio do Cocoricó: no alvo sem gol (roll=0.359)
+[038] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[038] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.121
+[038] JOGADA Pinto United | Júlio do Cocoricó x Pajeú Bottura line=3 duel=-0.58 corte=-1.13
+[038] FINAL Pinto United | Falo Furioso fam=1 duel=19.85 on_target=0.691 goal=0.255
+[038] FINAL Falo Furioso: no alvo sem gol (roll=0.893)
+[039] posse=Pinto United | placar Pinto United 0 x 0 Futebol Clube Galitos
+[039] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.352
+[039] JOGADA Pinto United | Capão Bicudo x Pajeú Bottura line=4 duel=8.04 corte=-1.13
+[039] JOGADA Pinto United | Falo Furioso x Roriz Lanza line=5 duel=20.43 corte=-1.88
+[039] JOGADA Pinto United | Ovoberto x Xenócrates Alves line=5 duel=92.29 corte=-1.38
+[039] FINAL Pinto United | Ladislau Alves fam=1 duel=4.10 on_target=0.676 goal=0.241
+[039] FINAL Ladislau Alves: GOL subtipo=CHUTE (roll=0.156)
+[040] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[040] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.462
+[041] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[041] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.293
+[041] JOGADA Pinto United | Júlio do Cocoricó x Galito line=5 duel=73.97 corte=-2.05
+[041] FINAL Pinto United | Falo Furioso fam=1 duel=19.62 on_target=0.691 goal=0.255
+[041] FINAL Falo Furioso: no alvo sem gol (roll=0.734)
+[042] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[042] BUILD Futebol Clube Galitos vs Pinto United prob=0.296 roll=0.227
+[042] JOGADA Futebol Clube Galitos | Galito x Kuaray Gato line=3 duel=-28.72 corte=-1.30
+[042] JOGADA falhou: Kuaray Gato cortou
+[043] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[043] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.016
+[043] JOGADA Pinto United | Capão Bicudo x Xenócrates Alves line=4 duel=25.13 corte=-1.30
+[043] JOGADA Pinto United | Kuaray Gato x Telmo Lousada line=5 duel=23.12 corte=-1.55
+[043] JOGADA Pinto United | Capão Bicudo x Xenócrates Alves line=5 duel=40.05 corte=-1.55
+[043] FINAL Pinto United | Júlio do Cocoricó fam=1 duel=9.21 on_target=0.679 goal=0.244
+[043] FINAL Júlio do Cocoricó: fora/alvo perdido (roll=0.932)
+[044] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[044] BUILD Pinto United vs Futebol Clube Galitos prob=0.413 roll=0.641
+[045] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[045] BUILD Futebol Clube Galitos vs Pinto United prob=0.296 roll=0.892
+[046] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[046] BUILD Futebol Clube Galitos vs Pinto United prob=0.275 roll=0.518
+[047] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[047] BUILD Futebol Clube Galitos vs Pinto United prob=0.275 roll=0.968
+[048] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[048] BUILD Pinto United vs Futebol Clube Galitos prob=0.384 roll=0.690
+[049] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[049] BUILD Futebol Clube Galitos vs Pinto United prob=0.275 roll=0.892
+[050] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[050] SUB Pinto United: saiu Áquila Frangalho (LD) | entrou Paulo Codornaldo (LD) | subs=1/5
+[050] SUB Futebol Clube Galitos: saiu Bruce Moleiro (SA) | entrou Uru Mina (PD) | subs=1/5
+[050] BUILD Futebol Clube Galitos vs Pinto United prob=0.282 roll=0.883
+[051] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[051] SUB Pinto United: saiu Mairã Coxinha (MC) | entrou Mairubi Asinha (VOL) | subs=2/5
+[051] SUB Futebol Clube Galitos: saiu Xenócrates Alves (MC) | entrou Erico Bissoli (VOL) | subs=2/5
+[051] BUILD Pinto United vs Futebol Clube Galitos prob=0.380 roll=0.702
+[052] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[052] SUB Pinto United: saiu Júlio do Cocoricó (CA) | entrou Oribá (PD) | subs=3/5
+[052] SUB Futebol Clube Galitos: saiu Galito (CA) | entrou Ildo Gatti (PE) | subs=3/5
+[052] BUILD Pinto United vs Futebol Clube Galitos prob=0.380 roll=0.687
+[053] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[053] SUB Pinto United: saiu Ladislau Alves (MD) | entrou Urbino Pinguino (MD) | subs=4/5
+[053] SUB Futebol Clube Galitos: saiu Rui Paim (MC) | entrou Franklim Ladeira (VOL) | subs=4/5
+[053] BUILD Futebol Clube Galitos vs Pinto United prob=0.262 roll=0.142
+[053] JOGADA Futebol Clube Galitos | Teffé Cabrera x Mairubi Asinha line=3 duel=-48.09 corte=-1.30
+[053] JOGADA falhou: Mairubi Asinha cortou
+[054] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[054] SUB Pinto United: saiu Elisson Gusmão (LE) | entrou Conceição Minhoca (LE) | subs=5/5
+[054] SUB Futebol Clube Galitos: saiu Teffé Cabrera (ME) | entrou Mamede Garcia (ME) | subs=5/5
+[054] BUILD Futebol Clube Galitos vs Pinto United prob=0.263 roll=0.779
+[055] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[055] BUILD Pinto United vs Futebol Clube Galitos prob=0.378 roll=0.166
+[055] JOGADA Pinto United | Capão Bicudo x Telmo Lousada line=5 duel=20.80 corte=-1.55
+[055] JOGADA Pinto United | Kuaray Gato x Poti Malaquias line=5 duel=-2.83 corte=-1.55
+[055] JOGADA falhou: Poti Malaquias cortou
+[056] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[056] BUILD Futebol Clube Galitos vs Pinto United prob=0.283 roll=0.770
+[057] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[057] BUILD Futebol Clube Galitos vs Pinto United prob=0.283 roll=0.501
+[058] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[058] BUILD Pinto United vs Futebol Clube Galitos prob=0.407 roll=0.070
+[058] JOGADA Pinto United | Ovoberto x Roriz Lanza line=5 duel=48.49 corte=-1.55
+[058] JOGADA Pinto United | Kuaray Gato x Roriz Lanza line=5 duel=1.17 corte=-1.55
+[058] JOGADA Pinto United | Conceição Minhoca x Uru Mina line=5 duel=42.81 corte=-1.55
+[058] FINAL Pinto United | Ovoberto fam=1 duel=5.41 on_target=0.677 goal=0.242
+[058] FINAL Ovoberto: fora/alvo perdido (roll=0.835)
+[059] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[059] BUILD Futebol Clube Galitos vs Pinto United prob=0.283 roll=0.763
+[060] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[060] BUILD Pinto United vs Futebol Clube Galitos prob=0.407 roll=0.458
+[061] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[061] BUILD Pinto United vs Futebol Clube Galitos prob=0.407 roll=0.168
+[061] JOGADA Pinto United | Oribá x Telmo Lousada line=4 duel=45.88 corte=-1.30
+[061] JOGADA Pinto United | Jetro Trindade x Franklim Ladeira line=4 duel=-14.79 corte=-1.30
+[062] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[062] BUILD Futebol Clube Galitos vs Pinto United prob=0.286 roll=0.791
+[063] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[063] BUILD Futebol Clube Galitos vs Pinto United prob=0.286 roll=0.198
+[063] JOGADA Futebol Clube Galitos | Florival Ottoni x Capão Bicudo line=4 duel=-5.82 corte=-1.30
+[063] JOGADA falhou: Capão Bicudo cortou
+[064] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[064] BUILD Futebol Clube Galitos vs Pinto United prob=0.286 roll=0.563
+[065] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[065] BUILD Pinto United vs Futebol Clube Galitos prob=0.407 roll=0.216
+[065] JOGADA Pinto United | Capão Bicudo x Florival Ottoni line=4 duel=2.00 corte=-1.30
+[065] FINAL Pinto United | Falo Furioso fam=3 duel=3.85 on_target=0.626 goal=0.191
+[065] FINAL Falo Furioso: no alvo sem gol (roll=0.518)
+[066] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[066] BUILD Pinto United vs Futebol Clube Galitos prob=0.407 roll=0.518
+[067] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[067] BUILD Futebol Clube Galitos vs Pinto United prob=0.286 roll=0.197
+[067] JOGADA Futebol Clube Galitos | Erico Bissoli x Conceição Minhoca line=3 duel=-4.25 corte=-1.30
+[067] JOGADA falhou: Conceição Minhoca cortou
+[068] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[068] BUILD Futebol Clube Galitos vs Pinto United prob=0.286 roll=0.615
+[068] FINAL Futebol Clube Galitos | Erico Bissoli fam=5 duel=-10.45 on_target=0.590 goal=0.151
+[068] FINAL Erico Bissoli: no alvo sem gol (roll=0.973)
+[069] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[069] BUILD Futebol Clube Galitos vs Pinto United prob=0.286 roll=0.100
+[069] JOGADA Futebol Clube Galitos | Mamede Garcia x Paulo Codornaldo line=2 duel=63.58 corte=-1.30
+[069] FINAL Futebol Clube Galitos | Uru Mina fam=5 duel=2.63 on_target=0.590 goal=0.157
+[069] FINAL Uru Mina: fora/alvo perdido (roll=0.660)
+[070] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[070] BUILD Pinto United vs Futebol Clube Galitos prob=0.402 roll=0.166
+[070] JOGADA Pinto United | Jetro Trindade x Telmo Lousada line=4 duel=12.37 corte=-1.30
+[070] JOGADA Pinto United | Urbino Pinguino x Telmo Lousada line=5 duel=112.45 corte=-1.55
+[070] JOGADA Pinto United | Capão Bicudo x Pajeú Bottura line=5 duel=51.17 corte=-1.55
+[070] FINAL Pinto United | Oribá fam=1 duel=20.89 on_target=0.668 goal=0.250
+[070] FINAL Oribá: fora/alvo perdido (roll=0.902)
+[071] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[071] BUILD Futebol Clube Galitos vs Pinto United prob=0.286 roll=0.125
+[071] JOGADA Futebol Clube Galitos | Ildo Gatti x Ovoberto line=2 duel=61.05 corte=-1.30
+[071] FINAL Futebol Clube Galitos | Mamede Garcia fam=5 duel=-8.22 on_target=0.589 goal=0.152
+[071] FINAL Mamede Garcia: no alvo sem gol (roll=0.621)
+[072] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[072] BUILD Pinto United vs Futebol Clube Galitos prob=0.402 roll=0.023
+[072] JOGADA Pinto United | Capão Bicudo x Telmo Lousada line=4 duel=16.64 corte=-1.30
+[072] JOGADA Pinto United | Urbino Pinguino x Erico Bissoli line=4 duel=-1.05 corte=-1.30
+[072] JOGADA Pinto United | Falo Furioso x Uru Mina line=5 duel=70.46 corte=-2.05
+[072] FINAL Pinto United | Falo Furioso fam=1 duel=14.26 on_target=0.677 goal=0.252
+[072] FINAL Falo Furioso: fora/alvo perdido (roll=0.952)
+[073] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[073] BUILD Pinto United vs Futebol Clube Galitos prob=0.402 roll=0.605
+[074] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[074] BUILD Pinto United vs Futebol Clube Galitos prob=0.402 roll=0.838
+[075] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[075] BUILD Futebol Clube Galitos vs Pinto United prob=0.286 roll=0.643
+[076] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[076] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.937
+[077] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[077] BUILD Futebol Clube Galitos vs Pinto United prob=0.309 roll=0.266
+[077] JOGADA Futebol Clube Galitos | Pajeú Bottura x Mairubi Asinha line=3 duel=-43.48 corte=-1.30
+[077] JOGADA falhou: Mairubi Asinha cortou
+[078] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[078] BUILD Futebol Clube Galitos vs Pinto United prob=0.309 roll=0.306
+[078] JOGADA Futebol Clube Galitos | Telmo Lousada x Urbino Pinguino line=2 duel=55.49 corte=-1.30
+[078] FINAL Futebol Clube Galitos | Telmo Lousada fam=5 duel=-17.98 on_target=0.630 goal=0.155
+[078] FINAL Telmo Lousada: no alvo sem gol (roll=0.602)
+[079] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[079] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.427
+[080] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[080] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.892
+[081] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[081] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.578
+[082] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[082] BUILD Futebol Clube Galitos vs Pinto United prob=0.309 roll=0.049
+[082] JOGADA Futebol Clube Galitos | Poti Malaquias x Falo Furioso line=3 duel=-0.22 corte=-1.30
+[082] FINAL Futebol Clube Galitos | Franklim Ladeira fam=5 duel=-22.92 on_target=0.630 goal=0.152
+[082] FINAL Franklim Ladeira: fora/alvo perdido (roll=0.705)
+[083] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[083] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.870
+[084] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[084] BUILD Futebol Clube Galitos vs Pinto United prob=0.309 roll=0.804
+[085] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[085] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.177
+[085] JOGADA Pinto United | Urbino Pinguino x Florival Ottoni line=5 duel=8.89 corte=-1.55
+[085] JOGADA Pinto United | Capão Bicudo x Uru Mina line=5 duel=24.85 corte=-1.55
+[085] JOGADA Pinto United | Urbino Pinguino x Pajeú Bottura line=5 duel=14.31 corte=-1.55
+[085] FINAL Pinto United | Capão Bicudo fam=1 duel=0.77 on_target=0.650 goal=0.228
+[085] FINAL Capão Bicudo: no alvo sem gol (roll=0.342)
+[086] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[086] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.071
+[086] JOGADA Pinto United | Conceição Minhoca x Roriz Lanza line=5 duel=5.47 corte=-1.55
+[086] JOGADA Pinto United | Ovoberto x Franklim Ladeira line=5 duel=12.49 corte=-1.55
+[086] JOGADA Pinto United | Kuaray Gato x Pajeú Bottura line=5 duel=23.11 corte=-1.55
+[086] FINAL Pinto United | Oribá fam=1 duel=8.02 on_target=0.654 goal=0.233
+[086] FINAL Oribá: no alvo sem gol (roll=0.497)
+[087] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[087] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.313
+[087] JOGADA Pinto United | Mairubi Asinha x Telmo Lousada line=4 duel=22.89 corte=-1.30
+[087] JOGADA Pinto United | Paulo Codornaldo x Uru Mina line=4 duel=14.88 corte=-1.30
+[087] JOGADA Pinto United | Oribá x Telmo Lousada line=5 duel=68.16 corte=-2.05
+[087] FINAL Pinto United | Falo Furioso fam=3 duel=10.12 on_target=0.602 goal=0.185
+[087] FINAL Falo Furioso: fora/alvo perdido (roll=0.614)
+[088] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[088] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.725
+[089] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[089] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.061
+[089] JOGADA Pinto United | Conceição Minhoca x Telmo Lousada line=5 duel=62.97 corte=-1.55
+[089] JOGADA Pinto United | Ovoberto x Pajeú Bottura line=5 duel=46.32 corte=-1.55
+[089] JOGADA Pinto United | Jetro Trindade x Erico Bissoli line=5 duel=26.00 corte=-1.55
+[089] FINAL Pinto United | Falo Furioso fam=1 duel=11.63 on_target=0.663 goal=0.240
+[089] FINAL Falo Furioso: fora/alvo perdido (roll=0.896)
+[090] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[090] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.569
+[091] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[091] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.472
+[092] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[092] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.301
+[092] JOGADA Pinto United | Falo Furioso x Uru Mina line=3 duel=30.54 corte=-1.30
+[092] JOGADA Pinto United | Kuaray Gato x Poti Malaquias line=5 duel=23.05 corte=-1.55
+[092] JOGADA Pinto United | Kuaray Gato x Franklim Ladeira line=5 duel=29.25 corte=-1.55
+[092] FINAL Pinto United | Falo Furioso fam=1 duel=15.55 on_target=0.664 goal=0.241
+[092] FINAL Falo Furioso: no alvo sem gol (roll=0.452)
+[093] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[093] BUILD Futebol Clube Galitos vs Pinto United prob=0.325 roll=0.029
+[093] JOGADA Futebol Clube Galitos | Franklim Ladeira x Jetro Trindade line=2 duel=-19.82 corte=-1.30
+[093] JOGADA falhou: Jetro Trindade cortou
+[094] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[094] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.816
+[094] FINAL Pinto United | Ovoberto fam=5 duel=-39.96 on_target=0.553 goal=0.117
+[094] FINAL Ovoberto: no alvo sem gol (roll=0.705)
+[095] posse=Pinto United | placar Pinto United 1 x 0 Futebol Clube Galitos
+[095] BUILD Pinto United vs Futebol Clube Galitos prob=0.390 roll=0.776
+[096] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[096] BUILD Futebol Clube Galitos vs Pinto United prob=0.325 roll=0.396
+[097] posse=Futebol Clube Galitos | placar Pinto United 1 x 0 Futebol Clube Galitos
+[097] BUILD Futebol Clube Galitos vs Pinto United prob=0.325 roll=0.699

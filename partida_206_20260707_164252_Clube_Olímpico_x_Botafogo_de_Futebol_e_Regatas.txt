@@ -1,0 +1,353 @@
+Partida #206
+Data: 1912-01-20
+Mandante: Clube Olímpico
+Visitante: Botafogo de Futebol e Regatas
+Placar: 2 x 2
+Seed: -
+Estádio: Estádio Moça Bonita
+Clima: Frio forte
+Placar tempo normal: 2 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube Olímpico x Botafogo de Futebol e Regatas | estádio=Estádio Moça Bonita | clima=Frio forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 0 x 0 Botafogo de Futebol e Regatas
+[001] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.368 roll=0.054
+[001] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x Adner Albuquerque line=3 duel=5.01 corte=-1.30
+[001] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x Geraldo Barros line=4 duel=-67.08 corte=-1.30
+[001] JOGADA falhou: Geraldo Barros cortou
+[002] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Botafogo de Futebol e Regatas
+[002] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.350 roll=0.108
+[002] JOGADA Clube Olímpico | Ítalo Coimbra x Tadeuzinho line=4 duel=48.18 corte=-1.13
+[002] FINAL Clube Olímpico | Ítalo Coimbra fam=1 duel=-1.35 on_target=0.606 goal=0.219
+[002] FINAL Ítalo Coimbra: GOL subtipo=CHUTE (roll=0.160)
+[003] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[003] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.439 roll=0.197
+[003] JOGADA Botafogo de Futebol e Regatas | João Sanches x Adner Albuquerque line=3 duel=-2.45 corte=-1.30
+[003] JOGADA falhou: Adner Albuquerque cortou
+[004] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[004] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.439 roll=0.007
+[004] JOGADA Botafogo de Futebol e Regatas | João Sanches x Kian MacGiolla line=2 duel=-1.07 corte=-1.30
+[004] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Epaminondas da Luz line=3 duel=19.63 corte=-1.30
+[004] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Pedro Dalcher line=4 duel=-1.90 corte=-1.30
+[005] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[005] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.350 roll=0.374
+[006] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[006] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.439 roll=0.278
+[006] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Pedro Dalcher line=2 duel=13.22 corte=-1.30
+[006] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Geraldo Barros line=3 duel=13.33 corte=-1.30
+[006] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Omar Cordeiro line=4 duel=0.50 corte=-1.30
+[006] FINAL Botafogo de Futebol e Regatas | Rúben Águas fam=1 duel=1.81 on_target=0.603 goal=0.225
+[006] FINAL Rúben Águas: fora/alvo perdido (roll=0.722)
+[007] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[007] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.350 roll=0.648
+[008] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[008] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.439 roll=0.851
+[009] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[009] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.350 roll=0.551
+[010] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[010] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.439 roll=0.106
+[010] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Adner Albuquerque line=4 duel=56.81 corte=-1.30
+[010] FINAL Botafogo de Futebol e Regatas | Fernando Hamada fam=5 duel=-79.54 on_target=0.524 goal=0.110
+[010] FINAL Fernando Hamada: no alvo sem gol (roll=0.235)
+[011] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[011] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.475 roll=0.610
+[012] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[012] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.379 roll=0.489
+[013] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[013] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.379 roll=0.130
+[013] JOGADA Clube Olímpico | Farelo x Fernando Hamada line=5 duel=11.93 corte=-1.55
+[013] FINAL Clube Olímpico | Ítalo Coimbra fam=1 duel=-4.02 on_target=0.654 goal=0.232
+[013] FINAL Ítalo Coimbra: no alvo sem gol (roll=0.920)
+[014] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[014] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.379 roll=0.582
+[015] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[015] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.475 roll=0.890
+[016] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[016] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.379 roll=0.848
+[017] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[017] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.379 roll=0.838
+[018] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[018] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.379 roll=0.564
+[019] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[019] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.379 roll=0.907
+[020] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[020] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.475 roll=0.060
+[020] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Kian MacGiolla line=2 duel=6.36 corte=-1.30
+[020] JOGADA Botafogo de Futebol e Regatas | César Delgado x Francisco Borja line=3 duel=11.85 corte=-1.30
+[020] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Kian MacGiolla line=4 duel=8.77 corte=-1.30
+[021] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[021] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.511 roll=0.577
+[022] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[022] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.407 roll=0.214
+[022] JOGADA Clube Olímpico | Omar Cordeiro x João Sanches line=5 duel=132.14 corte=-1.55
+[022] FINAL Clube Olímpico | José Piendibene fam=1 duel=0.39 on_target=0.691 goal=0.242
+[022] FINAL José Piendibene: fora/alvo perdido (roll=0.961)
+[023] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[023] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.407 roll=0.706
+[024] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[024] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.511 roll=0.736
+[025] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[025] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.511 roll=0.084
+[025] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Geraldo Barros line=3 duel=-15.12 corte=-1.30
+[026] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[026] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.407 roll=0.420
+[027] posse=Clube Olímpico | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[027] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.407 roll=0.364
+[027] JOGADA Clube Olímpico | Pedro Dalcher x César Delgado line=5 duel=97.59 corte=-2.05
+[027] FINAL Clube Olímpico | Ítalo Coimbra fam=3 duel=-4.73 on_target=0.624 goal=0.183
+[027] FINAL Ítalo Coimbra: fora/alvo perdido (roll=0.967)
+[028] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 0 Botafogo de Futebol e Regatas
+[028] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.511 roll=0.079
+[028] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Francisco Borja line=2 duel=94.93 corte=-1.30
+[028] FINAL Botafogo de Futebol e Regatas | João Sanches fam=5 duel=-80.71 on_target=0.588 goal=0.118
+[028] FINAL João Sanches: GOL subtipo=FALTA (roll=0.071)
+[029] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 1 Botafogo de Futebol e Regatas
+[029] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.428 roll=0.371
+[029] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Francisco Borja line=2 duel=-9.21 corte=-1.30
+[030] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 1 Botafogo de Futebol e Regatas
+[030] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.428 roll=0.943
+[031] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 1 x 1 Botafogo de Futebol e Regatas
+[031] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.428 roll=0.730
+[032] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Botafogo de Futebol e Regatas
+[032] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.407 roll=0.250
+[032] JOGADA Clube Olímpico | Epaminondas da Luz x Alisson Caiçara line=5 duel=33.68 corte=-1.38
+[032] FINAL Clube Olímpico | Ítalo Coimbra fam=1 duel=-11.88 on_target=0.688 goal=0.236
+[032] FINAL Ítalo Coimbra: GOL subtipo=CHUTE (roll=0.044)
+[033] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[033] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.511 roll=0.666
+[034] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[034] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.511 roll=0.136
+[034] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Geraldo Barros line=3 duel=-7.08 corte=-1.30
+[035] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[035] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.407 roll=0.316
+[035] JOGADA Clube Olímpico | Pedro Dalcher x Rúben Águas line=4 duel=126.82 corte=-1.30
+[035] FINAL Clube Olímpico | Ítalo Coimbra fam=3 duel=-10.15 on_target=0.624 goal=0.181
+[035] FINAL Ítalo Coimbra: no alvo sem gol (roll=0.832)
+[036] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[036] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.407 roll=0.986
+[037] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[037] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.407 roll=0.579
+[038] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[038] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.511 roll=0.547
+[039] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[039] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.407 roll=0.162
+[039] JOGADA Clube Olímpico | Farelo x Marco Medeiros line=4 duel=64.66 corte=-1.30
+[039] FINAL Clube Olímpico | Pedro Dalcher fam=1 duel=20.30 on_target=0.696 goal=0.254
+[039] FINAL Pedro Dalcher: fora/alvo perdido (roll=0.754)
+[040] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[040] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.511 roll=0.458
+[040] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Kian MacGiolla line=4 duel=-30.18 corte=-1.30
+[040] JOGADA falhou: Kian MacGiolla cortou
+[041] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[041] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.407 roll=0.177
+[041] JOGADA Clube Olímpico | Kian MacGiolla x Geraldo Pascoal line=3 duel=-17.48 corte=-1.30
+[041] JOGADA falhou: Geraldo Pascoal cortou
+[042] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[042] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.407 roll=0.441
+[043] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[043] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.511 roll=0.043
+[043] JOGADA Botafogo de Futebol e Regatas | César Delgado x Epaminondas da Luz line=4 duel=-7.54 corte=-1.30
+[043] JOGADA falhou: Epaminondas da Luz cortou
+[044] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[044] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.511 roll=0.779
+[045] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[045] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.407 roll=0.476
+[046] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[046] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.475 roll=0.544
+[047] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[047] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.379 roll=0.216
+[047] JOGADA Clube Olímpico | Adner Albuquerque x Geraldo Pascoal line=5 duel=2.88 corte=-1.55
+[047] FINAL Clube Olímpico | Ítalo Coimbra fam=1 duel=-9.67 on_target=0.653 goal=0.230
+[047] FINAL Ítalo Coimbra: no alvo sem gol (roll=0.289)
+[048] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[048] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.379 roll=0.493
+[049] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[049] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.379 roll=0.578
+[050] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[050] SUB Clube Olímpico: saiu José Piendibene (SA) | entrou Salomão Cruz (PE) | subs=1/5
+[050] SUB Botafogo de Futebol e Regatas: saiu João Sanches (SA) | entrou Severino Desempregado (MA) | subs=1/5
+[050] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.374 roll=0.616
+[051] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[051] SUB Clube Olímpico: saiu Ítalo Coimbra (CA) | entrou Eduardo Pessoa (SA) | subs=2/5
+[051] SUB Botafogo de Futebol e Regatas: saiu Rúben Águas (SA) | entrou Escudo Calábrio Defensor (SA) | subs=2/5
+[051] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.424 roll=0.079
+[051] JOGADA Botafogo de Futebol e Regatas | César Delgado x Pedro Dalcher line=3 duel=3.51 corte=-1.30
+[051] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Geraldo Barros line=5 duel=29.99 corte=-2.05
+[051] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Salomão Cruz line=5 duel=32.24 corte=-1.55
+[051] FINAL Botafogo de Futebol e Regatas | Escudo Calábrio Defensor fam=1 duel=14.90 on_target=0.648 goal=0.244
+[051] FINAL Escudo Calábrio Defensor: no alvo sem gol (roll=0.771)
+[052] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[052] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.424 roll=0.059
+[052] JOGADA Botafogo de Futebol e Regatas | César Delgado x Epaminondas da Luz line=3 duel=14.09 corte=-1.30
+[052] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Geraldo Barros line=4 duel=2.47 corte=-1.30
+[052] FINAL Botafogo de Futebol e Regatas | Escudo Calábrio Defensor fam=5 duel=14.26 on_target=0.563 goal=0.156
+[052] FINAL Escudo Calábrio Defensor: no alvo sem gol (roll=0.250)
+[053] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[053] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.424 roll=0.271
+[053] JOGADA Botafogo de Futebol e Regatas | César Delgado x Francisco Borja line=4 duel=8.93 corte=-1.30
+[053] JOGADA Botafogo de Futebol e Regatas | César Delgado x Epaminondas da Luz line=5 duel=11.06 corte=-1.55
+[053] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Adner Albuquerque line=5 duel=24.69 corte=-1.55
+[053] FINAL Botafogo de Futebol e Regatas | Severino Desempregado fam=1 duel=26.76 on_target=0.650 goal=0.249
+[053] FINAL Severino Desempregado: no alvo sem gol (roll=0.742)
+[054] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[054] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.376 roll=0.184
+[054] JOGADA Clube Olímpico | Omar Cordeiro x César Delgado line=4 duel=19.23 corte=-1.30
+[054] FINAL Clube Olímpico | Eduardo Pessoa fam=1 duel=27.69 on_target=0.650 goal=0.243
+[054] FINAL Eduardo Pessoa: fora/alvo perdido (roll=0.993)
+[055] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[055] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.376 roll=0.334
+[055] JOGADA Clube Olímpico | Omar Cordeiro x Tadeuzinho line=5 duel=119.65 corte=-1.55
+[055] FINAL Clube Olímpico | Salomão Cruz fam=1 duel=31.22 on_target=0.650 goal=0.245
+[055] FINAL Salomão Cruz: fora/alvo perdido (roll=0.949)
+[056] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[056] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.456 roll=0.972
+[057] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[057] SUB Botafogo de Futebol e Regatas: saiu Marco Medeiros (MC) | entrou Jessé Soares (VOL) | subs=3/5
+[057] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.401 roll=0.460
+[058] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[058] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.460 roll=0.096
+[058] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Farelo line=3 duel=-23.93 corte=-1.30
+[058] JOGADA falhou: Farelo cortou
+[059] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[059] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.401 roll=0.402
+[060] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[060] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.463 roll=0.316
+[060] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Kian MacGiolla line=2 duel=9.23 corte=-1.30
+[060] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Omar Cordeiro line=3 duel=43.98 corte=-1.30
+[060] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Salomão Cruz line=4 duel=24.72 corte=-1.30
+[061] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[061] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.401 roll=0.795
+[062] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[062] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.401 roll=0.586
+[062] FINAL Clube Olímpico | Francisco Borja fam=5 duel=12.48 on_target=0.586 goal=0.146
+[062] FINAL Francisco Borja: fora/alvo perdido (roll=0.741)
+[063] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[063] SUB Clube Olímpico: saiu Omar Cordeiro (VOL) | entrou Jandir Café (ZAG) | subs=3/5
+[063] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.464 roll=0.748
+[064] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[064] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.464 roll=0.768
+[065] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[065] SUB Botafogo de Futebol e Regatas: saiu Geraldo Pascoal (ZAG) | entrou Augusto Bota Fogo no Adversário (ZAG) | subs=4/5
+[065] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.374 roll=0.046
+[065] JOGADA Clube Olímpico | Pedro Dalcher x Jessé Soares line=5 duel=65.72 corte=-2.05
+[065] FINAL Clube Olímpico | Eduardo Pessoa fam=3 duel=12.03 on_target=0.620 goal=0.188
+[065] FINAL Eduardo Pessoa: fora/alvo perdido (roll=0.915)
+[066] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[066] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.374 roll=0.721
+[067] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[067] SUB Botafogo de Futebol e Regatas: saiu Alisson Caiçara (LE) | entrou Jurandir Guerra (LD) | subs=5/5
+[067] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.461 roll=0.974
+[068] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[068] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.461 roll=0.358
+[068] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Adner Albuquerque line=4 duel=4.89 corte=-1.30
+[068] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Francisco Borja line=4 duel=-5.93 corte=-1.30
+[069] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[069] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.461 roll=0.465
+[070] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[070] SUB Clube Olímpico: saiu Francisco Borja (MC) | entrou Levi Daschner (MC) | subs=4/5
+[070] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.464 roll=0.433
+[070] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Geraldo Barros line=3 duel=2.84 corte=-1.30
+[070] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Farelo line=4 duel=-15.21 corte=-1.30
+[070] JOGADA falhou: Farelo cortou
+[071] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[071] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.464 roll=0.523
+[072] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[072] SUB Clube Olímpico: saiu Epaminondas da Luz (MC) | entrou Juca Martelinho (MA) | subs=5/5
+[072] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.464 roll=0.463
+[072] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Pedro Dalcher line=3 duel=5.87 corte=-1.30
+[072] JOGADA Botafogo de Futebol e Regatas | Augusto Bota Fogo no Adversário x Jandir Café line=5 duel=-4.20 corte=-1.55
+[072] JOGADA falhou: Jandir Café cortou
+[073] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[073] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.368 roll=0.921
+[074] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[074] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.464 roll=0.668
+[075] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[075] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.464 roll=0.190
+[075] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Kian MacGiolla line=3 duel=8.82 corte=-1.30
+[075] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Salomão Cruz line=5 duel=27.50 corte=-2.05
+[075] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Eduardo Pessoa line=5 duel=79.14 corte=-1.55
+[075] FINAL Botafogo de Futebol e Regatas | Escudo Calábrio Defensor fam=5 duel=20.93 on_target=0.594 goal=0.166
+[075] FINAL Escudo Calábrio Defensor: fora/alvo perdido (roll=0.776)
+[076] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[076] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.357 roll=0.230
+[076] JOGADA Clube Olímpico | Farelo x Augusto Bota Fogo no Adversário line=4 duel=22.48 corte=-1.30
+[076] FINAL Clube Olímpico | Juca Martelinho fam=1 duel=30.73 on_target=0.658 goal=0.243
+[076] FINAL Juca Martelinho: fora/alvo perdido (roll=0.965)
+[077] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[077] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.357 roll=0.690
+[078] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[078] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.357 roll=0.331
+[078] JOGADA Clube Olímpico | Levi Daschner x Severino Desempregado line=4 duel=15.51 corte=-1.30
+[078] FINAL Clube Olímpico | Juca Martelinho fam=1 duel=29.35 on_target=0.658 goal=0.242
+[078] FINAL Juca Martelinho: fora/alvo perdido (roll=0.954)
+[079] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[079] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.501 roll=0.396
+[079] JOGADA Botafogo de Futebol e Regatas | Escudo Calábrio Defensor x Kian MacGiolla line=4 duel=22.76 corte=-1.30
+[079] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Jandir Café line=5 duel=3.94 corte=-2.05
+[079] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Levi Daschner line=5 duel=10.17 corte=-1.55
+[079] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=9.15 on_target=0.736 goal=0.264
+[079] FINAL Tadeuzinho: fora/alvo perdido (roll=0.950)
+[080] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[080] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.501 roll=0.156
+[080] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Pedro Dalcher line=2 duel=-16.86 corte=-1.30
+[080] JOGADA falhou: Pedro Dalcher cortou
+[081] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[081] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.501 roll=0.830
+[082] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[082] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.501 roll=0.468
+[082] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Geraldo Barros line=3 duel=25.92 corte=-1.30
+[082] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Eduardo Pessoa line=4 duel=28.87 corte=-1.30
+[082] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Farelo line=4 duel=-2.10 corte=-1.30
+[082] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=5 duel=9.61 on_target=0.640 goal=0.169
+[082] FINAL Tadeuzinho: no alvo sem gol (roll=0.553)
+[083] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[083] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.501 roll=0.159
+[083] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Eduardo Pessoa line=3 duel=19.82 corte=-1.30
+[083] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Eduardo Pessoa line=4 duel=16.53 corte=-1.30
+[083] FINAL Botafogo de Futebol e Regatas | Severino Desempregado fam=5 duel=22.32 on_target=0.636 goal=0.174
+[083] FINAL Severino Desempregado: fora/alvo perdido (roll=0.786)
+[084] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[084] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.501 roll=0.394
+[084] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Jandir Café line=3 duel=-26.99 corte=-1.30
+[084] JOGADA falhou: Jandir Café cortou
+[085] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[085] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.528 roll=0.898
+[086] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 1 Botafogo de Futebol e Regatas
+[086] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.528 roll=0.003
+[086] JOGADA Botafogo de Futebol e Regatas | Escudo Calábrio Defensor x Adner Albuquerque line=2 duel=56.29 corte=-1.30
+[086] JOGADA Botafogo de Futebol e Regatas | Jessé Soares x Eduardo Pessoa line=4 duel=42.13 corte=-1.30
+[086] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Adner Albuquerque line=5 duel=5.74 corte=-1.55
+[086] FINAL Botafogo de Futebol e Regatas | Severino Desempregado fam=1 duel=18.65 on_target=0.778 goal=0.265
+[086] FINAL Severino Desempregado: GOL subtipo=CHUTE (roll=0.241)
+[087] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Botafogo de Futebol e Regatas
+[087] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.380 roll=0.132
+[087] JOGADA Clube Olímpico | Salomão Cruz x Severino Desempregado line=4 duel=66.40 corte=-1.07
+[087] FINAL Clube Olímpico | Eduardo Pessoa fam=3 duel=-1.17 on_target=0.671 goal=0.184
+[087] FINAL Eduardo Pessoa: no alvo sem gol (roll=0.857)
+[088] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 2 Botafogo de Futebol e Regatas
+[088] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.442 roll=0.300
+[088] JOGADA Botafogo de Futebol e Regatas | Escudo Calábrio Defensor x Farelo line=4 duel=14.85 corte=-1.30
+[088] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Pedro Dalcher line=5 duel=75.06 corte=-2.05
+[088] JOGADA Botafogo de Futebol e Regatas | Jessé Soares x Jandir Café line=5 duel=36.81 corte=-1.55
+[088] FINAL Botafogo de Futebol e Regatas | Escudo Calábrio Defensor fam=1 duel=12.71 on_target=0.740 goal=0.253
+[088] FINAL Escudo Calábrio Defensor: no alvo sem gol (roll=0.923)
+[089] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 2 Botafogo de Futebol e Regatas
+[089] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.442 roll=0.964
+[090] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Botafogo de Futebol e Regatas
+[090] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.380 roll=0.598
+[091] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 2 Botafogo de Futebol e Regatas
+[091] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.442 roll=0.550
+[092] posse=Botafogo de Futebol e Regatas | placar Clube Olímpico 2 x 2 Botafogo de Futebol e Regatas
+[092] BUILD Botafogo de Futebol e Regatas vs Clube Olímpico prob=0.442 roll=0.198
+[092] JOGADA Botafogo de Futebol e Regatas | Jurandir Guerra x Jandir Café line=4 duel=-73.84 corte=-1.30
+[092] JOGADA falhou: Jandir Café cortou
+[093] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Botafogo de Futebol e Regatas
+[093] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.380 roll=0.601
+[094] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Botafogo de Futebol e Regatas
+[094] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.380 roll=0.201
+[094] JOGADA Clube Olímpico | Pedro Dalcher x Augusto Bota Fogo no Adversário line=4 duel=-7.56 corte=-1.07
+[095] posse=Clube Olímpico | placar Clube Olímpico 2 x 2 Botafogo de Futebol e Regatas
+[095] BUILD Clube Olímpico vs Botafogo de Futebol e Regatas prob=0.380 roll=0.754

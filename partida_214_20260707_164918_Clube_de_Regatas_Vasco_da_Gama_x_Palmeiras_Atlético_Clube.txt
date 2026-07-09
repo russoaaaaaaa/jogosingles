@@ -1,0 +1,315 @@
+Partida #214
+Data: 1912-01-20
+Mandante: Clube de Regatas Vasco da Gama
+Visitante: Palmeiras Atlético Clube
+Placar: 3 x 0
+Seed: -
+Estádio: Estádio Nau de São Gabriel
+Clima: Ensolarado
+Placar tempo normal: 3 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube de Regatas Vasco da Gama x Palmeiras Atlético Clube | estádio=Estádio Nau de São Gabriel | clima=Ensolarado | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 0 x 0 Palmeiras Atlético Clube
+[001] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.290 roll=0.560
+[002] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Palmeiras Atlético Clube
+[002] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.399 roll=0.388
+[002] JOGADA Clube de Regatas Vasco da Gama | Júlio Martins x Octaviano Tomás line=4 duel=37.24 corte=-1.11
+[002] FINAL Clube de Regatas Vasco da Gama | Enaldo Marcelo fam=1 duel=4.28 on_target=0.680 goal=0.251
+[002] FINAL Enaldo Marcelo: GOL subtipo=CHUTE (roll=0.209)
+[003] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[003] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.399 roll=0.003
+[003] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Albino Rocha line=4 duel=2.11 corte=-1.30
+[003] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=1 duel=6.34 on_target=0.686 goal=0.255
+[003] FINAL Fusiano Colón: fora/alvo perdido (roll=0.720)
+[004] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[004] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.399 roll=0.426
+[005] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[005] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.328 roll=0.815
+[006] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[006] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.328 roll=0.201
+[006] JOGADA Palmeiras Atlético Clube | Hermenegildo Coimbra x Suspiro Menezes line=2 duel=-13.38 corte=-1.30
+[006] JOGADA falhou: Suspiro Menezes cortou
+[007] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[007] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.399 roll=0.017
+[007] JOGADA Clube de Regatas Vasco da Gama | Eduardo Freitas x Caetano Modesto line=4 duel=7.30 corte=-1.30
+[007] FINAL Clube de Regatas Vasco da Gama | Enaldo Marcelo fam=1 duel=3.64 on_target=0.680 goal=0.251
+[007] FINAL Enaldo Marcelo: no alvo sem gol (roll=0.662)
+[008] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[008] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.399 roll=0.453
+[009] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[009] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.399 roll=0.713
+[010] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[010] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.399 roll=0.269
+[010] JOGADA Clube de Regatas Vasco da Gama | Victoriano Bandeira x Aquil Cardoso line=5 duel=73.01 corte=-2.05
+[010] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=1 duel=7.60 on_target=0.687 goal=0.256
+[010] FINAL Fusiano Colón: fora/alvo perdido (roll=0.929)
+[011] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[011] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.355 roll=0.155
+[011] JOGADA Palmeiras Atlético Clube | Aquil Cardoso x Fusiano Colón line=3 duel=29.87 corte=-1.30
+[011] FINAL Palmeiras Atlético Clube | Elísio Albergaria fam=5 duel=-17.65 on_target=0.626 goal=0.157
+[011] FINAL Elísio Albergaria: no alvo sem gol (roll=0.285)
+[012] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[012] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.431 roll=0.104
+[012] JOGADA Clube de Regatas Vasco da Gama | Pedro Guaraná x Oto Dantas line=5 duel=87.54 corte=-2.05
+[012] FINAL Clube de Regatas Vasco da Gama | Enaldo Marcelo fam=3 duel=2.82 on_target=0.665 goal=0.205
+[012] FINAL Enaldo Marcelo: no alvo sem gol (roll=0.493)
+[013] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[013] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.355 roll=0.566
+[014] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[014] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.355 roll=0.852
+[015] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[015] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.355 roll=0.486
+[016] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 1 x 0 Palmeiras Atlético Clube
+[016] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.431 roll=0.186
+[016] JOGADA Clube de Regatas Vasco da Gama | Pedro Guaraná x Oto Dantas line=5 duel=85.31 corte=-2.05
+[016] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=3 duel=7.44 on_target=0.672 goal=0.211
+[016] FINAL Fusiano Colón: GOL subtipo=CHUTE (roll=0.142)
+[017] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[017] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.424 roll=0.110
+[017] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Caetano Modesto line=4 duel=3.76 corte=-1.30
+[017] FINAL Clube de Regatas Vasco da Gama | Victoriano Bandeira fam=1 duel=-2.92 on_target=0.708 goal=0.249
+[017] FINAL Victoriano Bandeira: fora/alvo perdido (roll=0.736)
+[018] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[018] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.424 roll=0.707
+[019] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[019] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.424 roll=0.636
+[020] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[020] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.359 roll=0.076
+[020] JOGADA Palmeiras Atlético Clube | Amadeus Carrico x Victoriano Bandeira line=3 duel=33.01 corte=-1.30
+[020] FINAL Palmeiras Atlético Clube | Elísio Albergaria fam=5 duel=-97.78 on_target=0.621 goal=0.120
+[020] FINAL Elísio Albergaria: no alvo sem gol (roll=0.146)
+[021] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[021] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.377
+[021] JOGADA Palmeiras Atlético Clube | Elísio Albergaria x Fusiano Colón line=2 duel=87.97 corte=-1.30
+[021] FINAL Palmeiras Atlético Clube | Amadeus Carrico fam=5 duel=-14.70 on_target=0.660 goal=0.165
+[021] FINAL Amadeus Carrico: fora/alvo perdido (roll=0.860)
+[022] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[022] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.564
+[023] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[023] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.889
+[024] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[024] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.203
+[024] JOGADA Palmeiras Atlético Clube | Xavier Pascoal x Adriano Pacheco line=4 duel=-28.49 corte=-1.30
+[025] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[025] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.495
+[026] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[026] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.456 roll=0.042
+[026] JOGADA Clube de Regatas Vasco da Gama | Victoriano Bandeira x Hermenegildo Coimbra line=4 duel=39.50 corte=-1.30
+[026] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=1 duel=6.33 on_target=0.756 goal=0.266
+[026] FINAL Fusiano Colón: fora/alvo perdido (roll=0.854)
+[027] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[027] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.275
+[027] JOGADA Palmeiras Atlético Clube | Oto Dantas x Nininho line=4 duel=-27.98 corte=-1.30
+[028] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[028] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.145
+[028] JOGADA Palmeiras Atlético Clube | Octaviano Tomás x Eduardo Freitas line=2 duel=14.93 corte=-1.30
+[028] FINAL Palmeiras Atlético Clube | Amadeus Carrico fam=1 duel=-21.03 on_target=0.756 goal=0.256
+[028] FINAL Amadeus Carrico: fora/alvo perdido (roll=0.844)
+[029] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[029] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.456 roll=0.292
+[029] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Hermenegildo Coimbra line=4 duel=8.11 corte=-1.30
+[029] FINAL Clube de Regatas Vasco da Gama | Victoriano Bandeira fam=1 duel=-13.46 on_target=0.744 goal=0.251
+[029] FINAL Victoriano Bandeira: no alvo sem gol (roll=0.509)
+[030] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[030] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.456 roll=0.049
+[030] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Octaviano Tomás line=3 duel=50.07 corte=-1.30
+[030] FINAL Clube de Regatas Vasco da Gama | Pedro Guaraná fam=1 duel=12.40 on_target=0.751 goal=0.267
+[030] FINAL Pedro Guaraná: no alvo sem gol (roll=0.704)
+[031] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[031] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.456 roll=0.280
+[031] JOGADA Clube de Regatas Vasco da Gama | Enaldo Marcelo x Xavier Pascoal line=5 duel=-4.24 corte=-2.05
+[031] JOGADA falhou: Xavier Pascoal cortou
+[032] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[032] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.105
+[032] JOGADA Palmeiras Atlético Clube | Elísio Albergaria x Júlio Martins line=3 duel=-29.10 corte=-1.30
+[032] JOGADA falhou: Júlio Martins cortou
+[033] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[033] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.899
+[034] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[034] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.456 roll=0.757
+[035] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[035] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.428
+[036] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[036] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.921
+[037] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[037] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.456 roll=0.872
+[038] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[038] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.538
+[039] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[039] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.548
+[040] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[040] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.456 roll=0.314
+[040] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Hermenegildo Coimbra line=4 duel=20.56 corte=-1.30
+[040] FINAL Clube de Regatas Vasco da Gama | Victoriano Bandeira fam=1 duel=-10.37 on_target=0.744 goal=0.253
+[040] FINAL Victoriano Bandeira: no alvo sem gol (roll=0.900)
+[041] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[041] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.863
+[042] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[042] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.770
+[043] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[043] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.386 roll=0.815
+[044] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[044] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.456 roll=0.695
+[045] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[045] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.456 roll=0.900
+[046] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[046] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.424 roll=0.280
+[046] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Amadeus Carrico line=5 duel=95.76 corte=-1.55
+[046] FINAL Clube de Regatas Vasco da Gama | Enaldo Marcelo fam=1 duel=-9.14 on_target=0.711 goal=0.248
+[046] FINAL Enaldo Marcelo: fora/alvo perdido (roll=0.995)
+[047] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[047] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.424 roll=0.753
+[048] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[048] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.359 roll=0.175
+[048] JOGADA Palmeiras Atlético Clube | Aquil Cardoso x Adriano Pacheco line=2 duel=36.11 corte=-1.30
+[048] FINAL Palmeiras Atlético Clube | Elísio Albergaria fam=5 duel=-22.72 on_target=0.626 goal=0.156
+[048] FINAL Elísio Albergaria: fora/alvo perdido (roll=0.871)
+[049] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[049] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.424 roll=0.773
+[050] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[050] SUB Clube de Regatas Vasco da Gama: saiu Eduardo Freitas (SA) | entrou Hugo Júnior Cruz (CA) | subs=1/5
+[050] SUB Palmeiras Atlético Clube: saiu Elísio Albergaria (SA) | entrou Azuil Moura (SA) | subs=1/5
+[050] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.354 roll=0.627
+[051] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[051] SUB Clube de Regatas Vasco da Gama: saiu Victoriano Bandeira (SA) | entrou Fausto Garcia (SA) | subs=2/5
+[051] SUB Palmeiras Atlético Clube: saiu Amadeus Carrico (CA) | entrou Mílton Albuquerque (CA) | subs=2/5
+[051] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.347 roll=0.872
+[052] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[052] SUB Clube de Regatas Vasco da Gama: saiu Fusiano Colón (CA) | entrou Ronaldo Mendonça (CA) | subs=3/5
+[052] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.395 roll=0.884
+[053] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[053] SUB Clube de Regatas Vasco da Gama: saiu Enaldo Marcelo (CA) | entrou Álvaro Teixeira (CA) | subs=4/5
+[053] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.348 roll=0.233
+[053] JOGADA Palmeiras Atlético Clube | Xavier Pascoal x Hugo Júnior Cruz line=4 duel=-8.25 corte=-1.30
+[053] JOGADA falhou: Hugo Júnior Cruz cortou
+[054] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[054] SUB Palmeiras Atlético Clube: saiu Hermenegildo Coimbra (MA) | entrou Dorico Guedes (MA) | subs=3/5
+[054] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.378 roll=0.789
+[055] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[055] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.378 roll=0.648
+[056] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[056] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.373 roll=0.702
+[057] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[057] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.373 roll=0.835
+[058] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Palmeiras Atlético Clube
+[058] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.407 roll=0.141
+[058] JOGADA Clube de Regatas Vasco da Gama | Nininho x Albino Rocha line=4 duel=7.49 corte=-1.30
+[058] FINAL Clube de Regatas Vasco da Gama | Álvaro Teixeira fam=1 duel=11.57 on_target=0.743 goal=0.262
+[058] FINAL Álvaro Teixeira: GOL subtipo=CHUTE (roll=0.119)
+[059] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[059] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.377 roll=0.392
+[060] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[060] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.400 roll=0.531
+[061] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[061] SUB Palmeiras Atlético Clube: saiu Xavier Pascoal (ZAG) | entrou Vili Cardoso (ZAG) | subs=4/5
+[061] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.418 roll=0.711
+[062] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[062] SUB Palmeiras Atlético Clube: saiu Aquil Cardoso (AE) | entrou Mirco Henriques (LE) | subs=5/5
+[062] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.383 roll=0.309
+[062] JOGADA Palmeiras Atlético Clube | Albino Rocha x Pedro Guaraná line=3 duel=-11.94 corte=-1.30
+[062] JOGADA falhou: Pedro Guaraná cortou
+[063] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[063] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.414 roll=0.248
+[063] JOGADA Clube de Regatas Vasco da Gama | Ronaldo Mendonça x Vladimiro Bandeira line=5 duel=59.06 corte=-2.05
+[063] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=1 duel=18.44 on_target=0.721 goal=0.254
+[063] FINAL Hugo Júnior Cruz: fora/alvo perdido (roll=0.806)
+[064] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[064] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.383 roll=0.428
+[065] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[065] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.414 roll=0.625
+[066] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[066] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.414 roll=0.497
+[067] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[067] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.383 roll=0.005
+[067] JOGADA Palmeiras Atlético Clube | Vili Cardoso x Álvaro Teixeira line=3 duel=-6.64 corte=-1.30
+[067] JOGADA falhou: Álvaro Teixeira cortou
+[068] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[068] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.414 roll=0.161
+[068] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Oto Dantas line=4 duel=23.45 corte=-1.30
+[068] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=1 duel=13.91 on_target=0.721 goal=0.252
+[068] FINAL Hugo Júnior Cruz: no alvo sem gol (roll=0.540)
+[069] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[069] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.383 roll=0.573
+[070] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[070] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.414 roll=0.985
+[071] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[071] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.414 roll=0.735
+[072] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[072] SUB Clube de Regatas Vasco da Gama: saiu Pedro Guaraná (MA) | entrou Rodrigo Justino (ME) | subs=5/5
+[072] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.384 roll=0.943
+[073] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[073] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.384 roll=0.288
+[073] JOGADA Palmeiras Atlético Clube | Oto Dantas x Rodrigo Justino line=3 duel=-39.09 corte=-1.30
+[074] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[074] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.408 roll=0.149
+[074] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Caetano Modesto line=4 duel=42.72 corte=-1.30
+[074] FINAL Clube de Regatas Vasco da Gama | Fausto Garcia fam=1 duel=24.70 on_target=0.721 goal=0.257
+[074] FINAL Fausto Garcia: no alvo sem gol (roll=0.791)
+[075] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[075] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.408 roll=0.864
+[076] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[076] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.396 roll=0.598
+[077] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[077] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.396 roll=0.098
+[077] JOGADA Clube de Regatas Vasco da Gama | Fausto Garcia x Mirco Henriques line=4 duel=2.40 corte=-1.30
+[077] FINAL Clube de Regatas Vasco da Gama | Álvaro Teixeira fam=1 duel=12.54 on_target=0.705 goal=0.248
+[077] FINAL Álvaro Teixeira: no alvo sem gol (roll=0.338)
+[078] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[078] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.396 roll=0.151
+[078] JOGADA Clube de Regatas Vasco da Gama | Nininho x Albino Rocha line=5 duel=7.42 corte=-1.55
+[078] FINAL Clube de Regatas Vasco da Gama | Fausto Garcia fam=1 duel=22.38 on_target=0.707 goal=0.253
+[078] FINAL Fausto Garcia: no alvo sem gol (roll=0.566)
+[079] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[079] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.396 roll=0.095
+[079] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Octaviano Tomás line=5 duel=22.65 corte=-1.55
+[079] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=1 duel=6.16 on_target=0.705 goal=0.246
+[079] FINAL Hugo Júnior Cruz: no alvo sem gol (roll=0.775)
+[080] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[080] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.415 roll=0.602
+[081] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[081] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.396 roll=0.908
+[082] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[082] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.415 roll=0.442
+[083] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[083] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.415 roll=0.294
+[083] JOGADA Palmeiras Atlético Clube | Mirco Henriques x Pedro Silva line=3 duel=-14.73 corte=-1.30
+[083] JOGADA falhou: Pedro Silva cortou
+[084] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[084] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.396 roll=0.852
+[085] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[085] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.481 roll=0.508
+[086] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[086] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.396 roll=0.598
+[087] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[087] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.481 roll=0.241
+[087] JOGADA Palmeiras Atlético Clube | Oto Dantas x Pedro Silva line=3 duel=-25.10 corte=-1.30
+[087] JOGADA falhou: Pedro Silva cortou
+[088] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[088] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.396 roll=0.037
+[088] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Caetano Modesto line=4 duel=-0.29 corte=-1.30
+[088] FINAL Clube de Regatas Vasco da Gama | Fausto Garcia fam=1 duel=16.50 on_target=0.706 goal=0.258
+[088] FINAL Fausto Garcia: no alvo sem gol (roll=0.532)
+[089] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[089] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.396 roll=0.893
+[090] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[090] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.481 roll=0.768
+[091] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[091] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.481 roll=0.214
+[091] JOGADA Palmeiras Atlético Clube | Mirco Henriques x Ronaldo Mendonça line=4 duel=-7.73 corte=-1.30
+[091] JOGADA falhou: Ronaldo Mendonça cortou
+[092] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[092] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.481 roll=0.885
+[093] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[093] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.481 roll=0.173
+[093] JOGADA Palmeiras Atlético Clube | Octaviano Tomás x Pedro Silva line=3 duel=-20.02 corte=-1.30
+[093] JOGADA falhou: Pedro Silva cortou
+[094] posse=Palmeiras Atlético Clube | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[094] BUILD Palmeiras Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.481 roll=0.624
+[095] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Palmeiras Atlético Clube
+[095] BUILD Clube de Regatas Vasco da Gama vs Palmeiras Atlético Clube prob=0.396 roll=0.144
+[095] JOGADA Clube de Regatas Vasco da Gama | Júlio Martins x Caetano Modesto line=4 duel=-5.61 corte=-1.30
+[095] JOGADA falhou: Caetano Modesto cortou

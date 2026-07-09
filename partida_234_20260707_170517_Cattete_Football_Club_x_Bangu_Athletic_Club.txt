@@ -1,0 +1,332 @@
+Partida #234
+Data: 1912-01-24
+Mandante: Cattete Football Club
+Visitante: Bangu Athletic Club
+Placar: 3 x 1
+Seed: -
+Estádio: Arena do Cattete
+Clima: Ensolarado
+Placar tempo normal: 3 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Cattete Football Club x Bangu Athletic Club | estádio=Arena do Cattete | clima=Ensolarado | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Bangu Athletic Club | placar Cattete Football Club 0 x 0 Bangu Athletic Club
+[001] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.361 roll=0.172
+[001] JOGADA Bangu Athletic Club | Vitor Quitério Gonzaga x Guatambu Magalhães line=4 duel=48.65 corte=-1.11
+[001] FINAL Bangu Athletic Club | Moacir Zanetti fam=3 duel=-18.85 on_target=0.617 goal=0.184
+[001] FINAL Moacir Zanetti: fora/alvo perdido (roll=0.800)
+[002] posse=Bangu Athletic Club | placar Cattete Football Club 0 x 0 Bangu Athletic Club
+[002] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.361 roll=0.751
+[003] posse=Cattete Football Club | placar Cattete Football Club 0 x 0 Bangu Athletic Club
+[003] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.338 roll=0.162
+[003] JOGADA Cattete Football Club | Jetro Seixas x Frederick Burton line=3 duel=112.51 corte=-1.70
+[003] FINAL Cattete Football Club | Crixás Lima fam=5 duel=-3.80 on_target=0.578 goal=0.154
+[003] FINAL Crixás Lima: no alvo sem gol (roll=0.576)
+[004] posse=Cattete Football Club | placar Cattete Football Club 0 x 0 Bangu Athletic Club
+[004] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.338 roll=0.516
+[005] posse=Bangu Athletic Club | placar Cattete Football Club 0 x 0 Bangu Athletic Club
+[005] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.361 roll=0.754
+[006] posse=Cattete Football Club | placar Cattete Football Club 0 x 0 Bangu Athletic Club
+[006] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.338 roll=0.016
+[006] JOGADA Cattete Football Club | Cananéia Padilha x Moacir Zanetti line=3 duel=31.44 corte=-1.70
+[006] FINAL Cattete Football Club | Crixás Lima fam=5 duel=-3.89 on_target=0.578 goal=0.154
+[006] FINAL Crixás Lima: GOL subtipo=FALTA (roll=0.094)
+[007] posse=Cattete Football Club | placar Cattete Football Club 1 x 0 Bangu Athletic Club
+[007] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.372 roll=0.359
+[007] JOGADA Cattete Football Club | Jetro Seixas x Vitor Quitério Gonzaga line=4 duel=-7.26 corte=-1.70
+[008] posse=Bangu Athletic Club | placar Cattete Football Club 1 x 0 Bangu Athletic Club
+[008] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.413 roll=0.653
+[009] posse=Bangu Athletic Club | placar Cattete Football Club 1 x 0 Bangu Athletic Club
+[009] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.413 roll=0.162
+[009] JOGADA Bangu Athletic Club | Saulo Linhares x Crixás Lima line=4 duel=92.47 corte=-1.10
+[009] FINAL Bangu Athletic Club | Moacir Zanetti fam=3 duel=8.34 on_target=0.619 goal=0.197
+[009] FINAL Moacir Zanetti: no alvo sem gol (roll=0.498)
+[010] posse=Cattete Football Club | placar Cattete Football Club 1 x 0 Bangu Athletic Club
+[010] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.372 roll=0.925
+[011] posse=Cattete Football Club | placar Cattete Football Club 1 x 0 Bangu Athletic Club
+[011] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.402 roll=0.144
+[011] JOGADA Cattete Football Club | Cândido Baptista x Roberto Alves line=3 duel=-14.82 corte=-1.70
+[011] JOGADA falhou: Roberto Alves cortou
+[012] posse=Bangu Athletic Club | placar Cattete Football Club 1 x 0 Bangu Athletic Club
+[012] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.446 roll=0.132
+[012] JOGADA Bangu Athletic Club | Heleno Garcia x Acácio Casagrande line=4 duel=9.07 corte=-1.10
+[012] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=16.44 on_target=0.737 goal=0.277
+[012] FINAL Moacir Zanetti: no alvo sem gol (roll=0.372)
+[013] posse=Bangu Athletic Club | placar Cattete Football Club 1 x 0 Bangu Athletic Club
+[013] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.446 roll=0.241
+[013] JOGADA Bangu Athletic Club | Roberto Alves x Jetro Seixas line=3 duel=50.62 corte=-1.10
+[013] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=15.14 on_target=0.737 goal=0.276
+[013] FINAL Moacir Zanetti: no alvo sem gol (roll=0.415)
+[014] posse=Cattete Football Club | placar Cattete Football Club 1 x 0 Bangu Athletic Club
+[014] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.402 roll=0.563
+[015] posse=Cattete Football Club | placar Cattete Football Club 1 x 0 Bangu Athletic Club
+[015] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.402 roll=0.337
+[015] JOGADA Cattete Football Club | Teodemiro Leão x Moacir Zanetti line=3 duel=29.41 corte=-1.70
+[015] FINAL Cattete Football Club | Crixás Lima fam=5 duel=-3.53 on_target=0.623 goal=0.164
+[015] FINAL Crixás Lima: GOL subtipo=FALTA (roll=0.159)
+[016] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[016] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.447 roll=0.180
+[016] JOGADA Bangu Athletic Club | Bernardo Guimarães x Cândido Baptista line=3 duel=33.13 corte=-1.10
+[016] FINAL Bangu Athletic Club | Saulo Linhares fam=1 duel=-1.01 on_target=0.724 goal=0.262
+[016] FINAL Saulo Linhares: no alvo sem gol (roll=0.484)
+[017] posse=Cattete Football Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[017] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.395 roll=0.935
+[018] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[018] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.447 roll=0.556
+[019] posse=Cattete Football Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[019] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.395 roll=0.247
+[019] JOGADA Cattete Football Club | Héber Galvão x Heleno Garcia line=4 duel=-8.78 corte=-1.70
+[019] JOGADA falhou: Heleno Garcia cortou
+[020] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[020] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.447 roll=0.680
+[021] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[021] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.480 roll=0.245
+[021] JOGADA Bangu Athletic Club | Roberto Alves x Héber Galvão line=4 duel=28.90 corte=-1.10
+[021] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=21.68 on_target=0.778 goal=0.289
+[021] FINAL Frederick Burton: no alvo sem gol (roll=0.582)
+[022] posse=Cattete Football Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[022] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.425 roll=0.502
+[023] posse=Cattete Football Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[023] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.425 roll=0.392
+[023] JOGADA Cattete Football Club | Cananéia Padilha x Heleno Garcia line=3 duel=-1.27 corte=-1.70
+[023] FINAL Cattete Football Club | Héber Galvão fam=5 duel=-5.10 on_target=0.639 goal=0.161
+[023] FINAL Héber Galvão: fora/alvo perdido (roll=0.811)
+[024] posse=Cattete Football Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[024] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.425 roll=0.334
+[024] JOGADA Cattete Football Club | Acácio Casagrande x Júlio Gutierres Barbosa line=3 duel=-15.94 corte=-1.70
+[024] JOGADA falhou: Júlio Gutierres Barbosa cortou
+[025] posse=Cattete Football Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[025] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.425 roll=0.726
+[026] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[026] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.480 roll=0.004
+[026] JOGADA Bangu Athletic Club | Vitor Quitério Gonzaga x Crixás Lima line=4 duel=35.21 corte=-1.10
+[026] FINAL Bangu Athletic Club | Frederick Burton fam=3 duel=24.03 on_target=0.706 goal=0.226
+[026] FINAL Frederick Burton: fora/alvo perdido (roll=0.737)
+[027] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[027] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.480 roll=0.620
+[028] posse=Cattete Football Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[028] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.425 roll=0.266
+[028] JOGADA Cattete Football Club | Guatambu Magalhães x Júlio Gutierres Barbosa line=3 duel=-15.64 corte=-1.70
+[028] JOGADA falhou: Júlio Gutierres Barbosa cortou
+[029] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[029] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.480 roll=0.271
+[029] JOGADA Bangu Athletic Club | Júlio Gutierres Barbosa x Ubiraci Schneider line=4 duel=114.83 corte=-1.10
+[029] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=20.77 on_target=0.778 goal=0.288
+[029] FINAL Frederick Burton: no alvo sem gol (roll=0.374)
+[030] posse=Cattete Football Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[030] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.425 roll=0.563
+[031] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[031] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.480 roll=0.086
+[031] JOGADA Bangu Athletic Club | Heleno Garcia x Jetro Seixas line=5 duel=7.22 corte=-1.35
+[031] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=6.27 on_target=0.775 goal=0.280
+[031] FINAL Moacir Zanetti: no alvo sem gol (roll=0.780)
+[032] posse=Cattete Football Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[032] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.427 roll=0.158
+[032] JOGADA Cattete Football Club | Ubiraci Schneider x Roberto Alves line=2 duel=-19.42 corte=-1.70
+[032] JOGADA falhou: Roberto Alves cortou
+[033] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 0 Bangu Athletic Club
+[033] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.480 roll=0.147
+[033] JOGADA Bangu Athletic Club | André Luiz Barcelos x Jetro Seixas line=4 duel=12.32 corte=-1.10
+[033] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=23.06 on_target=0.778 goal=0.290
+[033] FINAL Frederick Burton: GOL subtipo=CHUTE (roll=0.235)
+[034] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 1 Bangu Athletic Club
+[034] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.480 roll=0.615
+[035] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 1 Bangu Athletic Club
+[035] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.480 roll=0.615
+[036] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 1 Bangu Athletic Club
+[036] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.480 roll=0.996
+[037] posse=Cattete Football Club | placar Cattete Football Club 2 x 1 Bangu Athletic Club
+[037] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.435 roll=0.829
+[038] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 1 Bangu Athletic Club
+[038] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.480 roll=0.497
+[039] posse=Cattete Football Club | placar Cattete Football Club 2 x 1 Bangu Athletic Club
+[039] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.435 roll=0.965
+[040] posse=Cattete Football Club | placar Cattete Football Club 2 x 1 Bangu Athletic Club
+[040] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.435 roll=0.647
+[041] posse=Cattete Football Club | placar Cattete Football Club 2 x 1 Bangu Athletic Club
+[041] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.435 roll=0.644
+[042] posse=Bangu Athletic Club | placar Cattete Football Club 2 x 1 Bangu Athletic Club
+[042] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.480 roll=0.234
+[042] JOGADA Bangu Athletic Club | Saulo Linhares x Teodemiro Leão line=5 duel=85.34 corte=-1.35
+[042] FINAL Bangu Athletic Club | Frederick Burton fam=3 duel=27.25 on_target=0.706 goal=0.228
+[042] FINAL Frederick Burton: no alvo sem gol (roll=0.288)
+[043] posse=Cattete Football Club | placar Cattete Football Club 2 x 1 Bangu Athletic Club
+[043] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.435 roll=0.352
+[043] JOGADA Cattete Football Club | Teodemiro Leão x Júlio Gutierres Barbosa line=3 duel=23.79 corte=-1.70
+[043] FINAL Cattete Football Club | Ubiraci Schneider fam=5 duel=-25.23 on_target=0.658 goal=0.160
+[043] FINAL Ubiraci Schneider: GOL subtipo=FALTA (roll=0.080)
+[044] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[044] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.480 roll=0.815
+[045] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[045] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.427 roll=0.529
+[046] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[046] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.397 roll=0.496
+[047] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[047] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.447 roll=0.621
+[048] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[048] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.447 roll=0.905
+[049] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[049] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.447 roll=0.978
+[050] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[050] SUB Bangu Athletic Club: saiu Moacir Zanetti (SA) | entrou Fernando Donohoe (MA) | subs=1/5
+[050] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.363 roll=0.682
+[051] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[051] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.434 roll=0.504
+[052] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[052] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.363 roll=0.623
+[053] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[053] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.434 roll=0.939
+[054] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[054] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.434 roll=0.680
+[055] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[055] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.363 roll=0.523
+[056] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[056] SUB Cattete Football Club: saiu Teodemiro Leão (MC) | entrou Emanuel Robledo (VOL) | subs=1/5
+[056] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.468 roll=0.544
+[057] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[057] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.395 roll=0.120
+[057] JOGADA Cattete Football Club | Crixás Lima x Fernando Donohoe line=3 duel=-22.49 corte=-1.70
+[057] FINAL Cattete Football Club | Crixás Lima fam=5 duel=-5.15 on_target=0.636 goal=0.159
+[057] FINAL Crixás Lima: fora/alvo perdido (roll=0.913)
+[058] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[058] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.448 roll=0.765
+[059] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[059] SUB Cattete Football Club: saiu Ubiraci Schneider (MC) | entrou Xanxerê Alcoforado (VOL) | subs=2/5
+[059] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.399 roll=0.278
+[059] JOGADA Cattete Football Club | Guatambu Magalhães x André Luiz Barcelos line=2 duel=-38.55 corte=-1.70
+[059] JOGADA falhou: André Luiz Barcelos cortou
+[060] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[060] SUB Cattete Football Club: saiu Crixás Lima (SA) | entrou Alão Schultz (PE) | subs=3/5
+[060] SUB Bangu Athletic Club: saiu Saulo Linhares (MD) | entrou Mário José Neto (MC) | subs=2/5
+[060] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.405 roll=0.718
+[061] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[061] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.451 roll=0.092
+[061] JOGADA Bangu Athletic Club | Júlio Gutierres Barbosa x Acácio Casagrande line=3 duel=81.82 corte=-1.10
+[061] FINAL Bangu Athletic Club | Fernando Donohoe fam=1 duel=33.48 on_target=0.768 goal=0.289
+[061] FINAL Fernando Donohoe: fora/alvo perdido (roll=0.986)
+[062] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[062] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.451 roll=0.979
+[063] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[063] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.405 roll=0.942
+[064] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[064] SUB Cattete Football Club: saiu Acácio Casagrande (ZAG) | entrou Eudes Manhães (ZAG) | subs=4/5
+[064] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.404 roll=0.475
+[065] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[065] SUB Cattete Football Club: saiu Cananéia Padilha (ME) | entrou Jandir Minas (ME) | subs=5/5
+[065] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.455 roll=0.246
+[065] JOGADA Bangu Athletic Club | Heleno Garcia x Cândido Baptista line=4 duel=45.69 corte=-1.10
+[065] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=29.04 on_target=0.779 goal=0.293
+[065] FINAL Frederick Burton: fora/alvo perdido (roll=0.781)
+[066] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[066] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.455 roll=0.531
+[067] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[067] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.397 roll=0.388
+[067] JOGADA Cattete Football Club | Emanuel Robledo x André Luiz Barcelos line=3 duel=47.44 corte=-1.70
+[067] FINAL Cattete Football Club | Héber Galvão fam=5 duel=-3.05 on_target=0.640 goal=0.163
+[067] FINAL Héber Galvão: no alvo sem gol (roll=0.518)
+[068] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[068] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.401 roll=0.225
+[068] JOGADA Cattete Football Club | Edmar Portela x Bernardo Guimarães line=2 duel=-8.07 corte=-1.70
+[068] JOGADA falhou: Bernardo Guimarães cortou
+[069] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[069] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.455 roll=0.502
+[070] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[070] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.401 roll=0.505
+[071] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[071] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.455 roll=0.238
+[071] JOGADA Bangu Athletic Club | Alfred Moore x Cândido Baptista line=3 duel=66.12 corte=-1.09
+[071] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=25.57 on_target=0.778 goal=0.291
+[071] FINAL Frederick Burton: no alvo sem gol (roll=0.759)
+[072] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[072] SUB Bangu Athletic Club: saiu Vitor Quitério Gonzaga (ME) | entrou Tadeu Pelicano (MA) | subs=3/5
+[072] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.456 roll=0.958
+[073] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[073] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.456 roll=0.270
+[073] JOGADA Cattete Football Club | Cândido Baptista x Mário José Neto line=3 duel=16.97 corte=-1.70
+[073] FINAL Cattete Football Club | Alão Schultz fam=5 duel=21.80 on_target=0.647 goal=0.178
+[073] FINAL Alão Schultz: fora/alvo perdido (roll=0.987)
+[074] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[074] SUB Bangu Athletic Club: saiu Roberto Alves (ZAG) | entrou Bernardo Alvares (ZAG) | subs=4/5
+[074] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.411 roll=0.183
+[074] JOGADA Cattete Football Club | Emanuel Robledo x Júlio Gutierres Barbosa line=2 duel=78.56 corte=-1.70
+[074] FINAL Cattete Football Club | Jandir Minas fam=5 duel=-27.91 on_target=0.642 goal=0.153
+[074] FINAL Jandir Minas: no alvo sem gol (roll=0.522)
+[075] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[075] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.411 roll=0.881
+[076] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[076] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.497 roll=0.928
+[077] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[077] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.399 roll=0.774
+[078] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[078] SUB Bangu Athletic Club: saiu Alfred Moore (ZAG) | entrou John Redwood (ZAG) | subs=5/5
+[078] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.500 roll=0.060
+[078] JOGADA Bangu Athletic Club | André Luiz Barcelos x Alão Schultz line=5 duel=30.76 corte=-1.31
+[078] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=22.58 on_target=0.833 goal=0.304
+[078] FINAL Frederick Burton: no alvo sem gol (roll=0.904)
+[079] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[079] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.500 roll=0.321
+[079] JOGADA Bangu Athletic Club | Heleno Garcia x Guatambu Magalhães line=3 duel=16.97 corte=-1.06
+[079] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=22.22 on_target=0.833 goal=0.304
+[079] FINAL Frederick Burton: no alvo sem gol (roll=0.959)
+[080] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[080] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.414 roll=0.167
+[080] JOGADA Cattete Football Club | Edmar Portela x Tadeu Pelicano line=3 duel=-6.86 corte=-1.70
+[080] JOGADA falhou: Tadeu Pelicano cortou
+[081] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[081] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.500 roll=0.385
+[081] JOGADA Bangu Athletic Club | Tadeu Pelicano x Edmar Portela line=4 duel=71.58 corte=-1.06
+[081] FINAL Bangu Athletic Club | Frederick Burton fam=3 duel=22.52 on_target=0.755 goal=0.236
+[081] FINAL Frederick Burton: fora/alvo perdido (roll=0.789)
+[082] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[082] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.414 roll=0.240
+[082] JOGADA Cattete Football Club | Jetro Seixas x John Redwood line=2 duel=-18.13 corte=-1.70
+[082] JOGADA falhou: John Redwood cortou
+[083] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[083] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.414 roll=0.692
+[084] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[084] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.414 roll=0.664
+[085] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[085] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.579 roll=0.344
+[085] JOGADA Bangu Athletic Club | Tadeu Pelicano x Edmar Portela line=5 duel=67.48 corte=-1.81
+[085] FINAL Bangu Athletic Club | Frederick Burton fam=3 duel=19.92 on_target=0.864 goal=0.242
+[085] FINAL Frederick Burton: no alvo sem gol (roll=0.654)
+[086] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[086] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.579 roll=0.415
+[086] JOGADA Bangu Athletic Club | André Luiz Barcelos x Alão Schultz line=4 duel=71.82 corte=-1.06
+[086] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=17.96 on_target=0.920 goal=0.310
+[086] FINAL Frederick Burton: no alvo sem gol (roll=0.839)
+[087] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[087] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.414 roll=0.624
+[088] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[088] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.414 roll=0.013
+[088] JOGADA Cattete Football Club | Eudes Manhães x John Redwood line=3 duel=-21.29 corte=-1.70
+[088] JOGADA falhou: John Redwood cortou
+[089] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[089] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.414 roll=0.617
+[090] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[090] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.579 roll=0.085
+[090] JOGADA Bangu Athletic Club | André Luiz Barcelos x Héber Galvão line=3 duel=21.03 corte=-1.06
+[090] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=15.17 on_target=0.920 goal=0.309
+[090] FINAL Frederick Burton: no alvo sem gol (roll=0.332)
+[091] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[091] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.579 roll=0.104
+[091] JOGADA Bangu Athletic Club | Frederick Burton x Guatambu Magalhães line=5 duel=12.87 corte=-1.81
+[091] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=15.24 on_target=0.920 goal=0.309
+[091] FINAL Frederick Burton: no alvo sem gol (roll=0.739)
+[092] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[092] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.414 roll=0.048
+[092] JOGADA Cattete Football Club | Xanxerê Alcoforado x Frederick Burton line=4 duel=16.42 corte=-1.70
+[092] JOGADA Cattete Football Club | Jandir Minas x Mário José Neto line=4 duel=-1.26 corte=-1.70
+[092] JOGADA Cattete Football Club | Eudes Manhães x Tadeu Pelicano line=5 duel=34.45 corte=-1.95
+[092] FINAL Cattete Football Club | Alão Schultz fam=5 duel=5.99 on_target=0.632 goal=0.172
+[092] FINAL Alão Schultz: no alvo sem gol (roll=0.933)
+[093] posse=Bangu Athletic Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[093] BUILD Bangu Athletic Club vs Cattete Football Club prob=0.579 roll=0.080
+[093] JOGADA Bangu Athletic Club | Frederick Burton x Xanxerê Alcoforado line=4 duel=2.78 corte=-1.06
+[093] FINAL Bangu Athletic Club | Heleno Garcia fam=1 duel=12.70 on_target=0.920 goal=0.302
+[093] FINAL Heleno Garcia: no alvo sem gol (roll=0.784)
+[094] posse=Cattete Football Club | placar Cattete Football Club 3 x 1 Bangu Athletic Club
+[094] BUILD Cattete Football Club vs Bangu Athletic Club prob=0.414 roll=0.981

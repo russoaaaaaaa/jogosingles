@@ -1,0 +1,314 @@
+Partida #213
+Data: 1912-01-20
+Mandante: Rural Atlético Clube
+Visitante: Liga de Sports da Marinha
+Placar: 2 x 2
+Seed: -
+Estádio: Arena Chiqueiro
+Clima: Ensolarado
+Placar tempo normal: 2 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Rural Atlético Clube x Liga de Sports da Marinha | estádio=Arena Chiqueiro | clima=Ensolarado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[001] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.312 roll=0.182
+[001] JOGADA Rural Atlético Clube | Érico Lorentino x Roraima De Marchi line=5 duel=133.56 corte=-1.39
+[001] FINAL Rural Atlético Clube | Piragibe Haghissé fam=3 duel=8.23 on_target=0.546 goal=0.169
+[001] FINAL Piragibe Haghissé: no alvo sem gol (roll=0.384)
+[002] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[002] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.328 roll=0.389
+[003] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[003] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.328 roll=0.948
+[004] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[004] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.312 roll=0.149
+[004] JOGADA Rural Atlético Clube | Will Anthonio Zeppeli x Roraima De Marchi line=4 duel=43.57 corte=-1.14
+[004] FINAL Rural Atlético Clube | Piragibe Haghissé fam=3 duel=0.04 on_target=0.545 goal=0.166
+[004] FINAL Piragibe Haghissé: no alvo sem gol (roll=0.942)
+[005] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[005] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.312 roll=0.639
+[006] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[006] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.328 roll=0.681
+[007] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[007] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.328 roll=0.717
+[007] FINAL Liga de Sports da Marinha | Eriberto Monte fam=5 duel=-37.85 on_target=0.516 goal=0.120
+[007] FINAL Eriberto Monte: fora/alvo perdido (roll=0.871)
+[008] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[008] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.312 roll=0.646
+[009] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[009] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.312 roll=0.951
+[010] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[010] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.328 roll=0.481
+[011] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[011] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.354 roll=0.706
+[012] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[012] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.354 roll=0.268
+[012] JOGADA Liga de Sports da Marinha | Geraldo Montanari x Teliciano Garcia line=5 duel=11.70 corte=-2.05
+[012] JOGADA Liga de Sports da Marinha | Genival Rosa x Marciano Capetinha line=5 duel=70.97 corte=-2.05
+[012] FINAL Liga de Sports da Marinha | Genival Rosa fam=5 duel=-72.52 on_target=0.556 goal=0.113
+[012] FINAL Genival Rosa: no alvo sem gol (roll=0.366)
+[013] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[013] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.354 roll=0.089
+[013] JOGADA Liga de Sports da Marinha | Genival Rosa x Érico Lorentino line=4 duel=5.38 corte=-1.30
+[013] FINAL Liga de Sports da Marinha | Genival Rosa fam=5 duel=0.77 on_target=0.560 goal=0.145
+[013] FINAL Genival Rosa: no alvo sem gol (roll=0.222)
+[014] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[014] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.337 roll=0.965
+[015] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[015] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.337 roll=0.885
+[016] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[016] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.354 roll=0.291
+[016] JOGADA Liga de Sports da Marinha | Bianor Caldeira x Celeritano Mendes line=4 duel=-10.72 corte=-1.30
+[017] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[017] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.337 roll=0.049
+[017] JOGADA Rural Atlético Clube | Geroldo Carlos x Arsénio Barros line=4 duel=-24.67 corte=-1.14
+[018] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[018] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.337 roll=0.536
+[019] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[019] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.337 roll=0.333
+[019] JOGADA Rural Atlético Clube | Robert E. O. Speedwagon x Thales Bacelar line=4 duel=35.91 corte=-1.14
+[019] FINAL Rural Atlético Clube | Teliciano Garcia fam=1 duel=16.14 on_target=0.651 goal=0.238
+[019] FINAL Teliciano Garcia: fora/alvo perdido (roll=0.862)
+[020] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[020] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.337 roll=0.429
+[021] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[021] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.363 roll=0.219
+[021] JOGADA Rural Atlético Clube | Érico Lorentino x Thales Bacelar line=5 duel=46.81 corte=-1.39
+[021] FINAL Rural Atlético Clube | Will Anthonio Zeppeli fam=3 duel=-6.63 on_target=0.619 goal=0.179
+[021] FINAL Will Anthonio Zeppeli: no alvo sem gol (roll=0.609)
+[022] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[022] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.363 roll=0.514
+[023] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[023] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.381 roll=0.527
+[024] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[024] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.363 roll=0.455
+[025] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[025] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.381 roll=0.782
+[026] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[026] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.381 roll=0.776
+[027] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[027] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.381 roll=0.480
+[028] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[028] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.381 roll=0.822
+[029] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[029] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.363 roll=0.020
+[029] JOGADA Rural Atlético Clube | Érico Lorentino x Isidro Vilaça line=5 duel=88.60 corte=-1.39
+[029] FINAL Rural Atlético Clube | Will Anthonio Zeppeli fam=3 duel=-13.03 on_target=0.619 goal=0.176
+[029] FINAL Will Anthonio Zeppeli: fora/alvo perdido (roll=0.965)
+[030] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[030] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.381 roll=0.837
+[031] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[031] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.381 roll=0.142
+[031] JOGADA Liga de Sports da Marinha | Caim Avelar x Marciano Capetinha line=5 duel=57.16 corte=-1.55
+[031] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Benjamin Saraiva line=5 duel=50.26 corte=-1.55
+[031] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=5 duel=4.69 on_target=0.596 goal=0.154
+[031] FINAL Geraldo Montanari: no alvo sem gol (roll=0.314)
+[032] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[032] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.384 roll=0.387
+[033] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[033] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.384 roll=0.806
+[034] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[034] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.363 roll=0.843
+[035] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[035] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.363 roll=0.032
+[035] JOGADA Rural Atlético Clube | Teliciano Garcia x Bianor Caldeira line=3 duel=25.32 corte=-1.14
+[035] FINAL Rural Atlético Clube | Piragibe Haghissé fam=1 duel=-8.17 on_target=0.683 goal=0.233
+[035] FINAL Piragibe Haghissé: fora/alvo perdido (roll=0.830)
+[036] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[036] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.363 roll=0.807
+[037] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[037] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.384 roll=0.079
+[037] JOGADA Liga de Sports da Marinha | Arsénio Barros x Robert E. O. Speedwagon line=5 duel=105.52 corte=-1.55
+[037] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=5 duel=9.04 on_target=0.597 goal=0.156
+[037] FINAL Geraldo Montanari: no alvo sem gol (roll=0.233)
+[038] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[038] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.384 roll=0.746
+[039] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[039] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.384 roll=0.864
+[040] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 0 Liga de Sports da Marinha
+[040] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.384 roll=0.544
+[040] FINAL Liga de Sports da Marinha | Roraima De Marchi fam=5 duel=-83.33 on_target=0.582 goal=0.111
+[040] FINAL Roraima De Marchi: GOL subtipo=FALTA (roll=0.023)
+[041] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[041] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.409 roll=0.409
+[042] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[042] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.384 roll=0.213
+[042] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Benjamin Saraiva line=5 duel=-6.65 corte=-1.55
+[042] JOGADA falhou: Benjamin Saraiva cortou
+[043] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[043] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.384 roll=0.406
+[044] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[044] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.384 roll=0.469
+[045] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[045] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.384 roll=0.215
+[045] JOGADA Liga de Sports da Marinha | Roraima De Marchi x Geroldo Carlos line=4 duel=-7.94 corte=-1.30
+[045] JOGADA falhou: Geroldo Carlos cortou
+[046] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[046] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.357 roll=0.967
+[047] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[047] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.357 roll=0.791
+[048] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[048] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.357 roll=0.776
+[049] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[049] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.381 roll=0.394
+[050] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[050] SUB Rural Atlético Clube: saiu Will Anthonio Zeppeli (MA) | entrou Abdullah Pretão (SA) | subs=1/5
+[050] SUB Liga de Sports da Marinha: saiu Roraima De Marchi (MC) | entrou Agatão Martins (VOL) | subs=1/5
+[050] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.380 roll=0.958
+[051] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[051] SUB Rural Atlético Clube: saiu Piragibe Haghissé (CA) | entrou Jebadias de Assunção (CA) | subs=2/5
+[051] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.378 roll=0.344
+[051] JOGADA Rural Atlético Clube | Benjamin Saraiva x Agatão Martins line=4 duel=8.82 corte=-1.30
+[051] FINAL Rural Atlético Clube | Jebadias de Assunção fam=1 duel=26.93 on_target=0.649 goal=0.241
+[051] FINAL Jebadias de Assunção: no alvo sem gol (roll=0.943)
+[052] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[052] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.378 roll=0.280
+[052] JOGADA Rural Atlético Clube | Robert E. O. Speedwagon x Geraldo Montanari line=4 duel=31.49 corte=-1.30
+[052] FINAL Rural Atlético Clube | Abdullah Pretão fam=1 duel=30.14 on_target=0.648 goal=0.242
+[052] FINAL Abdullah Pretão: fora/alvo perdido (roll=0.798)
+[053] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[053] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.378 roll=0.983
+[054] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[054] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.324 roll=0.663
+[055] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[055] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.324 roll=0.677
+[056] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[056] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.407 roll=0.546
+[057] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[057] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.407 roll=0.903
+[058] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[058] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.407 roll=0.348
+[058] JOGADA Rural Atlético Clube | Teliciano Garcia x Genival Rosa line=4 duel=41.66 corte=-1.30
+[058] FINAL Rural Atlético Clube | Geroldo Carlos fam=1 duel=1.50 on_target=0.677 goal=0.235
+[058] FINAL Geroldo Carlos: fora/alvo perdido (roll=0.927)
+[059] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[059] SUB Rural Atlético Clube: saiu Benjamin Saraiva (ZAG) | entrou Sócrates Espinho (ZAG) | subs=3/5
+[059] SUB Liga de Sports da Marinha: saiu Genival Rosa (SA) | entrou Curuaia Fasano (PE) | subs=2/5
+[059] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.406 roll=0.995
+[060] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[060] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.406 roll=0.552
+[061] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[061] SUB Liga de Sports da Marinha: saiu Bianor Caldeira (MD) | entrou Sócrates Inácio (MD) | subs=3/5
+[061] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.380 roll=0.717
+[062] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[062] SUB Liga de Sports da Marinha: saiu Thales Bacelar (ME) | entrou Waldir Pamplona (ME) | subs=4/5
+[062] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.369 roll=0.789
+[063] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[063] SUB Rural Atlético Clube: saiu Geroldo Carlos (MD) | entrou Julielson Mendonça (MD) | subs=4/5
+[063] SUB Liga de Sports da Marinha: saiu Caim Avelar (MC) | entrou Austrelino Dantas (VOL) | subs=5/5
+[063] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.365 roll=0.611
+[064] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[064] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.365 roll=0.557
+[065] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[065] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.408 roll=0.693
+[066] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[066] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.365 roll=0.338
+[066] JOGADA Liga de Sports da Marinha | Waldir Pamplona x Abdullah Pretão line=5 duel=35.69 corte=-1.55
+[066] JOGADA Liga de Sports da Marinha | Josefino Conceição x Teliciano Garcia line=5 duel=31.37 corte=-1.55
+[066] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=5 duel=11.84 on_target=0.599 goal=0.160
+[066] FINAL Geraldo Montanari: no alvo sem gol (roll=0.774)
+[067] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[067] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.365 roll=0.495
+[068] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[068] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.408 roll=0.796
+[069] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[069] SUB Rural Atlético Clube: saiu Mauro Minotauro (MC) | entrou João Pereba (VOL) | subs=5/5
+[069] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.372 roll=0.030
+[069] JOGADA Liga de Sports da Marinha | Sócrates Inácio x Jebadias de Assunção line=4 duel=39.39 corte=-1.30
+[069] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=5 duel=-33.68 on_target=0.596 goal=0.139
+[069] FINAL Geraldo Montanari: no alvo sem gol (roll=0.698)
+[070] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[070] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.409 roll=0.497
+[071] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[071] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.368 roll=0.888
+[072] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[072] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.368 roll=0.895
+[073] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[073] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.368 roll=0.427
+[074] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[074] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.368 roll=0.728
+[075] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[075] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.368 roll=0.626
+[076] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[076] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.357 roll=0.461
+[077] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[077] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.442 roll=0.937
+[078] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[078] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.442 roll=0.243
+[078] JOGADA Rural Atlético Clube | Celeritano Mendes x Agatão Martins line=4 duel=-8.51 corte=-1.08
+[078] JOGADA falhou: Agatão Martins cortou
+[079] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[079] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.442 roll=0.118
+[079] JOGADA Rural Atlético Clube | Sócrates Espinho x Josefino Conceição line=4 duel=61.25 corte=-1.08
+[079] FINAL Rural Atlético Clube | Jebadias de Assunção fam=1 duel=7.48 on_target=0.730 goal=0.251
+[079] FINAL Jebadias de Assunção: no alvo sem gol (roll=0.837)
+[080] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[080] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.442 roll=0.609
+[081] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[081] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.357 roll=0.476
+[082] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[082] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.357 roll=0.947
+[083] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[083] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.357 roll=0.104
+[083] JOGADA Liga de Sports da Marinha | Eriberto Monte x Marciano Capetinha line=4 duel=-83.58 corte=-1.30
+[083] JOGADA falhou: Marciano Capetinha cortou
+[084] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[084] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.357 roll=0.048
+[084] JOGADA Liga de Sports da Marinha | Curuaia Fasano x Jebadias de Assunção line=5 duel=92.96 corte=-2.05
+[084] FINAL Liga de Sports da Marinha | Curuaia Fasano fam=5 duel=6.09 on_target=0.568 goal=0.148
+[084] FINAL Curuaia Fasano: no alvo sem gol (roll=0.785)
+[085] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[085] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.465 roll=0.994
+[086] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[086] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.357 roll=0.161
+[086] JOGADA Liga de Sports da Marinha | Geraldo Montanari x Jebadias de Assunção line=4 duel=26.99 corte=-1.30
+[086] FINAL Liga de Sports da Marinha | Austrelino Dantas fam=5 duel=-12.37 on_target=0.567 goal=0.140
+[086] FINAL Austrelino Dantas: fora/alvo perdido (roll=0.808)
+[087] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[087] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.465 roll=0.405
+[087] JOGADA Rural Atlético Clube | João Pereba x Isidro Vilaça line=3 duel=7.61 corte=-1.08
+[087] FINAL Rural Atlético Clube | Abdullah Pretão fam=1 duel=2.91 on_target=0.775 goal=0.247
+[087] FINAL Abdullah Pretão: no alvo sem gol (roll=0.587)
+[088] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[088] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.465 roll=0.347
+[088] JOGADA Rural Atlético Clube | Marciano Capetinha x Isidro Vilaça line=4 duel=-0.67 corte=-1.08
+[088] FINAL Rural Atlético Clube | Abdullah Pretão fam=1 duel=2.63 on_target=0.775 goal=0.247
+[088] FINAL Abdullah Pretão: no alvo sem gol (roll=0.726)
+[089] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[089] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.465 roll=0.191
+[089] JOGADA Rural Atlético Clube | Érico Lorentino x Eriberto Monte line=5 duel=11.97 corte=-1.33
+[089] FINAL Rural Atlético Clube | Julielson Mendonça fam=3 duel=-19.68 on_target=0.699 goal=0.179
+[089] FINAL Julielson Mendonça: fora/alvo perdido (roll=0.971)
+[090] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Liga de Sports da Marinha
+[090] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.465 roll=0.406
+[090] JOGADA Rural Atlético Clube | Abdullah Pretão x Curuaia Fasano line=4 duel=15.55 corte=-1.08
+[090] FINAL Rural Atlético Clube | Teliciano Garcia fam=1 duel=9.06 on_target=0.780 goal=0.252
+[090] FINAL Teliciano Garcia: GOL subtipo=CHUTE (roll=0.207)
+[091] posse=Rural Atlético Clube | placar Rural Atlético Clube 1 x 1 Liga de Sports da Marinha
+[091] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.393 roll=0.122
+[091] JOGADA Rural Atlético Clube | Abdullah Pretão x Waldir Pamplona line=5 duel=65.37 corte=-1.83
+[091] FINAL Rural Atlético Clube | Jebadias de Assunção fam=1 duel=2.11 on_target=0.739 goal=0.239
+[091] FINAL Jebadias de Assunção: no alvo sem gol (roll=0.564)
+[092] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 1 x 1 Liga de Sports da Marinha
+[092] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.403 roll=0.866
+[093] posse=Rural Atlético Clube | placar Rural Atlético Clube 1 x 1 Liga de Sports da Marinha
+[093] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.393 roll=0.379
+[093] JOGADA Rural Atlético Clube | Celeritano Mendes x Sócrates Inácio line=5 duel=17.46 corte=-1.33
+[093] FINAL Rural Atlético Clube | Abdullah Pretão fam=1 duel=1.71 on_target=0.738 goal=0.239
+[093] FINAL Abdullah Pretão: GOL subtipo=CHUTE (roll=0.070)
+[094] posse=Rural Atlético Clube | placar Rural Atlético Clube 2 x 1 Liga de Sports da Marinha
+[094] BUILD Rural Atlético Clube vs Liga de Sports da Marinha prob=0.348 roll=0.634
+[095] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 2 x 1 Liga de Sports da Marinha
+[095] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.476 roll=0.332
+[095] JOGADA Liga de Sports da Marinha | Geraldo Montanari x Abdullah Pretão line=5 duel=16.22 corte=-2.05
+[095] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Teliciano Garcia line=5 duel=28.83 corte=-1.55
+[095] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=5 duel=-40.66 on_target=0.679 goal=0.143
+[095] FINAL Geraldo Montanari: GOL subtipo=FALTA (roll=0.087)
+[096] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 2 x 2 Liga de Sports da Marinha
+[096] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.403 roll=0.279
+[096] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Teliciano Garcia line=4 duel=-3.46 corte=-1.30
+[096] JOGADA falhou: Teliciano Garcia cortou
+[097] posse=Liga de Sports da Marinha | placar Rural Atlético Clube 2 x 2 Liga de Sports da Marinha
+[097] BUILD Liga de Sports da Marinha vs Rural Atlético Clube prob=0.403 roll=0.962

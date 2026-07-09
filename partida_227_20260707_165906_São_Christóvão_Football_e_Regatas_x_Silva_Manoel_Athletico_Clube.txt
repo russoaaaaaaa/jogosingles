@@ -1,0 +1,300 @@
+Partida #227
+Data: 1912-01-22
+Mandante: São Christóvão Football e Regatas
+Visitante: Silva Manoel Athletico Clube
+Placar: 0 x 0
+Seed: -
+Estádio: Estádio Figueira de Mello
+Clima: Chuva forte
+Placar tempo normal: 0 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: São Christóvão Football e Regatas x Silva Manoel Athletico Clube | estádio=Estádio Figueira de Mello | clima=Chuva forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[001] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.359 roll=0.860
+[002] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[002] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.274 roll=0.356
+[003] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[003] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.274 roll=0.171
+[003] JOGADA Silva Manoel Athletico Clube | Pacal Esteves x Putréfio Lemos line=3 duel=5.09 corte=-1.30
+[003] JOGADA Silva Manoel Athletico Clube | Iguape Saviano x Valério Cesarino line=4 duel=-10.71 corte=-1.30
+[003] JOGADA falhou: Valério Cesarino cortou
+[004] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[004] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.274 roll=0.722
+[005] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[005] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.359 roll=0.036
+[005] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Amado Mina line=4 duel=-3.43 corte=-1.14
+[006] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[006] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.274 roll=0.031
+[006] JOGADA Silva Manoel Athletico Clube | Maragogi Perdigão x Calistêmico Soares line=3 duel=-6.41 corte=-1.30
+[006] JOGADA falhou: Calistêmico Soares cortou
+[007] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[007] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.274 roll=0.994
+[008] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[008] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.359 roll=0.342
+[008] JOGADA São Christóvão Football e Regatas | Regente Feijó x Raphael Lima line=4 duel=44.93 corte=-1.14
+[008] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=1 duel=18.87 on_target=0.605 goal=0.230
+[008] FINAL Tadeu Gavião: fora/alvo perdido (roll=0.888)
+[009] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[009] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.359 roll=0.036
+[009] JOGADA São Christóvão Football e Regatas | Fevereiriano Macedo x Maragogi Perdigão line=3 duel=109.05 corte=-1.14
+[009] FINAL São Christóvão Football e Regatas | Calistêmico Soares fam=1 duel=19.69 on_target=0.606 goal=0.231
+[009] FINAL Calistêmico Soares: fora/alvo perdido (roll=0.697)
+[010] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[010] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.274 roll=0.137
+[010] JOGADA Silva Manoel Athletico Clube | Estevão Nunes x Celíaco Diabético line=3 duel=-4.22 corte=-1.30
+[011] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[011] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.297 roll=0.137
+[011] JOGADA Silva Manoel Athletico Clube | Iguape Saviano x Calistêmico Soares line=3 duel=6.23 corte=-1.30
+[011] JOGADA Silva Manoel Athletico Clube | Pacal Esteves x Putréfio Lemos line=4 duel=-11.51 corte=-1.30
+[011] JOGADA falhou: Putréfio Lemos cortou
+[012] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[012] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.388 roll=0.823
+[013] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[013] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.297 roll=0.251
+[013] JOGADA Silva Manoel Athletico Clube | Pacal Esteves x Valério Cesarino line=3 duel=3.10 corte=-1.30
+[013] JOGADA Silva Manoel Athletico Clube | Pacal Esteves x Celíaco Diabético line=4 duel=-65.46 corte=-1.30
+[013] JOGADA falhou: Celíaco Diabético cortou
+[014] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[014] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.297 roll=0.267
+[014] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Valério Cesarino line=3 duel=-1.53 corte=-1.30
+[014] JOGADA falhou: Valério Cesarino cortou
+[015] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[015] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.388 roll=0.633
+[016] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[016] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.388 roll=0.931
+[017] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[017] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.388 roll=0.404
+[018] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[018] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.388 roll=0.471
+[019] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[019] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.297 roll=0.995
+[020] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[020] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.297 roll=0.242
+[020] JOGADA Silva Manoel Athletico Clube | Iguape Saviano x Regente Feijó line=3 duel=-10.15 corte=-1.30
+[020] JOGADA falhou: Regente Feijó cortou
+[021] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[021] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.319 roll=0.677
+[022] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[022] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.417 roll=0.186
+[022] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Edimilson Graça line=5 duel=57.14 corte=-1.39
+[022] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=1 duel=26.41 on_target=0.695 goal=0.260
+[022] FINAL Murilo Sousa: fora/alvo perdido (roll=0.827)
+[023] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[023] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.319 roll=0.660
+[024] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[024] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.319 roll=0.002
+[024] JOGADA Silva Manoel Athletico Clube | Maragogi Perdigão x Mauricélio Canoa line=3 duel=-11.27 corte=-1.30
+[024] JOGADA falhou: Mauricélio Canoa cortou
+[025] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[025] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.319 roll=0.980
+[026] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[026] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.417 roll=0.085
+[026] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Estevão Nunes line=5 duel=38.31 corte=-1.39
+[026] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=1 duel=9.85 on_target=0.687 goal=0.249
+[026] FINAL Tadeu Gavião: no alvo sem gol (roll=0.339)
+[027] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[027] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.319 roll=0.817
+[028] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[028] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.319 roll=0.415
+[029] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[029] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.417 roll=0.637
+[030] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[030] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.417 roll=0.792
+[031] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[031] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.319 roll=0.070
+[031] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Mauricélio Canoa line=3 duel=-7.27 corte=-1.30
+[031] JOGADA falhou: Mauricélio Canoa cortou
+[032] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[032] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.321 roll=0.829
+[033] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[033] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.417 roll=0.409
+[033] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Iguape Saviano line=3 duel=4.60 corte=-1.14
+[033] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=1 duel=7.24 on_target=0.687 goal=0.248
+[033] FINAL Tadeu Gavião: fora/alvo perdido (roll=0.894)
+[034] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[034] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.321 roll=0.128
+[034] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Pedro Bittecourt line=3 duel=-1.44 corte=-1.30
+[034] JOGADA falhou: Pedro Bittecourt cortou
+[035] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[035] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.321 roll=0.460
+[036] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[036] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.417 roll=0.646
+[037] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[037] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.321 roll=0.349
+[038] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[038] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.321 roll=0.949
+[039] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[039] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.321 roll=0.194
+[039] JOGADA Silva Manoel Athletico Clube | Amado Mina x Putréfio Lemos line=3 duel=-18.48 corte=-1.30
+[039] JOGADA falhou: Putréfio Lemos cortou
+[040] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[040] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.321 roll=0.204
+[040] JOGADA Silva Manoel Athletico Clube | Raphael Lima x Valério Cesarino line=2 duel=34.48 corte=-1.30
+[040] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Mauricélio Canoa line=4 duel=-16.03 corte=-1.30
+[041] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[041] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.417 roll=0.447
+[042] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[042] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.417 roll=0.297
+[042] JOGADA São Christóvão Football e Regatas | Calistêmico Soares x Igarapava Baldin line=3 duel=16.49 corte=-1.14
+[042] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=1 duel=3.90 on_target=0.687 goal=0.246
+[042] FINAL Tadeu Gavião: fora/alvo perdido (roll=0.817)
+[043] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[043] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.417 roll=0.829
+[044] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[044] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.417 roll=0.771
+[045] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[045] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.417 roll=0.283
+[045] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Pacal Esteves line=3 duel=26.53 corte=-1.14
+[045] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=1 duel=9.22 on_target=0.687 goal=0.249
+[045] FINAL Tadeu Gavião: fora/alvo perdido (roll=0.926)
+[046] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[046] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.299 roll=0.434
+[047] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[047] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.299 roll=0.626
+[048] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[048] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.299 roll=0.452
+[049] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[049] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.299 roll=0.033
+[049] JOGADA Silva Manoel Athletico Clube | Inocêncio Natividade x Calistêmico Soares line=3 duel=-1.25 corte=-1.30
+[049] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Valério Cesarino line=4 duel=-62.66 corte=-1.30
+[049] JOGADA falhou: Valério Cesarino cortou
+[050] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[050] SUB São Christóvão Football e Regatas: saiu Tadeu Gavião (SA) | entrou Lúcio Gouveia (MA) | subs=1/5
+[050] SUB Silva Manoel Athletico Clube: saiu Raphael Lima (CA) | entrou Iauaretê Capitão (PE) | subs=1/5
+[050] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.306 roll=0.469
+[051] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[051] SUB São Christóvão Football e Regatas: saiu Fevereiriano Macedo (CA) | entrou Jacó Freire (CA) | subs=2/5
+[051] SUB Silva Manoel Athletico Clube: saiu Maragogi Perdigão (MC) | entrou Tarek Rios (VOL) | subs=2/5
+[051] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.271 roll=0.333
+[052] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[052] SUB São Christóvão Football e Regatas: saiu Pedro Bittecourt (VOL) | entrou Ciríaco Paredes (ZAG) | subs=3/5
+[052] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.270 roll=0.967
+[053] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[053] SUB São Christóvão Football e Regatas: saiu Valério Cesarino (LD) | entrou Ricardo Leal (LE) | subs=4/5
+[053] SUB Silva Manoel Athletico Clube: saiu Pacal Esteves (MD) | entrou Anatólio Filippi (PD) | subs=3/5
+[053] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.426 roll=0.559
+[054] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[054] SUB São Christóvão Football e Regatas: saiu Calistêmico Soares (MC) | entrou Miguel Moreira (ME) | subs=5/5
+[054] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.271 roll=0.254
+[054] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Celíaco Diabético line=4 duel=-4.88 corte=-1.10
+[054] JOGADA falhou: Celíaco Diabético cortou
+[055] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[055] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.421 roll=0.569
+[056] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[056] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.292 roll=0.282
+[056] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Mauricélio Canoa line=4 duel=-7.37 corte=-1.10
+[056] JOGADA falhou: Mauricélio Canoa cortou
+[057] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[057] SUB Silva Manoel Athletico Clube: saiu Inocêncio Natividade (LD) | entrou Aron Capiberibe (LD) | subs=4/5
+[057] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.453 roll=0.137
+[057] JOGADA São Christóvão Football e Regatas | Ciríaco Paredes x Edimilson Graça line=4 duel=14.21 corte=-1.70
+[057] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=22.93 on_target=0.605 goal=0.173
+[057] FINAL Murilo Sousa: fora/alvo perdido (roll=0.607)
+[058] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[058] SUB Silva Manoel Athletico Clube: saiu Uaupés Cunha (MC) | entrou Porfírio Gadelha (VOL) | subs=5/5
+[058] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.291 roll=0.502
+[059] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[059] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.456 roll=0.855
+[060] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[060] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.291 roll=0.628
+[061] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[061] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.460 roll=0.365
+[061] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Porfírio Gadelha line=4 duel=21.55 corte=-1.70
+[061] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=21.04 on_target=0.605 goal=0.173
+[061] FINAL Murilo Sousa: no alvo sem gol (roll=0.852)
+[062] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[062] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.291 roll=0.821
+[063] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[063] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.460 roll=0.864
+[064] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[064] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.460 roll=0.647
+[065] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[065] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.291 roll=0.589
+[066] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[066] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.460 roll=0.481
+[067] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[067] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.291 roll=0.151
+[067] JOGADA Silva Manoel Athletico Clube | Anatólio Filippi x Murilo Sousa line=2 duel=7.51 corte=-1.10
+[067] JOGADA Silva Manoel Athletico Clube | Amado Mina x Ricardo Leal line=3 duel=-20.34 corte=-1.10
+[067] JOGADA falhou: Ricardo Leal cortou
+[068] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[068] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.291 roll=0.879
+[069] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[069] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.291 roll=0.942
+[070] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[070] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.463 roll=0.990
+[071] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[071] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.291 roll=0.315
+[072] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[072] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.463 roll=0.777
+[073] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[073] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.291 roll=0.642
+[074] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[074] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.463 roll=0.262
+[074] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Porfírio Gadelha line=3 duel=-1.54 corte=-1.70
+[074] FINAL São Christóvão Football e Regatas | Miguel Moreira fam=5 duel=13.66 on_target=0.594 goal=0.166
+[074] FINAL Miguel Moreira: no alvo sem gol (roll=0.314)
+[075] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[075] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.463 roll=0.521
+[076] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[076] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.300 roll=0.660
+[077] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[077] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.300 roll=0.780
+[078] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[078] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.477 roll=0.679
+[079] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[079] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.300 roll=0.373
+[080] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[080] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.477 roll=0.216
+[080] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Porfírio Gadelha line=4 duel=6.11 corte=-1.70
+[080] FINAL São Christóvão Football e Regatas | Lúcio Gouveia fam=5 duel=-26.08 on_target=0.605 goal=0.150
+[080] FINAL Lúcio Gouveia: no alvo sem gol (roll=0.169)
+[081] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[081] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.477 roll=0.098
+[081] JOGADA São Christóvão Football e Regatas | Lúcio Gouveia x Aron Capiberibe line=3 duel=7.60 corte=-1.70
+[081] FINAL São Christóvão Football e Regatas | Miguel Moreira fam=5 duel=8.80 on_target=0.606 goal=0.166
+[081] FINAL Miguel Moreira: fora/alvo perdido (roll=0.926)
+[082] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[082] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.300 roll=0.557
+[083] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[083] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.300 roll=0.668
+[084] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[084] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.300 roll=0.537
+[085] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[085] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.503 roll=0.957
+[086] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[086] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.503 roll=0.302
+[086] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Amado Mina line=3 duel=-6.01 corte=-1.70
+[086] JOGADA falhou: Amado Mina cortou
+[087] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[087] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.503 roll=0.968
+[088] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[088] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.315 roll=0.002
+[088] JOGADA Silva Manoel Athletico Clube | Iauaretê Capitão x Ciríaco Paredes line=4 duel=-13.10 corte=-1.05
+[088] JOGADA falhou: Ciríaco Paredes cortou
+[089] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[089] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.503 roll=0.715
+[090] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[090] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.315 roll=0.738
+[091] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[091] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.315 roll=0.566
+[092] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[092] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.315 roll=0.985
+[093] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[093] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.503 roll=0.942
+[094] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[094] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.503 roll=0.381
+[094] JOGADA São Christóvão Football e Regatas | Regente Feijó x Edimilson Graça line=5 duel=37.10 corte=-1.95
+[094] FINAL São Christóvão Football e Regatas | Lúcio Gouveia fam=5 duel=7.40 on_target=0.645 goal=0.166
+[094] FINAL Lúcio Gouveia: no alvo sem gol (roll=0.481)
+[095] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[095] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.315 roll=0.294
+[095] JOGADA Silva Manoel Athletico Clube | Iguape Saviano x Murilo Sousa line=2 duel=-6.93 corte=-1.05
+[096] posse=Silva Manoel Athletico Clube | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[096] BUILD Silva Manoel Athletico Clube vs São Christóvão Football e Regatas prob=0.315 roll=0.950
+[097] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Silva Manoel Athletico Clube
+[097] BUILD São Christóvão Football e Regatas vs Silva Manoel Athletico Clube prob=0.503 roll=0.901

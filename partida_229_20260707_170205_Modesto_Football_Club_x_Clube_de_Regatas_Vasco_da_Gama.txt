@@ -1,0 +1,314 @@
+Partida #229
+Data: 1912-01-22
+Mandante: Modesto Football Club
+Visitante: Clube de Regatas Vasco da Gama
+Placar: 2 x 1
+Seed: -
+Estádio: Esplanada da Bocayuva
+Clima: Frio forte
+Placar tempo normal: 2 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Modesto Football Club x Clube de Regatas Vasco da Gama | estádio=Esplanada da Bocayuva | clima=Frio forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[001] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.410 roll=0.634
+[002] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[002] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.339 roll=0.163
+[002] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Primitivo Ramos line=3 duel=0.91 corte=-1.09
+[002] FINAL Clube de Regatas Vasco da Gama | Pedro Guaraná fam=1 duel=12.29 on_target=0.608 goal=0.227
+[002] FINAL Pedro Guaraná: fora/alvo perdido (roll=0.811)
+[003] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[003] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.339 roll=0.787
+[004] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[004] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.410 roll=0.750
+[005] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[005] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.410 roll=0.200
+[005] JOGADA Modesto Football Club | Bissau x Victoriano Bandeira line=3 duel=55.69 corte=-1.70
+[005] FINAL Modesto Football Club | Bissau fam=5 duel=10.70 on_target=0.525 goal=0.147
+[005] FINAL Bissau: fora/alvo perdido (roll=0.681)
+[006] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[006] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.339 roll=0.714
+[007] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[007] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.410 roll=0.264
+[007] JOGADA Modesto Football Club | Margarido Caminha x Pedro Silva line=4 duel=60.15 corte=-1.70
+[007] FINAL Modesto Football Club | Marton Amaral fam=5 duel=-75.33 on_target=0.516 goal=0.111
+[007] FINAL Marton Amaral: fora/alvo perdido (roll=0.810)
+[008] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[008] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.410 roll=0.639
+[009] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[009] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.410 roll=0.429
+[010] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[010] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.339 roll=0.299
+[010] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Aquil Gavião line=4 duel=-2.72 corte=-1.09
+[011] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[011] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.443 roll=0.985
+[012] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[012] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.367 roll=0.778
+[013] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[013] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.367 roll=0.775
+[014] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[014] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.443 roll=0.981
+[015] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[015] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.443 roll=0.889
+[016] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[016] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.443 roll=0.498
+[017] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[017] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.367 roll=0.106
+[017] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Marton Amaral line=4 duel=17.83 corte=-1.09
+[017] FINAL Clube de Regatas Vasco da Gama | Enaldo Marcelo fam=1 duel=-1.12 on_target=0.654 goal=0.235
+[017] FINAL Enaldo Marcelo: no alvo sem gol (roll=0.556)
+[018] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[018] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.443 roll=0.432
+[018] JOGADA Modesto Football Club | Margarido Caminha x Fusiano Colón line=5 duel=33.79 corte=-1.95
+[018] FINAL Modesto Football Club | Bissau fam=5 duel=4.37 on_target=0.566 goal=0.154
+[018] FINAL Bissau: fora/alvo perdido (roll=0.690)
+[019] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[019] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.367 roll=0.861
+[020] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[020] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.443 roll=0.135
+[020] JOGADA Modesto Football Club | Primitivo Ramos x Enaldo Marcelo line=4 duel=41.46 corte=-1.70
+[020] FINAL Modesto Football Club | Marton Amaral fam=5 duel=-70.51 on_target=0.558 goal=0.120
+[020] FINAL Marton Amaral: no alvo sem gol (roll=0.128)
+[021] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[021] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.394 roll=0.903
+[022] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[022] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.394 roll=0.292
+[022] JOGADA Clube de Regatas Vasco da Gama | Victoriano Bandeira x Tales Saldanha line=3 duel=-22.08 corte=-1.09
+[022] JOGADA falhou: Tales Saldanha cortou
+[023] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[023] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.477 roll=0.400
+[023] JOGADA Modesto Football Club | Tales Saldanha x Fusiano Colón line=4 duel=28.87 corte=-1.70
+[023] FINAL Modesto Football Club | Bissau fam=5 duel=-59.75 on_target=0.592 goal=0.130
+[023] FINAL Bissau: fora/alvo perdido (roll=0.937)
+[024] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[024] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.394 roll=0.511
+[025] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[025] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.477 roll=0.853
+[026] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[026] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.477 roll=0.046
+[026] JOGADA Modesto Football Club | Primitivo Ramos x Nininho line=4 duel=0.49 corte=-1.70
+[026] FINAL Modesto Football Club | Bissau fam=5 duel=3.53 on_target=0.596 goal=0.158
+[026] FINAL Bissau: no alvo sem gol (roll=0.555)
+[027] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[027] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.394 roll=0.251
+[027] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Cid Lamego line=3 duel=50.91 corte=-1.09
+[027] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=1 duel=0.25 on_target=0.694 goal=0.246
+[027] FINAL Fusiano Colón: fora/alvo perdido (roll=0.956)
+[028] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[028] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.394 roll=0.044
+[028] JOGADA Clube de Regatas Vasco da Gama | Victoriano Bandeira x Conceição Malta line=5 duel=35.57 corte=-1.84
+[028] FINAL Clube de Regatas Vasco da Gama | Victoriano Bandeira fam=1 duel=-7.70 on_target=0.684 goal=0.237
+[028] FINAL Victoriano Bandeira: fora/alvo perdido (roll=0.706)
+[029] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[029] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.477 roll=0.651
+[030] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[030] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.477 roll=0.291
+[030] JOGADA Modesto Football Club | Conceição Malta x Adriano Pacheco line=3 duel=-28.86 corte=-1.70
+[030] JOGADA falhou: Adriano Pacheco cortou
+[031] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[031] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.394 roll=0.998
+[032] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[032] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.486
+[033] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[033] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.294
+[033] JOGADA Modesto Football Club | Primitivo Ramos x Eduardo Freitas line=3 duel=43.99 corte=-1.70
+[033] FINAL Modesto Football Club | Bissau fam=5 duel=1.14 on_target=0.596 goal=0.158
+[033] FINAL Bissau: fora/alvo perdido (roll=0.615)
+[034] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[034] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.853
+[035] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[035] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.394 roll=0.565
+[036] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[036] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.292
+[036] JOGADA Modesto Football Club | Cid Lamego x Suspiro Menezes line=4 duel=-11.04 corte=-1.70
+[036] JOGADA falhou: Suspiro Menezes cortou
+[037] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[037] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.934
+[038] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[038] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.920
+[039] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[039] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.285
+[039] JOGADA Modesto Football Club | Mário Ricci x Nininho line=4 duel=14.93 corte=-1.70
+[039] FINAL Modesto Football Club | Marton Amaral fam=5 duel=-4.77 on_target=0.591 goal=0.154
+[039] FINAL Marton Amaral: no alvo sem gol (roll=0.745)
+[040] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[040] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.394 roll=0.883
+[041] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[041] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.352
+[041] JOGADA Modesto Football Club | Aquil Gavião x Pedro Silva line=4 duel=-14.23 corte=-1.70
+[041] JOGADA falhou: Pedro Silva cortou
+[042] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[042] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.763
+[043] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[043] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.394 roll=0.724
+[044] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[044] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.348
+[044] JOGADA Modesto Football Club | Bissau x Suspiro Menezes line=5 duel=-9.70 corte=-2.45
+[044] JOGADA falhou: Suspiro Menezes cortou
+[045] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[045] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.640
+[045] FINAL Modesto Football Club | Conceição Malta fam=5 duel=-34.94 on_target=0.586 goal=0.139
+[045] FINAL Conceição Malta: no alvo sem gol (roll=0.815)
+[046] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[046] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.850
+[047] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[047] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.056
+[047] JOGADA Modesto Football Club | Bissau x Suspiro Menezes line=3 duel=-12.39 corte=-1.70
+[047] JOGADA falhou: Suspiro Menezes cortou
+[048] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[048] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.367 roll=0.155
+[048] JOGADA Clube de Regatas Vasco da Gama | Pedro Guaraná x Cid Lamego line=5 duel=5.59 corte=-1.84
+[048] FINAL Clube de Regatas Vasco da Gama | Eduardo Freitas fam=3 duel=-28.79 on_target=0.594 goal=0.169
+[048] FINAL Eduardo Freitas: no alvo sem gol (roll=0.988)
+[049] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[049] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.367 roll=0.929
+[050] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[050] SUB Modesto Football Club: saiu Bissau (CA) | entrou Rigoberto Cabral (SA) | subs=1/5
+[050] SUB Clube de Regatas Vasco da Gama: saiu Fusiano Colón (CA) | entrou Hugo Júnior Cruz (CA) | subs=1/5
+[050] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.360 roll=0.067
+[050] JOGADA Clube de Regatas Vasco da Gama | Hugo Júnior Cruz x Canhoteiro line=5 duel=18.38 corte=-1.84
+[050] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=1 duel=23.43 on_target=0.650 goal=0.243
+[050] FINAL Hugo Júnior Cruz: fora/alvo perdido (roll=0.828)
+[051] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[051] SUB Modesto Football Club: saiu Marton Amaral (SA) | entrou Aldonço Canavieira (PD) | subs=2/5
+[051] SUB Clube de Regatas Vasco da Gama: saiu Eduardo Freitas (SA) | entrou Fausto Garcia (SA) | subs=2/5
+[051] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.399 roll=0.414
+[052] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[052] SUB Clube de Regatas Vasco da Gama: saiu Victoriano Bandeira (SA) | entrou Rodrigo Justino (SA) | subs=3/5
+[052] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.402 roll=0.433
+[053] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[053] SUB Clube de Regatas Vasco da Gama: saiu Enaldo Marcelo (CA) | entrou Ronaldo Mendonça (CA) | subs=4/5
+[053] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.335 roll=0.535
+[054] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[054] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.407 roll=0.018
+[054] JOGADA Modesto Football Club | Mário Ricci x Fausto Garcia line=4 duel=-25.09 corte=-1.70
+[055] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[055] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.335 roll=0.922
+[056] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[056] SUB Modesto Football Club: saiu Conceição Malta (ZAG) | entrou Célio Dimas (ZAG) | subs=3/5
+[056] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.437 roll=0.921
+[057] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[057] SUB Modesto Football Club: saiu Aquil Gavião (ZAG) | entrou Joscelino Santana (ZAG) | subs=4/5
+[057] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.431 roll=0.241
+[057] JOGADA Modesto Football Club | Margarido Caminha x Hugo Júnior Cruz line=5 duel=62.53 corte=-1.95
+[057] FINAL Modesto Football Club | Aldonço Canavieira fam=5 duel=-41.18 on_target=0.591 goal=0.137
+[057] FINAL Aldonço Canavieira: fora/alvo perdido (roll=0.735)
+[058] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[058] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.431 roll=0.531
+[059] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[059] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.431 roll=0.227
+[059] JOGADA Modesto Football Club | Célio Dimas x Rodrigo Justino line=5 duel=-25.67 corte=-1.95
+[059] JOGADA falhou: Rodrigo Justino cortou
+[060] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[060] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.434 roll=0.723
+[061] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[061] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.349 roll=0.685
+[062] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[062] SUB Modesto Football Club: saiu Cid Lamego (LD) | entrou Paranhos Pedrosa (LE) | subs=5/5
+[062] SUB Clube de Regatas Vasco da Gama: saiu Pedro Guaraná (MA) | entrou Álvaro Teixeira (MA) | subs=5/5
+[062] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.340 roll=0.057
+[062] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Rigoberto Cabral line=5 duel=55.04 corte=-1.34
+[062] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=1 duel=21.22 on_target=0.684 goal=0.250
+[062] FINAL Hugo Júnior Cruz: no alvo sem gol (roll=0.369)
+[063] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[063] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.340 roll=0.235
+[063] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Margarido Caminha line=4 duel=19.55 corte=-1.09
+[063] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=1 duel=17.58 on_target=0.684 goal=0.248
+[063] FINAL Hugo Júnior Cruz: no alvo sem gol (roll=0.586)
+[064] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[064] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.340 roll=0.673
+[065] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 0 Clube de Regatas Vasco da Gama
+[065] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.340 roll=0.107
+[065] JOGADA Clube de Regatas Vasco da Gama | Júlio Martins x Mário Ricci line=3 duel=-16.39 corte=-1.09
+[065] FINAL Clube de Regatas Vasco da Gama | Júlio Martins fam=5 duel=-11.39 on_target=0.586 goal=0.137
+[065] FINAL Júlio Martins: GOL subtipo=FALTA (roll=0.121)
+[066] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 1 Clube de Regatas Vasco da Gama
+[066] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.360 roll=0.783
+[067] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 0 x 1 Clube de Regatas Vasco da Gama
+[067] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.360 roll=0.841
+[068] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Clube de Regatas Vasco da Gama
+[068] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.504 roll=0.381
+[068] JOGADA Modesto Football Club | Célio Dimas x Nininho line=5 duel=13.14 corte=-1.95
+[068] FINAL Modesto Football Club | Rigoberto Cabral fam=5 duel=28.81 on_target=0.597 goal=0.171
+[068] FINAL Rigoberto Cabral: GOL subtipo=FALTA (roll=0.029)
+[069] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[069] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.340 roll=0.049
+[069] JOGADA Clube de Regatas Vasco da Gama | Júlio Martins x Célio Dimas line=4 duel=-13.29 corte=-1.09
+[069] JOGADA falhou: Célio Dimas cortou
+[070] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[070] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.450 roll=0.642
+[071] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[071] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.340 roll=0.822
+[072] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[072] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.340 roll=0.967
+[073] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[073] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.340 roll=0.092
+[073] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Margarido Caminha line=5 duel=54.13 corte=-1.30
+[073] FINAL Clube de Regatas Vasco da Gama | Fausto Garcia fam=1 duel=20.68 on_target=0.684 goal=0.250
+[073] FINAL Fausto Garcia: fora/alvo perdido (roll=0.701)
+[074] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[074] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.450 roll=0.170
+[074] JOGADA Modesto Football Club | Rigoberto Cabral x Fausto Garcia line=4 duel=77.26 corte=-1.70
+[074] FINAL Modesto Football Club | Aldonço Canavieira fam=5 duel=9.69 on_target=0.594 goal=0.161
+[074] FINAL Aldonço Canavieira: no alvo sem gol (roll=0.517)
+[075] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[075] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.450 roll=0.165
+[075] JOGADA Modesto Football Club | Rigoberto Cabral x Nininho line=5 duel=72.56 corte=-2.45
+[075] FINAL Modesto Football Club | Canhoteiro fam=5 duel=6.65 on_target=0.591 goal=0.159
+[075] FINAL Canhoteiro: fora/alvo perdido (roll=0.613)
+[076] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[076] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.464 roll=0.889
+[077] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[077] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.464 roll=0.916
+[078] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[078] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.350 roll=0.743
+[079] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[079] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.464 roll=0.655
+[080] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[080] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.464 roll=0.664
+[081] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[081] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.464 roll=0.703
+[082] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[082] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.350 roll=0.867
+[083] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[083] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.464 roll=0.575
+[084] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[084] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.350 roll=0.647
+[085] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[085] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.488 roll=0.117
+[085] JOGADA Modesto Football Club | Paranhos Pedrosa x Júlio Martins line=3 duel=58.92 corte=-1.70
+[085] FINAL Modesto Football Club | Rigoberto Cabral fam=5 duel=15.95 on_target=0.646 goal=0.166
+[085] FINAL Rigoberto Cabral: fora/alvo perdido (roll=0.852)
+[086] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[086] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.488 roll=0.878
+[087] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[087] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.488 roll=0.010
+[087] JOGADA Modesto Football Club | Rigoberto Cabral x Nininho line=3 duel=63.50 corte=-1.70
+[087] FINAL Modesto Football Club | Aldonço Canavieira fam=5 duel=-43.07 on_target=0.641 goal=0.139
+[087] FINAL Aldonço Canavieira: no alvo sem gol (roll=0.979)
+[088] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[088] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.369 roll=0.972
+[089] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[089] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.369 roll=0.432
+[090] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[090] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.488 roll=0.260
+[090] JOGADA Modesto Football Club | Aldonço Canavieira x Júlio Martins line=5 duel=55.78 corte=-2.45
+[090] FINAL Modesto Football Club | Canhoteiro fam=5 duel=0.26 on_target=0.641 goal=0.157
+[090] FINAL Canhoteiro: fora/alvo perdido (roll=0.726)
+[091] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[091] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.488 roll=0.924
+[092] posse=Modesto Football Club | placar Modesto Football Club 1 x 1 Clube de Regatas Vasco da Gama
+[092] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.488 roll=0.285
+[092] JOGADA Modesto Football Club | Rigoberto Cabral x Suspiro Menezes line=4 duel=12.24 corte=-1.70
+[092] FINAL Modesto Football Club | Aldonço Canavieira fam=5 duel=-4.07 on_target=0.644 goal=0.156
+[092] FINAL Aldonço Canavieira: GOL subtipo=FALTA (roll=0.049)
+[093] posse=Modesto Football Club | placar Modesto Football Club 2 x 1 Clube de Regatas Vasco da Gama
+[093] BUILD Modesto Football Club vs Clube de Regatas Vasco da Gama prob=0.432 roll=0.975
+[094] posse=Clube de Regatas Vasco da Gama | placar Modesto Football Club 2 x 1 Clube de Regatas Vasco da Gama
+[094] BUILD Clube de Regatas Vasco da Gama vs Modesto Football Club prob=0.484 roll=0.183
+[094] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Paranhos Pedrosa line=5 duel=7.98 corte=-1.29
+[094] FINAL Clube de Regatas Vasco da Gama | Rodrigo Justino fam=1 duel=13.61 on_target=0.776 goal=0.256
+[094] FINAL Rodrigo Justino: fora/alvo perdido (roll=0.838)

@@ -1,0 +1,306 @@
+Partida #189
+Data: 1912-01-18
+Mandante: Columbia Skyline Football Club
+Visitante: Futebol Clube Galitos
+Placar: 2 x 0
+Seed: -
+Estádio: Estádio Comstock
+Clima: Nublado
+Placar tempo normal: 2 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Columbia Skyline Football Club x Futebol Clube Galitos | estádio=Estádio Comstock | clima=Nublado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[001] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.221 roll=0.419
+[002] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[002] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.221 roll=0.864
+[003] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[003] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.347 roll=0.258
+[003] JOGADA Columbia Skyline Football Club | Quagmire x Telmo Lousada line=4 duel=-44.88 corte=-1.13
+[003] JOGADA falhou: Telmo Lousada cortou
+[004] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[004] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.347 roll=0.108
+[004] JOGADA Columbia Skyline Football Club | Jack Wynand x Xenócrates Alves line=4 duel=24.04 corte=-1.13
+[004] FINAL Columbia Skyline Football Club | Josh Battle fam=1 duel=-3.75 on_target=0.592 goal=0.212
+[004] FINAL Josh Battle: no alvo sem gol (roll=0.263)
+[005] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[005] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.347 roll=0.242
+[005] JOGADA Columbia Skyline Football Club | Edward Gayville x Galito line=3 duel=47.96 corte=-1.13
+[005] JOGADA Columbia Skyline Football Club | Fruit Salad James x Pajeú Bottura line=4 duel=1.72 corte=-1.13
+[005] FINAL Columbia Skyline Football Club | Edward Gayville fam=1 duel=16.92 on_target=0.597 goal=0.222
+[005] FINAL Edward Gayville: fora/alvo perdido (roll=0.846)
+[006] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[006] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.347 roll=0.345
+[006] JOGADA Columbia Skyline Football Club | Willian Biden x Florival Ottoni line=3 duel=-12.88 corte=-1.13
+[006] JOGADA falhou: Florival Ottoni cortou
+[007] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[007] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.347 roll=0.886
+[008] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[008] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.221 roll=0.914
+[008] FINAL Futebol Clube Galitos | Telmo Lousada fam=5 duel=-23.88 on_target=0.516 goal=0.129
+[008] FINAL Telmo Lousada: no alvo sem gol (roll=0.450)
+[009] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[009] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.221 roll=0.752
+[010] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[010] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.221 roll=0.844
+[011] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[011] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.375 roll=0.781
+[012] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[012] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.375 roll=0.245
+[012] JOGADA Columbia Skyline Football Club | Quagmire x Rui Paim line=2 duel=11.96 corte=-1.13
+[012] JOGADA Columbia Skyline Football Club | Josh Battle x Roriz Lanza line=3 duel=0.83 corte=-1.13
+[012] JOGADA Columbia Skyline Football Club | Ray Bonder x Galito line=4 duel=36.67 corte=-1.13
+[013] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[013] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.239 roll=0.504
+[014] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[014] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.239 roll=0.362
+[015] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[015] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.375 roll=0.403
+[016] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[016] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.239 roll=0.489
+[017] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[017] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.375 roll=0.586
+[018] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[018] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.375 roll=0.227
+[018] JOGADA Columbia Skyline Football Club | Willian Biden x Pajeú Bottura line=3 duel=-10.20 corte=-1.13
+[018] JOGADA falhou: Pajeú Bottura cortou
+[019] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[019] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.375 roll=0.516
+[020] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[020] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.239 roll=0.596
+[021] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[021] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.257 roll=0.312
+[022] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[022] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.842
+[023] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[023] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.257 roll=0.737
+[024] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[024] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.441
+[025] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[025] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.194
+[025] JOGADA Columbia Skyline Football Club | Josh Battle x Poti Malaquias line=2 duel=-0.09 corte=-1.13
+[025] FINAL Columbia Skyline Football Club | Pedrão fam=1 duel=-1.37 on_target=0.675 goal=0.235
+[025] FINAL Pedrão: fora/alvo perdido (roll=0.986)
+[026] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[026] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.339
+[026] JOGADA Columbia Skyline Football Club | Josh Battle x Galito line=2 duel=35.87 corte=-1.13
+[026] JOGADA Columbia Skyline Football Club | Jack Wynand x Galito line=3 duel=39.07 corte=-1.13
+[026] FINAL Columbia Skyline Football Club | Pedrão fam=1 duel=5.84 on_target=0.675 goal=0.238
+[026] FINAL Pedrão: no alvo sem gol (roll=0.571)
+[027] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[027] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.545
+[028] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[028] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.257 roll=0.394
+[029] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[029] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.705
+[030] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[030] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.750
+[031] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[031] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.257 roll=0.304
+[032] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[032] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.812
+[033] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[033] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.259 roll=0.351
+[034] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[034] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.037
+[034] JOGADA Columbia Skyline Football Club | Ray Bonder x Rui Paim line=3 duel=39.10 corte=-1.12
+[034] JOGADA Columbia Skyline Football Club | Edward Gayville x Rui Paim line=5 duel=50.81 corte=-1.87
+[034] JOGADA Columbia Skyline Football Club | Awper x Galito line=5 duel=41.71 corte=-1.87
+[034] FINAL Columbia Skyline Football Club | Willian Biden fam=1 duel=2.70 on_target=0.680 goal=0.239
+[034] FINAL Willian Biden: no alvo sem gol (roll=0.460)
+[035] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[035] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.362
+[035] JOGADA Columbia Skyline Football Club | Awper x Roriz Lanza line=4 duel=-7.91 corte=-1.12
+[036] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[036] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.259 roll=0.633
+[037] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[037] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.259 roll=0.508
+[038] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[038] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.259 roll=0.182
+[038] JOGADA Futebol Clube Galitos | Rui Paim x Jack Wynand line=3 duel=-34.97 corte=-1.30
+[038] JOGADA falhou: Jack Wynand cortou
+[039] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[039] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.259 roll=0.860
+[039] FINAL Futebol Clube Galitos | Xenócrates Alves fam=5 duel=-34.05 on_target=0.581 goal=0.136
+[039] FINAL Xenócrates Alves: fora/alvo perdido (roll=0.946)
+[040] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[040] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.966
+[041] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[041] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.259 roll=0.134
+[041] JOGADA Futebol Clube Galitos | Teffé Cabrera x Edward Gayville line=2 duel=-18.50 corte=-1.30
+[041] JOGADA falhou: Edward Gayville cortou
+[042] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[042] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.867
+[043] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[043] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.950
+[044] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[044] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.404 roll=0.462
+[045] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[045] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.259 roll=0.093
+[045] JOGADA Futebol Clube Galitos | Pajeú Bottura x Pedrão line=4 duel=6.10 corte=-1.30
+[045] FINAL Futebol Clube Galitos | Bruce Moleiro fam=5 duel=-68.49 on_target=0.583 goal=0.122
+[045] FINAL Bruce Moleiro: fora/alvo perdido (roll=0.638)
+[046] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[046] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.375 roll=0.561
+[047] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[047] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.241 roll=0.223
+[047] JOGADA Futebol Clube Galitos | Pajeú Bottura x Quagmire line=2 duel=26.68 corte=-1.30
+[047] FINAL Futebol Clube Galitos | Bruce Moleiro fam=5 duel=-66.71 on_target=0.554 goal=0.119
+[047] FINAL Bruce Moleiro: fora/alvo perdido (roll=0.932)
+[048] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[048] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.375 roll=0.390
+[049] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[049] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.241 roll=0.619
+[050] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[050] SUB Columbia Skyline Football Club: saiu Willian Biden (CA) | entrou Owen Barkfield (SA) | subs=1/5
+[050] SUB Futebol Clube Galitos: saiu Bruce Moleiro (SA) | entrou Uru Mina (PD) | subs=1/5
+[050] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.243 roll=0.334
+[051] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[051] SUB Futebol Clube Galitos: saiu Xenócrates Alves (MC) | entrou Erico Bissoli (VOL) | subs=2/5
+[051] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.244 roll=0.143
+[051] JOGADA Futebol Clube Galitos | Poti Malaquias x Pedrão line=2 duel=78.68 corte=-1.30
+[051] FINAL Futebol Clube Galitos | Galito fam=5 duel=-49.75 on_target=0.551 goal=0.125
+[051] FINAL Galito: no alvo sem gol (roll=0.446)
+[052] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[052] SUB Futebol Clube Galitos: saiu Galito (CA) | entrou Ildo Gatti (PE) | subs=3/5
+[052] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.232 roll=0.418
+[053] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[053] SUB Futebol Clube Galitos: saiu Rui Paim (MC) | entrou Franklim Ladeira (VOL) | subs=4/5
+[053] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.362 roll=0.042
+[053] JOGADA Columbia Skyline Football Club | Ray Bonder x Telmo Lousada line=3 duel=45.61 corte=-1.12
+[053] JOGADA Columbia Skyline Football Club | Owen Barkfield x Franklim Ladeira line=4 duel=-38.15 corte=-1.12
+[053] JOGADA falhou: Franklim Ladeira cortou
+[054] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[054] SUB Futebol Clube Galitos: saiu Teffé Cabrera (ME) | entrou Mamede Garcia (ME) | subs=5/5
+[054] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.363 roll=0.245
+[054] JOGADA Columbia Skyline Football Club | Quagmire x Roriz Lanza line=3 duel=-7.03 corte=-1.12
+[055] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[055] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.231 roll=0.807
+[056] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[056] SUB Columbia Skyline Football Club: saiu Awper (PE) | entrou Shutz Ethan Cuckley (ME) | subs=2/5
+[056] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.249 roll=0.325
+[057] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[057] SUB Columbia Skyline Football Club: saiu Pedrão (PD) | entrou Louis Long (MD) | subs=3/5
+[057] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.393 roll=0.037
+[057] JOGADA Columbia Skyline Football Club | Fruit Salad James x Pajeú Bottura line=4 duel=14.07 corte=-1.12
+[057] JOGADA Columbia Skyline Football Club | Edward Gayville x Uru Mina line=5 duel=31.70 corte=-1.87
+[057] JOGADA Columbia Skyline Football Club | Quagmire x Roriz Lanza line=5 duel=32.41 corte=-1.37
+[057] FINAL Columbia Skyline Football Club | Shutz Ethan Cuckley fam=1 duel=29.02 on_target=0.680 goal=0.250
+[057] FINAL Shutz Ethan Cuckley: fora/alvo perdido (roll=0.741)
+[058] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[058] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.364 roll=0.855
+[059] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[059] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.364 roll=0.237
+[059] JOGADA Columbia Skyline Football Club | Edward Gayville x Ildo Gatti line=3 duel=24.32 corte=-1.12
+[059] JOGADA Columbia Skyline Football Club | Fruit Salad James x Poti Malaquias line=5 duel=78.76 corte=-1.37
+[059] JOGADA Columbia Skyline Football Club | Shutz Ethan Cuckley x Uru Mina line=5 duel=44.62 corte=-1.37
+[059] FINAL Columbia Skyline Football Club | Edward Gayville fam=1 duel=27.71 on_target=0.679 goal=0.249
+[059] FINAL Edward Gayville: fora/alvo perdido (roll=0.738)
+[060] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[060] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.253 roll=0.248
+[060] JOGADA Futebol Clube Galitos | Florival Ottoni x Quagmire line=4 duel=-22.94 corte=-1.30
+[060] JOGADA falhou: Quagmire cortou
+[061] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[061] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.364 roll=0.369
+[062] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[062] SUB Columbia Skyline Football Club: saiu Quagmire (ZAG) | entrou Valdemir Clemente (ZAG) | subs=4/5
+[062] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.254 roll=0.733
+[063] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[063] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.254 roll=0.642
+[064] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[064] SUB Columbia Skyline Football Club: saiu Fruit Salad James (LE) | entrou T Guy (LE) | subs=5/5
+[064] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.363 roll=0.533
+[065] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[065] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.363 roll=0.067
+[065] JOGADA Columbia Skyline Football Club | Edward Gayville x Uru Mina line=4 duel=22.67 corte=-1.12
+[065] JOGADA Columbia Skyline Football Club | Edward Gayville x Pajeú Bottura line=5 duel=83.47 corte=-1.87
+[065] JOGADA Columbia Skyline Football Club | Ray Bonder x Franklim Ladeira line=5 duel=73.82 corte=-1.37
+[065] FINAL Columbia Skyline Football Club | Owen Barkfield fam=1 duel=32.51 on_target=0.681 goal=0.252
+[065] FINAL Owen Barkfield: no alvo sem gol (roll=0.702)
+[066] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[066] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.363 roll=0.446
+[067] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[067] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.256 roll=0.539
+[068] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[068] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.259 roll=0.861
+[069] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[069] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.259 roll=0.409
+[070] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[070] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.363 roll=0.713
+[071] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[071] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.363 roll=0.598
+[072] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[072] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.259 roll=0.511
+[073] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[073] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.363 roll=0.653
+[074] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[074] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.363 roll=0.440
+[075] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[075] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.363 roll=0.812
+[076] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[076] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.267 roll=0.869
+[077] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[077] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.267 roll=0.296
+[078] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[078] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.267 roll=0.730
+[079] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[079] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.373 roll=0.197
+[079] JOGADA Columbia Skyline Football Club | Owen Barkfield x Erico Bissoli line=2 duel=-5.43 corte=-1.07
+[079] JOGADA falhou: Erico Bissoli cortou
+[080] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[080] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.373 roll=0.980
+[081] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[081] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.373 roll=0.232
+[081] JOGADA Columbia Skyline Football Club | Valdemir Clemente x Poti Malaquias line=2 duel=69.87 corte=-1.07
+[081] JOGADA Columbia Skyline Football Club | Ray Bonder x Erico Bissoli line=4 duel=-3.98 corte=-1.07
+[082] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[082] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.373 roll=0.755
+[083] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[083] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.267 roll=0.864
+[084] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[084] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.373 roll=0.832
+[085] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[085] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.281 roll=0.793
+[086] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[086] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.281 roll=0.664
+[087] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[087] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.281 roll=0.777
+[088] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Futebol Clube Galitos
+[088] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.393 roll=0.135
+[088] JOGADA Columbia Skyline Football Club | Edward Gayville x Ildo Gatti line=4 duel=22.74 corte=-1.07
+[088] FINAL Columbia Skyline Football Club | Shutz Ethan Cuckley fam=3 duel=4.99 on_target=0.668 goal=0.186
+[088] FINAL Shutz Ethan Cuckley: GOL subtipo=CHUTE (roll=0.061)
+[089] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Futebol Clube Galitos
+[089] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.375 roll=0.634
+[090] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 1 x 0 Futebol Clube Galitos
+[090] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.328 roll=0.408
+[091] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 1 x 0 Futebol Clube Galitos
+[091] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.328 roll=0.838
+[092] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Futebol Clube Galitos
+[092] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.375 roll=0.281
+[092] JOGADA Columbia Skyline Football Club | Shutz Ethan Cuckley x Roriz Lanza line=2 duel=85.72 corte=-1.30
+[092] JOGADA Columbia Skyline Football Club | Valdemir Clemente x Telmo Lousada line=5 duel=62.23 corte=-1.55
+[092] FINAL Columbia Skyline Football Club | Edward Gayville fam=1 duel=11.74 on_target=0.652 goal=0.231
+[092] FINAL Edward Gayville: fora/alvo perdido (roll=0.950)
+[093] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Futebol Clube Galitos
+[093] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.375 roll=0.048
+[093] JOGADA Columbia Skyline Football Club | Ray Bonder x Ildo Gatti line=3 duel=29.64 corte=-1.30
+[093] JOGADA Columbia Skyline Football Club | Jack Wynand x Ildo Gatti line=4 duel=21.99 corte=-1.30
+[093] FINAL Columbia Skyline Football Club | Owen Barkfield fam=1 duel=10.90 on_target=0.654 goal=0.232
+[093] FINAL Owen Barkfield: GOL subtipo=CHUTE (roll=0.164)
+[094] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 2 x 0 Futebol Clube Galitos
+[094] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.371 roll=0.444
+[095] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 2 x 0 Futebol Clube Galitos
+[095] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.371 roll=0.711
+[096] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 2 x 0 Futebol Clube Galitos
+[096] BUILD Columbia Skyline Football Club vs Futebol Clube Galitos prob=0.371 roll=0.098
+[096] JOGADA Columbia Skyline Football Club | Shutz Ethan Cuckley x Franklim Ladeira line=2 duel=11.67 corte=-1.30
+[096] FINAL Columbia Skyline Football Club | Owen Barkfield fam=3 duel=2.29 on_target=0.581 goal=0.169
+[096] FINAL Owen Barkfield: no alvo sem gol (roll=0.610)
+[097] posse=Futebol Clube Galitos | placar Columbia Skyline Football Club 2 x 0 Futebol Clube Galitos
+[097] BUILD Futebol Clube Galitos vs Columbia Skyline Football Club prob=0.333 roll=0.225
+[097] JOGADA Futebol Clube Galitos | Pajeú Bottura x Jack Wynand line=3 duel=-23.49 corte=-1.30
+[097] JOGADA falhou: Jack Wynand cortou

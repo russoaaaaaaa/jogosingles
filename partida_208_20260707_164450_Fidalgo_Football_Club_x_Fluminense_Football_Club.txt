@@ -1,0 +1,331 @@
+Partida #208
+Data: 1912-01-20
+Mandante: Fidalgo Football Club
+Visitante: Fluminense Football Club
+Placar: 0 x 3
+Seed: -
+Estádio: Estádio Distrital de Madureira
+Clima: Nublado
+Placar tempo normal: 0 x 3
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Fidalgo Football Club x Fluminense Football Club | estádio=Estádio Distrital de Madureira | clima=Nublado | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[001] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.392 roll=0.472
+[002] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[002] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.392 roll=0.907
+[003] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[003] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.392 roll=0.072
+[003] JOGADA Fluminense Football Club | Élton Brandão x Apolônio Fasano line=3 duel=21.85 corte=-1.11
+[003] FINAL Fluminense Football Club | Élton Brandão fam=1 duel=14.69 on_target=0.675 goal=0.251
+[003] FINAL Élton Brandão: fora/alvo perdido (roll=0.871)
+[004] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[004] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.358 roll=0.101
+[004] JOGADA Fidalgo Football Club | Apolônio Fasano x Óliver Teixeira line=2 duel=93.53 corte=-1.70
+[004] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Oscar Alfredo Cox line=5 duel=74.23 corte=-1.95
+[004] JOGADA Fidalgo Football Club | Bryan Figueiredo x Laurindo Nogueira line=5 duel=50.30 corte=-1.95
+[004] FINAL Fidalgo Football Club | Agnelo Orrico fam=5 duel=-79.06 on_target=0.575 goal=0.121
+[004] FINAL Agnelo Orrico: no alvo sem gol (roll=0.499)
+[005] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[005] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.358 roll=0.341
+[005] JOGADA Fidalgo Football Club | Lukas Lombardi x Laurindo Nogueira line=4 duel=-11.44 corte=-1.70
+[006] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[006] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.393 roll=0.697
+[007] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[007] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.393 roll=0.988
+[008] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[008] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.358 roll=0.557
+[009] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[009] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.358 roll=0.480
+[010] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[010] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.393 roll=0.010
+[010] JOGADA Fluminense Football Club | Jerônimo Monteiro x Lukas Lombardi line=5 duel=92.56 corte=-1.36
+[010] FINAL Fluminense Football Club | Élton Brandão fam=1 duel=14.28 on_target=0.675 goal=0.251
+[010] FINAL Élton Brandão: fora/alvo perdido (roll=0.876)
+[011] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[011] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.425 roll=0.850
+[012] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[012] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.425 roll=0.066
+[012] JOGADA Fluminense Football Club | Óliver Teixeira x Jaguará Guerreiro line=5 duel=124.28 corte=-1.86
+[012] FINAL Fluminense Football Club | Renato Lobo Mau fam=3 duel=2.63 on_target=0.657 goal=0.200
+[012] FINAL Renato Lobo Mau: no alvo sem gol (roll=0.713)
+[013] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[013] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.387 roll=0.960
+[014] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[014] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.387 roll=0.295
+[014] JOGADA Fidalgo Football Club | Bryan Figueiredo x Jerônimo Monteiro line=3 duel=-10.95 corte=-1.70
+[014] JOGADA falhou: Jerônimo Monteiro cortou
+[015] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[015] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.387 roll=0.501
+[016] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[016] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.425 roll=0.115
+[016] JOGADA Fluminense Football Club | Óliver Teixeira x Lukas Lombardi line=4 duel=20.22 corte=-1.11
+[016] FINAL Fluminense Football Club | Óliver Teixeira fam=3 duel=10.61 on_target=0.664 goal=0.207
+[016] FINAL Óliver Teixeira: no alvo sem gol (roll=0.939)
+[017] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[017] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.387 roll=0.741
+[018] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[018] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.387 roll=0.470
+[018] FINAL Fidalgo Football Club | Patrício Gouveia fam=5 duel=-23.20 on_target=0.624 goal=0.156
+[018] FINAL Patrício Gouveia: no alvo sem gol (roll=0.198)
+[019] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[019] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.425 roll=0.964
+[020] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[020] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.387 roll=0.583
+[021] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[021] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.416 roll=0.381
+[021] JOGADA Fidalgo Football Club | Patrício Gouveia x Ricard Seyolle line=3 duel=-4.18 corte=-1.70
+[022] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[022] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.416 roll=0.250
+[022] JOGADA Fidalgo Football Club | Apolônio Fasano x Jerônimo Monteiro line=3 duel=-22.75 corte=-1.70
+[022] JOGADA falhou: Jerônimo Monteiro cortou
+[023] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[023] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.416 roll=0.972
+[024] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[024] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.416 roll=0.780
+[025] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[025] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.348
+[025] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Bryan Figueiredo line=5 duel=112.57 corte=-1.36
+[025] FINAL Fluminense Football Club | Renato Lobo Mau fam=1 duel=9.43 on_target=0.762 goal=0.271
+[025] FINAL Renato Lobo Mau: fora/alvo perdido (roll=0.788)
+[026] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[026] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.122
+[026] JOGADA Fluminense Football Club | Ricard Seyolle x Patrício Gouveia line=5 duel=51.43 corte=-1.86
+[026] FINAL Fluminense Football Club | Élton Brandão fam=3 duel=-34.05 on_target=0.693 goal=0.189
+[026] FINAL Élton Brandão: no alvo sem gol (roll=0.894)
+[027] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[027] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.502
+[028] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[028] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.416 roll=0.020
+[028] JOGADA Fidalgo Football Club | Ícaro Custódio x Jerônimo Monteiro line=4 duel=-14.20 corte=-1.70
+[029] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[029] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.217
+[029] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Jaguará Guerreiro line=5 duel=32.09 corte=-1.36
+[029] FINAL Fluminense Football Club | Ricard Seyolle fam=1 duel=28.24 on_target=0.767 goal=0.282
+[029] FINAL Ricard Seyolle: fora/alvo perdido (roll=0.784)
+[030] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[030] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.538
+[031] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[031] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.402
+[031] JOGADA Fluminense Football Club | Ricard Seyolle x Lukas Lombardi line=4 duel=45.65 corte=-1.11
+[031] FINAL Fluminense Football Club | Oscar Alfredo Cox fam=3 duel=-16.07 on_target=0.700 goal=0.201
+[031] FINAL Oscar Alfredo Cox: no alvo sem gol (roll=0.637)
+[032] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[032] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.867
+[033] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[033] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.419 roll=0.933
+[034] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[034] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.585
+[035] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[035] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.419 roll=0.507
+[036] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[036] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.419 roll=0.459
+[037] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[037] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.187
+[037] JOGADA Fluminense Football Club | Ricard Seyolle x Lukas Lombardi line=5 duel=44.57 corte=-1.86
+[037] FINAL Fluminense Football Club | Renato Lobo Mau fam=3 duel=-11.66 on_target=0.690 goal=0.199
+[037] FINAL Renato Lobo Mau: fora/alvo perdido (roll=0.924)
+[038] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[038] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.514
+[039] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[039] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.419 roll=0.975
+[040] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[040] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.810
+[041] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[041] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.811
+[042] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[042] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.419 roll=0.353
+[042] JOGADA Fidalgo Football Club | Torquato Brasileiro x Nicolau Freitas line=2 duel=-23.92 corte=-1.70
+[042] JOGADA falhou: Nicolau Freitas cortou
+[043] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[043] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.574
+[044] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[044] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.419 roll=0.364
+[044] JOGADA Fidalgo Football Club | Apolônio Fasano x Óliver Teixeira line=3 duel=11.52 corte=-1.70
+[044] JOGADA Fidalgo Football Club | Patrício Gouveia x Óliver Teixeira line=4 duel=25.08 corte=-1.70
+[044] JOGADA Fidalgo Football Club | Ícaro Custódio x Renato Lobo Mau line=5 duel=102.47 corte=-1.95
+[044] FINAL Fidalgo Football Club | Patrício Gouveia fam=5 duel=-20.16 on_target=0.658 goal=0.163
+[044] FINAL Patrício Gouveia: no alvo sem gol (roll=0.746)
+[045] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[045] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.457 roll=0.920
+[046] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[046] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.425 roll=0.165
+[046] JOGADA Fluminense Football Club | Jerônimo Monteiro x Pacheco Arcoverde line=3 duel=28.83 corte=-1.11
+[046] FINAL Fluminense Football Club | Nicolau Freitas fam=1 duel=1.42 on_target=0.726 goal=0.260
+[046] FINAL Nicolau Freitas: no alvo sem gol (roll=0.653)
+[047] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[047] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.425 roll=0.546
+[048] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[048] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.389 roll=0.318
+[048] JOGADA Fidalgo Football Club | Patrício Gouveia x Renato Lobo Mau line=3 duel=30.77 corte=-1.70
+[048] JOGADA Fidalgo Football Club | Apolônio Fasano x Florêncio Carmona line=4 duel=-19.41 corte=-1.70
+[049] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[049] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.389 roll=0.330
+[049] JOGADA Fidalgo Football Club | Agnelo Orrico x Élton Brandão line=3 duel=30.59 corte=-1.70
+[049] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Élton Brandão line=4 duel=-28.39 corte=-1.70
+[049] JOGADA falhou: Élton Brandão cortou
+[050] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[050] SUB Fidalgo Football Club: saiu Apolônio Fasano (ME) | entrou Nilton Soares (ME) | subs=1/5
+[050] SUB Fluminense Football Club: saiu Élton Brandão (SA) | entrou Wilson Coimbra (PE) | subs=1/5
+[050] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.390 roll=0.125
+[050] JOGADA Fidalgo Football Club | Lukas Lombardi x Nicolau Freitas line=3 duel=50.80 corte=-1.70
+[050] JOGADA Fidalgo Football Club | Nilton Soares x Florêncio Carmona line=4 duel=5.84 corte=-1.70
+[050] JOGADA Fidalgo Football Club | Torquato Brasileiro x Oscar Alfredo Cox line=5 duel=10.49 corte=-1.95
+[050] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=5 duel=5.48 on_target=0.627 goal=0.171
+[050] FINAL Pacheco Arcoverde: no alvo sem gol (roll=0.537)
+[051] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[051] SUB Fluminense Football Club: saiu Renato Lobo Mau (CA) | entrou Agenor Vila (CA) | subs=2/5
+[051] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.392 roll=0.823
+[052] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[052] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.422 roll=0.131
+[052] JOGADA Fluminense Football Club | Agenor Vila x Bryan Figueiredo line=5 duel=89.05 corte=-1.85
+[052] FINAL Fluminense Football Club | Ricard Seyolle fam=1 duel=34.53 on_target=0.729 goal=0.277
+[052] FINAL Ricard Seyolle: fora/alvo perdido (roll=0.773)
+[053] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[053] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.422 roll=0.691
+[054] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[054] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.422 roll=0.825
+[055] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[055] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.422 roll=0.108
+[055] JOGADA Fluminense Football Club | Óliver Teixeira x Agnelo Orrico line=4 duel=42.29 corte=-1.10
+[055] FINAL Fluminense Football Club | Agenor Vila fam=3 duel=31.43 on_target=0.662 goal=0.216
+[055] FINAL Agenor Vila: no alvo sem gol (roll=0.717)
+[056] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[056] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.453 roll=0.815
+[057] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[057] SUB Fidalgo Football Club: saiu Torquato Brasileiro (ZAG) | entrou Avati Volpi (ZAG) | subs=2/5
+[057] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.455 roll=0.523
+[058] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[058] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.430 roll=0.651
+[059] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[059] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.430 roll=0.861
+[060] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[060] SUB Fidalgo Football Club: saiu Agnelo Orrico (SA) | entrou Arley Quadros (PD) | subs=3/5
+[060] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.430 roll=0.700
+[061] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[061] SUB Fidalgo Football Club: saiu Patrício Gouveia (MC) | entrou Janardo Páscoa (VOL) | subs=4/5
+[061] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.420 roll=0.763
+[062] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[062] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.420 roll=0.581
+[063] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 0 Fluminense Football Club
+[063] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.431 roll=0.088
+[063] JOGADA Fluminense Football Club | Jerônimo Monteiro x Bauá Laranjeira line=5 duel=8.90 corte=-1.35
+[063] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=26.93 on_target=0.768 goal=0.282
+[063] FINAL Agenor Vila: GOL subtipo=CHUTE (roll=0.279)
+[064] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 1 Fluminense Football Club
+[064] SUB Fidalgo Football Club: saiu Bryan Figueiredo (LE) | entrou Macacos Jesus (LD) | subs=5/5
+[064] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.456 roll=0.264
+[064] JOGADA Fluminense Football Club | Ricard Seyolle x Bauá Laranjeira line=4 duel=21.00 corte=-1.30
+[064] FINAL Fluminense Football Club | Agenor Vila fam=3 duel=26.93 on_target=0.697 goal=0.220
+[064] FINAL Agenor Vila: GOL subtipo=CHUTE (roll=0.171)
+[065] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[065] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.448 roll=0.730
+[066] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[066] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.448 roll=0.423
+[066] JOGADA Fluminense Football Club | Wilson Coimbra x Nilton Soares line=3 duel=10.44 corte=-1.30
+[066] FINAL Fluminense Football Club | Agenor Vila fam=3 duel=19.68 on_target=0.675 goal=0.205
+[066] FINAL Agenor Vila: fora/alvo perdido (roll=0.689)
+[067] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[067] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.471 roll=0.336
+[067] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Jerônimo Monteiro line=3 duel=35.75 corte=-1.70
+[067] JOGADA Fidalgo Football Club | Lukas Lombardi x Agenor Vila line=4 duel=24.50 corte=-1.70
+[067] JOGADA Fidalgo Football Club | Arley Quadros x Óliver Teixeira line=5 duel=37.79 corte=-2.45
+[067] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=1 duel=-2.25 on_target=0.758 goal=0.273
+[067] FINAL Pacheco Arcoverde: fora/alvo perdido (roll=0.878)
+[068] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[068] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.448 roll=0.019
+[068] JOGADA Fluminense Football Club | Wilson Coimbra x Pacheco Arcoverde line=5 duel=115.19 corte=-2.05
+[068] FINAL Fluminense Football Club | Wilson Coimbra fam=3 duel=-8.08 on_target=0.673 goal=0.192
+[068] FINAL Wilson Coimbra: no alvo sem gol (roll=0.955)
+[069] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[069] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.448 roll=0.553
+[070] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[070] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.471 roll=0.465
+[070] JOGADA Fidalgo Football Club | Arley Quadros x Nicolau Freitas line=4 duel=1.90 corte=-1.70
+[070] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=5 duel=-1.62 on_target=0.662 goal=0.177
+[070] FINAL Pacheco Arcoverde: no alvo sem gol (roll=0.198)
+[071] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[071] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.471 roll=0.756
+[072] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[072] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.471 roll=0.242
+[072] JOGADA Fidalgo Football Club | Macacos Jesus x Wilson Coimbra line=4 duel=34.17 corte=-1.70
+[072] JOGADA Fidalgo Football Club | Avati Volpi x Oscar Alfredo Cox line=4 duel=-10.66 corte=-1.70
+[073] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[073] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.448 roll=0.586
+[074] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[074] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.471 roll=0.864
+[075] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[075] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.448 roll=0.124
+[075] JOGADA Fluminense Football Club | Óliver Teixeira x Avati Volpi line=5 duel=40.71 corte=-2.05
+[075] FINAL Fluminense Football Club | Wilson Coimbra fam=3 duel=-11.25 on_target=0.672 goal=0.190
+[075] FINAL Wilson Coimbra: no alvo sem gol (roll=0.553)
+[076] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[076] SUB Fluminense Football Club: saiu Nicolau Freitas (LE) | entrou Beraldo Botelho (LE) | subs=3/5
+[076] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.509 roll=0.167
+[076] JOGADA Fidalgo Football Club | Bauá Laranjeira x Jerônimo Monteiro line=3 duel=-35.05 corte=-1.70
+[076] JOGADA falhou: Jerônimo Monteiro cortou
+[077] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[077] SUB Fluminense Football Club: saiu Óliver Teixeira (PE) | entrou Estefânio Matos (PD) | subs=4/5
+[077] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.421 roll=0.961
+[078] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[078] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.513 roll=0.560
+[079] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[079] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.513 roll=0.883
+[080] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[080] SUB Fluminense Football Club: saiu Agenor Vila (CA) | entrou Carmim Melo (CA) | subs=5/5
+[080] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.514 roll=0.684
+[081] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[081] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.407 roll=0.086
+[081] JOGADA Fluminense Football Club | Jerônimo Monteiro x Janardo Páscoa line=5 duel=-13.20 corte=-1.55
+[081] JOGADA falhou: Janardo Páscoa cortou
+[082] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[082] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.407 roll=0.596
+[083] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[083] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.407 roll=0.644
+[084] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[084] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.407 roll=0.005
+[084] JOGADA Fluminense Football Club | Carmim Melo x Jaguará Guerreiro line=4 duel=36.75 corte=-1.30
+[084] FINAL Fluminense Football Club | Estefânio Matos fam=1 duel=25.49 on_target=0.728 goal=0.271
+[084] FINAL Estefânio Matos: no alvo sem gol (roll=0.678)
+[085] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[085] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.580 roll=0.874
+[086] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[086] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.580 roll=0.159
+[086] JOGADA Fidalgo Football Club | Janardo Páscoa x Jerônimo Monteiro line=2 duel=-12.30 corte=-1.70
+[086] JOGADA falhou: Jerônimo Monteiro cortou
+[087] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[087] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.407 roll=0.125
+[087] JOGADA Fluminense Football Club | Leôncio Rebelo x Arley Quadros line=4 duel=14.71 corte=-1.30
+[087] FINAL Fluminense Football Club | Wilson Coimbra fam=1 duel=26.62 on_target=0.729 goal=0.272
+[087] FINAL Wilson Coimbra: fora/alvo perdido (roll=0.969)
+[088] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[088] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.580 roll=0.935
+[089] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[089] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.407 roll=0.800
+[090] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[090] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.580 roll=0.704
+[091] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[091] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.580 roll=0.258
+[091] JOGADA Fidalgo Football Club | Arley Quadros x Jerônimo Monteiro line=4 duel=1.30 corte=-1.70
+[091] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Jerônimo Monteiro line=4 duel=-10.69 corte=-1.70
+[092] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[092] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.580 roll=0.694
+[093] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[093] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.407 roll=0.845
+[094] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[094] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.407 roll=0.726
+[095] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 2 Fluminense Football Club
+[095] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.407 roll=0.360
+[095] JOGADA Fluminense Football Club | Wilson Coimbra x Lukas Lombardi line=3 duel=29.94 corte=-1.30
+[095] FINAL Fluminense Football Club | Carmim Melo fam=3 duel=18.21 on_target=0.660 goal=0.208
+[095] FINAL Carmim Melo: GOL subtipo=CHUTE (roll=0.176)
+[096] posse=Fluminense Football Club | placar Fidalgo Football Club 0 x 3 Fluminense Football Club
+[096] BUILD Fluminense Football Club vs Fidalgo Football Club prob=0.400 roll=0.062
+[096] JOGADA Fluminense Football Club | Jerônimo Monteiro x Nilton Soares line=5 duel=4.48 corte=-1.55
+[096] FINAL Fluminense Football Club | Wilson Coimbra fam=1 duel=18.48 on_target=0.705 goal=0.256
+[096] FINAL Wilson Coimbra: no alvo sem gol (roll=0.362)
+[097] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 3 Fluminense Football Club
+[097] BUILD Fidalgo Football Club vs Fluminense Football Club prob=0.580 roll=0.662

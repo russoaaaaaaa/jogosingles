@@ -1,0 +1,351 @@
+Partida #198
+Data: 1912-01-18
+Mandante: Liga de Sports da Marinha
+Visitante: Confraria Ludopédica Reconquista
+Placar: 1 x 1
+Seed: -
+Estádio: Marquês de Tamandaré
+Clima: Chuva leve
+Placar tempo normal: 1 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Liga de Sports da Marinha x Confraria Ludopédica Reconquista | estádio=Marquês de Tamandaré | clima=Chuva leve | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[001] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.348 roll=0.860
+[002] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[002] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.348 roll=0.160
+[002] JOGADA Liga de Sports da Marinha | Caim Avelar x Paulo Leleco line=4 duel=6.71 corte=-1.13
+[002] FINAL Liga de Sports da Marinha | Thales Bacelar fam=1 duel=-2.78 on_target=0.676 goal=0.243
+[002] FINAL Thales Bacelar: fora/alvo perdido (roll=0.947)
+[003] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[003] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.362 roll=0.254
+[003] JOGADA Confraria Ludopédica Reconquista | Martinho Dume x Roraima De Marchi line=3 duel=14.96 corte=-1.30
+[003] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Josefino Conceição line=5 duel=90.62 corte=-2.05
+[003] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Bianor Caldeira line=5 duel=98.78 corte=-1.55
+[003] FINAL Confraria Ludopédica Reconquista | Duarte Pacheco fam=1 duel=-9.97 on_target=0.666 goal=0.236
+[003] FINAL Duarte Pacheco: fora/alvo perdido (roll=0.732)
+[004] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[004] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.362 roll=0.197
+[004] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Roraima De Marchi line=3 duel=19.26 corte=-1.30
+[004] FINAL Confraria Ludopédica Reconquista | Duarte Pacheco fam=5 duel=-8.02 on_target=0.576 goal=0.146
+[004] FINAL Duarte Pacheco: no alvo sem gol (roll=0.439)
+[005] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[005] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.348 roll=0.236
+[005] JOGADA Liga de Sports da Marinha | Genival Rosa x Narcelinho line=3 duel=5.26 corte=-1.13
+[005] JOGADA Liga de Sports da Marinha | Caim Avelar x Duarte Pacheco line=4 duel=-18.23 corte=-1.13
+[005] JOGADA falhou: Duarte Pacheco cortou
+[006] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[006] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.362 roll=0.947
+[007] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[007] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.362 roll=0.823
+[008] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[008] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.362 roll=0.325
+[008] JOGADA Confraria Ludopédica Reconquista | Hermenegildo Strauss x Josefino Conceição line=3 duel=-15.94 corte=-1.30
+[008] JOGADA falhou: Josefino Conceição cortou
+[009] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[009] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.362 roll=0.857
+[010] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[010] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.348 roll=0.316
+[010] JOGADA Liga de Sports da Marinha | Roraima De Marchi x Duarte Pacheco line=3 duel=22.86 corte=-1.13
+[010] JOGADA Liga de Sports da Marinha | Caim Avelar x Hermenegildo Strauss line=4 duel=-13.48 corte=-1.13
+[010] JOGADA falhou: Hermenegildo Strauss cortou
+[011] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[011] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.391 roll=0.336
+[011] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Thales Bacelar line=2 duel=31.96 corte=-1.30
+[011] JOGADA Confraria Ludopédica Reconquista | São Sebastião x Thales Bacelar line=3 duel=5.66 corte=-1.30
+[011] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Eriberto Monte line=5 duel=77.45 corte=-2.05
+[011] FINAL Confraria Ludopédica Reconquista | Robert Sensacional fam=1 duel=14.79 on_target=0.727 goal=0.267
+[011] FINAL Robert Sensacional: fora/alvo perdido (roll=0.780)
+[012] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[012] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.391 roll=0.909
+[013] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[013] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.376 roll=0.640
+[014] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[014] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.391 roll=0.781
+[015] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[015] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.391 roll=0.662
+[016] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[016] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.376 roll=0.019
+[016] JOGADA Liga de Sports da Marinha | Roraima De Marchi x Segofredo Araújo line=3 duel=25.81 corte=-1.13
+[016] FINAL Liga de Sports da Marinha | Caim Avelar fam=1 duel=1.45 on_target=0.737 goal=0.265
+[016] FINAL Caim Avelar: no alvo sem gol (roll=0.817)
+[017] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[017] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.376 roll=0.841
+[018] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[018] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.391 roll=0.342
+[018] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Arsénio Barros line=3 duel=-25.12 corte=-1.30
+[018] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=5 duel=3.70 on_target=0.625 goal=0.162
+[018] FINAL Segofredo Araújo: no alvo sem gol (roll=0.663)
+[019] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[019] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.391 roll=0.053
+[019] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Josefino Conceição line=4 duel=5.83 corte=-1.30
+[019] JOGADA Confraria Ludopédica Reconquista | Hermenegildo Strauss x Isidro Vilaça line=5 duel=52.33 corte=-1.55
+[019] JOGADA Confraria Ludopédica Reconquista | Narcelinho x Arsénio Barros line=5 duel=17.49 corte=-1.55
+[019] FINAL Confraria Ludopédica Reconquista | Duarte Pacheco fam=1 duel=2.52 on_target=0.719 goal=0.257
+[019] FINAL Duarte Pacheco: fora/alvo perdido (roll=0.918)
+[020] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[020] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.376 roll=0.201
+[020] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Paulo Leleco line=5 duel=-18.86 corte=-1.38
+[020] JOGADA falhou: Paulo Leleco cortou
+[021] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[021] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.949
+[022] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[022] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.204
+[022] JOGADA Liga de Sports da Marinha | Arsénio Barros x Paulo Leleco line=4 duel=4.40 corte=-1.13
+[022] JOGADA Liga de Sports da Marinha | Eriberto Monte x Cavaleiro Asturiano line=4 duel=-3.33 corte=-1.13
+[023] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[023] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.421 roll=0.297
+[023] JOGADA Confraria Ludopédica Reconquista | Narcelinho x Caim Avelar line=3 duel=8.41 corte=-1.30
+[023] JOGADA Confraria Ludopédica Reconquista | Hermenegildo Strauss x Genival Rosa line=4 duel=-52.34 corte=-1.30
+[023] JOGADA falhou: Genival Rosa cortou
+[024] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[024] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.421 roll=0.862
+[025] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[025] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.421 roll=0.707
+[026] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[026] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.421 roll=0.113
+[026] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Geraldo Montanari line=2 duel=15.51 corte=-1.30
+[026] FINAL Confraria Ludopédica Reconquista | Based Viriato fam=5 duel=-57.28 on_target=0.654 goal=0.137
+[026] FINAL Based Viriato: fora/alvo perdido (roll=0.755)
+[027] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[027] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.342
+[027] JOGADA Liga de Sports da Marinha | Genival Rosa x Cavaleiro Asturiano line=3 duel=61.57 corte=-1.13
+[027] JOGADA Liga de Sports da Marinha | Bianor Caldeira x Cavaleiro Asturiano line=4 duel=-5.12 corte=-1.13
+[027] JOGADA falhou: Cavaleiro Asturiano cortou
+[028] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[028] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.421 roll=0.148
+[028] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Bianor Caldeira line=4 duel=0.09 corte=-1.30
+[028] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Bianor Caldeira line=4 duel=20.28 corte=-1.30
+[028] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Roraima De Marchi line=5 duel=31.41 corte=-1.55
+[028] FINAL Confraria Ludopédica Reconquista | Duarte Pacheco fam=1 duel=3.53 on_target=0.757 goal=0.266
+[028] FINAL Duarte Pacheco: fora/alvo perdido (roll=0.895)
+[029] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[029] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.304
+[029] JOGADA Liga de Sports da Marinha | Eriberto Monte x Paulo Leleco line=5 duel=-17.97 corte=-1.38
+[029] JOGADA falhou: Paulo Leleco cortou
+[030] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[030] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.551
+[031] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[031] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.186
+[031] JOGADA Liga de Sports da Marinha | Roraima De Marchi x Paulo Leleco line=4 duel=-84.94 corte=-1.13
+[031] JOGADA falhou: Paulo Leleco cortou
+[032] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[032] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.038
+[032] JOGADA Liga de Sports da Marinha | Arsénio Barros x Hermenegildo Strauss line=4 duel=7.10 corte=-1.13
+[032] JOGADA Liga de Sports da Marinha | Thales Bacelar x São Sebastião line=4 duel=-4.38 corte=-1.13
+[033] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[033] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.895
+[034] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[034] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.559
+[035] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[035] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.423 roll=0.861
+[036] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[036] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.423 roll=0.267
+[036] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Roraima De Marchi line=3 duel=10.37 corte=-1.30
+[036] JOGADA Confraria Ludopédica Reconquista | Based Viriato x Roraima De Marchi line=5 duel=27.42 corte=-2.05
+[036] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Eriberto Monte line=5 duel=-10.02 corte=-1.55
+[036] JOGADA falhou: Eriberto Monte cortou
+[037] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[037] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.287
+[037] JOGADA Liga de Sports da Marinha | Eriberto Monte x Hermenegildo Strauss line=4 duel=-7.70 corte=-1.13
+[037] JOGADA falhou: Hermenegildo Strauss cortou
+[038] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[038] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.423 roll=0.161
+[038] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Roraima De Marchi line=3 duel=31.03 corte=-1.30
+[038] JOGADA Confraria Ludopédica Reconquista | São Sebastião x Geraldo Montanari line=4 duel=8.96 corte=-1.30
+[038] JOGADA Confraria Ludopédica Reconquista | Based Viriato x Josefino Conceição line=5 duel=35.03 corte=-2.05
+[038] FINAL Confraria Ludopédica Reconquista | Robert Sensacional fam=1 duel=18.05 on_target=0.766 goal=0.277
+[038] FINAL Robert Sensacional: no alvo sem gol (roll=0.714)
+[039] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[039] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.423 roll=0.002
+[039] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Arsénio Barros line=4 duel=-16.84 corte=-1.30
+[039] JOGADA falhou: Arsénio Barros cortou
+[040] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[040] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.423 roll=0.545
+[041] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[041] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.596
+[042] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[042] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.645
+[043] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[043] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.923
+[044] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[044] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.423 roll=0.929
+[045] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[045] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.405 roll=0.663
+[046] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[046] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.394 roll=0.353
+[046] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Isidro Vilaça line=3 duel=39.32 corte=-1.30
+[046] JOGADA Confraria Ludopédica Reconquista | São Sebastião x Eriberto Monte line=4 duel=-24.80 corte=-1.30
+[046] JOGADA falhou: Eriberto Monte cortou
+[047] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[047] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.394 roll=0.258
+[047] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Thales Bacelar line=3 duel=28.28 corte=-1.30
+[047] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=5 duel=6.50 on_target=0.625 goal=0.164
+[047] FINAL Segofredo Araújo: no alvo sem gol (roll=0.653)
+[048] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[048] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.376 roll=0.834
+[048] FINAL Liga de Sports da Marinha | Josefino Conceição fam=5 duel=-76.44 on_target=0.615 goal=0.114
+[048] FINAL Josefino Conceição: no alvo sem gol (roll=0.696)
+[049] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[049] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.394 roll=0.476
+[050] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[050] SUB Liga de Sports da Marinha: saiu Roraima De Marchi (MC) | entrou Agatão Martins (VOL) | subs=1/5
+[050] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.378 roll=0.922
+[051] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[051] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.393 roll=0.253
+[051] JOGADA Confraria Ludopédica Reconquista | Narcelinho x Josefino Conceição line=4 duel=-16.03 corte=-1.30
+[051] JOGADA falhou: Josefino Conceição cortou
+[052] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[052] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.378 roll=0.002
+[052] JOGADA Liga de Sports da Marinha | Bianor Caldeira x Based Viriato line=4 duel=23.89 corte=-1.13
+[052] JOGADA Liga de Sports da Marinha | Agatão Martins x Cavaleiro Asturiano line=4 duel=15.46 corte=-1.13
+[052] JOGADA Liga de Sports da Marinha | Arsénio Barros x Hermenegildo Strauss line=5 duel=10.99 corte=-1.38
+[052] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=1 duel=10.82 on_target=0.737 goal=0.270
+[052] FINAL Geraldo Montanari: no alvo sem gol (roll=0.632)
+[053] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[053] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.393 roll=0.191
+[053] JOGADA Confraria Ludopédica Reconquista | Martinho Dume x Josefino Conceição line=4 duel=-2.49 corte=-1.30
+[053] JOGADA falhou: Josefino Conceição cortou
+[054] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[054] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.393 roll=0.579
+[055] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[055] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.378 roll=0.925
+[056] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 0 Confraria Ludopédica Reconquista
+[056] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.423 roll=0.062
+[056] JOGADA Confraria Ludopédica Reconquista | Martinho Dume x Geraldo Montanari line=4 duel=5.99 corte=-1.30
+[056] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Agatão Martins line=4 duel=-29.95 corte=-1.30
+[056] FINAL Confraria Ludopédica Reconquista | Duarte Pacheco fam=5 duel=1.14 on_target=0.656 goal=0.166
+[056] FINAL Duarte Pacheco: GOL subtipo=FALTA (roll=0.042)
+[057] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[057] SUB Liga de Sports da Marinha: saiu Genival Rosa (SA) | entrou Curuaia Fasano (PE) | subs=2/5
+[057] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.424 roll=0.414
+[057] JOGADA Confraria Ludopédica Reconquista | Martinho Dume x Eriberto Monte line=4 duel=-24.16 corte=-1.30
+[057] JOGADA falhou: Eriberto Monte cortou
+[058] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[058] SUB Liga de Sports da Marinha: saiu Bianor Caldeira (MD) | entrou Sócrates Inácio (MD) | subs=3/5
+[058] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.453 roll=0.531
+[059] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[059] SUB Liga de Sports da Marinha: saiu Thales Bacelar (ME) | entrou Waldir Pamplona (ME) | subs=4/5
+[059] SUB Confraria Ludopédica Reconquista: saiu Martinho Dume (MC) | entrou Lécio Carrico (MC) | subs=1/5
+[059] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.500 roll=0.495
+[059] JOGADA Liga de Sports da Marinha | Curuaia Fasano x Segofredo Araújo line=4 duel=43.91 corte=-1.70
+[059] FINAL Liga de Sports da Marinha | Caim Avelar fam=5 duel=-47.64 on_target=0.672 goal=0.155
+[059] FINAL Caim Avelar: no alvo sem gol (roll=0.732)
+[060] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[060] SUB Liga de Sports da Marinha: saiu Caim Avelar (MC) | entrou Austrelino Dantas (VOL) | subs=5/5
+[060] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.497 roll=0.928
+[061] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[061] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.389 roll=0.622
+[062] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[062] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.497 roll=0.741
+[063] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[063] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.497 roll=0.640
+[064] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[064] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.389 roll=0.370
+[064] JOGADA Confraria Ludopédica Reconquista | Based Viriato x Josefino Conceição line=4 duel=-18.33 corte=-1.30
+[064] JOGADA falhou: Josefino Conceição cortou
+[065] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[065] SUB Confraria Ludopédica Reconquista: saiu São Sebastião (ZAG) | entrou Principiano Chamberlain (ZAG) | subs=2/5
+[065] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.366 roll=0.091
+[065] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Arsénio Barros line=4 duel=-23.37 corte=-1.30
+[066] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[066] SUB Confraria Ludopédica Reconquista: saiu Hermenegildo Strauss (LE) | entrou Tamarindo Souto (LE) | subs=3/5
+[066] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.367 roll=0.841
+[067] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[067] SUB Confraria Ludopédica Reconquista: saiu Narcelinho (ZAG) | entrou Zé Carioca (ZAG) | subs=4/5
+[067] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.367 roll=0.457
+[068] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[068] SUB Confraria Ludopédica Reconquista: saiu Based Viriato (CA) | entrou Dante Alígero (CA) | subs=5/5
+[068] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.403 roll=0.834
+[069] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[069] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.446 roll=0.619
+[070] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[070] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.446 roll=0.944
+[071] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[071] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.400 roll=0.926
+[072] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[072] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.400 roll=0.408
+[073] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[073] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.446 roll=0.820
+[074] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[074] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.446 roll=0.350
+[074] JOGADA Liga de Sports da Marinha | Sócrates Inácio x Paulo Leleco line=4 duel=21.52 corte=-1.08
+[074] JOGADA Liga de Sports da Marinha | Geraldo Montanari x Zé Carioca line=4 duel=-19.65 corte=-1.08
+[075] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[075] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.446 roll=0.401
+[075] JOGADA Liga de Sports da Marinha | Arsénio Barros x Cavaleiro Asturiano line=4 duel=9.24 corte=-1.08
+[075] FINAL Liga de Sports da Marinha | Sócrates Inácio fam=1 duel=5.24 on_target=0.766 goal=0.270
+[075] FINAL Sócrates Inácio: no alvo sem gol (roll=0.393)
+[076] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[076] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.388 roll=0.491
+[077] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[077] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.388 roll=0.261
+[077] JOGADA Confraria Ludopédica Reconquista | Zé Carioca x Isidro Vilaça line=2 duel=52.58 corte=-1.30
+[077] JOGADA Confraria Ludopédica Reconquista | Zé Carioca x Isidro Vilaça line=4 duel=-5.70 corte=-1.30
+[077] JOGADA falhou: Isidro Vilaça cortou
+[078] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[078] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.481 roll=0.428
+[078] JOGADA Liga de Sports da Marinha | Agatão Martins x Robert Sensacional line=4 duel=31.61 corte=-1.08
+[078] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=1 duel=10.39 on_target=0.830 goal=0.292
+[078] FINAL Geraldo Montanari: no alvo sem gol (roll=0.567)
+[079] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[079] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.388 roll=0.781
+[080] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[080] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.388 roll=0.944
+[081] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[081] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.388 roll=0.803
+[082] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[082] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.481 roll=0.872
+[083] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[083] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.388 roll=0.337
+[083] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Isidro Vilaça line=3 duel=-12.30 corte=-1.30
+[084] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[084] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.481 roll=0.717
+[085] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[085] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.388 roll=0.855
+[086] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[086] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.558 roll=0.300
+[086] JOGADA Liga de Sports da Marinha | Sócrates Inácio x Lécio Carrico line=4 duel=23.51 corte=-1.08
+[086] JOGADA Liga de Sports da Marinha | Eriberto Monte x Dante Alígero line=4 duel=-26.02 corte=-1.08
+[086] JOGADA falhou: Dante Alígero cortou
+[087] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[087] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.388 roll=0.351
+[087] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Isidro Vilaça line=3 duel=-5.80 corte=-1.30
+[087] JOGADA falhou: Isidro Vilaça cortou
+[088] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[088] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.388 roll=0.007
+[088] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Waldir Pamplona line=2 duel=22.60 corte=-1.30
+[088] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=1 duel=2.64 on_target=0.733 goal=0.267
+[088] FINAL Segofredo Araújo: fora/alvo perdido (roll=0.758)
+[089] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[089] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.388 roll=0.619
+[090] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[090] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.558 roll=0.881
+[091] posse=Confraria Ludopédica Reconquista | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[091] BUILD Confraria Ludopédica Reconquista vs Liga de Sports da Marinha prob=0.388 roll=0.393
+[092] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[092] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.558 roll=0.150
+[092] JOGADA Liga de Sports da Marinha | Agatão Martins x Duarte Pacheco line=4 duel=23.87 corte=-1.08
+[092] JOGADA Liga de Sports da Marinha | Josefino Conceição x Robert Sensacional line=4 duel=14.92 corte=-1.08
+[092] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Principiano Chamberlain line=5 duel=10.79 corte=-1.33
+[092] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=1 duel=3.39 on_target=0.920 goal=0.297
+[092] FINAL Geraldo Montanari: no alvo sem gol (roll=0.515)
+[093] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[093] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.558 roll=0.263
+[093] JOGADA Liga de Sports da Marinha | Agatão Martins x Duarte Pacheco line=4 duel=23.20 corte=-1.08
+[093] JOGADA Liga de Sports da Marinha | Josefino Conceição x Lécio Carrico line=4 duel=-1.54 corte=-1.08
+[094] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[094] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.558 roll=0.802
+[095] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Confraria Ludopédica Reconquista
+[095] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.558 roll=0.455
+[095] JOGADA Liga de Sports da Marinha | Geraldo Montanari x Duarte Pacheco line=4 duel=23.59 corte=-1.08
+[095] JOGADA Liga de Sports da Marinha | Eriberto Monte x Duarte Pacheco line=5 duel=47.38 corte=-1.33
+[095] JOGADA Liga de Sports da Marinha | Agatão Martins x Dante Alígero line=5 duel=26.77 corte=-1.33
+[095] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=1 duel=7.61 on_target=0.920 goal=0.299
+[095] FINAL Geraldo Montanari: GOL subtipo=CHUTE (roll=0.229)
+[096] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 1 x 1 Confraria Ludopédica Reconquista
+[096] BUILD Liga de Sports da Marinha vs Confraria Ludopédica Reconquista prob=0.469 roll=0.027
+[096] JOGADA Liga de Sports da Marinha | Arsénio Barros x Principiano Chamberlain line=3 duel=-5.40 corte=-1.08

@@ -1,0 +1,294 @@
+Partida #230
+Data: 1912-01-22
+Mandante: Associação Athletica Internacional
+Visitante: Rural Atlético Clube
+Placar: 0 x 0
+Seed: -
+Estádio: Estádio Carneiro Leão
+Clima: Frio forte
+Placar tempo normal: 0 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Associação Athletica Internacional x Rural Atlético Clube | estádio=Estádio Carneiro Leão | clima=Frio forte | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[001] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.287 roll=0.574
+[002] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[002] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.308 roll=0.210
+[002] JOGADA Associação Athletica Internacional | Gio Occhetto x Geroldo Carlos line=3 duel=6.20 corte=-1.70
+[002] FINAL Associação Athletica Internacional | Gio Occhetto fam=5 duel=-8.30 on_target=0.474 goal=0.127
+[002] FINAL Gio Occhetto: no alvo sem gol (roll=0.538)
+[003] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[003] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.308 roll=0.754
+[004] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[004] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.287 roll=0.970
+[005] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[005] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.308 roll=0.586
+[006] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[006] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.287 roll=0.123
+[006] JOGADA Rural Atlético Clube | Marciano Capetinha x Leo Basbaum line=3 duel=32.69 corte=-1.10
+[006] FINAL Rural Atlético Clube | Piragibe Haghissé fam=1 duel=3.48 on_target=0.553 goal=0.207
+[006] FINAL Piragibe Haghissé: fora/alvo perdido (roll=0.571)
+[007] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[007] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.308 roll=0.486
+[008] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[008] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.308 roll=0.197
+[008] JOGADA Associação Athletica Internacional | Astrojildo x Érico Lorentino line=2 duel=-23.90 corte=-1.70
+[009] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[009] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.308 roll=0.521
+[010] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[010] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.308 roll=0.523
+[010] FINAL Associação Athletica Internacional | Lorenzo Silva fam=5 duel=-20.93 on_target=0.471 goal=0.122
+[010] FINAL Lorenzo Silva: fora/alvo perdido (roll=0.630)
+[011] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[011] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.333 roll=0.938
+[012] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[012] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.311 roll=0.529
+[013] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[013] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.333 roll=0.088
+[013] JOGADA Associação Athletica Internacional | Gio Occhetto x Benjamin Saraiva line=3 duel=-6.75 corte=-1.70
+[013] JOGADA falhou: Benjamin Saraiva cortou
+[014] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[014] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.333 roll=0.634
+[015] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[015] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.333 roll=0.622
+[016] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[016] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.311 roll=0.583
+[017] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[017] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.311 roll=0.476
+[018] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[018] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.311 roll=0.093
+[018] JOGADA Rural Atlético Clube | Geroldo Carlos x Gio Occhetto line=4 duel=29.41 corte=-1.10
+[018] FINAL Rural Atlético Clube | Geroldo Carlos fam=3 duel=-33.32 on_target=0.535 goal=0.153
+[018] FINAL Geroldo Carlos: fora/alvo perdido (roll=0.654)
+[019] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[019] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.333 roll=0.452
+[020] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[020] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.333 roll=0.688
+[021] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[021] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.334 roll=0.918
+[022] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[022] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.334 roll=0.269
+[022] JOGADA Rural Atlético Clube | Piragibe Haghissé x Lorenzo Silva line=5 duel=-6.23 corte=-1.85
+[022] JOGADA falhou: Lorenzo Silva cortou
+[023] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[023] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.334 roll=0.861
+[024] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[024] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.334 roll=0.147
+[024] JOGADA Rural Atlético Clube | Marciano Capetinha x Berno Rossi line=5 duel=14.33 corte=-1.35
+[024] FINAL Rural Atlético Clube | Geroldo Carlos fam=1 duel=-8.26 on_target=0.623 goal=0.220
+[024] FINAL Geroldo Carlos: no alvo sem gol (roll=0.675)
+[025] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[025] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.359 roll=0.537
+[026] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[026] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.359 roll=0.733
+[027] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[027] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.359 roll=0.892
+[028] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[028] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.359 roll=0.372
+[029] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[029] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.334 roll=0.019
+[029] JOGADA Rural Atlético Clube | Geroldo Carlos x Berno Rossi line=5 duel=58.69 corte=-1.35
+[029] FINAL Rural Atlético Clube | Piragibe Haghissé fam=3 duel=-1.67 on_target=0.570 goal=0.173
+[029] FINAL Piragibe Haghissé: no alvo sem gol (roll=0.683)
+[030] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[030] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.334 roll=0.512
+[031] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[031] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.359 roll=0.084
+[031] JOGADA Associação Athletica Internacional | Didinho x Geroldo Carlos line=4 duel=10.17 corte=-1.70
+[031] JOGADA Associação Athletica Internacional | Didinho x Marciano Capetinha line=5 duel=-13.62 corte=-1.95
+[031] JOGADA falhou: Marciano Capetinha cortou
+[032] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[032] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.361 roll=0.953
+[033] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[033] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.334 roll=0.842
+[034] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[034] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.361 roll=0.181
+[034] JOGADA Associação Athletica Internacional | Christiano Cordeiro x Mauro Minotauro line=2 duel=-17.12 corte=-1.70
+[034] JOGADA falhou: Mauro Minotauro cortou
+[035] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[035] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.361 roll=0.732
+[036] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[036] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.334 roll=0.445
+[037] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[037] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.361 roll=0.404
+[038] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[038] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.361 roll=0.961
+[039] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[039] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.334 roll=0.693
+[040] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[040] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.361 roll=0.863
+[041] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[041] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.361 roll=0.519
+[042] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[042] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.361 roll=0.103
+[042] JOGADA Associação Athletica Internacional | Leo Basbaum x Will Anthonio Zeppeli line=4 duel=21.93 corte=-1.70
+[042] FINAL Associação Athletica Internacional | Leo Basbaum fam=5 duel=-21.53 on_target=0.538 goal=0.135
+[042] FINAL Leo Basbaum: no alvo sem gol (roll=0.233)
+[043] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[043] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.334 roll=0.182
+[043] JOGADA Rural Atlético Clube | Mauro Minotauro x Berno Rossi line=3 duel=12.93 corte=-1.10
+[043] FINAL Rural Atlético Clube | Érico Lorentino fam=1 duel=12.88 on_target=0.621 goal=0.228
+[043] FINAL Érico Lorentino: no alvo sem gol (roll=0.901)
+[044] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[044] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.361 roll=0.002
+[044] JOGADA Associação Athletica Internacional | Alceo Panicucci x Robert E. O. Speedwagon line=4 duel=-18.14 corte=-1.70
+[044] JOGADA falhou: Robert E. O. Speedwagon cortou
+[045] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[045] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.334 roll=0.075
+[045] JOGADA Rural Atlético Clube | Érico Lorentino x Gio Occhetto line=5 duel=120.41 corte=-1.35
+[045] FINAL Rural Atlético Clube | Piragibe Haghissé fam=3 duel=-3.57 on_target=0.570 goal=0.172
+[045] FINAL Piragibe Haghissé: no alvo sem gol (roll=0.311)
+[046] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[046] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.336 roll=0.077
+[046] JOGADA Associação Athletica Internacional | Leo Basbaum x Geroldo Carlos line=2 duel=-10.64 corte=-1.70
+[047] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[047] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.336 roll=0.843
+[048] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[048] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.311 roll=0.484
+[049] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[049] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.311 roll=0.536
+[050] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[050] SUB Associação Athletica Internacional: saiu Gio Occhetto (CA) | entrou Elizeu Alagoano (CA) | subs=1/5
+[050] SUB Rural Atlético Clube: saiu Will Anthonio Zeppeli (MA) | entrou Abdullah Pretão (SA) | subs=1/5
+[050] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.313 roll=0.054
+[050] JOGADA Associação Athletica Internacional | Christiano Cordeiro x Benjamin Saraiva line=4 duel=4.05 corte=-1.70
+[050] JOGADA Associação Athletica Internacional | Elizeu Alagoano x Benjamin Saraiva line=4 duel=20.43 corte=-1.70
+[050] JOGADA Associação Athletica Internacional | Leo Basbaum x Érico Lorentino line=5 duel=-15.30 corte=-2.45
+[050] JOGADA falhou: Érico Lorentino cortou
+[051] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[051] SUB Associação Athletica Internacional: saiu Leo Basbaum (CA) | entrou Ítalinho (CA) | subs=2/5
+[051] SUB Rural Atlético Clube: saiu Piragibe Haghissé (CA) | entrou Jebadias de Assunção (CA) | subs=2/5
+[051] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.304 roll=0.986
+[052] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[052] SUB Associação Athletica Internacional: saiu Horácio Canhão (MA) | entrou Arythoreon (MA) | subs=3/5
+[052] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.312 roll=0.628
+[053] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[053] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.303 roll=0.664
+[054] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[054] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.303 roll=0.641
+[055] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[055] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.303 roll=0.757
+[056] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[056] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.326 roll=0.943
+[057] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[057] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.335 roll=0.629
+[058] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[058] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.326 roll=0.005
+[058] JOGADA Associação Athletica Internacional | Lorenzo Silva x Teliciano Garcia line=4 duel=-48.49 corte=-1.70
+[058] JOGADA falhou: Teliciano Garcia cortou
+[059] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[059] SUB Associação Athletica Internacional: saiu Berno Rossi (ZAG) | entrou Fabrício Leão (ZAG) | subs=4/5
+[059] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.326 roll=0.329
+[060] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[060] SUB Rural Atlético Clube: saiu Benjamin Saraiva (ZAG) | entrou Sócrates Espinho (ZAG) | subs=3/5
+[060] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.330 roll=0.110
+[060] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Teliciano Garcia line=3 duel=4.65 corte=-1.70
+[060] JOGADA Associação Athletica Internacional | Christiano Cordeiro x Teliciano Garcia line=4 duel=-16.42 corte=-1.70
+[060] JOGADA falhou: Teliciano Garcia cortou
+[061] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[061] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.312 roll=0.079
+[061] JOGADA Rural Atlético Clube | Teliciano Garcia x Alceo Panicucci line=4 duel=71.05 corte=-1.09
+[061] FINAL Rural Atlético Clube | Abdullah Pretão fam=1 duel=23.72 on_target=0.628 goal=0.236
+[061] FINAL Abdullah Pretão: fora/alvo perdido (roll=0.673)
+[062] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[062] SUB Rural Atlético Clube: saiu Abdullah Pretão (SA) | entrou Maurício Palmas (SA) | subs=4/5
+[062] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.329 roll=0.174
+[062] JOGADA Associação Athletica Internacional | Astrojildo x Celeritano Mendes line=3 duel=-27.30 corte=-1.70
+[062] JOGADA falhou: Celeritano Mendes cortou
+[063] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[063] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.329 roll=0.865
+[064] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[064] SUB Rural Atlético Clube: saiu Geroldo Carlos (MD) | entrou Julielson Mendonça (MD) | subs=5/5
+[064] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.303 roll=0.958
+[065] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[065] SUB Associação Athletica Internacional: saiu Christiano Cordeiro (AD) | entrou Rodolfo Freire (AD) | subs=5/5
+[065] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.311 roll=0.503
+[066] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[066] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.311 roll=0.900
+[067] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[067] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.311 roll=0.021
+[067] JOGADA Rural Atlético Clube | Robert E. O. Speedwagon x Arythoreon line=5 duel=36.67 corte=-1.34
+[067] FINAL Rural Atlético Clube | Jebadias de Assunção fam=1 duel=20.07 on_target=0.629 goal=0.235
+[067] FINAL Jebadias de Assunção: no alvo sem gol (roll=0.261)
+[068] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[068] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.332 roll=0.967
+[069] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[069] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.332 roll=0.957
+[070] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[070] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.311 roll=0.224
+[070] JOGADA Rural Atlético Clube | Jebadias de Assunção x Fabrício Leão line=3 duel=-4.62 corte=-1.08
+[071] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[071] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.311 roll=0.942
+[072] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[072] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.311 roll=0.872
+[073] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[073] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.332 roll=0.593
+[074] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[074] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.332 roll=0.166
+[074] JOGADA Associação Athletica Internacional | Astrojildo x Jebadias de Assunção line=3 duel=4.61 corte=-1.70
+[074] JOGADA Associação Athletica Internacional | Lorenzo Silva x Robert E. O. Speedwagon line=5 duel=10.14 corte=-1.95
+[074] JOGADA Associação Athletica Internacional | Astrojildo x Maurício Palmas line=5 duel=38.62 corte=-1.95
+[074] FINAL Associação Athletica Internacional | Elizeu Alagoano fam=5 duel=-46.71 on_target=0.545 goal=0.129
+[074] FINAL Elizeu Alagoano: fora/alvo perdido (roll=0.757)
+[075] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[075] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.332 roll=0.050
+[075] JOGADA Associação Athletica Internacional | Alceo Panicucci x Julielson Mendonça line=4 duel=-27.25 corte=-1.70
+[075] JOGADA falhou: Julielson Mendonça cortou
+[076] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[076] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.342 roll=0.433
+[077] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[077] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.342 roll=0.429
+[078] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[078] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.342 roll=0.652
+[079] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[079] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.320 roll=0.625
+[080] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[080] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.342 roll=0.995
+[081] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[081] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.320 roll=0.115
+[081] JOGADA Rural Atlético Clube | Jebadias de Assunção x Lorenzo Silva line=4 duel=3.21 corte=-1.04
+[081] FINAL Rural Atlético Clube | Maurício Palmas fam=1 duel=8.99 on_target=0.639 goal=0.231
+[081] FINAL Maurício Palmas: fora/alvo perdido (roll=0.742)
+[082] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[082] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.342 roll=0.031
+[082] JOGADA Associação Athletica Internacional | Lorenzo Silva x Maurício Palmas line=4 duel=16.16 corte=-1.70
+[082] FINAL Associação Athletica Internacional | Ítalinho fam=5 duel=-1.98 on_target=0.558 goal=0.150
+[082] FINAL Ítalinho: fora/alvo perdido (roll=0.914)
+[083] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[083] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.342 roll=0.906
+[084] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[084] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.342 roll=0.536
+[085] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[085] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.317 roll=0.913
+[086] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[086] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.338 roll=0.913
+[087] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[087] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.317 roll=0.885
+[087] FINAL Rural Atlético Clube | Celeritano Mendes fam=5 duel=-15.54 on_target=0.541 goal=0.125
+[087] FINAL Celeritano Mendes: fora/alvo perdido (roll=0.735)
+[088] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[088] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.317 roll=0.270
+[088] JOGADA Rural Atlético Clube | Julielson Mendonça x Lorenzo Silva line=5 duel=10.80 corte=-1.29
+[088] FINAL Rural Atlético Clube | Jebadias de Assunção fam=3 duel=4.64 on_target=0.581 goal=0.177
+[088] FINAL Jebadias de Assunção: fora/alvo perdido (roll=0.930)
+[089] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[089] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.317 roll=0.949
+[090] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[090] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.338 roll=0.974
+[091] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[091] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.338 roll=0.171
+[091] JOGADA Associação Athletica Internacional | Fabrício Leão x Marciano Capetinha line=4 duel=-12.14 corte=-1.70
+[091] JOGADA falhou: Marciano Capetinha cortou
+[092] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[092] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.338 roll=0.414
+[093] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[093] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.338 roll=0.411
+[094] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[094] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.317 roll=0.742
+[095] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[095] BUILD Associação Athletica Internacional vs Rural Atlético Clube prob=0.338 roll=0.528
+[096] posse=Rural Atlético Clube | placar Associação Athletica Internacional 0 x 0 Rural Atlético Clube
+[096] BUILD Rural Atlético Clube vs Associação Athletica Internacional prob=0.317 roll=0.502

@@ -1,0 +1,353 @@
+Partida #244
+Data: 1912-01-24
+Mandante: Clube de Regatas Vasco da Gama
+Visitante: Real Sporting Centro Gallego
+Placar: 2 x 1
+Seed: -
+Estádio: Estádio Nau de São Gabriel
+Clima: Ensolarado
+Placar tempo normal: 2 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube de Regatas Vasco da Gama x Real Sporting Centro Gallego | estádio=Estádio Nau de São Gabriel | clima=Ensolarado | seed=- | perfil=aberto | pressão=Clássico: Dérbi da Gamboa
+[001] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[001] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.384 roll=0.488
+[002] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[002] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.384 roll=0.288
+[002] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Nininho line=2 duel=-16.30 corte=-1.10
+[003] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[003] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.400 roll=0.299
+[003] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Rodrigão Barbosa line=5 duel=-5.39 corte=-1.95
+[003] JOGADA falhou: Rodrigão Barbosa cortou
+[004] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[004] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.400 roll=0.440
+[005] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[005] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.400 roll=0.954
+[006] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[006] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.384 roll=0.518
+[007] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[007] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.384 roll=0.768
+[008] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[008] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.384 roll=0.179
+[008] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Enaldo Marcelo line=2 duel=94.80 corte=-1.10
+[008] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Adriano Pacheco line=4 duel=-18.89 corte=-1.10
+[008] FINAL Real Sporting Centro Gallego | Francesco Maldonatti fam=5 duel=-37.14 on_target=0.579 goal=0.127
+[008] FINAL Francesco Maldonatti: fora/alvo perdido (roll=0.686)
+[009] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[009] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.400 roll=0.868
+[010] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[010] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.384 roll=0.680
+[011] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[011] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.433 roll=0.138
+[011] JOGADA Clube de Regatas Vasco da Gama | Eduardo Freitas x Costa Cavalcanti line=4 duel=64.77 corte=-1.70
+[011] FINAL Clube de Regatas Vasco da Gama | Pedro Guaraná fam=5 duel=1.54 on_target=0.641 goal=0.175
+[011] FINAL Pedro Guaraná: no alvo sem gol (roll=0.620)
+[012] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[012] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.415 roll=0.511
+[013] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[013] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.415 roll=0.934
+[014] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[014] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.415 roll=0.161
+[014] JOGADA Real Sporting Centro Gallego | Leonardo Dedeca x Suspiro Menezes line=3 duel=0.00 corte=-1.10
+[014] JOGADA Real Sporting Centro Gallego | Ítalo Terrível x Eduardo Freitas line=4 duel=48.70 corte=-1.10
+[014] FINAL Real Sporting Centro Gallego | Argonauta Tenório fam=3 duel=-0.40 on_target=0.665 goal=0.202
+[014] FINAL Argonauta Tenório: fora/alvo perdido (roll=0.945)
+[015] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[015] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.433 roll=0.192
+[015] JOGADA Clube de Regatas Vasco da Gama | Enaldo Marcelo x Francesco Maldonatti line=5 duel=41.27 corte=-2.45
+[015] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=5 duel=-72.41 on_target=0.639 goal=0.139
+[015] FINAL Fusiano Colón: no alvo sem gol (roll=0.804)
+[016] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[016] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.415 roll=0.639
+[017] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[017] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.433 roll=0.424
+[017] JOGADA Clube de Regatas Vasco da Gama | Pedro Guaraná x Francesco Maldonatti line=4 duel=-2.95 corte=-1.70
+[017] JOGADA falhou: Francesco Maldonatti cortou
+[018] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[018] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.433 roll=0.417
+[018] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Linwood Hays line=4 duel=-12.02 corte=-1.70
+[018] JOGADA falhou: Linwood Hays cortou
+[019] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[019] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.415 roll=0.638
+[020] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[020] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.415 roll=0.075
+[020] JOGADA Real Sporting Centro Gallego | Rodrigão Barbosa x Adriano Pacheco line=3 duel=-23.18 corte=-1.10
+[020] JOGADA falhou: Adriano Pacheco cortou
+[021] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[021] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.466 roll=0.993
+[022] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[022] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.466 roll=0.886
+[023] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[023] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.466 roll=0.285
+[023] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Linwood Hays line=4 duel=40.19 corte=-1.70
+[023] FINAL Clube de Regatas Vasco da Gama | Victoriano Bandeira fam=5 duel=-15.64 on_target=0.668 goal=0.169
+[023] FINAL Victoriano Bandeira: fora/alvo perdido (roll=0.768)
+[024] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[024] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.132
+[024] JOGADA Real Sporting Centro Gallego | Leonardo Dedeca x Adriano Pacheco line=3 duel=-5.18 corte=-1.10
+[025] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[025] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.770
+[026] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[026] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.554
+[027] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[027] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.998
+[028] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[028] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.466 roll=0.358
+[028] JOGADA Clube de Regatas Vasco da Gama | Pedro Guaraná x Costa Cavalcanti line=5 duel=4.27 corte=-2.45
+[028] FINAL Clube de Regatas Vasco da Gama | Victoriano Bandeira fam=5 duel=-16.27 on_target=0.668 goal=0.169
+[028] FINAL Victoriano Bandeira: fora/alvo perdido (roll=0.904)
+[029] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[029] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.629
+[030] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[030] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.159
+[030] JOGADA Real Sporting Centro Gallego | Leonardo Dedeca x Pedro Silva line=3 duel=-4.37 corte=-1.10
+[030] JOGADA falhou: Pedro Silva cortou
+[031] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[031] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.476
+[032] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[032] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.154
+[032] JOGADA Real Sporting Centro Gallego | Argonauta Tenório x Enaldo Marcelo line=4 duel=28.17 corte=-1.09
+[032] JOGADA Real Sporting Centro Gallego | Leonardo Dedeca x Eduardo Freitas line=4 duel=38.02 corte=-1.09
+[032] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Fusiano Colón line=5 duel=127.77 corte=-1.34
+[032] FINAL Real Sporting Centro Gallego | Argonauta Tenório fam=1 duel=-12.63 on_target=0.771 goal=0.264
+[032] FINAL Argonauta Tenório: no alvo sem gol (roll=0.744)
+[033] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[033] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.468 roll=0.742
+[034] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[034] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.382
+[034] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Enaldo Marcelo line=2 duel=57.72 corte=-1.09
+[034] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Eduardo Freitas line=3 duel=55.61 corte=-1.09
+[034] JOGADA Real Sporting Centro Gallego | Argonauta Tenório x Eduardo Freitas line=4 duel=30.42 corte=-1.09
+[034] FINAL Real Sporting Centro Gallego | Leonardo Dedeca fam=1 duel=-4.10 on_target=0.767 goal=0.266
+[034] FINAL Leonardo Dedeca: fora/alvo perdido (roll=0.966)
+[035] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[035] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.720
+[036] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[036] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.096
+[036] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Fusiano Colón line=3 duel=52.88 corte=-1.09
+[036] JOGADA Real Sporting Centro Gallego | Argonauta Tenório x Suspiro Menezes line=4 duel=-22.47 corte=-1.09
+[037] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[037] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.468 roll=0.713
+[038] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[038] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.468 roll=0.891
+[039] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[039] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.204
+[039] JOGADA Real Sporting Centro Gallego | Ítalo Terrível x Victoriano Bandeira line=3 duel=56.15 corte=-1.09
+[039] JOGADA Real Sporting Centro Gallego | Ítalo Terrível x Nininho line=4 duel=0.32 corte=-1.09
+[039] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Fusiano Colón line=5 duel=85.16 corte=-1.34
+[039] FINAL Real Sporting Centro Gallego | Argonauta Tenório fam=1 duel=-15.31 on_target=0.771 goal=0.263
+[039] FINAL Argonauta Tenório: no alvo sem gol (roll=0.454)
+[040] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[040] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.468 roll=0.824
+[041] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[041] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.218
+[041] JOGADA Real Sporting Centro Gallego | Rodrigão Barbosa x Pedro Guaraná line=4 duel=-23.51 corte=-1.09
+[041] JOGADA falhou: Pedro Guaraná cortou
+[042] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[042] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.468 roll=0.213
+[042] JOGADA Clube de Regatas Vasco da Gama | Eduardo Freitas x Francesco Maldonatti line=4 duel=16.03 corte=-1.70
+[042] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=5 duel=-8.72 on_target=0.677 goal=0.177
+[042] FINAL Fusiano Colón: fora/alvo perdido (roll=0.805)
+[043] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[043] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.547
+[044] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[044] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.468 roll=0.981
+[045] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[045] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.468 roll=0.301
+[045] JOGADA Clube de Regatas Vasco da Gama | Júlio Martins x Leonardo Dedeca line=5 duel=75.03 corte=-1.95
+[045] FINAL Clube de Regatas Vasco da Gama | Eduardo Freitas fam=5 duel=-6.97 on_target=0.674 goal=0.176
+[045] FINAL Eduardo Freitas: no alvo sem gol (roll=0.785)
+[046] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[046] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.415 roll=0.661
+[047] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[047] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.436 roll=0.835
+[048] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[048] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.436 roll=0.788
+[049] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[049] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.415 roll=0.842
+[050] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[050] SUB Clube de Regatas Vasco da Gama: saiu Eduardo Freitas (SA) | entrou Hugo Júnior Cruz (CA) | subs=1/5
+[050] SUB Real Sporting Centro Gallego: saiu Argonauta Tenório (CA) | entrou Guiné (CA) | subs=1/5
+[050] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.432 roll=0.300
+[050] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Rogério Freitas line=5 duel=13.69 corte=-1.95
+[050] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=5 duel=-39.59 on_target=0.636 goal=0.154
+[050] FINAL Hugo Júnior Cruz: no alvo sem gol (roll=0.585)
+[051] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[051] SUB Clube de Regatas Vasco da Gama: saiu Victoriano Bandeira (SA) | entrou Fausto Garcia (SA) | subs=2/5
+[051] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.417 roll=0.587
+[052] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[052] SUB Clube de Regatas Vasco da Gama: saiu Fusiano Colón (CA) | entrou Ronaldo Mendonça (CA) | subs=3/5
+[052] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.420 roll=0.468
+[053] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[053] SUB Clube de Regatas Vasco da Gama: saiu Enaldo Marcelo (CA) | entrou Álvaro Teixeira (CA) | subs=4/5
+[053] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.405 roll=0.922
+[054] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[054] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.405 roll=0.906
+[055] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[055] SUB Real Sporting Centro Gallego: saiu Leonardo Dedeca (PE) | entrou Juan Gordito Artetas (PE) | subs=2/5
+[055] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.405 roll=0.860
+[056] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[056] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.435 roll=0.722
+[057] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[057] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.454 roll=0.147
+[057] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Hugo Júnior Cruz line=3 duel=37.00 corte=-1.09
+[057] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Fausto Garcia line=4 duel=-54.10 corte=-1.09
+[057] JOGADA falhou: Fausto Garcia cortou
+[058] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[058] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.431 roll=0.752
+[059] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[059] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.431 roll=0.805
+[060] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[060] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.439 roll=0.119
+[060] JOGADA Clube de Regatas Vasco da Gama | Fausto Garcia x Alerrando Mesquita line=4 duel=16.11 corte=-1.70
+[060] FINAL Clube de Regatas Vasco da Gama | Pedro Silva fam=5 duel=11.43 on_target=0.677 goal=0.188
+[060] FINAL Pedro Silva: no alvo sem gol (roll=0.352)
+[061] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[061] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.439 roll=0.264
+[061] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Costa Cavalcanti line=5 duel=50.83 corte=-1.95
+[061] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=5 duel=-36.86 on_target=0.670 goal=0.162
+[061] FINAL Hugo Júnior Cruz: no alvo sem gol (roll=0.366)
+[062] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[062] SUB Clube de Regatas Vasco da Gama: saiu Suspiro Menezes (LD) | entrou Moacir Ribeiro (LD) | subs=5/5
+[062] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.435 roll=0.954
+[063] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[063] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.438 roll=0.457
+[064] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[064] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.435 roll=0.303
+[064] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Pedro Silva line=3 duel=-14.41 corte=-1.08
+[064] JOGADA falhou: Pedro Silva cortou
+[065] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[065] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.438 roll=0.736
+[065] FINAL Clube de Regatas Vasco da Gama | Pedro Guaraná fam=5 duel=-48.05 on_target=0.673 goal=0.157
+[065] FINAL Pedro Guaraná: no alvo sem gol (roll=0.990)
+[066] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[066] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.438 roll=0.819
+[067] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[067] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.438 roll=0.127
+[067] JOGADA Clube de Regatas Vasco da Gama | Nininho x Francesco Maldonatti line=3 duel=-14.02 corte=-1.70
+[067] JOGADA falhou: Francesco Maldonatti cortou
+[068] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[068] SUB Real Sporting Centro Gallego: saiu Rodrigão Barbosa (ZAG) | entrou Gustavo Piocó (VOL) | subs=3/5
+[068] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.443 roll=0.156
+[068] JOGADA Clube de Regatas Vasco da Gama | Júlio Martins x Ítalo Terrível line=4 duel=59.51 corte=-1.70
+[068] FINAL Clube de Regatas Vasco da Gama | Ronaldo Mendonça fam=5 duel=11.76 on_target=0.672 goal=0.187
+[068] FINAL Ronaldo Mendonça: fora/alvo perdido (roll=0.723)
+[069] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[069] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.433 roll=0.193
+[069] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Júlio Martins line=3 duel=8.28 corte=-1.08
+[069] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Hugo Júnior Cruz line=4 duel=38.56 corte=-1.08
+[069] JOGADA Real Sporting Centro Gallego | Ítalo Terrível x Adriano Pacheco line=5 duel=3.76 corte=-1.83
+[069] FINAL Real Sporting Centro Gallego | Guiné fam=1 duel=13.63 on_target=0.773 goal=0.278
+[069] FINAL Guiné: no alvo sem gol (roll=0.499)
+[070] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[070] SUB Real Sporting Centro Gallego: saiu Ítalo Terrível (PD) | entrou Salazar Bravo (PD) | subs=4/5
+[070] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.443 roll=0.391
+[070] JOGADA Clube de Regatas Vasco da Gama | Ronaldo Mendonça x Francesco Maldonatti line=4 duel=49.69 corte=-1.70
+[070] FINAL Clube de Regatas Vasco da Gama | Fausto Garcia fam=5 duel=-34.99 on_target=0.671 goal=0.163
+[070] FINAL Fausto Garcia: no alvo sem gol (roll=0.198)
+[071] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[071] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.443 roll=0.444
+[072] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[072] SUB Real Sporting Centro Gallego: saiu Linwood Hays (ZAG) | entrou Laércio Neto (LD) | subs=5/5
+[072] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.452 roll=0.842
+[073] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[073] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.419 roll=0.937
+[074] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[074] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.419 roll=0.123
+[074] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Moacir Ribeiro line=3 duel=-1.85 corte=-1.03
+[074] JOGADA falhou: Moacir Ribeiro cortou
+[075] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[075] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.419 roll=0.064
+[075] JOGADA Real Sporting Centro Gallego | Guiné x Hugo Júnior Cruz line=3 duel=29.09 corte=-1.03
+[075] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Álvaro Teixeira line=4 duel=4.50 corte=-1.03
+[075] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Álvaro Teixeira line=5 duel=4.68 corte=-1.28
+[075] FINAL Real Sporting Centro Gallego | Salazar Bravo fam=1 duel=31.27 on_target=0.771 goal=0.285
+[075] FINAL Salazar Bravo: fora/alvo perdido (roll=0.937)
+[076] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[076] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.432 roll=0.094
+[076] JOGADA Real Sporting Centro Gallego | Juan Gordito Artetas x Fausto Garcia line=4 duel=-1.33 corte=-1.03
+[076] JOGADA falhou: Fausto Garcia cortou
+[077] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[077] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.432 roll=0.415
+[077] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Pedro Guaraná line=4 duel=-12.31 corte=-1.03
+[077] JOGADA falhou: Pedro Guaraná cortou
+[078] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[078] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.432 roll=0.061
+[078] JOGADA Real Sporting Centro Gallego | Júlio Falcão x Júlio Martins line=3 duel=9.28 corte=-1.03
+[078] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Nininho line=4 duel=7.52 corte=-1.03
+[078] JOGADA Real Sporting Centro Gallego | Salazar Bravo x Moacir Ribeiro line=5 duel=83.70 corte=-1.78
+[078] FINAL Real Sporting Centro Gallego | Guiné fam=1 duel=5.93 on_target=0.788 goal=0.276
+[078] FINAL Guiné: no alvo sem gol (roll=0.630)
+[079] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Real Sporting Centro Gallego
+[079] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.465 roll=0.165
+[079] JOGADA Clube de Regatas Vasco da Gama | Nininho x Guiné line=4 duel=9.92 corte=-1.70
+[079] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=5 duel=1.26 on_target=0.688 goal=0.185
+[079] FINAL Hugo Júnior Cruz: GOL subtipo=FALTA (roll=0.077)
+[080] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 1 x 0 Real Sporting Centro Gallego
+[080] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.494 roll=0.535
+[081] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 1 x 0 Real Sporting Centro Gallego
+[081] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.510 roll=0.816
+[082] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 1 x 0 Real Sporting Centro Gallego
+[082] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.510 roll=0.562
+[083] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 1 x 0 Real Sporting Centro Gallego
+[083] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.510 roll=0.706
+[084] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 1 x 0 Real Sporting Centro Gallego
+[084] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.510 roll=0.521
+[085] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 1 x 0 Real Sporting Centro Gallego
+[085] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.494 roll=0.992
+[086] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 1 x 0 Real Sporting Centro Gallego
+[086] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.580 roll=0.170
+[086] JOGADA Real Sporting Centro Gallego | Guiné x Fausto Garcia line=3 duel=-2.18 corte=-1.02
+[086] JOGADA falhou: Fausto Garcia cortou
+[087] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 1 x 0 Real Sporting Centro Gallego
+[087] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.494 roll=0.944
+[088] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 1 x 0 Real Sporting Centro Gallego
+[088] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.494 roll=0.316
+[088] JOGADA Clube de Regatas Vasco da Gama | Hugo Júnior Cruz x Júlio Falcão line=5 duel=-2.18 corte=-2.45
+[088] FINAL Clube de Regatas Vasco da Gama | Ronaldo Mendonça fam=5 duel=3.10 on_target=0.648 goal=0.184
+[088] FINAL Ronaldo Mendonça: GOL subtipo=FALTA (roll=0.047)
+[089] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 2 x 0 Real Sporting Centro Gallego
+[089] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.580 roll=0.220
+[089] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Nininho line=3 duel=54.23 corte=-1.02
+[089] JOGADA Real Sporting Centro Gallego | Juan Gordito Artetas x Pedro Guaraná line=4 duel=5.70 corte=-1.02
+[089] JOGADA Real Sporting Centro Gallego | Juan Gordito Artetas x Pedro Silva line=4 duel=6.88 corte=-1.02
+[089] FINAL Real Sporting Centro Gallego | Guiné fam=1 duel=0.27 on_target=0.920 goal=0.296
+[089] FINAL Guiné: fora/alvo perdido (roll=0.944)
+[090] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 2 x 0 Real Sporting Centro Gallego
+[090] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.580 roll=0.976
+[091] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 2 x 0 Real Sporting Centro Gallego
+[091] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.580 roll=0.484
+[091] JOGADA Real Sporting Centro Gallego | Laércio Neto x Pedro Guaraná line=4 duel=26.75 corte=-1.02
+[091] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Fausto Garcia line=4 duel=6.61 corte=-1.02
+[091] FINAL Real Sporting Centro Gallego | Salazar Bravo fam=3 duel=6.19 on_target=0.854 goal=0.229
+[091] FINAL Salazar Bravo: GOL subtipo=CHUTE (roll=0.100)
+[092] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 1 Real Sporting Centro Gallego
+[092] BUILD Clube de Regatas Vasco da Gama vs Real Sporting Centro Gallego prob=0.494 roll=0.813
+[093] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 2 x 1 Real Sporting Centro Gallego
+[093] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.580 roll=0.493
+[093] JOGADA Real Sporting Centro Gallego | Laércio Neto x Pedro Silva line=3 duel=-1.11 corte=-1.02
+[093] JOGADA falhou: Pedro Silva cortou
+[094] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 2 x 1 Real Sporting Centro Gallego
+[094] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.580 roll=0.152
+[094] JOGADA Real Sporting Centro Gallego | Laércio Neto x Hugo Júnior Cruz line=3 duel=76.74 corte=-1.02
+[094] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Álvaro Teixeira line=4 duel=4.05 corte=-1.02
+[094] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Pedro Silva line=5 duel=0.89 corte=-1.27
+[094] FINAL Real Sporting Centro Gallego | Júlio Falcão fam=1 duel=0.94 on_target=0.920 goal=0.295
+[094] FINAL Júlio Falcão: fora/alvo perdido (roll=0.941)
+[095] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 2 x 1 Real Sporting Centro Gallego
+[095] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.580 roll=0.536
+[095] JOGADA Real Sporting Centro Gallego | Júlio Falcão x Pedro Guaraná line=2 duel=10.25 corte=-1.02
+[095] FINAL Real Sporting Centro Gallego | Guiné fam=3 duel=1.64 on_target=0.857 goal=0.228
+[095] FINAL Guiné: no alvo sem gol (roll=0.833)
+[096] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 2 x 1 Real Sporting Centro Gallego
+[096] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.580 roll=0.082
+[096] JOGADA Real Sporting Centro Gallego | Juan Gordito Artetas x Nininho line=3 duel=48.73 corte=-1.02
+[096] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Adriano Pacheco line=4 duel=8.20 corte=-1.02
+[096] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Júlio Martins line=5 duel=0.93 corte=-1.27
+[096] FINAL Real Sporting Centro Gallego | Guiné fam=1 duel=0.22 on_target=0.920 goal=0.296
+[096] FINAL Guiné: no alvo sem gol (roll=0.604)
+[097] posse=Real Sporting Centro Gallego | placar Clube de Regatas Vasco da Gama 2 x 1 Real Sporting Centro Gallego
+[097] BUILD Real Sporting Centro Gallego vs Clube de Regatas Vasco da Gama prob=0.580 roll=0.660

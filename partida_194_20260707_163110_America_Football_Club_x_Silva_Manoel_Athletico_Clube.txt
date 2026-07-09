@@ -1,0 +1,282 @@
+Partida #194
+Data: 1912-01-18
+Mandante: America Football Club
+Visitante: Silva Manoel Athletico Clube
+Placar: 3 x 0
+Seed: -
+Estádio: Arena Andarahy
+Clima: Neblina
+Placar tempo normal: 3 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: America Football Club x Silva Manoel Athletico Clube | estádio=Arena Andarahy | clima=Neblina | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[001] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.352 roll=0.434
+[002] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[002] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.242 roll=0.458
+[003] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[003] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.242 roll=0.721
+[004] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[004] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.352 roll=0.440
+[005] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[005] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.242 roll=0.156
+[005] JOGADA Silva Manoel Athletico Clube | Estevão Nunes x Filipe de Oliveira line=4 duel=-6.51 corte=-1.30
+[006] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[006] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.242 roll=0.777
+[007] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[007] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.352 roll=0.348
+[007] JOGADA America Football Club | Paolo Gonçalves x Uaupés Cunha line=4 duel=-23.48 corte=-1.13
+[007] JOGADA falhou: Uaupés Cunha cortou
+[008] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[008] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.352 roll=0.974
+[009] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[009] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.242 roll=0.560
+[010] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[010] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.352 roll=0.502
+[011] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[011] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.380 roll=0.556
+[011] FINAL America Football Club | Thiago Freixó fam=5 duel=-25.98 on_target=0.508 goal=0.117
+[011] FINAL Thiago Freixó: fora/alvo perdido (roll=0.752)
+[012] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[012] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.261 roll=0.084
+[012] JOGADA Silva Manoel Athletico Clube | Pacal Esteves x Paolo Gonçalves line=4 duel=-17.30 corte=-1.30
+[012] JOGADA falhou: Paolo Gonçalves cortou
+[013] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[013] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.261 roll=0.201
+[013] JOGADA Silva Manoel Athletico Clube | Igarapava Baldin x Antônio Figueroa line=3 duel=-42.86 corte=-1.30
+[013] JOGADA falhou: Antônio Figueroa cortou
+[014] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[014] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.380 roll=0.217
+[014] JOGADA America Football Club | Luís Barcelar x Igarapava Baldin line=3 duel=-13.61 corte=-1.13
+[014] JOGADA falhou: Igarapava Baldin cortou
+[015] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[015] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.261 roll=0.520
+[016] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[016] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.261 roll=0.713
+[017] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[017] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.261 roll=0.731
+[018] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[018] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.380 roll=0.961
+[019] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[019] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.380 roll=0.046
+[019] JOGADA America Football Club | Thiago Aguiar x Estevão Nunes line=3 duel=30.32 corte=-1.13
+[019] FINAL America Football Club | Pedro Gago fam=1 duel=14.13 on_target=0.598 goal=0.225
+[019] FINAL Pedro Gago: no alvo sem gol (roll=0.702)
+[020] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[020] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.380 roll=0.621
+[021] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[021] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.409 roll=0.540
+[022] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[022] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.409 roll=0.353
+[022] JOGADA America Football Club | Eduardo Lagarto x Inocêncio Natividade line=3 duel=25.31 corte=-1.13
+[022] FINAL America Football Club | Valdomiro Machado fam=3 duel=4.40 on_target=0.569 goal=0.175
+[022] FINAL Valdomiro Machado: no alvo sem gol (roll=0.739)
+[023] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[023] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.281 roll=0.455
+[024] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[024] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.281 roll=0.967
+[025] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[025] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.281 roll=0.556
+[026] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[026] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.409 roll=0.702
+[027] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[027] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.409 roll=0.503
+[028] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[028] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.409 roll=0.414
+[029] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[029] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.409 roll=0.557
+[030] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[030] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.409 roll=0.982
+[031] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[031] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.281 roll=0.933
+[032] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[032] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.284 roll=0.741
+[033] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[033] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.284 roll=0.120
+[033] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Valdomiro Machado line=3 duel=25.96 corte=-1.30
+[033] JOGADA Silva Manoel Athletico Clube | Iguape Saviano x Antônio Figueroa line=4 duel=-15.32 corte=-1.30
+[034] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[034] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.409 roll=0.173
+[034] JOGADA America Football Club | Filipe de Oliveira x Igarapava Baldin line=3 duel=-4.97 corte=-1.13
+[034] JOGADA falhou: Igarapava Baldin cortou
+[035] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[035] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.284 roll=0.588
+[036] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[036] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.284 roll=0.841
+[037] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[037] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.409 roll=0.948
+[038] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[038] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.284 roll=0.028
+[038] JOGADA Silva Manoel Athletico Clube | Pacal Esteves x Geraldo França line=3 duel=-0.20 corte=-1.30
+[038] JOGADA Silva Manoel Athletico Clube | Igarapava Baldin x Thiago Freixó line=5 duel=17.49 corte=-1.55
+[038] FINAL Silva Manoel Athletico Clube | Estevão Nunes fam=5 duel=-8.04 on_target=0.542 goal=0.139
+[038] FINAL Estevão Nunes: fora/alvo perdido (roll=0.639)
+[039] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[039] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.284 roll=0.324
+[039] FINAL Silva Manoel Athletico Clube | Edimilson Graça fam=5 duel=-32.95 on_target=0.531 goal=0.125
+[039] FINAL Edimilson Graça: fora/alvo perdido (roll=0.917)
+[040] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[040] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.284 roll=0.218
+[040] JOGADA Silva Manoel Athletico Clube | Amado Mina x Thiago Freixó line=4 duel=-21.98 corte=-1.30
+[040] JOGADA falhou: Thiago Freixó cortou
+[041] posse=Silva Manoel Athletico Clube | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[041] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.284 roll=0.781
+[042] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[042] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.409 roll=0.786
+[043] posse=America Football Club | placar America Football Club 0 x 0 Silva Manoel Athletico Clube
+[043] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.409 roll=0.018
+[043] JOGADA America Football Club | Filipe de Oliveira x Iguape Saviano line=3 duel=19.43 corte=-1.13
+[043] FINAL America Football Club | Valdomiro Machado fam=1 duel=1.71 on_target=0.627 goal=0.226
+[043] FINAL Valdomiro Machado: GOL subtipo=CHUTE (roll=0.027)
+[044] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[044] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.409 roll=0.158
+[044] JOGADA America Football Club | Antônio Figueroa x Estevão Nunes line=2 duel=36.78 corte=-1.30
+[044] FINAL America Football Club | Thiago Aguiar fam=1 duel=4.82 on_target=0.632 goal=0.229
+[044] FINAL Thiago Aguiar: no alvo sem gol (roll=0.259)
+[045] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[045] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.409 roll=0.552
+[046] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[046] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.380 roll=0.592
+[047] posse=Silva Manoel Athletico Clube | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[047] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.296 roll=0.543
+[048] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[048] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.380 roll=0.125
+[048] JOGADA America Football Club | Antônio Figueroa x Amado Mina line=2 duel=-8.80 corte=-1.30
+[048] JOGADA falhou: Amado Mina cortou
+[049] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[049] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.380 roll=0.076
+[049] JOGADA America Football Club | Thiago Aguiar x Iguape Saviano line=3 duel=60.67 corte=-1.30
+[049] FINAL America Football Club | Geraldo França fam=1 duel=17.11 on_target=0.601 goal=0.227
+[049] FINAL Geraldo França: fora/alvo perdido (roll=0.648)
+[050] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[050] SUB America Football Club: saiu Thiago Aguiar (CA) | entrou Lázaro Almeida (CA) | subs=1/5
+[050] SUB Silva Manoel Athletico Clube: saiu Raphael Lima (CA) | entrou Iauaretê Capitão (PE) | subs=1/5
+[050] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.361 roll=0.950
+[051] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[051] SUB America Football Club: saiu Valdomiro Machado (CA) | entrou Hector Barbosa (CA) | subs=2/5
+[051] SUB Silva Manoel Athletico Clube: saiu Maragogi Perdigão (MC) | entrou Tarek Rios (VOL) | subs=2/5
+[051] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.342 roll=0.811
+[052] posse=Silva Manoel Athletico Clube | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[052] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.300 roll=0.821
+[053] posse=Silva Manoel Athletico Clube | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[053] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.300 roll=0.279
+[053] JOGADA Silva Manoel Athletico Clube | Pacal Esteves x Eduardo Lagarto line=4 duel=-6.89 corte=-1.30
+[053] JOGADA falhou: Eduardo Lagarto cortou
+[054] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[054] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.342 roll=0.117
+[054] JOGADA America Football Club | Hector Barbosa x Inocêncio Natividade line=4 duel=-6.52 corte=-1.30
+[054] JOGADA falhou: Inocêncio Natividade cortou
+[055] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[055] SUB Silva Manoel Athletico Clube: saiu Pacal Esteves (MD) | entrou Anatólio Filippi (PD) | subs=3/5
+[055] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.342 roll=0.897
+[056] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[056] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.368 roll=0.978
+[057] posse=Silva Manoel Athletico Clube | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[057] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.321 roll=0.866
+[058] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[058] SUB America Football Club: saiu Geraldo França (MA) | entrou Jessé Paiva (MC) | subs=3/5
+[058] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.907
+[059] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[059] SUB Silva Manoel Athletico Clube: saiu Igarapava Baldin (ZAG) | entrou Lemuel Sodré (ZAG) | subs=4/5
+[059] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.365 roll=0.503
+[060] posse=Silva Manoel Athletico Clube | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[060] SUB America Football Club: saiu Thiago Freixó (LD) | entrou Davi Ambrósio Rios (LE) | subs=4/5
+[060] SUB Silva Manoel Athletico Clube: saiu Inocêncio Natividade (LD) | entrou Aron Capiberibe (LD) | subs=5/5
+[060] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.329 roll=0.835
+[061] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[061] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.363 roll=0.398
+[062] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[062] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.363 roll=0.943
+[063] posse=Silva Manoel Athletico Clube | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[063] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.329 roll=0.650
+[064] posse=Silva Manoel Athletico Clube | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[064] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.329 roll=0.536
+[065] posse=Silva Manoel Athletico Clube | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[065] SUB America Football Club: saiu Paolo Gonçalves (ZAG) | entrou Alfredo Mendanha (ZAG) | subs=5/5
+[065] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.331 roll=0.888
+[066] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[066] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.363 roll=0.742
+[067] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[067] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.363 roll=0.700
+[068] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[068] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.363 roll=0.963
+[069] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[069] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.363 roll=0.752
+[070] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[070] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.359 roll=0.699
+[071] posse=Silva Manoel Athletico Clube | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[071] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.331 roll=0.217
+[071] JOGADA Silva Manoel Athletico Clube | Iguape Saviano x Pedro Gago line=2 duel=-16.82 corte=-1.30
+[072] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[072] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.359 roll=0.210
+[072] JOGADA America Football Club | Eduardo Lagarto x Estevão Nunes line=2 duel=108.84 corte=-1.30
+[072] FINAL America Football Club | Lázaro Almeida fam=3 duel=-4.43 on_target=0.558 goal=0.171
+[072] FINAL Lázaro Almeida: fora/alvo perdido (roll=0.822)
+[073] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[073] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.359 roll=0.307
+[073] JOGADA America Football Club | Lázaro Almeida x Estevão Nunes line=3 duel=40.86 corte=-1.30
+[073] FINAL America Football Club | Jessé Paiva fam=1 duel=21.66 on_target=0.617 goal=0.235
+[073] FINAL Jessé Paiva: fora/alvo perdido (roll=0.845)
+[074] posse=America Football Club | placar America Football Club 1 x 0 Silva Manoel Athletico Clube
+[074] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.359 roll=0.121
+[074] JOGADA America Football Club | Filipe de Oliveira x Edimilson Graça line=4 duel=3.29 corte=-1.30
+[074] FINAL America Football Club | Eduardo Lagarto fam=1 duel=25.06 on_target=0.625 goal=0.240
+[074] FINAL Eduardo Lagarto: GOL subtipo=CHUTE (roll=0.075)
+[075] posse=America Football Club | placar America Football Club 2 x 0 Silva Manoel Athletico Clube
+[075] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.355 roll=0.908
+[076] posse=America Football Club | placar America Football Club 2 x 0 Silva Manoel Athletico Clube
+[076] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.344 roll=0.530
+[077] posse=Silva Manoel Athletico Clube | placar America Football Club 2 x 0 Silva Manoel Athletico Clube
+[077] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.361 roll=0.616
+[078] posse=America Football Club | placar America Football Club 2 x 0 Silva Manoel Athletico Clube
+[078] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.344 roll=0.030
+[078] JOGADA America Football Club | Pedro Gago x Iguape Saviano line=3 duel=70.00 corte=-1.30
+[078] FINAL America Football Club | Lázaro Almeida fam=1 duel=24.73 on_target=0.592 goal=0.217
+[078] FINAL Lázaro Almeida: fora/alvo perdido (roll=0.765)
+[079] posse=Silva Manoel Athletico Clube | placar America Football Club 2 x 0 Silva Manoel Athletico Clube
+[079] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.361 roll=0.965
+[080] posse=Silva Manoel Athletico Clube | placar America Football Club 2 x 0 Silva Manoel Athletico Clube
+[080] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.361 roll=0.783
+[081] posse=America Football Club | placar America Football Club 2 x 0 Silva Manoel Athletico Clube
+[081] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.344 roll=0.333
+[081] JOGADA America Football Club | Eduardo Lagarto x Aron Capiberibe line=2 duel=-10.71 corte=-1.30
+[081] JOGADA falhou: Aron Capiberibe cortou
+[082] posse=Silva Manoel Athletico Clube | placar America Football Club 2 x 0 Silva Manoel Athletico Clube
+[082] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.361 roll=0.793
+[083] posse=Silva Manoel Athletico Clube | placar America Football Club 2 x 0 Silva Manoel Athletico Clube
+[083] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.361 roll=0.631
+[083] FINAL Silva Manoel Athletico Clube | Edimilson Graça fam=5 duel=-72.94 on_target=0.567 goal=0.113
+[083] FINAL Edimilson Graça: fora/alvo perdido (roll=0.634)
+[084] posse=America Football Club | placar America Football Club 2 x 0 Silva Manoel Athletico Clube
+[084] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.344 roll=0.219
+[084] JOGADA America Football Club | Pedro Gago x Amado Mina line=3 duel=1.97 corte=-1.30
+[084] FINAL America Football Club | Filipe de Oliveira fam=1 duel=5.40 on_target=0.589 goal=0.203
+[084] FINAL Filipe de Oliveira: GOL subtipo=CHUTE (roll=0.167)
+[085] posse=Silva Manoel Athletico Clube | placar America Football Club 3 x 0 Silva Manoel Athletico Clube
+[085] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.361 roll=0.875
+[086] posse=Silva Manoel Athletico Clube | placar America Football Club 3 x 0 Silva Manoel Athletico Clube
+[086] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.361 roll=0.402
+[087] posse=America Football Club | placar America Football Club 3 x 0 Silva Manoel Athletico Clube
+[087] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.336 roll=0.092
+[087] JOGADA America Football Club | Davi Ambrósio Rios x Anatólio Filippi line=3 duel=20.02 corte=-1.30
+[087] FINAL America Football Club | Hector Barbosa fam=1 duel=16.55 on_target=0.566 goal=0.194
+[087] FINAL Hector Barbosa: no alvo sem gol (roll=0.447)
+[088] posse=America Football Club | placar America Football Club 3 x 0 Silva Manoel Athletico Clube
+[088] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.336 roll=0.716
+[089] posse=America Football Club | placar America Football Club 3 x 0 Silva Manoel Athletico Clube
+[089] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.336 roll=0.909
+[090] posse=Silva Manoel Athletico Clube | placar America Football Club 3 x 0 Silva Manoel Athletico Clube
+[090] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.361 roll=0.354
+[090] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Pedro Gago line=2 duel=54.04 corte=-1.30
+[090] JOGADA Silva Manoel Athletico Clube | Lemuel Sodré x Alfredo Mendanha line=5 duel=8.17 corte=-1.55
+[090] FINAL Silva Manoel Athletico Clube | Anatólio Filippi fam=5 duel=-7.32 on_target=0.581 goal=0.144
+[090] FINAL Anatólio Filippi: fora/alvo perdido (roll=0.792)
+[091] posse=Silva Manoel Athletico Clube | placar America Football Club 3 x 0 Silva Manoel Athletico Clube
+[091] BUILD Silva Manoel Athletico Clube vs America Football Club prob=0.361 roll=0.971
+[092] posse=America Football Club | placar America Football Club 3 x 0 Silva Manoel Athletico Clube
+[092] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.336 roll=0.760
+[093] posse=America Football Club | placar America Football Club 3 x 0 Silva Manoel Athletico Clube
+[093] BUILD America Football Club vs Silva Manoel Athletico Clube prob=0.336 roll=0.732

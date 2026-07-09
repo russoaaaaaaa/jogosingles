@@ -1,0 +1,334 @@
+Partida #167
+Data: 1912-01-16
+Mandante: Clube Fluminense de Futebol Odisséia
+Visitante: Rio Cricket Associação Atlética
+Placar: 4 x 2
+Seed: -
+Estádio: Estádio Olímpico de Nictheroy
+Clima: Chuva forte
+Placar tempo normal: 4 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube Fluminense de Futebol Odisséia x Rio Cricket Associação Atlética | estádio=Estádio Olímpico de Nictheroy | clima=Chuva forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Rio Cricket Associação Atlética
+[001] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.430 roll=0.524
+[002] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 0 x 0 Rio Cricket Associação Atlética
+[002] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.311 roll=0.256
+[002] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Marcel Ganem line=3 duel=-29.87 corte=-1.30
+[002] JOGADA falhou: Marcel Ganem cortou
+[003] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Rio Cricket Associação Atlética
+[003] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.430 roll=0.439
+[004] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 0 x 0 Rio Cricket Associação Atlética
+[004] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.311 roll=0.926
+[005] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Rio Cricket Associação Atlética
+[005] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.430 roll=0.577
+[006] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Rio Cricket Associação Atlética
+[006] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.430 roll=0.976
+[007] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 0 x 0 Rio Cricket Associação Atlética
+[007] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.311 roll=0.998
+[008] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 0 x 0 Rio Cricket Associação Atlética
+[008] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.311 roll=0.954
+[009] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 0 x 0 Rio Cricket Associação Atlética
+[009] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.311 roll=0.072
+[009] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Eduardo Batista line=3 duel=-30.46 corte=-1.30
+[009] JOGADA falhou: Eduardo Batista cortou
+[010] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Rio Cricket Associação Atlética
+[010] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.430 roll=0.259
+[010] JOGADA Clube Fluminense de Futebol Odisséia | Eustáquio Miranda x Murilo Oliveira line=3 duel=31.38 corte=-1.13
+[010] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=3 duel=12.52 on_target=0.554 goal=0.178
+[010] FINAL Teobaldo Mascarenhas: GOL subtipo=CHUTE (roll=0.029)
+[011] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[011] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.465 roll=0.538
+[012] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[012] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.465 roll=0.214
+[012] JOGADA Clube Fluminense de Futebol Odisséia | Adhemar Meira x Enrico Pucci line=4 duel=32.91 corte=-1.30
+[012] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=15.72 on_target=0.658 goal=0.246
+[012] FINAL Hildebrando Guardado: fora/alvo perdido (roll=0.941)
+[013] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[013] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.465 roll=0.180
+[013] JOGADA Clube Fluminense de Futebol Odisséia | Eustáquio Miranda x William Stanischowsky line=3 duel=65.09 corte=-1.30
+[013] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=3 duel=15.95 on_target=0.597 goal=0.191
+[013] FINAL Hildebrando Guardado: no alvo sem gol (roll=0.546)
+[014] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[014] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.465 roll=0.029
+[014] JOGADA Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas x Tobias Humphrey line=4 duel=16.57 corte=-1.30
+[014] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=14.47 on_target=0.658 goal=0.245
+[014] FINAL Hildebrando Guardado: fora/alvo perdido (roll=0.891)
+[015] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[015] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.465 roll=0.861
+[016] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[016] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.414 roll=0.477
+[017] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[017] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.414 roll=0.180
+[017] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Armando de Almeida line=3 duel=49.86 corte=-1.30
+[017] JOGADA Rio Cricket Associação Atlética | William Stanischowsky x Armando de Almeida line=4 duel=-17.45 corte=-1.30
+[017] JOGADA falhou: Armando de Almeida cortou
+[018] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[018] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.414 roll=0.392
+[018] JOGADA Rio Cricket Associação Atlética | Enrico Pucci x Armando de Almeida line=4 duel=-8.96 corte=-1.30
+[018] JOGADA falhou: Armando de Almeida cortou
+[019] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[019] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.465 roll=0.885
+[020] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[020] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.465 roll=0.010
+[020] JOGADA Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas x Murilo Oliveira line=5 duel=104.32 corte=-2.05
+[020] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=1 duel=14.77 on_target=0.659 goal=0.246
+[020] FINAL Eustáquio Miranda: no alvo sem gol (roll=0.435)
+[021] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[021] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.500 roll=0.783
+[022] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[022] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.446 roll=0.141
+[022] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Bremer Klotzbücher Nunes line=4 duel=-49.48 corte=-1.30
+[022] JOGADA falhou: Bremer Klotzbücher Nunes cortou
+[023] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[023] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.446 roll=0.643
+[024] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[024] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.500 roll=0.227
+[024] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Wilson Perry line=5 duel=33.36 corte=-1.55
+[024] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=7.03 on_target=0.692 goal=0.249
+[024] FINAL Hildebrando Guardado: fora/alvo perdido (roll=0.795)
+[025] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[025] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.446 roll=0.408
+[025] JOGADA Rio Cricket Associação Atlética | Luke Kennard x Marcel Ganem line=3 duel=-30.59 corte=-1.30
+[026] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[026] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.500 roll=0.905
+[027] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[027] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.446 roll=0.562
+[028] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[028] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.500 roll=0.012
+[028] JOGADA Clube Fluminense de Futebol Odisséia | Adhemar Meira x Oliver Barkley line=4 duel=11.23 corte=-1.30
+[028] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=1 duel=18.56 on_target=0.694 goal=0.255
+[028] FINAL Eustáquio Miranda: no alvo sem gol (roll=0.437)
+[029] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[029] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.446 roll=0.725
+[030] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[030] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.446 roll=0.387
+[030] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Marcel Ganem line=2 duel=29.26 corte=-1.30
+[030] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Eustáquio Miranda line=4 duel=-16.71 corte=-1.30
+[031] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[031] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.445 roll=0.677
+[032] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[032] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.445 roll=0.343
+[032] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Tomás Soares Ziza line=4 duel=-11.12 corte=-1.30
+[033] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[033] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.501 roll=0.160
+[033] JOGADA Clube Fluminense de Futebol Odisséia | Hildebrando Guardado x Enrico Pucci line=3 duel=40.45 corte=-1.30
+[033] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=17.37 on_target=0.694 goal=0.255
+[033] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.608)
+[034] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 0 Rio Cricket Associação Atlética
+[034] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.445 roll=0.049
+[034] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Hildebrando Guardado line=3 duel=31.76 corte=-1.30
+[034] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Hildebrando Guardado line=4 duel=33.37 corte=-1.30
+[034] FINAL Rio Cricket Associação Atlética | Luke Kennard fam=5 duel=-25.78 on_target=0.588 goal=0.141
+[034] FINAL Luke Kennard: GOL subtipo=FALTA (roll=0.051)
+[035] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 1 Rio Cricket Associação Atlética
+[035] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.364 roll=0.177
+[035] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Eduardo Batista line=4 duel=-47.99 corte=-1.30
+[035] JOGADA falhou: Eduardo Batista cortou
+[036] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 1 Rio Cricket Associação Atlética
+[036] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.501 roll=0.090
+[036] JOGADA Clube Fluminense de Futebol Odisséia | Armando de Almeida x Wilson Perry line=4 duel=22.47 corte=-1.12
+[036] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=18.13 on_target=0.694 goal=0.255
+[036] FINAL Teobaldo Mascarenhas: fora/alvo perdido (roll=0.785)
+[037] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 1 Rio Cricket Associação Atlética
+[037] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.364 roll=0.230
+[037] JOGADA Rio Cricket Associação Atlética | Zagueiro Atacante da Silva x Eduardo Batista line=4 duel=-57.22 corte=-1.30
+[037] JOGADA falhou: Eduardo Batista cortou
+[038] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 1 x 1 Rio Cricket Associação Atlética
+[038] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.364 roll=0.045
+[038] JOGADA Rio Cricket Associação Atlética | William Stanischowsky x Eduardo Batista line=3 duel=-35.73 corte=-1.30
+[038] JOGADA falhou: Eduardo Batista cortou
+[039] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 1 Rio Cricket Associação Atlética
+[039] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.501 roll=0.535
+[040] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 1 Rio Cricket Associação Atlética
+[040] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.501 roll=0.103
+[040] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x André Gomes Sobrinho line=4 duel=34.89 corte=-1.12
+[040] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=19.21 on_target=0.694 goal=0.256
+[040] FINAL Teobaldo Mascarenhas: fora/alvo perdido (roll=0.846)
+[041] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 1 Rio Cricket Associação Atlética
+[041] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.501 roll=0.452
+[041] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Wilson Perry line=5 duel=12.24 corte=-1.37
+[041] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=17.64 on_target=0.694 goal=0.255
+[041] FINAL Teobaldo Mascarenhas: GOL subtipo=CHUTE (roll=0.130)
+[042] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 2 x 1 Rio Cricket Associação Atlética
+[042] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.445 roll=0.335
+[042] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Wilton Bigode line=3 duel=-24.27 corte=-1.30
+[042] JOGADA falhou: Wilton Bigode cortou
+[043] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 2 x 1 Rio Cricket Associação Atlética
+[043] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.445 roll=0.435
+[043] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Armando de Almeida line=3 duel=28.26 corte=-1.30
+[043] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Adhemar Meira line=4 duel=-15.07 corte=-1.30
+[043] JOGADA falhou: Adhemar Meira cortou
+[044] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 2 x 1 Rio Cricket Associação Atlética
+[044] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.445 roll=0.063
+[044] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Bremer Klotzbücher Nunes line=3 duel=-9.16 corte=-1.30
+[045] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Rio Cricket Associação Atlética
+[045] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.501 roll=0.482
+[045] JOGADA Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza x Wilson Perry line=5 duel=100.94 corte=-2.05
+[045] FINAL Clube Fluminense de Futebol Odisséia | Marcel Ganem fam=3 duel=-16.55 on_target=0.626 goal=0.181
+[045] FINAL Marcel Ganem: no alvo sem gol (roll=0.855)
+[046] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 2 x 1 Rio Cricket Associação Atlética
+[046] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.414 roll=0.928
+[047] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Rio Cricket Associação Atlética
+[047] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.466 roll=0.776
+[048] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 2 x 1 Rio Cricket Associação Atlética
+[048] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.414 roll=0.888
+[049] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Rio Cricket Associação Atlética
+[049] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.466 roll=0.909
+[050] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 2 x 1 Rio Cricket Associação Atlética
+[050] SUB Clube Fluminense de Futebol Odisséia: saiu Hildebrando Guardado (CA) | entrou Walfrid Hoff (CA) | subs=1/5
+[050] SUB Rio Cricket Associação Atlética: saiu William Stanischowsky (MD) | entrou Cruz Credo (PD) | subs=1/5
+[050] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.417 roll=0.440
+[051] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Rio Cricket Associação Atlética
+[051] SUB Rio Cricket Associação Atlética: saiu Luke Kennard (SA) | entrou Wilson Ford (CA) | subs=2/5
+[051] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.457 roll=0.754
+[052] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Rio Cricket Associação Atlética
+[052] SUB Rio Cricket Associação Atlética: saiu Enrico Pucci (CA) | entrou João Garcia (CA) | subs=3/5
+[052] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.458 roll=0.007
+[052] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Oliver Barkley line=3 duel=2.81 corte=-1.30
+[052] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=20.48 on_target=0.660 goal=0.248
+[052] FINAL Teobaldo Mascarenhas: GOL subtipo=CHUTE (roll=0.034)
+[053] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Rio Cricket Associação Atlética
+[053] SUB Rio Cricket Associação Atlética: saiu Umberto Entei (ME) | entrou William Smith (MC) | subs=4/5
+[053] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.450 roll=0.117
+[053] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Oliver Barkley line=4 duel=90.75 corte=-1.30
+[053] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=18.75 on_target=0.635 goal=0.231
+[053] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.398)
+[054] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Rio Cricket Associação Atlética
+[054] SUB Rio Cricket Associação Atlética: saiu Zagueiro Atacante da Silva (ZAG) | entrou Arnold Brewerton (ZAG) | subs=5/5
+[054] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.453 roll=0.785
+[055] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 3 x 1 Rio Cricket Associação Atlética
+[055] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.373 roll=0.059
+[055] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Marcel Ganem line=4 duel=-39.34 corte=-1.30
+[055] JOGADA falhou: Marcel Ganem cortou
+[056] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Rio Cricket Associação Atlética
+[056] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.487 roll=0.636
+[057] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Rio Cricket Associação Atlética
+[057] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.487 roll=0.070
+[057] JOGADA Clube Fluminense de Futebol Odisséia | Walfrid Hoff x André Gomes Sobrinho line=4 duel=44.81 corte=-1.30
+[057] FINAL Clube Fluminense de Futebol Odisséia | Armando de Almeida fam=1 duel=12.08 on_target=0.666 goal=0.235
+[057] FINAL Armando de Almeida: fora/alvo perdido (roll=0.915)
+[058] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Rio Cricket Associação Atlética
+[058] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.487 roll=0.634
+[059] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Rio Cricket Associação Atlética
+[059] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.487 roll=0.545
+[060] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 1 Rio Cricket Associação Atlética
+[060] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.487 roll=0.067
+[060] JOGADA Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas x João Garcia line=3 duel=87.19 corte=-1.30
+[060] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=33.77 on_target=0.660 goal=0.241
+[060] FINAL Walfrid Hoff: GOL subtipo=CHUTE (roll=0.234)
+[061] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 1 Rio Cricket Associação Atlética
+[061] SUB Clube Fluminense de Futebol Odisséia: saiu Armando de Almeida (MC) | entrou Dmitri Frank (MC) | subs=2/5
+[061] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.408 roll=0.952
+[062] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 1 Rio Cricket Associação Atlética
+[062] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.477 roll=0.054
+[062] JOGADA Clube Fluminense de Futebol Odisséia | Adhemar Meira x Oliver Barkley line=5 duel=17.39 corte=-1.55
+[062] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=24.01 on_target=0.643 goal=0.227
+[062] FINAL Tomás Soares Ziza: no alvo sem gol (roll=0.883)
+[063] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 1 Rio Cricket Associação Atlética
+[063] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.408 roll=0.580
+[064] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 1 Rio Cricket Associação Atlética
+[064] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.408 roll=0.951
+[065] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 1 Rio Cricket Associação Atlética
+[065] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.408 roll=0.049
+[065] JOGADA Rio Cricket Associação Atlética | Cruz Credo x Teobaldo Mascarenhas line=3 duel=3.37 corte=-1.30
+[065] FINAL Rio Cricket Associação Atlética | Wilson Ford fam=5 duel=13.59 on_target=0.595 goal=0.162
+[065] FINAL Wilson Ford: GOL subtipo=FALTA (roll=0.012)
+[066] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[066] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.405 roll=0.044
+[066] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Walfrid Hoff line=3 duel=8.89 corte=-1.30
+[066] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Teobaldo Mascarenhas line=4 duel=-30.02 corte=-1.30
+[066] JOGADA falhou: Teobaldo Mascarenhas cortou
+[067] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[067] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.405 roll=0.013
+[067] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Walfrid Hoff line=3 duel=32.24 corte=-1.30
+[067] JOGADA Rio Cricket Associação Atlética | Arnold Brewerton x Marcel Ganem line=4 duel=-24.29 corte=-1.30
+[068] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[068] SUB Clube Fluminense de Futebol Odisséia: saiu Teobaldo Mascarenhas (SA) | entrou Renato Lugon (SA) | subs=3/5
+[068] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.404 roll=0.242
+[068] JOGADA Rio Cricket Associação Atlética | João Garcia x Bremer Klotzbücher Nunes line=3 duel=-4.60 corte=-1.30
+[069] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[069] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.404 roll=0.921
+[070] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[070] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.404 roll=0.604
+[071] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[071] SUB Clube Fluminense de Futebol Odisséia: saiu Bremer Klotzbücher Nunes (ZAG) | entrou Áquiles Nascimento (ZAG) | subs=4/5
+[071] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.477 roll=0.574
+[072] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[072] SUB Clube Fluminense de Futebol Odisséia: saiu Tomás Soares Ziza (MA) | entrou Charles Durant (MA) | subs=5/5
+[072] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.466 roll=0.658
+[073] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[073] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.466 roll=0.907
+[074] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[074] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.414 roll=0.610
+[075] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[075] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.414 roll=0.653
+[076] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[076] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.452 roll=0.845
+[077] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[077] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.452 roll=0.596
+[078] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[078] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.447 roll=0.359
+[078] JOGADA Rio Cricket Associação Atlética | Wilson Ford x Wilton Bigode line=2 duel=39.48 corte=-1.30
+[078] JOGADA Rio Cricket Associação Atlética | Wilson Ford x Walfrid Hoff line=5 duel=11.39 corte=-2.05
+[078] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Áquiles Nascimento line=5 duel=13.46 corte=-1.55
+[078] FINAL Rio Cricket Associação Atlética | André Gomes Sobrinho fam=1 duel=-8.95 on_target=0.740 goal=0.255
+[078] FINAL André Gomes Sobrinho: no alvo sem gol (roll=0.922)
+[079] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[079] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.447 roll=0.519
+[080] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[080] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.452 roll=0.395
+[080] JOGADA Clube Fluminense de Futebol Odisséia | Walfrid Hoff x Wilson Perry line=5 duel=21.46 corte=-2.05
+[080] FINAL Clube Fluminense de Futebol Odisséia | Renato Lugon fam=1 duel=33.28 on_target=0.643 goal=0.236
+[080] FINAL Renato Lugon: fora/alvo perdido (roll=0.738)
+[081] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[081] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.452 roll=0.968
+[082] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[082] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.447 roll=0.008
+[082] JOGADA Rio Cricket Associação Atlética | Cruz Credo x Adhemar Meira line=4 duel=-5.14 corte=-1.30
+[082] JOGADA falhou: Adhemar Meira cortou
+[083] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[083] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.452 roll=0.410
+[083] JOGADA Clube Fluminense de Futebol Odisséia | Walfrid Hoff x Wilson Perry line=4 duel=17.98 corte=-1.30
+[083] FINAL Clube Fluminense de Futebol Odisséia | Charles Durant fam=1 duel=28.36 on_target=0.644 goal=0.233
+[083] FINAL Charles Durant: fora/alvo perdido (roll=0.725)
+[084] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[084] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.447 roll=0.827
+[085] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[085] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.452 roll=0.653
+[086] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[086] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.471 roll=0.175
+[086] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Dmitri Frank line=4 duel=-15.24 corte=-1.30
+[087] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[087] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.471 roll=0.800
+[088] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[088] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.471 roll=0.059
+[088] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Renato Lugon line=4 duel=-26.43 corte=-1.30
+[088] FINAL Rio Cricket Associação Atlética | Murilo Oliveira fam=5 duel=-13.01 on_target=0.672 goal=0.154
+[088] FINAL Murilo Oliveira: fora/alvo perdido (roll=0.904)
+[089] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[089] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.471 roll=0.760
+[090] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[090] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.452 roll=0.484
+[091] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[091] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.471 roll=0.794
+[092] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[092] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.471 roll=0.153
+[092] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Charles Durant line=3 duel=-19.44 corte=-1.30
+[092] JOGADA falhou: Charles Durant cortou
+[093] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[093] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.471 roll=0.272
+[093] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Áquiles Nascimento line=4 duel=-35.62 corte=-1.30
+[094] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[094] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.471 roll=0.290
+[094] JOGADA Rio Cricket Associação Atlética | Arnold Brewerton x Dmitri Frank line=4 duel=-25.82 corte=-1.30
+[095] posse=Rio Cricket Associação Atlética | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[095] BUILD Rio Cricket Associação Atlética vs Clube Fluminense de Futebol Odisséia prob=0.470 roll=0.447
+[095] JOGADA Rio Cricket Associação Atlética | Wilson Ford x Walfrid Hoff line=3 duel=8.87 corte=-1.30
+[095] FINAL Rio Cricket Associação Atlética | Cruz Credo fam=5 duel=-60.11 on_target=0.669 goal=0.133
+[095] FINAL Cruz Credo: no alvo sem gol (roll=0.909)
+[096] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 4 x 2 Rio Cricket Associação Atlética
+[096] BUILD Clube Fluminense de Futebol Odisséia vs Rio Cricket Associação Atlética prob=0.453 roll=0.700

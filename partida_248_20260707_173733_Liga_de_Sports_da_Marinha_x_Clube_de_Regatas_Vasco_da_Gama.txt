@@ -1,0 +1,310 @@
+Partida #248
+Data: 1912-01-27
+Mandante: Liga de Sports da Marinha
+Visitante: Clube de Regatas Vasco da Gama
+Placar: 0 x 1
+Seed: -
+Estádio: Marquês de Tamandaré
+Clima: Chuva leve
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: Clube de Regatas Vasco da Gama
+
+=== LOG VERBOSE ===
+Início: Liga de Sports da Marinha x Clube de Regatas Vasco da Gama | estádio=Marquês de Tamandaré | clima=Chuva leve | seed=- | perfil=normal | pressão=Oitavas · peso 9/10
+[001] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[001] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.327 roll=0.153
+[001] JOGADA Liga de Sports da Marinha | Arsénio Barros x Suspiro Menezes line=5 duel=73.80 corte=-1.95
+[001] JOGADA Liga de Sports da Marinha | Bianor Caldeira x Adriano Pacheco line=5 duel=69.33 corte=-1.95
+[001] FINAL Liga de Sports da Marinha | Genival Rosa fam=5 duel=3.04 on_target=0.518 goal=0.139
+[001] FINAL Genival Rosa: no alvo sem gol (roll=0.538)
+[002] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[002] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.327 roll=0.633
+[003] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[003] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.327 roll=0.480
+[004] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[004] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.327 roll=0.722
+[005] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[005] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.327 roll=0.121
+[005] JOGADA Liga de Sports da Marinha | Roraima De Marchi x Suspiro Menezes line=3 duel=-24.05 corte=-1.70
+[005] JOGADA falhou: Suspiro Menezes cortou
+[006] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[006] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.327 roll=0.016
+[006] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Eduardo Freitas line=4 duel=-48.83 corte=-1.70
+[006] JOGADA falhou: Eduardo Freitas cortou
+[007] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[007] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.327 roll=0.770
+[008] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[008] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.359 roll=0.454
+[009] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[009] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.359 roll=0.328
+[009] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Bianor Caldeira line=5 duel=135.30 corte=-1.37
+[009] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=1 duel=10.24 on_target=0.604 goal=0.229
+[009] FINAL Fusiano Colón: no alvo sem gol (roll=0.577)
+[010] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[010] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.327 roll=0.133
+[010] JOGADA Liga de Sports da Marinha | Geraldo Montanari x Pedro Silva line=3 duel=-0.41 corte=-1.70
+[010] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Suspiro Menezes line=5 duel=-24.63 corte=-1.95
+[010] JOGADA falhou: Suspiro Menezes cortou
+[011] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[011] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.353 roll=0.929
+[012] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[012] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.388 roll=0.404
+[013] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[013] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.353 roll=0.075
+[013] JOGADA Liga de Sports da Marinha | Thales Bacelar x Nininho line=4 duel=-13.18 corte=-1.70
+[013] JOGADA falhou: Nininho cortou
+[014] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[014] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.388 roll=0.308
+[014] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Thales Bacelar line=4 duel=11.28 corte=-1.12
+[014] FINAL Clube de Regatas Vasco da Gama | Eduardo Freitas fam=1 duel=5.96 on_target=0.655 goal=0.243
+[014] FINAL Eduardo Freitas: no alvo sem gol (roll=0.705)
+[015] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[015] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.388 roll=0.553
+[016] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[016] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.388 roll=0.472
+[017] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[017] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.353 roll=0.053
+[017] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Enaldo Marcelo line=5 duel=22.58 corte=-1.95
+[017] JOGADA Liga de Sports da Marinha | Geraldo Montanari x Enaldo Marcelo line=5 duel=46.06 corte=-2.45
+[017] JOGADA Liga de Sports da Marinha | Arsénio Barros x Enaldo Marcelo line=5 duel=113.16 corte=-1.95
+[017] FINAL Liga de Sports da Marinha | Genival Rosa fam=5 duel=1.89 on_target=0.560 goal=0.148
+[017] FINAL Genival Rosa: no alvo sem gol (roll=0.978)
+[018] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[018] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.353 roll=0.272
+[018] JOGADA Liga de Sports da Marinha | Bianor Caldeira x Victoriano Bandeira line=5 duel=39.70 corte=-1.95
+[018] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Pedro Silva line=5 duel=27.96 corte=-1.95
+[018] JOGADA Liga de Sports da Marinha | Genival Rosa x Fusiano Colón line=5 duel=30.82 corte=-2.45
+[018] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=1 duel=4.27 on_target=0.651 goal=0.239
+[018] FINAL Geraldo Montanari: no alvo sem gol (roll=0.500)
+[019] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[019] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.388 roll=0.761
+[020] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[020] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.353 roll=0.788
+[021] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[021] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.380 roll=0.395
+[022] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[022] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.417 roll=0.706
+[023] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[023] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.417 roll=0.678
+[024] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[024] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.380 roll=0.371
+[024] JOGADA Liga de Sports da Marinha | Roraima De Marchi x Victoriano Bandeira line=3 duel=28.50 corte=-1.70
+[024] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=5 duel=7.36 on_target=0.595 goal=0.157
+[024] FINAL Geraldo Montanari: no alvo sem gol (roll=0.972)
+[025] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[025] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.417 roll=0.657
+[026] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[026] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.380 roll=0.131
+[026] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Pedro Guaraná line=5 duel=43.81 corte=-1.95
+[026] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=5 duel=3.30 on_target=0.595 goal=0.155
+[026] FINAL Geraldo Montanari: no alvo sem gol (roll=0.992)
+[027] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[027] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.380 roll=0.966
+[028] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[028] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.417 roll=0.473
+[029] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[029] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.417 roll=0.680
+[030] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[030] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.380 roll=0.122
+[030] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Enaldo Marcelo line=5 duel=69.21 corte=-1.95
+[030] JOGADA Liga de Sports da Marinha | Thales Bacelar x Suspiro Menezes line=5 duel=50.70 corte=-1.95
+[030] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=5 duel=3.84 on_target=0.595 goal=0.156
+[030] FINAL Geraldo Montanari: fora/alvo perdido (roll=0.864)
+[031] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[031] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.417 roll=0.323
+[031] JOGADA Clube de Regatas Vasco da Gama | Eduardo Freitas x Isidro Vilaça line=5 duel=-15.95 corte=-1.87
+[031] JOGADA falhou: Isidro Vilaça cortou
+[032] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[032] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.417 roll=0.490
+[033] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[033] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.383 roll=0.343
+[033] JOGADA Liga de Sports da Marinha | Genival Rosa x Adriano Pacheco line=5 duel=47.21 corte=-2.45
+[033] JOGADA Liga de Sports da Marinha | Arsénio Barros x Eduardo Freitas line=5 duel=45.05 corte=-1.95
+[033] JOGADA Liga de Sports da Marinha | Eriberto Monte x Adriano Pacheco line=5 duel=24.59 corte=-1.95
+[033] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=1 duel=1.55 on_target=0.685 goal=0.245
+[033] FINAL Geraldo Montanari: no alvo sem gol (roll=0.263)
+[034] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[034] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.417 roll=0.971
+[035] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[035] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.417 roll=0.195
+[035] JOGADA Clube de Regatas Vasco da Gama | Eduardo Freitas x Bianor Caldeira line=4 duel=69.25 corte=-1.12
+[035] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=1 duel=-0.41 on_target=0.685 goal=0.246
+[035] FINAL Fusiano Colón: fora/alvo perdido (roll=0.703)
+[036] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[036] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.417 roll=0.162
+[036] JOGADA Clube de Regatas Vasco da Gama | Enaldo Marcelo x Eriberto Monte line=4 duel=-20.73 corte=-1.12
+[037] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[037] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.383 roll=0.682
+[038] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[038] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.417 roll=0.491
+[039] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[039] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.417 roll=0.280
+[039] JOGADA Clube de Regatas Vasco da Gama | Pedro Guaraná x Roraima De Marchi line=4 duel=110.26 corte=-1.12
+[039] FINAL Clube de Regatas Vasco da Gama | Pedro Guaraná fam=3 duel=1.90 on_target=0.623 goal=0.191
+[039] FINAL Pedro Guaraná: no alvo sem gol (roll=0.864)
+[040] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[040] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.383 roll=0.257
+[040] JOGADA Liga de Sports da Marinha | Arsénio Barros x Pedro Silva line=4 duel=-85.54 corte=-1.70
+[040] JOGADA falhou: Pedro Silva cortou
+[041] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[041] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.383 roll=0.438
+[042] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[042] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.383 roll=0.701
+[043] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[043] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.417 roll=0.624
+[044] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[044] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.383 roll=0.491
+[045] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[045] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.383 roll=0.186
+[045] JOGADA Liga de Sports da Marinha | Arsénio Barros x Suspiro Menezes line=4 duel=-13.32 corte=-1.70
+[046] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[046] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.356 roll=0.514
+[047] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[047] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.356 roll=0.833
+[048] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[048] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.356 roll=0.510
+[049] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[049] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.388 roll=0.429
+[050] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[050] SUB Liga de Sports da Marinha: saiu Roraima De Marchi (MC) | entrou Agatão Martins (VOL) | subs=1/5
+[050] SUB Clube de Regatas Vasco da Gama: saiu Eduardo Freitas (SA) | entrou Hugo Júnior Cruz (CA) | subs=1/5
+[050] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.384 roll=0.028
+[050] JOGADA Clube de Regatas Vasco da Gama | Pedro Guaraná x Isidro Vilaça line=4 duel=6.93 corte=-1.12
+[050] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=3 duel=23.18 on_target=0.591 goal=0.194
+[050] FINAL Hugo Júnior Cruz: no alvo sem gol (roll=0.543)
+[051] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[051] SUB Clube de Regatas Vasco da Gama: saiu Victoriano Bandeira (SA) | entrou Fausto Garcia (SA) | subs=2/5
+[051] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.314 roll=0.071
+[051] JOGADA Liga de Sports da Marinha | Josefino Conceição x Enaldo Marcelo line=3 duel=69.99 corte=-1.12
+[051] JOGADA Liga de Sports da Marinha | Genival Rosa x Júlio Martins line=4 duel=-11.70 corte=-1.12
+[052] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 0 Clube de Regatas Vasco da Gama
+[052] SUB Clube de Regatas Vasco da Gama: saiu Fusiano Colón (CA) | entrou Ronaldo Mendonça (CA) | subs=3/5
+[052] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.405 roll=0.076
+[052] JOGADA Clube de Regatas Vasco da Gama | Pedro Guaraná x Thales Bacelar line=4 duel=98.79 corte=-1.30
+[052] FINAL Clube de Regatas Vasco da Gama | Ronaldo Mendonça fam=5 duel=14.83 on_target=0.564 goal=0.161
+[052] FINAL Ronaldo Mendonça: GOL subtipo=FALTA (roll=0.159)
+[053] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[053] SUB Clube de Regatas Vasco da Gama: saiu Enaldo Marcelo (CA) | entrou Álvaro Teixeira (CA) | subs=4/5
+[053] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.359 roll=0.269
+[053] JOGADA Liga de Sports da Marinha | Josefino Conceição x Álvaro Teixeira line=4 duel=-23.39 corte=-1.10
+[053] JOGADA falhou: Álvaro Teixeira cortou
+[054] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[054] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.359 roll=0.852
+[055] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[055] SUB Liga de Sports da Marinha: saiu Genival Rosa (SA) | entrou Curuaia Fasano (PE) | subs=2/5
+[055] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.355 roll=0.822
+[056] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[056] SUB Liga de Sports da Marinha: saiu Bianor Caldeira (MD) | entrou Sócrates Inácio (MD) | subs=3/5
+[056] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.377 roll=0.537
+[057] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[057] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.465 roll=0.671
+[058] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[058] SUB Liga de Sports da Marinha: saiu Thales Bacelar (ME) | entrou Waldir Pamplona (ME) | subs=4/5
+[058] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.432 roll=0.238
+[058] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Geraldo Montanari line=5 duel=33.01 corte=-1.55
+[058] FINAL Clube de Regatas Vasco da Gama | Ronaldo Mendonça fam=5 duel=16.46 on_target=0.593 goal=0.166
+[058] FINAL Ronaldo Mendonça: fora/alvo perdido (roll=0.677)
+[059] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[059] SUB Liga de Sports da Marinha: saiu Caim Avelar (MC) | entrou Austrelino Dantas (VOL) | subs=5/5
+[059] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.366 roll=0.730
+[060] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[060] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.366 roll=0.767
+[061] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[061] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.366 roll=0.588
+[062] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[062] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.366 roll=0.029
+[062] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Suspiro Menezes line=4 duel=-20.74 corte=-1.11
+[063] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[063] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.442 roll=0.806
+[064] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[064] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.442 roll=0.963
+[065] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[065] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.442 roll=0.353
+[065] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Austrelino Dantas line=5 duel=-14.62 corte=-1.55
+[065] JOGADA falhou: Austrelino Dantas cortou
+[066] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[066] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.442 roll=0.916
+[067] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[067] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.442 roll=0.909
+[068] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[068] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.446 roll=0.047
+[068] JOGADA Clube de Regatas Vasco da Gama | Pedro Guaraná x Geraldo Montanari line=5 duel=29.68 corte=-2.05
+[068] FINAL Clube de Regatas Vasco da Gama | Pedro Guaraná fam=5 duel=-38.45 on_target=0.595 goal=0.144
+[068] FINAL Pedro Guaraná: no alvo sem gol (roll=0.822)
+[069] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[069] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.446 roll=0.144
+[069] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Sócrates Inácio line=4 duel=25.36 corte=-1.30
+[069] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=5 duel=15.44 on_target=0.596 goal=0.168
+[069] FINAL Hugo Júnior Cruz: no alvo sem gol (roll=0.308)
+[070] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[070] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.366 roll=0.983
+[071] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[071] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.366 roll=0.970
+[072] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[072] SUB Clube de Regatas Vasco da Gama: saiu Pedro Guaraná (MA) | entrou Rodrigo Justino (ME) | subs=5/5
+[072] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.437 roll=0.539
+[073] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[073] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.367 roll=0.732
+[074] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[074] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.437 roll=0.330
+[074] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Austrelino Dantas line=4 duel=4.94 corte=-1.30
+[074] FINAL Clube de Regatas Vasco da Gama | Pedro Silva fam=5 duel=-32.88 on_target=0.584 goal=0.147
+[074] FINAL Pedro Silva: fora/alvo perdido (roll=0.725)
+[075] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[075] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.437 roll=0.226
+[075] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Austrelino Dantas line=4 duel=-7.37 corte=-1.30
+[075] JOGADA falhou: Austrelino Dantas cortou
+[076] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[076] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.396 roll=0.547
+[076] FINAL Liga de Sports da Marinha | Curuaia Fasano fam=5 duel=10.54 on_target=0.623 goal=0.151
+[076] FINAL Curuaia Fasano: no alvo sem gol (roll=0.596)
+[077] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[077] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.424 roll=0.124
+[077] JOGADA Clube de Regatas Vasco da Gama | Júlio Martins x Austrelino Dantas line=4 duel=-9.40 corte=-1.30
+[077] JOGADA falhou: Austrelino Dantas cortou
+[078] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[078] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.396 roll=0.547
+[079] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[079] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.424 roll=0.767
+[080] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[080] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.424 roll=0.739
+[081] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[081] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.424 roll=0.860
+[082] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[082] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.396 roll=0.452
+[083] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[083] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.424 roll=0.808
+[084] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[084] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.424 roll=0.719
+[085] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[085] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.423 roll=0.612
+[086] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[086] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.423 roll=0.564
+[087] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[087] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.424 roll=0.046
+[087] JOGADA Clube de Regatas Vasco da Gama | Hugo Júnior Cruz x Eriberto Monte line=5 duel=0.14 corte=-2.05
+[087] FINAL Clube de Regatas Vasco da Gama | Ronaldo Mendonça fam=5 duel=9.81 on_target=0.570 goal=0.158
+[087] FINAL Ronaldo Mendonça: fora/alvo perdido (roll=0.604)
+[088] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[088] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.423 roll=0.167
+[088] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Adriano Pacheco line=4 duel=-11.58 corte=-1.06
+[088] JOGADA falhou: Adriano Pacheco cortou
+[089] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[089] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.423 roll=0.040
+[089] JOGADA Liga de Sports da Marinha | Agatão Martins x Júlio Martins line=3 duel=-4.35 corte=-1.06
+[089] JOGADA falhou: Júlio Martins cortou
+[090] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[090] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.423 roll=0.574
+[091] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[091] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.423 roll=0.665
+[092] posse=Clube de Regatas Vasco da Gama | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[092] BUILD Clube de Regatas Vasco da Gama vs Liga de Sports da Marinha prob=0.424 roll=0.303
+[092] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Isidro Vilaça line=3 duel=-8.63 corte=-1.30
+[093] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[093] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.423 roll=0.455
+[094] posse=Liga de Sports da Marinha | placar Liga de Sports da Marinha 0 x 1 Clube de Regatas Vasco da Gama
+[094] BUILD Liga de Sports da Marinha vs Clube de Regatas Vasco da Gama prob=0.423 roll=0.318
+[094] JOGADA Liga de Sports da Marinha | Arsénio Barros x Pedro Silva line=4 duel=-90.05 corte=-1.06
+[094] JOGADA falhou: Pedro Silva cortou

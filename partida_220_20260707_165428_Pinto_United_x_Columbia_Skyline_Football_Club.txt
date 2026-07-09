@@ -1,0 +1,337 @@
+Partida #220
+Data: 1912-01-22
+Mandante: Pinto United
+Visitante: Columbia Skyline Football Club
+Placar: 1 x 0
+Seed: -
+Estádio: Pintão
+Clima: Chuva leve
+Placar tempo normal: 1 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Pinto United x Columbia Skyline Football Club | estádio=Pintão | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[001] BUILD Columbia Skyline Football Club vs Pinto United prob=0.311 roll=0.707
+[002] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[002] BUILD Columbia Skyline Football Club vs Pinto United prob=0.311 roll=0.936
+[003] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[003] BUILD Columbia Skyline Football Club vs Pinto United prob=0.311 roll=0.240
+[003] JOGADA Columbia Skyline Football Club | Ray Bonder x Falo Furioso line=3 duel=38.71 corte=-1.12
+[003] JOGADA Columbia Skyline Football Club | Awper x Mairã Coxinha line=4 duel=5.38 corte=-1.12
+[003] FINAL Columbia Skyline Football Club | Willian Biden fam=3 duel=-0.86 on_target=0.544 goal=0.166
+[003] FINAL Willian Biden: no alvo sem gol (roll=0.686)
+[004] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[004] BUILD Pinto United vs Columbia Skyline Football Club prob=0.332 roll=0.624
+[005] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[005] BUILD Columbia Skyline Football Club vs Pinto United prob=0.311 roll=0.183
+[005] JOGADA Columbia Skyline Football Club | Pedrão x Jetro Trindade line=2 duel=-23.63 corte=-1.12
+[006] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[006] BUILD Pinto United vs Columbia Skyline Football Club prob=0.332 roll=0.075
+[006] JOGADA Pinto United | Júlio do Cocoricó x Awper line=5 duel=76.93 corte=-2.45
+[006] JOGADA Pinto United | Jetro Trindade x Edward Gayville line=5 duel=42.79 corte=-1.95
+[006] FINAL Pinto United | Ladislau Alves fam=5 duel=-18.96 on_target=0.517 goal=0.131
+[006] FINAL Ladislau Alves: fora/alvo perdido (roll=0.804)
+[007] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[007] BUILD Columbia Skyline Football Club vs Pinto United prob=0.311 roll=0.958
+[008] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[008] BUILD Pinto United vs Columbia Skyline Football Club prob=0.332 roll=0.406
+[009] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[009] BUILD Columbia Skyline Football Club vs Pinto United prob=0.311 roll=0.903
+[010] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[010] BUILD Columbia Skyline Football Club vs Pinto United prob=0.311 roll=0.645
+[011] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[011] BUILD Pinto United vs Columbia Skyline Football Club prob=0.359 roll=0.633
+[012] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[012] BUILD Columbia Skyline Football Club vs Pinto United prob=0.337 roll=0.564
+[013] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[013] BUILD Pinto United vs Columbia Skyline Football Club prob=0.359 roll=0.003
+[013] JOGADA Pinto United | Júlio do Cocoricó x Ray Bonder line=4 duel=-11.13 corte=-1.70
+[014] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[014] BUILD Pinto United vs Columbia Skyline Football Club prob=0.359 roll=0.820
+[015] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[015] BUILD Columbia Skyline Football Club vs Pinto United prob=0.337 roll=0.120
+[015] JOGADA Columbia Skyline Football Club | Awper x Elisson Gusmão line=3 duel=-11.85 corte=-1.12
+[016] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[016] BUILD Pinto United vs Columbia Skyline Football Club prob=0.359 roll=0.713
+[017] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[017] BUILD Columbia Skyline Football Club vs Pinto United prob=0.337 roll=0.102
+[017] JOGADA Columbia Skyline Football Club | Pedrão x Mairã Coxinha line=3 duel=89.65 corte=-1.12
+[017] JOGADA Columbia Skyline Football Club | Jack Wynand x Kuaray Gato line=4 duel=-0.00 corte=-1.12
+[017] JOGADA Columbia Skyline Football Club | Pedrão x Júlio do Cocoricó line=4 duel=17.77 corte=-1.12
+[017] FINAL Columbia Skyline Football Club | Willian Biden fam=3 duel=-1.69 on_target=0.587 goal=0.177
+[017] FINAL Willian Biden: no alvo sem gol (roll=0.981)
+[018] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[018] BUILD Columbia Skyline Football Club vs Pinto United prob=0.337 roll=0.554
+[019] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[019] BUILD Pinto United vs Columbia Skyline Football Club prob=0.359 roll=0.533
+[020] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[020] BUILD Columbia Skyline Football Club vs Pinto United prob=0.337 roll=0.323
+[020] JOGADA Columbia Skyline Football Club | Fruit Salad James x Kuaray Gato line=4 duel=-75.29 corte=-1.12
+[020] JOGADA falhou: Kuaray Gato cortou
+[021] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[021] BUILD Columbia Skyline Football Club vs Pinto United prob=0.362 roll=0.078
+[021] JOGADA Columbia Skyline Football Club | Edward Gayville x Áquila Frangalho line=3 duel=3.85 corte=-1.12
+[021] FINAL Columbia Skyline Football Club | Pedrão fam=3 duel=-14.75 on_target=0.614 goal=0.175
+[021] FINAL Pedrão: fora/alvo perdido (roll=0.860)
+[022] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[022] BUILD Pinto United vs Columbia Skyline Football Club prob=0.386 roll=0.995
+[023] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[023] BUILD Pinto United vs Columbia Skyline Football Club prob=0.386 roll=0.386
+[023] JOGADA Pinto United | Júlio do Cocoricó x Quagmire line=4 duel=-14.01 corte=-1.70
+[024] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[024] BUILD Pinto United vs Columbia Skyline Football Club prob=0.386 roll=0.288
+[024] JOGADA Pinto United | Kuaray Gato x Fruit Salad James line=5 duel=25.93 corte=-1.95
+[024] FINAL Pinto United | Falo Furioso fam=5 duel=12.71 on_target=0.592 goal=0.159
+[024] FINAL Falo Furioso: no alvo sem gol (roll=0.319)
+[025] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[025] BUILD Pinto United vs Columbia Skyline Football Club prob=0.386 roll=0.573
+[026] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[026] BUILD Columbia Skyline Football Club vs Pinto United prob=0.362 roll=0.313
+[026] JOGADA Columbia Skyline Football Club | Fruit Salad James x Falo Furioso line=4 duel=-46.06 corte=-1.12
+[026] JOGADA falhou: Falo Furioso cortou
+[027] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[027] BUILD Columbia Skyline Football Club vs Pinto United prob=0.362 roll=0.359
+[027] JOGADA Columbia Skyline Football Club | Edward Gayville x Kuaray Gato line=3 duel=10.00 corte=-1.12
+[027] JOGADA Columbia Skyline Football Club | Quagmire x Júlio do Cocoricó line=4 duel=-45.07 corte=-1.12
+[027] JOGADA falhou: Júlio do Cocoricó cortou
+[028] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[028] BUILD Pinto United vs Columbia Skyline Football Club prob=0.386 roll=0.130
+[028] JOGADA Pinto United | Falo Furioso x Jack Wynand line=5 duel=-0.48 corte=-2.45
+[028] JOGADA Pinto United | Capão Bicudo x Big W line=5 duel=68.53 corte=-1.95
+[028] JOGADA Pinto United | Falo Furioso x Edward Gayville line=5 duel=4.36 corte=-2.45
+[028] FINAL Pinto United | Ovoberto fam=1 duel=2.31 on_target=0.679 goal=0.244
+[028] FINAL Ovoberto: fora/alvo perdido (roll=0.924)
+[029] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[029] BUILD Pinto United vs Columbia Skyline Football Club prob=0.386 roll=0.373
+[029] JOGADA Pinto United | Ovoberto x Pedrão line=3 duel=29.38 corte=-1.70
+[029] JOGADA Pinto United | Kuaray Gato x Jack Wynand line=4 duel=-87.34 corte=-1.70
+[029] JOGADA falhou: Jack Wynand cortou
+[030] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[030] BUILD Pinto United vs Columbia Skyline Football Club prob=0.386 roll=0.123
+[030] JOGADA Pinto United | Jetro Trindade x Fruit Salad James line=3 duel=-32.07 corte=-1.70
+[030] JOGADA falhou: Fruit Salad James cortou
+[031] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[031] BUILD Pinto United vs Columbia Skyline Football Club prob=0.386 roll=0.375
+[031] JOGADA Pinto United | Capão Bicudo x Big W line=4 duel=-67.07 corte=-1.70
+[031] JOGADA falhou: Big W cortou
+[032] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[032] BUILD Columbia Skyline Football Club vs Pinto United prob=0.362 roll=0.844
+[033] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[033] BUILD Pinto United vs Columbia Skyline Football Club prob=0.389 roll=0.507
+[034] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[034] BUILD Columbia Skyline Football Club vs Pinto United prob=0.362 roll=0.035
+[034] JOGADA Columbia Skyline Football Club | Ray Bonder x Capão Bicudo line=2 duel=93.55 corte=-1.12
+[034] JOGADA Columbia Skyline Football Club | Josh Battle x Ovoberto line=4 duel=4.44 corte=-1.12
+[034] JOGADA Columbia Skyline Football Club | Willian Biden x Ladislau Alves line=5 duel=20.43 corte=-1.87
+[034] FINAL Columbia Skyline Football Club | Willian Biden fam=1 duel=-12.08 on_target=0.681 goal=0.233
+[034] FINAL Willian Biden: fora/alvo perdido (roll=0.747)
+[035] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[035] BUILD Pinto United vs Columbia Skyline Football Club prob=0.389 roll=0.447
+[036] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[036] BUILD Pinto United vs Columbia Skyline Football Club prob=0.389 roll=0.321
+[036] JOGADA Pinto United | Áquila Frangalho x Fruit Salad James line=3 duel=-23.76 corte=-1.70
+[036] JOGADA falhou: Fruit Salad James cortou
+[037] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[037] BUILD Columbia Skyline Football Club vs Pinto United prob=0.362 roll=0.102
+[037] JOGADA Columbia Skyline Football Club | Big W x Capão Bicudo line=2 duel=71.28 corte=-1.12
+[037] JOGADA Columbia Skyline Football Club | Big W x Júlio do Cocoricó line=5 duel=87.87 corte=-1.37
+[037] FINAL Columbia Skyline Football Club | Awper fam=1 duel=0.15 on_target=0.680 goal=0.238
+[037] FINAL Awper: no alvo sem gol (roll=0.614)
+[038] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[038] BUILD Columbia Skyline Football Club vs Pinto United prob=0.362 roll=0.572
+[039] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[039] BUILD Pinto United vs Columbia Skyline Football Club prob=0.389 roll=0.545
+[040] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[040] BUILD Columbia Skyline Football Club vs Pinto United prob=0.362 roll=0.306
+[040] JOGADA Columbia Skyline Football Club | Edward Gayville x Capão Bicudo line=3 duel=43.66 corte=-1.12
+[040] JOGADA Columbia Skyline Football Club | Edward Gayville x Elisson Gusmão line=4 duel=16.19 corte=-1.12
+[040] JOGADA Columbia Skyline Football Club | Fruit Salad James x Kuaray Gato line=4 duel=-3.24 corte=-1.12
+[041] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[041] BUILD Pinto United vs Columbia Skyline Football Club prob=0.389 roll=0.401
+[042] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[042] BUILD Pinto United vs Columbia Skyline Football Club prob=0.389 roll=0.710
+[043] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[043] BUILD Columbia Skyline Football Club vs Pinto United prob=0.362 roll=0.008
+[043] JOGADA Columbia Skyline Football Club | Willian Biden x Ovoberto line=2 duel=-8.67 corte=-1.12
+[043] JOGADA falhou: Ovoberto cortou
+[044] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[044] BUILD Columbia Skyline Football Club vs Pinto United prob=0.362 roll=0.211
+[044] JOGADA Columbia Skyline Football Club | Jack Wynand x Falo Furioso line=2 duel=101.40 corte=-1.12
+[044] JOGADA Columbia Skyline Football Club | Quagmire x Capão Bicudo line=5 duel=55.03 corte=-1.37
+[044] FINAL Columbia Skyline Football Club | Ray Bonder fam=1 duel=14.54 on_target=0.684 goal=0.246
+[044] FINAL Ray Bonder: no alvo sem gol (roll=0.877)
+[045] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[045] BUILD Pinto United vs Columbia Skyline Football Club prob=0.389 roll=0.714
+[046] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[046] BUILD Pinto United vs Columbia Skyline Football Club prob=0.362 roll=0.241
+[046] JOGADA Pinto United | Capão Bicudo x Big W line=5 duel=3.56 corte=-1.95
+[046] FINAL Pinto United | Júlio do Cocoricó fam=5 duel=-43.71 on_target=0.556 goal=0.129
+[046] FINAL Júlio do Cocoricó: fora/alvo perdido (roll=0.587)
+[047] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[047] BUILD Pinto United vs Columbia Skyline Football Club prob=0.362 roll=0.969
+[048] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[048] BUILD Pinto United vs Columbia Skyline Football Club prob=0.362 roll=0.281
+[048] JOGADA Pinto United | Júlio do Cocoricó x Jack Wynand line=4 duel=-23.33 corte=-1.70
+[048] JOGADA falhou: Jack Wynand cortou
+[049] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[049] BUILD Pinto United vs Columbia Skyline Football Club prob=0.362 roll=0.987
+[050] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[050] SUB Columbia Skyline Football Club: saiu Willian Biden (CA) | entrou Owen Barkfield (SA) | subs=1/5
+[050] BUILD Pinto United vs Columbia Skyline Football Club prob=0.361 roll=0.708
+[051] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[051] BUILD Pinto United vs Columbia Skyline Football Club prob=0.361 roll=0.328
+[051] JOGADA Pinto United | Ladislau Alves x Big W line=4 duel=-20.45 corte=-1.70
+[051] JOGADA falhou: Big W cortou
+[052] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[052] BUILD Columbia Skyline Football Club vs Pinto United prob=0.324 roll=0.076
+[052] JOGADA Columbia Skyline Football Club | Josh Battle x Júlio do Cocoricó line=3 duel=24.39 corte=-1.12
+[052] JOGADA Columbia Skyline Football Club | Edward Gayville x Elisson Gusmão line=4 duel=16.87 corte=-1.12
+[052] JOGADA Columbia Skyline Football Club | Josh Battle x Capão Bicudo line=4 duel=5.50 corte=-1.12
+[052] FINAL Columbia Skyline Football Club | Owen Barkfield fam=1 duel=25.60 on_target=0.648 goal=0.242
+[052] FINAL Owen Barkfield: no alvo sem gol (roll=0.507)
+[053] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[053] BUILD Pinto United vs Columbia Skyline Football Club prob=0.361 roll=0.262
+[053] JOGADA Pinto United | Capão Bicudo x Owen Barkfield line=4 duel=-50.74 corte=-1.70
+[053] JOGADA falhou: Owen Barkfield cortou
+[054] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[054] BUILD Pinto United vs Columbia Skyline Football Club prob=0.361 roll=0.446
+[055] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[055] BUILD Columbia Skyline Football Club vs Pinto United prob=0.324 roll=0.245
+[055] JOGADA Columbia Skyline Football Club | Quagmire x Kuaray Gato line=4 duel=-14.73 corte=-1.12
+[055] JOGADA falhou: Kuaray Gato cortou
+[056] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[056] SUB Columbia Skyline Football Club: saiu Awper (PE) | entrou Shutz Ethan Cuckley (ME) | subs=2/5
+[056] BUILD Columbia Skyline Football Club vs Pinto United prob=0.347 roll=0.799
+[057] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[057] SUB Pinto United: saiu Áquila Frangalho (LD) | entrou Paulo Codornaldo (LD) | subs=1/5
+[057] SUB Columbia Skyline Football Club: saiu Pedrão (PD) | entrou Louis Long (MD) | subs=3/5
+[057] BUILD Pinto United vs Columbia Skyline Football Club prob=0.386 roll=0.874
+[058] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[058] BUILD Columbia Skyline Football Club vs Pinto United prob=0.352 roll=0.805
+[059] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[059] BUILD Columbia Skyline Football Club vs Pinto United prob=0.352 roll=0.881
+[060] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[060] SUB Pinto United: saiu Júlio do Cocoricó (CA) | entrou Oribá (PD) | subs=2/5
+[060] BUILD Columbia Skyline Football Club vs Pinto United prob=0.352 roll=0.045
+[060] JOGADA Columbia Skyline Football Club | Quagmire x Capão Bicudo line=3 duel=-4.96 corte=-1.11
+[061] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[061] SUB Pinto United: saiu Mairã Coxinha (MC) | entrou Mairubi Asinha (VOL) | subs=3/5
+[061] BUILD Columbia Skyline Football Club vs Pinto United prob=0.352 roll=0.043
+[061] JOGADA Columbia Skyline Football Club | Big W x Elisson Gusmão line=2 duel=62.11 corte=-1.11
+[061] JOGADA Columbia Skyline Football Club | Fruit Salad James x Falo Furioso line=4 duel=24.61 corte=-1.11
+[061] JOGADA Columbia Skyline Football Club | Edward Gayville x Falo Furioso line=5 duel=35.99 corte=-1.86
+[061] FINAL Columbia Skyline Football Club | Shutz Ethan Cuckley fam=1 duel=29.68 on_target=0.681 goal=0.251
+[061] FINAL Shutz Ethan Cuckley: no alvo sem gol (roll=0.529)
+[062] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[062] SUB Pinto United: saiu Ladislau Alves (MD) | entrou Urbino Pinguino (MD) | subs=4/5
+[062] SUB Columbia Skyline Football Club: saiu Quagmire (ZAG) | entrou Valdemir Clemente (ZAG) | subs=4/5
+[062] BUILD Pinto United vs Columbia Skyline Football Club prob=0.388 roll=0.006
+[062] JOGADA Pinto United | Falo Furioso x Owen Barkfield line=5 duel=18.09 corte=-2.45
+[062] JOGADA Pinto United | Capão Bicudo x Ray Bonder line=5 duel=21.97 corte=-1.95
+[062] JOGADA Pinto United | Falo Furioso x Fruit Salad James line=5 duel=-7.65 corte=-2.45
+[062] JOGADA falhou: Fruit Salad James cortou
+[063] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[063] BUILD Pinto United vs Columbia Skyline Football Club prob=0.388 roll=0.101
+[063] JOGADA Pinto United | Elisson Gusmão x Owen Barkfield line=4 duel=19.22 corte=-1.70
+[063] JOGADA Pinto United | Oribá x Jack Wynand line=4 duel=1.81 corte=-1.70
+[063] JOGADA Pinto United | Urbino Pinguino x Valdemir Clemente line=5 duel=80.04 corte=-1.95
+[063] FINAL Pinto United | Falo Furioso fam=1 duel=16.79 on_target=0.682 goal=0.253
+[063] FINAL Falo Furioso: no alvo sem gol (roll=0.261)
+[064] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[064] SUB Pinto United: saiu Kuaray Gato (ZAG) | entrou Baru Valadão (ZAG) | subs=5/5
+[064] BUILD Columbia Skyline Football Club vs Pinto United prob=0.355 roll=0.881
+[065] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[065] BUILD Pinto United vs Columbia Skyline Football Club prob=0.387 roll=0.985
+[066] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[066] BUILD Pinto United vs Columbia Skyline Football Club prob=0.387 roll=0.664
+[067] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[067] SUB Columbia Skyline Football Club: saiu Josh Battle (VOL) | entrou Leon First Bush (VOL) | subs=5/5
+[067] BUILD Pinto United vs Columbia Skyline Football Club prob=0.391 roll=0.840
+[068] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[068] BUILD Columbia Skyline Football Club vs Pinto United prob=0.355 roll=0.884
+[069] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[069] BUILD Columbia Skyline Football Club vs Pinto United prob=0.355 roll=0.421
+[070] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[070] BUILD Columbia Skyline Football Club vs Pinto United prob=0.355 roll=0.867
+[071] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[071] BUILD Pinto United vs Columbia Skyline Football Club prob=0.394 roll=0.942
+[072] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[072] BUILD Pinto United vs Columbia Skyline Football Club prob=0.394 roll=0.564
+[073] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[073] BUILD Columbia Skyline Football Club vs Pinto United prob=0.355 roll=0.466
+[074] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[074] BUILD Columbia Skyline Football Club vs Pinto United prob=0.355 roll=0.499
+[075] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[075] BUILD Columbia Skyline Football Club vs Pinto United prob=0.355 roll=0.839
+[076] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[076] BUILD Columbia Skyline Football Club vs Pinto United prob=0.365 roll=0.211
+[076] JOGADA Columbia Skyline Football Club | Owen Barkfield x Mairubi Asinha line=2 duel=45.63 corte=-1.06
+[076] JOGADA Columbia Skyline Football Club | Edward Gayville x Elisson Gusmão line=5 duel=15.45 corte=-1.81
+[076] JOGADA Columbia Skyline Football Club | Valdemir Clemente x Oribá line=5 duel=17.76 corte=-1.31
+[076] FINAL Columbia Skyline Football Club | Edward Gayville fam=1 duel=11.84 on_target=0.695 goal=0.245
+[076] FINAL Edward Gayville: no alvo sem gol (roll=0.487)
+[077] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[077] BUILD Pinto United vs Columbia Skyline Football Club prob=0.406 roll=0.234
+[077] JOGADA Pinto United | Baru Valadão x Owen Barkfield line=4 duel=24.38 corte=-1.70
+[077] JOGADA Pinto United | Urbino Pinguino x Jack Wynand line=4 duel=5.10 corte=-1.70
+[077] FINAL Pinto United | Falo Furioso fam=5 duel=9.05 on_target=0.605 goal=0.162
+[077] FINAL Falo Furioso: no alvo sem gol (roll=0.521)
+[078] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[078] BUILD Pinto United vs Columbia Skyline Football Club prob=0.406 roll=0.703
+[079] posse=Columbia Skyline Football Club | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[079] BUILD Columbia Skyline Football Club vs Pinto United prob=0.365 roll=0.743
+[080] posse=Pinto United | placar Pinto United 0 x 0 Columbia Skyline Football Club
+[080] BUILD Pinto United vs Columbia Skyline Football Club prob=0.406 roll=0.267
+[080] JOGADA Pinto United | Falo Furioso x Ray Bonder line=4 duel=19.98 corte=-1.70
+[080] FINAL Pinto United | Capão Bicudo fam=5 duel=-5.47 on_target=0.600 goal=0.154
+[080] FINAL Capão Bicudo: GOL subtipo=FALTA (roll=0.039)
+[081] posse=Columbia Skyline Football Club | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[081] BUILD Columbia Skyline Football Club vs Pinto United prob=0.436 roll=0.738
+[082] posse=Pinto United | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[082] LESÃO Columbia Skyline Football Club: Ray Bonder | torção leve | gravidade=leve | 2 jogo(s)
+[082] BUILD Pinto United vs Columbia Skyline Football Club prob=0.378 roll=0.555
+[083] posse=Pinto United | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[083] BUILD Pinto United vs Columbia Skyline Football Club prob=0.378 roll=0.235
+[083] JOGADA Pinto United | Ovoberto x Jack Wynand line=4 duel=-5.49 corte=-1.70
+[083] JOGADA falhou: Jack Wynand cortou
+[084] posse=Pinto United | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[084] BUILD Pinto United vs Columbia Skyline Football Club prob=0.378 roll=0.342
+[084] JOGADA Pinto United | Jetro Trindade x Leon First Bush line=4 duel=-36.24 corte=-1.70
+[084] JOGADA falhou: Leon First Bush cortou
+[085] posse=Columbia Skyline Football Club | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[085] BUILD Columbia Skyline Football Club vs Pinto United prob=0.459 roll=0.355
+[085] JOGADA Columbia Skyline Football Club | Jack Wynand x Paulo Codornaldo line=2 duel=70.39 corte=-1.06
+[085] JOGADA Columbia Skyline Football Club | Valdemir Clemente x Baru Valadão line=4 duel=-14.71 corte=-1.06
+[086] posse=Columbia Skyline Football Club | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[086] BUILD Columbia Skyline Football Club vs Pinto United prob=0.459 roll=0.317
+[086] JOGADA Columbia Skyline Football Club | Fruit Salad James x Baru Valadão line=4 duel=-14.65 corte=-1.06
+[086] JOGADA falhou: Baru Valadão cortou
+[087] posse=Pinto United | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[087] BUILD Pinto United vs Columbia Skyline Football Club prob=0.378 roll=0.377
+[087] JOGADA Pinto United | Baru Valadão x Big W line=5 duel=-2.98 corte=-1.95
+[087] JOGADA falhou: Big W cortou
+[088] posse=Columbia Skyline Football Club | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[088] BUILD Columbia Skyline Football Club vs Pinto United prob=0.459 roll=0.292
+[088] JOGADA Columbia Skyline Football Club | Fruit Salad James x Paulo Codornaldo line=2 duel=81.69 corte=-1.06
+[088] JOGADA Columbia Skyline Football Club | Leon First Bush x Oribá line=5 duel=23.69 corte=-1.31
+[088] JOGADA Columbia Skyline Football Club | Shutz Ethan Cuckley x Falo Furioso line=5 duel=93.33 corte=-1.31
+[088] FINAL Columbia Skyline Football Club | Louis Long fam=1 duel=11.47 on_target=0.774 goal=0.253
+[088] FINAL Louis Long: fora/alvo perdido (roll=0.955)
+[089] posse=Pinto United | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[089] BUILD Pinto United vs Columbia Skyline Football Club prob=0.378 roll=0.458
+[090] posse=Columbia Skyline Football Club | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[090] BUILD Columbia Skyline Football Club vs Pinto United prob=0.459 roll=0.556
+[091] posse=Columbia Skyline Football Club | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[091] BUILD Columbia Skyline Football Club vs Pinto United prob=0.459 roll=0.406
+[091] JOGADA Columbia Skyline Football Club | Edward Gayville x Oribá line=4 duel=15.42 corte=-1.06
+[091] FINAL Columbia Skyline Football Club | Louis Long fam=3 duel=-19.03 on_target=0.700 goal=0.181
+[091] FINAL Louis Long: no alvo sem gol (roll=0.332)
+[092] posse=Columbia Skyline Football Club | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[092] BUILD Columbia Skyline Football Club vs Pinto United prob=0.459 roll=0.953
+[093] posse=Pinto United | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[093] BUILD Pinto United vs Columbia Skyline Football Club prob=0.378 roll=0.988
+[094] posse=Pinto United | placar Pinto United 1 x 0 Columbia Skyline Football Club
+[094] BUILD Pinto United vs Columbia Skyline Football Club prob=0.378 roll=0.468

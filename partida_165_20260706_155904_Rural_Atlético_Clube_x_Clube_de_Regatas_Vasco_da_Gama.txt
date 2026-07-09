@@ -1,0 +1,330 @@
+Partida #165
+Data: 1912-01-14
+Mandante: Rural Atlético Clube
+Visitante: Clube de Regatas Vasco da Gama
+Placar: 5 x 5
+Seed: -
+Estádio: Arena Chiqueiro
+Clima: Nublado
+Placar tempo normal: 5 x 5
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Rural Atlético Clube x Clube de Regatas Vasco da Gama | estádio=Arena Chiqueiro | clima=Nublado | seed=- | perfil=caotico | pressão=Normal · peso 9/10
+[001] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Clube de Regatas Vasco da Gama
+[001] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.423 roll=0.406
+[001] JOGADA Rural Atlético Clube | Benjamin Saraiva x Enaldo Marcelo line=5 duel=82.43 corte=-1.95
+[001] FINAL Rural Atlético Clube | Will Anthonio Zeppeli fam=5 duel=7.94 on_target=0.675 goal=0.191
+[001] FINAL Will Anthonio Zeppeli: fora/alvo perdido (roll=0.916)
+[002] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 0 Clube de Regatas Vasco da Gama
+[002] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.388 roll=0.938
+[003] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Clube de Regatas Vasco da Gama
+[003] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.423 roll=0.400
+[003] JOGADA Rural Atlético Clube | Benjamin Saraiva x Eduardo Freitas line=4 duel=26.48 corte=-1.70
+[003] FINAL Rural Atlético Clube | Érico Lorentino fam=5 duel=-9.35 on_target=0.664 goal=0.178
+[003] FINAL Érico Lorentino: no alvo sem gol (roll=0.852)
+[004] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 0 Clube de Regatas Vasco da Gama
+[004] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.388 roll=0.615
+[005] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Clube de Regatas Vasco da Gama
+[005] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.423 roll=0.799
+[006] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 0 Clube de Regatas Vasco da Gama
+[006] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.388 roll=0.387
+[006] JOGADA Clube de Regatas Vasco da Gama | Eduardo Freitas x Robert E. O. Speedwagon line=5 duel=44.00 corte=-1.85
+[006] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=1 duel=-0.39 on_target=0.775 goal=0.282
+[006] FINAL Fusiano Colón: no alvo sem gol (roll=0.499)
+[007] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 0 Clube de Regatas Vasco da Gama
+[007] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.388 roll=0.515
+[008] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 0 Clube de Regatas Vasco da Gama
+[008] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.388 roll=0.383
+[008] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Érico Lorentino line=5 duel=95.46 corte=-1.35
+[008] FINAL Clube de Regatas Vasco da Gama | Enaldo Marcelo fam=1 duel=-4.61 on_target=0.766 goal=0.276
+[008] FINAL Enaldo Marcelo: no alvo sem gol (roll=0.764)
+[009] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 0 Clube de Regatas Vasco da Gama
+[009] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.388 roll=0.196
+[009] JOGADA Clube de Regatas Vasco da Gama | Nininho x Marciano Capetinha line=4 duel=-10.60 corte=-1.10
+[009] JOGADA falhou: Marciano Capetinha cortou
+[010] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 0 Clube de Regatas Vasco da Gama
+[010] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.388 roll=0.834
+[010] FINAL Clube de Regatas Vasco da Gama | Eduardo Freitas fam=5 duel=2.42 on_target=0.661 goal=0.167
+[010] FINAL Eduardo Freitas: fora/alvo perdido (roll=0.877)
+[011] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 0 Clube de Regatas Vasco da Gama
+[011] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.419 roll=0.075
+[011] JOGADA Clube de Regatas Vasco da Gama | Júlio Martins x Teliciano Garcia line=5 duel=52.13 corte=-1.35
+[011] FINAL Clube de Regatas Vasco da Gama | Victoriano Bandeira fam=1 duel=-5.91 on_target=0.828 goal=0.294
+[011] FINAL Victoriano Bandeira: no alvo sem gol (roll=0.954)
+[012] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 0 Clube de Regatas Vasco da Gama
+[012] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.458 roll=0.643
+[013] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 0 Clube de Regatas Vasco da Gama
+[013] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.419 roll=0.046
+[013] JOGADA Clube de Regatas Vasco da Gama | Fusiano Colón x Will Anthonio Zeppeli line=3 duel=32.75 corte=-1.10
+[013] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=1 duel=-0.96 on_target=0.836 goal=0.301
+[013] FINAL Fusiano Colón: GOL subtipo=CHUTE (roll=0.015)
+[014] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Clube de Regatas Vasco da Gama
+[014] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.508 roll=0.567
+[015] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 1 Clube de Regatas Vasco da Gama
+[015] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.419 roll=0.378
+[015] JOGADA Clube de Regatas Vasco da Gama | Pedro Guaraná x Érico Lorentino line=4 duel=76.82 corte=-1.30
+[015] FINAL Clube de Regatas Vasco da Gama | Victoriano Bandeira fam=3 duel=-17.78 on_target=0.750 goal=0.218
+[015] FINAL Victoriano Bandeira: no alvo sem gol (roll=0.949)
+[016] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Clube de Regatas Vasco da Gama
+[016] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.508 roll=0.174
+[016] JOGADA Rural Atlético Clube | Teliciano Garcia x Adriano Pacheco line=5 duel=8.44 corte=-1.95
+[016] FINAL Rural Atlético Clube | Mauro Minotauro fam=5 duel=3.40 on_target=0.722 goal=0.201
+[016] FINAL Mauro Minotauro: fora/alvo perdido (roll=0.812)
+[017] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 1 Clube de Regatas Vasco da Gama
+[017] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.508 roll=0.816
+[018] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 1 Clube de Regatas Vasco da Gama
+[018] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.419 roll=0.605
+[019] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 1 Clube de Regatas Vasco da Gama
+[019] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.419 roll=0.975
+[020] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 1 Clube de Regatas Vasco da Gama
+[020] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.419 roll=0.412
+[020] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Robert E. O. Speedwagon line=5 duel=49.70 corte=-1.55
+[020] FINAL Clube de Regatas Vasco da Gama | Pedro Guaraná fam=1 duel=-4.27 on_target=0.829 goal=0.295
+[020] FINAL Pedro Guaraná: GOL subtipo=CHUTE (roll=0.105)
+[021] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 2 Clube de Regatas Vasco da Gama
+[021] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.443 roll=0.290
+[021] JOGADA Clube de Regatas Vasco da Gama | Victoriano Bandeira x Piragibe Haghissé line=5 duel=29.26 corte=-2.05
+[021] FINAL Clube de Regatas Vasco da Gama | Enaldo Marcelo fam=1 duel=-9.32 on_target=0.843 goal=0.285
+[021] FINAL Enaldo Marcelo: no alvo sem gol (roll=0.345)
+[022] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 0 x 2 Clube de Regatas Vasco da Gama
+[022] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.443 roll=0.700
+[023] posse=Rural Atlético Clube | placar Rural Atlético Clube 0 x 2 Clube de Regatas Vasco da Gama
+[023] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.551 roll=0.353
+[023] JOGADA Rural Atlético Clube | Geroldo Carlos x Pedro Silva line=3 duel=49.45 corte=-1.70
+[023] FINAL Rural Atlético Clube | Geroldo Carlos fam=5 duel=-17.70 on_target=0.757 goal=0.195
+[023] FINAL Geroldo Carlos: GOL subtipo=FALTA (roll=0.161)
+[024] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 1 x 2 Clube de Regatas Vasco da Gama
+[024] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.451 roll=0.022
+[024] JOGADA Clube de Regatas Vasco da Gama | Victoriano Bandeira x Marciano Capetinha line=3 duel=-13.83 corte=-1.30
+[024] JOGADA falhou: Marciano Capetinha cortou
+[025] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 1 x 2 Clube de Regatas Vasco da Gama
+[025] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.451 roll=0.504
+[026] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 1 x 2 Clube de Regatas Vasco da Gama
+[026] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.451 roll=0.942
+[027] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 1 x 2 Clube de Regatas Vasco da Gama
+[027] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.451 roll=0.423
+[027] JOGADA Clube de Regatas Vasco da Gama | Enaldo Marcelo x Piragibe Haghissé line=5 duel=31.58 corte=-2.05
+[027] FINAL Clube de Regatas Vasco da Gama | Enaldo Marcelo fam=1 duel=-10.59 on_target=0.870 goal=0.300
+[027] FINAL Enaldo Marcelo: no alvo sem gol (roll=0.640)
+[028] posse=Rural Atlético Clube | placar Rural Atlético Clube 1 x 2 Clube de Regatas Vasco da Gama
+[028] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.546 roll=0.860
+[029] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 1 x 2 Clube de Regatas Vasco da Gama
+[029] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.451 roll=0.327
+[029] JOGADA Clube de Regatas Vasco da Gama | Fusiano Colón x Benjamin Saraiva line=4 duel=50.63 corte=-1.30
+[029] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=1 duel=-8.58 on_target=0.880 goal=0.305
+[029] FINAL Fusiano Colón: GOL subtipo=CHUTE (roll=0.015)
+[030] posse=Rural Atlético Clube | placar Rural Atlético Clube 1 x 3 Clube de Regatas Vasco da Gama
+[030] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.551 roll=0.084
+[030] JOGADA Rural Atlético Clube | Will Anthonio Zeppeli x Enaldo Marcelo line=3 duel=33.07 corte=-1.70
+[030] FINAL Rural Atlético Clube | Piragibe Haghissé fam=5 duel=-15.84 on_target=0.758 goal=0.197
+[030] FINAL Piragibe Haghissé: GOL subtipo=FALTA (roll=0.162)
+[031] posse=Rural Atlético Clube | placar Rural Atlético Clube 2 x 3 Clube de Regatas Vasco da Gama
+[031] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.546 roll=0.900
+[032] posse=Rural Atlético Clube | placar Rural Atlético Clube 2 x 3 Clube de Regatas Vasco da Gama
+[032] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.546 roll=0.336
+[032] JOGADA Rural Atlético Clube | Celeritano Mendes x Adriano Pacheco line=5 duel=41.78 corte=-1.95
+[032] FINAL Rural Atlético Clube | Geroldo Carlos fam=5 duel=-16.34 on_target=0.756 goal=0.195
+[032] FINAL Geroldo Carlos: no alvo sem gol (roll=0.301)
+[033] posse=Rural Atlético Clube | placar Rural Atlético Clube 2 x 3 Clube de Regatas Vasco da Gama
+[033] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.546 roll=0.498
+[033] JOGADA Rural Atlético Clube | Mauro Minotauro x Suspiro Menezes line=4 duel=-4.16 corte=-1.70
+[033] JOGADA falhou: Suspiro Menezes cortou
+[034] posse=Rural Atlético Clube | placar Rural Atlético Clube 2 x 3 Clube de Regatas Vasco da Gama
+[034] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.546 roll=0.648
+[035] posse=Rural Atlético Clube | placar Rural Atlético Clube 2 x 3 Clube de Regatas Vasco da Gama
+[035] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.546 roll=0.036
+[035] JOGADA Rural Atlético Clube | Benjamin Saraiva x Enaldo Marcelo line=5 duel=74.58 corte=-1.95
+[035] FINAL Rural Atlético Clube | Teliciano Garcia fam=5 duel=8.28 on_target=0.762 goal=0.211
+[035] FINAL Teliciano Garcia: GOL subtipo=FALTA (roll=0.169)
+[036] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[036] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.495 roll=0.385
+[036] JOGADA Rural Atlético Clube | Geroldo Carlos x Fusiano Colón line=4 duel=88.32 corte=-1.70
+[036] FINAL Rural Atlético Clube | Piragibe Haghissé fam=5 duel=-76.47 on_target=0.751 goal=0.158
+[036] FINAL Piragibe Haghissé: no alvo sem gol (roll=0.264)
+[037] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[037] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.495 roll=0.533
+[038] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[038] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.495 roll=0.759
+[039] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[039] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.495 roll=0.798
+[040] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[040] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.451 roll=0.989
+[041] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[041] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.495 roll=0.288
+[041] JOGADA Rural Atlético Clube | Benjamin Saraiva x Pedro Silva line=4 duel=-19.53 corte=-1.70
+[041] JOGADA falhou: Pedro Silva cortou
+[042] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[042] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.495 roll=0.273
+[042] JOGADA Rural Atlético Clube | Will Anthonio Zeppeli x Nininho line=5 duel=-19.95 corte=-2.45
+[042] JOGADA falhou: Nininho cortou
+[043] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[043] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.495 roll=0.962
+[044] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[044] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.451 roll=0.668
+[045] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[045] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.451 roll=0.054
+[045] JOGADA Clube de Regatas Vasco da Gama | Victoriano Bandeira x Will Anthonio Zeppeli line=5 duel=59.08 corte=-1.84
+[045] FINAL Clube de Regatas Vasco da Gama | Eduardo Freitas fam=1 duel=-10.83 on_target=0.878 goal=0.303
+[045] FINAL Eduardo Freitas: no alvo sem gol (roll=0.954)
+[046] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[046] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.419 roll=0.595
+[047] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[047] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.460 roll=0.739
+[048] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[048] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.460 roll=0.907
+[049] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[049] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.419 roll=0.525
+[050] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[050] SUB Rural Atlético Clube: saiu Will Anthonio Zeppeli (MA) | entrou Abdullah Pretão (SA) | subs=1/5
+[050] SUB Clube de Regatas Vasco da Gama: saiu Eduardo Freitas (SA) | entrou Hugo Júnior Cruz (CA) | subs=1/5
+[050] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.461 roll=0.608
+[051] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[051] SUB Rural Atlético Clube: saiu Piragibe Haghissé (CA) | entrou Jebadias de Assunção (CA) | subs=2/5
+[051] SUB Clube de Regatas Vasco da Gama: saiu Victoriano Bandeira (SA) | entrou Fausto Garcia (SA) | subs=2/5
+[051] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.467 roll=0.702
+[052] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[052] SUB Clube de Regatas Vasco da Gama: saiu Fusiano Colón (CA) | entrou Ronaldo Mendonça (CA) | subs=3/5
+[052] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.381 roll=0.859
+[053] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[053] SUB Clube de Regatas Vasco da Gama: saiu Enaldo Marcelo (CA) | entrou Álvaro Teixeira (CA) | subs=4/5
+[053] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.432 roll=0.459
+[054] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[054] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.432 roll=0.235
+[054] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Érico Lorentino line=4 duel=10.92 corte=-1.30
+[054] FINAL Clube de Regatas Vasco da Gama | Fausto Garcia fam=5 duel=-46.36 on_target=0.716 goal=0.169
+[054] FINAL Fausto Garcia: fora/alvo perdido (roll=0.912)
+[055] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[055] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.385 roll=0.358
+[055] JOGADA Rural Atlético Clube | Geroldo Carlos x Ronaldo Mendonça line=4 duel=-21.99 corte=-1.10
+[055] JOGADA falhou: Ronaldo Mendonça cortou
+[056] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[056] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.465 roll=0.731
+[057] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[057] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.465 roll=0.875
+[058] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[058] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.414 roll=0.206
+[058] JOGADA Rural Atlético Clube | Geroldo Carlos x Júlio Martins line=3 duel=-10.66 corte=-1.10
+[058] JOGADA falhou: Júlio Martins cortou
+[059] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[059] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.414 roll=0.866
+[060] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[060] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.469 roll=0.698
+[061] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[061] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.469 roll=0.670
+[062] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[062] SUB Rural Atlético Clube: saiu Érico Lorentino (ME) | entrou Maximiano Salomão (ME) | subs=3/5
+[062] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.402 roll=0.202
+[062] JOGADA Rural Atlético Clube | Marciano Capetinha x Ronaldo Mendonça line=4 duel=38.24 corte=-1.10
+[062] FINAL Rural Atlético Clube | Jebadias de Assunção fam=1 duel=14.21 on_target=0.870 goal=0.313
+[062] FINAL Jebadias de Assunção: no alvo sem gol (roll=0.865)
+[063] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[063] SUB Rural Atlético Clube: saiu Benjamin Saraiva (ZAG) | entrou Sócrates Espinho (ZAG) | subs=4/5
+[063] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.402 roll=0.371
+[063] JOGADA Rural Atlético Clube | Geroldo Carlos x Pedro Guaraná line=4 duel=-2.34 corte=-1.10
+[063] JOGADA falhou: Pedro Guaraná cortou
+[064] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[064] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.402 roll=0.790
+[065] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[065] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.402 roll=0.472
+[066] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[066] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.472 roll=0.068
+[066] JOGADA Clube de Regatas Vasco da Gama | Pedro Guaraná x Robert E. O. Speedwagon line=5 duel=85.15 corte=-2.05
+[066] FINAL Clube de Regatas Vasco da Gama | Fausto Garcia fam=5 duel=16.14 on_target=0.758 goal=0.211
+[066] FINAL Fausto Garcia: no alvo sem gol (roll=0.941)
+[067] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[067] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.472 roll=0.501
+[068] posse=Rural Atlético Clube | placar Rural Atlético Clube 3 x 3 Clube de Regatas Vasco da Gama
+[068] SUB Rural Atlético Clube: saiu Geroldo Carlos (MD) | entrou Julielson Mendonça (MD) | subs=5/5
+[068] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.398 roll=0.024
+[068] JOGADA Rural Atlético Clube | Jebadias de Assunção x Suspiro Menezes line=3 duel=54.76 corte=-1.10
+[068] FINAL Rural Atlético Clube | Jebadias de Assunção fam=1 duel=13.06 on_target=0.870 goal=0.313
+[068] FINAL Jebadias de Assunção: GOL subtipo=CHUTE (roll=0.014)
+[069] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 4 x 3 Clube de Regatas Vasco da Gama
+[069] SUB Clube de Regatas Vasco da Gama: saiu Pedro Guaraná (MA) | entrou Rodrigo Justino (ME) | subs=5/5
+[069] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.567 roll=0.669
+[070] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 4 x 3 Clube de Regatas Vasco da Gama
+[070] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.567 roll=0.427
+[070] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Mauro Minotauro line=5 duel=43.76 corte=-1.55
+[070] FINAL Clube de Regatas Vasco da Gama | Fausto Garcia fam=5 duel=-35.21 on_target=0.756 goal=0.183
+[070] FINAL Fausto Garcia: GOL subtipo=FALTA (roll=0.123)
+[071] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 4 x 4 Clube de Regatas Vasco da Gama
+[071] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.474 roll=0.941
+[072] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 4 x 4 Clube de Regatas Vasco da Gama
+[072] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.474 roll=0.462
+[072] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Teliciano Garcia line=3 duel=17.72 corte=-1.30
+[072] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=5 duel=7.43 on_target=0.758 goal=0.207
+[072] FINAL Hugo Júnior Cruz: GOL subtipo=FALTA (roll=0.121)
+[073] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 4 x 5 Clube de Regatas Vasco da Gama
+[073] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.471 roll=0.911
+[074] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 4 x 5 Clube de Regatas Vasco da Gama
+[074] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.471 roll=0.518
+[075] posse=Rural Atlético Clube | placar Rural Atlético Clube 4 x 5 Clube de Regatas Vasco da Gama
+[075] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.453 roll=0.807
+[076] posse=Rural Atlético Clube | placar Rural Atlético Clube 4 x 5 Clube de Regatas Vasco da Gama
+[076] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.489 roll=0.941
+[076] FINAL Rural Atlético Clube | Maximiano Salomão fam=5 duel=-15.92 on_target=0.790 goal=0.177
+[076] FINAL Maximiano Salomão: fora/alvo perdido (roll=0.838)
+[077] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 4 x 5 Clube de Regatas Vasco da Gama
+[077] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.457 roll=0.413
+[077] JOGADA Clube de Regatas Vasco da Gama | Ronaldo Mendonça x Abdullah Pretão line=5 duel=37.43 corte=-2.05
+[077] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=5 duel=2.91 on_target=0.731 goal=0.197
+[077] FINAL Hugo Júnior Cruz: fora/alvo perdido (roll=0.950)
+[078] posse=Rural Atlético Clube | placar Rural Atlético Clube 4 x 5 Clube de Regatas Vasco da Gama
+[078] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.489 roll=0.402
+[078] JOGADA Rural Atlético Clube | Sócrates Espinho x Álvaro Teixeira line=4 duel=-1.31 corte=-1.05
+[078] JOGADA falhou: Álvaro Teixeira cortou
+[079] posse=Rural Atlético Clube | placar Rural Atlético Clube 4 x 5 Clube de Regatas Vasco da Gama
+[079] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.489 roll=0.774
+[080] posse=Rural Atlético Clube | placar Rural Atlético Clube 4 x 5 Clube de Regatas Vasco da Gama
+[080] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.489 roll=0.379
+[080] JOGADA Rural Atlético Clube | Julielson Mendonça x Fausto Garcia line=3 duel=4.69 corte=-1.05
+[080] FINAL Rural Atlético Clube | Maximiano Salomão fam=3 duel=-16.95 on_target=0.839 goal=0.234
+[080] FINAL Maximiano Salomão: no alvo sem gol (roll=0.386)
+[081] posse=Rural Atlético Clube | placar Rural Atlético Clube 4 x 5 Clube de Regatas Vasco da Gama
+[081] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.489 roll=0.338
+[081] JOGADA Rural Atlético Clube | Maximiano Salomão x Adriano Pacheco line=4 duel=13.55 corte=-1.05
+[081] FINAL Rural Atlético Clube | Teliciano Garcia fam=3 duel=-22.46 on_target=0.844 goal=0.233
+[081] FINAL Teliciano Garcia: GOL subtipo=CHUTE (roll=0.216)
+[082] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 5 x 5 Clube de Regatas Vasco da Gama
+[082] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.488 roll=0.984
+[083] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 5 x 5 Clube de Regatas Vasco da Gama
+[083] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.488 roll=0.063
+[083] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Maximiano Salomão line=4 duel=17.20 corte=-1.30
+[083] FINAL Clube de Regatas Vasco da Gama | Fausto Garcia fam=5 duel=11.35 on_target=0.774 goal=0.211
+[083] FINAL Fausto Garcia: no alvo sem gol (roll=0.314)
+[084] posse=Rural Atlético Clube | placar Rural Atlético Clube 5 x 5 Clube de Regatas Vasco da Gama
+[084] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.412 roll=0.745
+[085] posse=Rural Atlético Clube | placar Rural Atlético Clube 5 x 5 Clube de Regatas Vasco da Gama
+[085] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.538 roll=0.791
+[086] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 5 x 5 Clube de Regatas Vasco da Gama
+[086] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.580 roll=0.811
+[087] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 5 x 5 Clube de Regatas Vasco da Gama
+[087] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.580 roll=0.489
+[087] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Marciano Capetinha line=4 duel=16.50 corte=-1.30
+[087] FINAL Clube de Regatas Vasco da Gama | Rodrigo Justino fam=5 duel=15.39 on_target=0.883 goal=0.212
+[087] FINAL Rodrigo Justino: no alvo sem gol (roll=0.818)
+[088] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 5 x 5 Clube de Regatas Vasco da Gama
+[088] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.580 roll=0.514
+[088] JOGADA Clube de Regatas Vasco da Gama | Rodrigo Justino x Mauro Minotauro line=4 duel=26.96 corte=-1.30
+[088] FINAL Clube de Regatas Vasco da Gama | Pedro Silva fam=5 duel=-41.03 on_target=0.887 goal=0.182
+[088] FINAL Pedro Silva: no alvo sem gol (roll=0.425)
+[089] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 5 x 5 Clube de Regatas Vasco da Gama
+[089] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.580 roll=0.190
+[089] JOGADA Clube de Regatas Vasco da Gama | Júlio Martins x Celeritano Mendes line=3 duel=-15.91 corte=-1.30
+[089] JOGADA falhou: Celeritano Mendes cortou
+[090] posse=Rural Atlético Clube | placar Rural Atlético Clube 5 x 5 Clube de Regatas Vasco da Gama
+[090] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.538 roll=0.396
+[090] JOGADA Rural Atlético Clube | Marciano Capetinha x Suspiro Menezes line=3 duel=-11.46 corte=-1.05
+[090] JOGADA falhou: Suspiro Menezes cortou
+[091] posse=Rural Atlético Clube | placar Rural Atlético Clube 5 x 5 Clube de Regatas Vasco da Gama
+[091] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.538 roll=0.645
+[092] posse=Rural Atlético Clube | placar Rural Atlético Clube 5 x 5 Clube de Regatas Vasco da Gama
+[092] BUILD Rural Atlético Clube vs Clube de Regatas Vasco da Gama prob=0.538 roll=0.967
+[093] posse=Clube de Regatas Vasco da Gama | placar Rural Atlético Clube 5 x 5 Clube de Regatas Vasco da Gama
+[093] BUILD Clube de Regatas Vasco da Gama vs Rural Atlético Clube prob=0.580 roll=0.267
+[093] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Celeritano Mendes line=3 duel=12.59 corte=-1.30
+[093] FINAL Clube de Regatas Vasco da Gama | Rodrigo Justino fam=5 duel=-39.87 on_target=0.878 goal=0.180
+[093] FINAL Rodrigo Justino: no alvo sem gol (roll=0.949)

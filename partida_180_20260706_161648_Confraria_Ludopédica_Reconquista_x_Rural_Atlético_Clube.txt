@@ -1,0 +1,335 @@
+Partida #180
+Data: 1912-01-16
+Mandante: Confraria Ludopédica Reconquista
+Visitante: Rural Atlético Clube
+Placar: 1 x 1
+Seed: -
+Estádio: Estádio Ouriques
+Clima: Ensolarado
+Placar tempo normal: 1 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Confraria Ludopédica Reconquista x Rural Atlético Clube | estádio=Estádio Ouriques | clima=Ensolarado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Rural Atlético Clube
+[001] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.377 roll=0.717
+[001] FINAL Confraria Ludopédica Reconquista | Duarte Pacheco fam=5 duel=-11.11 on_target=0.513 goal=0.133
+[001] FINAL Duarte Pacheco: fora/alvo perdido (roll=0.891)
+[002] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Rural Atlético Clube
+[002] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.377 roll=0.112
+[002] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Teliciano Garcia line=3 duel=-4.56 corte=-1.70
+[002] JOGADA falhou: Teliciano Garcia cortou
+[003] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 0 Rural Atlético Clube
+[003] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.303 roll=0.497
+[004] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Rural Atlético Clube
+[004] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.377 roll=0.818
+[005] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 0 Rural Atlético Clube
+[005] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.303 roll=0.673
+[006] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Rural Atlético Clube
+[006] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.377 roll=0.726
+[007] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 0 Rural Atlético Clube
+[007] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.303 roll=0.674
+[008] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Rural Atlético Clube
+[008] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.377 roll=0.676
+[009] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Rural Atlético Clube
+[009] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.377 roll=0.766
+[010] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 0 Rural Atlético Clube
+[010] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.303 roll=0.169
+[010] JOGADA Rural Atlético Clube | Will Anthonio Zeppeli x Paulo Leleco line=4 duel=67.10 corte=-1.11
+[010] FINAL Rural Atlético Clube | Piragibe Haghissé fam=3 duel=-3.15 on_target=0.546 goal=0.168
+[010] FINAL Piragibe Haghissé: GOL subtipo=CHUTE (roll=0.043)
+[011] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[011] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.479 roll=0.735
+[012] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[012] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.479 roll=0.764
+[013] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[013] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.479 roll=0.569
+[014] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[014] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.479 roll=0.062
+[014] JOGADA Confraria Ludopédica Reconquista | Based Viriato x Teliciano Garcia line=3 duel=-16.31 corte=-1.70
+[014] JOGADA falhou: Teliciano Garcia cortou
+[015] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[015] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.327 roll=0.807
+[016] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[016] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.479 roll=0.089
+[016] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Geroldo Carlos line=4 duel=9.08 corte=-1.70
+[016] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Celeritano Mendes line=4 duel=-15.48 corte=-1.70
+[016] JOGADA falhou: Celeritano Mendes cortou
+[017] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[017] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.479 roll=0.553
+[018] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[018] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.479 roll=0.132
+[018] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Mauro Minotauro line=3 duel=1.25 corte=-1.70
+[018] FINAL Confraria Ludopédica Reconquista | Martinho Dume fam=5 duel=-19.36 on_target=0.556 goal=0.140
+[018] FINAL Martinho Dume: fora/alvo perdido (roll=0.959)
+[019] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[019] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.479 roll=0.995
+[020] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[020] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.479 roll=0.373
+[020] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Celeritano Mendes line=3 duel=-0.59 corte=-1.70
+[020] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Robert E. O. Speedwagon line=4 duel=-3.38 corte=-1.70
+[021] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[021] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.617
+[022] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[022] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.352 roll=0.538
+[022] FINAL Rural Atlético Clube | Piragibe Haghissé fam=5 duel=-71.07 on_target=0.581 goal=0.109
+[022] FINAL Piragibe Haghissé: no alvo sem gol (roll=0.160)
+[023] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[023] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.300
+[023] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Teliciano Garcia line=2 duel=8.08 corte=-1.70
+[023] JOGADA Confraria Ludopédica Reconquista | São Sebastião x Celeritano Mendes line=3 duel=-24.86 corte=-1.70
+[023] JOGADA falhou: Celeritano Mendes cortou
+[024] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[024] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.490
+[024] JOGADA Confraria Ludopédica Reconquista | Narcelinho x Will Anthonio Zeppeli line=2 duel=31.53 corte=-1.70
+[024] FINAL Confraria Ludopédica Reconquista | Robert Sensacional fam=5 duel=11.19 on_target=0.588 goal=0.159
+[024] FINAL Robert Sensacional: no alvo sem gol (roll=0.307)
+[025] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[025] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.352 roll=0.802
+[026] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[026] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.368
+[026] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Mauro Minotauro line=3 duel=-2.72 corte=-1.70
+[026] JOGADA falhou: Mauro Minotauro cortou
+[027] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[027] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.336
+[027] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Robert E. O. Speedwagon line=3 duel=41.30 corte=-1.70
+[027] JOGADA Confraria Ludopédica Reconquista | Based Viriato x Érico Lorentino line=4 duel=-19.98 corte=-1.70
+[027] JOGADA falhou: Érico Lorentino cortou
+[028] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[028] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.129
+[028] JOGADA Confraria Ludopédica Reconquista | Martinho Dume x Benjamin Saraiva line=4 duel=-59.53 corte=-1.70
+[028] JOGADA falhou: Benjamin Saraiva cortou
+[029] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[029] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.521
+[030] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[030] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.352 roll=0.557
+[031] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[031] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.375
+[031] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Benjamin Saraiva line=4 duel=1.36 corte=-1.70
+[031] JOGADA Confraria Ludopédica Reconquista | Martinho Dume x Érico Lorentino line=5 duel=62.21 corte=-1.95
+[031] FINAL Confraria Ludopédica Reconquista | Based Viriato fam=5 duel=-3.27 on_target=0.590 goal=0.153
+[031] FINAL Based Viriato: fora/alvo perdido (roll=0.855)
+[032] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[032] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.352 roll=0.792
+[033] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[033] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.717
+[034] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[034] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.352 roll=0.733
+[035] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[035] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.352 roll=0.876
+[036] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[036] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.352 roll=0.463
+[037] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[037] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.352 roll=0.323
+[037] JOGADA Rural Atlético Clube | Teliciano Garcia x Based Viriato line=3 duel=46.01 corte=-1.30
+[037] FINAL Rural Atlético Clube | Piragibe Haghissé fam=1 duel=-9.46 on_target=0.684 goal=0.237
+[037] FINAL Piragibe Haghissé: no alvo sem gol (roll=0.914)
+[038] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[038] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.672
+[039] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[039] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.352 roll=0.582
+[040] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[040] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.736
+[041] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[041] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.496
+[041] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Piragibe Haghissé line=4 duel=37.31 corte=-1.70
+[041] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Robert E. O. Speedwagon line=5 duel=108.95 corte=-2.45
+[041] FINAL Confraria Ludopédica Reconquista | Duarte Pacheco fam=5 duel=-6.85 on_target=0.585 goal=0.150
+[041] FINAL Duarte Pacheco: fora/alvo perdido (roll=0.799)
+[042] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[042] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.015
+[042] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Teliciano Garcia line=2 duel=-5.75 corte=-1.70
+[042] JOGADA falhou: Teliciano Garcia cortou
+[043] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[043] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.811
+[044] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[044] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.074
+[044] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Celeritano Mendes line=4 duel=-0.20 corte=-1.70
+[044] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Teliciano Garcia line=5 duel=5.95 corte=-2.45
+[044] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Benjamin Saraiva line=5 duel=82.58 corte=-2.45
+[044] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=5 duel=0.17 on_target=0.587 goal=0.154
+[044] FINAL Segofredo Araújo: no alvo sem gol (roll=0.643)
+[045] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[045] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.515 roll=0.451
+[045] JOGADA Confraria Ludopédica Reconquista | Based Viriato x Will Anthonio Zeppeli line=3 duel=26.74 corte=-1.70
+[045] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Celeritano Mendes line=4 duel=-15.90 corte=-1.70
+[046] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[046] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.479 roll=0.616
+[047] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[047] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.327 roll=0.260
+[047] JOGADA Rural Atlético Clube | Érico Lorentino x Robert Sensacional line=5 duel=39.00 corte=-1.55
+[047] FINAL Rural Atlético Clube | Érico Lorentino fam=3 duel=-12.01 on_target=0.583 goal=0.172
+[047] FINAL Érico Lorentino: no alvo sem gol (roll=0.871)
+[048] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[048] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.327 roll=0.847
+[049] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[049] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.479 roll=0.305
+[049] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Piragibe Haghissé line=4 duel=44.66 corte=-1.70
+[049] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Robert E. O. Speedwagon line=4 duel=-7.98 corte=-1.70
+[050] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[050] SUB Rural Atlético Clube: saiu Will Anthonio Zeppeli (MA) | entrou Abdullah Pretão (SA) | subs=1/5
+[050] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.479 roll=0.460
+[050] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Celeritano Mendes line=3 duel=-13.65 corte=-1.70
+[050] JOGADA falhou: Celeritano Mendes cortou
+[051] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[051] SUB Rural Atlético Clube: saiu Piragibe Haghissé (CA) | entrou Jebadias de Assunção (CA) | subs=2/5
+[051] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.324 roll=0.710
+[052] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[052] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.324 roll=0.815
+[053] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[053] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.480 roll=0.224
+[053] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Abdullah Pretão line=4 duel=29.35 corte=-1.70
+[053] JOGADA Confraria Ludopédica Reconquista | Based Viriato x Celeritano Mendes line=4 duel=-20.47 corte=-1.70
+[054] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[054] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.480 roll=0.250
+[054] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Robert E. O. Speedwagon line=3 duel=-10.10 corte=-1.70
+[054] FINAL Confraria Ludopédica Reconquista | Duarte Pacheco fam=5 duel=-5.59 on_target=0.556 goal=0.146
+[054] FINAL Duarte Pacheco: no alvo sem gol (roll=0.520)
+[055] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[055] SUB Confraria Ludopédica Reconquista: saiu Martinho Dume (MC) | entrou Lécio Carrico (MC) | subs=1/5
+[055] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.324 roll=0.949
+[056] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[056] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.517 roll=0.326
+[056] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Jebadias de Assunção line=3 duel=17.03 corte=-1.70
+[056] JOGADA Confraria Ludopédica Reconquista | Hermenegildo Strauss x Robert E. O. Speedwagon line=5 duel=68.80 corte=-1.95
+[056] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Mauro Minotauro line=5 duel=73.29 corte=-2.45
+[056] FINAL Confraria Ludopédica Reconquista | Robert Sensacional fam=5 duel=15.36 on_target=0.588 goal=0.160
+[056] FINAL Robert Sensacional: no alvo sem gol (roll=0.508)
+[057] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[057] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.517 roll=0.625
+[058] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[058] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.348 roll=0.845
+[058] FINAL Rural Atlético Clube | Geroldo Carlos fam=5 duel=-7.19 on_target=0.584 goal=0.138
+[058] FINAL Geroldo Carlos: fora/alvo perdido (roll=0.992)
+[059] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[059] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.517 roll=0.757
+[060] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[060] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.348 roll=0.336
+[060] JOGADA Rural Atlético Clube | Celeritano Mendes x Segofredo Araújo line=4 duel=65.66 corte=-1.30
+[060] FINAL Rural Atlético Clube | Jebadias de Assunção fam=1 duel=26.83 on_target=0.684 goal=0.253
+[060] FINAL Jebadias de Assunção: no alvo sem gol (roll=0.860)
+[061] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[061] SUB Confraria Ludopédica Reconquista: saiu Hermenegildo Strauss (LE) | entrou Tamarindo Souto (LE) | subs=2/5
+[061] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.352 roll=0.686
+[062] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[062] SUB Confraria Ludopédica Reconquista: saiu São Sebastião (ZAG) | entrou Principiano Chamberlain (ZAG) | subs=3/5
+[062] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.353 roll=0.134
+[062] JOGADA Rural Atlético Clube | Robert E. O. Speedwagon x Lécio Carrico line=3 duel=21.99 corte=-1.30
+[062] FINAL Rural Atlético Clube | Mauro Minotauro fam=1 duel=15.93 on_target=0.680 goal=0.246
+[062] FINAL Mauro Minotauro: fora/alvo perdido (roll=0.960)
+[063] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[063] SUB Confraria Ludopédica Reconquista: saiu Narcelinho (ZAG) | entrou Zé Carioca (ZAG) | subs=4/5
+[063] SUB Rural Atlético Clube: saiu Benjamin Saraiva (ZAG) | entrou Sócrates Espinho (ZAG) | subs=3/5
+[063] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.473 roll=0.300
+[063] JOGADA Confraria Ludopédica Reconquista | Lécio Carrico x Mauro Minotauro line=3 duel=23.57 corte=-1.70
+[063] FINAL Confraria Ludopédica Reconquista | Robert Sensacional fam=5 duel=13.95 on_target=0.589 goal=0.161
+[063] FINAL Robert Sensacional: no alvo sem gol (roll=0.366)
+[064] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[064] SUB Confraria Ludopédica Reconquista: saiu Based Viriato (CA) | entrou Dante Alígero (CA) | subs=5/5
+[064] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.455 roll=0.511
+[065] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[065] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.354 roll=0.193
+[065] JOGADA Rural Atlético Clube | Sócrates Espinho x Duarte Pacheco line=5 duel=43.56 corte=-1.55
+[065] FINAL Rural Atlético Clube | Abdullah Pretão fam=1 duel=12.02 on_target=0.682 goal=0.245
+[065] FINAL Abdullah Pretão: fora/alvo perdido (roll=0.869)
+[066] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[066] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.354 roll=0.248
+[066] JOGADA Rural Atlético Clube | Geroldo Carlos x Zé Carioca line=5 duel=-33.31 corte=-1.55
+[066] JOGADA falhou: Zé Carioca cortou
+[067] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[067] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.354 roll=0.287
+[067] JOGADA Rural Atlético Clube | Celeritano Mendes x Lécio Carrico line=4 duel=10.63 corte=-1.30
+[067] FINAL Rural Atlético Clube | Jebadias de Assunção fam=1 duel=21.92 on_target=0.684 goal=0.250
+[067] FINAL Jebadias de Assunção: fora/alvo perdido (roll=0.745)
+[068] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[068] SUB Rural Atlético Clube: saiu Geroldo Carlos (MD) | entrou Julielson Mendonça (MD) | subs=4/5
+[068] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.350 roll=0.450
+[069] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[069] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.457 roll=0.210
+[069] JOGADA Confraria Ludopédica Reconquista | Tamarindo Souto x Marciano Capetinha line=2 duel=67.34 corte=-1.70
+[069] FINAL Confraria Ludopédica Reconquista | Dante Alígero fam=5 duel=-5.34 on_target=0.593 goal=0.155
+[069] FINAL Dante Alígero: fora/alvo perdido (roll=0.910)
+[070] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[070] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.457 roll=0.686
+[071] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[071] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.347 roll=0.809
+[072] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[072] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.457 roll=0.922
+[073] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[073] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.457 roll=0.602
+[074] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[074] SUB Rural Atlético Clube: saiu Mauro Minotauro (MC) | entrou João Pereba (VOL) | subs=5/5
+[074] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.459 roll=0.886
+[075] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[075] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.345 roll=0.478
+[076] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[076] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.495 roll=0.813
+[077] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[077] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.334 roll=0.793
+[078] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[078] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.334 roll=0.324
+[078] JOGADA Rural Atlético Clube | Sócrates Espinho x Cavaleiro Asturiano line=4 duel=9.97 corte=-1.30
+[078] FINAL Rural Atlético Clube | Jebadias de Assunção fam=1 duel=6.04 on_target=0.656 goal=0.233
+[078] FINAL Jebadias de Assunção: no alvo sem gol (roll=0.352)
+[079] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[079] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.334 roll=0.166
+[079] JOGADA Rural Atlético Clube | Julielson Mendonça x Robert Sensacional line=5 duel=35.23 corte=-1.55
+[079] FINAL Rural Atlético Clube | Jebadias de Assunção fam=3 duel=13.75 on_target=0.595 goal=0.183
+[079] FINAL Jebadias de Assunção: fora/alvo perdido (roll=0.735)
+[080] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[080] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.495 roll=0.537
+[081] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[081] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.495 roll=0.663
+[082] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[082] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.495 roll=0.229
+[082] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Érico Lorentino line=4 duel=-15.38 corte=-1.70
+[083] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[083] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.334 roll=0.705
+[084] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[084] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.495 roll=0.000
+[084] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Sócrates Espinho line=4 duel=-94.50 corte=-1.70
+[084] JOGADA falhou: Sócrates Espinho cortou
+[085] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[085] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.522 roll=0.092
+[085] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Érico Lorentino line=2 duel=60.18 corte=-1.70
+[085] JOGADA Confraria Ludopédica Reconquista | Principiano Chamberlain x Jebadias de Assunção line=4 duel=43.56 corte=-1.70
+[085] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Celeritano Mendes line=5 duel=-6.79 corte=-2.45
+[085] JOGADA falhou: Celeritano Mendes cortou
+[086] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[086] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.522 roll=0.722
+[087] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 1 Rural Atlético Clube
+[087] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.522 roll=0.489
+[087] JOGADA Confraria Ludopédica Reconquista | Zé Carioca x Robert E. O. Speedwagon line=2 duel=55.64 corte=-1.70
+[087] FINAL Confraria Ludopédica Reconquista | Robert Sensacional fam=5 duel=-40.32 on_target=0.667 goal=0.143
+[087] FINAL Robert Sensacional: GOL subtipo=FALTA (roll=0.112)
+[088] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 1 Rural Atlético Clube
+[088] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.446 roll=0.283
+[088] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Marciano Capetinha line=3 duel=32.66 corte=-1.70
+[088] JOGADA Confraria Ludopédica Reconquista | Lécio Carrico x Marciano Capetinha line=4 duel=-2.81 corte=-1.70
+[088] JOGADA falhou: Marciano Capetinha cortou
+[089] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 1 Rural Atlético Clube
+[089] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.446 roll=0.602
+[090] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 1 Rural Atlético Clube
+[090] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.446 roll=0.827
+[091] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 1 x 1 Rural Atlético Clube
+[091] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.378 roll=0.470
+[091] FINAL Rural Atlético Clube | Celeritano Mendes fam=5 duel=-22.69 on_target=0.627 goal=0.131
+[091] FINAL Celeritano Mendes: fora/alvo perdido (roll=0.800)
+[092] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 1 x 1 Rural Atlético Clube
+[092] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.378 roll=0.792
+[093] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 1 Rural Atlético Clube
+[093] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.446 roll=0.311
+[093] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x João Pereba line=3 duel=-23.98 corte=-1.70
+[094] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 1 x 1 Rural Atlético Clube
+[094] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.378 roll=0.910
+[095] posse=Rural Atlético Clube | placar Confraria Ludopédica Reconquista 1 x 1 Rural Atlético Clube
+[095] BUILD Rural Atlético Clube vs Confraria Ludopédica Reconquista prob=0.378 roll=0.778
+[096] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 1 Rural Atlético Clube
+[096] BUILD Confraria Ludopédica Reconquista vs Rural Atlético Clube prob=0.446 roll=0.133
+[096] JOGADA Confraria Ludopédica Reconquista | Principiano Chamberlain x Marciano Capetinha line=4 duel=4.33 corte=-1.70
+[096] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Érico Lorentino line=5 duel=43.32 corte=-2.45
+[096] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Teliciano Garcia line=5 duel=53.21 corte=-2.45
+[096] FINAL Confraria Ludopédica Reconquista | Duarte Pacheco fam=5 duel=-7.13 on_target=0.635 goal=0.152
+[096] FINAL Duarte Pacheco: no alvo sem gol (roll=0.201)

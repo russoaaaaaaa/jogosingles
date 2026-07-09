@@ -1,0 +1,327 @@
+Partida #152
+Data: 1912-01-14
+Mandante: Tabajara Futebol Clube
+Visitante: Brazil-London Railway Sport Club
+Placar: 0 x 1
+Seed: -
+Estádio: Tabajarão
+Clima: Nublado
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Tabajara Futebol Clube x Brazil-London Railway Sport Club | estádio=Tabajarão | clima=Nublado | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[001] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.343 roll=0.497
+[002] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[002] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.309 roll=0.277
+[002] JOGADA Brazil-London Railway Sport Club | Carter Anderson x Ruinvaldo line=4 duel=-10.29 corte=-1.10
+[002] JOGADA falhou: Ruinvaldo cortou
+[003] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[003] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.309 roll=0.369
+[004] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[004] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.309 roll=0.431
+[005] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[005] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.309 roll=0.049
+[005] JOGADA Brazil-London Railway Sport Club | Carter Anderson x Udo Salomão line=3 duel=38.17 corte=-1.10
+[005] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Tom Cruise line=4 duel=-39.85 corte=-1.10
+[005] JOGADA falhou: Tom Cruise cortou
+[006] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[006] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.343 roll=0.381
+[007] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[007] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.343 roll=0.087
+[007] JOGADA Tabajara Futebol Clube | Abaeté Hoffmann x Dylan Edwards line=3 duel=-20.47 corte=-1.70
+[007] JOGADA falhou: Dylan Edwards cortou
+[008] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[008] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.309 roll=0.350
+[009] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[009] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.309 roll=0.647
+[010] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[010] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.309 roll=0.869
+[011] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[011] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.371 roll=0.189
+[011] JOGADA Tabajara Futebol Clube | Abaeté Hoffmann x Corey Carter line=3 duel=-27.38 corte=-1.70
+[011] JOGADA falhou: Corey Carter cortou
+[012] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[012] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.371 roll=0.070
+[012] JOGADA Tabajara Futebol Clube | Délio Proença x Connor Thomas line=4 duel=-6.68 corte=-1.70
+[012] JOGADA falhou: Connor Thomas cortou
+[013] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[013] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.334 roll=0.220
+[013] JOGADA Brazil-London Railway Sport Club | Joel Lees x Samambaia line=2 duel=5.54 corte=-1.10
+[013] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Nivaldo Calado line=3 duel=32.80 corte=-1.10
+[013] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Ruinzinho Gaúcho line=4 duel=-35.96 corte=-1.10
+[013] JOGADA falhou: Ruinzinho Gaúcho cortou
+[014] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[014] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.371 roll=0.934
+[015] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[015] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.334 roll=0.476
+[016] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[016] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.371 roll=0.944
+[017] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[017] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.334 roll=0.581
+[018] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[018] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.371 roll=0.353
+[018] JOGADA Tabajara Futebol Clube | Délio Proença x WIllson Bridge line=4 duel=29.79 corte=-1.70
+[018] FINAL Tabajara Futebol Clube | Nivaldo Calado fam=5 duel=-6.94 on_target=0.629 goal=0.167
+[018] FINAL Nivaldo Calado: fora/alvo perdido (roll=0.676)
+[019] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[019] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.334 roll=0.671
+[020] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[020] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.334 roll=0.520
+[021] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[021] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.399 roll=0.435
+[022] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[022] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.359 roll=0.963
+[023] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[023] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.399 roll=0.574
+[024] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[024] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.399 roll=0.013
+[024] JOGADA Tabajara Futebol Clube | Udo Salomão x Connor Thomas line=5 duel=-3.75 corte=-1.95
+[024] JOGADA falhou: Connor Thomas cortou
+[025] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[025] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.359 roll=0.863
+[026] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[026] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.359 roll=0.240
+[026] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Udo Salomão line=4 duel=6.21 corte=-1.10
+[026] JOGADA Brazil-London Railway Sport Club | Corey Carter x Tom Cruise line=5 duel=35.59 corte=-1.35
+[026] FINAL Brazil-London Railway Sport Club | Hugo Filgueira fam=1 duel=-1.36 on_target=0.764 goal=0.265
+[026] FINAL Hugo Filgueira: fora/alvo perdido (roll=0.987)
+[027] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[027] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.399 roll=0.381
+[027] JOGADA Tabajara Futebol Clube | Heldo Silveira x Carter Anderson line=5 duel=11.09 corte=-1.95
+[027] FINAL Tabajara Futebol Clube | Ruinzinho Gaúcho fam=5 duel=-22.14 on_target=0.661 goal=0.165
+[027] FINAL Ruinzinho Gaúcho: no alvo sem gol (roll=0.862)
+[028] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[028] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.359 roll=0.036
+[028] JOGADA Brazil-London Railway Sport Club | WIllson Bridge x Ruinvaldo line=3 duel=114.10 corte=-1.10
+[028] JOGADA Brazil-London Railway Sport Club | WIllson Bridge x Délio Proença line=4 duel=38.11 corte=-1.10
+[028] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Gisvaldo Teles line=4 duel=0.88 corte=-1.10
+[028] FINAL Brazil-London Railway Sport Club | Carter Anderson fam=1 duel=8.93 on_target=0.756 goal=0.265
+[028] FINAL Carter Anderson: fora/alvo perdido (roll=0.810)
+[029] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[029] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.399 roll=0.229
+[029] JOGADA Tabajara Futebol Clube | Délio Proença x Elivelton Camaçari line=4 duel=5.05 corte=-1.70
+[029] FINAL Tabajara Futebol Clube | Nivaldo Calado fam=5 duel=-6.91 on_target=0.662 goal=0.173
+[029] FINAL Nivaldo Calado: fora/alvo perdido (roll=0.985)
+[030] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[030] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.399 roll=0.777
+[031] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[031] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.399 roll=0.736
+[032] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[032] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.360 roll=0.218
+[032] JOGADA Brazil-London Railway Sport Club | Elivelton Camaçari x Tom Cruise line=3 duel=-8.53 corte=-1.10
+[032] JOGADA falhou: Tom Cruise cortou
+[033] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[033] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.360 roll=0.306
+[033] JOGADA Brazil-London Railway Sport Club | Joel Lees x Délio Proença line=2 duel=65.46 corte=-1.10
+[033] JOGADA Brazil-London Railway Sport Club | Joel Lees x Ruinzinho Gaúcho line=5 duel=48.81 corte=-1.35
+[033] FINAL Brazil-London Railway Sport Club | WIllson Bridge fam=3 duel=10.74 on_target=0.687 goal=0.207
+[033] FINAL WIllson Bridge: no alvo sem gol (roll=0.642)
+[034] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[034] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.360 roll=0.802
+[035] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[035] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.401 roll=0.654
+[036] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[036] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.360 roll=0.725
+[037] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[037] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.360 roll=0.294
+[037] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Tom Cruise line=2 duel=7.00 corte=-1.10
+[037] FINAL Brazil-London Railway Sport Club | Zachary Griffiths fam=1 duel=-8.59 on_target=0.757 goal=0.258
+[037] FINAL Zachary Griffiths: no alvo sem gol (roll=0.446)
+[038] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[038] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.360 roll=0.722
+[039] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[039] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.401 roll=0.501
+[040] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[040] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.360 roll=0.128
+[040] JOGADA Brazil-London Railway Sport Club | Joel Lees x Udo Salomão line=2 duel=51.46 corte=-1.10
+[040] JOGADA Brazil-London Railway Sport Club | Connor Thomas x Heldo Silveira line=5 duel=27.43 corte=-1.35
+[040] JOGADA Brazil-London Railway Sport Club | Zachary Griffiths x Udo Salomão line=5 duel=15.59 corte=-1.85
+[040] FINAL Brazil-London Railway Sport Club | Zachary Griffiths fam=1 duel=-6.68 on_target=0.757 goal=0.259
+[040] FINAL Zachary Griffiths: no alvo sem gol (roll=0.696)
+[041] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[041] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.360 roll=0.634
+[042] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[042] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.401 roll=0.919
+[043] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[043] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.360 roll=0.129
+[043] JOGADA Brazil-London Railway Sport Club | Carter Anderson x Ruinvaldo line=3 duel=32.14 corte=-1.10
+[043] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Samambaia line=4 duel=17.57 corte=-1.10
+[043] FINAL Brazil-London Railway Sport Club | Carter Anderson fam=1 duel=8.42 on_target=0.756 goal=0.265
+[043] FINAL Carter Anderson: no alvo sem gol (roll=0.556)
+[044] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[044] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.401 roll=0.436
+[045] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[045] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.360 roll=0.509
+[046] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[046] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.373 roll=0.970
+[047] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[047] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.373 roll=0.545
+[048] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[048] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.373 roll=0.218
+[048] JOGADA Tabajara Futebol Clube | Abaeté Hoffmann x Hugo Filgueira line=5 duel=13.47 corte=-1.95
+[048] FINAL Tabajara Futebol Clube | Délio Proença fam=5 duel=-11.85 on_target=0.631 goal=0.166
+[048] FINAL Délio Proença: no alvo sem gol (roll=0.242)
+[049] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[049] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.335 roll=0.364
+[050] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[050] SUB Tabajara Futebol Clube: saiu Abaeté Hoffmann (VOL) | entrou Gedeão Andrade (MC) | subs=1/5
+[050] SUB Brazil-London Railway Sport Club: saiu Zachary Griffiths (SA) | entrou Todd Campbel (CA) | subs=1/5
+[050] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.333 roll=0.839
+[051] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[051] SUB Tabajara Futebol Clube: saiu Ruinvaldo (CA) | entrou Duplex (SA) | subs=2/5
+[051] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.334 roll=0.178
+[051] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Heldo Silveira line=4 duel=-28.23 corte=-1.10
+[051] JOGADA falhou: Heldo Silveira cortou
+[052] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[052] SUB Tabajara Futebol Clube: saiu Samambaia (ZAG) | entrou Kiekeylson (ZAG) | subs=3/5
+[052] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.390 roll=0.003
+[052] JOGADA Tabajara Futebol Clube | Udo Salomão x Connor Thomas line=4 duel=31.37 corte=-1.70
+[052] FINAL Tabajara Futebol Clube | Délio Proença fam=5 duel=-11.59 on_target=0.630 goal=0.166
+[052] FINAL Délio Proença: fora/alvo perdido (roll=0.736)
+[053] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[053] SUB Tabajara Futebol Clube: saiu Délio Proença (PE) | entrou Vladimir Ali (ME) | subs=4/5
+[053] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.334 roll=0.356
+[054] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[054] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.392 roll=0.399
+[055] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[055] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.392 roll=0.407
+[056] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[056] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.422 roll=0.435
+[057] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[057] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.422 roll=0.643
+[058] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[058] SUB Tabajara Futebol Clube: saiu Tom Cruise (LE) | entrou Tupiniquim Ladeira (LE) | subs=5/5
+[058] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.419 roll=0.973
+[059] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[059] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.419 roll=0.791
+[060] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[060] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.423 roll=0.553
+[061] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[061] SUB Brazil-London Railway Sport Club: saiu Elivelton Camaçari (MD) | entrou Boaçava Isidoro (MD) | subs=2/5
+[061] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.366 roll=0.115
+[061] JOGADA Brazil-London Railway Sport Club | Connor Thomas x Vladimir Ali line=2 duel=-28.73 corte=-1.09
+[061] JOGADA falhou: Vladimir Ali cortou
+[062] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[062] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.366 roll=0.040
+[062] JOGADA Brazil-London Railway Sport Club | WIllson Bridge x Ruinzinho Gaúcho line=4 duel=9.21 corte=-1.09
+[062] JOGADA Brazil-London Railway Sport Club | WIllson Bridge x Vladimir Ali line=5 duel=25.89 corte=-1.84
+[062] JOGADA Brazil-London Railway Sport Club | Carter Anderson x Udo Salomão line=5 duel=70.66 corte=-1.84
+[062] FINAL Brazil-London Railway Sport Club | Todd Campbel fam=1 duel=23.03 on_target=0.766 goal=0.277
+[062] FINAL Todd Campbel: no alvo sem gol (roll=0.744)
+[063] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[063] SUB Brazil-London Railway Sport Club: saiu Carter Anderson (MA) | entrou Olivar Ferretti (MA) | subs=3/5
+[063] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.361 roll=0.331
+[063] JOGADA Brazil-London Railway Sport Club | Olivar Ferretti x Gisvaldo Teles line=3 duel=26.67 corte=-1.10
+[063] JOGADA Brazil-London Railway Sport Club | WIllson Bridge x Ruinzinho Gaúcho line=5 duel=10.09 corte=-1.85
+[063] JOGADA Brazil-London Railway Sport Club | WIllson Bridge x Udo Salomão line=5 duel=41.25 corte=-1.85
+[063] FINAL Brazil-London Railway Sport Club | Todd Campbel fam=1 duel=18.33 on_target=0.766 goal=0.275
+[063] FINAL Todd Campbel: no alvo sem gol (roll=0.355)
+[064] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[064] SUB Brazil-London Railway Sport Club: saiu Leonardo Chambers (MC) | entrou Moara Palma (ME) | subs=4/5
+[064] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.425 roll=0.014
+[064] JOGADA Tabajara Futebol Clube | Nivaldo Calado x Moara Palma line=5 duel=5.11 corte=-2.45
+[064] FINAL Tabajara Futebol Clube | Duplex fam=5 duel=30.68 on_target=0.669 goal=0.194
+[064] FINAL Duplex: no alvo sem gol (roll=0.541)
+[065] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[065] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.425 roll=0.447
+[066] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[066] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.359 roll=0.613
+[067] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[067] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.359 roll=0.513
+[068] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[068] SUB Brazil-London Railway Sport Club: saiu Joel Lees (ME) | entrou Camboriú Tahan (PE) | subs=5/5
+[068] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.363 roll=0.096
+[068] JOGADA Brazil-London Railway Sport Club | Connor Thomas x Gisvaldo Teles line=2 duel=-12.62 corte=-1.09
+[069] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[069] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.422 roll=0.479
+[070] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[070] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.363 roll=0.511
+[071] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[071] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.422 roll=0.766
+[072] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[072] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.422 roll=0.252
+[072] JOGADA Tabajara Futebol Clube | Tupiniquim Ladeira x Dylan Edwards line=4 duel=58.64 corte=-1.70
+[072] FINAL Tabajara Futebol Clube | Ruinzinho Gaúcho fam=5 duel=-15.63 on_target=0.663 goal=0.170
+[072] FINAL Ruinzinho Gaúcho: no alvo sem gol (roll=0.363)
+[073] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[073] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.363 roll=0.404
+[074] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[074] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.422 roll=0.710
+[075] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[075] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.422 roll=0.988
+[076] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[076] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.435 roll=0.556
+[077] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[077] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.374 roll=0.607
+[078] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[078] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.374 roll=0.299
+[078] JOGADA Brazil-London Railway Sport Club | Moara Palma x Heldo Silveira line=3 duel=21.79 corte=-1.05
+[078] JOGADA Brazil-London Railway Sport Club | Moara Palma x Tupiniquim Ladeira line=4 duel=5.10 corte=-1.05
+[078] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Kiekeylson line=4 duel=-9.57 corte=-1.05
+[079] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[079] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.374 roll=0.772
+[080] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 0 Brazil-London Railway Sport Club
+[080] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.374 roll=0.312
+[080] JOGADA Brazil-London Railway Sport Club | Connor Thomas x Duplex line=3 duel=32.94 corte=-1.05
+[080] JOGADA Brazil-London Railway Sport Club | Camboriú Tahan x Heldo Silveira line=4 duel=30.38 corte=-1.05
+[080] JOGADA Brazil-London Railway Sport Club | Boaçava Isidoro x Kiekeylson line=4 duel=14.15 corte=-1.05
+[080] FINAL Brazil-London Railway Sport Club | WIllson Bridge fam=1 duel=11.19 on_target=0.773 goal=0.270
+[080] FINAL WIllson Bridge: GOL subtipo=CHUTE (roll=0.032)
+[081] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[081] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.502 roll=0.225
+[081] JOGADA Tabajara Futebol Clube | Ruinzinho Gaúcho x WIllson Bridge line=4 duel=10.83 corte=-1.70
+[081] FINAL Tabajara Futebol Clube | Nivaldo Calado fam=5 duel=-3.47 on_target=0.711 goal=0.187
+[081] FINAL Nivaldo Calado: no alvo sem gol (roll=0.461)
+[082] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[082] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.502 roll=0.898
+[083] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[083] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.502 roll=0.264
+[083] JOGADA Tabajara Futebol Clube | Udo Salomão x Hugo Filgueira line=3 duel=0.49 corte=-1.70
+[083] FINAL Tabajara Futebol Clube | Duplex fam=5 duel=15.79 on_target=0.716 goal=0.204
+[083] FINAL Duplex: fora/alvo perdido (roll=0.994)
+[084] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[084] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.349 roll=0.888
+[085] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[085] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.580 roll=0.923
+[086] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[086] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.580 roll=0.155
+[086] JOGADA Tabajara Futebol Clube | Gisvaldo Teles x Olivar Ferretti line=4 duel=-9.66 corte=-1.70
+[086] JOGADA falhou: Olivar Ferretti cortou
+[087] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[087] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.580 roll=0.763
+[088] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[088] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.349 roll=0.065
+[088] JOGADA Brazil-London Railway Sport Club | Todd Campbel x Nivaldo Calado line=2 duel=16.78 corte=-1.30
+[088] JOGADA Brazil-London Railway Sport Club | Camboriú Tahan x Gisvaldo Teles line=3 duel=23.51 corte=-1.30
+[088] JOGADA Brazil-London Railway Sport Club | Boaçava Isidoro x Nivaldo Calado line=4 duel=39.31 corte=-1.30
+[088] FINAL Brazil-London Railway Sport Club | Todd Campbel fam=1 duel=3.71 on_target=0.738 goal=0.266
+[088] FINAL Todd Campbel: no alvo sem gol (roll=0.991)
+[089] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[089] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.349 roll=0.126
+[089] JOGADA Brazil-London Railway Sport Club | Camboriú Tahan x Gisvaldo Teles line=4 duel=-61.93 corte=-1.30
+[089] JOGADA falhou: Gisvaldo Teles cortou
+[090] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[090] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.580 roll=0.782
+[091] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[091] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.580 roll=0.764
+[092] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[092] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.349 roll=0.006
+[092] JOGADA Brazil-London Railway Sport Club | Olivar Ferretti x Vladimir Ali line=3 duel=21.89 corte=-1.30
+[092] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Kiekeylson line=4 duel=4.76 corte=-1.30
+[092] JOGADA Brazil-London Railway Sport Club | Boaçava Isidoro x Udo Salomão line=5 duel=96.09 corte=-1.55
+[092] FINAL Brazil-London Railway Sport Club | WIllson Bridge fam=1 duel=8.87 on_target=0.731 goal=0.265
+[092] FINAL WIllson Bridge: fora/alvo perdido (roll=0.765)
+[093] posse=Brazil-London Railway Sport Club | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[093] BUILD Brazil-London Railway Sport Club vs Tabajara Futebol Clube prob=0.349 roll=0.139
+[093] JOGADA Brazil-London Railway Sport Club | Camboriú Tahan x Duplex line=3 duel=36.48 corte=-1.30
+[093] JOGADA Brazil-London Railway Sport Club | Todd Campbel x Vladimir Ali line=4 duel=-6.75 corte=-1.30
+[093] JOGADA falhou: Vladimir Ali cortou
+[094] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[094] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.580 roll=0.536
+[094] JOGADA Tabajara Futebol Clube | Kiekeylson x Olivar Ferretti line=4 duel=-25.80 corte=-1.70
+[095] posse=Tabajara Futebol Clube | placar Tabajara Futebol Clube 0 x 1 Brazil-London Railway Sport Club
+[095] BUILD Tabajara Futebol Clube vs Brazil-London Railway Sport Club prob=0.580 roll=0.860

@@ -1,0 +1,305 @@
+Partida #226
+Data: 1912-01-22
+Mandante: Mavilis Football Club
+Visitante: Paladino Foot-Ball Club
+Placar: 1 x 1
+Seed: -
+Estádio: Arena Magé
+Clima: Chuva leve
+Placar tempo normal: 1 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Mavilis Football Club x Paladino Foot-Ball Club | estádio=Arena Magé | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[001] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.335 roll=0.546
+[002] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[002] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.319 roll=0.420
+[003] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[003] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.335 roll=0.271
+[003] JOGADA Paladino Foot-Ball Club | Perseu Kalitsas x Murilo Lopes line=3 duel=8.35 corte=-1.13
+[003] JOGADA Paladino Foot-Ball Club | Perseu Kalitsas x Deusdedito Varella line=4 duel=-31.44 corte=-1.13
+[003] JOGADA falhou: Deusdedito Varella cortou
+[004] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[004] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.319 roll=0.389
+[005] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[005] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.335 roll=0.629
+[006] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[006] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.335 roll=0.320
+[006] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Adonai Barroso line=4 duel=2.93 corte=-1.13
+[006] JOGADA Paladino Foot-Ball Club | Perseu Kalitsas x Deusdedito Varella line=5 duel=39.65 corte=-1.88
+[006] JOGADA Paladino Foot-Ball Club | Yoshida, o Samurai Errante x Tapuruquara Páscoa line=5 duel=71.94 corte=-1.38
+[006] FINAL Paladino Foot-Ball Club | Lisandro Paladino fam=1 duel=7.48 on_target=0.611 goal=0.227
+[006] FINAL Lisandro Paladino: no alvo sem gol (roll=0.834)
+[007] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[007] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.335 roll=0.833
+[008] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[008] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.335 roll=0.441
+[009] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[009] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.319 roll=0.758
+[010] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[010] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.319 roll=0.605
+[011] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[011] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.362 roll=0.186
+[011] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Ruperto Gallo line=3 duel=25.74 corte=-1.13
+[011] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Isaí Zago line=4 duel=17.29 corte=-1.13
+[011] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Iguaçu Cristo line=5 duel=79.22 corte=-1.88
+[011] FINAL Paladino Foot-Ball Club | Perseu Kalitsas fam=1 duel=10.27 on_target=0.654 goal=0.240
+[011] FINAL Perseu Kalitsas: fora/alvo perdido (roll=0.990)
+[012] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[012] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.345 roll=0.308
+[012] JOGADA Mavilis Football Club | Amam Calmon x Escalibur da Califórnia line=4 duel=-22.02 corte=-1.70
+[013] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[013] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.345 roll=0.568
+[014] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[014] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.362 roll=0.419
+[015] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[015] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.362 roll=0.413
+[016] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[016] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.345 roll=0.662
+[017] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[017] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.362 roll=0.856
+[018] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[018] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.345 roll=0.282
+[018] JOGADA Mavilis Football Club | Ernane Naves x Richard Lionheart line=4 duel=-6.47 corte=-1.70
+[019] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[019] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.362 roll=0.802
+[020] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[020] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.345 roll=0.991
+[021] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[021] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.390 roll=0.638
+[022] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[022] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.390 roll=0.613
+[023] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[023] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.371 roll=0.391
+[024] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[024] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.371 roll=0.568
+[025] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[025] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.390 roll=0.824
+[026] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[026] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.371 roll=0.737
+[027] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 0 Paladino Foot-Ball Club
+[027] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.390 roll=0.123
+[027] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Deusdedito Varella line=3 duel=9.22 corte=-1.13
+[027] JOGADA Paladino Foot-Ball Club | Yoshida, o Samurai Errante x Iguaçu Cristo line=5 duel=28.66 corte=-1.38
+[027] FINAL Paladino Foot-Ball Club | Clérigo Inácio fam=1 duel=9.24 on_target=0.691 goal=0.249
+[027] FINAL Clérigo Inácio: GOL subtipo=CHUTE (roll=0.091)
+[028] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[028] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.390 roll=0.447
+[029] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[029] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.390 roll=0.478
+[030] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[030] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.390 roll=0.258
+[030] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Deusdedito Varella line=2 duel=82.71 corte=-1.30
+[030] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Murilo Lopes line=4 duel=-16.88 corte=-1.30
+[031] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[031] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.416 roll=0.831
+[032] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[032] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.416 roll=0.183
+[032] JOGADA Mavilis Football Club | Adonai Barroso x Yoshida, o Samurai Errante line=4 duel=-5.22 corte=-1.70
+[033] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[033] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.416 roll=0.877
+[034] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[034] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.416 roll=0.298
+[034] JOGADA Mavilis Football Club | Adonai Barroso x Clérigo Inácio line=3 duel=34.61 corte=-1.70
+[034] FINAL Mavilis Football Club | Ruperto Gallo fam=5 duel=7.42 on_target=0.596 goal=0.160
+[034] FINAL Ruperto Gallo: fora/alvo perdido (roll=0.813)
+[035] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[035] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.416 roll=0.953
+[036] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[036] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.390 roll=0.719
+[037] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[037] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.416 roll=0.959
+[038] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[038] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.416 roll=0.699
+[039] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[039] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.416 roll=0.866
+[040] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[040] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.416 roll=0.353
+[040] JOGADA Mavilis Football Club | Jácome Moretti x Clérigo Inácio line=3 duel=24.20 corte=-1.70
+[040] JOGADA Mavilis Football Club | Tapuruquara Páscoa x Richard Lionheart line=4 duel=-17.44 corte=-1.70
+[041] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[041] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.416 roll=0.862
+[042] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[042] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.416 roll=0.390
+[042] JOGADA Mavilis Football Club | Adonai Barroso x Perseu Kalitsas line=3 duel=23.69 corte=-1.70
+[042] JOGADA Mavilis Football Club | Deusdedito Varella x Richard Lionheart line=5 duel=20.20 corte=-1.95
+[042] JOGADA Mavilis Football Club | Deusdedito Varella x Clérigo Inácio line=5 duel=60.08 corte=-1.95
+[042] FINAL Mavilis Football Club | Ruperto Gallo fam=1 duel=-1.84 on_target=0.685 goal=0.246
+[042] FINAL Ruperto Gallo: no alvo sem gol (roll=0.486)
+[043] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[043] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.416 roll=0.599
+[044] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[044] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.390 roll=0.008
+[044] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Amam Calmon line=4 duel=-9.70 corte=-1.30
+[044] JOGADA falhou: Amam Calmon cortou
+[045] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[045] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.416 roll=0.900
+[046] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[046] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.362 roll=0.207
+[046] JOGADA Paladino Foot-Ball Club | Perseu Kalitsas x Jácome Moretti line=3 duel=74.43 corte=-1.30
+[046] JOGADA Paladino Foot-Ball Club | Perseu Kalitsas x Adonai Barroso line=4 duel=-5.77 corte=-1.30
+[046] JOGADA falhou: Adonai Barroso cortou
+[047] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[047] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.362 roll=0.725
+[048] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[048] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.362 roll=0.044
+[048] JOGADA Paladino Foot-Ball Club | Índio Catapora x Adonai Barroso line=4 duel=-19.60 corte=-1.30
+[049] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[049] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.362 roll=0.942
+[050] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[050] SUB Mavilis Football Club: saiu Deusdedito Varella (MC) | entrou Boaçava Cerqueira (VOL) | subs=1/5
+[050] SUB Paladino Foot-Ball Club: saiu Pinocchio Giacometti (MC) | entrou Sapateiro Souza (MC) | subs=1/5
+[050] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.364 roll=0.990
+[051] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[051] SUB Paladino Foot-Ball Club: saiu Lisandro Paladino (CA) | entrou Estácio Espingarda (CA) | subs=2/5
+[051] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.361 roll=0.617
+[052] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[052] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.361 roll=0.453
+[053] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[053] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.361 roll=0.500
+[054] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[054] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.361 roll=0.080
+[054] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Adonai Barroso line=3 duel=-11.36 corte=-1.30
+[055] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[055] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.384 roll=0.769
+[056] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[056] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.388 roll=0.147
+[056] JOGADA Paladino Foot-Ball Club | Índio Catapora x Ruperto Gallo line=4 duel=25.70 corte=-1.30
+[056] JOGADA Paladino Foot-Ball Club | Yoshida, o Samurai Errante x Murilo Lopes line=4 duel=-14.67 corte=-1.30
+[057] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[057] SUB Mavilis Football Club: saiu Isaí Zago (SA) | entrou Valentino Jacinto (PD) | subs=2/5
+[057] SUB Paladino Foot-Ball Club: saiu Perseu Kalitsas (PD) | entrou Guarnição Soldado (PD) | subs=3/5
+[057] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.423 roll=0.230
+[057] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Valentino Jacinto line=2 duel=25.04 corte=-1.30
+[057] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Murilo Lopes line=3 duel=16.08 corte=-1.30
+[057] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Murilo Lopes line=4 duel=13.79 corte=-1.30
+[057] FINAL Paladino Foot-Ball Club | Guarnição Soldado fam=1 duel=28.65 on_target=0.684 goal=0.258
+[057] FINAL Guarnição Soldado: no alvo sem gol (roll=0.408)
+[058] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[058] SUB Mavilis Football Club: saiu Amam Calmon (ZAG) | entrou Jordão Resendes (ZAG) | subs=3/5
+[058] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.544
+[059] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[059] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.499
+[060] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[060] SUB Mavilis Football Club: saiu Murilo Lopes (LD) | entrou Quirilo França (LD) | subs=4/5
+[060] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.426 roll=0.084
+[060] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Jácome Moretti line=3 duel=29.32 corte=-1.30
+[060] JOGADA Paladino Foot-Ball Club | Estácio Espingarda x Ernane Naves line=4 duel=14.30 corte=-1.30
+[060] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Adonai Barroso line=5 duel=6.79 corte=-2.05
+[060] FINAL Paladino Foot-Ball Club | Cássio Jiló fam=1 duel=22.49 on_target=0.695 goal=0.261
+[060] FINAL Cássio Jiló: no alvo sem gol (roll=0.969)
+[061] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[061] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.426 roll=0.690
+[062] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[062] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.142
+[062] JOGADA Mavilis Football Club | Ernane Naves x Estácio Espingarda line=3 duel=25.94 corte=-1.13
+[062] JOGADA Mavilis Football Club | Valentino Jacinto x Cássio Jiló line=4 duel=-1.17 corte=-1.13
+[063] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[063] SUB Mavilis Football Club: saiu Ruperto Gallo (CA) | entrou Adílio Câmara (PE) | subs=5/5
+[063] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.936
+[064] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[064] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.364 roll=0.057
+[064] JOGADA Mavilis Football Club | Valentino Jacinto x Ladislau Lancelot line=3 duel=71.48 corte=-1.13
+[064] JOGADA Mavilis Football Club | Boaçava Cerqueira x Cássio Jiló line=4 duel=13.28 corte=-1.13
+[064] FINAL Mavilis Football Club | Valentino Jacinto fam=1 duel=23.03 on_target=0.681 goal=0.249
+[064] FINAL Valentino Jacinto: no alvo sem gol (roll=0.640)
+[065] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[065] SUB Paladino Foot-Ball Club: saiu Yoshida, o Samurai Errante (ZAG) | entrou Godofredo Nunes (ZAG) | subs=4/5
+[065] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.363 roll=0.438
+[066] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[066] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.427 roll=0.347
+[066] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Quirilo França line=3 duel=-2.59 corte=-1.30
+[067] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[067] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.427 roll=0.379
+[067] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Adonai Barroso line=2 duel=16.92 corte=-1.30
+[067] JOGADA Paladino Foot-Ball Club | Godofredo Nunes x Quirilo França line=3 duel=-0.83 corte=-1.30
+[067] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Iguaçu Cristo line=5 duel=75.44 corte=-1.55
+[067] FINAL Paladino Foot-Ball Club | Sapateiro Souza fam=5 duel=20.77 on_target=0.592 goal=0.163
+[067] FINAL Sapateiro Souza: fora/alvo perdido (roll=0.683)
+[068] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Paladino Foot-Ball Club
+[068] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.363 roll=0.056
+[068] JOGADA Mavilis Football Club | Tapuruquara Páscoa x Clérigo Inácio line=3 duel=27.06 corte=-1.13
+[068] JOGADA Mavilis Football Club | Boaçava Cerqueira x Clérigo Inácio line=5 duel=109.97 corte=-1.38
+[068] FINAL Mavilis Football Club | Ernane Naves fam=1 duel=11.43 on_target=0.675 goal=0.241
+[068] FINAL Ernane Naves: GOL subtipo=CHUTE (roll=0.039)
+[069] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[069] SUB Paladino Foot-Ball Club: saiu Índio Catapora (LD) | entrou Martin Luther Williams (LD) | subs=5/5
+[069] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.424 roll=0.856
+[070] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[070] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.424 roll=0.812
+[071] posse=Mavilis Football Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[071] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.329 roll=0.830
+[072] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[072] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.424 roll=0.473
+[073] posse=Mavilis Football Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[073] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.329 roll=0.458
+[074] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[074] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.424 roll=0.107
+[074] JOGADA Paladino Foot-Ball Club | Estácio Espingarda x Boaçava Cerqueira line=3 duel=-17.06 corte=-1.30
+[075] posse=Mavilis Football Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[075] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.329 roll=0.904
+[076] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[076] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.436 roll=0.192
+[076] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Ernane Naves line=2 duel=83.30 corte=-1.30
+[076] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Boaçava Cerqueira line=4 duel=-38.68 corte=-1.30
+[077] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[077] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.436 roll=0.074
+[077] JOGADA Paladino Foot-Ball Club | Martin Luther Williams x Adílio Câmara line=4 duel=-14.64 corte=-1.30
+[077] JOGADA falhou: Adílio Câmara cortou
+[078] posse=Mavilis Football Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[078] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.339 roll=0.330
+[078] JOGADA Mavilis Football Club | Jordão Resendes x Guarnição Soldado line=2 duel=4.31 corte=-1.08
+[078] FINAL Mavilis Football Club | Jácome Moretti fam=1 duel=3.68 on_target=0.691 goal=0.241
+[078] FINAL Jácome Moretti: no alvo sem gol (roll=0.911)
+[079] posse=Mavilis Football Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[079] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.339 roll=0.246
+[079] JOGADA Mavilis Football Club | Quirilo França x Guarnição Soldado line=3 duel=9.17 corte=-1.08
+[079] JOGADA Mavilis Football Club | Iguaçu Cristo x Ladislau Lancelot line=4 duel=-23.79 corte=-1.08
+[079] JOGADA falhou: Ladislau Lancelot cortou
+[080] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[080] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.436 roll=0.793
+[081] posse=Mavilis Football Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[081] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.339 roll=0.803
+[082] posse=Mavilis Football Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[082] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.339 roll=0.953
+[083] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[083] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.436 roll=0.586
+[084] posse=Mavilis Football Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[084] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.339 roll=0.787
+[085] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[085] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.460 roll=0.901
+[086] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[086] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.460 roll=0.571
+[087] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[087] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.460 roll=0.382
+[087] JOGADA Paladino Foot-Ball Club | Guarnição Soldado x Tapuruquara Páscoa line=3 duel=34.78 corte=-1.30
+[087] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Valentino Jacinto line=4 duel=18.80 corte=-1.30
+[087] JOGADA Paladino Foot-Ball Club | Guarnição Soldado x Adonai Barroso line=4 duel=19.06 corte=-1.30
+[087] FINAL Paladino Foot-Ball Club | Guarnição Soldado fam=1 duel=13.25 on_target=0.741 goal=0.254
+[087] FINAL Guarnição Soldado: fora/alvo perdido (roll=0.927)
+[088] posse=Mavilis Football Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[088] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.357 roll=0.868
+[089] posse=Mavilis Football Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[089] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.357 roll=0.206
+[089] JOGADA Mavilis Football Club | Ernane Naves x Richard Lionheart line=3 duel=28.71 corte=-1.08
+[089] JOGADA Mavilis Football Club | Boaçava Cerqueira x Sapateiro Souza line=4 duel=15.38 corte=-1.08
+[089] FINAL Mavilis Football Club | Adílio Câmara fam=1 duel=14.08 on_target=0.739 goal=0.247
+[089] FINAL Adílio Câmara: fora/alvo perdido (roll=0.869)
+[090] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[090] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.460 roll=0.387
+[090] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Quirilo França line=4 duel=-13.85 corte=-1.30
+[091] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[091] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.460 roll=0.477
+[092] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[092] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.460 roll=0.402
+[092] JOGADA Paladino Foot-Ball Club | Estácio Espingarda x Jácome Moretti line=4 duel=-46.38 corte=-1.30
+[092] JOGADA falhou: Jácome Moretti cortou
+[093] posse=Paladino Foot-Ball Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[093] BUILD Paladino Foot-Ball Club vs Mavilis Football Club prob=0.460 roll=0.766
+[094] posse=Mavilis Football Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[094] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.357 roll=0.902
+[095] posse=Mavilis Football Club | placar Mavilis Football Club 1 x 1 Paladino Foot-Ball Club
+[095] BUILD Mavilis Football Club vs Paladino Foot-Ball Club prob=0.357 roll=0.755

@@ -1,0 +1,325 @@
+Partida #217
+Data: 1912-01-20
+Mandante: Bangu Athletic Club
+Visitante: Brazil-London Railway Sport Club
+Placar: 0 x 2
+Seed: -
+Estádio: Estádio Moça Bonita
+Clima: Chuva forte
+Placar tempo normal: 0 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Bangu Athletic Club x Brazil-London Railway Sport Club | estádio=Estádio Moça Bonita | clima=Chuva forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[001] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.271 roll=0.102
+[001] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Moacir Zanetti line=4 duel=28.54 corte=-1.30
+[001] FINAL Brazil-London Railway Sport Club | Zachary Griffiths fam=5 duel=-11.17 on_target=0.514 goal=0.133
+[001] FINAL Zachary Griffiths: no alvo sem gol (roll=0.261)
+[002] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[002] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.271 roll=0.043
+[002] JOGADA Brazil-London Railway Sport Club | Corey Carter x Heleno Garcia line=3 duel=-28.08 corte=-1.30
+[002] JOGADA falhou: Heleno Garcia cortou
+[003] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[003] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.271 roll=0.064
+[003] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Fernando Donohoe line=3 duel=5.43 corte=-1.30
+[003] FINAL Brazil-London Railway Sport Club | Zachary Griffiths fam=5 duel=-98.29 on_target=0.510 goal=0.097
+[003] FINAL Zachary Griffiths: fora/alvo perdido (roll=0.800)
+[004] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[004] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.390 roll=0.471
+[005] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[005] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.271 roll=0.086
+[005] JOGADA Brazil-London Railway Sport Club | Zachary Griffiths x Heleno Garcia line=2 duel=-4.71 corte=-1.30
+[005] JOGADA falhou: Heleno Garcia cortou
+[006] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[006] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.390 roll=0.199
+[006] JOGADA Bangu Athletic Club | Moacir Zanetti x Dylan Edwards line=4 duel=22.96 corte=-1.12
+[006] FINAL Bangu Athletic Club | Fernando Donohoe fam=1 duel=6.00 on_target=0.601 goal=0.222
+[006] FINAL Fernando Donohoe: fora/alvo perdido (roll=0.709)
+[007] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[007] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.271 roll=0.829
+[008] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[008] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.271 roll=0.736
+[009] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[009] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.390 roll=0.696
+[010] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[010] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.390 roll=0.374
+[010] JOGADA Bangu Athletic Club | Moacir Zanetti x Corey Carter line=3 duel=15.98 corte=-1.12
+[010] FINAL Bangu Athletic Club | Mário José Neto fam=1 duel=0.73 on_target=0.605 goal=0.221
+[010] FINAL Mário José Neto: no alvo sem gol (roll=0.527)
+[011] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[011] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.293 roll=0.064
+[011] JOGADA Brazil-London Railway Sport Club | Zachary Griffiths x Roberto Alves line=3 duel=-17.76 corte=-1.30
+[011] JOGADA falhou: Roberto Alves cortou
+[012] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[012] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.293 roll=0.310
+[013] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[013] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.293 roll=0.298
+[014] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[014] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.422 roll=0.106
+[014] JOGADA Bangu Athletic Club | Heleno Garcia x Hugo Filgueira line=4 duel=26.62 corte=-1.12
+[014] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=10.41 on_target=0.657 goal=0.242
+[014] FINAL Moacir Zanetti: fora/alvo perdido (roll=0.687)
+[015] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[015] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.422 roll=0.520
+[016] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[016] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.422 roll=0.123
+[016] JOGADA Bangu Athletic Club | Mário José Neto x Leonardo Chambers line=3 duel=17.56 corte=-1.12
+[016] FINAL Bangu Athletic Club | Fernando Donohoe fam=1 duel=0.94 on_target=0.649 goal=0.234
+[016] FINAL Fernando Donohoe: no alvo sem gol (roll=0.694)
+[017] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[017] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.293 roll=0.672
+[018] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[018] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.422 roll=0.333
+[018] JOGADA Bangu Athletic Club | Roberto Alves x Dylan Edwards line=4 duel=-0.44 corte=-1.12
+[018] FINAL Bangu Athletic Club | Fernando Donohoe fam=1 duel=6.27 on_target=0.649 goal=0.236
+[018] FINAL Fernando Donohoe: no alvo sem gol (roll=0.377)
+[019] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[019] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.422 roll=0.041
+[019] JOGADA Bangu Athletic Club | Júlio Gutierres Barbosa x Zachary Griffiths line=4 duel=54.45 corte=-1.12
+[019] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=6.26 on_target=0.657 goal=0.240
+[019] FINAL Moacir Zanetti: no alvo sem gol (roll=0.729)
+[020] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[020] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.422 roll=0.701
+[021] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[021] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.603
+[022] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[022] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.871
+[023] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[023] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.746
+[024] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[024] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.652
+[025] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[025] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.913
+[026] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[026] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.966
+[027] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[027] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.764
+[028] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[028] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.315 roll=0.621
+[029] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[029] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.315 roll=0.450
+[030] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[030] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.315 roll=0.229
+[030] JOGADA Brazil-London Railway Sport Club | Corey Carter x Roberto Alves line=3 duel=-36.79 corte=-1.30
+[031] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[031] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.092
+[031] JOGADA Bangu Athletic Club | Heleno Garcia x Elivelton Camaçari line=3 duel=32.50 corte=-1.12
+[031] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=0.13 on_target=0.691 goal=0.245
+[031] FINAL Moacir Zanetti: no alvo sem gol (roll=0.913)
+[032] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[032] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.317 roll=0.161
+[032] JOGADA Brazil-London Railway Sport Club | Elivelton Camaçari x Fernando Donohoe line=4 duel=-9.53 corte=-1.30
+[033] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[033] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.317 roll=0.640
+[034] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[034] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.390
+[034] JOGADA Bangu Athletic Club | Moacir Zanetti x Hugo Filgueira line=3 duel=6.75 corte=-1.12
+[034] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=17.98 on_target=0.694 goal=0.254
+[034] FINAL Frederick Burton: no alvo sem gol (roll=0.380)
+[035] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[035] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.745
+[036] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[036] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.317 roll=0.259
+[036] JOGADA Brazil-London Railway Sport Club | Elivelton Camaçari x Júlio Gutierres Barbosa line=3 duel=-17.78 corte=-1.30
+[036] JOGADA falhou: Júlio Gutierres Barbosa cortou
+[037] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[037] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.047
+[037] JOGADA Bangu Athletic Club | Heleno Garcia x WIllson Bridge line=4 duel=118.15 corte=-1.12
+[037] FINAL Bangu Athletic Club | Fernando Donohoe fam=1 duel=6.54 on_target=0.683 goal=0.244
+[037] FINAL Fernando Donohoe: fora/alvo perdido (roll=0.911)
+[038] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[038] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.317 roll=0.061
+[038] JOGADA Brazil-London Railway Sport Club | Carter Anderson x André Luiz Barcelos line=4 duel=-25.77 corte=-1.30
+[039] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[039] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.310
+[039] JOGADA Bangu Athletic Club | Moacir Zanetti x Joel Lees line=4 duel=14.21 corte=-1.12
+[039] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=-0.61 on_target=0.691 goal=0.245
+[039] FINAL Moacir Zanetti: fora/alvo perdido (roll=0.754)
+[040] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[040] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.317 roll=0.116
+[040] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Júlio Gutierres Barbosa line=4 duel=-12.17 corte=-1.30
+[041] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[041] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.396
+[041] JOGADA Bangu Athletic Club | Vitor Quitério Gonzaga x Dylan Edwards line=4 duel=43.85 corte=-1.12
+[041] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=0.81 on_target=0.691 goal=0.245
+[041] FINAL Moacir Zanetti: fora/alvo perdido (roll=0.794)
+[042] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[042] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.317 roll=0.376
+[043] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[043] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.997
+[044] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[044] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.317 roll=0.007
+[044] JOGADA Brazil-London Railway Sport Club | Carter Anderson x Mário José Neto line=4 duel=-3.63 corte=-1.30
+[045] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[045] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.453 roll=0.850
+[046] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[046] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.422 roll=0.115
+[046] JOGADA Bangu Athletic Club | Vitor Quitério Gonzaga x Dylan Edwards line=4 duel=9.51 corte=-1.12
+[046] FINAL Bangu Athletic Club | Júlio Gutierres Barbosa fam=1 duel=6.13 on_target=0.652 goal=0.238
+[046] FINAL Júlio Gutierres Barbosa: fora/alvo perdido (roll=0.789)
+[047] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[047] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.295 roll=0.039
+[047] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Heleno Garcia line=3 duel=45.04 corte=-1.30
+[047] JOGADA Brazil-London Railway Sport Club | Corey Carter x Vitor Quitério Gonzaga line=4 duel=-29.23 corte=-1.30
+[047] FINAL Brazil-London Railway Sport Club | Corey Carter fam=5 duel=-34.08 on_target=0.549 goal=0.130
+[047] FINAL Corey Carter: fora/alvo perdido (roll=0.900)
+[048] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[048] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.295 roll=0.965
+[049] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[049] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.295 roll=0.062
+[049] JOGADA Brazil-London Railway Sport Club | Elivelton Camaçari x Roberto Alves line=4 duel=-52.72 corte=-1.30
+[049] JOGADA falhou: Roberto Alves cortou
+[050] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[050] SUB Bangu Athletic Club: saiu Moacir Zanetti (SA) | entrou Marcelo Mendes (CA) | subs=1/5
+[050] SUB Brazil-London Railway Sport Club: saiu Zachary Griffiths (SA) | entrou Todd Campbel (CA) | subs=1/5
+[050] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.294 roll=0.810
+[051] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[051] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.294 roll=0.121
+[051] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Fernando Donohoe line=2 duel=5.66 corte=-1.30
+[051] JOGADA Brazil-London Railway Sport Club | Connor Thomas x Marcelo Mendes line=3 duel=-3.93 corte=-1.30
+[052] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 0 Brazil-London Railway Sport Club
+[052] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.294 roll=0.809
+[052] FINAL Brazil-London Railway Sport Club | Leonardo Chambers fam=5 duel=-7.00 on_target=0.555 goal=0.143
+[052] FINAL Leonardo Chambers: GOL subtipo=FALTA (roll=0.110)
+[053] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[053] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.464 roll=0.757
+[054] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[054] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.328 roll=0.030
+[054] JOGADA Brazil-London Railway Sport Club | Connor Thomas x Heleno Garcia line=4 duel=-26.77 corte=-1.30
+[054] FINAL Brazil-London Railway Sport Club | Connor Thomas fam=5 duel=-31.59 on_target=0.552 goal=0.132
+[054] FINAL Connor Thomas: no alvo sem gol (roll=0.920)
+[055] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[055] SUB Bangu Athletic Club: saiu Fernando Donohoe (MA) | entrou Tadeu Pelicano (MA) | subs=2/5
+[055] SUB Brazil-London Railway Sport Club: saiu Elivelton Camaçari (MD) | entrou Boaçava Isidoro (MD) | subs=2/5
+[055] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.455 roll=0.807
+[056] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[056] SUB Brazil-London Railway Sport Club: saiu Carter Anderson (MA) | entrou Olivar Ferretti (MA) | subs=3/5
+[056] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.352 roll=0.806
+[057] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[057] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.352 roll=0.801
+[058] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[058] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.464 roll=0.741
+[059] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[059] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.352 roll=0.616
+[060] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[060] SUB Bangu Athletic Club: saiu Vitor Quitério Gonzaga (VOL) | entrou Caio Bosco (VOL) | subs=3/5
+[060] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.356 roll=0.534
+[061] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[061] SUB Bangu Athletic Club: saiu Roberto Alves (ZAG) | entrou Bernardo Alvares (ZAG) | subs=4/5
+[061] SUB Brazil-London Railway Sport Club: saiu Joel Lees (ME) | entrou Moara Palma (ME) | subs=4/5
+[061] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.369 roll=0.639
+[062] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[062] SUB Brazil-London Railway Sport Club: saiu Connor Thomas (ZAG) | entrou Cayubi Bicudo (ZAG) | subs=5/5
+[062] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.370 roll=0.964
+[063] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[063] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.458 roll=0.902
+[064] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[064] SUB Bangu Athletic Club: saiu Mário José Neto (MC) | entrou Saulo Linhares (MD) | subs=5/5
+[064] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.455 roll=0.717
+[065] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[065] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.455 roll=0.854
+[066] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[066] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.371 roll=0.977
+[067] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[067] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.455 roll=0.116
+[067] JOGADA Bangu Athletic Club | André Luiz Barcelos x Corey Carter line=5 duel=69.88 corte=-1.36
+[067] FINAL Bangu Athletic Club | Marcelo Mendes fam=1 duel=18.65 on_target=0.684 goal=0.249
+[067] FINAL Marcelo Mendes: no alvo sem gol (roll=0.454)
+[068] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[068] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.374 roll=0.339
+[068] JOGADA Brazil-London Railway Sport Club | Boaçava Isidoro x Heleno Garcia line=2 duel=15.49 corte=-1.30
+[068] FINAL Brazil-London Railway Sport Club | WIllson Bridge fam=3 duel=4.03 on_target=0.623 goal=0.197
+[068] FINAL WIllson Bridge: fora/alvo perdido (roll=0.737)
+[069] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[069] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.455 roll=0.105
+[069] JOGADA Bangu Athletic Club | Alfred Moore x Hugo Filgueira line=5 duel=55.00 corte=-1.36
+[069] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=20.88 on_target=0.694 goal=0.255
+[069] FINAL Frederick Burton: fora/alvo perdido (roll=0.976)
+[070] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[070] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.390 roll=0.258
+[070] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Tadeu Pelicano line=4 duel=-13.89 corte=-1.30
+[071] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[071] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.455 roll=0.793
+[072] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[072] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.455 roll=0.079
+[072] JOGADA Bangu Athletic Club | Frederick Burton x WIllson Bridge line=5 duel=31.61 corte=-1.82
+[072] FINAL Bangu Athletic Club | Caio Bosco fam=1 duel=19.10 on_target=0.682 goal=0.249
+[072] FINAL Caio Bosco: no alvo sem gol (roll=0.319)
+[073] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[073] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.455 roll=0.122
+[073] JOGADA Bangu Athletic Club | Frederick Burton x Olivar Ferretti line=3 duel=-2.93 corte=-1.07
+[073] JOGADA falhou: Olivar Ferretti cortou
+[074] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[074] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.390 roll=0.524
+[075] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[075] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.455 roll=0.800
+[076] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[076] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.491 roll=0.568
+[077] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[077] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.378 roll=0.142
+[077] JOGADA Brazil-London Railway Sport Club | Corey Carter x Caio Bosco line=3 duel=-41.33 corte=-1.30
+[077] JOGADA falhou: Caio Bosco cortou
+[078] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[078] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.491 roll=0.711
+[079] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[079] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.491 roll=0.319
+[079] JOGADA Bangu Athletic Club | Bernardo Alvares x Corey Carter line=5 duel=51.81 corte=-1.32
+[079] FINAL Bangu Athletic Club | Saulo Linhares fam=1 duel=21.03 on_target=0.729 goal=0.261
+[079] FINAL Saulo Linhares: no alvo sem gol (roll=0.311)
+[080] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[080] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.491 roll=0.492
+[081] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[081] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.491 roll=0.977
+[082] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[082] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.491 roll=0.239
+[082] JOGADA Bangu Athletic Club | Caio Bosco x Dylan Edwards line=4 duel=68.73 corte=-1.07
+[082] FINAL Bangu Athletic Club | Marcelo Mendes fam=1 duel=3.91 on_target=0.731 goal=0.253
+[082] FINAL Marcelo Mendes: no alvo sem gol (roll=0.476)
+[083] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[083] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.378 roll=0.797
+[084] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[084] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.378 roll=0.532
+[085] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[085] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.378 roll=0.118
+[085] JOGADA Brazil-London Railway Sport Club | Boaçava Isidoro x Marcelo Mendes line=4 duel=31.05 corte=-1.30
+[085] FINAL Brazil-London Railway Sport Club | Todd Campbel fam=5 duel=-7.93 on_target=0.567 goal=0.143
+[085] FINAL Todd Campbel: fora/alvo perdido (roll=0.596)
+[086] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[086] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.517 roll=0.500
+[086] JOGADA Bangu Athletic Club | Saulo Linhares x Moara Palma line=5 duel=90.32 corte=-1.32
+[086] FINAL Bangu Athletic Club | Frederick Burton fam=3 duel=12.65 on_target=0.716 goal=0.203
+[086] FINAL Frederick Burton: no alvo sem gol (roll=0.683)
+[087] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[087] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.517 roll=0.677
+[088] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[088] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.378 roll=0.479
+[088] FINAL Brazil-London Railway Sport Club | Todd Campbel fam=5 duel=-7.22 on_target=0.567 goal=0.143
+[088] FINAL Todd Campbel: no alvo sem gol (roll=0.791)
+[089] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[089] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.517 roll=0.944
+[090] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[090] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.378 roll=0.443
+[091] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[091] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.378 roll=0.485
+[092] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[092] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.517 roll=0.420
+[092] JOGADA Bangu Athletic Club | Saulo Linhares x Hugo Filgueira line=5 duel=19.85 corte=-1.32
+[092] FINAL Bangu Athletic Club | Tadeu Pelicano fam=3 duel=-12.36 on_target=0.702 goal=0.186
+[092] FINAL Tadeu Pelicano: fora/alvo perdido (roll=0.823)
+[093] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[093] BUILD Bangu Athletic Club vs Brazil-London Railway Sport Club prob=0.517 roll=0.006
+[093] JOGADA Bangu Athletic Club | Caio Bosco x Corey Carter line=4 duel=7.85 corte=-1.07
+[093] FINAL Bangu Athletic Club | Marcelo Mendes fam=1 duel=2.55 on_target=0.777 goal=0.252
+[093] FINAL Marcelo Mendes: fora/alvo perdido (roll=0.819)
+[094] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[094] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.378 roll=0.073
+[094] JOGADA Brazil-London Railway Sport Club | Todd Campbel x Caio Bosco line=2 duel=50.05 corte=-1.30
+[094] JOGADA Brazil-London Railway Sport Club | WIllson Bridge x Alfred Moore line=4 duel=-6.10 corte=-1.30
+[095] posse=Brazil-London Railway Sport Club | placar Bangu Athletic Club 0 x 1 Brazil-London Railway Sport Club
+[095] BUILD Brazil-London Railway Sport Club vs Bangu Athletic Club prob=0.378 roll=0.365
+[095] JOGADA Brazil-London Railway Sport Club | Boaçava Isidoro x Saulo Linhares line=3 duel=2.26 corte=-1.30
+[095] FINAL Brazil-London Railway Sport Club | Hugo Filgueira fam=5 duel=-13.27 on_target=0.562 goal=0.139
+[095] FINAL Hugo Filgueira: GOL subtipo=FALTA (roll=0.117)

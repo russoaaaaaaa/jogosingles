@@ -1,0 +1,332 @@
+Partida #175
+Data: 1912-01-16
+Mandante: São Christóvão Football e Regatas
+Visitante: Fluminense Football Club
+Placar: 2 x 1
+Seed: -
+Estádio: Estádio Figueira de Mello
+Clima: Calor forte
+Placar tempo normal: 2 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: São Christóvão Football e Regatas x Fluminense Football Club | estádio=Estádio Figueira de Mello | clima=Calor forte | seed=- | perfil=caotico | pressão=Normal · peso 9/10
+[001] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[001] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.454 roll=0.951
+[002] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[002] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.454 roll=0.154
+[002] JOGADA São Christóvão Football e Regatas | Pedro Bittecourt x Oscar Alfredo Cox line=3 duel=-21.03 corte=-1.70
+[002] JOGADA falhou: Oscar Alfredo Cox cortou
+[003] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[003] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.454 roll=0.362
+[003] JOGADA São Christóvão Football e Regatas | Tadeu Gavião x Oscar Alfredo Cox line=5 duel=87.61 corte=-2.45
+[003] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=5 duel=1.91 on_target=0.669 goal=0.191
+[003] FINAL Tadeu Gavião: no alvo sem gol (roll=0.475)
+[004] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[004] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.454 roll=0.813
+[005] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[005] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.454 roll=0.514
+[006] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[006] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.454 roll=0.152
+[006] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Oscar Alfredo Cox line=4 duel=-8.30 corte=-1.70
+[006] JOGADA falhou: Oscar Alfredo Cox cortou
+[007] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[007] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.406 roll=0.679
+[008] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[008] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.454 roll=0.590
+[009] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[009] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.406 roll=0.308
+[009] JOGADA Fluminense Football Club | Ricard Seyolle x Fevereiriano Macedo line=4 duel=48.22 corte=-1.07
+[009] FINAL Fluminense Football Club | Ricard Seyolle fam=3 duel=4.69 on_target=0.689 goal=0.213
+[009] FINAL Ricard Seyolle: no alvo sem gol (roll=0.685)
+[010] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[010] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.406 roll=0.726
+[011] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[011] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.491 roll=0.846
+[012] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[012] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.439 roll=0.035
+[012] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Putréfio Lemos line=4 duel=20.80 corte=-1.07
+[012] FINAL Fluminense Football Club | Oscar Alfredo Cox fam=1 duel=1.56 on_target=0.835 goal=0.301
+[012] FINAL Oscar Alfredo Cox: no alvo sem gol (roll=0.518)
+[013] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[013] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.491 roll=0.818
+[014] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[014] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.491 roll=0.823
+[015] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[015] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.491 roll=0.747
+[016] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 Fluminense Football Club
+[016] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.491 roll=0.402
+[016] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Jerônimo Monteiro line=4 duel=80.80 corte=-1.70
+[016] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=5 duel=-4.78 on_target=0.722 goal=0.200
+[016] FINAL Tadeu Gavião: GOL subtipo=FALTA (roll=0.138)
+[017] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[017] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.533 roll=0.059
+[017] JOGADA Fluminense Football Club | Ricard Seyolle x Mauricélio Canoa line=4 duel=85.26 corte=-1.05
+[017] FINAL Fluminense Football Club | Renato Lobo Mau fam=3 duel=1.56 on_target=0.751 goal=0.229
+[017] FINAL Renato Lobo Mau: no alvo sem gol (roll=0.266)
+[018] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[018] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.530 roll=0.602
+[019] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[019] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.533 roll=0.249
+[019] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Murilo Sousa line=5 duel=20.34 corte=-1.30
+[019] FINAL Fluminense Football Club | Renato Lobo Mau fam=1 duel=0.67 on_target=0.827 goal=0.297
+[019] FINAL Renato Lobo Mau: fora/alvo perdido (roll=0.876)
+[020] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[020] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.533 roll=0.161
+[020] JOGADA Fluminense Football Club | Nicolau Freitas x Calistêmico Soares line=5 duel=3.14 corte=-1.30
+[020] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=13.24 on_target=0.839 goal=0.309
+[020] FINAL Óliver Teixeira: no alvo sem gol (roll=0.320)
+[021] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[021] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.573 roll=0.934
+[022] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[022] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.569 roll=0.254
+[022] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Laurindo Nogueira line=5 duel=32.51 corte=-1.95
+[022] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=5.88 on_target=0.773 goal=0.217
+[022] FINAL Murilo Sousa: no alvo sem gol (roll=0.732)
+[023] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[023] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.569 roll=0.977
+[024] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[024] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.569 roll=0.072
+[024] JOGADA São Christóvão Football e Regatas | Fevereiriano Macedo x Ricard Seyolle line=5 duel=-3.77 corte=-2.45
+[024] JOGADA falhou: Ricard Seyolle cortou
+[025] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[025] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.569 roll=0.735
+[026] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[026] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.569 roll=0.543
+[026] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Leôncio Rebelo line=4 duel=14.39 corte=-1.70
+[026] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=6.07 on_target=0.773 goal=0.217
+[026] FINAL Murilo Sousa: no alvo sem gol (roll=0.844)
+[027] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[027] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.573 roll=0.042
+[027] JOGADA Fluminense Football Club | Nicolau Freitas x Putréfio Lemos line=4 duel=43.72 corte=-1.05
+[027] FINAL Fluminense Football Club | Ricard Seyolle fam=1 duel=17.63 on_target=0.865 goal=0.312
+[027] FINAL Ricard Seyolle: no alvo sem gol (roll=0.762)
+[028] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[028] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.569 roll=0.490
+[028] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Óliver Teixeira line=5 duel=120.42 corte=-2.45
+[028] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=5 duel=-11.83 on_target=0.759 goal=0.202
+[028] FINAL Tadeu Gavião: fora/alvo perdido (roll=0.849)
+[029] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[029] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.569 roll=0.631
+[030] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[030] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.569 roll=0.287
+[030] JOGADA São Christóvão Football e Regatas | Tadeu Gavião x Laurindo Nogueira line=4 duel=25.44 corte=-1.70
+[030] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=-63.00 on_target=0.767 goal=0.176
+[030] FINAL Murilo Sousa: fora/alvo perdido (roll=0.963)
+[031] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[031] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.573 roll=0.197
+[031] JOGADA Fluminense Football Club | Élton Brandão x Mauricélio Canoa line=4 duel=-14.72 corte=-1.05
+[031] JOGADA falhou: Mauricélio Canoa cortou
+[032] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[032] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.572 roll=0.267
+[032] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Jerônimo Monteiro line=5 duel=-13.82 corte=-1.95
+[032] JOGADA falhou: Jerônimo Monteiro cortou
+[033] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[033] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.573 roll=0.715
+[034] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[034] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.573 roll=0.928
+[035] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[035] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.572 roll=0.915
+[036] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[036] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.573 roll=0.811
+[037] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[037] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.572 roll=0.789
+[038] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[038] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.573 roll=0.666
+[039] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[039] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.572 roll=0.443
+[039] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Ricard Seyolle line=4 duel=39.98 corte=-1.70
+[039] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=5.30 on_target=0.773 goal=0.218
+[039] FINAL Murilo Sousa: fora/alvo perdido (roll=0.984)
+[040] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[040] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.572 roll=0.172
+[040] JOGADA São Christóvão Football e Regatas | Tadeu Gavião x Florêncio Carmona line=4 duel=-4.74 corte=-1.70
+[040] JOGADA falhou: Florêncio Carmona cortou
+[041] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[041] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.572 roll=0.124
+[041] JOGADA São Christóvão Football e Regatas | Tadeu Gavião x Leôncio Rebelo line=5 duel=35.70 corte=-2.45
+[041] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=-57.14 on_target=0.769 goal=0.180
+[041] FINAL Murilo Sousa: no alvo sem gol (roll=0.866)
+[042] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[042] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.572 roll=0.854
+[043] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[043] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.572 roll=0.061
+[043] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Élton Brandão line=4 duel=21.22 corte=-1.70
+[043] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=5 duel=-69.48 on_target=0.755 goal=0.169
+[043] FINAL Tadeu Gavião: no alvo sem gol (roll=0.499)
+[044] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[044] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.573 roll=0.720
+[045] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[045] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.572 roll=0.655
+[046] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[046] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.533 roll=0.735
+[047] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[047] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.533 roll=0.088
+[047] JOGADA Fluminense Football Club | Jerônimo Monteiro x Calistêmico Soares line=4 duel=57.64 corte=-1.05
+[047] FINAL Fluminense Football Club | Élton Brandão fam=1 duel=-3.97 on_target=0.833 goal=0.297
+[047] FINAL Élton Brandão: no alvo sem gol (roll=0.426)
+[048] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[048] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.533 roll=0.825
+[049] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[049] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.533 roll=0.692
+[050] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[050] SUB São Christóvão Football e Regatas: saiu Tadeu Gavião (SA) | entrou Lúcio Gouveia (MA) | subs=1/5
+[050] SUB Fluminense Football Club: saiu Élton Brandão (SA) | entrou Wilson Coimbra (PE) | subs=1/5
+[050] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.534 roll=0.465
+[050] JOGADA Fluminense Football Club | Ricard Seyolle x Mauricélio Canoa line=3 duel=18.79 corte=-1.05
+[050] FINAL Fluminense Football Club | Florêncio Carmona fam=3 duel=-0.58 on_target=0.757 goal=0.230
+[050] FINAL Florêncio Carmona: no alvo sem gol (roll=0.811)
+[051] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[051] SUB São Christóvão Football e Regatas: saiu Fevereiriano Macedo (CA) | entrou Jacó Freire (CA) | subs=2/5
+[051] SUB Fluminense Football Club: saiu Renato Lobo Mau (CA) | entrou Agenor Vila (CA) | subs=2/5
+[051] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.510 roll=0.043
+[051] JOGADA São Christóvão Football e Regatas | Valério Cesarino x Nicolau Freitas line=5 duel=-8.38 corte=-1.95
+[051] JOGADA falhou: Nicolau Freitas cortou
+[052] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[052] SUB São Christóvão Football e Regatas: saiu Valério Cesarino (LD) | entrou Ricardo Leal (LE) | subs=3/5
+[052] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.510 roll=0.403
+[052] JOGADA São Christóvão Football e Regatas | Putréfio Lemos x Leôncio Rebelo line=5 duel=-2.53 corte=-1.95
+[052] JOGADA falhou: Leôncio Rebelo cortou
+[053] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[053] SUB São Christóvão Football e Regatas: saiu Pedro Bittecourt (VOL) | entrou Ciríaco Paredes (ZAG) | subs=4/5
+[053] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.532 roll=0.875
+[054] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[054] SUB São Christóvão Football e Regatas: saiu Calistêmico Soares (MC) | entrou Miguel Moreira (ME) | subs=5/5
+[054] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.509 roll=0.646
+[055] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[055] SUB Fluminense Football Club: saiu Nicolau Freitas (LE) | entrou Beraldo Botelho (LE) | subs=3/5
+[055] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.535 roll=0.723
+[056] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[056] SUB Fluminense Football Club: saiu Óliver Teixeira (PE) | entrou Estefânio Matos (PD) | subs=4/5
+[056] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.557 roll=0.999
+[057] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[057] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.563 roll=0.955
+[058] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[058] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.557 roll=0.077
+[058] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Leôncio Rebelo line=3 duel=-13.18 corte=-1.70
+[058] JOGADA falhou: Leôncio Rebelo cortou
+[059] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[059] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.557 roll=0.772
+[060] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[060] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.559 roll=0.139
+[060] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Estefânio Matos line=4 duel=24.07 corte=-1.70
+[060] FINAL São Christóvão Football e Regatas | Putréfio Lemos fam=5 duel=-8.78 on_target=0.763 goal=0.207
+[060] FINAL Putréfio Lemos: no alvo sem gol (roll=0.936)
+[061] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[061] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.559 roll=0.749
+[062] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[062] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.559 roll=0.043
+[062] JOGADA São Christóvão Football e Regatas | Ciríaco Paredes x Leôncio Rebelo line=4 duel=14.71 corte=-1.70
+[062] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=-46.00 on_target=0.770 goal=0.188
+[062] FINAL Murilo Sousa: fora/alvo perdido (roll=0.871)
+[063] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[063] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.559 roll=0.233
+[063] JOGADA São Christóvão Football e Regatas | Regente Feijó x Agenor Vila line=4 duel=53.98 corte=-1.70
+[063] FINAL São Christóvão Football e Regatas | Jacó Freire fam=5 duel=-32.39 on_target=0.759 goal=0.192
+[063] FINAL Jacó Freire: no alvo sem gol (roll=0.314)
+[064] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[064] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.559 roll=0.726
+[065] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[065] SUB Fluminense Football Club: saiu Jerônimo Monteiro (ZAG) | entrou João Boscão (ZAG) | subs=5/5
+[065] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.506
+[065] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Leôncio Rebelo line=5 duel=28.83 corte=-1.95
+[065] FINAL São Christóvão Football e Regatas | Lúcio Gouveia fam=5 duel=-30.25 on_target=0.759 goal=0.193
+[065] FINAL Lúcio Gouveia: no alvo sem gol (roll=0.248)
+[066] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[066] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.197
+[066] JOGADA São Christóvão Football e Regatas | Regente Feijó x Estefânio Matos line=4 duel=14.17 corte=-1.70
+[066] FINAL São Christóvão Football e Regatas | Jacó Freire fam=5 duel=4.87 on_target=0.761 goal=0.213
+[066] FINAL Jacó Freire: no alvo sem gol (roll=0.310)
+[067] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[067] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.527 roll=0.772
+[068] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[068] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.527 roll=0.717
+[069] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 Fluminense Football Club
+[069] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.107
+[069] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Estefânio Matos line=3 duel=22.63 corte=-1.70
+[069] FINAL São Christóvão Football e Regatas | Jacó Freire fam=5 duel=5.98 on_target=0.761 goal=0.214
+[069] FINAL Jacó Freire: GOL subtipo=FALTA (roll=0.005)
+[070] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 2 x 0 Fluminense Football Club
+[070] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.527 roll=0.134
+[070] JOGADA Fluminense Football Club | Estefânio Matos x Lúcio Gouveia line=5 duel=54.40 corte=-1.80
+[070] FINAL Fluminense Football Club | Ricard Seyolle fam=3 duel=-5.49 on_target=0.783 goal=0.229
+[070] FINAL Ricard Seyolle: no alvo sem gol (roll=0.798)
+[071] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 2 x 0 Fluminense Football Club
+[071] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.527 roll=0.361
+[071] JOGADA Fluminense Football Club | Estefânio Matos x Regente Feijó line=5 duel=3.14 corte=-1.80
+[071] FINAL Fluminense Football Club | Agenor Vila fam=3 duel=13.52 on_target=0.789 goal=0.242
+[071] FINAL Agenor Vila: fora/alvo perdido (roll=0.986)
+[072] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 2 x 0 Fluminense Football Club
+[072] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.527 roll=0.749
+[072] FINAL Fluminense Football Club | Oscar Alfredo Cox fam=5 duel=14.94 on_target=0.752 goal=0.190
+[072] FINAL Oscar Alfredo Cox: no alvo sem gol (roll=0.873)
+[073] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 2 x 0 Fluminense Football Club
+[073] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.527 roll=0.570
+[074] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 0 Fluminense Football Club
+[074] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.080
+[074] JOGADA São Christóvão Football e Regatas | Jacó Freire x Florêncio Carmona line=4 duel=42.42 corte=-1.70
+[074] FINAL São Christóvão Football e Regatas | Jacó Freire fam=5 duel=0.80 on_target=0.737 goal=0.200
+[074] FINAL Jacó Freire: no alvo sem gol (roll=0.219)
+[075] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 2 x 0 Fluminense Football Club
+[075] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.527 roll=0.169
+[075] JOGADA Fluminense Football Club | Agenor Vila x Celíaco Diabético line=3 duel=0.22 corte=-1.01
+[075] FINAL Fluminense Football Club | Estefânio Matos fam=1 duel=13.34 on_target=0.869 goal=0.312
+[075] FINAL Estefânio Matos: GOL subtipo=CHUTE (roll=0.002)
+[076] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[076] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.857
+[077] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[077] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.569 roll=0.916
+[078] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[078] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.917
+[079] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[079] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.697
+[080] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[080] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.182
+[080] JOGADA São Christóvão Football e Regatas | Ciríaco Paredes x Agenor Vila line=4 duel=31.07 corte=-1.70
+[080] FINAL São Christóvão Football e Regatas | Jacó Freire fam=5 duel=-0.45 on_target=0.734 goal=0.204
+[080] FINAL Jacó Freire: no alvo sem gol (roll=0.488)
+[081] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[081] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.569 roll=0.412
+[081] JOGADA Fluminense Football Club | João Boscão x Putréfio Lemos line=5 duel=78.72 corte=-1.26
+[081] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=4.06 on_target=0.920 goal=0.322
+[081] FINAL Agenor Vila: no alvo sem gol (roll=0.848)
+[082] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[082] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.569 roll=0.695
+[083] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[083] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.980
+[084] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[084] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.970
+[085] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[085] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.213
+[085] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Ricard Seyolle line=4 duel=16.23 corte=-1.70
+[085] FINAL São Christóvão Football e Regatas | Lúcio Gouveia fam=5 duel=2.16 on_target=0.735 goal=0.216
+[085] FINAL Lúcio Gouveia: no alvo sem gol (roll=0.708)
+[086] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[086] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.580 roll=0.816
+[087] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[087] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.352
+[087] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Laurindo Nogueira line=4 duel=-11.05 corte=-1.70
+[087] JOGADA falhou: Laurindo Nogueira cortou
+[088] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[088] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.580 roll=0.872
+[089] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[089] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.580 roll=0.643
+[090] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[090] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.325
+[090] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Wilson Coimbra line=4 duel=81.76 corte=-1.70
+[090] FINAL São Christóvão Football e Regatas | Putréfio Lemos fam=5 duel=-52.91 on_target=0.733 goal=0.184
+[090] FINAL Putréfio Lemos: fora/alvo perdido (roll=0.842)
+[091] posse=Fluminense Football Club | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[091] BUILD Fluminense Football Club vs São Christóvão Football e Regatas prob=0.580 roll=0.938
+[092] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[092] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.044
+[092] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Leôncio Rebelo line=4 duel=26.69 corte=-1.70
+[092] FINAL São Christóvão Football e Regatas | Jacó Freire fam=5 duel=-10.66 on_target=0.733 goal=0.208
+[092] FINAL Jacó Freire: no alvo sem gol (roll=0.483)
+[093] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 2 x 1 Fluminense Football Club
+[093] BUILD São Christóvão Football e Regatas vs Fluminense Football Club prob=0.580 roll=0.377
+[093] JOGADA São Christóvão Football e Regatas | Jacó Freire x Oscar Alfredo Cox line=4 duel=20.53 corte=-1.70
+[093] FINAL São Christóvão Football e Regatas | Lúcio Gouveia fam=5 duel=-2.71 on_target=0.735 goal=0.213
+[093] FINAL Lúcio Gouveia: no alvo sem gol (roll=0.321)

@@ -1,0 +1,326 @@
+Partida #224
+Data: 1912-01-22
+Mandante: Fluminense Football Club
+Visitante: America Football Club
+Placar: 2 x 0
+Seed: -
+Estádio: Arena Guanabara
+Clima: Calor forte
+Placar tempo normal: 2 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Fluminense Football Club x America Football Club | estádio=Arena Guanabara | clima=Calor forte | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[001] BUILD America Football Club vs Fluminense Football Club prob=0.310 roll=0.311
+[002] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[002] BUILD America Football Club vs Fluminense Football Club prob=0.310 roll=0.514
+[003] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[003] BUILD America Football Club vs Fluminense Football Club prob=0.310 roll=0.440
+[004] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[004] BUILD Fluminense Football Club vs America Football Club prob=0.360 roll=0.516
+[005] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[005] BUILD America Football Club vs Fluminense Football Club prob=0.310 roll=0.441
+[006] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[006] BUILD Fluminense Football Club vs America Football Club prob=0.360 roll=0.423
+[007] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[007] BUILD Fluminense Football Club vs America Football Club prob=0.360 roll=0.094
+[007] JOGADA Fluminense Football Club | Jerônimo Monteiro x Davi Ambrósio Rios line=4 duel=9.87 corte=-1.13
+[007] FINAL Fluminense Football Club | Renato Lobo Mau fam=1 duel=-2.47 on_target=0.551 goal=0.203
+[007] FINAL Renato Lobo Mau: no alvo sem gol (roll=0.522)
+[008] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[008] BUILD Fluminense Football Club vs America Football Club prob=0.360 roll=0.278
+[008] JOGADA Fluminense Football Club | Jerônimo Monteiro x Valdomiro Machado line=4 duel=30.82 corte=-1.13
+[008] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=4.31 on_target=0.557 goal=0.208
+[008] FINAL Óliver Teixeira: no alvo sem gol (roll=0.615)
+[009] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[009] BUILD Fluminense Football Club vs America Football Club prob=0.360 roll=0.056
+[009] JOGADA Fluminense Football Club | Otávio Carvalho x Paolo Gonçalves line=5 duel=99.11 corte=-1.38
+[009] FINAL Fluminense Football Club | Renato Lobo Mau fam=3 duel=-13.50 on_target=0.499 goal=0.151
+[009] FINAL Renato Lobo Mau: fora/alvo perdido (roll=0.748)
+[010] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[010] BUILD America Football Club vs Fluminense Football Club prob=0.310 roll=0.855
+[011] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[011] BUILD Fluminense Football Club vs America Football Club prob=0.389 roll=0.739
+[012] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[012] BUILD Fluminense Football Club vs America Football Club prob=0.389 roll=0.022
+[012] JOGADA Fluminense Football Club | Nicolau Freitas x Basílico Freitas line=4 duel=-6.20 corte=-1.13
+[013] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[013] BUILD Fluminense Football Club vs America Football Club prob=0.389 roll=0.151
+[013] JOGADA Fluminense Football Club | Florêncio Carmona x Antônio Figueroa line=5 duel=0.15 corte=-1.38
+[013] FINAL Fluminense Football Club | Wilson Coimbra fam=1 duel=3.36 on_target=0.599 goal=0.221
+[013] FINAL Wilson Coimbra: fora/alvo perdido (roll=0.641)
+[014] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[014] BUILD Fluminense Football Club vs America Football Club prob=0.389 roll=0.927
+[015] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[015] BUILD America Football Club vs Fluminense Football Club prob=0.335 roll=0.683
+[016] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[016] BUILD America Football Club vs Fluminense Football Club prob=0.335 roll=0.681
+[017] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[017] BUILD America Football Club vs Fluminense Football Club prob=0.335 roll=0.035
+[017] JOGADA America Football Club | Davi Ambrósio Rios x Ricard Seyolle line=5 duel=31.89 corte=-1.55
+[017] FINAL America Football Club | Valdomiro Machado fam=5 duel=-15.20 on_target=0.516 goal=0.133
+[017] FINAL Valdomiro Machado: no alvo sem gol (roll=0.436)
+[018] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[018] BUILD America Football Club vs Fluminense Football Club prob=0.335 roll=0.252
+[018] JOGADA America Football Club | Valdomiro Machado x Renato Lobo Mau line=5 duel=27.43 corte=-2.05
+[018] FINAL America Football Club | Eduardo Lagarto fam=5 duel=7.85 on_target=0.523 goal=0.144
+[018] FINAL Eduardo Lagarto: no alvo sem gol (roll=0.246)
+[019] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[019] BUILD Fluminense Football Club vs America Football Club prob=0.389 roll=0.825
+[020] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[020] BUILD America Football Club vs Fluminense Football Club prob=0.335 roll=0.452
+[021] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[021] BUILD America Football Club vs Fluminense Football Club prob=0.360 roll=0.335
+[021] JOGADA America Football Club | Basílico Freitas x Nicolau Freitas line=3 duel=-11.29 corte=-1.30
+[021] JOGADA falhou: Nicolau Freitas cortou
+[022] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[022] BUILD America Football Club vs Fluminense Football Club prob=0.360 roll=0.160
+[022] JOGADA America Football Club | Valdomiro Machado x Florêncio Carmona line=5 duel=35.54 corte=-2.05
+[022] FINAL America Football Club | Valdomiro Machado fam=5 duel=-18.01 on_target=0.543 goal=0.136
+[022] FINAL Valdomiro Machado: no alvo sem gol (roll=0.268)
+[023] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[023] BUILD Fluminense Football Club vs America Football Club prob=0.418 roll=0.541
+[024] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[024] BUILD Fluminense Football Club vs America Football Club prob=0.418 roll=0.450
+[025] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[025] BUILD America Football Club vs Fluminense Football Club prob=0.360 roll=0.350
+[025] JOGADA America Football Club | Thiago Freixó x Otávio Carvalho line=4 duel=-2.19 corte=-1.30
+[025] JOGADA falhou: Otávio Carvalho cortou
+[026] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[026] BUILD America Football Club vs Fluminense Football Club prob=0.360 roll=0.796
+[027] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[027] BUILD America Football Club vs Fluminense Football Club prob=0.360 roll=0.709
+[028] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[028] BUILD Fluminense Football Club vs America Football Club prob=0.418 roll=0.928
+[029] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[029] BUILD Fluminense Football Club vs America Football Club prob=0.418 roll=0.547
+[030] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[030] BUILD Fluminense Football Club vs America Football Club prob=0.418 roll=0.650
+[031] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[031] BUILD Fluminense Football Club vs America Football Club prob=0.418 roll=0.602
+[032] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[032] BUILD Fluminense Football Club vs America Football Club prob=0.418 roll=0.417
+[032] JOGADA Fluminense Football Club | Florêncio Carmona x Thiago Aguiar line=5 duel=48.51 corte=-1.37
+[032] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=4.94 on_target=0.633 goal=0.229
+[032] FINAL Óliver Teixeira: fora/alvo perdido (roll=0.735)
+[033] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[033] BUILD America Football Club vs Fluminense Football Club prob=0.363 roll=0.914
+[034] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[034] BUILD America Football Club vs Fluminense Football Club prob=0.363 roll=0.381
+[035] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[035] BUILD Fluminense Football Club vs America Football Club prob=0.418 roll=0.328
+[035] JOGADA Fluminense Football Club | Otávio Carvalho x Thiago Aguiar line=4 duel=120.08 corte=-1.12
+[035] FINAL Fluminense Football Club | Ricard Seyolle fam=3 duel=-24.83 on_target=0.569 goal=0.163
+[035] FINAL Ricard Seyolle: fora/alvo perdido (roll=0.830)
+[036] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[036] BUILD America Football Club vs Fluminense Football Club prob=0.363 roll=0.475
+[037] posse=America Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[037] BUILD America Football Club vs Fluminense Football Club prob=0.363 roll=0.451
+[038] posse=Fluminense Football Club | placar Fluminense Football Club 0 x 0 America Football Club
+[038] BUILD Fluminense Football Club vs America Football Club prob=0.418 roll=0.088
+[038] JOGADA Fluminense Football Club | Renato Lobo Mau x Geraldo França line=5 duel=47.30 corte=-1.87
+[038] FINAL Fluminense Football Club | Wilson Coimbra fam=1 duel=3.29 on_target=0.630 goal=0.227
+[038] FINAL Wilson Coimbra: GOL subtipo=CHUTE (roll=0.068)
+[039] posse=America Football Club | placar Fluminense Football Club 1 x 0 America Football Club
+[039] BUILD America Football Club vs Fluminense Football Club prob=0.414 roll=0.421
+[040] posse=America Football Club | placar Fluminense Football Club 1 x 0 America Football Club
+[040] BUILD America Football Club vs Fluminense Football Club prob=0.414 roll=0.052
+[040] JOGADA America Football Club | Filipe de Oliveira x Jerônimo Monteiro line=5 duel=34.43 corte=-1.55
+[040] FINAL America Football Club | Geraldo França fam=5 duel=-1.40 on_target=0.544 goal=0.144
+[040] FINAL Geraldo França: no alvo sem gol (roll=0.923)
+[041] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 0 America Football Club
+[041] BUILD Fluminense Football Club vs America Football Club prob=0.418 roll=0.500
+[042] posse=Fluminense Football Club | placar Fluminense Football Club 1 x 0 America Football Club
+[042] BUILD Fluminense Football Club vs America Football Club prob=0.418 roll=0.014
+[042] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Antônio Figueroa line=4 duel=75.79 corte=-1.30
+[042] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=9.03 on_target=0.633 goal=0.231
+[042] FINAL Óliver Teixeira: GOL subtipo=CHUTE (roll=0.147)
+[043] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[043] BUILD Fluminense Football Club vs America Football Club prob=0.409 roll=0.035
+[043] JOGADA Fluminense Football Club | Wilson Coimbra x Eduardo Lagarto line=3 duel=3.72 corte=-1.30
+[043] FINAL Fluminense Football Club | Renato Lobo Mau fam=3 duel=-16.79 on_target=0.544 goal=0.153
+[043] FINAL Renato Lobo Mau: no alvo sem gol (roll=0.987)
+[044] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[044] BUILD Fluminense Football Club vs America Football Club prob=0.409 roll=0.938
+[045] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[045] BUILD America Football Club vs Fluminense Football Club prob=0.418 roll=0.142
+[045] JOGADA America Football Club | Basílico Freitas x Óliver Teixeira line=3 duel=14.43 corte=-1.30
+[045] FINAL America Football Club | Valdomiro Machado fam=5 duel=-14.84 on_target=0.545 goal=0.140
+[045] FINAL Valdomiro Machado: no alvo sem gol (roll=0.674)
+[046] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[046] BUILD America Football Club vs Fluminense Football Club prob=0.388 roll=0.062
+[046] JOGADA America Football Club | Antônio Figueroa x Florêncio Carmona line=5 duel=40.72 corte=-1.55
+[046] FINAL America Football Club | Filipe de Oliveira fam=5 duel=-10.38 on_target=0.518 goal=0.138
+[046] FINAL Filipe de Oliveira: fora/alvo perdido (roll=0.944)
+[047] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[047] BUILD America Football Club vs Fluminense Football Club prob=0.388 roll=0.825
+[048] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[048] BUILD America Football Club vs Fluminense Football Club prob=0.388 roll=0.480
+[049] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[049] BUILD America Football Club vs Fluminense Football Club prob=0.388 roll=0.655
+[050] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[050] SUB Fluminense Football Club: saiu Élton Brandão (SA) | entrou Carmim Melo (MA) | subs=1/5
+[050] SUB America Football Club: saiu Thiago Aguiar (CA) | entrou Pedro Gago (CA) | subs=1/5
+[050] BUILD America Football Club vs Fluminense Football Club prob=0.378 roll=0.949
+[051] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[051] SUB Fluminense Football Club: saiu Renato Lobo Mau (CA) | entrou Agenor Vila (CA) | subs=2/5
+[051] SUB America Football Club: saiu Valdomiro Machado (SA) | entrou Lázaro Almeida (MA) | subs=2/5
+[051] BUILD Fluminense Football Club vs America Football Club prob=0.378 roll=0.433
+[052] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[052] SUB America Football Club: saiu Davi Ambrósio Rios (LE) | entrou Luís Barcelar (LE) | subs=3/5
+[052] BUILD Fluminense Football Club vs America Football Club prob=0.386 roll=0.083
+[052] JOGADA Fluminense Football Club | Florêncio Carmona x Luís Barcelar line=5 duel=49.15 corte=-1.55
+[052] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=20.12 on_target=0.574 goal=0.211
+[052] FINAL Agenor Vila: no alvo sem gol (roll=0.928)
+[053] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[053] SUB America Football Club: saiu Paolo Gonçalves (ZAG) | entrou Alfredo Mendanha (ZAG) | subs=4/5
+[053] BUILD America Football Club vs Fluminense Football Club prob=0.377 roll=0.421
+[054] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[054] SUB Fluminense Football Club: saiu Wilson Coimbra (PE) | entrou Estefânio Matos (PD) | subs=3/5
+[054] SUB America Football Club: saiu Geraldo França (MA) | entrou Jessé Paiva (MC) | subs=5/5
+[054] BUILD America Football Club vs Fluminense Football Club prob=0.374 roll=0.306
+[054] JOGADA America Football Club | Thiago Freixó x Oscar Alfredo Cox line=4 duel=37.95 corte=-1.30
+[054] FINAL America Football Club | Pedro Gago fam=5 duel=17.51 on_target=0.519 goal=0.149
+[054] FINAL Pedro Gago: fora/alvo perdido (roll=0.901)
+[055] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[055] BUILD America Football Club vs Fluminense Football Club prob=0.374 roll=0.176
+[055] JOGADA America Football Club | Lázaro Almeida x Jerônimo Monteiro line=4 duel=66.10 corte=-1.30
+[055] FINAL America Football Club | Eduardo Lagarto fam=5 duel=7.02 on_target=0.525 goal=0.148
+[055] FINAL Eduardo Lagarto: fora/alvo perdido (roll=0.935)
+[056] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[056] BUILD Fluminense Football Club vs America Football Club prob=0.414 roll=0.856
+[057] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[057] BUILD America Football Club vs Fluminense Football Club prob=0.402 roll=0.631
+[058] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[058] BUILD America Football Club vs Fluminense Football Club prob=0.402 roll=0.470
+[059] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[059] BUILD Fluminense Football Club vs America Football Club prob=0.414 roll=0.762
+[060] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[060] SUB Fluminense Football Club: saiu Nicolau Freitas (LD) | entrou João Boscão (LD) | subs=4/5
+[060] BUILD Fluminense Football Club vs America Football Club prob=0.414 roll=0.327
+[060] JOGADA Fluminense Football Club | Jerônimo Monteiro x Jessé Paiva line=5 duel=-9.26 corte=-1.55
+[060] JOGADA falhou: Jessé Paiva cortou
+[061] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[061] SUB Fluminense Football Club: saiu Óliver Teixeira (PD) | entrou Juninho Açafrão (PD) | subs=5/5
+[061] BUILD America Football Club vs Fluminense Football Club prob=0.410 roll=0.921
+[062] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[062] BUILD Fluminense Football Club vs America Football Club prob=0.398 roll=0.969
+[063] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[063] BUILD Fluminense Football Club vs America Football Club prob=0.398 roll=0.592
+[064] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[064] BUILD America Football Club vs Fluminense Football Club prob=0.410 roll=0.475
+[065] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[065] BUILD Fluminense Football Club vs America Football Club prob=0.398 roll=0.313
+[065] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Eduardo Lagarto line=4 duel=28.88 corte=-1.30
+[065] FINAL Fluminense Football Club | Estefânio Matos fam=1 duel=13.74 on_target=0.603 goal=0.214
+[065] FINAL Estefânio Matos: fora/alvo perdido (roll=0.686)
+[066] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[066] BUILD America Football Club vs Fluminense Football Club prob=0.410 roll=0.582
+[067] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[067] BUILD America Football Club vs Fluminense Football Club prob=0.410 roll=0.442
+[068] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[068] BUILD America Football Club vs Fluminense Football Club prob=0.410 roll=0.848
+[069] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[069] BUILD America Football Club vs Fluminense Football Club prob=0.410 roll=0.389
+[069] JOGADA America Football Club | Jessé Paiva x Juninho Açafrão line=4 duel=25.68 corte=-1.30
+[069] FINAL America Football Club | Filipe de Oliveira fam=5 duel=-8.42 on_target=0.546 goal=0.144
+[069] FINAL Filipe de Oliveira: fora/alvo perdido (roll=0.831)
+[070] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[070] BUILD America Football Club vs Fluminense Football Club prob=0.410 roll=0.224
+[070] JOGADA America Football Club | Pedro Gago x Otávio Carvalho line=4 duel=18.83 corte=-1.30
+[070] FINAL America Football Club | Lázaro Almeida fam=5 duel=-35.47 on_target=0.544 goal=0.132
+[070] FINAL Lázaro Almeida: no alvo sem gol (roll=0.405)
+[071] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[071] BUILD America Football Club vs Fluminense Football Club prob=0.410 roll=0.032
+[071] JOGADA America Football Club | Thiago Freixó x Ricard Seyolle line=5 duel=-2.27 corte=-1.55
+[071] JOGADA falhou: Ricard Seyolle cortou
+[072] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[072] BUILD America Football Club vs Fluminense Football Club prob=0.410 roll=0.044
+[072] JOGADA America Football Club | Filipe de Oliveira x Jerônimo Monteiro line=5 duel=17.47 corte=-1.55
+[072] FINAL America Football Club | Basílico Freitas fam=5 duel=-8.47 on_target=0.542 goal=0.142
+[072] FINAL Basílico Freitas: no alvo sem gol (roll=0.287)
+[073] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[073] BUILD Fluminense Football Club vs America Football Club prob=0.398 roll=0.111
+[073] JOGADA Fluminense Football Club | Jerônimo Monteiro x Pedro Gago line=5 duel=12.18 corte=-1.55
+[073] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=7.42 on_target=0.604 goal=0.212
+[073] FINAL Agenor Vila: no alvo sem gol (roll=0.829)
+[074] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[074] BUILD Fluminense Football Club vs America Football Club prob=0.398 roll=0.942
+[075] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[075] BUILD America Football Club vs Fluminense Football Club prob=0.410 roll=0.642
+[076] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[076] BUILD Fluminense Football Club vs America Football Club prob=0.386 roll=0.407
+[077] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[077] BUILD America Football Club vs Fluminense Football Club prob=0.443 roll=0.355
+[077] JOGADA America Football Club | Basílico Freitas x Ricard Seyolle line=4 duel=26.37 corte=-1.30
+[077] FINAL America Football Club | Pedro Gago fam=5 duel=13.79 on_target=0.585 goal=0.161
+[077] FINAL Pedro Gago: fora/alvo perdido (roll=0.610)
+[078] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[078] BUILD Fluminense Football Club vs America Football Club prob=0.386 roll=0.771
+[079] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[079] BUILD Fluminense Football Club vs America Football Club prob=0.386 roll=0.976
+[080] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[080] BUILD Fluminense Football Club vs America Football Club prob=0.386 roll=0.322
+[080] JOGADA Fluminense Football Club | Florêncio Carmona x Jessé Paiva line=3 duel=6.00 corte=-1.30
+[080] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=-3.60 on_target=0.591 goal=0.206
+[080] FINAL Agenor Vila: fora/alvo perdido (roll=0.704)
+[081] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[081] BUILD America Football Club vs Fluminense Football Club prob=0.443 roll=0.105
+[081] JOGADA America Football Club | Eduardo Lagarto x Estefânio Matos line=4 duel=72.79 corte=-1.30
+[081] FINAL America Football Club | Pedro Gago fam=5 duel=11.52 on_target=0.585 goal=0.159
+[081] FINAL Pedro Gago: no alvo sem gol (roll=0.907)
+[082] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[082] BUILD Fluminense Football Club vs America Football Club prob=0.386 roll=0.467
+[083] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[083] BUILD America Football Club vs Fluminense Football Club prob=0.443 roll=0.031
+[083] JOGADA America Football Club | Basílico Freitas x Otávio Carvalho line=5 duel=34.64 corte=-1.55
+[083] FINAL America Football Club | Pedro Gago fam=5 duel=-28.06 on_target=0.582 goal=0.138
+[083] FINAL Pedro Gago: no alvo sem gol (roll=0.680)
+[084] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[084] BUILD Fluminense Football Club vs America Football Club prob=0.386 roll=0.495
+[085] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[085] BUILD America Football Club vs Fluminense Football Club prob=0.438 roll=0.379
+[085] JOGADA America Football Club | Pedro Gago x Oscar Alfredo Cox line=3 duel=49.25 corte=-1.30
+[085] FINAL America Football Club | Basílico Freitas fam=5 duel=-8.08 on_target=0.580 goal=0.145
+[085] FINAL Basílico Freitas: fora/alvo perdido (roll=0.972)
+[086] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[086] BUILD America Football Club vs Fluminense Football Club prob=0.438 roll=0.434
+[086] JOGADA America Football Club | Lázaro Almeida x Jerônimo Monteiro line=5 duel=-7.78 corte=-2.05
+[086] JOGADA falhou: Jerônimo Monteiro cortou
+[087] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[087] BUILD America Football Club vs Fluminense Football Club prob=0.438 roll=0.800
+[088] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[088] BUILD America Football Club vs Fluminense Football Club prob=0.438 roll=0.712
+[089] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[089] BUILD America Football Club vs Fluminense Football Club prob=0.438 roll=0.767
+[090] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[090] BUILD Fluminense Football Club vs America Football Club prob=0.386 roll=0.167
+[090] JOGADA Fluminense Football Club | Jerônimo Monteiro x Filipe de Oliveira line=4 duel=34.90 corte=-1.30
+[090] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=-3.65 on_target=0.591 goal=0.200
+[090] FINAL Agenor Vila: fora/alvo perdido (roll=0.901)
+[091] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[091] BUILD America Football Club vs Fluminense Football Club prob=0.438 roll=0.956
+[092] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[092] BUILD Fluminense Football Club vs America Football Club prob=0.386 roll=0.058
+[092] JOGADA Fluminense Football Club | Juninho Açafrão x Eduardo Lagarto line=4 duel=16.93 corte=-1.30
+[092] FINAL Fluminense Football Club | Estefânio Matos fam=3 duel=-9.37 on_target=0.535 goal=0.151
+[092] FINAL Estefânio Matos: fora/alvo perdido (roll=0.825)
+[093] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[093] BUILD Fluminense Football Club vs America Football Club prob=0.386 roll=0.565
+[094] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[094] BUILD America Football Club vs Fluminense Football Club prob=0.438 roll=0.784
+[095] posse=America Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[095] BUILD America Football Club vs Fluminense Football Club prob=0.438 roll=0.042
+[095] JOGADA America Football Club | Luís Barcelar x Juninho Açafrão line=5 duel=12.29 corte=-1.55
+[095] FINAL America Football Club | Jessé Paiva fam=5 duel=-8.35 on_target=0.584 goal=0.146
+[095] FINAL Jessé Paiva: fora/alvo perdido (roll=0.634)
+[096] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[096] BUILD Fluminense Football Club vs America Football Club prob=0.386 roll=0.469
+[097] posse=Fluminense Football Club | placar Fluminense Football Club 2 x 0 America Football Club
+[097] BUILD Fluminense Football Club vs America Football Club prob=0.386 roll=0.050
+[097] JOGADA Fluminense Football Club | João Boscão x Luís Barcelar line=4 duel=17.25 corte=-1.30
+[097] FINAL Fluminense Football Club | Ricard Seyolle fam=1 duel=3.39 on_target=0.592 goal=0.203
+[097] FINAL Ricard Seyolle: fora/alvo perdido (roll=0.630)

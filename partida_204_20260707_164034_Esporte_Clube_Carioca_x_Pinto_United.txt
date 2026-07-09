@@ -1,0 +1,303 @@
+Partida #204
+Data: 1912-01-20
+Mandante: Esporte Clube Carioca
+Visitante: Pinto United
+Placar: 4 x 1
+Seed: -
+Estádio: Arena Larson
+Clima: Ensolarado
+Placar tempo normal: 4 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Esporte Clube Carioca x Pinto United | estádio=Arena Larson | clima=Ensolarado | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Pinto United
+[001] BUILD Esporte Clube Carioca vs Pinto United prob=0.317 roll=0.315
+[001] JOGADA Esporte Clube Carioca | Hemaxi Custódio x Pinto Souza line=4 duel=-25.64 corte=-1.15
+[002] posse=Pinto United | placar Esporte Clube Carioca 0 x 0 Pinto United
+[002] BUILD Pinto United vs Esporte Clube Carioca prob=0.307 roll=0.481
+[003] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Pinto United
+[003] BUILD Esporte Clube Carioca vs Pinto United prob=0.317 roll=0.505
+[004] posse=Pinto United | placar Esporte Clube Carioca 0 x 0 Pinto United
+[004] BUILD Pinto United vs Esporte Clube Carioca prob=0.307 roll=0.899
+[005] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Pinto United
+[005] BUILD Esporte Clube Carioca vs Pinto United prob=0.317 roll=0.603
+[006] posse=Pinto United | placar Esporte Clube Carioca 0 x 0 Pinto United
+[006] BUILD Pinto United vs Esporte Clube Carioca prob=0.307 roll=0.142
+[006] JOGADA Pinto United | Jetro Trindade x Oliver Lindström line=4 duel=-12.87 corte=-1.30
+[006] JOGADA falhou: Oliver Lindström cortou
+[007] posse=Pinto United | placar Esporte Clube Carioca 0 x 0 Pinto United
+[007] BUILD Pinto United vs Esporte Clube Carioca prob=0.307 roll=0.548
+[008] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Pinto United
+[008] BUILD Esporte Clube Carioca vs Pinto United prob=0.317 roll=0.635
+[009] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Pinto United
+[009] BUILD Esporte Clube Carioca vs Pinto United prob=0.317 roll=0.299
+[009] JOGADA Esporte Clube Carioca | Hugo Bergiund x Ovoberto line=3 duel=39.15 corte=-1.15
+[009] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=1 duel=-8.32 on_target=0.553 goal=0.200
+[009] FINAL Wilfrid Aurmund: no alvo sem gol (roll=0.824)
+[010] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Pinto United
+[010] BUILD Esporte Clube Carioca vs Pinto United prob=0.317 roll=0.550
+[011] posse=Pinto United | placar Esporte Clube Carioca 0 x 0 Pinto United
+[011] BUILD Pinto United vs Esporte Clube Carioca prob=0.332 roll=0.909
+[012] posse=Pinto United | placar Esporte Clube Carioca 0 x 0 Pinto United
+[012] BUILD Pinto United vs Esporte Clube Carioca prob=0.332 roll=0.145
+[012] JOGADA Pinto United | Jetro Trindade x Hugo Bergiund line=4 duel=-47.56 corte=-1.30
+[012] JOGADA falhou: Hugo Bergiund cortou
+[013] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Pinto United
+[013] BUILD Esporte Clube Carioca vs Pinto United prob=0.343 roll=0.259
+[013] JOGADA Esporte Clube Carioca | Hugo Bergiund x Jetro Trindade line=3 duel=-11.01 corte=-1.15
+[013] JOGADA falhou: Jetro Trindade cortou
+[014] posse=Pinto United | placar Esporte Clube Carioca 0 x 0 Pinto United
+[014] BUILD Pinto United vs Esporte Clube Carioca prob=0.332 roll=0.979
+[015] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Pinto United
+[015] BUILD Esporte Clube Carioca vs Pinto United prob=0.343 roll=0.812
+[016] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Pinto United
+[016] BUILD Esporte Clube Carioca vs Pinto United prob=0.343 roll=0.980
+[016] FINAL Esporte Clube Carioca | Hugo Bergiund fam=5 duel=-62.80 on_target=0.511 goal=0.102
+[016] FINAL Hugo Bergiund: fora/alvo perdido (roll=0.683)
+[017] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Pinto United
+[017] BUILD Esporte Clube Carioca vs Pinto United prob=0.343 roll=0.268
+[017] JOGADA Esporte Clube Carioca | Clife Topete x Baru Valadão line=3 duel=12.60 corte=-1.15
+[017] FINAL Esporte Clube Carioca | João Oliveira fam=1 duel=-7.21 on_target=0.600 goal=0.215
+[017] FINAL João Oliveira: fora/alvo perdido (roll=0.644)
+[018] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Pinto United
+[018] BUILD Esporte Clube Carioca vs Pinto United prob=0.343 roll=0.202
+[018] JOGADA Esporte Clube Carioca | Filémon Matos x Raimundo Frango Jeba line=3 duel=11.18 corte=-1.15
+[018] FINAL Esporte Clube Carioca | João Oliveira fam=3 duel=-14.00 on_target=0.544 goal=0.162
+[018] FINAL João Oliveira: fora/alvo perdido (roll=0.804)
+[019] posse=Pinto United | placar Esporte Clube Carioca 0 x 0 Pinto United
+[019] BUILD Pinto United vs Esporte Clube Carioca prob=0.332 roll=0.363
+[020] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Pinto United
+[020] BUILD Esporte Clube Carioca vs Pinto United prob=0.343 roll=0.310
+[020] JOGADA Esporte Clube Carioca | Hugo Bergiund x Ovoberto line=2 duel=-0.68 corte=-1.15
+[020] FINAL Esporte Clube Carioca | Johan Lindström fam=1 duel=2.79 on_target=0.599 goal=0.218
+[020] FINAL Johan Lindström: GOL subtipo=CHUTE (roll=0.163)
+[021] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Pinto United
+[021] BUILD Esporte Clube Carioca vs Pinto United prob=0.368 roll=0.002
+[021] JOGADA Esporte Clube Carioca | Hugo Bergiund x Baru Valadão line=3 duel=-9.80 corte=-1.30
+[021] JOGADA falhou: Baru Valadão cortou
+[022] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Pinto United
+[022] BUILD Esporte Clube Carioca vs Pinto United prob=0.368 roll=0.816
+[023] posse=Pinto United | placar Esporte Clube Carioca 1 x 0 Pinto United
+[023] BUILD Pinto United vs Esporte Clube Carioca prob=0.437 roll=0.397
+[023] JOGADA Pinto United | Raimundo Frango Jeba x Clife Topete line=5 duel=-14.85 corte=-1.55
+[023] JOGADA falhou: Clife Topete cortou
+[024] posse=Pinto United | placar Esporte Clube Carioca 1 x 0 Pinto United
+[024] BUILD Pinto United vs Esporte Clube Carioca prob=0.437 roll=0.944
+[025] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Pinto United
+[025] BUILD Esporte Clube Carioca vs Pinto United prob=0.368 roll=0.538
+[026] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Pinto United
+[026] BUILD Esporte Clube Carioca vs Pinto United prob=0.368 roll=0.182
+[026] JOGADA Esporte Clube Carioca | João Oliveira x Mairubi Asinha line=2 duel=-13.84 corte=-1.30
+[026] JOGADA falhou: Mairubi Asinha cortou
+[027] posse=Pinto United | placar Esporte Clube Carioca 1 x 0 Pinto United
+[027] BUILD Pinto United vs Esporte Clube Carioca prob=0.437 roll=0.514
+[028] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Pinto United
+[028] BUILD Esporte Clube Carioca vs Pinto United prob=0.368 roll=0.670
+[029] posse=Pinto United | placar Esporte Clube Carioca 1 x 0 Pinto United
+[029] BUILD Pinto United vs Esporte Clube Carioca prob=0.437 roll=0.731
+[030] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Pinto United
+[030] BUILD Esporte Clube Carioca vs Pinto United prob=0.368 roll=0.236
+[030] JOGADA Esporte Clube Carioca | Filémon Matos x Pinto Souza line=2 duel=10.62 corte=-1.30
+[030] FINAL Esporte Clube Carioca | Hugo Bergiund fam=3 duel=-5.29 on_target=0.574 goal=0.171
+[030] FINAL Hugo Bergiund: GOL subtipo=CHUTE (roll=0.022)
+[031] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 2 x 0 Pinto United
+[031] BUILD Esporte Clube Carioca vs Pinto United prob=0.360 roll=0.286
+[031] JOGADA Esporte Clube Carioca | Clife Topete x Ovoberto line=4 duel=22.10 corte=-1.30
+[031] JOGADA Esporte Clube Carioca | João Oliveira x Falo Furioso line=5 duel=11.93 corte=-2.05
+[031] JOGADA Esporte Clube Carioca | Johan Lindström x Mairubi Asinha line=5 duel=-0.08 corte=-1.55
+[031] FINAL Esporte Clube Carioca | Filémon Matos fam=1 duel=8.53 on_target=0.608 goal=0.213
+[031] FINAL Filémon Matos: GOL subtipo=CHUTE (roll=0.063)
+[032] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Pinto United
+[032] BUILD Esporte Clube Carioca vs Pinto United prob=0.352 roll=0.691
+[033] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Pinto United
+[033] BUILD Esporte Clube Carioca vs Pinto United prob=0.352 roll=0.692
+[034] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Pinto United
+[034] BUILD Esporte Clube Carioca vs Pinto United prob=0.352 roll=0.102
+[034] JOGADA Esporte Clube Carioca | William Äkerlundt x Jetro Trindade line=2 duel=42.99 corte=-1.30
+[034] FINAL Esporte Clube Carioca | Hugo Bergiund fam=1 duel=-7.66 on_target=0.582 goal=0.193
+[034] FINAL Hugo Bergiund: fora/alvo perdido (roll=0.675)
+[035] posse=Pinto United | placar Esporte Clube Carioca 3 x 0 Pinto United
+[035] BUILD Pinto United vs Esporte Clube Carioca prob=0.444 roll=0.857
+[036] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Pinto United
+[036] BUILD Esporte Clube Carioca vs Pinto United prob=0.352 roll=0.104
+[036] JOGADA Esporte Clube Carioca | William Äkerlundt x Urbino Pinguino line=4 duel=41.00 corte=-1.30
+[036] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=1 duel=-11.36 on_target=0.578 goal=0.190
+[036] FINAL Wilfrid Aurmund: no alvo sem gol (roll=0.947)
+[037] posse=Pinto United | placar Esporte Clube Carioca 3 x 0 Pinto United
+[037] BUILD Pinto United vs Esporte Clube Carioca prob=0.444 roll=0.064
+[037] JOGADA Pinto United | Urbino Pinguino x Clife Topete line=4 duel=-17.68 corte=-1.30
+[038] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Pinto United
+[038] BUILD Esporte Clube Carioca vs Pinto United prob=0.352 roll=0.859
+[039] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Pinto United
+[039] BUILD Esporte Clube Carioca vs Pinto United prob=0.352 roll=0.558
+[040] posse=Pinto United | placar Esporte Clube Carioca 3 x 0 Pinto United
+[040] BUILD Pinto United vs Esporte Clube Carioca prob=0.444 roll=0.702
+[041] posse=Pinto United | placar Esporte Clube Carioca 3 x 0 Pinto United
+[041] BUILD Pinto United vs Esporte Clube Carioca prob=0.444 roll=0.010
+[041] JOGADA Pinto United | Ovoberto x Hugo Bergiund line=5 duel=87.61 corte=-1.55
+[041] FINAL Pinto United | Raimundo Frango Jeba fam=5 duel=-17.92 on_target=0.542 goal=0.137
+[041] FINAL Raimundo Frango Jeba: fora/alvo perdido (roll=0.879)
+[042] posse=Pinto United | placar Esporte Clube Carioca 3 x 0 Pinto United
+[042] BUILD Pinto United vs Esporte Clube Carioca prob=0.444 roll=0.609
+[043] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Pinto United
+[043] BUILD Esporte Clube Carioca vs Pinto United prob=0.352 roll=0.564
+[044] posse=Pinto United | placar Esporte Clube Carioca 3 x 0 Pinto United
+[044] BUILD Pinto United vs Esporte Clube Carioca prob=0.444 roll=0.595
+[045] posse=Pinto United | placar Esporte Clube Carioca 3 x 0 Pinto United
+[045] BUILD Pinto United vs Esporte Clube Carioca prob=0.443 roll=0.473
+[046] posse=Pinto United | placar Esporte Clube Carioca 3 x 0 Pinto United
+[046] BUILD Pinto United vs Esporte Clube Carioca prob=0.412 roll=0.709
+[047] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Pinto United
+[047] BUILD Esporte Clube Carioca vs Pinto United prob=0.328 roll=0.181
+[047] JOGADA Esporte Clube Carioca | William Äkerlundt x Urbino Pinguino line=3 duel=29.24 corte=-1.30
+[047] FINAL Esporte Clube Carioca | Clife Topete fam=1 duel=7.94 on_target=0.551 goal=0.192
+[047] FINAL Clife Topete: GOL subtipo=CHUTE (roll=0.106)
+[048] posse=Pinto United | placar Esporte Clube Carioca 4 x 0 Pinto United
+[048] BUILD Pinto United vs Esporte Clube Carioca prob=0.412 roll=0.820
+[049] posse=Pinto United | placar Esporte Clube Carioca 4 x 0 Pinto United
+[049] BUILD Pinto United vs Esporte Clube Carioca prob=0.412 roll=0.968
+[050] posse=Pinto United | placar Esporte Clube Carioca 4 x 0 Pinto United
+[050] SUB Esporte Clube Carioca: saiu Wilfrid Aurmund (SA) | entrou Nils Nil (SA) | subs=1/5
+[050] SUB Pinto United: saiu Urbino Pinguino (PE) | entrou Oribá (PD) | subs=1/5
+[050] BUILD Pinto United vs Esporte Clube Carioca prob=0.410 roll=0.377
+[050] JOGADA Pinto United | Ovoberto x Hemaxi Custódio line=4 duel=-1.51 corte=-1.30
+[051] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 0 Pinto United
+[051] SUB Esporte Clube Carioca: saiu João Oliveira (CA) | entrou Lukas Lopes (CA) | subs=2/5
+[051] SUB Pinto United: saiu Raimundo Frango Jeba (VOL) | entrou Capão Bicudo (VOL) | subs=2/5
+[051] BUILD Esporte Clube Carioca vs Pinto United prob=0.347 roll=0.905
+[052] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 0 Pinto United
+[052] SUB Esporte Clube Carioca: saiu Hugo Bergiund (CA) | entrou Wilhem Foort (CA) | subs=3/5
+[052] BUILD Esporte Clube Carioca vs Pinto United prob=0.357 roll=0.788
+[053] posse=Pinto United | placar Esporte Clube Carioca 4 x 0 Pinto United
+[053] BUILD Pinto United vs Esporte Clube Carioca prob=0.363 roll=0.536
+[054] posse=Pinto United | placar Esporte Clube Carioca 4 x 0 Pinto United
+[054] BUILD Pinto United vs Esporte Clube Carioca prob=0.363 roll=0.444
+[055] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 0 Pinto United
+[055] BUILD Esporte Clube Carioca vs Pinto United prob=0.357 roll=0.751
+[056] posse=Pinto United | placar Esporte Clube Carioca 4 x 0 Pinto United
+[056] SUB Pinto United: saiu Mairã Coxinha (MC) | entrou Ladislau Alves (MD) | subs=3/5
+[056] BUILD Pinto United vs Esporte Clube Carioca prob=0.388 roll=0.158
+[056] JOGADA Pinto United | Capão Bicudo x William Äkerlundt line=5 duel=11.62 corte=-1.36
+[056] JOGADA Pinto United | Jetro Trindade x Getúlio Leitão line=5 duel=-29.04 corte=-1.36
+[056] JOGADA falhou: Getúlio Leitão cortou
+[057] posse=Pinto United | placar Esporte Clube Carioca 4 x 0 Pinto United
+[057] BUILD Pinto United vs Esporte Clube Carioca prob=0.388 roll=0.257
+[057] JOGADA Pinto United | Capão Bicudo x Lukas Lopes line=4 duel=4.68 corte=-1.11
+[057] FINAL Pinto United | Oribá fam=1 duel=19.29 on_target=0.628 goal=0.233
+[057] FINAL Oribá: GOL subtipo=CHUTE (roll=0.033)
+[058] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[058] BUILD Esporte Clube Carioca vs Pinto United prob=0.362 roll=0.176
+[058] JOGADA Esporte Clube Carioca | Clife Topete x Falo Furioso line=4 duel=39.80 corte=-1.70
+[058] JOGADA Esporte Clube Carioca | Clife Topete x Kuaray Gato line=5 duel=82.70 corte=-1.95
+[058] FINAL Esporte Clube Carioca | Lukas Lopes fam=5 duel=22.02 on_target=0.502 goal=0.133
+[058] FINAL Lukas Lopes: no alvo sem gol (roll=0.968)
+[059] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[059] BUILD Esporte Clube Carioca vs Pinto United prob=0.362 roll=0.790
+[060] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[060] SUB Pinto United: saiu Pinto Souza (ZAG) | entrou Áquila Frangalho (ZAG) | subs=4/5
+[060] BUILD Esporte Clube Carioca vs Pinto United prob=0.373 roll=0.997
+[061] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[061] SUB Pinto United: saiu Ovoberto (MC) | entrou Júlio do Cocoricó (MC) | subs=5/5
+[061] BUILD Pinto United vs Esporte Clube Carioca prob=0.385 roll=0.082
+[061] JOGADA Pinto United | Jetro Trindade x Getúlio Leitão line=4 duel=-21.66 corte=-1.12
+[062] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[062] BUILD Esporte Clube Carioca vs Pinto United prob=0.380 roll=0.701
+[063] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[063] BUILD Pinto United vs Esporte Clube Carioca prob=0.385 roll=0.474
+[064] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[064] BUILD Pinto United vs Esporte Clube Carioca prob=0.385 roll=0.603
+[065] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[065] BUILD Pinto United vs Esporte Clube Carioca prob=0.385 roll=0.266
+[065] JOGADA Pinto United | Kuaray Gato x Hemaxi Custódio line=4 duel=-72.06 corte=-1.12
+[065] JOGADA falhou: Hemaxi Custódio cortou
+[066] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[066] BUILD Pinto United vs Esporte Clube Carioca prob=0.385 roll=0.062
+[066] JOGADA Pinto United | Ladislau Alves x Getúlio Leitão line=4 duel=-0.70 corte=-1.12
+[066] JOGADA Pinto United | Oribá x Oliver Lindström line=4 duel=-7.91 corte=-1.12
+[067] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[067] SUB Esporte Clube Carioca: saiu Hemaxi Custódio (ZAG) | entrou Aristóteles Coelho (ZAG) | subs=4/5
+[067] BUILD Pinto United vs Esporte Clube Carioca prob=0.393 roll=0.165
+[067] JOGADA Pinto United | Áquila Frangalho x Aristóteles Coelho line=4 duel=3.76 corte=-1.12
+[067] JOGADA Pinto United | Baru Valadão x William Äkerlundt line=4 duel=-20.25 corte=-1.12
+[068] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[068] BUILD Pinto United vs Esporte Clube Carioca prob=0.393 roll=0.270
+[068] JOGADA Pinto United | Mairubi Asinha x Aristóteles Coelho line=4 duel=-89.77 corte=-1.11
+[068] JOGADA falhou: Aristóteles Coelho cortou
+[069] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[069] BUILD Esporte Clube Carioca vs Pinto United prob=0.382 roll=0.519
+[069] FINAL Esporte Clube Carioca | Wilhem Foort fam=5 duel=19.24 on_target=0.502 goal=0.133
+[069] FINAL Wilhem Foort: no alvo sem gol (roll=0.176)
+[070] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[070] BUILD Pinto United vs Esporte Clube Carioca prob=0.393 roll=0.981
+[071] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[071] BUILD Esporte Clube Carioca vs Pinto United prob=0.382 roll=0.615
+[072] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[072] BUILD Pinto United vs Esporte Clube Carioca prob=0.393 roll=0.260
+[072] JOGADA Pinto United | Baru Valadão x Wilhem Foort line=5 duel=18.38 corte=-1.32
+[072] FINAL Pinto United | Falo Furioso fam=1 duel=13.56 on_target=0.632 goal=0.233
+[072] FINAL Falo Furioso: no alvo sem gol (roll=0.864)
+[073] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[073] BUILD Esporte Clube Carioca vs Pinto United prob=0.382 roll=0.557
+[074] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[074] BUILD Esporte Clube Carioca vs Pinto United prob=0.382 roll=0.583
+[075] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[075] BUILD Esporte Clube Carioca vs Pinto United prob=0.382 roll=0.684
+[076] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[076] BUILD Pinto United vs Esporte Clube Carioca prob=0.425 roll=0.101
+[076] JOGADA Pinto United | Baru Valadão x Getúlio Leitão line=3 duel=-1.74 corte=-1.07
+[076] JOGADA falhou: Getúlio Leitão cortou
+[077] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[077] BUILD Esporte Clube Carioca vs Pinto United prob=0.370 roll=0.394
+[078] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[078] SUB Esporte Clube Carioca: saiu Nils Nil (SA) | entrou Adelmo Custódio (SA) | subs=5/5
+[078] BUILD Pinto United vs Esporte Clube Carioca prob=0.423 roll=0.773
+[079] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[079] BUILD Esporte Clube Carioca vs Pinto United prob=0.362 roll=0.217
+[079] JOGADA Esporte Clube Carioca | Aristóteles Coelho x Ladislau Alves line=4 duel=-7.03 corte=-1.70
+[079] JOGADA falhou: Ladislau Alves cortou
+[080] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[080] BUILD Pinto United vs Esporte Clube Carioca prob=0.423 roll=0.473
+[081] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[081] BUILD Pinto United vs Esporte Clube Carioca prob=0.423 roll=0.705
+[081] FINAL Pinto United | Jetro Trindade fam=5 duel=-15.63 on_target=0.571 goal=0.131
+[081] FINAL Jetro Trindade: fora/alvo perdido (roll=0.581)
+[082] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[082] BUILD Pinto United vs Esporte Clube Carioca prob=0.423 roll=0.836
+[083] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[083] BUILD Pinto United vs Esporte Clube Carioca prob=0.423 roll=0.155
+[083] JOGADA Pinto United | Kuaray Gato x Clife Topete line=4 duel=-85.66 corte=-1.07
+[083] JOGADA falhou: Clife Topete cortou
+[084] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[084] BUILD Pinto United vs Esporte Clube Carioca prob=0.423 roll=0.525
+[085] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[085] BUILD Pinto United vs Esporte Clube Carioca prob=0.419 roll=0.325
+[085] JOGADA Pinto United | Baru Valadão x Wilhem Foort line=5 duel=-15.68 corte=-1.32
+[085] JOGADA falhou: Wilhem Foort cortou
+[086] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[086] BUILD Pinto United vs Esporte Clube Carioca prob=0.419 roll=0.440
+[087] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[087] BUILD Esporte Clube Carioca vs Pinto United prob=0.362 roll=0.595
+[088] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[088] BUILD Esporte Clube Carioca vs Pinto United prob=0.362 roll=0.313
+[088] JOGADA Esporte Clube Carioca | William Äkerlundt x Jetro Trindade line=3 duel=0.11 corte=-1.70
+[088] FINAL Esporte Clube Carioca | Wilhem Foort fam=5 duel=-38.97 on_target=0.490 goal=0.107
+[088] FINAL Wilhem Foort: no alvo sem gol (roll=0.692)
+[089] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[089] BUILD Pinto United vs Esporte Clube Carioca prob=0.419 roll=0.045
+[089] JOGADA Pinto United | Jetro Trindade x Oliver Lindström line=4 duel=-14.73 corte=-1.07
+[089] JOGADA falhou: Oliver Lindström cortou
+[090] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 4 x 1 Pinto United
+[090] BUILD Esporte Clube Carioca vs Pinto United prob=0.362 roll=0.654
+[091] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[091] BUILD Pinto United vs Esporte Clube Carioca prob=0.419 roll=0.045
+[091] JOGADA Pinto United | Ladislau Alves x William Äkerlundt line=4 duel=-3.75 corte=-1.07
+[091] JOGADA falhou: William Äkerlundt cortou
+[092] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[092] BUILD Pinto United vs Esporte Clube Carioca prob=0.419 roll=1.000
+[093] posse=Pinto United | placar Esporte Clube Carioca 4 x 1 Pinto United
+[093] BUILD Pinto United vs Esporte Clube Carioca prob=0.419 roll=0.368
+[093] JOGADA Pinto United | Baru Valadão x Getúlio Leitão line=4 duel=-17.33 corte=-1.07
+[093] JOGADA falhou: Getúlio Leitão cortou

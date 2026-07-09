@@ -1,0 +1,359 @@
+Partida #215
+Data: 1912-01-20
+Mandante: Confraria Ludopédica Reconquista
+Visitante: Associação Athletica Internacional
+Placar: 4 x 0
+Seed: -
+Estádio: Estádio Ouriques
+Clima: Frio forte
+Placar tempo normal: 4 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Confraria Ludopédica Reconquista x Associação Athletica Internacional | estádio=Estádio Ouriques | clima=Frio forte | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[001] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.374 roll=0.573
+[002] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[002] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.317 roll=0.412
+[003] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[003] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.374 roll=0.526
+[004] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[004] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.317 roll=0.898
+[005] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[005] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.317 roll=0.485
+[006] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[006] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.374 roll=0.413
+[007] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[007] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.374 roll=0.046
+[007] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Abílio Boca-torta line=2 duel=33.09 corte=-1.12
+[007] JOGADA Confraria Ludopédica Reconquista | Based Viriato x Berno Rossi line=3 duel=-2.29 corte=-1.12
+[007] JOGADA falhou: Berno Rossi cortou
+[008] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[008] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.374 roll=0.343
+[008] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Astrojildo line=3 duel=-3.46 corte=-1.12
+[008] JOGADA falhou: Astrojildo cortou
+[009] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[009] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.317 roll=0.126
+[009] JOGADA Associação Athletica Internacional | Leo Basbaum x Paulo Leleco line=3 duel=-15.76 corte=-1.30
+[009] JOGADA falhou: Paulo Leleco cortou
+[010] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[010] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.374 roll=0.442
+[011] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[011] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.405 roll=0.842
+[012] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[012] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.343 roll=0.176
+[012] JOGADA Associação Athletica Internacional | Leo Basbaum x Martinho Dume line=3 duel=79.87 corte=-1.30
+[012] JOGADA Associação Athletica Internacional | Horácio Canhão x Segofredo Araújo line=4 duel=21.98 corte=-1.30
+[012] FINAL Associação Athletica Internacional | Gio Occhetto fam=5 duel=-81.07 on_target=0.619 goal=0.124
+[012] FINAL Gio Occhetto: no alvo sem gol (roll=0.284)
+[013] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[013] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.343 roll=0.629
+[014] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[014] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.405 roll=0.092
+[014] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Lorenzo Silva line=4 duel=0.37 corte=-1.12
+[014] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Christiano Cordeiro line=5 duel=128.10 corte=-1.87
+[014] FINAL Confraria Ludopédica Reconquista | Robert Sensacional fam=1 duel=14.83 on_target=0.727 goal=0.266
+[014] FINAL Robert Sensacional: no alvo sem gol (roll=0.658)
+[015] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[015] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.343 roll=0.129
+[015] JOGADA Associação Athletica Internacional | Horácio Canhão x Hermenegildo Strauss line=2 duel=33.55 corte=-1.30
+[015] JOGADA Associação Athletica Internacional | Alceo Panicucci x Duarte Pacheco line=4 duel=33.83 corte=-1.30
+[015] FINAL Associação Athletica Internacional | Gio Occhetto fam=5 duel=-12.98 on_target=0.623 goal=0.158
+[015] FINAL Gio Occhetto: no alvo sem gol (roll=0.747)
+[016] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[016] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.343 roll=0.727
+[017] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[017] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.405 roll=0.459
+[018] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[018] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.343 roll=0.231
+[018] JOGADA Associação Athletica Internacional | Lorenzo Silva x Hermenegildo Strauss line=3 duel=-23.02 corte=-1.30
+[018] JOGADA falhou: Hermenegildo Strauss cortou
+[019] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 0 x 0 Associação Athletica Internacional
+[019] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.405 roll=0.288
+[019] JOGADA Confraria Ludopédica Reconquista | Hermenegildo Strauss x Lorenzo Silva line=3 duel=49.92 corte=-1.12
+[019] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Horácio Canhão line=4 duel=4.11 corte=-1.12
+[019] FINAL Confraria Ludopédica Reconquista | Based Viriato fam=1 duel=-4.88 on_target=0.722 goal=0.255
+[019] FINAL Based Viriato: GOL subtipo=CHUTE (roll=0.235)
+[020] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[020] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.405 roll=0.394
+[020] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Berno Rossi line=2 duel=81.93 corte=-1.30
+[020] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Gio Occhetto line=5 duel=39.24 corte=-1.55
+[020] JOGADA Confraria Ludopédica Reconquista | Hermenegildo Strauss x Christiano Cordeiro line=5 duel=32.01 corte=-1.55
+[020] FINAL Confraria Ludopédica Reconquista | Martinho Dume fam=1 duel=-3.36 on_target=0.720 goal=0.254
+[020] FINAL Martinho Dume: no alvo sem gol (roll=0.793)
+[021] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[021] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.435 roll=0.462
+[022] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[022] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.438 roll=0.496
+[023] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[023] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.438 roll=0.207
+[023] JOGADA Associação Athletica Internacional | Leo Basbaum x Duarte Pacheco line=3 duel=16.40 corte=-1.30
+[023] JOGADA Associação Athletica Internacional | Horácio Canhão x Hermenegildo Strauss line=4 duel=-32.01 corte=-1.30
+[023] JOGADA falhou: Hermenegildo Strauss cortou
+[024] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[024] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.438 roll=0.054
+[024] JOGADA Associação Athletica Internacional | Astrojildo x Martinho Dume line=4 duel=-19.03 corte=-1.30
+[024] JOGADA falhou: Martinho Dume cortou
+[025] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[025] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.438 roll=0.942
+[026] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[026] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.435 roll=0.556
+[027] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[027] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.435 roll=0.234
+[027] JOGADA Confraria Ludopédica Reconquista | São Sebastião x Alceo Panicucci line=2 duel=-1.13 corte=-1.30
+[027] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Didinho line=3 duel=5.48 corte=-1.30
+[027] JOGADA Confraria Ludopédica Reconquista | Hermenegildo Strauss x Christiano Cordeiro line=4 duel=0.81 corte=-1.30
+[027] FINAL Confraria Ludopédica Reconquista | Robert Sensacional fam=1 duel=15.02 on_target=0.766 goal=0.275
+[027] FINAL Robert Sensacional: no alvo sem gol (roll=0.911)
+[028] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[028] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.435 roll=0.086
+[028] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Astrojildo line=3 duel=13.50 corte=-1.30
+[028] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Horácio Canhão line=5 duel=21.06 corte=-2.05
+[028] JOGADA Confraria Ludopédica Reconquista | Narcelinho x Horácio Canhão line=5 duel=3.19 corte=-1.55
+[028] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=1 duel=6.20 on_target=0.760 goal=0.268
+[028] FINAL Segofredo Araújo: no alvo sem gol (roll=0.657)
+[029] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[029] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.435 roll=0.063
+[029] JOGADA Confraria Ludopédica Reconquista | São Sebastião x Lorenzo Silva line=2 duel=-9.75 corte=-1.30
+[030] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[030] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.435 roll=0.581
+[031] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[031] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.435 roll=0.023
+[031] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Gio Occhetto line=3 duel=36.37 corte=-1.30
+[031] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=3 duel=3.47 on_target=0.690 goal=0.205
+[031] FINAL Segofredo Araújo: no alvo sem gol (roll=0.754)
+[032] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[032] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.438 roll=0.728
+[033] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[033] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.435 roll=0.378
+[033] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Leo Basbaum line=3 duel=46.00 corte=-1.30
+[033] JOGADA Confraria Ludopédica Reconquista | Martinho Dume x Christiano Cordeiro line=4 duel=6.79 corte=-1.30
+[033] JOGADA Confraria Ludopédica Reconquista | São Sebastião x Horácio Canhão line=5 duel=2.13 corte=-1.55
+[033] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=1 duel=3.00 on_target=0.760 goal=0.266
+[033] FINAL Segofredo Araújo: no alvo sem gol (roll=0.521)
+[034] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[034] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.438 roll=0.201
+[034] JOGADA Associação Athletica Internacional | Horácio Canhão x Narcelinho line=3 duel=-9.05 corte=-1.30
+[034] JOGADA falhou: Narcelinho cortou
+[035] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[035] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.438 roll=0.549
+[036] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[036] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.438 roll=0.752
+[037] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[037] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.435 roll=0.288
+[037] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Astrojildo line=2 duel=18.57 corte=-1.30
+[037] FINAL Confraria Ludopédica Reconquista | Based Viriato fam=1 duel=2.72 on_target=0.761 goal=0.266
+[037] FINAL Based Viriato: no alvo sem gol (roll=0.892)
+[038] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[038] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.438 roll=0.961
+[039] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[039] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.438 roll=0.048
+[039] JOGADA Associação Athletica Internacional | Lorenzo Silva x Narcelinho line=4 duel=-48.65 corte=-1.30
+[039] JOGADA falhou: Narcelinho cortou
+[040] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[040] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.435 roll=0.283
+[040] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Astrojildo line=2 duel=11.33 corte=-1.30
+[040] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Lorenzo Silva line=3 duel=6.25 corte=-1.30
+[040] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Gio Occhetto line=4 duel=47.33 corte=-1.30
+[041] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[041] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.435 roll=0.426
+[041] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Astrojildo line=3 duel=2.62 corte=-1.30
+[041] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Horácio Canhão line=4 duel=11.33 corte=-1.30
+[041] FINAL Confraria Ludopédica Reconquista | Based Viriato fam=3 duel=2.41 on_target=0.690 goal=0.205
+[041] FINAL Based Viriato: fora/alvo perdido (roll=0.927)
+[042] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[042] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.438 roll=0.654
+[043] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[043] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.438 roll=0.001
+[043] JOGADA Associação Athletica Internacional | Gio Occhetto x Based Viriato line=3 duel=12.15 corte=-1.30
+[043] JOGADA Associação Athletica Internacional | Astrojildo x São Sebastião line=4 duel=-38.68 corte=-1.30
+[043] JOGADA falhou: São Sebastião cortou
+[044] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[044] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.438 roll=0.822
+[045] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[045] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.435 roll=0.239
+[045] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Christiano Cordeiro line=3 duel=17.57 corte=-1.30
+[045] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Alceo Panicucci line=4 duel=20.26 corte=-1.30
+[045] JOGADA Confraria Ludopédica Reconquista | São Sebastião x Horácio Canhão line=5 duel=40.07 corte=-1.55
+[045] FINAL Confraria Ludopédica Reconquista | Duarte Pacheco fam=1 duel=3.11 on_target=0.761 goal=0.266
+[045] FINAL Duarte Pacheco: no alvo sem gol (roll=0.469)
+[046] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[046] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.407 roll=0.380
+[046] JOGADA Associação Athletica Internacional | Gio Occhetto x Robert Sensacional line=2 duel=69.04 corte=-1.30
+[046] JOGADA Associação Athletica Internacional | Berno Rossi x Paulo Leleco line=4 duel=-35.84 corte=-1.30
+[047] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[047] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.407 roll=0.416
+[048] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[048] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.407 roll=0.770
+[049] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[049] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.407 roll=0.358
+[049] JOGADA Associação Athletica Internacional | Christiano Cordeiro x São Sebastião line=4 duel=-26.88 corte=-1.30
+[050] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[050] SUB Associação Athletica Internacional: saiu Gio Occhetto (CA) | entrou Elizeu Alagoano (CA) | subs=1/5
+[050] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.359 roll=0.872
+[051] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[051] SUB Associação Athletica Internacional: saiu Leo Basbaum (CA) | entrou Ítalinho (CA) | subs=2/5
+[051] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.351 roll=0.138
+[051] JOGADA Associação Athletica Internacional | Astrojildo x Martinho Dume line=3 duel=-2.42 corte=-1.30
+[052] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[052] SUB Associação Athletica Internacional: saiu Horácio Canhão (MA) | entrou Arythoreon (MA) | subs=3/5
+[052] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.410 roll=0.841
+[053] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[053] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.410 roll=0.921
+[054] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[054] SUB Associação Athletica Internacional: saiu Berno Rossi (ZAG) | entrou Fabrício Leão (ZAG) | subs=4/5
+[054] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.345 roll=0.824
+[055] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[055] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.345 roll=0.767
+[056] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[056] SUB Confraria Ludopédica Reconquista: saiu Martinho Dume (MC) | entrou Lécio Carrico (MC) | subs=1/5
+[056] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.443 roll=0.642
+[057] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[057] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.443 roll=0.342
+[057] JOGADA Confraria Ludopédica Reconquista | Based Viriato x Astrojildo line=3 duel=-2.19 corte=-1.30
+[057] JOGADA falhou: Astrojildo cortou
+[058] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 1 x 0 Associação Athletica Internacional
+[058] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.443 roll=0.151
+[058] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Ítalinho line=2 duel=63.76 corte=-1.30
+[058] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Christiano Cordeiro line=5 duel=90.69 corte=-2.05
+[058] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Abílio Boca-torta line=5 duel=29.54 corte=-2.05
+[058] FINAL Confraria Ludopédica Reconquista | Based Viriato fam=1 duel=-1.10 on_target=0.761 goal=0.264
+[058] FINAL Based Viriato: GOL subtipo=CHUTE (roll=0.023)
+[059] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[059] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.375 roll=0.122
+[059] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Lécio Carrico line=2 duel=53.93 corte=-1.30
+[059] FINAL Associação Athletica Internacional | Abílio Boca-torta fam=5 duel=-16.55 on_target=0.657 goal=0.164
+[059] FINAL Abílio Boca-torta: fora/alvo perdido (roll=0.964)
+[060] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[060] SUB Associação Athletica Internacional: saiu Christiano Cordeiro (AD) | entrou Otacílio Silveira (AD) | subs=5/5
+[060] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.444 roll=0.696
+[061] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[061] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.377 roll=0.833
+[062] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[062] SUB Confraria Ludopédica Reconquista: saiu Hermenegildo Strauss (LE) | entrou Tamarindo Souto (LE) | subs=2/5
+[062] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.379 roll=0.483
+[063] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[063] SUB Confraria Ludopédica Reconquista: saiu São Sebastião (ZAG) | entrou Principiano Chamberlain (ZAG) | subs=3/5
+[063] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.379 roll=0.848
+[064] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[064] SUB Confraria Ludopédica Reconquista: saiu Based Viriato (CA) | entrou Dante Alígero (CA) | subs=4/5
+[064] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.384 roll=0.193
+[064] JOGADA Associação Athletica Internacional | Otacílio Silveira x Paulo Leleco line=3 duel=61.67 corte=-1.30
+[064] JOGADA Associação Athletica Internacional | Fabrício Leão x Segofredo Araújo line=4 duel=9.64 corte=-1.30
+[064] JOGADA Associação Athletica Internacional | Fabrício Leão x Segofredo Araújo line=4 duel=18.67 corte=-1.30
+[064] FINAL Associação Athletica Internacional | Alceo Panicucci fam=1 duel=2.30 on_target=0.757 goal=0.272
+[064] FINAL Alceo Panicucci: fora/alvo perdido (roll=0.953)
+[065] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[065] SUB Confraria Ludopédica Reconquista: saiu Narcelinho (ZAG) | entrou Zé Carioca (ZAG) | subs=5/5
+[065] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.405 roll=0.122
+[065] JOGADA Confraria Ludopédica Reconquista | Principiano Chamberlain x Didinho line=4 duel=12.09 corte=-1.30
+[065] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Arythoreon line=4 duel=-11.25 corte=-1.30
+[065] JOGADA falhou: Arythoreon cortou
+[066] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[066] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.405 roll=0.333
+[066] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Elizeu Alagoano line=4 duel=-82.39 corte=-1.30
+[066] JOGADA falhou: Elizeu Alagoano cortou
+[067] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[067] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.405 roll=0.979
+[068] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[068] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.405 roll=0.303
+[068] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Otacílio Silveira line=3 duel=-4.94 corte=-1.30
+[068] JOGADA falhou: Otacílio Silveira cortou
+[069] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[069] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.405 roll=0.415
+[070] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[070] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.405 roll=0.371
+[070] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Lorenzo Silva line=3 duel=56.21 corte=-1.30
+[070] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Alceo Panicucci line=4 duel=2.84 corte=-1.30
+[070] JOGADA Confraria Ludopédica Reconquista | Zé Carioca x Lorenzo Silva line=5 duel=9.70 corte=-1.55
+[070] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=1 duel=2.66 on_target=0.737 goal=0.253
+[070] FINAL Segofredo Araújo: no alvo sem gol (roll=0.665)
+[071] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[071] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.405 roll=0.313
+[071] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Arythoreon line=2 duel=73.09 corte=-1.30
+[071] JOGADA Confraria Ludopédica Reconquista | Tamarindo Souto x Alceo Panicucci line=5 duel=83.43 corte=-1.55
+[071] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Arythoreon line=5 duel=0.36 corte=-2.05
+[071] FINAL Confraria Ludopédica Reconquista | Robert Sensacional fam=1 duel=16.13 on_target=0.743 goal=0.261
+[071] FINAL Robert Sensacional: no alvo sem gol (roll=0.420)
+[072] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[072] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.405 roll=0.985
+[073] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[073] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.384 roll=0.937
+[074] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[074] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.384 roll=0.360
+[074] JOGADA Associação Athletica Internacional | Lorenzo Silva x Tamarindo Souto line=3 duel=-28.71 corte=-1.30
+[074] JOGADA falhou: Tamarindo Souto cortou
+[075] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[075] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.384 roll=0.995
+[076] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[076] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.393 roll=0.373
+[076] JOGADA Confraria Ludopédica Reconquista | Zé Carioca x Lorenzo Silva line=3 duel=11.42 corte=-1.30
+[076] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=1 duel=4.59 on_target=0.722 goal=0.251
+[076] FINAL Segofredo Araújo: no alvo sem gol (roll=0.790)
+[077] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[077] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.415 roll=0.494
+[078] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[078] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.393 roll=0.373
+[078] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Arythoreon line=4 duel=-79.40 corte=-1.30
+[078] JOGADA falhou: Arythoreon cortou
+[079] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[079] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.393 roll=0.953
+[080] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[080] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.415 roll=0.948
+[081] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[081] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.393 roll=0.371
+[081] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Ítalinho line=2 duel=-7.13 corte=-1.30
+[081] JOGADA falhou: Ítalinho cortou
+[082] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[082] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.415 roll=0.900
+[083] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[083] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.393 roll=0.702
+[084] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[084] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.393 roll=0.120
+[084] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Lorenzo Silva line=3 duel=8.55 corte=-1.30
+[084] JOGADA Confraria Ludopédica Reconquista | Dante Alígero x Ítalinho line=5 duel=49.99 corte=-2.05
+[084] JOGADA Confraria Ludopédica Reconquista | Tamarindo Souto x Didinho line=5 duel=68.01 corte=-1.55
+[084] FINAL Confraria Ludopédica Reconquista | Robert Sensacional fam=1 duel=10.20 on_target=0.727 goal=0.264
+[084] FINAL Robert Sensacional: no alvo sem gol (roll=0.776)
+[085] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[085] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.393 roll=0.426
+[085] FINAL Confraria Ludopédica Reconquista | Lécio Carrico fam=5 duel=3.10 on_target=0.621 goal=0.153
+[085] FINAL Lécio Carrico: fora/alvo perdido (roll=0.640)
+[086] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[086] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.393 roll=0.963
+[087] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[087] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.481 roll=0.361
+[087] JOGADA Associação Athletica Internacional | Arythoreon x Dante Alígero line=3 duel=-16.73 corte=-1.30
+[087] JOGADA falhou: Dante Alígero cortou
+[088] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[088] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.481 roll=0.509
+[089] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[089] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.481 roll=0.683
+[090] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[090] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.481 roll=0.517
+[091] posse=Associação Athletica Internacional | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[091] BUILD Associação Athletica Internacional vs Confraria Ludopédica Reconquista prob=0.481 roll=0.105
+[091] JOGADA Associação Athletica Internacional | Elizeu Alagoano x Tamarindo Souto line=3 duel=-4.03 corte=-1.30
+[091] JOGADA falhou: Tamarindo Souto cortou
+[092] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[092] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.393 roll=0.085
+[092] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Abílio Boca-torta line=3 duel=55.68 corte=-1.30
+[092] JOGADA Confraria Ludopédica Reconquista | Tamarindo Souto x Astrojildo line=4 duel=-60.24 corte=-1.30
+[092] JOGADA falhou: Astrojildo cortou
+[093] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 2 x 0 Associação Athletica Internacional
+[093] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.393 roll=0.264
+[093] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Arythoreon line=3 duel=11.05 corte=-1.30
+[093] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Abílio Boca-torta line=4 duel=9.08 corte=-1.30
+[093] JOGADA Confraria Ludopédica Reconquista | Lécio Carrico x Arythoreon line=4 duel=11.85 corte=-1.30
+[093] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=1 duel=3.78 on_target=0.722 goal=0.258
+[093] FINAL Segofredo Araújo: GOL subtipo=CHUTE (roll=0.031)
+[094] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 3 x 0 Associação Athletica Internacional
+[094] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.386 roll=0.381
+[094] JOGADA Confraria Ludopédica Reconquista | Zé Carioca x Arythoreon line=4 duel=3.56 corte=-1.30
+[094] JOGADA Confraria Ludopédica Reconquista | Dante Alígero x Alceo Panicucci line=4 duel=16.65 corte=-1.30
+[094] FINAL Confraria Ludopédica Reconquista | Robert Sensacional fam=1 duel=11.49 on_target=0.705 goal=0.252
+[094] FINAL Robert Sensacional: GOL subtipo=CHUTE (roll=0.233)
+[095] posse=Confraria Ludopédica Reconquista | placar Confraria Ludopédica Reconquista 4 x 0 Associação Athletica Internacional
+[095] BUILD Confraria Ludopédica Reconquista vs Associação Athletica Internacional prob=0.380 roll=0.896

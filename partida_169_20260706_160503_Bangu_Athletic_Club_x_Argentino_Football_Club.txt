@@ -1,0 +1,359 @@
+Partida #169
+Data: 1912-01-16
+Mandante: Bangu Athletic Club
+Visitante: Argentino Football Club
+Placar: 4 x 1
+Seed: -
+Estádio: Estádio Moça Bonita
+Clima: Chuva leve
+Placar tempo normal: 4 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Bangu Athletic Club x Argentino Football Club | estádio=Estádio Moça Bonita | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Argentino Football Club
+[001] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.360 roll=0.723
+[002] posse=Argentino Football Club | placar Bangu Athletic Club 0 x 0 Argentino Football Club
+[002] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.319 roll=0.212
+[002] JOGADA Argentino Football Club | Florentino Berdardinelli x Frederick Burton line=3 duel=120.56 corte=-1.30
+[002] JOGADA Argentino Football Club | Anisauá Peralta x Alfred Moore line=4 duel=-24.27 corte=-1.30
+[002] JOGADA falhou: Alfred Moore cortou
+[003] posse=Argentino Football Club | placar Bangu Athletic Club 0 x 0 Argentino Football Club
+[003] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.319 roll=0.326
+[004] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Argentino Football Club
+[004] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.360 roll=0.368
+[005] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Argentino Football Club
+[005] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.360 roll=0.099
+[005] JOGADA Bangu Athletic Club | Moacir Zanetti x Márcio de Lima line=5 duel=6.98 corte=-1.89
+[005] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=12.92 on_target=0.611 goal=0.231
+[005] FINAL Frederick Burton: fora/alvo perdido (roll=0.662)
+[006] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Argentino Football Club
+[006] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.360 roll=0.317
+[006] JOGADA Bangu Athletic Club | Moacir Zanetti x Tamandaré Maldonado line=4 duel=130.91 corte=-1.14
+[006] FINAL Bangu Athletic Club | Vitor Quitério Gonzaga fam=1 duel=-6.54 on_target=0.600 goal=0.218
+[006] FINAL Vitor Quitério Gonzaga: GOL subtipo=CHUTE (roll=0.095)
+[007] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 0 Argentino Football Club
+[007] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.360 roll=0.234
+[007] JOGADA Bangu Athletic Club | Bernardo Guimarães x Florentino Berdardinelli line=4 duel=32.89 corte=-1.30
+[007] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=9.08 on_target=0.611 goal=0.230
+[007] FINAL Frederick Burton: GOL subtipo=CHUTE (roll=0.091)
+[008] posse=Bangu Athletic Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[008] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.352 roll=0.241
+[008] JOGADA Bangu Athletic Club | Bernardo Guimarães x Filinto Quinteiro line=4 duel=0.63 corte=-1.30
+[008] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=12.36 on_target=0.583 goal=0.213
+[008] FINAL Moacir Zanetti: no alvo sem gol (roll=0.359)
+[009] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[009] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.396 roll=0.473
+[010] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[010] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.396 roll=0.105
+[010] JOGADA Argentino Football Club | Márcio de Lima x Júlio Gutierres Barbosa line=4 duel=-75.79 corte=-1.30
+[010] JOGADA falhou: Júlio Gutierres Barbosa cortou
+[011] posse=Bangu Athletic Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[011] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.381 roll=0.293
+[011] JOGADA Bangu Athletic Club | Júlio Gutierres Barbosa x Tamandaré Maldonado line=3 duel=19.87 corte=-1.30
+[011] FINAL Bangu Athletic Club | Vitor Quitério Gonzaga fam=1 duel=-8.15 on_target=0.622 goal=0.216
+[011] FINAL Vitor Quitério Gonzaga: no alvo sem gol (roll=0.522)
+[012] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[012] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.428 roll=0.224
+[012] JOGADA Argentino Football Club | Abaçaí Azevedo x Moacir Zanetti line=3 duel=22.86 corte=-1.30
+[012] FINAL Argentino Football Club | Anisauá Peralta fam=5 duel=2.06 on_target=0.559 goal=0.148
+[012] FINAL Anisauá Peralta: fora/alvo perdido (roll=0.830)
+[013] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[013] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.428 roll=0.122
+[013] JOGADA Argentino Football Club | Ariello x Júlio Gutierres Barbosa line=3 duel=-0.95 corte=-1.30
+[013] JOGADA Argentino Football Club | Filinto Quinteiro x Moacir Zanetti line=4 duel=15.24 corte=-1.30
+[013] JOGADA Argentino Football Club | Anisauá Peralta x Saulo Linhares line=5 duel=77.96 corte=-2.05
+[013] FINAL Argentino Football Club | Coari Ladeira fam=1 duel=-6.53 on_target=0.648 goal=0.232
+[013] FINAL Coari Ladeira: fora/alvo perdido (roll=0.968)
+[014] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[014] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.428 roll=0.138
+[014] JOGADA Argentino Football Club | Enoch Magia x Alfred Moore line=3 duel=47.95 corte=-1.30
+[014] JOGADA Argentino Football Club | Kevin Arinos x Roberto Alves line=4 duel=-8.71 corte=-1.30
+[015] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[015] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.428 roll=0.025
+[015] JOGADA Argentino Football Club | Kevin Arinos x Frederick Burton line=3 duel=42.25 corte=-1.30
+[015] JOGADA Argentino Football Club | Kevin Arinos x Vitor Quitério Gonzaga line=4 duel=-2.53 corte=-1.30
+[016] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[016] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.428 roll=0.511
+[017] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[017] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.428 roll=0.288
+[017] JOGADA Argentino Football Club | Florentino Berdardinelli x Roberto Alves line=3 duel=5.94 corte=-1.30
+[017] JOGADA Argentino Football Club | Márcio de Lima x Moacir Zanetti line=4 duel=18.48 corte=-1.30
+[017] FINAL Argentino Football Club | Coari Ladeira fam=5 duel=-3.15 on_target=0.562 goal=0.147
+[017] FINAL Coari Ladeira: no alvo sem gol (roll=0.703)
+[018] posse=Bangu Athletic Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[018] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.381 roll=0.800
+[019] posse=Bangu Athletic Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[019] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.381 roll=0.228
+[019] JOGADA Bangu Athletic Club | Heleno Garcia x Ariello line=3 duel=41.81 corte=-1.30
+[019] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=7.29 on_target=0.629 goal=0.225
+[019] FINAL Moacir Zanetti: no alvo sem gol (roll=0.831)
+[020] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[020] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.428 roll=0.503
+[021] posse=Bangu Athletic Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[021] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.409 roll=0.568
+[022] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[022] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.461 roll=0.000
+[022] JOGADA Argentino Football Club | Márcio de Lima x Vitor Quitério Gonzaga line=3 duel=-26.94 corte=-1.30
+[022] JOGADA falhou: Vitor Quitério Gonzaga cortou
+[023] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[023] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.461 roll=0.826
+[024] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[024] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.461 roll=0.183
+[024] JOGADA Argentino Football Club | Filinto Quinteiro x Saulo Linhares line=3 duel=-6.39 corte=-1.30
+[024] JOGADA falhou: Saulo Linhares cortou
+[025] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[025] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.461 roll=0.434
+[025] JOGADA Argentino Football Club | Tamandaré Maldonado x Vitor Quitério Gonzaga line=3 duel=-1.78 corte=-1.30
+[025] JOGADA falhou: Vitor Quitério Gonzaga cortou
+[026] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[026] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.461 roll=0.210
+[026] JOGADA Argentino Football Club | Ariello x Heleno Garcia line=3 duel=-0.35 corte=-1.30
+[026] JOGADA Argentino Football Club | Tamandaré Maldonado x Heleno Garcia line=5 duel=5.08 corte=-1.55
+[026] JOGADA Argentino Football Club | Enoch Magia x Júlio Gutierres Barbosa line=5 duel=-5.30 corte=-2.05
+[026] JOGADA falhou: Júlio Gutierres Barbosa cortou
+[027] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[027] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.461 roll=0.793
+[028] posse=Bangu Athletic Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[028] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.409 roll=0.111
+[028] JOGADA Bangu Athletic Club | Alfred Moore x Abaçaí Azevedo line=5 duel=-1.34 corte=-1.55
+[028] FINAL Bangu Athletic Club | Heleno Garcia fam=1 duel=-4.89 on_target=0.667 goal=0.229
+[028] FINAL Heleno Garcia: no alvo sem gol (roll=0.595)
+[029] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[029] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.461 roll=0.338
+[029] JOGADA Argentino Football Club | Márcio de Lima x André Luiz Barcelos line=3 duel=-30.13 corte=-1.30
+[030] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[030] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.461 roll=0.038
+[030] JOGADA Argentino Football Club | Florentino Berdardinelli x Alfred Moore line=2 duel=5.49 corte=-1.30
+[030] JOGADA Argentino Football Club | Márcio de Lima x Frederick Burton line=3 duel=4.40 corte=-1.30
+[030] JOGADA Argentino Football Club | Márcio de Lima x Vitor Quitério Gonzaga line=4 duel=-17.60 corte=-1.30
+[030] JOGADA falhou: Vitor Quitério Gonzaga cortou
+[031] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[031] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.461 roll=0.871
+[032] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[032] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.461 roll=0.029
+[032] JOGADA Argentino Football Club | Enoch Magia x André Luiz Barcelos line=3 duel=30.68 corte=-1.30
+[032] JOGADA Argentino Football Club | Anisauá Peralta x Frederick Burton line=4 duel=24.46 corte=-1.30
+[032] JOGADA Argentino Football Club | Tamandaré Maldonado x Frederick Burton line=5 duel=94.91 corte=-1.55
+[032] FINAL Argentino Football Club | Coari Ladeira fam=1 duel=-11.73 on_target=0.681 goal=0.237
+[032] FINAL Coari Ladeira: no alvo sem gol (roll=0.487)
+[033] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[033] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.461 roll=0.998
+[034] posse=Argentino Football Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[034] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.461 roll=0.292
+[034] JOGADA Argentino Football Club | Anisauá Peralta x Saulo Linhares line=4 duel=7.42 corte=-1.30
+[034] FINAL Argentino Football Club | Florentino Berdardinelli fam=5 duel=-7.17 on_target=0.595 goal=0.151
+[034] FINAL Florentino Berdardinelli: no alvo sem gol (roll=0.735)
+[035] posse=Bangu Athletic Club | placar Bangu Athletic Club 2 x 0 Argentino Football Club
+[035] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.409 roll=0.260
+[035] JOGADA Bangu Athletic Club | Júlio Gutierres Barbosa x Filinto Quinteiro line=3 duel=22.04 corte=-1.30
+[035] FINAL Bangu Athletic Club | Vitor Quitério Gonzaga fam=1 duel=-0.30 on_target=0.655 goal=0.226
+[035] FINAL Vitor Quitério Gonzaga: GOL subtipo=CHUTE (roll=0.026)
+[036] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[036] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.464 roll=0.147
+[036] JOGADA Argentino Football Club | Márcio de Lima x Frederick Burton line=3 duel=11.92 corte=-1.30
+[036] JOGADA Argentino Football Club | Abaçaí Azevedo x Bernardo Guimarães line=4 duel=-15.72 corte=-1.30
+[037] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[037] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.400 roll=0.419
+[038] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[038] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.400 roll=0.925
+[039] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[039] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.464 roll=0.219
+[039] JOGADA Argentino Football Club | Kevin Arinos x Júlio Gutierres Barbosa line=3 duel=78.91 corte=-1.30
+[039] JOGADA Argentino Football Club | Márcio de Lima x Heleno Garcia line=4 duel=-16.94 corte=-1.30
+[040] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[040] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.464 roll=0.457
+[040] JOGADA Argentino Football Club | Márcio de Lima x Roberto Alves line=3 duel=4.91 corte=-1.30
+[040] JOGADA Argentino Football Club | Abaçaí Azevedo x Frederick Burton line=4 duel=14.20 corte=-1.30
+[040] JOGADA Argentino Football Club | Tamandaré Maldonado x Vitor Quitério Gonzaga line=5 duel=0.59 corte=-1.55
+[040] FINAL Argentino Football Club | Coari Ladeira fam=1 duel=-9.75 on_target=0.681 goal=0.238
+[040] FINAL Coari Ladeira: no alvo sem gol (roll=0.441)
+[041] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[041] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.464 roll=0.847
+[042] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[042] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.464 roll=0.806
+[043] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[043] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.400 roll=0.292
+[043] JOGADA Bangu Athletic Club | Frederick Burton x Kevin Arinos line=3 duel=11.32 corte=-1.30
+[043] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=-2.04 on_target=0.634 goal=0.213
+[043] FINAL Moacir Zanetti: no alvo sem gol (roll=0.373)
+[044] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[044] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.400 roll=0.174
+[044] JOGADA Bangu Athletic Club | André Luiz Barcelos x Abaçaí Azevedo line=3 duel=-9.80 corte=-1.30
+[044] JOGADA falhou: Abaçaí Azevedo cortou
+[045] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[045] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.400 roll=0.974
+[046] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[046] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.431 roll=0.962
+[047] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[047] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.431 roll=0.463
+[048] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[048] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.431 roll=0.279
+[048] JOGADA Argentino Football Club | Filinto Quinteiro x Saulo Linhares line=3 duel=-2.80 corte=-1.30
+[049] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[049] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.372 roll=0.135
+[049] JOGADA Bangu Athletic Club | Vitor Quitério Gonzaga x Kevin Arinos line=3 duel=28.83 corte=-1.30
+[049] FINAL Bangu Athletic Club | Júlio Gutierres Barbosa fam=3 duel=-19.42 on_target=0.543 goal=0.151
+[049] FINAL Júlio Gutierres Barbosa: no alvo sem gol (roll=0.498)
+[050] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[050] SUB Bangu Athletic Club: saiu Moacir Zanetti (SA) | entrou Fernando Donohoe (MA) | subs=1/5
+[050] SUB Argentino Football Club: saiu Filinto Quinteiro (LD) | entrou Amani Pádua (LE) | subs=1/5
+[050] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.361 roll=0.481
+[051] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[051] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.361 roll=0.073
+[051] JOGADA Bangu Athletic Club | Vitor Quitério Gonzaga x Coari Ladeira line=4 duel=26.60 corte=-1.30
+[051] FINAL Bangu Athletic Club | Frederick Burton fam=3 duel=19.54 on_target=0.551 goal=0.169
+[051] FINAL Frederick Burton: fora/alvo perdido (roll=0.706)
+[052] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[052] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.361 roll=0.335
+[052] JOGADA Bangu Athletic Club | André Luiz Barcelos x Amani Pádua line=4 duel=-5.32 corte=-1.30
+[052] JOGADA falhou: Amani Pádua cortou
+[053] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[053] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.436 roll=0.418
+[053] JOGADA Argentino Football Club | Ariello x Júlio Gutierres Barbosa line=2 duel=58.11 corte=-1.30
+[053] JOGADA Argentino Football Club | Márcio de Lima x Júlio Gutierres Barbosa line=5 duel=8.24 corte=-1.55
+[053] JOGADA Argentino Football Club | Tamandaré Maldonado x Saulo Linhares line=5 duel=12.60 corte=-1.55
+[053] FINAL Argentino Football Club | Coari Ladeira fam=1 duel=-13.16 on_target=0.647 goal=0.229
+[053] FINAL Coari Ladeira: fora/alvo perdido (roll=0.943)
+[054] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[054] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.436 roll=0.592
+[055] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[055] SUB Argentino Football Club: saiu Enoch Magia (PE) | entrou Heliodoro Catão (PD) | subs=2/5
+[055] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.362 roll=0.431
+[056] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[056] SUB Argentino Football Club: saiu Coari Ladeira (CA) | entrou Eriberto Reyes (CA) | subs=3/5
+[056] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.386 roll=0.980
+[057] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[057] SUB Argentino Football Club: saiu Anisauá Peralta (SA) | entrou Quatiguá Mourinho (SA) | subs=4/5
+[057] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.450 roll=0.245
+[057] JOGADA Argentino Football Club | Eriberto Reyes x Frederick Burton line=3 duel=92.41 corte=-1.30
+[057] JOGADA Argentino Football Club | Heliodoro Catão x André Luiz Barcelos line=4 duel=-72.78 corte=-1.30
+[057] JOGADA falhou: André Luiz Barcelos cortou
+[058] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[058] SUB Argentino Football Club: saiu Ariello (MC) | entrou Quimbaya Torreno (VOL) | subs=5/5
+[058] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.449 roll=0.315
+[058] JOGADA Argentino Football Club | Abaçaí Azevedo x Heleno Garcia line=3 duel=-14.10 corte=-1.30
+[059] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[059] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.449 roll=0.719
+[060] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[060] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.452 roll=0.676
+[061] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[061] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.452 roll=0.123
+[061] JOGADA Argentino Football Club | Florentino Berdardinelli x Roberto Alves line=3 duel=55.87 corte=-1.30
+[061] JOGADA Argentino Football Club | Tamandaré Maldonado x Júlio Gutierres Barbosa line=4 duel=-71.59 corte=-1.30
+[061] JOGADA falhou: Júlio Gutierres Barbosa cortou
+[062] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[062] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.392 roll=0.754
+[063] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[063] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.392 roll=0.646
+[064] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[064] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.392 roll=0.324
+[064] JOGADA Bangu Athletic Club | Heleno Garcia x Abaçaí Azevedo line=5 duel=18.40 corte=-1.55
+[064] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=22.08 on_target=0.640 goal=0.225
+[064] FINAL Frederick Burton: fora/alvo perdido (roll=0.906)
+[065] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[065] SUB Bangu Athletic Club: saiu Saulo Linhares (MD) | entrou Mário José Neto (MC) | subs=2/5
+[065] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.396 roll=0.590
+[066] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[066] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.448 roll=0.981
+[067] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[067] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.396 roll=0.721
+[068] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[068] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.396 roll=0.782
+[069] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[069] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.448 roll=0.137
+[069] JOGADA Argentino Football Club | Quimbaya Torreno x Heleno Garcia line=3 duel=5.17 corte=-1.30
+[069] FINAL Argentino Football Club | Eriberto Reyes fam=5 duel=-6.89 on_target=0.592 goal=0.152
+[069] FINAL Eriberto Reyes: fora/alvo perdido (roll=0.839)
+[070] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[070] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.396 roll=0.605
+[071] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[071] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.396 roll=0.200
+[071] JOGADA Bangu Athletic Club | Fernando Donohoe x Quimbaya Torreno line=4 duel=-5.55 corte=-1.30
+[071] JOGADA falhou: Quimbaya Torreno cortou
+[072] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[072] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.448 roll=0.886
+[073] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[073] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.396 roll=0.739
+[074] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[074] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.448 roll=0.029
+[074] JOGADA Argentino Football Club | Abaçaí Azevedo x Alfred Moore line=4 duel=-16.85 corte=-1.30
+[074] JOGADA falhou: Alfred Moore cortou
+[075] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[075] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.396 roll=0.403
+[076] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[076] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.384 roll=0.352
+[076] JOGADA Bangu Athletic Club | Júlio Gutierres Barbosa x Quatiguá Mourinho line=5 duel=36.30 corte=-1.55
+[076] FINAL Bangu Athletic Club | Fernando Donohoe fam=1 duel=15.83 on_target=0.616 goal=0.215
+[076] FINAL Fernando Donohoe: fora/alvo perdido (roll=0.878)
+[077] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[077] SUB Bangu Athletic Club: saiu Vitor Quitério Gonzaga (ME) | entrou Tadeu Pelicano (MA) | subs=3/5
+[077] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.387 roll=0.854
+[078] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[078] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.482 roll=0.732
+[079] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[079] SUB Bangu Athletic Club: saiu Roberto Alves (ZAG) | entrou Bernardo Alvares (ZAG) | subs=4/5
+[079] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.386 roll=0.034
+[079] JOGADA Bangu Athletic Club | Frederick Burton x Amani Pádua line=4 duel=6.09 corte=-1.30
+[079] FINAL Bangu Athletic Club | Mário José Neto fam=1 duel=24.90 on_target=0.618 goal=0.219
+[079] FINAL Mário José Neto: no alvo sem gol (roll=0.648)
+[080] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[080] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.386 roll=0.353
+[080] JOGADA Bangu Athletic Club | Fernando Donohoe x Tamandaré Maldonado line=4 duel=93.19 corte=-1.30
+[080] FINAL Bangu Athletic Club | Frederick Burton fam=3 duel=15.83 on_target=0.569 goal=0.171
+[080] FINAL Frederick Burton: no alvo sem gol (roll=0.329)
+[081] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[081] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.386 roll=0.001
+[081] JOGADA Bangu Athletic Club | Heleno Garcia x Quimbaya Torreno line=3 duel=-4.41 corte=-1.30
+[081] JOGADA falhou: Quimbaya Torreno cortou
+[082] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[082] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.386 roll=0.201
+[082] JOGADA Bangu Athletic Club | Mário José Neto x Márcio de Lima line=3 duel=79.87 corte=-1.30
+[082] FINAL Bangu Athletic Club | Heleno Garcia fam=1 duel=12.75 on_target=0.628 goal=0.218
+[082] FINAL Heleno Garcia: fora/alvo perdido (roll=0.722)
+[083] posse=Argentino Football Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[083] SUB Bangu Athletic Club: saiu Alfred Moore (ZAG) | entrou John Redwood (ZAG) | subs=5/5
+[083] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.498 roll=0.229
+[083] JOGADA Argentino Football Club | Heliodoro Catão x Bernardo Guimarães line=3 duel=9.51 corte=-1.30
+[083] JOGADA Argentino Football Club | Abaçaí Azevedo x Júlio Gutierres Barbosa line=4 duel=-14.09 corte=-1.30
+[084] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 0 Argentino Football Club
+[084] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.384 roll=0.358
+[084] JOGADA Bangu Athletic Club | Mário José Neto x Heliodoro Catão line=4 duel=37.75 corte=-1.30
+[084] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=13.02 on_target=0.626 goal=0.218
+[084] FINAL Frederick Burton: GOL subtipo=CHUTE (roll=0.206)
+[085] posse=Argentino Football Club | placar Bangu Athletic Club 4 x 0 Argentino Football Club
+[085] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.524 roll=0.124
+[085] JOGADA Argentino Football Club | Florentino Berdardinelli x Bernardo Alvares line=3 duel=-12.80 corte=-1.30
+[085] JOGADA falhou: Bernardo Alvares cortou
+[086] posse=Argentino Football Club | placar Bangu Athletic Club 4 x 0 Argentino Football Club
+[086] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.524 roll=0.062
+[086] JOGADA Argentino Football Club | Kevin Arinos x Júlio Gutierres Barbosa line=3 duel=47.05 corte=-1.30
+[086] JOGADA Argentino Football Club | Florentino Berdardinelli x André Luiz Barcelos line=4 duel=-86.99 corte=-1.30
+[086] JOGADA falhou: André Luiz Barcelos cortou
+[087] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 0 Argentino Football Club
+[087] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.375 roll=0.566
+[088] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 0 Argentino Football Club
+[088] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.375 roll=0.072
+[088] JOGADA Bangu Athletic Club | Fernando Donohoe x Eriberto Reyes line=3 duel=48.06 corte=-1.30
+[088] FINAL Bangu Athletic Club | Tadeu Pelicano fam=3 duel=6.79 on_target=0.534 goal=0.153
+[088] FINAL Tadeu Pelicano: fora/alvo perdido (roll=0.846)
+[089] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 0 Argentino Football Club
+[089] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.375 roll=0.508
+[090] posse=Argentino Football Club | placar Bangu Athletic Club 4 x 0 Argentino Football Club
+[090] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.524 roll=0.344
+[090] JOGADA Argentino Football Club | Márcio de Lima x John Redwood line=4 duel=-7.55 corte=-1.30
+[090] JOGADA falhou: John Redwood cortou
+[091] posse=Argentino Football Club | placar Bangu Athletic Club 4 x 0 Argentino Football Club
+[091] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.524 roll=0.798
+[092] posse=Argentino Football Club | placar Bangu Athletic Club 4 x 0 Argentino Football Club
+[092] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.524 roll=0.026
+[092] JOGADA Argentino Football Club | Heliodoro Catão x Heleno Garcia line=3 duel=0.40 corte=-1.30
+[092] JOGADA Argentino Football Club | Márcio de Lima x Júlio Gutierres Barbosa line=5 duel=21.01 corte=-1.55
+[092] FINAL Argentino Football Club | Heliodoro Catão fam=5 duel=1.45 on_target=0.674 goal=0.162
+[092] FINAL Heliodoro Catão: GOL subtipo=FALTA (roll=0.114)
+[093] posse=Argentino Football Club | placar Bangu Athletic Club 4 x 1 Argentino Football Club
+[093] BUILD Argentino Football Club vs Bangu Athletic Club prob=0.524 roll=0.898
+[094] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 1 Argentino Football Club
+[094] BUILD Bangu Athletic Club vs Argentino Football Club prob=0.384 roll=0.486

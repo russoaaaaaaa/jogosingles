@@ -1,0 +1,361 @@
+Partida #160
+Data: 1912-01-14
+Mandante: Paladino Foot-Ball Club
+Visitante: Fidalgo Football Club
+Placar: 3 x 0
+Seed: -
+Estádio: Estádio da Aldeia Campista
+Clima: Chuva forte
+Placar tempo normal: 3 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Paladino Foot-Ball Club x Fidalgo Football Club | estádio=Estádio da Aldeia Campista | clima=Chuva forte | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[001] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.360 roll=0.088
+[001] JOGADA Fidalgo Football Club | Patrício Gouveia x Yoshida, o Samurai Errante line=4 duel=-10.42 corte=-1.30
+[001] JOGADA falhou: Yoshida, o Samurai Errante cortou
+[002] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[002] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.366 roll=0.399
+[003] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[003] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.360 roll=0.289
+[003] JOGADA Fidalgo Football Club | Ícaro Custódio x Escalibur da Califórnia line=4 duel=-82.14 corte=-1.30
+[003] JOGADA falhou: Escalibur da Califórnia cortou
+[004] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[004] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.360 roll=0.247
+[004] JOGADA Fidalgo Football Club | Lukas Lombardi x Cássio Jiló line=4 duel=-76.55 corte=-1.30
+[004] JOGADA falhou: Cássio Jiló cortou
+[005] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[005] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.360 roll=0.504
+[006] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[006] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.360 roll=0.483
+[007] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[007] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.366 roll=0.348
+[007] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Jaguará Guerreiro line=2 duel=25.34 corte=-1.14
+[007] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Bryan Figueiredo line=3 duel=-15.82 corte=-1.14
+[008] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[008] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.360 roll=0.420
+[009] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[009] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.366 roll=0.105
+[009] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Jaguará Guerreiro line=3 duel=30.03 corte=-1.14
+[009] JOGADA Paladino Foot-Ball Club | Índio Catapora x Ícaro Custódio line=4 duel=-18.41 corte=-1.14
+[009] JOGADA falhou: Ícaro Custódio cortou
+[010] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[010] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.360 roll=0.459
+[011] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[011] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.396 roll=0.532
+[012] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[012] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.389 roll=0.219
+[012] JOGADA Fidalgo Football Club | Bauá Laranjeira x Escalibur da Califórnia line=3 duel=-27.05 corte=-1.30
+[012] JOGADA falhou: Escalibur da Califórnia cortou
+[013] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[013] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.396 roll=0.300
+[013] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Agnelo Orrico line=4 duel=24.25 corte=-1.14
+[013] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Bauá Laranjeira line=4 duel=-20.81 corte=-1.14
+[014] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[014] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.396 roll=0.231
+[014] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Apolônio Fasano line=4 duel=10.37 corte=-1.14
+[014] FINAL Paladino Foot-Ball Club | Lisandro Paladino fam=1 duel=11.84 on_target=0.724 goal=0.266
+[014] FINAL Lisandro Paladino: no alvo sem gol (roll=0.399)
+[015] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[015] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.389 roll=0.063
+[015] JOGADA Fidalgo Football Club | Bauá Laranjeira x Ladislau Lancelot line=3 duel=-22.02 corte=-1.30
+[015] JOGADA falhou: Ladislau Lancelot cortou
+[016] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[016] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.389 roll=0.569
+[017] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[017] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.389 roll=0.682
+[018] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[018] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.389 roll=0.773
+[019] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 0 x 0 Fidalgo Football Club
+[019] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.396 roll=0.259
+[019] JOGADA Paladino Foot-Ball Club | Perseu Kalitsas x Pacheco Arcoverde line=4 duel=31.60 corte=-1.14
+[019] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Agnelo Orrico line=4 duel=36.24 corte=-1.14
+[019] FINAL Paladino Foot-Ball Club | Lisandro Paladino fam=1 duel=6.78 on_target=0.724 goal=0.263
+[019] FINAL Lisandro Paladino: GOL subtipo=CHUTE (roll=0.220)
+[020] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[020] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.396 roll=0.652
+[021] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[021] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.470 roll=0.790
+[022] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[022] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.426 roll=0.098
+[022] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Lukas Lombardi line=3 duel=37.95 corte=-1.30
+[022] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Ícaro Custódio line=4 duel=-20.62 corte=-1.30
+[022] JOGADA falhou: Ícaro Custódio cortou
+[023] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[023] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.426 roll=0.925
+[024] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[024] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.426 roll=0.383
+[024] JOGADA Paladino Foot-Ball Club | Yoshida, o Samurai Errante x Torquato Brasileiro line=4 duel=-32.87 corte=-1.30
+[024] JOGADA falhou: Torquato Brasileiro cortou
+[025] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[025] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.470 roll=0.624
+[026] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[026] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.426 roll=0.072
+[026] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Pacheco Arcoverde line=3 duel=23.99 corte=-1.30
+[026] JOGADA Paladino Foot-Ball Club | Índio Catapora x Ícaro Custódio line=4 duel=-0.69 corte=-1.30
+[026] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Bauá Laranjeira line=4 duel=-15.58 corte=-1.30
+[026] JOGADA falhou: Bauá Laranjeira cortou
+[027] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[027] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.426 roll=0.096
+[027] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Patrício Gouveia line=4 duel=15.82 corte=-1.30
+[027] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Ícaro Custódio line=4 duel=-14.94 corte=-1.30
+[027] FINAL Paladino Foot-Ball Club | Escalibur da Califórnia fam=5 duel=-31.79 on_target=0.647 goal=0.140
+[027] FINAL Escalibur da Califórnia: no alvo sem gol (roll=0.422)
+[028] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[028] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.470 roll=0.669
+[029] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[029] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.470 roll=0.885
+[030] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[030] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.470 roll=0.969
+[031] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[031] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.426 roll=0.044
+[031] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Jaguará Guerreiro line=2 duel=12.95 corte=-1.30
+[031] JOGADA Paladino Foot-Ball Club | Yoshida, o Samurai Errante x Torquato Brasileiro line=3 duel=30.58 corte=-1.30
+[031] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Jaguará Guerreiro line=4 duel=-8.77 corte=-1.30
+[032] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[032] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.426 roll=0.490
+[033] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[033] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.470 roll=0.154
+[033] JOGADA Fidalgo Football Club | Torquato Brasileiro x Cássio Jiló line=4 duel=-18.41 corte=-1.30
+[033] JOGADA falhou: Cássio Jiló cortou
+[034] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 1 x 0 Fidalgo Football Club
+[034] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.426 roll=0.114
+[034] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Patrício Gouveia line=3 duel=-0.46 corte=-1.30
+[034] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Apolônio Fasano line=5 duel=30.62 corte=-1.55
+[034] JOGADA Paladino Foot-Ball Club | Yoshida, o Samurai Errante x Lukas Lombardi line=5 duel=54.90 corte=-1.55
+[034] FINAL Paladino Foot-Ball Club | Richard Lionheart fam=1 duel=13.85 on_target=0.763 goal=0.275
+[034] FINAL Richard Lionheart: GOL subtipo=CHUTE (roll=0.038)
+[035] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 2 x 0 Fidalgo Football Club
+[035] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.418 roll=0.578
+[036] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 2 x 0 Fidalgo Football Club
+[036] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.475 roll=0.388
+[036] JOGADA Fidalgo Football Club | Ícaro Custódio x Perseu Kalitsas line=4 duel=39.85 corte=-1.30
+[036] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Índio Catapora line=4 duel=10.70 corte=-1.30
+[036] FINAL Fidalgo Football Club | Agnelo Orrico fam=5 duel=-0.35 on_target=0.661 goal=0.171
+[036] FINAL Agnelo Orrico: no alvo sem gol (roll=0.275)
+[037] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 2 x 0 Fidalgo Football Club
+[037] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.418 roll=0.423
+[038] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 2 x 0 Fidalgo Football Club
+[038] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.418 roll=0.393
+[038] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Patrício Gouveia line=4 duel=-9.73 corte=-1.30
+[038] JOGADA falhou: Patrício Gouveia cortou
+[039] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 2 x 0 Fidalgo Football Club
+[039] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.475 roll=0.728
+[040] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 2 x 0 Fidalgo Football Club
+[040] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.418 roll=0.625
+[041] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 2 x 0 Fidalgo Football Club
+[041] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.475 roll=0.075
+[041] JOGADA Fidalgo Football Club | Apolônio Fasano x Escalibur da Califórnia line=3 duel=-11.54 corte=-1.30
+[041] JOGADA falhou: Escalibur da Califórnia cortou
+[042] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 2 x 0 Fidalgo Football Club
+[042] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.418 roll=0.786
+[043] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 2 x 0 Fidalgo Football Club
+[043] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.475 roll=0.237
+[043] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Índio Catapora line=3 duel=-1.77 corte=-1.30
+[043] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=5 duel=10.39 on_target=0.664 goal=0.177
+[043] FINAL Pacheco Arcoverde: fora/alvo perdido (roll=0.726)
+[044] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 2 x 0 Fidalgo Football Club
+[044] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.475 roll=0.415
+[044] JOGADA Fidalgo Football Club | Apolônio Fasano x Cássio Jiló line=2 duel=47.10 corte=-1.30
+[044] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Escalibur da Califórnia line=4 duel=5.67 corte=-1.30
+[044] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=5 duel=10.28 on_target=0.664 goal=0.177
+[044] FINAL Pacheco Arcoverde: no alvo sem gol (roll=0.484)
+[045] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 2 x 0 Fidalgo Football Club
+[045] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.418 roll=0.726
+[046] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 2 x 0 Fidalgo Football Club
+[046] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.389 roll=0.202
+[046] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Lukas Lombardi line=2 duel=28.47 corte=-1.30
+[046] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Torquato Brasileiro line=4 duel=12.69 corte=-1.30
+[046] FINAL Paladino Foot-Ball Club | Clérigo Inácio fam=3 duel=8.84 on_target=0.645 goal=0.197
+[046] FINAL Clérigo Inácio: no alvo sem gol (roll=0.777)
+[047] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 2 x 0 Fidalgo Football Club
+[047] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.389 roll=0.076
+[047] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Bauá Laranjeira line=2 duel=56.98 corte=-1.30
+[047] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Lukas Lombardi line=5 duel=93.05 corte=-1.55
+[047] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Torquato Brasileiro line=5 duel=75.29 corte=-1.55
+[047] FINAL Paladino Foot-Ball Club | Pinocchio Giacometti fam=1 duel=-5.17 on_target=0.701 goal=0.244
+[047] FINAL Pinocchio Giacometti: GOL subtipo=CHUTE (roll=0.029)
+[048] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[048] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.445 roll=0.797
+[049] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[049] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.382 roll=0.563
+[050] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[050] SUB Paladino Foot-Ball Club: saiu Pinocchio Giacometti (MC) | entrou Sapateiro Souza (MC) | subs=1/5
+[050] SUB Fidalgo Football Club: saiu Apolônio Fasano (ME) | entrou Nilton Soares (ME) | subs=1/5
+[050] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.387 roll=0.498
+[051] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[051] SUB Paladino Foot-Ball Club: saiu Lisandro Paladino (CA) | entrou Estácio Espingarda (CA) | subs=2/5
+[051] SUB Fidalgo Football Club: saiu Torquato Brasileiro (ZAG) | entrou Avati Volpi (ZAG) | subs=2/5
+[051] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.386 roll=0.542
+[052] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[052] SUB Paladino Foot-Ball Club: saiu Perseu Kalitsas (PD) | entrou Guarnição Soldado (PD) | subs=3/5
+[052] SUB Fidalgo Football Club: saiu Agnelo Orrico (SA) | entrou Arley Quadros (PD) | subs=3/5
+[052] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.432 roll=0.874
+[053] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[053] SUB Fidalgo Football Club: saiu Patrício Gouveia (MC) | entrou Janardo Páscoa (VOL) | subs=4/5
+[053] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.431 roll=0.431
+[053] JOGADA Fidalgo Football Club | Arley Quadros x Guarnição Soldado line=3 duel=18.58 corte=-1.30
+[053] JOGADA Fidalgo Football Club | Bryan Figueiredo x Estácio Espingarda line=4 duel=-60.07 corte=-1.30
+[053] JOGADA falhou: Estácio Espingarda cortou
+[054] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[054] SUB Fidalgo Football Club: saiu Pacheco Arcoverde (CA) | entrou Jequitibá Bispo (PE) | subs=5/5
+[054] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.421 roll=0.974
+[055] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[055] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.421 roll=0.503
+[056] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[056] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.226
+[056] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Jaguará Guerreiro line=2 duel=-2.00 corte=-1.30
+[057] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[057] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.661
+[058] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[058] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.453 roll=0.063
+[058] JOGADA Fidalgo Football Club | Ícaro Custódio x Cássio Jiló line=4 duel=-10.35 corte=-1.30
+[059] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[059] SUB Paladino Foot-Ball Club: saiu Yoshida, o Samurai Errante (ZAG) | entrou Godofredo Nunes (ZAG) | subs=4/5
+[059] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.422
+[060] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[060] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.341
+[060] JOGADA Paladino Foot-Ball Club | Godofredo Nunes x Bryan Figueiredo line=4 duel=26.42 corte=-1.30
+[060] FINAL Paladino Foot-Ball Club | Estácio Espingarda fam=1 duel=27.55 on_target=0.720 goal=0.257
+[060] FINAL Estácio Espingarda: no alvo sem gol (roll=0.514)
+[061] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[061] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.650
+[062] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[062] SUB Paladino Foot-Ball Club: saiu Índio Catapora (LD) | entrou Martin Luther Williams (LD) | subs=5/5
+[062] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.469 roll=0.395
+[062] JOGADA Fidalgo Football Club | Jequitibá Bispo x Martin Luther Williams line=3 duel=-13.30 corte=-1.30
+[062] JOGADA falhou: Martin Luther Williams cortou
+[063] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[063] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.124
+[063] JOGADA Paladino Foot-Ball Club | Sapateiro Souza x Lukas Lombardi line=3 duel=41.86 corte=-1.30
+[063] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Arley Quadros line=4 duel=16.91 corte=-1.30
+[063] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Bauá Laranjeira line=4 duel=-11.55 corte=-1.30
+[063] JOGADA falhou: Bauá Laranjeira cortou
+[064] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[064] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.469 roll=0.126
+[064] JOGADA Fidalgo Football Club | Bryan Figueiredo x Sapateiro Souza line=4 duel=-11.49 corte=-1.30
+[064] JOGADA falhou: Sapateiro Souza cortou
+[065] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[065] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.577
+[066] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[066] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.059
+[066] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Bauá Laranjeira line=3 duel=17.60 corte=-1.30
+[066] JOGADA Paladino Foot-Ball Club | Guarnição Soldado x Bryan Figueiredo line=4 duel=34.86 corte=-1.30
+[066] FINAL Paladino Foot-Ball Club | Clérigo Inácio fam=3 duel=6.42 on_target=0.657 goal=0.193
+[066] FINAL Clérigo Inácio: no alvo sem gol (roll=0.666)
+[067] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[067] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.469 roll=0.458
+[067] JOGADA Fidalgo Football Club | Bryan Figueiredo x Guarnição Soldado line=4 duel=-0.63 corte=-1.30
+[067] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Richard Lionheart line=4 duel=-9.00 corte=-1.30
+[068] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[068] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.605
+[069] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[069] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.152
+[069] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Ícaro Custódio line=2 duel=57.79 corte=-1.30
+[069] JOGADA Paladino Foot-Ball Club | Estácio Espingarda x Arley Quadros line=4 duel=23.71 corte=-1.30
+[069] FINAL Paladino Foot-Ball Club | Clérigo Inácio fam=1 duel=7.02 on_target=0.724 goal=0.250
+[069] FINAL Clérigo Inácio: no alvo sem gol (roll=0.546)
+[070] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[070] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.411
+[071] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[071] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.731
+[072] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[072] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.341
+[072] JOGADA Paladino Foot-Ball Club | Guarnição Soldado x Jaguará Guerreiro line=3 duel=24.44 corte=-1.30
+[072] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Lukas Lombardi line=4 duel=19.79 corte=-1.30
+[072] FINAL Paladino Foot-Ball Club | Guarnição Soldado fam=1 duel=22.95 on_target=0.719 goal=0.255
+[072] FINAL Guarnição Soldado: no alvo sem gol (roll=0.873)
+[073] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[073] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.469 roll=0.617
+[074] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[074] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.409 roll=0.610
+[075] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[075] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.469 roll=0.308
+[075] JOGADA Fidalgo Football Club | Avati Volpi x Escalibur da Califórnia line=3 duel=-2.89 corte=-1.30
+[075] JOGADA falhou: Escalibur da Califórnia cortou
+[076] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[076] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.506 roll=0.117
+[076] JOGADA Fidalgo Football Club | Jequitibá Bispo x Cássio Jiló line=3 duel=5.02 corte=-1.30
+[076] JOGADA Fidalgo Football Club | Jequitibá Bispo x Godofredo Nunes line=4 duel=-23.22 corte=-1.30
+[077] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[077] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.506 roll=0.412
+[077] JOGADA Fidalgo Football Club | Ícaro Custódio x Cássio Jiló line=4 duel=-8.41 corte=-1.30
+[077] JOGADA falhou: Cássio Jiló cortou
+[078] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[078] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.506 roll=0.181
+[078] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Richard Lionheart line=3 duel=-9.61 corte=-1.30
+[078] JOGADA falhou: Richard Lionheart cortou
+[079] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[079] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.397 roll=0.079
+[079] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Nilton Soares line=3 duel=1.01 corte=-1.30
+[079] FINAL Paladino Foot-Ball Club | Estácio Espingarda fam=1 duel=11.22 on_target=0.704 goal=0.247
+[079] FINAL Estácio Espingarda: no alvo sem gol (roll=0.622)
+[080] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[080] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.397 roll=0.382
+[080] JOGADA Paladino Foot-Ball Club | Clérigo Inácio x Avati Volpi line=2 duel=68.07 corte=-1.30
+[080] JOGADA Paladino Foot-Ball Club | Estácio Espingarda x Ícaro Custódio line=4 duel=3.76 corte=-1.30
+[080] FINAL Paladino Foot-Ball Club | Estácio Espingarda fam=1 duel=5.25 on_target=0.704 goal=0.244
+[080] FINAL Estácio Espingarda: no alvo sem gol (roll=0.720)
+[081] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[081] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.397 roll=0.312
+[081] JOGADA Paladino Foot-Ball Club | Godofredo Nunes x Lukas Lombardi line=2 duel=64.89 corte=-1.30
+[081] JOGADA Paladino Foot-Ball Club | Sapateiro Souza x Bauá Laranjeira line=5 duel=73.11 corte=-1.55
+[081] JOGADA Paladino Foot-Ball Club | Sapateiro Souza x Janardo Páscoa line=5 duel=10.31 corte=-1.55
+[081] FINAL Paladino Foot-Ball Club | Estácio Espingarda fam=1 duel=9.01 on_target=0.704 goal=0.246
+[081] FINAL Estácio Espingarda: fora/alvo perdido (roll=0.821)
+[082] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[082] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.506 roll=0.771
+[083] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[083] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.397 roll=0.827
+[084] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[084] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.397 roll=0.943
+[085] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[085] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.580 roll=0.105
+[085] JOGADA Fidalgo Football Club | Bryan Figueiredo x Guarnição Soldado line=2 duel=-1.08 corte=-1.30
+[085] JOGADA Fidalgo Football Club | Bauá Laranjeira x Godofredo Nunes line=3 duel=-31.85 corte=-1.30
+[085] JOGADA falhou: Godofredo Nunes cortou
+[086] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[086] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.397 roll=0.066
+[086] JOGADA Paladino Foot-Ball Club | Godofredo Nunes x Arley Quadros line=2 duel=9.13 corte=-1.30
+[086] JOGADA Paladino Foot-Ball Club | Martin Luther Williams x Nilton Soares line=3 duel=8.35 corte=-1.30
+[086] JOGADA Paladino Foot-Ball Club | Guarnição Soldado x Ícaro Custódio line=4 duel=15.62 corte=-1.30
+[086] FINAL Paladino Foot-Ball Club | Cássio Jiló fam=3 duel=-18.12 on_target=0.636 goal=0.182
+[086] FINAL Cássio Jiló: no alvo sem gol (roll=0.841)
+[087] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[087] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.397 roll=0.629
+[088] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[088] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.397 roll=0.151
+[088] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Nilton Soares line=4 duel=-35.39 corte=-1.30
+[088] JOGADA falhou: Nilton Soares cortou
+[089] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[089] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.580 roll=0.617
+[090] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[090] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.397 roll=0.376
+[090] JOGADA Paladino Foot-Ball Club | Godofredo Nunes x Ícaro Custódio line=3 duel=13.71 corte=-1.30
+[090] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Janardo Páscoa line=4 duel=-18.77 corte=-1.30
+[090] JOGADA falhou: Janardo Páscoa cortou
+[091] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[091] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.397 roll=0.396
+[091] JOGADA Paladino Foot-Ball Club | Guarnição Soldado x Ícaro Custódio line=2 duel=15.67 corte=-1.30
+[091] JOGADA Paladino Foot-Ball Club | Estácio Espingarda x Arley Quadros line=3 duel=24.90 corte=-1.30
+[091] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Jequitibá Bispo line=4 duel=28.72 corte=-1.30
+[092] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[092] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.397 roll=0.041
+[092] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Jequitibá Bispo line=3 duel=28.09 corte=-1.30
+[092] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Lukas Lombardi line=4 duel=-4.46 corte=-1.30
+[093] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[093] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.580 roll=0.723
+[094] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[094] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.580 roll=0.639
+[095] posse=Paladino Foot-Ball Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[095] BUILD Paladino Foot-Ball Club vs Fidalgo Football Club prob=0.397 roll=0.321
+[095] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Nilton Soares line=3 duel=8.39 corte=-1.30
+[095] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Lukas Lombardi line=4 duel=-3.13 corte=-1.30
+[096] posse=Fidalgo Football Club | placar Paladino Foot-Ball Club 3 x 0 Fidalgo Football Club
+[096] BUILD Fidalgo Football Club vs Paladino Foot-Ball Club prob=0.580 roll=0.429
+[096] JOGADA Fidalgo Football Club | Arley Quadros x Estácio Espingarda line=3 duel=21.30 corte=-1.30
+[096] JOGADA Fidalgo Football Club | Nilton Soares x Estácio Espingarda line=4 duel=-51.18 corte=-1.30
+[096] JOGADA falhou: Estácio Espingarda cortou

@@ -1,0 +1,344 @@
+Partida #228
+Data: 1912-01-22
+Mandante: Real Sporting Centro Gallego
+Visitante: Liga de Sports da Marinha
+Placar: 2 x 1
+Seed: -
+Estádio: Arena Palácio
+Clima: Chuva leve
+Placar tempo normal: 2 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Real Sporting Centro Gallego x Liga de Sports da Marinha | estádio=Arena Palácio | clima=Chuva leve | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[001] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.335 roll=0.478
+[001] FINAL Liga de Sports da Marinha | Thales Bacelar fam=5 duel=-100.11 on_target=0.578 goal=0.109
+[001] FINAL Thales Bacelar: no alvo sem gol (roll=0.328)
+[002] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[002] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.335 roll=0.161
+[002] JOGADA Liga de Sports da Marinha | Arsénio Barros x Costa Cavalcanti line=5 duel=93.53 corte=-1.55
+[002] JOGADA Liga de Sports da Marinha | Bianor Caldeira x Alerrando Mesquita line=5 duel=82.75 corte=-1.55
+[002] FINAL Liga de Sports da Marinha | Genival Rosa fam=5 duel=2.74 on_target=0.586 goal=0.156
+[002] FINAL Genival Rosa: no alvo sem gol (roll=0.783)
+[003] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[003] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.378 roll=0.796
+[004] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[004] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.335 roll=0.045
+[004] JOGADA Liga de Sports da Marinha | Bianor Caldeira x Rodrigão Barbosa line=5 duel=2.97 corte=-1.55
+[004] JOGADA Liga de Sports da Marinha | Eriberto Monte x Costa Cavalcanti line=5 duel=44.29 corte=-1.55
+[004] JOGADA Liga de Sports da Marinha | Genival Rosa x Rogério Freitas line=5 duel=92.13 corte=-2.05
+[004] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=5 duel=-76.91 on_target=0.588 goal=0.122
+[004] FINAL Geraldo Montanari: fora/alvo perdido (roll=0.915)
+[005] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[005] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.378 roll=0.034
+[005] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Isidro Vilaça line=3 duel=-3.02 corte=-1.12
+[006] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[006] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.335 roll=0.630
+[007] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[007] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.378 roll=0.921
+[008] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[008] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.378 roll=0.467
+[009] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[009] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.335 roll=0.003
+[009] JOGADA Liga de Sports da Marinha | Genival Rosa x Leonardo Dedeca line=4 duel=39.50 corte=-1.30
+[009] FINAL Liga de Sports da Marinha | Genival Rosa fam=5 duel=2.49 on_target=0.586 goal=0.156
+[009] FINAL Genival Rosa: no alvo sem gol (roll=0.739)
+[010] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[010] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.378 roll=0.103
+[010] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Thales Bacelar line=3 duel=47.87 corte=-1.12
+[010] JOGADA Real Sporting Centro Gallego | Argonauta Tenório x Arsénio Barros line=4 duel=-20.04 corte=-1.12
+[011] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[011] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.409 roll=0.139
+[011] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Geraldo Montanari line=4 duel=40.53 corte=-1.12
+[011] FINAL Real Sporting Centro Gallego | Júlio Falcão fam=3 duel=-14.26 on_target=0.661 goal=0.190
+[011] FINAL Júlio Falcão: fora/alvo perdido (roll=0.891)
+[012] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[012] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.409 roll=0.276
+[012] JOGADA Real Sporting Centro Gallego | Argonauta Tenório x Arsénio Barros line=3 duel=-9.73 corte=-1.12
+[012] JOGADA falhou: Arsénio Barros cortou
+[013] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[013] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.362 roll=0.733
+[014] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[014] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.362 roll=0.189
+[014] JOGADA Liga de Sports da Marinha | Josefino Conceição x Argonauta Tenório line=4 duel=23.95 corte=-1.30
+[014] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=5 duel=6.49 on_target=0.641 goal=0.172
+[014] FINAL Geraldo Montanari: no alvo sem gol (roll=0.179)
+[015] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[015] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.409 roll=0.037
+[015] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Josefino Conceição line=2 duel=16.73 corte=-1.12
+[015] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Genival Rosa line=5 duel=29.15 corte=-1.37
+[015] JOGADA Real Sporting Centro Gallego | Linwood Hays x Josefino Conceição line=5 duel=1.01 corte=-1.37
+[015] FINAL Real Sporting Centro Gallego | Costa Cavalcanti fam=1 duel=15.64 on_target=0.727 goal=0.263
+[015] FINAL Costa Cavalcanti: no alvo sem gol (roll=0.698)
+[016] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 0 x 0 Liga de Sports da Marinha
+[016] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.409 roll=0.156
+[016] JOGADA Real Sporting Centro Gallego | Ítalo Terrível x Eriberto Monte line=2 duel=85.14 corte=-1.12
+[016] JOGADA Real Sporting Centro Gallego | Ítalo Terrível x Genival Rosa line=4 duel=35.76 corte=-1.12
+[016] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Genival Rosa line=5 duel=83.15 corte=-1.37
+[016] FINAL Real Sporting Centro Gallego | Ítalo Terrível fam=1 duel=15.36 on_target=0.729 goal=0.264
+[016] FINAL Ítalo Terrível: GOL subtipo=CHUTE (roll=0.065)
+[017] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[017] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.409 roll=0.375
+[017] JOGADA Real Sporting Centro Gallego | Argonauta Tenório x Arsénio Barros line=3 duel=-13.61 corte=-1.30
+[017] JOGADA falhou: Arsénio Barros cortou
+[018] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[018] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.414 roll=0.993
+[019] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[019] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.409 roll=0.486
+[020] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[020] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.414 roll=0.765
+[021] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[021] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.809
+[022] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[022] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.563
+[023] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[023] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.580
+[024] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[024] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.130
+[024] JOGADA Liga de Sports da Marinha | Roraima De Marchi x Argonauta Tenório line=5 duel=87.68 corte=-1.55
+[024] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=5 duel=8.03 on_target=0.676 goal=0.181
+[024] FINAL Geraldo Montanari: fora/alvo perdido (roll=0.983)
+[025] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[025] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.374
+[025] JOGADA Liga de Sports da Marinha | Genival Rosa x Rogério Freitas line=4 duel=-56.08 corte=-1.30
+[025] JOGADA falhou: Rogério Freitas cortou
+[026] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[026] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.386
+[026] JOGADA Real Sporting Centro Gallego | Francesco Maldonatti x Genival Rosa line=3 duel=26.69 corte=-1.30
+[026] JOGADA Real Sporting Centro Gallego | Linwood Hays x Geraldo Montanari line=4 duel=-11.06 corte=-1.30
+[026] JOGADA falhou: Geraldo Montanari cortou
+[027] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[027] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.762
+[028] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[028] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.447
+[029] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[029] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.400
+[029] JOGADA Real Sporting Centro Gallego | Júlio Falcão x Arsénio Barros line=4 duel=-65.57 corte=-1.30
+[029] JOGADA falhou: Arsénio Barros cortou
+[030] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[030] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.570
+[031] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[031] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.788
+[032] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[032] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.501
+[033] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[033] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.234
+[033] JOGADA Liga de Sports da Marinha | Genival Rosa x Argonauta Tenório line=5 duel=41.34 corte=-2.05
+[033] JOGADA Liga de Sports da Marinha | Josefino Conceição x Alerrando Mesquita line=5 duel=47.69 corte=-1.55
+[033] FINAL Liga de Sports da Marinha | Caim Avelar fam=5 duel=-11.26 on_target=0.670 goal=0.169
+[033] FINAL Caim Avelar: no alvo sem gol (roll=0.403)
+[034] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[034] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.620
+[035] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[035] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.460
+[036] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[036] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.730
+[037] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[037] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=1.000
+[038] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[038] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.799
+[038] FINAL Real Sporting Centro Gallego | Leonardo Dedeca fam=5 duel=-1.70 on_target=0.653 goal=0.154
+[038] FINAL Leonardo Dedeca: fora/alvo perdido (roll=0.984)
+[039] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[039] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.397
+[039] JOGADA Real Sporting Centro Gallego | Júlio Falcão x Eriberto Monte line=4 duel=-0.01 corte=-1.30
+[039] FINAL Real Sporting Centro Gallego | Leonardo Dedeca fam=3 duel=-11.08 on_target=0.693 goal=0.197
+[039] FINAL Leonardo Dedeca: fora/alvo perdido (roll=0.763)
+[040] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[040] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.183
+[040] JOGADA Liga de Sports da Marinha | Genival Rosa x Francesco Maldonatti line=4 duel=-21.52 corte=-1.30
+[040] JOGADA falhou: Francesco Maldonatti cortou
+[041] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[041] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.035
+[041] JOGADA Real Sporting Centro Gallego | Ítalo Terrível x Roraima De Marchi line=4 duel=27.86 corte=-1.30
+[041] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Thales Bacelar line=4 duel=33.23 corte=-1.30
+[041] FINAL Real Sporting Centro Gallego | Leonardo Dedeca fam=3 duel=-10.85 on_target=0.693 goal=0.197
+[041] FINAL Leonardo Dedeca: no alvo sem gol (roll=0.342)
+[042] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[042] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.769
+[043] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[043] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.179
+[043] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Geraldo Montanari line=3 duel=33.34 corte=-1.30
+[043] JOGADA Real Sporting Centro Gallego | Leonardo Dedeca x Bianor Caldeira line=4 duel=11.55 corte=-1.30
+[043] JOGADA Real Sporting Centro Gallego | Leonardo Dedeca x Josefino Conceição line=4 duel=-13.74 corte=-1.30
+[044] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[044] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.632
+[045] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[045] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.440 roll=0.522
+[046] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[046] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.409 roll=0.564
+[047] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[047] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.409 roll=0.080
+[047] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Geraldo Montanari line=3 duel=33.53 corte=-1.30
+[047] JOGADA Real Sporting Centro Gallego | Júlio Falcão x Caim Avelar line=4 duel=22.77 corte=-1.30
+[047] JOGADA Real Sporting Centro Gallego | Júlio Falcão x Roraima De Marchi line=5 duel=48.88 corte=-1.55
+[047] FINAL Real Sporting Centro Gallego | Argonauta Tenório fam=1 duel=-3.55 on_target=0.728 goal=0.255
+[047] FINAL Argonauta Tenório: fora/alvo perdido (roll=0.806)
+[048] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[048] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.409 roll=0.037
+[048] JOGADA Real Sporting Centro Gallego | Rodrigão Barbosa x Roraima De Marchi line=4 duel=-7.70 corte=-1.30
+[048] JOGADA falhou: Roraima De Marchi cortou
+[049] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[049] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.414 roll=0.934
+[050] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[050] SUB Real Sporting Centro Gallego: saiu Argonauta Tenório (CA) | entrou Guiné (CA) | subs=1/5
+[050] SUB Liga de Sports da Marinha: saiu Roraima De Marchi (MC) | entrou Agatão Martins (VOL) | subs=1/5
+[050] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.408 roll=0.998
+[051] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[051] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.408 roll=0.359
+[051] JOGADA Real Sporting Centro Gallego | Leonardo Dedeca x Eriberto Monte line=3 duel=-19.27 corte=-1.30
+[051] JOGADA falhou: Eriberto Monte cortou
+[052] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[052] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.408 roll=0.425
+[053] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[053] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.408 roll=0.978
+[054] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[054] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.408 roll=0.229
+[054] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Bianor Caldeira line=3 duel=44.31 corte=-1.30
+[054] JOGADA Real Sporting Centro Gallego | Leonardo Dedeca x Eriberto Monte line=4 duel=-22.31 corte=-1.30
+[054] JOGADA falhou: Eriberto Monte cortou
+[055] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[055] SUB Real Sporting Centro Gallego: saiu Leonardo Dedeca (PE) | entrou Juan Gordito Artetas (PE) | subs=2/5
+[055] SUB Liga de Sports da Marinha: saiu Genival Rosa (SA) | entrou Curuaia Fasano (PE) | subs=2/5
+[055] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.408 roll=0.849
+[056] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[056] SUB Liga de Sports da Marinha: saiu Bianor Caldeira (MD) | entrou Sócrates Inácio (MD) | subs=3/5
+[056] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.441 roll=0.697
+[057] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[057] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.441 roll=0.020
+[057] JOGADA Real Sporting Centro Gallego | Juan Gordito Artetas x Curuaia Fasano line=4 duel=29.55 corte=-1.30
+[057] JOGADA Real Sporting Centro Gallego | Juan Gordito Artetas x Isidro Vilaça line=4 duel=22.49 corte=-1.30
+[057] FINAL Real Sporting Centro Gallego | Juan Gordito Artetas fam=3 duel=28.55 on_target=0.699 goal=0.218
+[057] FINAL Juan Gordito Artetas: fora/alvo perdido (roll=0.867)
+[058] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[058] SUB Liga de Sports da Marinha: saiu Thales Bacelar (ME) | entrou Waldir Pamplona (ME) | subs=4/5
+[058] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.436 roll=0.575
+[059] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[059] SUB Liga de Sports da Marinha: saiu Caim Avelar (MC) | entrou Austrelino Dantas (VOL) | subs=5/5
+[059] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.434 roll=0.527
+[060] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[060] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.448 roll=0.016
+[060] JOGADA Real Sporting Centro Gallego | Júlio Falcão x Geraldo Montanari line=4 duel=14.33 corte=-1.30
+[060] JOGADA Real Sporting Centro Gallego | Guiné x Isidro Vilaça line=4 duel=-0.38 corte=-1.30
+[060] FINAL Real Sporting Centro Gallego | Costa Cavalcanti fam=1 duel=20.11 on_target=0.766 goal=0.273
+[060] FINAL Costa Cavalcanti: no alvo sem gol (roll=0.637)
+[061] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 1 x 0 Liga de Sports da Marinha
+[061] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.448 roll=0.283
+[061] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Waldir Pamplona line=4 duel=27.67 corte=-1.30
+[061] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Eriberto Monte line=5 duel=72.36 corte=-1.55
+[061] FINAL Real Sporting Centro Gallego | Guiné fam=1 duel=28.34 on_target=0.769 goal=0.279
+[061] FINAL Guiné: GOL subtipo=CHUTE (roll=0.108)
+[062] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[062] SUB Real Sporting Centro Gallego: saiu Francesco Maldonatti (ZAG) | entrou Felipe Thiago (ZAG) | subs=3/5
+[062] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.488
+[063] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[063] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.077
+[063] JOGADA Liga de Sports da Marinha | Geraldo Montanari x Alerrando Mesquita line=5 duel=64.71 corte=-2.05
+[063] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=5 duel=9.76 on_target=0.679 goal=0.185
+[063] FINAL Geraldo Montanari: no alvo sem gol (roll=0.875)
+[064] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[064] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.797
+[065] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[065] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.733
+[066] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[066] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.909
+[067] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[067] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.445 roll=0.085
+[067] JOGADA Liga de Sports da Marinha | Sócrates Inácio x Felipe Thiago line=4 duel=-82.40 corte=-1.30
+[067] JOGADA falhou: Felipe Thiago cortou
+[068] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[068] SUB Real Sporting Centro Gallego: saiu Rodrigão Barbosa (ZAG) | entrou Gustavo Piocó (VOL) | subs=4/5
+[068] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.439 roll=0.688
+[069] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[069] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.439 roll=0.626
+[070] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[070] SUB Real Sporting Centro Gallego: saiu Ítalo Terrível (PD) | entrou Salazar Bravo (PD) | subs=5/5
+[070] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.447 roll=0.615
+[071] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[071] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.447 roll=0.774
+[072] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[072] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.447 roll=0.048
+[072] JOGADA Liga de Sports da Marinha | Arsénio Barros x Alerrando Mesquita line=4 duel=3.24 corte=-1.30
+[072] FINAL Liga de Sports da Marinha | Curuaia Fasano fam=5 duel=-34.80 on_target=0.665 goal=0.158
+[072] FINAL Curuaia Fasano: no alvo sem gol (roll=0.842)
+[073] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[073] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.427 roll=0.712
+[074] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[074] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.447 roll=0.419
+[074] JOGADA Liga de Sports da Marinha | Geraldo Montanari x Juan Gordito Artetas line=4 duel=22.76 corte=-1.30
+[074] JOGADA Liga de Sports da Marinha | Agatão Martins x Alerrando Mesquita line=4 duel=12.57 corte=-1.30
+[074] FINAL Liga de Sports da Marinha | Curuaia Fasano fam=5 duel=11.87 on_target=0.668 goal=0.181
+[074] FINAL Curuaia Fasano: no alvo sem gol (roll=0.409)
+[075] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[075] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.447 roll=0.041
+[075] JOGADA Liga de Sports da Marinha | Geraldo Montanari x Felipe Thiago line=5 duel=-12.32 corte=-2.05
+[075] JOGADA falhou: Felipe Thiago cortou
+[076] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[076] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.482 roll=0.621
+[077] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 0 Liga de Sports da Marinha
+[077] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.482 roll=0.825
+[077] FINAL Liga de Sports da Marinha | Isidro Vilaça fam=5 duel=-20.39 on_target=0.712 goal=0.173
+[077] FINAL Isidro Vilaça: GOL subtipo=FALTA (roll=0.000)
+[078] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[078] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.419 roll=0.452
+[079] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[079] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.419 roll=0.862
+[080] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[080] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.477 roll=0.643
+[081] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[081] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.419 roll=0.006
+[081] JOGADA Real Sporting Centro Gallego | Guiné x Josefino Conceição line=3 duel=2.31 corte=-1.30
+[081] JOGADA Real Sporting Centro Gallego | Guiné x Austrelino Dantas line=4 duel=-93.14 corte=-1.30
+[081] JOGADA falhou: Austrelino Dantas cortou
+[082] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[082] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.477 roll=0.118
+[082] JOGADA Liga de Sports da Marinha | Agatão Martins x Linwood Hays line=3 duel=3.76 corte=-1.30
+[082] JOGADA Liga de Sports da Marinha | Waldir Pamplona x Gustavo Piocó line=4 duel=-6.28 corte=-1.30
+[082] JOGADA falhou: Gustavo Piocó cortou
+[083] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[083] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.477 roll=0.301
+[083] JOGADA Liga de Sports da Marinha | Geraldo Montanari x Rogério Freitas line=4 duel=-52.25 corte=-1.30
+[083] JOGADA falhou: Rogério Freitas cortou
+[084] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[084] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.477 roll=0.857
+[085] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[085] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.419 roll=0.521
+[086] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[086] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.552 roll=0.351
+[086] JOGADA Liga de Sports da Marinha | Eriberto Monte x Rogério Freitas line=5 duel=-1.28 corte=-1.55
+[086] JOGADA Liga de Sports da Marinha | Sócrates Inácio x Júlio Falcão line=5 duel=81.14 corte=-1.55
+[086] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=5 duel=4.22 on_target=0.828 goal=0.194
+[086] FINAL Geraldo Montanari: no alvo sem gol (roll=0.694)
+[087] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[087] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.552 roll=0.144
+[087] JOGADA Liga de Sports da Marinha | Austrelino Dantas x Linwood Hays line=4 duel=-54.34 corte=-1.30
+[087] JOGADA falhou: Linwood Hays cortou
+[088] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[088] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.419 roll=0.716
+[089] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[089] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.552 roll=0.177
+[089] JOGADA Liga de Sports da Marinha | Josefino Conceição x Salazar Bravo line=3 duel=-9.49 corte=-1.30
+[089] JOGADA falhou: Salazar Bravo cortou
+[090] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[090] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.419 roll=0.825
+[091] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[091] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.419 roll=0.960
+[092] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[092] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.419 roll=0.284
+[092] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Eriberto Monte line=3 duel=0.53 corte=-1.30
+[092] FINAL Real Sporting Centro Gallego | Guiné fam=3 duel=4.04 on_target=0.672 goal=0.205
+[092] FINAL Guiné: fora/alvo perdido (roll=0.760)
+[093] posse=Liga de Sports da Marinha | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[093] BUILD Liga de Sports da Marinha vs Real Sporting Centro Gallego prob=0.552 roll=0.476
+[093] JOGADA Liga de Sports da Marinha | Agatão Martins x Costa Cavalcanti line=5 duel=44.61 corte=-1.55
+[093] JOGADA Liga de Sports da Marinha | Sócrates Inácio x Linwood Hays line=5 duel=14.88 corte=-1.55
+[093] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Gustavo Piocó line=5 duel=3.77 corte=-1.55
+[093] FINAL Liga de Sports da Marinha | Curuaia Fasano fam=1 duel=-6.01 on_target=0.920 goal=0.290
+[093] FINAL Curuaia Fasano: fora/alvo perdido (roll=0.938)
+[094] posse=Real Sporting Centro Gallego | placar Real Sporting Centro Gallego 2 x 1 Liga de Sports da Marinha
+[094] BUILD Real Sporting Centro Gallego vs Liga de Sports da Marinha prob=0.419 roll=0.036
+[094] JOGADA Real Sporting Centro Gallego | Juan Gordito Artetas x Geraldo Montanari line=3 duel=22.68 corte=-1.30
+[094] JOGADA Real Sporting Centro Gallego | Linwood Hays x Isidro Vilaça line=4 duel=-17.62 corte=-1.30

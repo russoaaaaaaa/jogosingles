@@ -1,0 +1,314 @@
+Partida #221
+Data: 1912-01-22
+Mandante: Esporte Clube Carioca
+Visitante: Clube Olímpico
+Placar: 0 x 1
+Seed: -
+Estádio: Arena Larson
+Clima: Chuva forte
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Esporte Clube Carioca x Clube Olímpico | estádio=Arena Larson | clima=Chuva forte | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[001] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.305 roll=0.650
+[002] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[002] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.346 roll=0.584
+[003] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[003] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.346 roll=0.460
+[004] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[004] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.346 roll=0.037
+[004] JOGADA Esporte Clube Carioca | Oliver Lindström x Francisco Borja line=3 duel=-9.10 corte=-1.70
+[004] JOGADA falhou: Francisco Borja cortou
+[005] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[005] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.305 roll=0.490
+[006] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[006] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.346 roll=0.734
+[007] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[007] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.346 roll=0.674
+[008] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[008] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.305 roll=0.626
+[009] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[009] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.346 roll=0.715
+[009] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=5 duel=-3.43 on_target=0.482 goal=0.133
+[009] FINAL Wilfrid Aurmund: fora/alvo perdido (roll=0.550)
+[010] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[010] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.305 roll=0.129
+[010] JOGADA Clube Olímpico | Kian MacGiolla x Getúlio Leitão line=5 duel=-10.69 corte=-1.35
+[010] JOGADA falhou: Getúlio Leitão cortou
+[011] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[011] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.330 roll=0.004
+[011] JOGADA Clube Olímpico | Ítalo Coimbra x Wilfrid Aurmund line=4 duel=106.78 corte=-1.10
+[011] FINAL Clube Olímpico | Ítalo Coimbra fam=1 duel=0.97 on_target=0.605 goal=0.223
+[011] FINAL Ítalo Coimbra: no alvo sem gol (roll=0.841)
+[012] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[012] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.374 roll=0.588
+[013] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[013] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.374 roll=0.415
+[014] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[014] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.374 roll=0.135
+[014] JOGADA Esporte Clube Carioca | Clife Topete x Omar Cordeiro line=3 duel=-6.48 corte=-1.70
+[014] JOGADA falhou: Omar Cordeiro cortou
+[015] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[015] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.374 roll=0.047
+[015] JOGADA Esporte Clube Carioca | William Äkerlundt x Adner Albuquerque line=4 duel=-30.14 corte=-1.70
+[015] JOGADA falhou: Adner Albuquerque cortou
+[016] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[016] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.374 roll=0.090
+[016] JOGADA Esporte Clube Carioca | Wilfrid Aurmund x Ítalo Coimbra line=4 duel=-38.45 corte=-1.70
+[016] JOGADA falhou: Ítalo Coimbra cortou
+[017] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[017] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.374 roll=0.442
+[018] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[018] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.330 roll=0.654
+[019] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[019] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.374 roll=0.184
+[019] JOGADA Esporte Clube Carioca | Oliver Lindström x Omar Cordeiro line=3 duel=-25.13 corte=-1.70
+[019] JOGADA falhou: Omar Cordeiro cortou
+[020] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[020] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.374 roll=0.256
+[020] JOGADA Esporte Clube Carioca | Wilhem Foort x Pedro Dalcher line=2 duel=-2.38 corte=-1.70
+[020] JOGADA falhou: Pedro Dalcher cortou
+[021] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[021] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.355 roll=0.830
+[022] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[022] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.402 roll=0.970
+[023] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[023] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.355 roll=0.279
+[023] JOGADA Clube Olímpico | Kian MacGiolla x Clife Topete line=5 duel=45.41 corte=-1.35
+[023] FINAL Clube Olímpico | Epaminondas da Luz fam=1 duel=12.24 on_target=0.636 goal=0.234
+[023] FINAL Epaminondas da Luz: fora/alvo perdido (roll=0.848)
+[024] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[024] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.355 roll=0.018
+[024] JOGADA Clube Olímpico | Kian MacGiolla x Hemaxi Custódio line=5 duel=45.87 corte=-1.35
+[024] FINAL Clube Olímpico | Ítalo Coimbra fam=1 duel=3.80 on_target=0.637 goal=0.231
+[024] FINAL Ítalo Coimbra: fora/alvo perdido (roll=0.704)
+[025] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[025] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.402 roll=0.984
+[026] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[026] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.402 roll=0.929
+[027] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[027] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.402 roll=0.157
+[027] JOGADA Esporte Clube Carioca | Clife Topete x Adner Albuquerque line=3 duel=1.14 corte=-1.70
+[027] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=5 duel=-13.14 on_target=0.547 goal=0.142
+[027] FINAL Wilfrid Aurmund: fora/alvo perdido (roll=0.607)
+[028] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[028] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.402 roll=0.671
+[029] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[029] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.402 roll=0.450
+[030] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[030] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.402 roll=0.942
+[031] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[031] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.355 roll=0.627
+[032] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[032] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.405 roll=0.912
+[033] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[033] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.355 roll=0.843
+[034] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[034] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.405 roll=0.142
+[034] JOGADA Esporte Clube Carioca | William Äkerlundt x Francisco Borja line=4 duel=44.66 corte=-1.70
+[034] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=5 duel=-81.31 on_target=0.544 goal=0.114
+[034] FINAL Wilfrid Aurmund: no alvo sem gol (roll=0.768)
+[035] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[035] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.355 roll=1.000
+[036] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[036] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.355 roll=0.254
+[036] JOGADA Clube Olímpico | Farelo x Clife Topete line=5 duel=-1.66 corte=-1.35
+[036] JOGADA falhou: Clife Topete cortou
+[037] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[037] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.355 roll=0.819
+[038] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[038] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.405 roll=0.918
+[039] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[039] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.405 roll=0.620
+[040] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[040] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.355 roll=0.031
+[040] JOGADA Clube Olímpico | Francisco Borja x Wilhem Foort line=4 duel=76.78 corte=-1.10
+[040] FINAL Clube Olímpico | Pedro Dalcher fam=1 duel=24.72 on_target=0.641 goal=0.242
+[040] FINAL Pedro Dalcher: no alvo sem gol (roll=0.253)
+[041] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[041] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.405 roll=0.155
+[041] JOGADA Esporte Clube Carioca | Clife Topete x Geraldo Barros line=3 duel=14.02 corte=-1.70
+[041] FINAL Esporte Clube Carioca | Hugo Bergiund fam=5 duel=-10.69 on_target=0.554 goal=0.146
+[041] FINAL Hugo Bergiund: fora/alvo perdido (roll=0.729)
+[042] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[042] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.405 roll=0.594
+[043] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[043] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.355 roll=0.819
+[044] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[044] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.405 roll=0.231
+[044] JOGADA Esporte Clube Carioca | Wilhem Foort x Geraldo Barros line=4 duel=-22.24 corte=-1.70
+[044] JOGADA falhou: Geraldo Barros cortou
+[045] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[045] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.355 roll=0.080
+[045] JOGADA Clube Olímpico | José Piendibene x Oliver Lindström line=3 duel=-16.64 corte=-1.10
+[045] JOGADA falhou: Oliver Lindström cortou
+[046] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[046] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.330 roll=0.857
+[047] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[047] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.376 roll=0.276
+[047] JOGADA Esporte Clube Carioca | Hemaxi Custódio x Pedro Dalcher line=3 duel=-18.20 corte=-1.70
+[047] JOGADA falhou: Pedro Dalcher cortou
+[048] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[048] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.330 roll=0.368
+[049] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[049] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.376 roll=0.046
+[049] JOGADA Esporte Clube Carioca | Hugo Bergiund x Ítalo Coimbra line=4 duel=22.63 corte=-1.70
+[049] JOGADA Esporte Clube Carioca | Wilhem Foort x Omar Cordeiro line=4 duel=-18.90 corte=-1.70
+[050] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[050] SUB Esporte Clube Carioca: saiu Wilfrid Aurmund (SA) | entrou Nils Nil (SA) | subs=1/5
+[050] SUB Clube Olímpico: saiu José Piendibene (SA) | entrou Salomão Cruz (PE) | subs=1/5
+[050] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.375 roll=0.625
+[051] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[051] SUB Esporte Clube Carioca: saiu João Oliveira (CA) | entrou Lukas Lopes (CA) | subs=2/5
+[051] SUB Clube Olímpico: saiu Ítalo Coimbra (CA) | entrou Eduardo Pessoa (SA) | subs=2/5
+[051] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.368 roll=0.864
+[052] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[052] SUB Esporte Clube Carioca: saiu Hugo Bergiund (CA) | entrou Erik Holmberg (CA) | subs=3/5
+[052] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.331 roll=0.670
+[053] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[053] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.357 roll=0.076
+[053] JOGADA Esporte Clube Carioca | Clife Topete x Geraldo Barros line=3 duel=17.65 corte=-1.70
+[053] FINAL Esporte Clube Carioca | Nils Nil fam=5 duel=-40.63 on_target=0.518 goal=0.128
+[053] FINAL Nils Nil: no alvo sem gol (roll=0.764)
+[054] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[054] SUB Esporte Clube Carioca: saiu Wilhem Foort (MA) | entrou Ibérico Peres (MA) | subs=4/5
+[054] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.356 roll=0.878
+[055] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[055] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.332 roll=0.027
+[055] JOGADA Clube Olímpico | Pedro Dalcher x Nils Nil line=5 duel=105.95 corte=-1.84
+[055] FINAL Clube Olímpico | Salomão Cruz fam=3 duel=28.94 on_target=0.543 goal=0.180
+[055] FINAL Salomão Cruz: no alvo sem gol (roll=0.402)
+[056] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[056] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.383 roll=0.570
+[057] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[057] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.383 roll=0.849
+[058] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[058] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.331 roll=0.263
+[058] JOGADA Clube Olímpico | Adner Albuquerque x Nils Nil line=3 duel=22.89 corte=-1.09
+[058] FINAL Clube Olímpico | Eduardo Pessoa fam=1 duel=28.38 on_target=0.630 goal=0.238
+[058] FINAL Eduardo Pessoa: no alvo sem gol (roll=0.492)
+[059] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[059] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.331 roll=0.974
+[060] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[060] SUB Esporte Clube Carioca: saiu Hemaxi Custódio (ZAG) | entrou Aristóteles Coelho (ZAG) | subs=5/5
+[060] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.339 roll=0.361
+[061] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[061] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.378 roll=0.864
+[062] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[062] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.339 roll=0.474
+[062] FINAL Clube Olímpico | Farelo fam=5 duel=-9.44 on_target=0.535 goal=0.128
+[062] FINAL Farelo: no alvo sem gol (roll=0.506)
+[063] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[063] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.339 roll=0.288
+[063] JOGADA Clube Olímpico | Eduardo Pessoa x Aristóteles Coelho line=4 duel=0.60 corte=-1.10
+[063] FINAL Clube Olímpico | Pedro Dalcher fam=1 duel=27.66 on_target=0.642 goal=0.244
+[063] FINAL Pedro Dalcher: no alvo sem gol (roll=0.438)
+[064] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[064] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.339 roll=0.987
+[065] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[065] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.378 roll=0.619
+[066] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[066] SUB Clube Olímpico: saiu Francisco Borja (MC) | entrou Levi Daschner (MC) | subs=3/5
+[066] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.387 roll=0.200
+[066] JOGADA Esporte Clube Carioca | Getúlio Leitão x Eduardo Pessoa line=3 duel=59.85 corte=-1.70
+[066] FINAL Esporte Clube Carioca | William Äkerlundt fam=5 duel=-33.09 on_target=0.551 goal=0.138
+[066] FINAL William Äkerlundt: fora/alvo perdido (roll=0.776)
+[067] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[067] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.338 roll=0.428
+[068] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[068] SUB Clube Olímpico: saiu Epaminondas da Luz (MC) | entrou Juca Martelinho (MA) | subs=4/5
+[068] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.390 roll=0.366
+[068] JOGADA Esporte Clube Carioca | Getúlio Leitão x Omar Cordeiro line=3 duel=-2.77 corte=-1.70
+[068] JOGADA falhou: Omar Cordeiro cortou
+[069] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[069] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.337 roll=0.811
+[069] FINAL Clube Olímpico | Farelo fam=5 duel=-6.80 on_target=0.535 goal=0.129
+[069] FINAL Farelo: fora/alvo perdido (roll=0.823)
+[070] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[070] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.390 roll=0.423
+[071] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[071] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.337 roll=0.199
+[071] JOGADA Clube Olímpico | Salomão Cruz x William Äkerlundt line=4 duel=16.51 corte=-1.08
+[071] FINAL Clube Olímpico | Salomão Cruz fam=3 duel=30.47 on_target=0.572 goal=0.187
+[071] FINAL Salomão Cruz: no alvo sem gol (roll=0.380)
+[072] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[072] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.390 roll=0.394
+[073] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[073] SUB Clube Olímpico: saiu Kian MacGiolla (ZAG) | entrou Jandir Café (ZAG) | subs=5/5
+[073] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.337 roll=0.711
+[074] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[074] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.391 roll=0.509
+[075] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[075] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.337 roll=0.802
+[076] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[076] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.347 roll=0.096
+[076] JOGADA Clube Olímpico | Omar Cordeiro x Johan Lindström line=3 duel=15.58 corte=-1.04
+[076] FINAL Clube Olímpico | Pedro Dalcher fam=1 duel=19.07 on_target=0.654 goal=0.242
+[076] FINAL Pedro Dalcher: fora/alvo perdido (roll=0.955)
+[077] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[077] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.347 roll=0.414
+[078] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[078] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.403 roll=0.284
+[078] JOGADA Esporte Clube Carioca | Nils Nil x Geraldo Barros line=4 duel=-2.18 corte=-1.70
+[078] JOGADA falhou: Geraldo Barros cortou
+[079] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[079] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.403 roll=0.665
+[080] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[080] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.403 roll=0.701
+[081] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[081] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.347 roll=0.232
+[081] JOGADA Clube Olímpico | Levi Daschner x Aristóteles Coelho line=4 duel=76.63 corte=-1.04
+[081] FINAL Clube Olímpico | Juca Martelinho fam=1 duel=32.65 on_target=0.643 goal=0.242
+[081] FINAL Juca Martelinho: fora/alvo perdido (roll=0.965)
+[082] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[082] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.403 roll=0.541
+[083] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[083] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.403 roll=0.564
+[084] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[084] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.403 roll=0.561
+[085] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[085] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.344 roll=0.691
+[086] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[086] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.344 roll=0.831
+[087] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[087] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.344 roll=0.204
+[087] JOGADA Clube Olímpico | Omar Cordeiro x Nils Nil line=3 duel=32.08 corte=-1.04
+[087] FINAL Clube Olímpico | Pedro Dalcher fam=1 duel=16.16 on_target=0.654 goal=0.241
+[087] FINAL Pedro Dalcher: fora/alvo perdido (roll=0.934)
+[088] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[088] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.399 roll=0.181
+[088] JOGADA Esporte Clube Carioca | Lukas Lopes x Jandir Café line=4 duel=-14.45 corte=-1.70
+[088] FINAL Esporte Clube Carioca | Lukas Lopes fam=5 duel=2.55 on_target=0.560 goal=0.154
+[088] FINAL Lukas Lopes: no alvo sem gol (roll=0.259)
+[089] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 0 Clube Olímpico
+[089] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.344 roll=0.055
+[089] JOGADA Clube Olímpico | Jandir Café x Nils Nil line=4 duel=19.42 corte=-1.04
+[089] FINAL Clube Olímpico | Pedro Dalcher fam=1 duel=15.21 on_target=0.653 goal=0.241
+[089] FINAL Pedro Dalcher: GOL subtipo=CHUTE (roll=0.010)
+[090] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 1 Clube Olímpico
+[090] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.348 roll=0.322
+[090] JOGADA Clube Olímpico | Levi Daschner x Clife Topete line=5 duel=14.25 corte=-1.55
+[090] FINAL Clube Olímpico | Eduardo Pessoa fam=1 duel=8.56 on_target=0.605 goal=0.214
+[090] FINAL Eduardo Pessoa: no alvo sem gol (roll=0.227)
+[091] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 1 Clube Olímpico
+[091] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.495 roll=0.571
+[092] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 1 Clube Olímpico
+[092] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.495 roll=0.978
+[093] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 1 Clube Olímpico
+[093] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.495 roll=0.627
+[093] FINAL Esporte Clube Carioca | William Äkerlundt fam=5 duel=-44.01 on_target=0.589 goal=0.137
+[093] FINAL William Äkerlundt: fora/alvo perdido (roll=0.658)
+[094] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 1 Clube Olímpico
+[094] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.348 roll=0.805
+[095] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 1 Clube Olímpico
+[095] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.495 roll=0.489
+[095] JOGADA Esporte Clube Carioca | Getúlio Leitão x Geraldo Barros line=3 duel=-6.21 corte=-1.70
+[095] JOGADA falhou: Geraldo Barros cortou
+[096] posse=Clube Olímpico | placar Esporte Clube Carioca 0 x 1 Clube Olímpico
+[096] BUILD Clube Olímpico vs Esporte Clube Carioca prob=0.348 roll=0.815
+[097] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 1 Clube Olímpico
+[097] BUILD Esporte Clube Carioca vs Clube Olímpico prob=0.495 roll=0.583

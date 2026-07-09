@@ -1,0 +1,319 @@
+Partida #177
+Data: 1912-01-16
+Mandante: Fidalgo Football Club
+Visitante: Mavilis Football Club
+Placar: 1 x 1
+Seed: -
+Estádio: Estádio Distrital de Madureira
+Clima: Frio forte
+Placar tempo normal: 1 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Fidalgo Football Club x Mavilis Football Club | estádio=Estádio Distrital de Madureira | clima=Frio forte | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[001] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.275 roll=0.285
+[002] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[002] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.275 roll=0.284
+[003] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[003] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.275 roll=0.786
+[004] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[004] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.275 roll=0.194
+[004] JOGADA Mavilis Football Club | Iguaçu Cristo x Lukas Lombardi line=2 duel=61.94 corte=-1.30
+[004] JOGADA Mavilis Football Club | Tapuruquara Páscoa x Lukas Lombardi line=5 duel=34.81 corte=-1.55
+[004] JOGADA Mavilis Football Club | Jácome Moretti x Lukas Lombardi line=5 duel=120.47 corte=-1.55
+[004] FINAL Mavilis Football Club | Deusdedito Varella fam=5 duel=-95.12 on_target=0.465 goal=0.090
+[004] FINAL Deusdedito Varella: no alvo sem gol (roll=0.272)
+[005] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[005] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.300 roll=0.827
+[006] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[006] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.275 roll=0.387
+[007] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[007] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.300 roll=0.001
+[007] JOGADA Fidalgo Football Club | Apolônio Fasano x Adonai Barroso line=2 duel=-4.73 corte=-1.15
+[007] JOGADA falhou: Adonai Barroso cortou
+[008] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[008] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.300 roll=0.800
+[009] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[009] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.300 roll=0.675
+[010] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[010] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.300 roll=0.697
+[011] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[011] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.324 roll=0.270
+[011] JOGADA Fidalgo Football Club | Bryan Figueiredo x Jácome Moretti line=3 duel=-4.00 corte=-1.15
+[012] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[012] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.298 roll=0.093
+[012] JOGADA Mavilis Football Club | Deusdedito Varella x Agnelo Orrico line=3 duel=32.16 corte=-1.30
+[012] JOGADA Mavilis Football Club | Iguaçu Cristo x Agnelo Orrico line=4 duel=-52.38 corte=-1.30
+[012] JOGADA falhou: Agnelo Orrico cortou
+[013] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[013] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.298 roll=0.439
+[014] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[014] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.298 roll=0.222
+[014] JOGADA Mavilis Football Club | Murilo Lopes x Pacheco Arcoverde line=3 duel=25.01 corte=-1.30
+[014] JOGADA Mavilis Football Club | Tapuruquara Páscoa x Jaguará Guerreiro line=4 duel=5.15 corte=-1.30
+[014] FINAL Mavilis Football Club | Isaí Zago fam=5 duel=2.06 on_target=0.508 goal=0.136
+[014] FINAL Isaí Zago: no alvo sem gol (roll=0.216)
+[015] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[015] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.324 roll=0.637
+[016] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[016] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.324 roll=0.947
+[017] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[017] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.324 roll=0.490
+[018] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[018] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.324 roll=0.859
+[019] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[019] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.324 roll=0.014
+[019] JOGADA Fidalgo Football Club | Apolônio Fasano x Adonai Barroso line=4 duel=-8.91 corte=-1.15
+[020] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[020] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.324 roll=0.703
+[021] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[021] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.320 roll=0.143
+[021] JOGADA Mavilis Football Club | Isaí Zago x Jaguará Guerreiro line=3 duel=3.54 corte=-1.30
+[021] JOGADA Mavilis Football Club | Tapuruquara Páscoa x Jaguará Guerreiro line=4 duel=3.47 corte=-1.30
+[021] FINAL Mavilis Football Club | Ruperto Gallo fam=5 duel=-59.95 on_target=0.534 goal=0.114
+[021] FINAL Ruperto Gallo: no alvo sem gol (roll=0.543)
+[022] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[022] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.320 roll=0.436
+[023] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[023] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.349 roll=0.023
+[023] JOGADA Fidalgo Football Club | Bryan Figueiredo x Ernane Naves line=3 duel=32.43 corte=-1.15
+[023] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Jácome Moretti line=4 duel=12.12 corte=-1.15
+[023] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=1 duel=1.64 on_target=0.622 goal=0.224
+[023] FINAL Pacheco Arcoverde: no alvo sem gol (roll=0.536)
+[024] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[024] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.349 roll=0.043
+[024] JOGADA Fidalgo Football Club | Apolônio Fasano x Iguaçu Cristo line=4 duel=-14.80 corte=-1.15
+[025] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[025] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.349 roll=0.789
+[026] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[026] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.349 roll=0.972
+[027] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[027] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.349 roll=0.130
+[027] JOGADA Fidalgo Football Club | Torquato Brasileiro x Iguaçu Cristo line=3 duel=-21.78 corte=-1.15
+[028] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 0 Mavilis Football Club
+[028] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.320 roll=0.011
+[028] JOGADA Mavilis Football Club | Jácome Moretti x Apolônio Fasano line=4 duel=26.54 corte=-1.30
+[028] JOGADA Mavilis Football Club | Tapuruquara Páscoa x Jaguará Guerreiro line=5 duel=26.40 corte=-1.55
+[028] JOGADA Mavilis Football Club | Ruperto Gallo x Pacheco Arcoverde line=5 duel=71.44 corte=-2.05
+[028] FINAL Mavilis Football Club | Ruperto Gallo fam=1 duel=2.16 on_target=0.622 goal=0.228
+[028] FINAL Ruperto Gallo: GOL subtipo=CHUTE (roll=0.159)
+[029] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[029] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.390 roll=0.649
+[030] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[030] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.390 roll=0.264
+[030] JOGADA Fidalgo Football Club | Lukas Lombardi x Isaí Zago line=2 duel=35.63 corte=-1.15
+[030] JOGADA Fidalgo Football Club | Ícaro Custódio x Adonai Barroso line=3 duel=-7.42 corte=-1.15
+[031] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[031] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.320 roll=0.721
+[032] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[032] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.323 roll=0.392
+[033] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[033] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.390 roll=0.176
+[033] JOGADA Fidalgo Football Club | Patrício Gouveia x Isaí Zago line=3 duel=18.71 corte=-1.14
+[033] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Isaí Zago line=4 duel=12.16 corte=-1.14
+[033] JOGADA Fidalgo Football Club | Torquato Brasileiro x Amam Calmon line=4 duel=-10.77 corte=-1.14
+[033] JOGADA falhou: Amam Calmon cortou
+[034] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[034] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.323 roll=0.543
+[034] FINAL Mavilis Football Club | Adonai Barroso fam=5 duel=-28.47 on_target=0.530 goal=0.127
+[034] FINAL Adonai Barroso: fora/alvo perdido (roll=0.718)
+[035] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[035] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.323 roll=0.395
+[036] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[036] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.390 roll=0.785
+[037] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[037] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.390 roll=0.196
+[037] JOGADA Fidalgo Football Club | Lukas Lombardi x Isaí Zago line=3 duel=37.26 corte=-1.14
+[037] JOGADA Fidalgo Football Club | Bryan Figueiredo x Deusdedito Varella line=4 duel=9.51 corte=-1.14
+[037] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Murilo Lopes line=5 duel=2.86 corte=-1.89
+[037] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=1 duel=9.42 on_target=0.622 goal=0.228
+[037] FINAL Pacheco Arcoverde: no alvo sem gol (roll=0.722)
+[038] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[038] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.323 roll=0.830
+[039] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[039] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.323 roll=0.533
+[040] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[040] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.390 roll=0.466
+[041] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[041] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.390 roll=0.967
+[042] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[042] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.390 roll=0.406
+[043] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[043] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.390 roll=0.096
+[043] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Ruperto Gallo line=3 duel=17.20 corte=-1.14
+[043] JOGADA Fidalgo Football Club | Lukas Lombardi x Iguaçu Cristo line=4 duel=-1.14 corte=-1.14
+[043] JOGADA Fidalgo Football Club | Bryan Figueiredo x Murilo Lopes line=4 duel=-11.27 corte=-1.14
+[044] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[044] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.323 roll=0.713
+[045] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[045] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.323 roll=0.621
+[046] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[046] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.300 roll=0.444
+[047] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[047] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.300 roll=0.482
+[048] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[048] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.300 roll=0.788
+[049] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[049] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.300 roll=0.463
+[050] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[050] SUB Fidalgo Football Club: saiu Apolônio Fasano (ME) | entrou Nilton Soares (ME) | subs=1/5
+[050] SUB Mavilis Football Club: saiu Deusdedito Varella (MC) | entrou Boaçava Cerqueira (VOL) | subs=1/5
+[050] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.270 roll=0.787
+[051] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[051] SUB Fidalgo Football Club: saiu Torquato Brasileiro (ZAG) | entrou Avati Volpi (ZAG) | subs=2/5
+[051] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.271 roll=0.974
+[052] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[052] SUB Fidalgo Football Club: saiu Agnelo Orrico (SA) | entrou Arley Quadros (PD) | subs=3/5
+[052] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.271 roll=0.211
+[052] JOGADA Mavilis Football Club | Adonai Barroso x Nilton Soares line=2 duel=-21.72 corte=-1.30
+[053] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[053] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.393 roll=0.347
+[053] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Tapuruquara Páscoa line=4 duel=-31.96 corte=-1.70
+[053] JOGADA falhou: Tapuruquara Páscoa cortou
+[054] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[054] SUB Fidalgo Football Club: saiu Patrício Gouveia (MC) | entrou Janardo Páscoa (VOL) | subs=4/5
+[054] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.393 roll=0.240
+[054] JOGADA Fidalgo Football Club | Bauá Laranjeira x Ruperto Gallo line=3 duel=12.82 corte=-1.70
+[054] JOGADA Fidalgo Football Club | Nilton Soares x Isaí Zago line=5 duel=55.58 corte=-1.95
+[054] JOGADA Fidalgo Football Club | Lukas Lombardi x Ruperto Gallo line=5 duel=87.87 corte=-1.95
+[054] FINAL Fidalgo Football Club | Jaguará Guerreiro fam=1 duel=12.78 on_target=0.598 goal=0.230
+[054] FINAL Jaguará Guerreiro: no alvo sem gol (roll=0.299)
+[055] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[055] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.393 roll=0.505
+[056] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[056] SUB Fidalgo Football Club: saiu Pacheco Arcoverde (CA) | entrou Jequitibá Bispo (PE) | subs=5/5
+[056] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.413 roll=0.699
+[057] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[057] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.413 roll=0.150
+[057] JOGADA Fidalgo Football Club | Arley Quadros x Tapuruquara Páscoa line=3 duel=12.03 corte=-1.70
+[057] JOGADA Fidalgo Football Club | Lukas Lombardi x Iguaçu Cristo line=5 duel=58.31 corte=-1.95
+[057] JOGADA Fidalgo Football Club | Jequitibá Bispo x Ernane Naves line=5 duel=107.93 corte=-2.45
+[057] FINAL Fidalgo Football Club | Jequitibá Bispo fam=1 duel=17.51 on_target=0.626 goal=0.238
+[057] FINAL Jequitibá Bispo: no alvo sem gol (roll=0.696)
+[058] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[058] SUB Mavilis Football Club: saiu Isaí Zago (SA) | entrou Valentino Jacinto (PD) | subs=2/5
+[058] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.291 roll=0.653
+[058] FINAL Mavilis Football Club | Tapuruquara Páscoa fam=5 duel=0.58 on_target=0.526 goal=0.130
+[058] FINAL Tapuruquara Páscoa: no alvo sem gol (roll=0.296)
+[059] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[059] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.413 roll=0.659
+[060] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[060] SUB Mavilis Football Club: saiu Amam Calmon (ZAG) | entrou Jordão Resendes (ZAG) | subs=3/5
+[060] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.415 roll=0.592
+[061] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[061] SUB Mavilis Football Club: saiu Murilo Lopes (LD) | entrou Quirilo França (LD) | subs=4/5
+[061] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.292 roll=0.668
+[062] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[062] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.415 roll=0.045
+[062] JOGADA Fidalgo Football Club | Lukas Lombardi x Jácome Moretti line=2 duel=87.29 corte=-1.70
+[062] JOGADA Fidalgo Football Club | Avati Volpi x Tapuruquara Páscoa line=4 duel=9.72 corte=-1.70
+[062] FINAL Fidalgo Football Club | Jequitibá Bispo fam=5 duel=19.46 on_target=0.545 goal=0.155
+[062] FINAL Jequitibá Bispo: no alvo sem gol (roll=0.156)
+[063] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[063] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.292 roll=0.674
+[064] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[064] SUB Mavilis Football Club: saiu Ruperto Gallo (CA) | entrou Adílio Câmara (PE) | subs=5/5
+[064] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.415 roll=0.837
+[065] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[065] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.292 roll=0.389
+[066] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[066] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.292 roll=0.745
+[067] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[067] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.415 roll=0.228
+[067] JOGADA Fidalgo Football Club | Bauá Laranjeira x Ernane Naves line=3 duel=-10.36 corte=-1.70
+[068] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[068] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.292 roll=0.046
+[068] JOGADA Mavilis Football Club | Jordão Resendes x Ícaro Custódio line=3 duel=0.39 corte=-1.30
+[068] JOGADA Mavilis Football Club | Jordão Resendes x Ícaro Custódio line=4 duel=9.74 corte=-1.30
+[068] JOGADA Mavilis Football Club | Valentino Jacinto x Janardo Páscoa line=4 duel=-15.16 corte=-1.30
+[069] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[069] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.292 roll=0.662
+[070] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[070] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.289 roll=0.877
+[071] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[071] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.416 roll=0.711
+[072] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[072] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.416 roll=0.331
+[072] JOGADA Fidalgo Football Club | Lukas Lombardi x Ernane Naves line=3 duel=22.07 corte=-1.70
+[072] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Jordão Resendes line=4 duel=-85.35 corte=-1.70
+[072] JOGADA falhou: Jordão Resendes cortou
+[073] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[073] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.416 roll=0.382
+[073] JOGADA Fidalgo Football Club | Jequitibá Bispo x Boaçava Cerqueira line=4 duel=-87.16 corte=-1.70
+[073] JOGADA falhou: Boaçava Cerqueira cortou
+[074] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[074] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.289 roll=0.232
+[074] JOGADA Mavilis Football Club | Tapuruquara Páscoa x Lukas Lombardi line=2 duel=0.83 corte=-1.30
+[074] FINAL Mavilis Football Club | Valentino Jacinto fam=3 duel=16.31 on_target=0.557 goal=0.180
+[074] FINAL Valentino Jacinto: no alvo sem gol (roll=0.729)
+[075] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[075] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.416 roll=0.697
+[076] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[076] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.280 roll=0.320
+[076] FINAL Mavilis Football Club | Jácome Moretti fam=5 duel=-4.97 on_target=0.506 goal=0.123
+[076] FINAL Jácome Moretti: fora/alvo perdido (roll=0.907)
+[077] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[077] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.450 roll=0.289
+[077] JOGADA Fidalgo Football Club | Arley Quadros x Jácome Moretti line=3 duel=34.17 corte=-1.70
+[077] JOGADA Fidalgo Football Club | Bryan Figueiredo x Adonai Barroso line=4 duel=-76.10 corte=-1.70
+[077] JOGADA falhou: Adonai Barroso cortou
+[078] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[078] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.450 roll=0.109
+[078] JOGADA Fidalgo Football Club | Ícaro Custódio x Adílio Câmara line=4 duel=-75.31 corte=-1.70
+[078] JOGADA falhou: Adílio Câmara cortou
+[079] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[079] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.279 roll=0.636
+[080] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[080] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.450 roll=0.836
+[081] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[081] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.279 roll=0.011
+[081] JOGADA Mavilis Football Club | Jácome Moretti x Avati Volpi line=3 duel=-11.36 corte=-1.30
+[081] JOGADA falhou: Avati Volpi cortou
+[082] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[082] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.279 roll=0.529
+[083] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[083] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.450 roll=0.788
+[084] posse=Mavilis Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[084] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.279 roll=0.680
+[085] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[085] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.445 roll=0.401
+[085] JOGADA Fidalgo Football Club | Avati Volpi x Jácome Moretti line=3 duel=1.08 corte=-1.70
+[085] JOGADA Fidalgo Football Club | Avati Volpi x Iguaçu Cristo line=4 duel=-5.89 corte=-1.70
+[086] posse=Fidalgo Football Club | placar Fidalgo Football Club 0 x 1 Mavilis Football Club
+[086] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.445 roll=0.300
+[086] JOGADA Fidalgo Football Club | Avati Volpi x Adonai Barroso line=3 duel=-2.25 corte=-1.70
+[086] FINAL Fidalgo Football Club | Avati Volpi fam=5 duel=-52.40 on_target=0.579 goal=0.127
+[086] FINAL Avati Volpi: GOL subtipo=FALTA (roll=0.028)
+[087] posse=Fidalgo Football Club | placar Fidalgo Football Club 1 x 1 Mavilis Football Club
+[087] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.385 roll=0.863
+[088] posse=Fidalgo Football Club | placar Fidalgo Football Club 1 x 1 Mavilis Football Club
+[088] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.385 roll=0.904
+[089] posse=Fidalgo Football Club | placar Fidalgo Football Club 1 x 1 Mavilis Football Club
+[089] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.385 roll=0.023
+[089] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Jácome Moretti line=3 duel=7.10 corte=-1.70
+[089] FINAL Fidalgo Football Club | Nilton Soares fam=5 duel=-11.20 on_target=0.553 goal=0.143
+[089] FINAL Nilton Soares: fora/alvo perdido (roll=0.759)
+[090] posse=Mavilis Football Club | placar Fidalgo Football Club 1 x 1 Mavilis Football Club
+[090] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.297 roll=0.090
+[090] JOGADA Mavilis Football Club | Tapuruquara Páscoa x Bryan Figueiredo line=3 duel=0.45 corte=-1.07
+[090] JOGADA Mavilis Football Club | Jácome Moretti x Avati Volpi line=4 duel=-8.31 corte=-1.07
+[090] JOGADA falhou: Avati Volpi cortou
+[091] posse=Fidalgo Football Club | placar Fidalgo Football Club 1 x 1 Mavilis Football Club
+[091] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.385 roll=0.970
+[092] posse=Fidalgo Football Club | placar Fidalgo Football Club 1 x 1 Mavilis Football Club
+[092] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.385 roll=0.297
+[092] JOGADA Fidalgo Football Club | Bryan Figueiredo x Adílio Câmara line=3 duel=16.53 corte=-1.70
+[092] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Adílio Câmara line=4 duel=20.00 corte=-1.70
+[092] FINAL Fidalgo Football Club | Arley Quadros fam=5 duel=-4.39 on_target=0.554 goal=0.146
+[092] FINAL Arley Quadros: no alvo sem gol (roll=0.292)
+[093] posse=Mavilis Football Club | placar Fidalgo Football Club 1 x 1 Mavilis Football Club
+[093] BUILD Mavilis Football Club vs Fidalgo Football Club prob=0.297 roll=0.454
+[094] posse=Fidalgo Football Club | placar Fidalgo Football Club 1 x 1 Mavilis Football Club
+[094] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.385 roll=0.716
+[094] FINAL Fidalgo Football Club | Nilton Soares fam=5 duel=-61.40 on_target=0.550 goal=0.121
+[094] FINAL Nilton Soares: fora/alvo perdido (roll=0.807)
+[095] posse=Fidalgo Football Club | placar Fidalgo Football Club 1 x 1 Mavilis Football Club
+[095] BUILD Fidalgo Football Club vs Mavilis Football Club prob=0.385 roll=0.880

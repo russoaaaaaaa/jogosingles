@@ -1,0 +1,310 @@
+Partida #233
+Data: 1912-01-24
+Mandante: Clube de Regatas do Flamengo
+Visitante: Argentino Football Club
+Placar: 0 x 3
+Seed: -
+Estádio: Arena Guanabara
+Clima: Ensolarado
+Placar tempo normal: 0 x 3
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube de Regatas do Flamengo x Argentino Football Club | estádio=Arena Guanabara | clima=Ensolarado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 0 Argentino Football Club
+[001] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.362 roll=0.575
+[002] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 0 Argentino Football Club
+[002] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.320 roll=0.072
+[002] JOGADA Argentino Football Club | Abaçaí Azevedo x Carlos Moura line=2 duel=-1.50 corte=-1.13
+[002] JOGADA falhou: Carlos Moura cortou
+[003] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 0 Argentino Football Club
+[003] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.362 roll=0.389
+[004] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 0 Argentino Football Club
+[004] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.320 roll=0.644
+[005] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 0 Argentino Football Club
+[005] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.362 roll=0.249
+[005] JOGADA Clube de Regatas do Flamengo | Carlos Moura x Coari Ladeira line=4 duel=-43.45 corte=-1.70
+[005] JOGADA falhou: Coari Ladeira cortou
+[006] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 0 Argentino Football Club
+[006] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.362 roll=0.308
+[006] JOGADA Clube de Regatas do Flamengo | Carlo Garcia Bisneto x Tamandaré Maldonado line=4 duel=-13.25 corte=-1.70
+[006] JOGADA falhou: Tamandaré Maldonado cortou
+[007] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 0 Argentino Football Club
+[007] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.362 roll=0.680
+[008] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 0 Argentino Football Club
+[008] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.362 roll=0.513
+[009] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 0 Argentino Football Club
+[009] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.362 roll=0.717
+[010] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 0 Argentino Football Club
+[010] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.320 roll=0.030
+[010] JOGADA Argentino Football Club | Kevin Arinos x Carlos Moura line=2 duel=6.10 corte=-1.13
+[010] JOGADA Argentino Football Club | Kevin Arinos x Bastiano Previti line=3 duel=52.37 corte=-1.13
+[010] JOGADA Argentino Football Club | Kevin Arinos x Leonardo Praga line=4 duel=6.04 corte=-1.13
+[010] FINAL Argentino Football Club | Anisauá Peralta fam=1 duel=7.35 on_target=0.603 goal=0.221
+[010] FINAL Anisauá Peralta: GOL subtipo=CHUTE (roll=0.208)
+[011] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[011] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.346 roll=0.758
+[012] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[012] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.346 roll=0.644
+[013] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[013] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.346 roll=0.981
+[014] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[014] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.441 roll=0.283
+[014] JOGADA Clube de Regatas do Flamengo | Bastiano Previti x Kevin Arinos line=4 duel=-14.46 corte=-1.70
+[014] JOGADA falhou: Kevin Arinos cortou
+[015] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[015] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.346 roll=0.918
+[016] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[016] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.346 roll=0.353
+[017] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[017] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.441 roll=0.531
+[018] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[018] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.346 roll=0.750
+[019] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[019] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.346 roll=0.411
+[020] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[020] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.346 roll=0.484
+[021] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[021] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.474 roll=0.183
+[021] JOGADA Clube de Regatas do Flamengo | Carlos Moura x Kevin Arinos line=4 duel=-12.30 corte=-1.70
+[021] JOGADA falhou: Kevin Arinos cortou
+[022] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[022] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.474 roll=0.546
+[023] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[023] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.474 roll=0.947
+[024] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[024] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.474 roll=0.021
+[024] JOGADA Clube de Regatas do Flamengo | Bastiano Previti x Márcio de Lima line=3 duel=-19.25 corte=-1.70
+[024] FINAL Clube de Regatas do Flamengo | Bastiano Previti fam=5 duel=-14.82 on_target=0.597 goal=0.150
+[024] FINAL Bastiano Previti: fora/alvo perdido (roll=0.688)
+[025] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[025] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.372 roll=0.365
+[025] JOGADA Argentino Football Club | Florentino Berdardinelli x Bastiano Previti line=4 duel=58.34 corte=-1.30
+[025] JOGADA Argentino Football Club | Ariello x Gabriel Luno line=5 duel=46.97 corte=-1.55
+[025] JOGADA Argentino Football Club | Ariello x Narciso Araújo line=5 duel=71.17 corte=-1.55
+[025] FINAL Argentino Football Club | Coari Ladeira fam=1 duel=-1.24 on_target=0.679 goal=0.236
+[025] FINAL Coari Ladeira: fora/alvo perdido (roll=0.822)
+[026] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[026] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.372 roll=0.400
+[027] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[027] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.474 roll=0.425
+[027] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Kevin Arinos line=4 duel=-34.54 corte=-1.70
+[027] JOGADA falhou: Kevin Arinos cortou
+[028] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[028] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.372 roll=0.090
+[028] JOGADA Argentino Football Club | Enoch Magia x Raul Caetano line=3 duel=33.34 corte=-1.30
+[028] JOGADA Argentino Football Club | Anisauá Peralta x Carlo Garcia Bisneto line=4 duel=-19.18 corte=-1.30
+[028] JOGADA falhou: Carlo Garcia Bisneto cortou
+[029] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[029] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.372 roll=0.888
+[030] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[030] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.474 roll=0.073
+[030] JOGADA Clube de Regatas do Flamengo | Benedito Justo x Filinto Quinteiro line=4 duel=9.68 corte=-1.70
+[030] JOGADA Clube de Regatas do Flamengo | Raul Caetano x Florentino Berdardinelli line=4 duel=-8.15 corte=-1.70
+[031] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[031] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.372 roll=0.526
+[032] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[032] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.372 roll=0.314
+[032] JOGADA Argentino Football Club | Kevin Arinos x Leonardo Praga line=4 duel=7.34 corte=-1.30
+[032] FINAL Argentino Football Club | Coari Ladeira fam=1 duel=-5.78 on_target=0.678 goal=0.234
+[032] FINAL Coari Ladeira: fora/alvo perdido (roll=0.874)
+[033] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[033] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.474 roll=0.160
+[033] JOGADA Clube de Regatas do Flamengo | Bastiano Previti x Márcio de Lima line=4 duel=-17.94 corte=-1.70
+[033] JOGADA falhou: Márcio de Lima cortou
+[034] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[034] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.372 roll=0.673
+[035] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[035] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.372 roll=0.765
+[035] FINAL Argentino Football Club | Filinto Quinteiro fam=5 duel=-89.88 on_target=0.571 goal=0.097
+[035] FINAL Filinto Quinteiro: fora/alvo perdido (roll=0.956)
+[036] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[036] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.474 roll=0.708
+[037] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 1 Argentino Football Club
+[037] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.372 roll=0.324
+[037] JOGADA Argentino Football Club | Florentino Berdardinelli x Gabriel Luno line=3 duel=58.10 corte=-1.30
+[037] JOGADA Argentino Football Club | Abaçaí Azevedo x Vicente Paiva line=4 duel=1.99 corte=-1.30
+[037] JOGADA Argentino Football Club | Márcio de Lima x Gabriel Luno line=4 duel=29.03 corte=-1.30
+[037] FINAL Argentino Football Club | Anisauá Peralta fam=1 duel=2.23 on_target=0.685 goal=0.241
+[037] FINAL Anisauá Peralta: GOL subtipo=CHUTE (roll=0.053)
+[038] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[038] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.478 roll=0.873
+[039] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[039] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.478 roll=0.987
+[040] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[040] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.478 roll=0.855
+[041] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[041] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.478 roll=0.368
+[041] JOGADA Clube de Regatas do Flamengo | Benedito Justo x Márcio de Lima line=4 duel=-20.08 corte=-1.70
+[042] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[042] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.478 roll=0.575
+[043] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[043] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.364 roll=0.528
+[044] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[044] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.364 roll=0.959
+[045] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[045] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.364 roll=0.901
+[046] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[046] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.445 roll=0.080
+[046] JOGADA Clube de Regatas do Flamengo | Benedito Justo x Filinto Quinteiro line=2 duel=-6.69 corte=-1.70
+[047] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[047] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.445 roll=0.667
+[048] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[048] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.339 roll=0.861
+[049] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[049] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.339 roll=0.378
+[050] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[050] SUB Clube de Regatas do Flamengo: saiu Gabriel Luno (SA) | entrou Maurício Sampaio (CA) | subs=1/5
+[050] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.439 roll=0.724
+[051] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[051] SUB Clube de Regatas do Flamengo: saiu Bastiano Previti (CA) | entrou Diego Moraes (CA) | subs=2/5
+[051] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.335 roll=0.900
+[052] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[052] SUB Clube de Regatas do Flamengo: saiu Raul Caetano (CA) | entrou Jessé Barros (CA) | subs=3/5
+[052] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.399 roll=0.065
+[052] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Tamandaré Maldonado line=4 duel=-19.45 corte=-1.70
+[052] JOGADA falhou: Tamandaré Maldonado cortou
+[053] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[053] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.399 roll=0.930
+[054] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[054] SUB Argentino Football Club: saiu Filinto Quinteiro (LD) | entrou Amani Pádua (LE) | subs=1/5
+[054] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.341 roll=0.538
+[055] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[055] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.341 roll=0.578
+[056] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[056] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.367 roll=0.525
+[057] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[057] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.427 roll=0.133
+[057] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Enoch Magia line=3 duel=29.04 corte=-1.70
+[057] FINAL Clube de Regatas do Flamengo | Jessé Barros fam=5 duel=-20.91 on_target=0.592 goal=0.148
+[057] FINAL Jessé Barros: fora/alvo perdido (roll=0.691)
+[058] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[058] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.367 roll=0.107
+[058] JOGADA Argentino Football Club | Enoch Magia x Vicente Paiva line=3 duel=1.14 corte=-1.30
+[058] JOGADA Argentino Football Club | Tamandaré Maldonado x Benedito Justo line=4 duel=3.46 corte=-1.30
+[058] JOGADA Argentino Football Club | Abaçaí Azevedo x Carlo Garcia Bisneto line=4 duel=-10.55 corte=-1.30
+[059] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[059] SUB Argentino Football Club: saiu Enoch Magia (PE) | entrou Heliodoro Catão (PD) | subs=2/5
+[059] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.427 roll=0.232
+[059] JOGADA Clube de Regatas do Flamengo | Diego Moraes x Márcio de Lima line=3 duel=71.25 corte=-1.70
+[059] JOGADA Clube de Regatas do Flamengo | Carlos Moura x Heliodoro Catão line=4 duel=12.20 corte=-1.70
+[059] JOGADA Clube de Regatas do Flamengo | Carlo Garcia Bisneto x Abaçaí Azevedo line=4 duel=-19.93 corte=-1.70
+[060] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[060] SUB Argentino Football Club: saiu Coari Ladeira (CA) | entrou Eriberto Reyes (CA) | subs=3/5
+[060] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.357 roll=0.247
+[060] JOGADA Argentino Football Club | Florentino Berdardinelli x Oliveira Marques line=4 duel=8.00 corte=-1.30
+[060] JOGADA Argentino Football Club | Tamandaré Maldonado x Vicente Paiva line=4 duel=11.54 corte=-1.30
+[060] FINAL Argentino Football Club | Eriberto Reyes fam=1 duel=12.74 on_target=0.655 goal=0.227
+[060] FINAL Eriberto Reyes: no alvo sem gol (roll=0.641)
+[061] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[061] SUB Clube de Regatas do Flamengo: saiu Vicente Paiva (MC) | entrou Alberto Ávila (MC) | subs=4/5
+[061] SUB Argentino Football Club: saiu Anisauá Peralta (SA) | entrou Quatiguá Mourinho (SA) | subs=4/5
+[061] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.349 roll=0.171
+[061] JOGADA Argentino Football Club | Abaçaí Azevedo x Jessé Barros line=3 duel=-12.13 corte=-1.30
+[061] JOGADA falhou: Jessé Barros cortou
+[062] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[062] SUB Clube de Regatas do Flamengo: saiu Narciso Araújo (MC) | entrou Nataniel Barcellos (MC) | subs=5/5
+[062] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.359 roll=0.783
+[063] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[063] SUB Argentino Football Club: saiu Ariello (MC) | entrou Quimbaya Torreno (VOL) | subs=5/5
+[063] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.358 roll=0.743
+[064] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[064] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.414 roll=0.248
+[064] JOGADA Clube de Regatas do Flamengo | Benedito Justo x Eriberto Reyes line=3 duel=-36.99 corte=-1.70
+[064] JOGADA falhou: Eriberto Reyes cortou
+[065] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[065] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.358 roll=0.129
+[065] JOGADA Argentino Football Club | Kevin Arinos x Oliveira Marques line=4 duel=-75.57 corte=-1.30
+[065] JOGADA falhou: Oliveira Marques cortou
+[066] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[066] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.358 roll=0.800
+[067] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[067] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.358 roll=0.640
+[068] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[068] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.414 roll=0.444
+[069] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[069] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.414 roll=0.894
+[070] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[070] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.358 roll=0.935
+[071] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[071] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.414 roll=0.366
+[071] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Florentino Berdardinelli line=3 duel=-0.39 corte=-1.70
+[071] JOGADA Clube de Regatas do Flamengo | Diego Moraes x Tamandaré Maldonado line=5 duel=29.78 corte=-2.45
+[071] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Márcio de Lima line=5 duel=46.79 corte=-1.95
+[071] FINAL Clube de Regatas do Flamengo | Jessé Barros fam=5 duel=-21.72 on_target=0.592 goal=0.148
+[071] FINAL Jessé Barros: no alvo sem gol (roll=0.912)
+[072] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[072] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.414 roll=0.275
+[072] JOGADA Clube de Regatas do Flamengo | Leonardo Praga x Abaçaí Azevedo line=3 duel=14.27 corte=-1.70
+[072] FINAL Clube de Regatas do Flamengo | Maurício Sampaio fam=5 duel=3.84 on_target=0.595 goal=0.160
+[072] FINAL Maurício Sampaio: no alvo sem gol (roll=0.206)
+[073] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[073] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.414 roll=0.545
+[074] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[074] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.358 roll=0.331
+[074] JOGADA Argentino Football Club | Abaçaí Azevedo x Leonardo Praga line=2 duel=2.99 corte=-1.30
+[074] FINAL Argentino Football Club | Florentino Berdardinelli fam=1 duel=9.49 on_target=0.656 goal=0.226
+[074] FINAL Florentino Berdardinelli: fora/alvo perdido (roll=0.758)
+[075] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[075] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.414 roll=0.468
+[076] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[076] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.447 roll=0.338
+[076] JOGADA Clube de Regatas do Flamengo | Maurício Sampaio x Abaçaí Azevedo line=3 duel=-4.26 corte=-1.70
+[077] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[077] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.347 roll=0.475
+[078] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[078] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.447 roll=0.735
+[079] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 2 Argentino Football Club
+[079] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.347 roll=0.126
+[079] JOGADA Argentino Football Club | Quimbaya Torreno x Leonardo Praga line=3 duel=11.95 corte=-1.30
+[079] JOGADA Argentino Football Club | Heliodoro Catão x Carlos Moura line=4 duel=31.33 corte=-1.30
+[079] JOGADA Argentino Football Club | Márcio de Lima x Leonardo Praga line=4 duel=-1.02 corte=-1.30
+[079] FINAL Argentino Football Club | Florentino Berdardinelli fam=1 duel=0.80 on_target=0.643 goal=0.220
+[079] FINAL Florentino Berdardinelli: GOL subtipo=CHUTE (roll=0.211)
+[080] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[080] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.451 roll=0.733
+[081] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[081] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.451 roll=0.737
+[082] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[082] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.451 roll=0.212
+[082] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Tamandaré Maldonado line=2 duel=2.46 corte=-1.70
+[082] JOGADA Clube de Regatas do Flamengo | Alberto Ávila x Heliodoro Catão line=3 duel=60.97 corte=-1.70
+[082] JOGADA Clube de Regatas do Flamengo | Carlos Moura x Márcio de Lima line=4 duel=-3.19 corte=-1.70
+[082] JOGADA falhou: Márcio de Lima cortou
+[083] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[083] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.339 roll=0.400
+[084] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[084] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.451 roll=0.247
+[084] JOGADA Clube de Regatas do Flamengo | Alberto Ávila x Quimbaya Torreno line=2 duel=-17.08 corte=-1.70
+[085] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[085] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.339 roll=0.381
+[086] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[086] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.339 roll=0.837
+[087] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[087] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.339 roll=0.045
+[087] JOGADA Argentino Football Club | Quimbaya Torreno x Benedito Justo line=3 duel=13.28 corte=-1.30
+[087] JOGADA Argentino Football Club | Quimbaya Torreno x Oliveira Marques line=5 duel=45.65 corte=-1.55
+[087] JOGADA Argentino Football Club | Eriberto Reyes x Carlos Moura line=5 duel=14.37 corte=-2.05
+[087] FINAL Argentino Football Club | Quatiguá Mourinho fam=1 duel=3.46 on_target=0.615 goal=0.205
+[087] FINAL Quatiguá Mourinho: no alvo sem gol (roll=0.941)
+[088] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[088] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.475 roll=0.511
+[089] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[089] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.339 roll=0.562
+[090] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[090] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.475 roll=0.784
+[091] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[091] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.475 roll=0.353
+[091] JOGADA Clube de Regatas do Flamengo | Maurício Sampaio x Kevin Arinos line=3 duel=31.47 corte=-1.70
+[091] FINAL Clube de Regatas do Flamengo | Diego Moraes fam=5 duel=-2.18 on_target=0.677 goal=0.165
+[091] FINAL Diego Moraes: no alvo sem gol (roll=0.665)
+[092] posse=Argentino Football Club | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[092] BUILD Argentino Football Club vs Clube de Regatas do Flamengo prob=0.339 roll=0.176
+[092] JOGADA Argentino Football Club | Abaçaí Azevedo x Carlos Moura line=4 duel=-65.45 corte=-1.30
+[092] JOGADA falhou: Carlos Moura cortou
+[093] posse=Clube de Regatas do Flamengo | placar Clube de Regatas do Flamengo 0 x 3 Argentino Football Club
+[093] BUILD Clube de Regatas do Flamengo vs Argentino Football Club prob=0.475 roll=0.420
+[093] JOGADA Clube de Regatas do Flamengo | Benedito Justo x Kevin Arinos line=4 duel=-0.69 corte=-1.70
+[093] JOGADA Clube de Regatas do Flamengo | Nataniel Barcellos x Florentino Berdardinelli line=4 duel=-8.55 corte=-1.70

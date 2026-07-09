@@ -1,0 +1,328 @@
+Partida #210
+Data: 1912-01-20
+Mandante: Lusitânia Sport Club
+Visitante: São Christóvão Football e Regatas
+Placar: 1 x 1
+Seed: -
+Estádio: Estádio Luso Carioca
+Clima: Frio forte
+Placar tempo normal: 1 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Lusitânia Sport Club x São Christóvão Football e Regatas | estádio=Estádio Luso Carioca | clima=Frio forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[001] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.355 roll=0.447
+[002] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[002] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.295 roll=0.544
+[003] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[003] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.355 roll=0.647
+[004] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[004] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.295 roll=0.854
+[005] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[005] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.355 roll=0.025
+[005] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Anaim Rodrigues line=4 duel=42.43 corte=-1.30
+[005] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=13.61 on_target=0.529 goal=0.147
+[005] FINAL Murilo Sousa: fora/alvo perdido (roll=0.823)
+[006] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[006] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.355 roll=0.083
+[006] JOGADA São Christóvão Football e Regatas | Calistêmico Soares x Cícero Feijóo line=4 duel=4.72 corte=-1.30
+[006] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=13.63 on_target=0.529 goal=0.147
+[006] FINAL Murilo Sousa: no alvo sem gol (roll=0.214)
+[007] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[007] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.355 roll=0.086
+[007] JOGADA São Christóvão Football e Regatas | Valério Cesarino x Fábio Pinto line=5 duel=40.59 corte=-1.55
+[007] FINAL São Christóvão Football e Regatas | Fevereiriano Macedo fam=5 duel=6.06 on_target=0.523 goal=0.142
+[007] FINAL Fevereiriano Macedo: fora/alvo perdido (roll=0.991)
+[008] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[008] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.295 roll=0.075
+[008] JOGADA Lusitânia Sport Club | Nilton Bettencourt x Mauricélio Canoa line=2 duel=-0.69 corte=-1.13
+[008] FINAL Lusitânia Sport Club | Laércio Falcao fam=1 duel=-22.01 on_target=0.597 goal=0.206
+[008] FINAL Laércio Falcao: fora/alvo perdido (roll=0.921)
+[009] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[009] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.295 roll=0.622
+[010] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[010] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.295 roll=0.098
+[010] JOGADA Lusitânia Sport Club | Jabes Sousa x Valério Cesarino line=3 duel=17.89 corte=-1.13
+[010] FINAL Lusitânia Sport Club | Sindulfo Mascarenhas fam=3 duel=-30.59 on_target=0.542 goal=0.153
+[010] FINAL Sindulfo Mascarenhas: no alvo sem gol (roll=0.179)
+[011] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[011] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.319 roll=0.916
+[012] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[012] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.383 roll=0.906
+[013] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[013] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.319 roll=0.398
+[014] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[014] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.319 roll=0.022
+[014] JOGADA Lusitânia Sport Club | Laércio Falcao x Murilo Sousa line=3 duel=-8.70 corte=-1.13
+[014] JOGADA falhou: Murilo Sousa cortou
+[015] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[015] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.319 roll=0.855
+[016] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[016] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.319 roll=0.131
+[016] JOGADA Lusitânia Sport Club | Cícero Feijóo x Regente Feijó line=3 duel=-18.07 corte=-1.13
+[016] JOGADA falhou: Regente Feijó cortou
+[017] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[017] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.383 roll=0.482
+[018] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 São Christóvão Football e Regatas
+[018] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.319 roll=0.023
+[018] JOGADA Lusitânia Sport Club | Alcino Lobo x Tadeu Gavião line=3 duel=70.04 corte=-1.13
+[018] FINAL Lusitânia Sport Club | Sindulfo Mascarenhas fam=1 duel=-3.21 on_target=0.647 goal=0.228
+[018] FINAL Sindulfo Mascarenhas: GOL subtipo=CHUTE (roll=0.123)
+[019] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[019] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.319 roll=0.569
+[020] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[020] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.438 roll=0.181
+[020] JOGADA São Christóvão Football e Regatas | Putréfio Lemos x Laércio Falcao line=5 duel=76.12 corte=-1.55
+[020] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=5 duel=1.09 on_target=0.568 goal=0.152
+[020] FINAL Tadeu Gavião: no alvo sem gol (roll=0.540)
+[021] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[021] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.471 roll=0.634
+[022] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[022] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.343 roll=0.543
+[023] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[023] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.471 roll=0.023
+[023] JOGADA São Christóvão Football e Regatas | Calistêmico Soares x Alcino Lobo line=3 duel=7.67 corte=-1.30
+[023] FINAL São Christóvão Football e Regatas | Fevereiriano Macedo fam=5 duel=-1.51 on_target=0.596 goal=0.155
+[023] FINAL Fevereiriano Macedo: fora/alvo perdido (roll=0.912)
+[024] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[024] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.343 roll=0.255
+[024] JOGADA Lusitânia Sport Club | Cícero Feijóo x Regente Feijó line=4 duel=0.92 corte=-1.30
+[024] JOGADA Lusitânia Sport Club | Anaim Rodrigues x Tadeu Gavião line=4 duel=38.02 corte=-1.30
+[024] FINAL Lusitânia Sport Club | Nilton Bettencourt fam=3 duel=-16.84 on_target=0.619 goal=0.175
+[024] FINAL Nilton Bettencourt: fora/alvo perdido (roll=0.974)
+[025] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[025] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.471 roll=0.473
+[026] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[026] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.343 roll=0.450
+[027] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[027] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.471 roll=0.392
+[027] JOGADA São Christóvão Football e Regatas | Fevereiriano Macedo x Cícero Feijóo line=3 duel=-11.25 corte=-1.30
+[027] JOGADA falhou: Cícero Feijóo cortou
+[028] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[028] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.471 roll=0.070
+[028] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Eliseu Mateus line=4 duel=2.11 corte=-1.30
+[028] FINAL São Christóvão Football e Regatas | Fevereiriano Macedo fam=5 duel=-3.26 on_target=0.596 goal=0.154
+[028] FINAL Fevereiriano Macedo: fora/alvo perdido (roll=0.663)
+[029] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[029] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.343 roll=0.313
+[029] JOGADA Lusitânia Sport Club | Eliseu Mateus x Putréfio Lemos line=3 duel=7.93 corte=-1.30
+[029] FINAL Lusitânia Sport Club | Nilton Bettencourt fam=1 duel=-14.36 on_target=0.682 goal=0.231
+[029] FINAL Nilton Bettencourt: no alvo sem gol (roll=0.400)
+[030] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[030] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.471 roll=0.483
+[031] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[031] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.343 roll=0.943
+[032] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[032] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.471 roll=0.078
+[032] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Jabes Sousa line=5 duel=-0.28 corte=-1.55
+[032] FINAL São Christóvão Football e Regatas | Putréfio Lemos fam=5 duel=-3.80 on_target=0.593 goal=0.153
+[032] FINAL Putréfio Lemos: fora/alvo perdido (roll=0.858)
+[033] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[033] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.343 roll=0.958
+[034] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[034] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.471 roll=0.342
+[034] JOGADA São Christóvão Football e Regatas | Regente Feijó x Diogo Ribeiro line=4 duel=-12.27 corte=-1.30
+[035] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[035] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.471 roll=0.208
+[035] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Laércio Falcao line=5 duel=93.37 corte=-2.05
+[035] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=5 duel=-5.86 on_target=0.598 goal=0.153
+[035] FINAL Tadeu Gavião: fora/alvo perdido (roll=0.847)
+[036] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[036] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.343 roll=0.922
+[037] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[037] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.343 roll=0.949
+[038] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[038] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.471 roll=0.975
+[039] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[039] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.343 roll=0.704
+[040] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[040] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.471 roll=0.792
+[041] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[041] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.343 roll=0.080
+[041] JOGADA Lusitânia Sport Club | Nilton Bettencourt x Mauricélio Canoa line=4 duel=-88.26 corte=-1.30
+[041] JOGADA falhou: Mauricélio Canoa cortou
+[042] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[042] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.471 roll=0.138
+[042] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Fábio Pinto line=5 duel=2.52 corte=-1.55
+[042] FINAL São Christóvão Football e Regatas | Calistêmico Soares fam=5 duel=3.49 on_target=0.599 goal=0.158
+[042] FINAL Calistêmico Soares: no alvo sem gol (roll=0.828)
+[043] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[043] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.471 roll=0.821
+[044] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[044] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.343 roll=0.655
+[045] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[045] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.343 roll=0.595
+[046] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[046] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.319 roll=0.331
+[047] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[047] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.319 roll=0.039
+[047] JOGADA Lusitânia Sport Club | Diogo Ribeiro x Fevereiriano Macedo line=3 duel=16.94 corte=-1.30
+[047] FINAL Lusitânia Sport Club | Nilton Bettencourt fam=1 duel=-12.30 on_target=0.648 goal=0.225
+[047] FINAL Nilton Bettencourt: no alvo sem gol (roll=0.837)
+[048] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[048] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.438 roll=0.247
+[048] JOGADA São Christóvão Football e Regatas | Tadeu Gavião x Fábio Pinto line=5 duel=40.13 corte=-2.05
+[048] FINAL São Christóvão Football e Regatas | Putréfio Lemos fam=5 duel=-1.74 on_target=0.563 goal=0.149
+[048] FINAL Putréfio Lemos: no alvo sem gol (roll=0.665)
+[049] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[049] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.319 roll=0.180
+[049] JOGADA Lusitânia Sport Club | Jabes Sousa x Pedro Bittecourt line=3 duel=24.54 corte=-1.30
+[049] FINAL Lusitânia Sport Club | Nilton Bettencourt fam=3 duel=-16.23 on_target=0.588 goal=0.170
+[049] FINAL Nilton Bettencourt: no alvo sem gol (roll=0.605)
+[050] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[050] SUB Lusitânia Sport Club: saiu Nilton Bettencourt (CA) | entrou Lucínio Menezes (PD) | subs=1/5
+[050] SUB São Christóvão Football e Regatas: saiu Tadeu Gavião (SA) | entrou Lúcio Gouveia (MA) | subs=1/5
+[050] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.430 roll=0.271
+[050] JOGADA São Christóvão Football e Regatas | Lúcio Gouveia x Cícero Feijóo line=4 duel=13.06 corte=-1.30
+[050] FINAL São Christóvão Football e Regatas | Pedro Bittecourt fam=5 duel=-12.48 on_target=0.562 goal=0.144
+[050] FINAL Pedro Bittecourt: fora/alvo perdido (roll=0.742)
+[051] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[051] SUB Lusitânia Sport Club: saiu Sindulfo Mascarenhas (SA) | entrou Jonathan Gama (MA) | subs=2/5
+[051] SUB São Christóvão Football e Regatas: saiu Fevereiriano Macedo (CA) | entrou Jacó Freire (CA) | subs=2/5
+[051] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.306 roll=0.310
+[052] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[052] SUB São Christóvão Football e Regatas: saiu Pedro Bittecourt (VOL) | entrou Ciríaco Paredes (ZAG) | subs=3/5
+[052] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.419 roll=0.698
+[053] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[053] SUB São Christóvão Football e Regatas: saiu Valério Cesarino (LD) | entrou Ricardo Leal (LE) | subs=4/5
+[053] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.417 roll=0.489
+[053] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=14.36 on_target=0.572 goal=0.159
+[053] FINAL Murilo Sousa: fora/alvo perdido (roll=0.606)
+[054] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[054] SUB São Christóvão Football e Regatas: saiu Calistêmico Soares (MC) | entrou Miguel Moreira (ME) | subs=5/5
+[054] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.412 roll=0.396
+[054] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Cícero Feijóo line=5 duel=34.28 corte=-1.55
+[054] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=14.16 on_target=0.573 goal=0.160
+[054] FINAL Murilo Sousa: no alvo sem gol (roll=0.849)
+[055] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[055] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.308 roll=0.488
+[056] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[056] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.332 roll=0.010
+[056] JOGADA Lusitânia Sport Club | Cícero Feijóo x Miguel Moreira line=4 duel=3.62 corte=-1.30
+[056] JOGADA Lusitânia Sport Club | Fábio Pinto x Putréfio Lemos line=4 duel=-15.40 corte=-1.30
+[056] JOGADA falhou: Putréfio Lemos cortou
+[057] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[057] SUB Lusitânia Sport Club: saiu Laércio Falcao (MC) | entrou Leonídio Furtado (MD) | subs=3/5
+[057] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.438 roll=0.917
+[058] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[058] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.438 roll=0.055
+[058] JOGADA São Christóvão Football e Regatas | Jacó Freire x Lucínio Menezes line=3 duel=60.75 corte=-1.30
+[058] FINAL São Christóvão Football e Regatas | Miguel Moreira fam=5 duel=-39.77 on_target=0.589 goal=0.137
+[058] FINAL Miguel Moreira: fora/alvo perdido (roll=0.951)
+[059] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[059] SUB Lusitânia Sport Club: saiu Fábio Pinto (LE) | entrou Susano Bettencourt (LE) | subs=4/5
+[059] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.441 roll=0.587
+[059] FINAL São Christóvão Football e Regatas | Ciríaco Paredes fam=5 duel=-44.34 on_target=0.589 goal=0.134
+[059] FINAL Ciríaco Paredes: fora/alvo perdido (roll=0.734)
+[060] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[060] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.444 roll=0.897
+[061] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[061] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.444 roll=0.037
+[061] JOGADA São Christóvão Football e Regatas | Ciríaco Paredes x Anaim Rodrigues line=4 duel=53.41 corte=-1.30
+[061] FINAL São Christóvão Football e Regatas | Jacó Freire fam=5 duel=8.59 on_target=0.593 goal=0.159
+[061] FINAL Jacó Freire: no alvo sem gol (roll=0.953)
+[062] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[062] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.333 roll=0.791
+[063] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[063] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.444 roll=0.845
+[064] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[064] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.444 roll=0.565
+[065] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[065] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.333 roll=0.691
+[066] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[066] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.444 roll=0.734
+[067] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[067] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.444 roll=0.980
+[068] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[068] SUB Lusitânia Sport Club: saiu Diogo Ribeiro (ZAG) | entrou Evangelista Branco (ZAG) | subs=5/5
+[068] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.450 roll=0.014
+[068] JOGADA São Christóvão Football e Regatas | Ricardo Leal x Lucínio Menezes line=5 duel=21.26 corte=-1.55
+[068] FINAL São Christóvão Football e Regatas | Jacó Freire fam=5 duel=9.54 on_target=0.593 goal=0.160
+[068] FINAL Jacó Freire: no alvo sem gol (roll=0.967)
+[069] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[069] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.450 roll=0.748
+[070] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[070] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.450 roll=0.688
+[071] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[071] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.450 roll=0.301
+[071] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Leonídio Furtado line=3 duel=-34.12 corte=-1.30
+[071] JOGADA falhou: Leonídio Furtado cortou
+[072] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[072] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.331 roll=0.711
+[073] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[073] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.450 roll=0.449
+[073] JOGADA São Christóvão Football e Regatas | Lúcio Gouveia x Lucínio Menezes line=3 duel=84.55 corte=-1.30
+[073] FINAL São Christóvão Football e Regatas | Miguel Moreira fam=5 duel=10.11 on_target=0.592 goal=0.160
+[073] FINAL Miguel Moreira: no alvo sem gol (roll=0.448)
+[074] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[074] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.450 roll=0.800
+[075] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[075] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.331 roll=0.484
+[076] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[076] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.486 roll=0.995
+[077] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[077] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.321 roll=0.967
+[078] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[078] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.486 roll=0.056
+[078] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Jabes Sousa line=4 duel=49.23 corte=-1.30
+[078] FINAL São Christóvão Football e Regatas | Lúcio Gouveia fam=5 duel=16.71 on_target=0.636 goal=0.171
+[078] FINAL Lúcio Gouveia: no alvo sem gol (roll=0.343)
+[079] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 0 São Christóvão Football e Regatas
+[079] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.486 roll=0.182
+[079] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Anaim Rodrigues line=5 duel=12.77 corte=-2.05
+[079] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=-35.87 on_target=0.642 goal=0.149
+[079] FINAL Murilo Sousa: GOL subtipo=FALTA (roll=0.044)
+[080] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[080] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.410 roll=0.035
+[080] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Lucínio Menezes line=3 duel=33.08 corte=-1.30
+[080] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=-35.88 on_target=0.612 goal=0.143
+[080] FINAL Murilo Sousa: no alvo sem gol (roll=0.150)
+[081] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[081] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.410 roll=0.843
+[082] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[082] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.410 roll=0.273
+[082] JOGADA São Christóvão Football e Regatas | Jacó Freire x Eliseu Mateus line=4 duel=-3.71 corte=-1.30
+[082] JOGADA falhou: Eliseu Mateus cortou
+[083] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[083] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.410 roll=0.295
+[083] JOGADA São Christóvão Football e Regatas | Ricardo Leal x Jonathan Gama line=3 duel=-8.96 corte=-1.30
+[084] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[084] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.410 roll=0.066
+[084] JOGADA São Christóvão Football e Regatas | Murilo Sousa x Lucínio Menezes line=4 duel=27.62 corte=-1.30
+[084] FINAL São Christóvão Football e Regatas | Lúcio Gouveia fam=5 duel=11.89 on_target=0.605 goal=0.162
+[084] FINAL Lúcio Gouveia: fora/alvo perdido (roll=0.816)
+[085] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[085] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.364 roll=0.478
+[086] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[086] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.432 roll=0.384
+[086] JOGADA São Christóvão Football e Regatas | Miguel Moreira x Leonídio Furtado line=5 duel=36.35 corte=-1.55
+[086] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=9.66 on_target=0.653 goal=0.164
+[086] FINAL Murilo Sousa: no alvo sem gol (roll=0.242)
+[087] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[087] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.364 roll=0.634
+[088] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[088] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.364 roll=0.835
+[089] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[089] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.432 roll=0.011
+[089] JOGADA São Christóvão Football e Regatas | Lúcio Gouveia x Jonathan Gama line=4 duel=8.52 corte=-1.30
+[089] FINAL São Christóvão Football e Regatas | Lúcio Gouveia fam=5 duel=7.20 on_target=0.643 goal=0.159
+[089] FINAL Lúcio Gouveia: no alvo sem gol (roll=0.776)
+[090] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[090] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.432 roll=0.039
+[090] JOGADA São Christóvão Football e Regatas | Regente Feijó x Susano Bettencourt line=4 duel=-24.24 corte=-1.30
+[091] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[091] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.432 roll=0.799
+[092] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[092] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.432 roll=0.901
+[093] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[093] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.432 roll=0.286
+[093] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Jabes Sousa line=5 duel=26.51 corte=-1.55
+[093] FINAL São Christóvão Football e Regatas | Jacó Freire fam=5 duel=-3.32 on_target=0.642 goal=0.154
+[093] FINAL Jacó Freire: no alvo sem gol (roll=0.993)
+[094] posse=São Christóvão Football e Regatas | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[094] BUILD São Christóvão Football e Regatas vs Lusitânia Sport Club prob=0.432 roll=0.798
+[095] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 1 São Christóvão Football e Regatas
+[095] BUILD Lusitânia Sport Club vs São Christóvão Football e Regatas prob=0.364 roll=0.689

@@ -1,0 +1,326 @@
+Partida #184
+Data: 1912-01-18
+Mandante: Clube Fluminense de Futebol Odisséia
+Visitante: Bangu Athletic Club
+Placar: 2 x 1
+Seed: -
+Estádio: Estádio Olímpico de Nictheroy
+Clima: Chuva forte
+Placar tempo normal: 2 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube Fluminense de Futebol Odisséia x Bangu Athletic Club | estádio=Estádio Olímpico de Nictheroy | clima=Chuva forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[001] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.395 roll=0.691
+[002] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[002] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.395 roll=0.358
+[002] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Moacir Zanetti line=3 duel=20.17 corte=-1.11
+[002] FINAL Clube Fluminense de Futebol Odisséia | Pôncio Gordo fam=1 duel=-16.86 on_target=0.599 goal=0.208
+[002] FINAL Pôncio Gordo: fora/alvo perdido (roll=0.919)
+[003] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[003] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.395 roll=0.258
+[003] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Bernardo Guimarães line=5 duel=70.89 corte=-1.36
+[003] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=10.99 on_target=0.609 goal=0.224
+[003] FINAL Tomás Soares Ziza: no alvo sem gol (roll=0.391)
+[004] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[004] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.395 roll=0.367
+[004] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Frederick Burton line=3 duel=31.28 corte=-1.11
+[004] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=7.97 on_target=0.612 goal=0.225
+[004] FINAL Teobaldo Mascarenhas: fora/alvo perdido (roll=0.967)
+[005] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[005] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.349 roll=0.346
+[005] JOGADA Bangu Athletic Club | Frederick Burton x Pôncio Gordo line=4 duel=-1.65 corte=-1.30
+[006] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[006] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.349 roll=0.715
+[007] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[007] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.395 roll=0.654
+[008] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[008] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.349 roll=0.464
+[009] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[009] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.349 roll=0.605
+[010] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[010] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.349 roll=0.585
+[011] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[011] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.378 roll=0.247
+[011] JOGADA Bangu Athletic Club | Alfred Moore x Pôncio Gordo line=5 duel=-14.04 corte=-1.55
+[011] JOGADA falhou: Pôncio Gordo cortou
+[012] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[012] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.427 roll=0.079
+[012] JOGADA Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza x Bernardo Guimarães line=3 duel=10.88 corte=-1.11
+[012] FINAL Clube Fluminense de Futebol Odisséia | Marcel Ganem fam=3 duel=-23.53 on_target=0.596 goal=0.170
+[012] FINAL Marcel Ganem: no alvo sem gol (roll=0.613)
+[013] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[013] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.378 roll=0.391
+[014] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[014] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.378 roll=0.615
+[015] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[015] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.378 roll=0.063
+[015] JOGADA Bangu Athletic Club | Júlio Gutierres Barbosa x Tomás Soares Ziza line=3 duel=9.11 corte=-1.30
+[015] FINAL Bangu Athletic Club | Heleno Garcia fam=5 duel=-10.72 on_target=0.571 goal=0.148
+[015] FINAL Heleno Garcia: fora/alvo perdido (roll=0.811)
+[016] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[016] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.378 roll=0.551
+[017] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Bangu Athletic Club
+[017] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.427 roll=0.420
+[017] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Frederick Burton line=3 duel=49.45 corte=-1.11
+[017] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=-1.96 on_target=0.661 goal=0.235
+[017] FINAL Walfrid Hoff: GOL subtipo=CHUTE (roll=0.147)
+[018] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[018] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.427 roll=0.560
+[019] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[019] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.432 roll=0.634
+[020] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[020] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.432 roll=0.728
+[021] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[021] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.037
+[021] JOGADA Bangu Athletic Club | Vitor Quitério Gonzaga x Eduardo Batista line=3 duel=-9.84 corte=-1.30
+[022] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[022] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.459 roll=0.241
+[022] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Heleno Garcia line=4 duel=-1.42 corte=-1.30
+[022] JOGADA falhou: Heleno Garcia cortou
+[023] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[023] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.459 roll=0.733
+[024] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[024] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.195
+[024] JOGADA Bangu Athletic Club | Júlio Gutierres Barbosa x Wilton Bigode line=4 duel=-9.28 corte=-1.30
+[025] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[025] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.459 roll=0.899
+[026] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[026] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.533
+[027] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[027] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.364
+[027] JOGADA Bangu Athletic Club | André Luiz Barcelos x Hildebrando Guardado line=4 duel=103.23 corte=-1.30
+[027] FINAL Bangu Athletic Club | Moacir Zanetti fam=5 duel=-8.46 on_target=0.601 goal=0.156
+[027] FINAL Moacir Zanetti: no alvo sem gol (roll=0.748)
+[028] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[028] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.459 roll=0.863
+[029] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[029] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.710
+[030] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[030] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.459 roll=0.639
+[031] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[031] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.459 roll=0.217
+[031] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Moacir Zanetti line=5 duel=35.07 corte=-1.55
+[031] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=14.04 on_target=0.692 goal=0.248
+[031] FINAL Tomás Soares Ziza: no alvo sem gol (roll=0.371)
+[032] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[032] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.082
+[032] JOGADA Bangu Athletic Club | André Luiz Barcelos x Eduardo Batista line=5 duel=67.65 corte=-1.55
+[032] FINAL Bangu Athletic Club | Saulo Linhares fam=5 duel=-19.24 on_target=0.592 goal=0.147
+[032] FINAL Saulo Linhares: no alvo sem gol (roll=0.514)
+[033] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[033] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.559
+[034] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[034] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.036
+[034] JOGADA Bangu Athletic Club | Moacir Zanetti x Adhemar Meira line=4 duel=36.42 corte=-1.30
+[034] FINAL Bangu Athletic Club | Vitor Quitério Gonzaga fam=5 duel=-16.47 on_target=0.601 goal=0.152
+[034] FINAL Vitor Quitério Gonzaga: no alvo sem gol (roll=0.867)
+[035] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[035] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.502
+[036] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[036] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.900
+[037] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[037] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.750
+[038] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[038] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.398
+[038] JOGADA Bangu Athletic Club | Júlio Gutierres Barbosa x Eduardo Batista line=4 duel=67.65 corte=-1.30
+[038] FINAL Bangu Athletic Club | Moacir Zanetti fam=5 duel=-14.16 on_target=0.601 goal=0.153
+[038] FINAL Moacir Zanetti: no alvo sem gol (roll=0.837)
+[039] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[039] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.997
+[040] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[040] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.459 roll=0.410
+[040] JOGADA Clube Fluminense de Futebol Odisséia | Hildebrando Guardado x Heleno Garcia line=4 duel=-4.40 corte=-1.30
+[040] JOGADA falhou: Heleno Garcia cortou
+[041] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[041] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.582
+[042] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[042] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.459 roll=0.462
+[043] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[043] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.459 roll=0.883
+[044] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[044] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.753
+[045] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[045] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.465 roll=0.101
+[045] JOGADA Bangu Athletic Club | André Luiz Barcelos x Wilton Bigode line=4 duel=-2.00 corte=-1.30
+[045] JOGADA falhou: Wilton Bigode cortou
+[046] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[046] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.427 roll=0.887
+[047] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[047] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.427 roll=0.111
+[047] JOGADA Clube Fluminense de Futebol Odisséia | Adhemar Meira x Saulo Linhares line=3 duel=58.26 corte=-1.30
+[047] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=-6.13 on_target=0.655 goal=0.231
+[047] FINAL Hildebrando Guardado: fora/alvo perdido (roll=0.988)
+[048] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[048] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.427 roll=0.301
+[048] JOGADA Clube Fluminense de Futebol Odisséia | Pôncio Gordo x Bernardo Guimarães line=4 duel=11.43 corte=-1.30
+[048] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=-7.28 on_target=0.661 goal=0.233
+[048] FINAL Walfrid Hoff: no alvo sem gol (roll=0.398)
+[049] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[049] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.432 roll=0.087
+[049] JOGADA Bangu Athletic Club | Alfred Moore x Hildebrando Guardado line=5 duel=74.19 corte=-1.55
+[049] FINAL Bangu Athletic Club | Moacir Zanetti fam=5 duel=-69.23 on_target=0.568 goal=0.124
+[049] FINAL Moacir Zanetti: no alvo sem gol (roll=0.384)
+[050] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[050] SUB Clube Fluminense de Futebol Odisséia: saiu Walfrid Hoff (CA) | entrou Armando de Almeida (CA) | subs=1/5
+[050] SUB Bangu Athletic Club: saiu Moacir Zanetti (SA) | entrou Fernando Donohoe (MA) | subs=1/5
+[050] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.404 roll=0.804
+[051] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[051] SUB Clube Fluminense de Futebol Odisséia: saiu Hildebrando Guardado (CA) | entrou Renato Lugon (CA) | subs=2/5
+[051] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.383 roll=0.881
+[052] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[052] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.430 roll=0.460
+[053] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[053] SUB Bangu Athletic Club: saiu Saulo Linhares (MD) | entrou Mário José Neto (MC) | subs=2/5
+[053] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.433 roll=0.620
+[054] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[054] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.383 roll=0.747
+[055] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[055] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.383 roll=0.922
+[056] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[056] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.411 roll=0.907
+[057] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[057] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.411 roll=0.350
+[057] JOGADA Clube Fluminense de Futebol Odisséia | Renato Lugon x Bernardo Guimarães line=3 duel=20.82 corte=-1.30
+[057] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=17.38 on_target=0.693 goal=0.249
+[057] FINAL Tomás Soares Ziza: fora/alvo perdido (roll=0.781)
+[058] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[058] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.466 roll=0.309
+[058] JOGADA Bangu Athletic Club | Frederick Burton x Wilton Bigode line=5 duel=59.00 corte=-2.05
+[058] FINAL Bangu Athletic Club | Frederick Burton fam=5 duel=12.29 on_target=0.606 goal=0.165
+[058] FINAL Frederick Burton: fora/alvo perdido (roll=0.681)
+[059] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[059] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.466 roll=0.223
+[059] JOGADA Bangu Athletic Club | Mário José Neto x Eduardo Batista line=4 duel=80.74 corte=-1.30
+[059] FINAL Bangu Athletic Club | Heleno Garcia fam=5 duel=-53.58 on_target=0.599 goal=0.134
+[059] FINAL Heleno Garcia: fora/alvo perdido (roll=0.725)
+[060] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[060] SUB Clube Fluminense de Futebol Odisséia: saiu Tomás Soares Ziza (MA) | entrou Charles Durant (MA) | subs=3/5
+[060] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.423 roll=0.826
+[061] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[061] SUB Clube Fluminense de Futebol Odisséia: saiu Eduardo Batista (ZAG) | entrou Áquiles Nascimento (ZAG) | subs=4/5
+[061] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.427 roll=0.108
+[061] JOGADA Bangu Athletic Club | Frederick Burton x Marcel Ganem line=5 duel=92.91 corte=-1.85
+[061] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=10.58 on_target=0.697 goal=0.249
+[061] FINAL Frederick Burton: no alvo sem gol (roll=0.660)
+[062] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[062] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.466 roll=0.696
+[063] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[063] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.466 roll=0.530
+[064] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[064] SUB Bangu Athletic Club: saiu Vitor Quitério Gonzaga (ME) | entrou Tadeu Pelicano (MA) | subs=3/5
+[064] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.428 roll=0.275
+[064] JOGADA Bangu Athletic Club | Heleno Garcia x Charles Durant line=5 duel=62.67 corte=-1.35
+[064] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=12.76 on_target=0.697 goal=0.250
+[064] FINAL Frederick Burton: no alvo sem gol (roll=0.466)
+[065] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[065] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.428 roll=0.041
+[065] JOGADA Bangu Athletic Club | Roberto Alves x Renato Lugon line=4 duel=-12.08 corte=-1.10
+[066] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[066] SUB Bangu Athletic Club: saiu Roberto Alves (ZAG) | entrou Bernardo Alvares (ZAG) | subs=4/5
+[066] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.470 roll=0.191
+[066] JOGADA Clube Fluminense de Futebol Odisséia | Adhemar Meira x Heleno Garcia line=4 duel=-1.98 corte=-1.70
+[066] JOGADA falhou: Heleno Garcia cortou
+[067] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[067] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.431 roll=0.916
+[068] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[068] SUB Clube Fluminense de Futebol Odisséia: saiu Teobaldo Mascarenhas (MA) | entrou Nicolau Lançarote (MC) | subs=5/5
+[068] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.465 roll=0.847
+[069] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[069] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.465 roll=0.726
+[070] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[070] SUB Bangu Athletic Club: saiu Alfred Moore (ZAG) | entrou John Redwood (ZAG) | subs=5/5
+[070] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.487 roll=0.283
+[070] JOGADA Bangu Athletic Club | Fernando Donohoe x Wilton Bigode line=4 duel=-1.29 corte=-1.30
+[070] FINAL Bangu Athletic Club | Júlio Gutierres Barbosa fam=5 duel=-45.70 on_target=0.597 goal=0.137
+[070] FINAL Júlio Gutierres Barbosa: fora/alvo perdido (roll=0.639)
+[071] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Bangu Athletic Club
+[071] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.405 roll=0.084
+[071] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Heleno Garcia line=3 duel=68.77 corte=-1.30
+[071] FINAL Clube Fluminense de Futebol Odisséia | Nicolau Lançarote fam=1 duel=30.02 on_target=0.671 goal=0.251
+[071] FINAL Nicolau Lançarote: GOL subtipo=CHUTE (roll=0.074)
+[072] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 0 Bangu Athletic Club
+[072] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.491 roll=0.831
+[073] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 0 Bangu Athletic Club
+[073] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.401 roll=0.018
+[073] JOGADA Clube Fluminense de Futebol Odisséia | Nicolau Lançarote x John Redwood line=4 duel=12.72 corte=-1.30
+[073] FINAL Clube Fluminense de Futebol Odisséia | Armando de Almeida fam=1 duel=27.71 on_target=0.657 goal=0.232
+[073] FINAL Armando de Almeida: no alvo sem gol (roll=0.947)
+[074] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 0 Bangu Athletic Club
+[074] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.491 roll=0.048
+[074] JOGADA Bangu Athletic Club | Bernardo Guimarães x Adhemar Meira line=3 duel=35.79 corte=-1.30
+[074] FINAL Bangu Athletic Club | Frederick Burton fam=5 duel=11.45 on_target=0.607 goal=0.166
+[074] FINAL Frederick Burton: GOL subtipo=FALTA (roll=0.156)
+[075] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[075] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.487 roll=0.493
+[076] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[076] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.393 roll=0.127
+[076] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Frederick Burton line=3 duel=88.47 corte=-1.30
+[076] FINAL Clube Fluminense de Futebol Odisséia | Renato Lugon fam=1 duel=26.27 on_target=0.656 goal=0.238
+[076] FINAL Renato Lugon: fora/alvo perdido (roll=0.821)
+[077] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[077] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.393 roll=0.109
+[077] JOGADA Clube Fluminense de Futebol Odisséia | Charles Durant x Bernardo Alvares line=4 duel=4.44 corte=-1.30
+[077] FINAL Clube Fluminense de Futebol Odisséia | Renato Lugon fam=3 duel=-2.57 on_target=0.593 goal=0.173
+[077] FINAL Renato Lugon: no alvo sem gol (roll=0.998)
+[078] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[078] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.393 roll=0.188
+[078] JOGADA Clube Fluminense de Futebol Odisséia | Adhemar Meira x Heleno Garcia line=4 duel=36.48 corte=-1.30
+[078] FINAL Clube Fluminense de Futebol Odisséia | Charles Durant fam=1 duel=18.25 on_target=0.656 goal=0.235
+[078] FINAL Charles Durant: no alvo sem gol (roll=0.837)
+[079] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[079] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.526 roll=0.671
+[080] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[080] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.526 roll=0.184
+[080] JOGADA Bangu Athletic Club | Fernando Donohoe x Pôncio Gordo line=5 duel=30.48 corte=-2.05
+[080] FINAL Bangu Athletic Club | Tadeu Pelicano fam=5 duel=8.63 on_target=0.635 goal=0.167
+[080] FINAL Tadeu Pelicano: no alvo sem gol (roll=1.000)
+[081] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[081] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.526 roll=0.941
+[082] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[082] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.526 roll=0.534
+[083] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[083] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.526 roll=0.084
+[083] JOGADA Bangu Athletic Club | Fernando Donohoe x Armando de Almeida line=4 duel=60.15 corte=-1.30
+[083] FINAL Bangu Athletic Club | Júlio Gutierres Barbosa fam=5 duel=-0.59 on_target=0.641 goal=0.164
+[083] FINAL Júlio Gutierres Barbosa: fora/alvo perdido (roll=0.733)
+[084] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[084] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.526 roll=0.692
+[085] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[085] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.393 roll=0.339
+[085] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Bernardo Guimarães line=3 duel=5.70 corte=-1.30
+[085] FINAL Clube Fluminense de Futebol Odisséia | Armando de Almeida fam=1 duel=19.35 on_target=0.656 goal=0.234
+[085] FINAL Armando de Almeida: no alvo sem gol (roll=0.464)
+[086] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[086] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.554 roll=0.822
+[087] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[087] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.554 roll=0.858
+[088] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[088] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.554 roll=0.899
+[089] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[089] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.554 roll=0.975
+[090] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[090] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.393 roll=0.846
+[091] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[091] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.554 roll=0.117
+[091] JOGADA Bangu Athletic Club | Heleno Garcia x Nicolau Lançarote line=3 duel=-4.57 corte=-1.30
+[091] JOGADA falhou: Nicolau Lançarote cortou
+[092] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[092] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.554 roll=0.935
+[093] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[093] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.393 roll=0.518
+[094] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[094] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.393 roll=0.384
+[094] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Tadeu Pelicano line=3 duel=-2.53 corte=-1.30
+[094] JOGADA falhou: Tadeu Pelicano cortou
+[095] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[095] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.554 roll=0.901
+[096] posse=Bangu Athletic Club | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[096] BUILD Bangu Athletic Club vs Clube Fluminense de Futebol Odisséia prob=0.554 roll=0.407
+[096] JOGADA Bangu Athletic Club | Júlio Gutierres Barbosa x Wilton Bigode line=3 duel=-3.12 corte=-1.30
+[096] JOGADA falhou: Wilton Bigode cortou
+[097] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 1 Bangu Athletic Club
+[097] BUILD Clube Fluminense de Futebol Odisséia vs Bangu Athletic Club prob=0.393 roll=0.606

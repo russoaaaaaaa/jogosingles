@@ -1,0 +1,326 @@
+Partida #186
+Data: 1912-01-18
+Mandante: Argentino Football Club
+Visitante: Brazil-London Railway Sport Club
+Placar: 2 x 2
+Seed: -
+Estádio: Aurélio Marques
+Clima: Frio forte
+Placar tempo normal: 2 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Argentino Football Club x Brazil-London Railway Sport Club | estádio=Aurélio Marques | clima=Frio forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 0 x 0 Brazil-London Railway Sport Club
+[001] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.323 roll=0.905
+[002] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 0 x 0 Brazil-London Railway Sport Club
+[002] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.323 roll=0.950
+[003] posse=Argentino Football Club | placar Argentino Football Club 0 x 0 Brazil-London Railway Sport Club
+[003] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.320 roll=0.406
+[004] posse=Argentino Football Club | placar Argentino Football Club 0 x 0 Brazil-London Railway Sport Club
+[004] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.320 roll=0.930
+[005] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 0 x 0 Brazil-London Railway Sport Club
+[005] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.323 roll=0.333
+[006] posse=Argentino Football Club | placar Argentino Football Club 0 x 0 Brazil-London Railway Sport Club
+[006] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.320 roll=0.602
+[007] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 0 x 0 Brazil-London Railway Sport Club
+[007] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.323 roll=0.262
+[007] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Márcio de Lima line=4 duel=1.54 corte=-1.30
+[007] FINAL Brazil-London Railway Sport Club | Zachary Griffiths fam=5 duel=-95.22 on_target=0.511 goal=0.101
+[007] FINAL Zachary Griffiths: fora/alvo perdido (roll=0.707)
+[008] posse=Argentino Football Club | placar Argentino Football Club 0 x 0 Brazil-London Railway Sport Club
+[008] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.320 roll=0.347
+[009] posse=Argentino Football Club | placar Argentino Football Club 0 x 0 Brazil-London Railway Sport Club
+[009] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.320 roll=0.150
+[009] JOGADA Argentino Football Club | Enoch Magia x Elivelton Camaçari line=2 duel=12.88 corte=-1.12
+[009] JOGADA Argentino Football Club | Anisauá Peralta x Leonardo Chambers line=3 duel=2.17 corte=-1.12
+[009] FINAL Argentino Football Club | Anisauá Peralta fam=1 duel=10.01 on_target=0.595 goal=0.220
+[009] FINAL Anisauá Peralta: GOL subtipo=CHUTE (roll=0.032)
+[010] posse=Argentino Football Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[010] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.320 roll=0.926
+[011] posse=Argentino Football Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[011] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.346 roll=0.754
+[012] posse=Argentino Football Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[012] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.346 roll=0.632
+[013] posse=Argentino Football Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[013] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.346 roll=0.820
+[014] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[014] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.392 roll=0.864
+[015] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[015] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.392 roll=0.235
+[015] JOGADA Brazil-London Railway Sport Club | Connor Thomas x Márcio de Lima line=3 duel=-17.98 corte=-1.30
+[015] JOGADA falhou: Márcio de Lima cortou
+[016] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[016] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.392 roll=0.447
+[017] posse=Argentino Football Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[017] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.346 roll=0.068
+[017] JOGADA Argentino Football Club | Enoch Magia x WIllson Bridge line=3 duel=13.77 corte=-1.30
+[017] JOGADA Argentino Football Club | Florentino Berdardinelli x Zachary Griffiths line=5 duel=49.08 corte=-2.05
+[017] JOGADA Argentino Football Club | Coari Ladeira x Carter Anderson line=5 duel=53.98 corte=-2.05
+[017] FINAL Argentino Football Club | Coari Ladeira fam=1 duel=-4.43 on_target=0.644 goal=0.229
+[017] FINAL Coari Ladeira: no alvo sem gol (roll=0.887)
+[018] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[018] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.392 roll=0.865
+[019] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[019] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.392 roll=0.780
+[020] posse=Argentino Football Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[020] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.346 roll=0.653
+[021] posse=Argentino Football Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[021] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.372 roll=0.577
+[022] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[022] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.422 roll=0.452
+[023] posse=Argentino Football Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[023] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.373 roll=0.485
+[024] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[024] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.421 roll=0.385
+[024] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Anisauá Peralta line=3 duel=36.31 corte=-1.30
+[024] JOGADA Brazil-London Railway Sport Club | Elivelton Camaçari x Abaçaí Azevedo line=4 duel=-41.62 corte=-1.30
+[024] JOGADA falhou: Abaçaí Azevedo cortou
+[025] posse=Argentino Football Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[025] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.373 roll=0.278
+[025] JOGADA Argentino Football Club | Florentino Berdardinelli x Dylan Edwards line=4 duel=10.45 corte=-1.30
+[025] JOGADA Argentino Football Club | Abaçaí Azevedo x Dylan Edwards line=4 duel=-6.95 corte=-1.30
+[026] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[026] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.421 roll=0.922
+[027] posse=Argentino Football Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[027] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.373 roll=0.327
+[027] JOGADA Argentino Football Club | Tamandaré Maldonado x Joel Lees line=3 duel=8.47 corte=-1.30
+[027] JOGADA Argentino Football Club | Florentino Berdardinelli x Hugo Filgueira line=4 duel=21.17 corte=-1.30
+[027] FINAL Argentino Football Club | Florentino Berdardinelli fam=3 duel=6.94 on_target=0.619 goal=0.188
+[027] FINAL Florentino Berdardinelli: no alvo sem gol (roll=0.507)
+[028] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[028] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.421 roll=0.961
+[029] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[029] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.421 roll=0.967
+[030] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[030] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.421 roll=0.211
+[030] JOGADA Brazil-London Railway Sport Club | Connor Thomas x Tamandaré Maldonado line=4 duel=-23.03 corte=-1.30
+[030] JOGADA falhou: Tamandaré Maldonado cortou
+[031] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[031] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.421 roll=0.337
+[031] JOGADA Brazil-London Railway Sport Club | Elivelton Camaçari x Tamandaré Maldonado line=3 duel=17.10 corte=-1.30
+[031] JOGADA Brazil-London Railway Sport Club | WIllson Bridge x Filinto Quinteiro line=4 duel=15.91 corte=-1.30
+[031] FINAL Brazil-London Railway Sport Club | Joel Lees fam=5 duel=-15.89 on_target=0.588 goal=0.149
+[031] FINAL Joel Lees: fora/alvo perdido (roll=0.730)
+[032] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 0 Brazil-London Railway Sport Club
+[032] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.421 roll=0.375
+[032] JOGADA Brazil-London Railway Sport Club | Elivelton Camaçari x Coari Ladeira line=2 duel=56.97 corte=-1.30
+[032] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Abaçaí Azevedo line=5 duel=55.43 corte=-1.55
+[032] JOGADA Brazil-London Railway Sport Club | Corey Carter x Florentino Berdardinelli line=5 duel=17.97 corte=-1.55
+[032] FINAL Brazil-London Railway Sport Club | Joel Lees fam=1 duel=-19.38 on_target=0.676 goal=0.237
+[032] FINAL Joel Lees: GOL subtipo=CHUTE (roll=0.135)
+[033] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 1 x 1 Brazil-London Railway Sport Club
+[033] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.377 roll=0.835
+[034] posse=Argentino Football Club | placar Argentino Football Club 1 x 1 Brazil-London Railway Sport Club
+[034] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.373 roll=0.290
+[034] JOGADA Argentino Football Club | Anisauá Peralta x Joel Lees line=3 duel=2.64 corte=-1.12
+[034] FINAL Argentino Football Club | Coari Ladeira fam=1 duel=-5.40 on_target=0.677 goal=0.236
+[034] FINAL Coari Ladeira: GOL subtipo=CHUTE (roll=0.005)
+[035] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[035] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.421 roll=0.476
+[036] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[036] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.421 roll=0.084
+[036] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Abaçaí Azevedo line=4 duel=-34.57 corte=-1.30
+[036] JOGADA falhou: Abaçaí Azevedo cortou
+[037] posse=Argentino Football Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[037] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.373 roll=0.036
+[037] JOGADA Argentino Football Club | Enoch Magia x Dylan Edwards line=3 duel=45.98 corte=-1.30
+[037] JOGADA Argentino Football Club | Abaçaí Azevedo x Leonardo Chambers line=4 duel=-67.71 corte=-1.30
+[037] JOGADA falhou: Leonardo Chambers cortou
+[038] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[038] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.421 roll=0.437
+[039] posse=Argentino Football Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[039] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.373 roll=0.809
+[040] posse=Argentino Football Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[040] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.373 roll=0.618
+[041] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[041] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.421 roll=0.428
+[042] posse=Argentino Football Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[042] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.373 roll=0.197
+[042] JOGADA Argentino Football Club | Tamandaré Maldonado x Carter Anderson line=3 duel=8.36 corte=-1.30
+[042] JOGADA Argentino Football Club | Coari Ladeira x WIllson Bridge line=4 duel=7.25 corte=-1.30
+[042] FINAL Argentino Football Club | Coari Ladeira fam=1 duel=-1.15 on_target=0.678 goal=0.238
+[042] FINAL Coari Ladeira: fora/alvo perdido (roll=0.720)
+[043] posse=Argentino Football Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[043] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.373 roll=0.696
+[044] posse=Argentino Football Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[044] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.373 roll=0.024
+[044] JOGADA Argentino Football Club | Abaçaí Azevedo x WIllson Bridge line=2 duel=10.04 corte=-1.30
+[044] JOGADA Argentino Football Club | Enoch Magia x Dylan Edwards line=3 duel=-1.64 corte=-1.30
+[044] JOGADA falhou: Dylan Edwards cortou
+[045] posse=Argentino Football Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[045] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.373 roll=0.712
+[046] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[046] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.392 roll=0.271
+[046] JOGADA Brazil-London Railway Sport Club | Carter Anderson x Enoch Magia line=3 duel=26.49 corte=-1.30
+[046] JOGADA Brazil-London Railway Sport Club | Elivelton Camaçari x Anisauá Peralta line=4 duel=21.93 corte=-1.30
+[046] JOGADA Brazil-London Railway Sport Club | Connor Thomas x Filinto Quinteiro line=5 duel=35.93 corte=-1.55
+[046] FINAL Brazil-London Railway Sport Club | WIllson Bridge fam=5 duel=7.35 on_target=0.564 goal=0.157
+[046] FINAL WIllson Bridge: fora/alvo perdido (roll=0.995)
+[047] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[047] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.392 roll=0.880
+[048] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[048] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.392 roll=0.394
+[049] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[049] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.392 roll=0.648
+[050] posse=Argentino Football Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[050] SUB Brazil-London Railway Sport Club: saiu Zachary Griffiths (SA) | entrou Todd Campbel (CA) | subs=1/5
+[050] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.347 roll=0.645
+[051] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[051] SUB Argentino Football Club: saiu Filinto Quinteiro (LD) | entrou Amani Pádua (LE) | subs=1/5
+[051] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.392 roll=0.300
+[051] JOGADA Brazil-London Railway Sport Club | Connor Thomas x Tamandaré Maldonado line=3 duel=-11.32 corte=-1.30
+[051] FINAL Brazil-London Railway Sport Club | Connor Thomas fam=5 duel=-26.94 on_target=0.557 goal=0.140
+[051] FINAL Connor Thomas: no alvo sem gol (roll=0.447)
+[052] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[052] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.392 roll=0.052
+[052] JOGADA Brazil-London Railway Sport Club | Todd Campbel x Márcio de Lima line=4 duel=-45.84 corte=-1.30
+[052] JOGADA falhou: Márcio de Lima cortou
+[053] posse=Argentino Football Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[053] SUB Brazil-London Railway Sport Club: saiu Elivelton Camaçari (MD) | entrou Boaçava Isidoro (MD) | subs=2/5
+[053] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.345 roll=0.900
+[054] posse=Argentino Football Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[054] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.345 roll=0.402
+[055] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 1 Brazil-London Railway Sport Club
+[055] SUB Brazil-London Railway Sport Club: saiu Carter Anderson (MA) | entrou Olivar Ferretti (MA) | subs=3/5
+[055] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.391 roll=0.628
+[055] FINAL Brazil-London Railway Sport Club | Olivar Ferretti fam=5 duel=-8.16 on_target=0.562 goal=0.149
+[055] FINAL Olivar Ferretti: GOL subtipo=FALTA (roll=0.128)
+[056] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[056] SUB Argentino Football Club: saiu Enoch Magia (PE) | entrou Heliodoro Catão (PD) | subs=2/5
+[056] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.376 roll=0.025
+[056] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Tamandaré Maldonado line=4 duel=6.66 corte=-1.30
+[056] FINAL Brazil-London Railway Sport Club | Todd Campbel fam=5 duel=14.99 on_target=0.592 goal=0.163
+[056] FINAL Todd Campbel: fora/alvo perdido (roll=0.978)
+[057] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[057] SUB Argentino Football Club: saiu Anisauá Peralta (SA) | entrou Eriberto Reyes (SA) | subs=3/5
+[057] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.380 roll=0.260
+[057] JOGADA Brazil-London Railway Sport Club | Joel Lees x Coari Ladeira line=3 duel=28.04 corte=-1.30
+[057] FINAL Brazil-London Railway Sport Club | WIllson Bridge fam=5 duel=10.21 on_target=0.592 goal=0.160
+[057] FINAL WIllson Bridge: fora/alvo perdido (roll=0.637)
+[058] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[058] SUB Argentino Football Club: saiu Coari Ladeira (CA) | entrou Quimbaya Torreno (CA) | subs=4/5
+[058] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.338 roll=0.973
+[059] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[059] SUB Argentino Football Club: saiu Ariello (MC) | entrou Quatiguá Mourinho (ME) | subs=5/5
+[059] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.394 roll=0.123
+[059] JOGADA Argentino Football Club | Tamandaré Maldonado x Corey Carter line=3 duel=2.90 corte=-1.70
+[059] JOGADA Argentino Football Club | Florentino Berdardinelli x Boaçava Isidoro line=4 duel=-0.77 corte=-1.70
+[059] JOGADA Argentino Football Club | Márcio de Lima x Olivar Ferretti line=4 duel=-34.48 corte=-1.70
+[060] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[060] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.398 roll=0.607
+[061] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[061] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.398 roll=0.624
+[062] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[062] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.340 roll=0.109
+[062] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Márcio de Lima line=3 duel=60.26 corte=-1.12
+[062] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Tamandaré Maldonado line=4 duel=-13.28 corte=-1.12
+[062] JOGADA falhou: Tamandaré Maldonado cortou
+[063] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[063] SUB Brazil-London Railway Sport Club: saiu WIllson Bridge (CA) | entrou Patrício Cortez (CA) | subs=4/5
+[063] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.336 roll=0.983
+[064] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[064] SUB Brazil-London Railway Sport Club: saiu Joel Lees (ME) | entrou Moara Palma (ME) | subs=5/5
+[064] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.337 roll=0.029
+[064] JOGADA Brazil-London Railway Sport Club | Corey Carter x Heliodoro Catão line=3 duel=-4.42 corte=-1.12
+[065] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[065] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.398 roll=0.160
+[065] JOGADA Argentino Football Club | Márcio de Lima x Patrício Cortez line=3 duel=19.33 corte=-1.70
+[065] JOGADA Argentino Football Club | Quimbaya Torreno x Hugo Filgueira line=4 duel=21.51 corte=-1.70
+[065] JOGADA Argentino Football Club | Quatiguá Mourinho x Leonardo Chambers line=5 duel=22.63 corte=-1.95
+[065] FINAL Argentino Football Club | Quatiguá Mourinho fam=1 duel=17.98 on_target=0.679 goal=0.252
+[065] FINAL Quatiguá Mourinho: no alvo sem gol (roll=0.443)
+[066] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[066] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.398 roll=0.181
+[066] JOGADA Argentino Football Club | Quimbaya Torreno x Corey Carter line=3 duel=15.16 corte=-1.70
+[066] FINAL Argentino Football Club | Heliodoro Catão fam=5 duel=29.49 on_target=0.592 goal=0.168
+[066] FINAL Heliodoro Catão: no alvo sem gol (roll=0.178)
+[067] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[067] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.337 roll=0.363
+[068] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[068] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.337 roll=0.223
+[068] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Abaçaí Azevedo line=3 duel=-2.67 corte=-1.11
+[068] JOGADA falhou: Abaçaí Azevedo cortou
+[069] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[069] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.401 roll=0.256
+[069] JOGADA Argentino Football Club | Abaçaí Azevedo x Corey Carter line=3 duel=-13.34 corte=-1.70
+[069] JOGADA falhou: Corey Carter cortou
+[070] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[070] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.401 roll=0.832
+[071] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[071] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.401 roll=0.177
+[071] JOGADA Argentino Football Club | Heliodoro Catão x Leonardo Chambers line=3 duel=34.52 corte=-1.70
+[071] JOGADA Argentino Football Club | Márcio de Lima x Connor Thomas line=4 duel=-5.78 corte=-1.70
+[072] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[072] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.337 roll=0.687
+[073] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[073] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.401 roll=0.468
+[074] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[074] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.337 roll=0.041
+[074] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Heliodoro Catão line=2 duel=54.87 corte=-1.07
+[074] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Márcio de Lima line=4 duel=1.63 corte=-1.07
+[074] FINAL Brazil-London Railway Sport Club | Olivar Ferretti fam=1 duel=3.27 on_target=0.681 goal=0.243
+[074] FINAL Olivar Ferretti: fora/alvo perdido (roll=0.850)
+[075] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[075] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.401 roll=0.669
+[076] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[076] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.413 roll=0.691
+[077] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[077] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.413 roll=0.436
+[078] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[078] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.347 roll=0.083
+[078] JOGADA Brazil-London Railway Sport Club | Olivar Ferretti x Abaçaí Azevedo line=3 duel=15.99 corte=-1.07
+[078] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Márcio de Lima line=5 duel=1.83 corte=-1.32
+[078] JOGADA Brazil-London Railway Sport Club | Connor Thomas x Amani Pádua line=5 duel=9.07 corte=-1.32
+[078] FINAL Brazil-London Railway Sport Club | Boaçava Isidoro fam=1 duel=13.84 on_target=0.694 goal=0.249
+[078] FINAL Boaçava Isidoro: no alvo sem gol (roll=0.928)
+[079] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[079] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.413 roll=0.240
+[079] JOGADA Argentino Football Club | Amani Pádua x Corey Carter line=4 duel=11.80 corte=-1.70
+[079] FINAL Argentino Football Club | Quatiguá Mourinho fam=5 duel=4.96 on_target=0.601 goal=0.159
+[079] FINAL Quatiguá Mourinho: fora/alvo perdido (roll=0.677)
+[080] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[080] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.413 roll=0.825
+[081] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[081] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.347 roll=0.517
+[082] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[082] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.347 roll=0.347
+[083] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[083] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.413 roll=0.419
+[084] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[084] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.347 roll=0.465
+[085] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[085] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.365 roll=0.978
+[086] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[086] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.365 roll=0.017
+[086] JOGADA Brazil-London Railway Sport Club | Moara Palma x Abaçaí Azevedo line=3 duel=17.67 corte=-1.07
+[086] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Amani Pádua line=4 duel=-6.56 corte=-1.07
+[087] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[087] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.365 roll=0.125
+[087] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Quatiguá Mourinho line=3 duel=10.67 corte=-1.07
+[087] JOGADA Brazil-London Railway Sport Club | Patrício Cortez x Abaçaí Azevedo line=5 duel=3.33 corte=-1.82
+[087] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Abaçaí Azevedo line=5 duel=-0.48 corte=-1.32
+[087] FINAL Brazil-London Railway Sport Club | Todd Campbel fam=1 duel=-5.25 on_target=0.738 goal=0.241
+[087] FINAL Todd Campbel: fora/alvo perdido (roll=0.777)
+[088] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[088] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.435 roll=0.069
+[088] JOGADA Argentino Football Club | Abaçaí Azevedo x Corey Carter line=2 duel=-4.83 corte=-1.70
+[089] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[089] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.365 roll=0.630
+[090] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[090] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.365 roll=0.012
+[090] JOGADA Brazil-London Railway Sport Club | Moara Palma x Florentino Berdardinelli line=3 duel=10.84 corte=-1.07
+[090] FINAL Brazil-London Railway Sport Club | Patrício Cortez fam=3 duel=9.47 on_target=0.670 goal=0.192
+[090] FINAL Patrício Cortez: no alvo sem gol (roll=0.780)
+[091] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[091] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.365 roll=0.729
+[092] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[092] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.365 roll=0.762
+[093] posse=Brazil-London Railway Sport Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[093] BUILD Brazil-London Railway Sport Club vs Argentino Football Club prob=0.365 roll=0.789
+[094] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Brazil-London Railway Sport Club
+[094] BUILD Argentino Football Club vs Brazil-London Railway Sport Club prob=0.435 roll=0.065
+[094] JOGADA Argentino Football Club | Márcio de Lima x Patrício Cortez line=4 duel=-50.22 corte=-1.70
+[094] JOGADA falhou: Patrício Cortez cortou

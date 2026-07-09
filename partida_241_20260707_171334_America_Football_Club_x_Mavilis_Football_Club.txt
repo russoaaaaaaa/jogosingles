@@ -1,0 +1,313 @@
+Partida #241
+Data: 1912-01-24
+Mandante: America Football Club
+Visitante: Mavilis Football Club
+Placar: 3 x 2
+Seed: -
+Estádio: Arena Andarahy
+Clima: Ensolarado
+Placar tempo normal: 3 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: America Football Club x Mavilis Football Club | estádio=Arena Andarahy | clima=Ensolarado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=America Football Club | placar America Football Club 0 x 0 Mavilis Football Club
+[001] BUILD America Football Club vs Mavilis Football Club prob=0.342 roll=0.851
+[002] posse=America Football Club | placar America Football Club 0 x 0 Mavilis Football Club
+[002] BUILD America Football Club vs Mavilis Football Club prob=0.342 roll=0.276
+[002] JOGADA America Football Club | Filipe de Oliveira x Ernane Naves line=3 duel=5.47 corte=-1.13
+[002] FINAL America Football Club | Valdomiro Machado fam=1 duel=0.22 on_target=0.600 goal=0.219
+[002] FINAL Valdomiro Machado: fora/alvo perdido (roll=0.672)
+[003] posse=Mavilis Football Club | placar America Football Club 0 x 0 Mavilis Football Club
+[003] BUILD Mavilis Football Club vs America Football Club prob=0.287 roll=0.340
+[004] posse=Mavilis Football Club | placar America Football Club 0 x 0 Mavilis Football Club
+[004] BUILD Mavilis Football Club vs America Football Club prob=0.287 roll=0.481
+[005] posse=America Football Club | placar America Football Club 0 x 0 Mavilis Football Club
+[005] BUILD America Football Club vs Mavilis Football Club prob=0.342 roll=0.163
+[005] JOGADA America Football Club | Paolo Gonçalves x Isaí Zago line=5 duel=86.69 corte=-1.38
+[005] FINAL America Football Club | Eduardo Lagarto fam=1 duel=13.50 on_target=0.607 goal=0.228
+[005] FINAL Eduardo Lagarto: GOL subtipo=CHUTE (roll=0.149)
+[006] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[006] BUILD America Football Club vs Mavilis Football Club prob=0.342 roll=0.981
+[007] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[007] BUILD America Football Club vs Mavilis Football Club prob=0.342 roll=0.661
+[008] posse=Mavilis Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[008] BUILD Mavilis Football Club vs America Football Club prob=0.326 roll=0.896
+[009] posse=Mavilis Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[009] BUILD Mavilis Football Club vs America Football Club prob=0.326 roll=0.548
+[010] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[010] BUILD America Football Club vs Mavilis Football Club prob=0.342 roll=0.971
+[011] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[011] BUILD America Football Club vs Mavilis Football Club prob=0.370 roll=0.040
+[011] JOGADA America Football Club | Eduardo Lagarto x Ernane Naves line=5 duel=50.83 corte=-2.05
+[011] FINAL America Football Club | Eduardo Lagarto fam=3 duel=-19.08 on_target=0.593 goal=0.174
+[011] FINAL Eduardo Lagarto: fora/alvo perdido (roll=0.723)
+[012] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[012] BUILD America Football Club vs Mavilis Football Club prob=0.370 roll=0.226
+[012] JOGADA America Football Club | Paolo Gonçalves x Murilo Lopes line=5 duel=2.20 corte=-1.55
+[012] FINAL America Football Club | Filipe de Oliveira fam=1 duel=-2.95 on_target=0.647 goal=0.232
+[012] FINAL Filipe de Oliveira: fora/alvo perdido (roll=0.755)
+[013] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[013] BUILD America Football Club vs Mavilis Football Club prob=0.370 roll=0.316
+[013] JOGADA America Football Club | Thiago Aguiar x Tapuruquara Páscoa line=5 duel=95.90 corte=-2.05
+[013] FINAL America Football Club | Thiago Aguiar fam=1 duel=-1.98 on_target=0.647 goal=0.233
+[013] FINAL Thiago Aguiar: fora/alvo perdido (roll=0.744)
+[014] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[014] BUILD America Football Club vs Mavilis Football Club prob=0.370 roll=0.025
+[014] JOGADA America Football Club | Paolo Gonçalves x Amam Calmon line=4 duel=-7.03 corte=-1.30
+[014] JOGADA falhou: Amam Calmon cortou
+[015] posse=Mavilis Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[015] BUILD Mavilis Football Club vs America Football Club prob=0.353 roll=0.492
+[016] posse=Mavilis Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[016] BUILD Mavilis Football Club vs America Football Club prob=0.353 roll=0.903
+[017] posse=Mavilis Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[017] BUILD Mavilis Football Club vs America Football Club prob=0.353 roll=0.432
+[018] posse=Mavilis Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[018] BUILD Mavilis Football Club vs America Football Club prob=0.353 roll=0.857
+[019] posse=Mavilis Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[019] BUILD Mavilis Football Club vs America Football Club prob=0.353 roll=0.562
+[020] posse=Mavilis Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[020] BUILD Mavilis Football Club vs America Football Club prob=0.353 roll=0.988
+[021] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[021] BUILD America Football Club vs Mavilis Football Club prob=0.398 roll=0.176
+[021] JOGADA America Football Club | Basílico Freitas x Murilo Lopes line=3 duel=-3.61 corte=-1.30
+[021] JOGADA falhou: Murilo Lopes cortou
+[022] posse=Mavilis Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[022] BUILD Mavilis Football Club vs America Football Club prob=0.379 roll=0.485
+[023] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[023] BUILD America Football Club vs Mavilis Football Club prob=0.398 roll=0.787
+[024] posse=Mavilis Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[024] BUILD Mavilis Football Club vs America Football Club prob=0.379 roll=0.396
+[025] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[025] BUILD America Football Club vs Mavilis Football Club prob=0.398 roll=0.824
+[026] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[026] BUILD America Football Club vs Mavilis Football Club prob=0.398 roll=0.025
+[026] JOGADA America Football Club | Thiago Aguiar x Ruperto Gallo line=5 duel=22.98 corte=-2.05
+[026] FINAL America Football Club | Valdomiro Machado fam=1 duel=-8.52 on_target=0.681 goal=0.237
+[026] FINAL Valdomiro Machado: no alvo sem gol (roll=0.669)
+[027] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[027] BUILD America Football Club vs Mavilis Football Club prob=0.398 roll=0.130
+[027] JOGADA America Football Club | Filipe de Oliveira x Jácome Moretti line=3 duel=20.92 corte=-1.30
+[027] FINAL America Football Club | Thiago Aguiar fam=1 duel=-4.94 on_target=0.681 goal=0.239
+[027] FINAL Thiago Aguiar: no alvo sem gol (roll=0.324)
+[028] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[028] BUILD America Football Club vs Mavilis Football Club prob=0.398 roll=0.550
+[029] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[029] BUILD America Football Club vs Mavilis Football Club prob=0.398 roll=0.264
+[029] JOGADA America Football Club | Davi Ambrósio Rios x Jácome Moretti line=3 duel=12.98 corte=-1.30
+[029] FINAL America Football Club | Eduardo Lagarto fam=1 duel=13.31 on_target=0.690 goal=0.251
+[029] FINAL Eduardo Lagarto: no alvo sem gol (roll=0.761)
+[030] posse=Mavilis Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[030] BUILD Mavilis Football Club vs America Football Club prob=0.379 roll=0.874
+[031] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[031] BUILD America Football Club vs Mavilis Football Club prob=0.398 roll=0.093
+[031] JOGADA America Football Club | Geraldo França x Iguaçu Cristo line=5 duel=60.84 corte=-2.05
+[031] FINAL America Football Club | Thiago Aguiar fam=3 duel=-5.13 on_target=0.618 goal=0.183
+[031] FINAL Thiago Aguiar: fora/alvo perdido (roll=0.928)
+[032] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[032] BUILD America Football Club vs Mavilis Football Club prob=0.398 roll=0.649
+[033] posse=Mavilis Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[033] BUILD Mavilis Football Club vs America Football Club prob=0.379 roll=0.240
+[033] JOGADA Mavilis Football Club | Isaí Zago x Basílico Freitas line=4 duel=5.26 corte=-1.30
+[033] FINAL Mavilis Football Club | Jácome Moretti fam=5 duel=-9.50 on_target=0.590 goal=0.150
+[033] FINAL Jácome Moretti: fora/alvo perdido (roll=0.669)
+[034] posse=America Football Club | placar America Football Club 1 x 0 Mavilis Football Club
+[034] BUILD America Football Club vs Mavilis Football Club prob=0.398 roll=0.294
+[034] JOGADA America Football Club | Thiago Aguiar x Jácome Moretti line=5 duel=60.89 corte=-2.05
+[034] FINAL America Football Club | Valdomiro Machado fam=1 duel=-11.93 on_target=0.681 goal=0.236
+[034] FINAL Valdomiro Machado: GOL subtipo=CHUTE (roll=0.013)
+[035] posse=Mavilis Football Club | placar America Football Club 2 x 0 Mavilis Football Club
+[035] BUILD Mavilis Football Club vs America Football Club prob=0.384 roll=0.162
+[035] JOGADA Mavilis Football Club | Ernane Naves x Thiago Aguiar line=3 duel=43.90 corte=-1.30
+[035] JOGADA Mavilis Football Club | Murilo Lopes x Geraldo França line=4 duel=-78.96 corte=-1.30
+[035] JOGADA falhou: Geraldo França cortou
+[036] posse=America Football Club | placar America Football Club 2 x 0 Mavilis Football Club
+[036] BUILD America Football Club vs Mavilis Football Club prob=0.389 roll=0.183
+[036] JOGADA America Football Club | Davi Ambrósio Rios x Amam Calmon line=3 duel=-19.40 corte=-1.30
+[036] JOGADA falhou: Amam Calmon cortou
+[037] posse=Mavilis Football Club | placar America Football Club 2 x 0 Mavilis Football Club
+[037] BUILD Mavilis Football Club vs America Football Club prob=0.384 roll=0.954
+[038] posse=Mavilis Football Club | placar America Football Club 2 x 0 Mavilis Football Club
+[038] BUILD Mavilis Football Club vs America Football Club prob=0.384 roll=0.915
+[039] posse=America Football Club | placar America Football Club 2 x 0 Mavilis Football Club
+[039] BUILD America Football Club vs Mavilis Football Club prob=0.389 roll=0.127
+[039] JOGADA America Football Club | Valdomiro Machado x Amam Calmon line=5 duel=-14.24 corte=-2.05
+[039] JOGADA falhou: Amam Calmon cortou
+[040] posse=America Football Club | placar America Football Club 2 x 0 Mavilis Football Club
+[040] LESÃO Mavilis Football Club: Tapuruquara Páscoa | contusão forte | gravidade=moderada | 6 jogo(s)
+[040] SUB Mavilis Football Club: saiu Tapuruquara Páscoa (MD) | entrou Valentino Jacinto (PD) | subs=1/5
+[040] BUILD America Football Club vs Mavilis Football Club prob=0.389 roll=0.109
+[040] JOGADA America Football Club | Thiago Freixó x Isaí Zago line=4 duel=26.88 corte=-1.30
+[040] FINAL America Football Club | Geraldo França fam=1 duel=6.84 on_target=0.653 goal=0.226
+[040] FINAL Geraldo França: no alvo sem gol (roll=0.451)
+[041] posse=Mavilis Football Club | placar America Football Club 2 x 0 Mavilis Football Club
+[041] BUILD Mavilis Football Club vs America Football Club prob=0.384 roll=0.662
+[041] FINAL Mavilis Football Club | Deusdedito Varella fam=5 duel=-28.26 on_target=0.585 goal=0.141
+[041] FINAL Deusdedito Varella: GOL subtipo=FALTA (roll=0.080)
+[042] posse=Mavilis Football Club | placar America Football Club 2 x 1 Mavilis Football Club
+[042] BUILD Mavilis Football Club vs America Football Club prob=0.380 roll=0.118
+[042] JOGADA Mavilis Football Club | Iguaçu Cristo x Geraldo França line=2 duel=59.53 corte=-1.30
+[042] JOGADA Mavilis Football Club | Valentino Jacinto x Paolo Gonçalves line=5 duel=12.17 corte=-2.05
+[042] JOGADA Mavilis Football Club | Ruperto Gallo x Thiago Freixó line=5 duel=27.13 corte=-2.05
+[042] FINAL Mavilis Football Club | Jácome Moretti fam=1 duel=-8.77 on_target=0.679 goal=0.240
+[042] FINAL Jácome Moretti: GOL subtipo=CHUTE (roll=0.008)
+[043] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[043] BUILD America Football Club vs Mavilis Football Club prob=0.398 roll=0.824
+[044] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[044] BUILD Mavilis Football Club vs America Football Club prob=0.337 roll=0.857
+[045] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[045] BUILD America Football Club vs Mavilis Football Club prob=0.398 roll=0.594
+[046] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[046] BUILD America Football Club vs Mavilis Football Club prob=0.370 roll=0.576
+[047] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[047] BUILD Mavilis Football Club vs America Football Club prob=0.314 roll=0.164
+[047] JOGADA Mavilis Football Club | Iguaçu Cristo x Eduardo Lagarto line=4 duel=-88.38 corte=-1.30
+[047] JOGADA falhou: Eduardo Lagarto cortou
+[048] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[048] BUILD Mavilis Football Club vs America Football Club prob=0.314 roll=0.983
+[049] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[049] BUILD America Football Club vs Mavilis Football Club prob=0.370 roll=0.174
+[049] JOGADA America Football Club | Paolo Gonçalves x Iguaçu Cristo line=4 duel=-7.60 corte=-1.13
+[049] JOGADA falhou: Iguaçu Cristo cortou
+[050] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[050] SUB America Football Club: saiu Valdomiro Machado (SA) | entrou Lázaro Almeida (MA) | subs=1/5
+[050] SUB Mavilis Football Club: saiu Deusdedito Varella (MC) | entrou Boaçava Cerqueira (VOL) | subs=2/5
+[050] BUILD America Football Club vs Mavilis Football Club prob=0.371 roll=0.379
+[051] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[051] SUB America Football Club: saiu Thiago Aguiar (CA) | entrou Pedro Gago (CA) | subs=2/5
+[051] BUILD America Football Club vs Mavilis Football Club prob=0.358 roll=0.494
+[051] FINAL America Football Club | Davi Ambrósio Rios fam=5 duel=-23.15 on_target=0.547 goal=0.125
+[051] FINAL Davi Ambrósio Rios: no alvo sem gol (roll=0.377)
+[052] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[052] BUILD Mavilis Football Club vs America Football Club prob=0.323 roll=0.687
+[053] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[053] BUILD Mavilis Football Club vs America Football Club prob=0.323 roll=0.830
+[054] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[054] BUILD America Football Club vs Mavilis Football Club prob=0.358 roll=0.615
+[055] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[055] BUILD Mavilis Football Club vs America Football Club prob=0.323 roll=0.925
+[056] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[056] BUILD America Football Club vs Mavilis Football Club prob=0.384 roll=0.052
+[056] JOGADA America Football Club | Davi Ambrósio Rios x Boaçava Cerqueira line=4 duel=-0.49 corte=-1.13
+[056] FINAL America Football Club | Lázaro Almeida fam=1 duel=25.47 on_target=0.682 goal=0.252
+[056] FINAL Lázaro Almeida: no alvo sem gol (roll=0.829)
+[057] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[057] SUB America Football Club: saiu Davi Ambrósio Rios (LE) | entrou Luís Barcelar (LE) | subs=3/5
+[057] BUILD Mavilis Football Club vs America Football Club prob=0.315 roll=0.611
+[058] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[058] SUB America Football Club: saiu Geraldo França (MA) | entrou Jessé Paiva (MC) | subs=4/5
+[058] BUILD America Football Club vs Mavilis Football Club prob=0.434 roll=0.958
+[059] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[059] BUILD America Football Club vs Mavilis Football Club prob=0.434 roll=0.883
+[060] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[060] SUB America Football Club: saiu Eduardo Lagarto (MA) | entrou Hector Barbosa (MA) | subs=5/5
+[060] BUILD Mavilis Football Club vs America Football Club prob=0.317 roll=0.799
+[061] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[061] BUILD America Football Club vs Mavilis Football Club prob=0.412 roll=0.717
+[062] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[062] SUB Mavilis Football Club: saiu Isaí Zago (SA) | entrou Adílio Câmara (PE) | subs=3/5
+[062] BUILD Mavilis Football Club vs America Football Club prob=0.315 roll=0.870
+[063] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[063] SUB Mavilis Football Club: saiu Amam Calmon (ZAG) | entrou Jordão Resendes (ZAG) | subs=4/5
+[063] BUILD Mavilis Football Club vs America Football Club prob=0.316 roll=0.955
+[064] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[064] BUILD America Football Club vs Mavilis Football Club prob=0.412 roll=0.356
+[064] JOGADA America Football Club | Basílico Freitas x Boaçava Cerqueira line=3 duel=-29.22 corte=-1.70
+[064] JOGADA falhou: Boaçava Cerqueira cortou
+[065] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[065] SUB Mavilis Football Club: saiu Murilo Lopes (LD) | entrou Quirilo França (LD) | subs=5/5
+[065] BUILD America Football Club vs Mavilis Football Club prob=0.412 roll=0.248
+[065] JOGADA America Football Club | Antônio Figueroa x Ruperto Gallo line=5 duel=68.47 corte=-1.95
+[065] FINAL America Football Club | Pedro Gago fam=5 duel=22.31 on_target=0.595 goal=0.169
+[065] FINAL Pedro Gago: no alvo sem gol (roll=0.798)
+[066] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[066] BUILD Mavilis Football Club vs America Football Club prob=0.316 roll=0.746
+[067] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[067] BUILD America Football Club vs Mavilis Football Club prob=0.412 roll=0.550
+[068] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[068] BUILD America Football Club vs Mavilis Football Club prob=0.415 roll=0.730
+[069] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[069] BUILD America Football Club vs Mavilis Football Club prob=0.415 roll=0.378
+[069] JOGADA America Football Club | Thiago Freixó x Iguaçu Cristo line=4 duel=10.45 corte=-1.70
+[069] FINAL America Football Club | Pedro Gago fam=5 duel=23.19 on_target=0.595 goal=0.171
+[069] FINAL Pedro Gago: no alvo sem gol (roll=0.302)
+[070] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[070] BUILD America Football Club vs Mavilis Football Club prob=0.415 roll=0.582
+[071] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[071] BUILD Mavilis Football Club vs America Football Club prob=0.316 roll=0.682
+[072] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[072] BUILD Mavilis Football Club vs America Football Club prob=0.316 roll=0.585
+[073] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[073] BUILD America Football Club vs Mavilis Football Club prob=0.415 roll=0.363
+[073] JOGADA America Football Club | Antônio Figueroa x Valentino Jacinto line=4 duel=14.94 corte=-1.70
+[073] FINAL America Football Club | Filipe de Oliveira fam=5 duel=-41.27 on_target=0.592 goal=0.141
+[073] FINAL Filipe de Oliveira: no alvo sem gol (roll=0.442)
+[074] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[074] BUILD America Football Club vs Mavilis Football Club prob=0.415 roll=0.317
+[074] JOGADA America Football Club | Lázaro Almeida x Valentino Jacinto line=4 duel=27.30 corte=-1.70
+[074] FINAL America Football Club | Pedro Gago fam=5 duel=19.12 on_target=0.595 goal=0.169
+[074] FINAL Pedro Gago: no alvo sem gol (roll=0.687)
+[075] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[075] BUILD America Football Club vs Mavilis Football Club prob=0.415 roll=0.483
+[076] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[076] BUILD Mavilis Football Club vs America Football Club prob=0.325 roll=0.875
+[077] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[077] BUILD America Football Club vs Mavilis Football Club prob=0.427 roll=0.279
+[077] JOGADA America Football Club | Luís Barcelar x Valentino Jacinto line=3 duel=19.45 corte=-1.70
+[077] FINAL America Football Club | Hector Barbosa fam=5 duel=14.53 on_target=0.606 goal=0.168
+[077] FINAL Hector Barbosa: no alvo sem gol (roll=0.228)
+[078] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[078] BUILD Mavilis Football Club vs America Football Club prob=0.325 roll=0.551
+[079] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[079] BUILD Mavilis Football Club vs America Football Club prob=0.325 roll=0.041
+[079] JOGADA Mavilis Football Club | Adonai Barroso x Filipe de Oliveira line=3 duel=-5.31 corte=-1.05
+[079] JOGADA falhou: Filipe de Oliveira cortou
+[080] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[080] BUILD America Football Club vs Mavilis Football Club prob=0.427 roll=0.494
+[081] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[081] BUILD Mavilis Football Club vs America Football Club prob=0.325 roll=0.709
+[082] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[082] BUILD Mavilis Football Club vs America Football Club prob=0.325 roll=0.801
+[083] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[083] BUILD America Football Club vs Mavilis Football Club prob=0.427 roll=0.368
+[083] JOGADA America Football Club | Filipe de Oliveira x Boaçava Cerqueira line=5 duel=-28.13 corte=-1.95
+[083] JOGADA falhou: Boaçava Cerqueira cortou
+[084] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[084] BUILD Mavilis Football Club vs America Football Club prob=0.325 roll=0.888
+[085] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[085] BUILD America Football Club vs Mavilis Football Club prob=0.450 roll=0.720
+[086] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[086] BUILD Mavilis Football Club vs America Football Club prob=0.342 roll=0.317
+[086] JOGADA Mavilis Football Club | Adonai Barroso x Thiago Freixó line=3 duel=-10.17 corte=-1.05
+[087] posse=Mavilis Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[087] BUILD Mavilis Football Club vs America Football Club prob=0.342 roll=0.616
+[088] posse=America Football Club | placar America Football Club 2 x 2 Mavilis Football Club
+[088] BUILD America Football Club vs Mavilis Football Club prob=0.450 roll=0.408
+[088] JOGADA America Football Club | Lázaro Almeida x Iguaçu Cristo line=3 duel=-0.50 corte=-1.70
+[088] FINAL America Football Club | Hector Barbosa fam=5 duel=6.80 on_target=0.644 goal=0.165
+[088] FINAL Hector Barbosa: GOL subtipo=FALTA (roll=0.159)
+[089] posse=America Football Club | placar America Football Club 3 x 2 Mavilis Football Club
+[089] BUILD America Football Club vs Mavilis Football Club prob=0.452 roll=0.421
+[089] JOGADA America Football Club | Lázaro Almeida x Quirilo França line=3 duel=-6.99 corte=-1.70
+[089] JOGADA falhou: Quirilo França cortou
+[090] posse=Mavilis Football Club | placar America Football Club 3 x 2 Mavilis Football Club
+[090] BUILD Mavilis Football Club vs America Football Club prob=0.406 roll=0.612
+[091] posse=Mavilis Football Club | placar America Football Club 3 x 2 Mavilis Football Club
+[091] BUILD Mavilis Football Club vs America Football Club prob=0.406 roll=0.637
+[092] posse=Mavilis Football Club | placar America Football Club 3 x 2 Mavilis Football Club
+[092] BUILD Mavilis Football Club vs America Football Club prob=0.406 roll=0.754
+[093] posse=Mavilis Football Club | placar America Football Club 3 x 2 Mavilis Football Club
+[093] BUILD Mavilis Football Club vs America Football Club prob=0.406 roll=0.577
+[093] FINAL Mavilis Football Club | Ernane Naves fam=5 duel=-10.10 on_target=0.660 goal=0.141
+[093] FINAL Ernane Naves: no alvo sem gol (roll=0.968)
+[094] posse=Mavilis Football Club | placar America Football Club 3 x 2 Mavilis Football Club
+[094] BUILD Mavilis Football Club vs America Football Club prob=0.406 roll=0.216
+[094] JOGADA Mavilis Football Club | Iguaçu Cristo x Filipe de Oliveira line=3 duel=-17.31 corte=-1.04
+[094] JOGADA falhou: Filipe de Oliveira cortou
+[095] posse=Mavilis Football Club | placar America Football Club 3 x 2 Mavilis Football Club
+[095] BUILD Mavilis Football Club vs America Football Club prob=0.406 roll=0.179
+[095] JOGADA Mavilis Football Club | Valentino Jacinto x Jessé Paiva line=4 duel=-9.93 corte=-1.04
+[096] posse=America Football Club | placar America Football Club 3 x 2 Mavilis Football Club
+[096] BUILD America Football Club vs Mavilis Football Club prob=0.452 roll=0.874

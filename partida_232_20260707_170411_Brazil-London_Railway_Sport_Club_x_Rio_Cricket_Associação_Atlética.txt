@@ -1,0 +1,316 @@
+Partida #232
+Data: 1912-01-24
+Mandante: Brazil-London Railway Sport Club
+Visitante: Rio Cricket Associação Atlética
+Placar: 3 x 0
+Seed: -
+Estádio: Estádio Maria Fumaça
+Clima: Chuva forte
+Placar tempo normal: 3 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Brazil-London Railway Sport Club x Rio Cricket Associação Atlética | estádio=Estádio Maria Fumaça | clima=Chuva forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[001] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.784
+[002] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[002] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.352 roll=0.943
+[003] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[003] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.289
+[003] JOGADA Brazil-London Railway Sport Club | Zachary Griffiths x Oliver Barkley line=3 duel=2.59 corte=-1.15
+[003] JOGADA Brazil-London Railway Sport Club | WIllson Bridge x Murilo Oliveira line=4 duel=8.06 corte=-1.15
+[003] FINAL Brazil-London Railway Sport Club | Zachary Griffiths fam=1 duel=-2.37 on_target=0.595 goal=0.217
+[003] FINAL Zachary Griffiths: fora/alvo perdido (roll=0.641)
+[004] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[004] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.035
+[004] JOGADA Brazil-London Railway Sport Club | Corey Carter x André Gomes Sobrinho line=3 duel=-18.10 corte=-1.15
+[005] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[005] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.352 roll=0.676
+[006] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[006] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.536
+[007] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[007] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.352 roll=0.636
+[008] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[008] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.847
+[009] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[009] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.962
+[010] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[010] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.570
+[011] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[011] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.337 roll=0.035
+[011] JOGADA Brazil-London Railway Sport Club | Joel Lees x Luke Kennard line=3 duel=37.56 corte=-1.15
+[011] JOGADA Brazil-London Railway Sport Club | Zachary Griffiths x Wilson Perry line=5 duel=4.58 corte=-1.90
+[011] JOGADA Brazil-London Railway Sport Club | Elivelton Camaçari x Enrico Pucci line=5 duel=90.16 corte=-1.40
+[011] FINAL Brazil-London Railway Sport Club | WIllson Bridge fam=3 duel=5.47 on_target=0.586 goal=0.182
+[011] FINAL WIllson Bridge: no alvo sem gol (roll=0.431)
+[012] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[012] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.337 roll=0.870
+[013] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[013] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.380 roll=0.943
+[014] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[014] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.337 roll=0.379
+[015] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[015] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.337 roll=0.480
+[016] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[016] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.380 roll=0.999
+[017] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[017] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.337 roll=0.783
+[018] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Rio Cricket Associação Atlética
+[018] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.337 roll=0.243
+[018] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Wilson Perry line=3 duel=13.09 corte=-1.15
+[018] JOGADA Brazil-London Railway Sport Club | WIllson Bridge x André Gomes Sobrinho line=4 duel=13.52 corte=-1.15
+[018] FINAL Brazil-London Railway Sport Club | Zachary Griffiths fam=1 duel=-9.06 on_target=0.642 goal=0.228
+[018] FINAL Zachary Griffiths: GOL subtipo=CHUTE (roll=0.070)
+[019] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[019] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.460 roll=0.894
+[020] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[020] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.460 roll=0.776
+[021] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[021] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.125
+[021] JOGADA Brazil-London Railway Sport Club | Joel Lees x Zagueiro Atacante da Silva line=3 duel=53.06 corte=-1.30
+[021] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Zagueiro Atacante da Silva line=4 duel=-22.57 corte=-1.30
+[021] JOGADA falhou: Zagueiro Atacante da Silva cortou
+[022] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[022] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.494 roll=0.788
+[023] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[023] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.420
+[024] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[024] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.494 roll=0.160
+[024] JOGADA Rio Cricket Associação Atlética | Enrico Pucci x Joel Lees line=4 duel=-61.33 corte=-1.30
+[024] JOGADA falhou: Joel Lees cortou
+[025] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[025] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.494 roll=0.745
+[026] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[026] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.151
+[026] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Wilson Perry line=4 duel=-26.12 corte=-1.30
+[026] JOGADA falhou: Wilson Perry cortou
+[027] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[027] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.494 roll=0.942
+[028] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[028] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.058
+[028] JOGADA Brazil-London Railway Sport Club | Corey Carter x André Gomes Sobrinho line=2 duel=-13.53 corte=-1.30
+[028] JOGADA falhou: André Gomes Sobrinho cortou
+[029] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[029] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.444
+[030] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[030] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.494 roll=0.563
+[031] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[031] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.679
+[032] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[032] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.071
+[032] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Luke Kennard line=2 duel=45.16 corte=-1.30
+[032] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Enrico Pucci line=3 duel=34.31 corte=-1.30
+[032] JOGADA Brazil-London Railway Sport Club | Connor Thomas x Enrico Pucci line=4 duel=14.88 corte=-1.30
+[032] FINAL Brazil-London Railway Sport Club | WIllson Bridge fam=1 duel=7.13 on_target=0.680 goal=0.244
+[032] FINAL WIllson Bridge: no alvo sem gol (roll=0.539)
+[033] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[033] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.494 roll=0.982
+[034] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[034] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.494 roll=0.645
+[035] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[035] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.425
+[036] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[036] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.977
+[037] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[037] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.362
+[038] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[038] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.643
+[039] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[039] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.060
+[039] JOGADA Brazil-London Railway Sport Club | Joel Lees x André Gomes Sobrinho line=2 duel=38.99 corte=-1.30
+[039] JOGADA Brazil-London Railway Sport Club | WIllson Bridge x Umberto Entei line=5 duel=90.33 corte=-2.05
+[039] JOGADA Brazil-London Railway Sport Club | Joel Lees x Enrico Pucci line=5 duel=80.75 corte=-1.55
+[039] FINAL Brazil-London Railway Sport Club | Hugo Filgueira fam=1 duel=-2.66 on_target=0.680 goal=0.240
+[039] FINAL Hugo Filgueira: fora/alvo perdido (roll=0.896)
+[040] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[040] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.494 roll=0.710
+[041] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[041] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.261
+[041] JOGADA Brazil-London Railway Sport Club | Zachary Griffiths x Luke Kennard line=2 duel=20.76 corte=-1.30
+[041] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Luke Kennard line=3 duel=43.08 corte=-1.30
+[041] JOGADA Brazil-London Railway Sport Club | Carter Anderson x Wilson Perry line=4 duel=0.62 corte=-1.30
+[041] FINAL Brazil-London Railway Sport Club | WIllson Bridge fam=3 duel=10.11 on_target=0.617 goal=0.190
+[041] FINAL WIllson Bridge: fora/alvo perdido (roll=0.677)
+[042] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[042] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.198
+[042] JOGADA Brazil-London Railway Sport Club | Carter Anderson x Wilson Perry line=4 duel=-47.77 corte=-1.30
+[042] JOGADA falhou: Wilson Perry cortou
+[043] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[043] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.362 roll=0.673
+[044] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[044] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.494 roll=0.053
+[044] JOGADA Rio Cricket Associação Atlética | Luke Kennard x Joel Lees line=2 duel=-7.30 corte=-1.30
+[044] JOGADA falhou: Joel Lees cortou
+[045] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[045] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.494 roll=0.751
+[046] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[046] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.460 roll=0.643
+[047] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[047] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.460 roll=0.761
+[048] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[048] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.337 roll=0.241
+[048] JOGADA Brazil-London Railway Sport Club | Elivelton Camaçari x William Stanischowsky line=4 duel=28.18 corte=-1.30
+[048] FINAL Brazil-London Railway Sport Club | Zachary Griffiths fam=3 duel=-15.69 on_target=0.582 goal=0.172
+[048] FINAL Zachary Griffiths: fora/alvo perdido (roll=0.775)
+[049] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[049] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.460 roll=0.004
+[049] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Leonardo Chambers line=3 duel=32.69 corte=-1.30
+[049] FINAL Rio Cricket Associação Atlética | André Gomes Sobrinho fam=5 duel=4.96 on_target=0.555 goal=0.147
+[049] FINAL André Gomes Sobrinho: fora/alvo perdido (roll=0.742)
+[050] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[050] SUB Brazil-London Railway Sport Club: saiu Zachary Griffiths (SA) | entrou Todd Campbel (CA) | subs=1/5
+[050] SUB Rio Cricket Associação Atlética: saiu William Stanischowsky (MD) | entrou Cruz Credo (PD) | subs=1/5
+[050] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.429 roll=0.159
+[050] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Dylan Edwards line=4 duel=-30.15 corte=-1.11
+[050] JOGADA falhou: Dylan Edwards cortou
+[051] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[051] SUB Rio Cricket Associação Atlética: saiu Luke Kennard (SA) | entrou João Garcia (CA) | subs=2/5
+[051] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.430 roll=0.222
+[051] JOGADA Rio Cricket Associação Atlética | João Garcia x Hugo Filgueira line=3 duel=24.63 corte=-1.11
+[051] FINAL Rio Cricket Associação Atlética | João Garcia fam=1 duel=24.49 on_target=0.648 goal=0.241
+[051] FINAL João Garcia: no alvo sem gol (roll=0.451)
+[052] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[052] SUB Rio Cricket Associação Atlética: saiu Enrico Pucci (CA) | entrou William Smith (CA) | subs=3/5
+[052] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.393 roll=0.059
+[052] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Todd Campbel line=4 duel=-5.46 corte=-1.30
+[052] JOGADA falhou: Todd Campbel cortou
+[053] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[053] SUB Rio Cricket Associação Atlética: saiu Umberto Entei (ME) | entrou Leonardo Romeiro (MC) | subs=4/5
+[053] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.329 roll=0.685
+[054] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 0 Rio Cricket Associação Atlética
+[054] SUB Rio Cricket Associação Atlética: saiu Zagueiro Atacante da Silva (ZAG) | entrou Arnold Brewerton (ZAG) | subs=5/5
+[054] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.332 roll=0.235
+[054] JOGADA Brazil-London Railway Sport Club | Todd Campbel x Murilo Oliveira line=2 duel=90.86 corte=-1.30
+[054] JOGADA Brazil-London Railway Sport Club | Todd Campbel x Oliver Barkley line=4 duel=18.08 corte=-1.30
+[054] FINAL Brazil-London Railway Sport Club | Carter Anderson fam=1 duel=-2.21 on_target=0.645 goal=0.232
+[054] FINAL Carter Anderson: GOL subtipo=CHUTE (roll=0.062)
+[055] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[055] SUB Brazil-London Railway Sport Club: saiu Elivelton Camaçari (MD) | entrou Boaçava Isidoro (MD) | subs=2/5
+[055] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.331 roll=0.194
+[055] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x André Gomes Sobrinho line=4 duel=4.11 corte=-1.30
+[055] JOGADA Brazil-London Railway Sport Club | Corey Carter x Cruz Credo line=5 duel=12.01 corte=-1.55
+[055] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Tobias Humphrey line=5 duel=54.36 corte=-1.55
+[055] FINAL Brazil-London Railway Sport Club | Todd Campbel fam=1 duel=18.73 on_target=0.622 goal=0.226
+[055] FINAL Todd Campbel: fora/alvo perdido (roll=0.785)
+[056] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[056] SUB Brazil-London Railway Sport Club: saiu Carter Anderson (MA) | entrou Olivar Ferretti (MA) | subs=3/5
+[056] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.419 roll=0.047
+[056] JOGADA Rio Cricket Associação Atlética | Cruz Credo x Olivar Ferretti line=3 duel=-12.20 corte=-1.30
+[057] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[057] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.348 roll=0.502
+[058] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[058] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.348 roll=0.997
+[059] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[059] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.348 roll=0.968
+[060] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[060] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.422 roll=0.623
+[061] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[061] SUB Brazil-London Railway Sport Club: saiu Joel Lees (ME) | entrou Moara Palma (ME) | subs=4/5
+[061] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.422 roll=0.465
+[062] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[062] SUB Brazil-London Railway Sport Club: saiu Connor Thomas (ZAG) | entrou Cayubi Bicudo (ZAG) | subs=5/5
+[062] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.421 roll=0.712
+[063] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[063] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.421 roll=0.985
+[064] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[064] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.350 roll=0.919
+[065] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[065] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.350 roll=0.902
+[066] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[066] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.421 roll=0.992
+[067] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[067] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.350 roll=0.695
+[068] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[068] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.421 roll=0.698
+[069] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[069] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.350 roll=0.332
+[069] JOGADA Brazil-London Railway Sport Club | Moara Palma x Wilson Perry line=3 duel=23.56 corte=-1.30
+[069] FINAL Brazil-London Railway Sport Club | WIllson Bridge fam=3 duel=9.64 on_target=0.592 goal=0.176
+[069] FINAL WIllson Bridge: no alvo sem gol (roll=0.831)
+[070] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[070] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.350 roll=0.092
+[070] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Arnold Brewerton line=3 duel=-13.64 corte=-1.30
+[070] JOGADA falhou: Arnold Brewerton cortou
+[071] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[071] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.421 roll=0.134
+[071] JOGADA Rio Cricket Associação Atlética | Wilson Perry x WIllson Bridge line=2 duel=16.26 corte=-1.30
+[071] FINAL Rio Cricket Associação Atlética | Murilo Oliveira fam=5 duel=-2.35 on_target=0.585 goal=0.151
+[071] FINAL Murilo Oliveira: fora/alvo perdido (roll=0.587)
+[072] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[072] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.350 roll=0.721
+[073] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[073] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.421 roll=0.530
+[074] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[074] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.350 roll=0.500
+[075] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[075] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.350 roll=0.661
+[076] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[076] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.339 roll=0.166
+[076] JOGADA Brazil-London Railway Sport Club | Moara Palma x Leonardo Romeiro line=2 duel=83.64 corte=-1.30
+[076] JOGADA Brazil-London Railway Sport Club | Boaçava Isidoro x João Garcia line=5 duel=39.92 corte=-1.55
+[076] JOGADA Brazil-London Railway Sport Club | Moara Palma x Murilo Oliveira line=5 duel=90.86 corte=-1.55
+[076] FINAL Brazil-London Railway Sport Club | WIllson Bridge fam=1 duel=7.48 on_target=0.639 goal=0.225
+[076] FINAL WIllson Bridge: no alvo sem gol (roll=0.455)
+[077] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[077] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.455 roll=0.107
+[077] JOGADA Rio Cricket Associação Atlética | Cruz Credo x Cayubi Bicudo line=3 duel=-19.06 corte=-1.30
+[078] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[078] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.455 roll=0.522
+[079] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[079] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.339 roll=0.425
+[080] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[080] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.339 roll=0.632
+[081] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[081] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.455 roll=0.857
+[082] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[082] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.455 roll=0.311
+[082] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Moara Palma line=2 duel=40.16 corte=-1.30
+[082] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Olivar Ferretti line=4 duel=-30.07 corte=-1.30
+[083] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[083] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.339 roll=0.340
+[084] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[084] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.339 roll=0.370
+[085] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[085] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.339 roll=0.039
+[085] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Oliver Barkley line=3 duel=2.25 corte=-1.30
+[085] JOGADA Brazil-London Railway Sport Club | Olivar Ferretti x Cruz Credo line=4 duel=37.60 corte=-1.30
+[085] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Tobias Humphrey line=5 duel=4.89 corte=-1.55
+[085] FINAL Brazil-London Railway Sport Club | Olivar Ferretti fam=1 duel=3.96 on_target=0.641 goal=0.223
+[085] FINAL Olivar Ferretti: fora/alvo perdido (roll=0.773)
+[086] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[086] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.479 roll=0.067
+[086] JOGADA Rio Cricket Associação Atlética | William Smith x WIllson Bridge line=4 duel=16.26 corte=-1.30
+[086] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x WIllson Bridge line=5 duel=26.33 corte=-1.55
+[086] JOGADA Rio Cricket Associação Atlética | William Smith x WIllson Bridge line=5 duel=64.59 corte=-2.05
+[086] FINAL Rio Cricket Associação Atlética | João Garcia fam=5 duel=2.10 on_target=0.673 goal=0.162
+[086] FINAL João Garcia: no alvo sem gol (roll=0.729)
+[087] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[087] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.479 roll=0.445
+[087] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Leonardo Chambers line=3 duel=0.64 corte=-1.30
+[087] JOGADA Rio Cricket Associação Atlética | William Smith x Hugo Filgueira line=4 duel=-14.70 corte=-1.30
+[087] JOGADA falhou: Hugo Filgueira cortou
+[088] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[088] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.479 roll=0.776
+[089] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[089] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.339 roll=0.387
+[090] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[090] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.479 roll=0.592
+[091] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[091] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.339 roll=0.367
+[091] FINAL Brazil-London Railway Sport Club | Olivar Ferretti fam=5 duel=-14.29 on_target=0.547 goal=0.124
+[091] FINAL Olivar Ferretti: fora/alvo perdido (roll=0.842)
+[092] posse=Rio Cricket Associação Atlética | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[092] BUILD Rio Cricket Associação Atlética vs Brazil-London Railway Sport Club prob=0.479 roll=0.376
+[092] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Olivar Ferretti line=3 duel=-20.23 corte=-1.30
+[092] JOGADA falhou: Olivar Ferretti cortou
+[093] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 2 x 0 Rio Cricket Associação Atlética
+[093] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.339 roll=0.045
+[093] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Leonardo Romeiro line=2 duel=10.27 corte=-1.30
+[093] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Oliver Barkley line=3 duel=6.72 corte=-1.30
+[093] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Arnold Brewerton line=4 duel=2.82 corte=-1.30
+[093] FINAL Brazil-London Railway Sport Club | Leonardo Chambers fam=1 duel=-1.57 on_target=0.640 goal=0.220
+[093] FINAL Leonardo Chambers: GOL subtipo=CHUTE (roll=0.049)
+[094] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 3 x 0 Rio Cricket Associação Atlética
+[094] BUILD Brazil-London Railway Sport Club vs Rio Cricket Associação Atlética prob=0.332 roll=0.484

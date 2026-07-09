@@ -1,0 +1,373 @@
+Partida #188
+Data: 1912-01-18
+Mandante: Botafogo de Futebol e Regatas
+Visitante: Esporte Clube Carioca
+Placar: 3 x 3
+Seed: -
+Estádio: Estádio General Severiano
+Clima: Chuva leve
+Placar tempo normal: 3 x 3
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Botafogo de Futebol e Regatas x Esporte Clube Carioca | estádio=Estádio General Severiano | clima=Chuva leve | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Esporte Clube Carioca
+[001] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.408 roll=0.656
+[002] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Esporte Clube Carioca
+[002] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.408 roll=0.364
+[002] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x Filémon Matos line=3 duel=19.78 corte=-1.14
+[002] JOGADA Botafogo de Futebol e Regatas | João Sanches x Oliver Lindström line=5 duel=87.02 corte=-1.89
+[002] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x William Äkerlundt line=5 duel=19.15 corte=-1.39
+[002] FINAL Botafogo de Futebol e Regatas | Rúben Águas fam=1 duel=17.56 on_target=0.676 goal=0.254
+[002] FINAL Rúben Águas: GOL subtipo=CHUTE (roll=0.235)
+[003] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Esporte Clube Carioca
+[003] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.408 roll=0.241
+[003] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x William Äkerlundt line=3 duel=9.85 corte=-1.30
+[003] FINAL Botafogo de Futebol e Regatas | César Delgado fam=1 duel=20.31 on_target=0.682 goal=0.259
+[003] FINAL César Delgado: GOL subtipo=CHUTE (roll=0.202)
+[004] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[004] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.401 roll=0.276
+[004] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x Getúlio Leitão line=3 duel=9.98 corte=-1.30
+[004] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Hugo Bergiund line=4 duel=-35.75 corte=-1.30
+[004] JOGADA falhou: Hugo Bergiund cortou
+[005] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[005] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.401 roll=0.324
+[005] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Hemaxi Custódio line=3 duel=21.32 corte=-1.30
+[005] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x Hemaxi Custódio line=5 duel=13.07 corte=-2.05
+[005] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Getúlio Leitão line=5 duel=9.85 corte=-1.55
+[005] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=20.64 on_target=0.663 goal=0.247
+[005] FINAL Tadeuzinho: no alvo sem gol (roll=0.994)
+[006] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[006] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.401 roll=0.808
+[007] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[007] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.401 roll=0.204
+[007] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Getúlio Leitão line=2 duel=23.40 corte=-1.30
+[007] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Hemaxi Custódio line=5 duel=73.74 corte=-1.55
+[007] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=13.80 on_target=0.663 goal=0.244
+[007] FINAL Tadeuzinho: fora/alvo perdido (roll=0.944)
+[008] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[008] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.401 roll=0.385
+[008] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Johan Lindström line=3 duel=6.18 corte=-1.30
+[008] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Oliver Lindström line=4 duel=-17.76 corte=-1.30
+[009] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[009] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.435 roll=0.264
+[009] JOGADA Esporte Clube Carioca | Hemaxi Custódio x César Delgado line=4 duel=-36.65 corte=-1.30
+[009] JOGADA falhou: César Delgado cortou
+[010] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[010] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.435 roll=0.580
+[011] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[011] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.433 roll=0.212
+[011] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Clife Topete line=3 duel=38.50 corte=-1.30
+[011] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Filémon Matos line=4 duel=6.91 corte=-1.30
+[011] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Wilfrid Aurmund line=5 duel=55.20 corte=-1.55
+[011] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=14.62 on_target=0.716 goal=0.260
+[011] FINAL Tadeuzinho: no alvo sem gol (roll=0.603)
+[012] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[012] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.471 roll=0.131
+[012] JOGADA Esporte Clube Carioca | Oliver Lindström x Rúben Águas line=4 duel=14.03 corte=-1.30
+[012] JOGADA Esporte Clube Carioca | Johan Lindström x Aloísio Coelho line=5 duel=56.93 corte=-1.55
+[012] JOGADA Esporte Clube Carioca | Hemaxi Custódio x Geraldo Pascoal line=5 duel=24.59 corte=-1.55
+[012] FINAL Esporte Clube Carioca | Hugo Bergiund fam=1 duel=0.11 on_target=0.737 goal=0.268
+[012] FINAL Hugo Bergiund: no alvo sem gol (roll=0.696)
+[013] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[013] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.471 roll=0.607
+[014] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[014] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.471 roll=0.503
+[015] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[015] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.433 roll=0.348
+[015] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x William Äkerlundt line=4 duel=-3.15 corte=-1.30
+[015] JOGADA falhou: William Äkerlundt cortou
+[016] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[016] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.433 roll=0.558
+[017] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[017] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.471 roll=0.865
+[018] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[018] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.471 roll=0.542
+[019] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[019] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.433 roll=0.137
+[019] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Wilfrid Aurmund line=3 duel=50.31 corte=-1.30
+[019] JOGADA Botafogo de Futebol e Regatas | João Sanches x Wilfrid Aurmund line=4 duel=36.06 corte=-1.30
+[019] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=19.12 on_target=0.716 goal=0.262
+[019] FINAL Tadeuzinho: fora/alvo perdido (roll=0.778)
+[020] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 0 Esporte Clube Carioca
+[020] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.471 roll=0.419
+[020] JOGADA Esporte Clube Carioca | Hugo Bergiund x João Sanches line=4 duel=22.01 corte=-1.30
+[020] JOGADA Esporte Clube Carioca | Filémon Matos x Rúben Águas line=4 duel=40.51 corte=-1.30
+[020] JOGADA Esporte Clube Carioca | João Oliveira x João Sanches line=5 duel=80.91 corte=-2.05
+[020] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=5 duel=-7.53 on_target=0.631 goal=0.163
+[020] FINAL Wilfrid Aurmund: GOL subtipo=FALTA (roll=0.101)
+[021] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[021] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.474 roll=0.676
+[022] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[022] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.011
+[022] JOGADA Esporte Clube Carioca | João Oliveira x César Delgado line=2 duel=51.49 corte=-1.30
+[022] FINAL Esporte Clube Carioca | Hugo Bergiund fam=5 duel=-2.69 on_target=0.673 goal=0.172
+[022] FINAL Hugo Bergiund: fora/alvo perdido (roll=0.856)
+[023] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[023] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.474 roll=0.373
+[023] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x William Äkerlundt line=2 duel=30.87 corte=-1.30
+[023] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Hemaxi Custódio line=5 duel=0.57 corte=-1.55
+[023] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Hugo Bergiund line=5 duel=91.36 corte=-1.55
+[023] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=22.54 on_target=0.778 goal=0.287
+[023] FINAL Tadeuzinho: no alvo sem gol (roll=0.382)
+[024] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[024] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.370
+[024] JOGADA Esporte Clube Carioca | Hemaxi Custódio x Tadeuzinho line=3 duel=15.19 corte=-1.30
+[024] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=5 duel=-82.05 on_target=0.658 goal=0.129
+[024] FINAL Wilfrid Aurmund: fora/alvo perdido (roll=0.976)
+[025] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[025] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.053
+[025] JOGADA Esporte Clube Carioca | Wilfrid Aurmund x João Sanches line=3 duel=23.62 corte=-1.30
+[025] FINAL Esporte Clube Carioca | João Oliveira fam=5 duel=-12.98 on_target=0.666 goal=0.165
+[025] FINAL João Oliveira: fora/alvo perdido (roll=0.734)
+[026] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[026] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.676
+[027] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[027] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.993
+[028] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[028] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.474 roll=0.879
+[029] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[029] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.474 roll=0.501
+[030] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[030] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.474 roll=0.811
+[031] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[031] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.474 roll=0.559
+[032] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[032] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.637
+[033] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[033] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.381
+[033] JOGADA Esporte Clube Carioca | Clife Topete x Aloísio Coelho line=4 duel=5.63 corte=-1.30
+[033] JOGADA Esporte Clube Carioca | João Oliveira x Geraldo Pascoal line=5 duel=-26.19 corte=-2.05
+[033] JOGADA falhou: Geraldo Pascoal cortou
+[034] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[034] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.215
+[034] JOGADA Esporte Clube Carioca | Oliver Lindström x Marco Medeiros line=2 duel=12.30 corte=-1.30
+[034] FINAL Esporte Clube Carioca | Filémon Matos fam=1 duel=3.52 on_target=0.776 goal=0.277
+[034] FINAL Filémon Matos: no alvo sem gol (roll=0.640)
+[035] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[035] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.891
+[036] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[036] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.836
+[037] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[037] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.728
+[038] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[038] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.038
+[038] JOGADA Esporte Clube Carioca | William Äkerlundt x João Sanches line=4 duel=-5.11 corte=-1.30
+[038] JOGADA falhou: João Sanches cortou
+[039] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[039] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.660
+[040] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[040] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.985
+[041] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[041] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.414
+[041] JOGADA Esporte Clube Carioca | Wilfrid Aurmund x Alisson Caiçara line=4 duel=-66.38 corte=-1.30
+[041] JOGADA falhou: Alisson Caiçara cortou
+[042] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 1 Esporte Clube Carioca
+[042] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.502 roll=0.257
+[042] JOGADA Esporte Clube Carioca | Clife Topete x César Delgado line=3 duel=64.43 corte=-1.30
+[042] FINAL Esporte Clube Carioca | João Oliveira fam=5 duel=-16.07 on_target=0.666 goal=0.163
+[042] FINAL João Oliveira: GOL subtipo=FALTA (roll=0.093)
+[043] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[043] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.474 roll=0.041
+[043] JOGADA Botafogo de Futebol e Regatas | César Delgado x Filémon Matos line=3 duel=14.76 corte=-1.13
+[043] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Getúlio Leitão line=5 duel=36.95 corte=-1.38
+[043] JOGADA Botafogo de Futebol e Regatas | Rúben Águas x Getúlio Leitão line=5 duel=-15.35 corte=-1.88
+[043] JOGADA falhou: Getúlio Leitão cortou
+[044] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[044] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.412 roll=0.085
+[044] JOGADA Esporte Clube Carioca | Oliver Lindström x César Delgado line=4 duel=-16.44 corte=-1.30
+[045] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[045] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.474 roll=0.516
+[046] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[046] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.384 roll=0.567
+[046] FINAL Esporte Clube Carioca | João Oliveira fam=5 duel=-14.80 on_target=0.632 goal=0.157
+[046] FINAL João Oliveira: fora/alvo perdido (roll=0.971)
+[047] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[047] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.441 roll=0.872
+[048] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[048] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.384 roll=0.617
+[049] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[049] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.441 roll=0.498
+[050] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[050] SUB Botafogo de Futebol e Regatas: saiu João Sanches (SA) | entrou Severino Desempregado (MA) | subs=1/5
+[050] SUB Esporte Clube Carioca: saiu Wilfrid Aurmund (SA) | entrou Nils Nil (SA) | subs=1/5
+[050] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.378 roll=0.403
+[051] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[051] SUB Botafogo de Futebol e Regatas: saiu Rúben Águas (SA) | entrou Escudo Calábrio Defensor (SA) | subs=2/5
+[051] SUB Esporte Clube Carioca: saiu João Oliveira (CA) | entrou Lukas Lopes (CA) | subs=2/5
+[051] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.404 roll=0.727
+[052] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[052] SUB Esporte Clube Carioca: saiu Hugo Bergiund (CA) | entrou Wilhem Foort (CA) | subs=3/5
+[052] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.350 roll=0.440
+[052] FINAL Esporte Clube Carioca | Filémon Matos fam=5 duel=4.93 on_target=0.639 goal=0.170
+[052] FINAL Filémon Matos: fora/alvo perdido (roll=0.680)
+[053] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[053] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.350 roll=0.784
+[054] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[054] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.405 roll=0.183
+[054] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Oliver Lindström line=3 duel=27.67 corte=-1.12
+[054] JOGADA Botafogo de Futebol e Regatas | Escudo Calábrio Defensor x Getúlio Leitão line=4 duel=-31.18 corte=-1.12
+[054] JOGADA falhou: Getúlio Leitão cortou
+[055] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[055] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.405 roll=0.911
+[056] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[056] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.376 roll=0.631
+[057] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[057] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.376 roll=0.823
+[058] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[058] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.435 roll=0.455
+[059] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[059] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.435 roll=0.202
+[059] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Wilhem Foort line=2 duel=11.82 corte=-1.12
+[059] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Nils Nil line=3 duel=22.83 corte=-1.12
+[059] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Nils Nil line=4 duel=-0.30 corte=-1.12
+[060] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[060] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.435 roll=0.525
+[061] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[061] SUB Botafogo de Futebol e Regatas: saiu Tadeuzinho (CA) | entrou Jessé Soares (CA) | subs=3/5
+[061] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.413 roll=0.819
+[062] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[062] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.413 roll=0.914
+[063] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[063] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.413 roll=0.206
+[063] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Filémon Matos line=4 duel=-37.48 corte=-1.12
+[063] JOGADA falhou: Filémon Matos cortou
+[064] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[064] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.413 roll=0.058
+[064] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Johan Lindström line=2 duel=30.12 corte=-1.12
+[064] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Filémon Matos line=5 duel=13.89 corte=-1.37
+[064] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x William Äkerlundt line=5 duel=35.22 corte=-1.37
+[064] FINAL Botafogo de Futebol e Regatas | Escudo Calábrio Defensor fam=1 duel=21.87 on_target=0.768 goal=0.281
+[064] FINAL Escudo Calábrio Defensor: no alvo sem gol (roll=0.471)
+[065] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[065] SUB Botafogo de Futebol e Regatas: saiu Marco Medeiros (MC) | entrou Isaías da Cruz (VOL) | subs=4/5
+[065] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.383 roll=0.676
+[065] FINAL Esporte Clube Carioca | Wilhem Foort fam=5 duel=18.69 on_target=0.665 goal=0.179
+[065] FINAL Wilhem Foort: no alvo sem gol (roll=0.880)
+[066] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[066] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.414 roll=0.550
+[067] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[067] SUB Esporte Clube Carioca: saiu Hemaxi Custódio (ZAG) | entrou Aristóteles Coelho (ZAG) | subs=4/5
+[067] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.420 roll=0.126
+[067] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Johan Lindström line=4 duel=12.35 corte=-1.12
+[067] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Getúlio Leitão line=4 duel=-10.43 corte=-1.12
+[068] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[068] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.385 roll=0.708
+[069] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[069] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.420 roll=0.517
+[070] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[070] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.420 roll=0.236
+[070] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Wilhem Foort line=2 duel=-16.20 corte=-1.12
+[070] FINAL Botafogo de Futebol e Regatas | Aloísio Coelho fam=5 duel=-12.23 on_target=0.657 goal=0.153
+[070] FINAL Aloísio Coelho: no alvo sem gol (roll=0.492)
+[071] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[071] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.385 roll=0.554
+[072] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 2 Esporte Clube Carioca
+[072] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.385 roll=0.089
+[072] JOGADA Esporte Clube Carioca | Wilhem Foort x Aloísio Coelho line=3 duel=11.75 corte=-1.30
+[072] FINAL Esporte Clube Carioca | Lukas Lopes fam=5 duel=-34.04 on_target=0.663 goal=0.154
+[072] FINAL Lukas Lopes: GOL subtipo=FALTA (roll=0.100)
+[073] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[073] SUB Botafogo de Futebol e Regatas: saiu Alisson Caiçara (LE) | entrou Jurandir Guerra (LD) | subs=5/5
+[073] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.484 roll=0.080
+[073] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x William Äkerlundt line=2 duel=19.89 corte=-1.07
+[073] FINAL Botafogo de Futebol e Regatas | Escudo Calábrio Defensor fam=3 duel=27.03 on_target=0.697 goal=0.221
+[073] FINAL Escudo Calábrio Defensor: fora/alvo perdido (roll=0.952)
+[074] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[074] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.484 roll=0.391
+[074] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x William Äkerlundt line=2 duel=22.24 corte=-1.07
+[074] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Nils Nil line=4 duel=23.73 corte=-1.07
+[074] FINAL Botafogo de Futebol e Regatas | Fernando Hamada fam=1 duel=13.25 on_target=0.781 goal=0.283
+[074] FINAL Fernando Hamada: no alvo sem gol (roll=0.647)
+[075] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[075] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.382 roll=0.142
+[075] JOGADA Esporte Clube Carioca | Filémon Matos x Aloísio Coelho line=3 duel=56.35 corte=-1.30
+[075] FINAL Esporte Clube Carioca | Lukas Lopes fam=5 duel=14.51 on_target=0.655 goal=0.175
+[075] FINAL Lukas Lopes: no alvo sem gol (roll=0.510)
+[076] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[076] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.371 roll=0.398
+[077] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[077] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.523 roll=0.584
+[078] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[078] SUB Esporte Clube Carioca: saiu Nils Nil (SA) | entrou Adelmo Custódio (SA) | subs=5/5
+[078] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.424 roll=0.962
+[079] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[079] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.424 roll=0.936
+[080] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[080] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.424 roll=0.574
+[081] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[081] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.424 roll=0.204
+[081] JOGADA Esporte Clube Carioca | Adelmo Custódio x Escudo Calábrio Defensor line=4 duel=63.53 corte=-1.30
+[081] FINAL Esporte Clube Carioca | Adelmo Custódio fam=5 duel=21.04 on_target=0.642 goal=0.176
+[081] FINAL Adelmo Custódio: no alvo sem gol (roll=0.518)
+[082] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[082] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.424 roll=0.154
+[082] JOGADA Esporte Clube Carioca | Johan Lindström x César Delgado line=3 duel=13.94 corte=-1.30
+[082] FINAL Esporte Clube Carioca | Lukas Lopes fam=5 duel=9.73 on_target=0.642 goal=0.176
+[082] FINAL Lukas Lopes: fora/alvo perdido (roll=0.670)
+[083] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[083] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.525 roll=0.261
+[083] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Filémon Matos line=2 duel=-3.91 corte=-1.07
+[083] JOGADA falhou: Filémon Matos cortou
+[084] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[084] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.525 roll=0.622
+[084] FINAL Botafogo de Futebol e Regatas | César Delgado fam=5 duel=-32.43 on_target=0.705 goal=0.155
+[084] FINAL César Delgado: no alvo sem gol (roll=0.232)
+[085] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[085] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.424 roll=0.054
+[085] JOGADA Esporte Clube Carioca | Clife Topete x César Delgado line=3 duel=13.35 corte=-1.30
+[085] FINAL Esporte Clube Carioca | Wilhem Foort fam=5 duel=-39.47 on_target=0.639 goal=0.151
+[085] FINAL Wilhem Foort: fora/alvo perdido (roll=0.859)
+[086] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[086] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.424 roll=0.253
+[086] JOGADA Esporte Clube Carioca | Oliver Lindström x Aloísio Coelho line=3 duel=-12.56 corte=-1.30
+[086] FINAL Esporte Clube Carioca | Oliver Lindström fam=5 duel=-16.77 on_target=0.641 goal=0.163
+[086] FINAL Oliver Lindström: no alvo sem gol (roll=0.790)
+[087] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[087] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.424 roll=0.376
+[087] JOGADA Esporte Clube Carioca | Getúlio Leitão x Escudo Calábrio Defensor line=3 duel=-14.10 corte=-1.30
+[088] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[088] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.424 roll=0.776
+[089] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[089] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.424 roll=0.286
+[089] JOGADA Esporte Clube Carioca | Johan Lindström x Aloísio Coelho line=4 duel=8.58 corte=-1.30
+[089] JOGADA Esporte Clube Carioca | Oliver Lindström x Fernando Hamada line=5 duel=39.29 corte=-1.55
+[089] FINAL Esporte Clube Carioca | Filémon Matos fam=5 duel=1.17 on_target=0.650 goal=0.175
+[089] FINAL Filémon Matos: fora/alvo perdido (roll=1.000)
+[090] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 3 Esporte Clube Carioca
+[090] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.580 roll=0.046
+[090] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Aristóteles Coelho line=3 duel=3.62 corte=-1.07
+[090] JOGADA Botafogo de Futebol e Regatas | César Delgado x Lukas Lopes line=4 duel=6.14 corte=-1.07
+[090] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Oliver Lindström line=5 duel=80.05 corte=-1.82
+[090] FINAL Botafogo de Futebol e Regatas | Jessé Soares fam=1 duel=19.69 on_target=0.920 goal=0.303
+[090] FINAL Jessé Soares: GOL subtipo=CHUTE (roll=0.117)
+[091] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 3 Esporte Clube Carioca
+[091] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.504 roll=0.051
+[091] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Johan Lindström line=2 duel=8.48 corte=-1.07
+[091] JOGADA Botafogo de Futebol e Regatas | Geraldo Pascoal x Johan Lindström line=3 duel=-7.03 corte=-1.07
+[092] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 3 Esporte Clube Carioca
+[092] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.504 roll=0.548
+[093] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 3 Esporte Clube Carioca
+[093] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.504 roll=0.315
+[093] JOGADA Botafogo de Futebol e Regatas | Escudo Calábrio Defensor x William Äkerlundt line=2 duel=55.62 corte=-1.07
+[093] JOGADA Botafogo de Futebol e Regatas | Isaías da Cruz x Adelmo Custódio line=5 duel=42.86 corte=-1.32
+[093] FINAL Botafogo de Futebol e Regatas | Fernando Hamada fam=1 duel=2.80 on_target=0.910 goal=0.281
+[093] FINAL Fernando Hamada: no alvo sem gol (roll=0.289)
+[094] posse=Esporte Clube Carioca | placar Botafogo de Futebol e Regatas 3 x 3 Esporte Clube Carioca
+[094] BUILD Esporte Clube Carioca vs Botafogo de Futebol e Regatas prob=0.455 roll=0.381
+[094] JOGADA Esporte Clube Carioca | Clife Topete x Severino Desempregado line=3 duel=-0.89 corte=-1.30
+[094] FINAL Esporte Clube Carioca | Johan Lindström fam=5 duel=0.34 on_target=0.782 goal=0.175
+[094] FINAL Johan Lindström: no alvo sem gol (roll=0.641)
+[095] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 3 Esporte Clube Carioca
+[095] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.504 roll=0.445
+[095] JOGADA Botafogo de Futebol e Regatas | César Delgado x Getúlio Leitão line=3 duel=3.41 corte=-1.07
+[095] JOGADA Botafogo de Futebol e Regatas | Jurandir Guerra x Clife Topete line=4 duel=-4.36 corte=-1.07
+[096] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 3 Esporte Clube Carioca
+[096] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.504 roll=0.304
+[096] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Getúlio Leitão line=4 duel=-85.83 corte=-1.07
+[096] JOGADA falhou: Getúlio Leitão cortou
+[097] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 3 Esporte Clube Carioca
+[097] BUILD Botafogo de Futebol e Regatas vs Esporte Clube Carioca prob=0.504 roll=0.378
+[097] JOGADA Botafogo de Futebol e Regatas | Jurandir Guerra x Getúlio Leitão line=3 duel=-7.44 corte=-1.07

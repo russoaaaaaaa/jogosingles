@@ -1,0 +1,330 @@
+Partida #176
+Data: 1912-01-16
+Mandante: Silva Manoel Athletico Clube
+Visitante: Paladino Foot-Ball Club
+Placar: 1 x 3
+Seed: -
+Estádio: Arena André Cavalcanti
+Clima: Ensolarado
+Placar tempo normal: 1 x 3
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Silva Manoel Athletico Clube x Paladino Foot-Ball Club | estádio=Arena André Cavalcanti | clima=Ensolarado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[001] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.295 roll=0.323
+[002] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[002] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.295 roll=0.285
+[002] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Richard Lionheart line=2 duel=-14.22 corte=-1.70
+[002] JOGADA falhou: Richard Lionheart cortou
+[003] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[003] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.295 roll=0.601
+[004] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[004] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.344 roll=0.753
+[005] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[005] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.295 roll=0.234
+[005] JOGADA Silva Manoel Athletico Clube | Igarapava Baldin x Ladislau Lancelot line=3 duel=-23.14 corte=-1.70
+[005] JOGADA falhou: Ladislau Lancelot cortou
+[006] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[006] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.344 roll=0.425
+[007] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[007] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.344 roll=0.477
+[008] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[008] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.295 roll=0.088
+[008] JOGADA Silva Manoel Athletico Clube | Igarapava Baldin x Clérigo Inácio line=3 duel=0.52 corte=-1.70
+[008] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Escalibur da Califórnia line=4 duel=-16.31 corte=-1.70
+[008] JOGADA falhou: Escalibur da Califórnia cortou
+[009] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[009] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.295 roll=0.788
+[010] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[010] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.295 roll=0.150
+[010] JOGADA Silva Manoel Athletico Clube | Igarapava Baldin x Cássio Jiló line=3 duel=-18.81 corte=-1.70
+[010] JOGADA falhou: Cássio Jiló cortou
+[011] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[011] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.372 roll=0.465
+[012] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[012] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.372 roll=0.165
+[012] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Raphael Lima line=3 duel=62.11 corte=-1.12
+[012] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Inocêncio Natividade line=4 duel=4.42 corte=-1.12
+[012] FINAL Paladino Foot-Ball Club | Clérigo Inácio fam=1 duel=21.08 on_target=0.654 goal=0.245
+[012] FINAL Clérigo Inácio: no alvo sem gol (roll=0.383)
+[013] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[013] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.319 roll=0.583
+[014] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[014] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.372 roll=0.298
+[014] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Pacal Esteves line=3 duel=5.77 corte=-1.12
+[014] FINAL Paladino Foot-Ball Club | Perseu Kalitsas fam=1 duel=20.46 on_target=0.658 goal=0.246
+[014] FINAL Perseu Kalitsas: fora/alvo perdido (roll=0.797)
+[015] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[015] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.372 roll=0.492
+[016] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[016] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.319 roll=0.072
+[016] JOGADA Silva Manoel Athletico Clube | Maragogi Perdigão x Clérigo Inácio line=4 duel=26.13 corte=-1.70
+[016] JOGADA Silva Manoel Athletico Clube | Amado Mina x Cássio Jiló line=4 duel=-13.42 corte=-1.70
+[016] JOGADA falhou: Cássio Jiló cortou
+[017] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[017] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.372 roll=0.820
+[018] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[018] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.372 roll=0.027
+[018] JOGADA Paladino Foot-Ball Club | Índio Catapora x Inocêncio Natividade line=4 duel=11.52 corte=-1.12
+[018] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Uaupés Cunha line=4 duel=2.73 corte=-1.12
+[018] FINAL Paladino Foot-Ball Club | Perseu Kalitsas fam=1 duel=19.97 on_target=0.658 goal=0.246
+[018] FINAL Perseu Kalitsas: no alvo sem gol (roll=0.288)
+[019] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[019] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.319 roll=0.149
+[019] JOGADA Silva Manoel Athletico Clube | Pacal Esteves x Índio Catapora line=3 duel=-1.31 corte=-1.70
+[019] JOGADA Silva Manoel Athletico Clube | Amado Mina x Richard Lionheart line=4 duel=-97.87 corte=-1.70
+[019] JOGADA falhou: Richard Lionheart cortou
+[020] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[020] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.319 roll=0.657
+[021] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 0 x 0 Paladino Foot-Ball Club
+[021] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.352
+[021] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Pacal Esteves line=3 duel=12.82 corte=-1.12
+[021] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Amado Mina line=4 duel=3.84 corte=-1.12
+[021] FINAL Paladino Foot-Ball Club | Cássio Jiló fam=1 duel=24.63 on_target=0.689 goal=0.254
+[021] FINAL Cássio Jiló: GOL subtipo=CHUTE (roll=0.107)
+[022] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 0 x 1 Paladino Foot-Ball Club
+[022] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.984
+[023] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Paladino Foot-Ball Club
+[023] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.382 roll=0.155
+[023] JOGADA Silva Manoel Athletico Clube | Amado Mina x Cássio Jiló line=4 duel=-16.25 corte=-1.70
+[023] JOGADA falhou: Cássio Jiló cortou
+[024] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Paladino Foot-Ball Club
+[024] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.382 roll=0.631
+[025] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Paladino Foot-Ball Club
+[025] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.382 roll=0.682
+[026] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Paladino Foot-Ball Club
+[026] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.382 roll=0.923
+[027] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 0 x 1 Paladino Foot-Ball Club
+[027] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.049
+[027] JOGADA Paladino Foot-Ball Club | Pinocchio Giacometti x Igarapava Baldin line=3 duel=-2.93 corte=-1.30
+[027] JOGADA falhou: Igarapava Baldin cortou
+[028] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Paladino Foot-Ball Club
+[028] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.382 roll=0.850
+[029] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 0 x 1 Paladino Foot-Ball Club
+[029] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.917
+[030] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Paladino Foot-Ball Club
+[030] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.382 roll=0.064
+[030] JOGADA Silva Manoel Athletico Clube | Maragogi Perdigão x Ladislau Lancelot line=4 duel=-20.09 corte=-1.70
+[030] JOGADA falhou: Ladislau Lancelot cortou
+[031] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Paladino Foot-Ball Club
+[031] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.382 roll=0.100
+[031] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Cássio Jiló line=2 duel=50.50 corte=-1.70
+[031] JOGADA Silva Manoel Athletico Clube | Igarapava Baldin x Perseu Kalitsas line=4 duel=15.77 corte=-1.70
+[031] JOGADA Silva Manoel Athletico Clube | Raphael Lima x Escalibur da Califórnia line=5 duel=12.76 corte=-2.45
+[031] FINAL Silva Manoel Athletico Clube | Estevão Nunes fam=1 duel=2.09 on_target=0.678 goal=0.244
+[031] FINAL Estevão Nunes: GOL subtipo=CHUTE (roll=0.021)
+[032] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Paladino Foot-Ball Club
+[032] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.346 roll=0.272
+[032] JOGADA Silva Manoel Athletico Clube | Estevão Nunes x Clérigo Inácio line=4 duel=-41.80 corte=-1.70
+[032] JOGADA falhou: Clérigo Inácio cortou
+[033] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Paladino Foot-Ball Club
+[033] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.346 roll=0.939
+[034] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Paladino Foot-Ball Club
+[034] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.346 roll=0.082
+[034] JOGADA Silva Manoel Athletico Clube | Amado Mina x Richard Lionheart line=3 duel=-23.08 corte=-1.70
+[035] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 1 Paladino Foot-Ball Club
+[035] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.124
+[035] JOGADA Paladino Foot-Ball Club | Índio Catapora x Iguape Saviano line=3 duel=3.90 corte=-1.11
+[035] FINAL Paladino Foot-Ball Club | Clérigo Inácio fam=1 duel=14.96 on_target=0.688 goal=0.249
+[035] FINAL Clérigo Inácio: no alvo sem gol (roll=0.622)
+[036] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 1 Paladino Foot-Ball Club
+[036] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.056
+[036] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Raphael Lima line=3 duel=28.85 corte=-1.11
+[036] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Uaupés Cunha line=4 duel=-0.98 corte=-1.11
+[036] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Pacal Esteves line=5 duel=76.31 corte=-1.36
+[036] FINAL Paladino Foot-Ball Club | Clérigo Inácio fam=1 duel=23.74 on_target=0.689 goal=0.254
+[036] FINAL Clérigo Inácio: no alvo sem gol (roll=0.276)
+[037] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 1 Paladino Foot-Ball Club
+[037] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.875
+[038] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Paladino Foot-Ball Club
+[038] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.346 roll=0.315
+[038] JOGADA Silva Manoel Athletico Clube | Estevão Nunes x Escalibur da Califórnia line=4 duel=-6.57 corte=-1.70
+[038] JOGADA falhou: Escalibur da Califórnia cortou
+[039] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 1 Paladino Foot-Ball Club
+[039] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.614
+[040] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 1 Paladino Foot-Ball Club
+[040] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.790
+[041] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 1 Paladino Foot-Ball Club
+[041] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.412
+[042] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 1 Paladino Foot-Ball Club
+[042] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.627
+[043] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 1 Paladino Foot-Ball Club
+[043] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.010
+[043] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Estevão Nunes line=4 duel=14.92 corte=-1.11
+[043] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Raphael Lima line=4 duel=25.96 corte=-1.11
+[043] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Raphael Lima line=5 duel=67.89 corte=-1.86
+[043] FINAL Paladino Foot-Ball Club | Pinocchio Giacometti fam=1 duel=1.11 on_target=0.679 goal=0.239
+[043] FINAL Pinocchio Giacometti: GOL subtipo=CHUTE (roll=0.063)
+[044] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[044] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.543
+[045] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[045] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.400 roll=0.346
+[045] JOGADA Paladino Foot-Ball Club | Perseu Kalitsas x Inocêncio Natividade line=3 duel=12.90 corte=-1.30
+[045] JOGADA Paladino Foot-Ball Club | Lisandro Paladino x Igarapava Baldin line=4 duel=-8.93 corte=-1.30
+[045] JOGADA falhou: Igarapava Baldin cortou
+[046] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[046] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.372 roll=0.178
+[046] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Edimilson Graça line=3 duel=-14.32 corte=-1.30
+[046] JOGADA falhou: Edimilson Graça cortou
+[047] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[047] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.355 roll=0.523
+[048] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[048] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.355 roll=0.380
+[049] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[049] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.372 roll=0.080
+[049] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Iguape Saviano line=3 duel=43.77 corte=-1.30
+[049] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Raphael Lima line=4 duel=18.77 corte=-1.30
+[049] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Igarapava Baldin line=4 duel=-0.16 corte=-1.30
+[049] FINAL Paladino Foot-Ball Club | Clérigo Inácio fam=1 duel=17.48 on_target=0.654 goal=0.243
+[049] FINAL Clérigo Inácio: no alvo sem gol (roll=0.723)
+[050] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[050] SUB Silva Manoel Athletico Clube: saiu Raphael Lima (CA) | entrou Iauaretê Capitão (PE) | subs=1/5
+[050] SUB Paladino Foot-Ball Club: saiu Pinocchio Giacometti (MC) | entrou Sapateiro Souza (MC) | subs=1/5
+[050] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.379 roll=0.886
+[051] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[051] SUB Silva Manoel Athletico Clube: saiu Maragogi Perdigão (MC) | entrou Tarek Rios (VOL) | subs=2/5
+[051] SUB Paladino Foot-Ball Club: saiu Lisandro Paladino (CA) | entrou Estácio Espingarda (CA) | subs=2/5
+[051] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.357 roll=0.279
+[051] JOGADA Silva Manoel Athletico Clube | Inocêncio Natividade x Perseu Kalitsas line=4 duel=20.75 corte=-1.70
+[051] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Clérigo Inácio line=4 duel=32.20 corte=-1.70
+[051] FINAL Silva Manoel Athletico Clube | Estevão Nunes fam=5 duel=-2.57 on_target=0.561 goal=0.150
+[051] FINAL Estevão Nunes: fora/alvo perdido (roll=0.739)
+[052] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[052] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.375 roll=0.441
+[053] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[053] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.357 roll=0.673
+[054] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[054] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.357 roll=0.168
+[054] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Ladislau Lancelot line=3 duel=28.49 corte=-1.70
+[054] FINAL Silva Manoel Athletico Clube | Estevão Nunes fam=5 duel=-2.09 on_target=0.561 goal=0.150
+[054] FINAL Estevão Nunes: fora/alvo perdido (roll=0.905)
+[055] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[055] SUB Silva Manoel Athletico Clube: saiu Pacal Esteves (MD) | entrou Anatólio Filippi (PD) | subs=3/5
+[055] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.354 roll=0.807
+[056] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[056] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.404 roll=0.441
+[057] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[057] SUB Paladino Foot-Ball Club: saiu Perseu Kalitsas (PD) | entrou Guarnição Soldado (PD) | subs=3/5
+[057] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.381 roll=0.144
+[057] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Richard Lionheart line=4 duel=-24.84 corte=-1.70
+[057] JOGADA falhou: Richard Lionheart cortou
+[058] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[058] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.397 roll=0.083
+[058] JOGADA Paladino Foot-Ball Club | Yoshida, o Samurai Errante x Iauaretê Capitão line=4 duel=4.59 corte=-1.30
+[058] FINAL Paladino Foot-Ball Club | Estácio Espingarda fam=1 duel=37.05 on_target=0.684 goal=0.257
+[058] FINAL Estácio Espingarda: no alvo sem gol (roll=0.706)
+[059] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[059] SUB Silva Manoel Athletico Clube: saiu Igarapava Baldin (ZAG) | entrou Lemuel Sodré (ZAG) | subs=4/5
+[059] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.382 roll=0.609
+[060] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[060] SUB Silva Manoel Athletico Clube: saiu Inocêncio Natividade (LD) | entrou Aron Capiberibe (LD) | subs=5/5
+[060] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.401 roll=0.729
+[061] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[061] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.385 roll=0.553
+[062] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 2 Paladino Foot-Ball Club
+[062] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.401 roll=0.095
+[062] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Tarek Rios line=3 duel=11.16 corte=-1.30
+[062] JOGADA Paladino Foot-Ball Club | Guarnição Soldado x Tarek Rios line=5 duel=80.61 corte=-2.05
+[062] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Uaupés Cunha line=5 duel=42.82 corte=-1.55
+[062] FINAL Paladino Foot-Ball Club | Estácio Espingarda fam=1 duel=33.85 on_target=0.684 goal=0.256
+[062] FINAL Estácio Espingarda: GOL subtipo=CHUTE (roll=0.076)
+[063] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[063] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.389 roll=0.548
+[064] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[064] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.389 roll=0.926
+[065] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[065] SUB Paladino Foot-Ball Club: saiu Yoshida, o Samurai Errante (ZAG) | entrou Godofredo Nunes (ZAG) | subs=4/5
+[065] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.387 roll=0.609
+[066] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[066] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.393 roll=0.480
+[067] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[067] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.393 roll=0.164
+[067] JOGADA Paladino Foot-Ball Club | Estácio Espingarda x Iguape Saviano line=3 duel=94.75 corte=-1.30
+[067] JOGADA Paladino Foot-Ball Club | Cássio Jiló x Aron Capiberibe line=4 duel=-36.49 corte=-1.30
+[067] JOGADA falhou: Aron Capiberibe cortou
+[068] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[068] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.393 roll=0.409
+[069] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[069] SUB Paladino Foot-Ball Club: saiu Índio Catapora (LD) | entrou Martin Luther Williams (LD) | subs=5/5
+[069] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.397 roll=0.497
+[070] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[070] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.388 roll=0.199
+[070] JOGADA Paladino Foot-Ball Club | Martin Luther Williams x Amado Mina line=3 duel=33.08 corte=-1.30
+[070] JOGADA Paladino Foot-Ball Club | Sapateiro Souza x Iauaretê Capitão line=4 duel=42.98 corte=-1.30
+[070] FINAL Paladino Foot-Ball Club | Clérigo Inácio fam=1 duel=15.40 on_target=0.661 goal=0.232
+[070] FINAL Clérigo Inácio: no alvo sem gol (roll=0.623)
+[071] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[071] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.397 roll=0.832
+[072] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[072] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.388 roll=0.402
+[073] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[073] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.397 roll=0.626
+[074] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[074] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.388 roll=0.283
+[074] JOGADA Paladino Foot-Ball Club | Richard Lionheart x Estevão Nunes line=4 duel=42.50 corte=-1.30
+[074] JOGADA Paladino Foot-Ball Club | Guarnição Soldado x Lemuel Sodré line=5 duel=71.63 corte=-2.05
+[074] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Tarek Rios line=5 duel=-7.83 corte=-1.55
+[074] JOGADA falhou: Tarek Rios cortou
+[075] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[075] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.388 roll=0.978
+[076] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[076] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.377 roll=0.036
+[076] JOGADA Paladino Foot-Ball Club | Sapateiro Souza x Aron Capiberibe line=4 duel=-28.29 corte=-1.30
+[076] JOGADA falhou: Aron Capiberibe cortou
+[077] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[077] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.428 roll=0.760
+[078] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[078] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.377 roll=0.419
+[079] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[079] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.428 roll=0.783
+[080] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[080] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.377 roll=0.783
+[081] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[081] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.428 roll=0.470
+[082] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[082] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.377 roll=0.949
+[083] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[083] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.428 roll=0.907
+[084] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[084] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.428 roll=0.469
+[085] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[085] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.451 roll=0.030
+[085] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Clérigo Inácio line=4 duel=-46.55 corte=-1.70
+[085] JOGADA falhou: Clérigo Inácio cortou
+[086] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[086] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.377 roll=0.284
+[086] JOGADA Paladino Foot-Ball Club | Guarnição Soldado x Iguape Saviano line=2 duel=36.46 corte=-1.30
+[086] FINAL Paladino Foot-Ball Club | Guarnição Soldado fam=3 duel=10.70 on_target=0.583 goal=0.173
+[086] FINAL Guarnição Soldado: fora/alvo perdido (roll=0.650)
+[087] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[087] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.377 roll=0.753
+[088] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[088] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.451 roll=0.531
+[089] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[089] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.377 roll=0.284
+[089] JOGADA Paladino Foot-Ball Club | Guarnição Soldado x Amado Mina line=2 duel=18.10 corte=-1.30
+[089] JOGADA Paladino Foot-Ball Club | Escalibur da Califórnia x Estevão Nunes line=3 duel=12.21 corte=-1.30
+[089] JOGADA Paladino Foot-Ball Club | Estácio Espingarda x Amado Mina line=4 duel=-0.42 corte=-1.30
+[089] FINAL Paladino Foot-Ball Club | Cássio Jiló fam=1 duel=16.24 on_target=0.647 goal=0.229
+[089] FINAL Cássio Jiló: fora/alvo perdido (roll=0.968)
+[090] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[090] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.377 roll=0.791
+[091] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[091] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.451 roll=0.181
+[091] JOGADA Silva Manoel Athletico Clube | Tarek Rios x Godofredo Nunes line=3 duel=-27.50 corte=-1.70
+[091] JOGADA falhou: Godofredo Nunes cortou
+[092] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[092] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.451 roll=0.212
+[092] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Sapateiro Souza line=3 duel=-14.72 corte=-1.70
+[093] posse=Paladino Foot-Ball Club | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[093] BUILD Paladino Foot-Ball Club vs Silva Manoel Athletico Clube prob=0.377 roll=0.201
+[093] JOGADA Paladino Foot-Ball Club | Ladislau Lancelot x Aron Capiberibe line=2 duel=-11.48 corte=-1.30
+[094] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[094] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.451 roll=0.565
+[095] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[095] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.451 roll=0.796
+[096] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 3 Paladino Foot-Ball Club
+[096] BUILD Silva Manoel Athletico Clube vs Paladino Foot-Ball Club prob=0.451 roll=0.712

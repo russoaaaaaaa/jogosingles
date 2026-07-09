@@ -1,0 +1,317 @@
+Partida #242
+Data: 1912-01-24
+Mandante: Silva Manoel Athletico Clube
+Visitante: Fidalgo Football Club
+Placar: 1 x 1
+Seed: -
+Estádio: Arena André Cavalcanti
+Clima: Chuva leve
+Placar tempo normal: 1 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Silva Manoel Athletico Clube x Fidalgo Football Club | estádio=Arena André Cavalcanti | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[001] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.312 roll=0.360
+[002] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[002] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.312 roll=0.884
+[003] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[003] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.312 roll=0.952
+[004] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[004] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.298 roll=0.501
+[005] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[005] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.298 roll=0.992
+[006] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[006] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.312 roll=0.381
+[007] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[007] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.312 roll=0.109
+[007] JOGADA Fidalgo Football Club | Agnelo Orrico x Inocêncio Natividade line=4 duel=3.58 corte=-1.12
+[007] JOGADA Fidalgo Football Club | Agnelo Orrico x Iguape Saviano line=5 duel=43.32 corte=-1.87
+[007] JOGADA Fidalgo Football Club | Apolônio Fasano x Estevão Nunes line=5 duel=102.68 corte=-1.37
+[007] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=3 duel=15.82 on_target=0.537 goal=0.172
+[007] FINAL Pacheco Arcoverde: no alvo sem gol (roll=0.618)
+[008] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[008] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.312 roll=0.275
+[008] JOGADA Fidalgo Football Club | Apolônio Fasano x Iguape Saviano line=3 duel=17.77 corte=-1.12
+[008] JOGADA Fidalgo Football Club | Ícaro Custódio x Maragogi Perdigão line=4 duel=17.13 corte=-1.12
+[008] FINAL Fidalgo Football Club | Agnelo Orrico fam=1 duel=13.59 on_target=0.592 goal=0.221
+[008] FINAL Agnelo Orrico: fora/alvo perdido (roll=0.987)
+[009] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[009] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.312 roll=0.711
+[010] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[010] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.298 roll=0.682
+[011] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[011] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.322 roll=0.554
+[012] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[012] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.322 roll=0.497
+[013] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[013] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.322 roll=0.580
+[014] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[014] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.337 roll=0.966
+[015] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[015] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.322 roll=0.315
+[015] JOGADA Silva Manoel Athletico Clube | Igarapava Baldin x Ícaro Custódio line=3 duel=-26.76 corte=-1.70
+[015] JOGADA falhou: Ícaro Custódio cortou
+[016] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[016] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.322 roll=0.192
+[016] JOGADA Silva Manoel Athletico Clube | Pacal Esteves x Apolônio Fasano line=2 duel=17.71 corte=-1.70
+[016] FINAL Silva Manoel Athletico Clube | Uaupés Cunha fam=5 duel=-82.85 on_target=0.548 goal=0.111
+[016] FINAL Uaupés Cunha: fora/alvo perdido (roll=0.895)
+[017] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[017] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.322 roll=0.970
+[018] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[018] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.337 roll=0.371
+[019] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[019] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.337 roll=0.601
+[020] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[020] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.322 roll=0.016
+[020] JOGADA Silva Manoel Athletico Clube | Amado Mina x Torquato Brasileiro line=3 duel=-9.71 corte=-1.70
+[020] JOGADA falhou: Torquato Brasileiro cortou
+[021] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[021] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.543
+[022] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[022] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.441
+[023] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[023] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.346 roll=0.530
+[024] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[024] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.701
+[025] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[025] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.346 roll=0.017
+[025] JOGADA Silva Manoel Athletico Clube | Inocêncio Natividade x Pacheco Arcoverde line=3 duel=20.69 corte=-1.70
+[025] FINAL Silva Manoel Athletico Clube | Estevão Nunes fam=5 duel=-2.17 on_target=0.586 goal=0.152
+[025] FINAL Estevão Nunes: no alvo sem gol (roll=0.698)
+[026] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[026] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.657
+[027] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[027] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.522
+[028] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[028] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.006
+[028] JOGADA Fidalgo Football Club | Patrício Gouveia x Maragogi Perdigão line=2 duel=25.74 corte=-1.12
+[028] JOGADA Fidalgo Football Club | Torquato Brasileiro x Estevão Nunes line=3 duel=12.93 corte=-1.12
+[028] JOGADA Fidalgo Football Club | Lukas Lombardi x Raphael Lima line=4 duel=48.87 corte=-1.12
+[028] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=1 duel=20.90 on_target=0.673 goal=0.246
+[028] FINAL Pacheco Arcoverde: fora/alvo perdido (roll=0.727)
+[029] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[029] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.795
+[030] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[030] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.346 roll=0.472
+[031] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[031] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.346 roll=0.131
+[031] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Lukas Lombardi line=3 duel=23.19 corte=-1.70
+[031] JOGADA Silva Manoel Athletico Clube | Inocêncio Natividade x Agnelo Orrico line=4 duel=25.85 corte=-1.70
+[031] JOGADA Silva Manoel Athletico Clube | Estevão Nunes x Lukas Lombardi line=4 duel=3.78 corte=-1.70
+[031] FINAL Silva Manoel Athletico Clube | Maragogi Perdigão fam=1 duel=-2.69 on_target=0.672 goal=0.239
+[031] FINAL Maragogi Perdigão: fora/alvo perdido (roll=0.851)
+[032] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[032] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.349 roll=0.193
+[032] JOGADA Silva Manoel Athletico Clube | Amado Mina x Patrício Gouveia line=4 duel=-0.70 corte=-1.70
+[032] FINAL Silva Manoel Athletico Clube | Raphael Lima fam=5 duel=-12.89 on_target=0.584 goal=0.147
+[032] FINAL Raphael Lima: fora/alvo perdido (roll=0.853)
+[033] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[033] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.214
+[033] JOGADA Fidalgo Football Club | Pacheco Arcoverde x Maragogi Perdigão line=3 duel=12.89 corte=-1.11
+[033] JOGADA Fidalgo Football Club | Jaguará Guerreiro x Pacal Esteves line=4 duel=28.16 corte=-1.11
+[033] JOGADA Fidalgo Football Club | Bryan Figueiredo x Inocêncio Natividade line=5 duel=16.86 corte=-1.36
+[033] FINAL Fidalgo Football Club | Agnelo Orrico fam=1 duel=6.35 on_target=0.672 goal=0.240
+[033] FINAL Agnelo Orrico: no alvo sem gol (roll=0.685)
+[034] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[034] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.169
+[034] JOGADA Fidalgo Football Club | Torquato Brasileiro x Igarapava Baldin line=3 duel=21.94 corte=-1.11
+[034] JOGADA Fidalgo Football Club | Torquato Brasileiro x Amado Mina line=4 duel=-16.27 corte=-1.11
+[034] JOGADA falhou: Amado Mina cortou
+[035] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[035] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.450
+[036] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[036] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.349 roll=0.663
+[037] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[037] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.387
+[038] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[038] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.349 roll=0.223
+[038] JOGADA Silva Manoel Athletico Clube | Pacal Esteves x Bauá Laranjeira line=2 duel=-8.00 corte=-1.70
+[038] JOGADA falhou: Bauá Laranjeira cortou
+[039] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[039] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.893
+[040] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[040] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.349 roll=0.582
+[041] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[041] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.349 roll=0.909
+[042] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[042] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.661
+[043] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[043] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.349 roll=0.548
+[044] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[044] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.662
+[045] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[045] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.362 roll=0.797
+[046] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[046] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.337 roll=0.356
+[047] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[047] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.324 roll=0.901
+[048] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[048] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.337 roll=0.678
+[049] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[049] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.337 roll=0.741
+[049] FINAL Fidalgo Football Club | Lukas Lombardi fam=5 duel=-38.57 on_target=0.543 goal=0.118
+[049] FINAL Lukas Lombardi: fora/alvo perdido (roll=0.981)
+[050] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[050] SUB Silva Manoel Athletico Clube: saiu Raphael Lima (CA) | entrou Iauaretê Capitão (PE) | subs=1/5
+[050] SUB Fidalgo Football Club: saiu Apolônio Fasano (ME) | entrou Nilton Soares (ME) | subs=1/5
+[050] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.334 roll=0.279
+[050] JOGADA Fidalgo Football Club | Agnelo Orrico x Estevão Nunes line=2 duel=24.28 corte=-1.12
+[050] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=1 duel=12.95 on_target=0.639 goal=0.235
+[050] FINAL Pacheco Arcoverde: no alvo sem gol (roll=0.643)
+[051] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[051] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.329 roll=0.907
+[052] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[052] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.334 roll=0.329
+[052] JOGADA Fidalgo Football Club | Nilton Soares x Iauaretê Capitão line=3 duel=49.61 corte=-1.12
+[052] JOGADA Fidalgo Football Club | Bryan Figueiredo x Uaupés Cunha line=4 duel=3.85 corte=-1.12
+[052] FINAL Fidalgo Football Club | Pacheco Arcoverde fam=1 duel=15.67 on_target=0.639 goal=0.236
+[052] FINAL Pacheco Arcoverde: no alvo sem gol (roll=0.515)
+[053] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[053] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.329 roll=0.090
+[053] JOGADA Silva Manoel Athletico Clube | Iguape Saviano x Patrício Gouveia line=3 duel=7.46 corte=-1.70
+[053] FINAL Silva Manoel Athletico Clube | Estevão Nunes fam=5 duel=2.22 on_target=0.557 goal=0.150
+[053] FINAL Estevão Nunes: no alvo sem gol (roll=0.977)
+[054] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[054] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.329 roll=0.652
+[055] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[055] SUB Silva Manoel Athletico Clube: saiu Maragogi Perdigão (MC) | entrou Tarek Rios (VOL) | subs=2/5
+[055] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.335 roll=0.600
+[056] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[056] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.357 roll=0.427
+[057] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[057] SUB Fidalgo Football Club: saiu Torquato Brasileiro (ZAG) | entrou Avati Volpi (ZAG) | subs=2/5
+[057] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.359 roll=0.198
+[057] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Jaguará Guerreiro line=3 duel=50.54 corte=-1.70
+[057] JOGADA Silva Manoel Athletico Clube | Iauaretê Capitão x Patrício Gouveia line=4 duel=-25.69 corte=-1.70
+[057] JOGADA falhou: Patrício Gouveia cortou
+[058] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[058] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.343 roll=0.815
+[059] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[059] SUB Silva Manoel Athletico Clube: saiu Pacal Esteves (MD) | entrou Anatólio Filippi (PD) | subs=3/5
+[059] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.341 roll=0.239
+[059] JOGADA Fidalgo Football Club | Bauá Laranjeira x Tarek Rios line=4 duel=-25.21 corte=-1.12
+[059] JOGADA falhou: Tarek Rios cortou
+[060] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[060] SUB Fidalgo Football Club: saiu Agnelo Orrico (SA) | entrou Arley Quadros (PD) | subs=3/5
+[060] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.360 roll=0.369
+[061] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[061] SUB Fidalgo Football Club: saiu Patrício Gouveia (MC) | entrou Janardo Páscoa (VOL) | subs=4/5
+[061] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.361 roll=0.891
+[062] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[062] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.361 roll=0.181
+[062] JOGADA Silva Manoel Athletico Clube | Igarapava Baldin x Ícaro Custódio line=4 duel=-13.37 corte=-1.70
+[062] FINAL Silva Manoel Athletico Clube | Igarapava Baldin fam=5 duel=-20.00 on_target=0.581 goal=0.144
+[062] FINAL Igarapava Baldin: no alvo sem gol (roll=0.708)
+[063] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[063] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.361 roll=0.265
+[063] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Bryan Figueiredo line=2 duel=-4.40 corte=-1.70
+[063] JOGADA falhou: Bryan Figueiredo cortou
+[064] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[064] SUB Silva Manoel Athletico Clube: saiu Inocêncio Natividade (LD) | entrou Aron Capiberibe (LD) | subs=4/5
+[064] SUB Fidalgo Football Club: saiu Pacheco Arcoverde (CA) | entrou Jequitibá Bispo (PE) | subs=5/5
+[064] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.363 roll=0.876
+[065] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[065] SUB Silva Manoel Athletico Clube: saiu Amado Mina (ZAG) | entrou Lemuel Sodré (ZAG) | subs=5/5
+[065] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.336 roll=0.328
+[065] JOGADA Fidalgo Football Club | Bryan Figueiredo x Igarapava Baldin line=4 duel=-1.69 corte=-1.11
+[065] JOGADA falhou: Igarapava Baldin cortou
+[066] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[066] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.363 roll=0.504
+[067] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[067] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.336 roll=0.773
+[068] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[068] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.336 roll=0.991
+[069] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[069] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.366 roll=0.462
+[070] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 0 Fidalgo Football Club
+[070] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.336 roll=0.295
+[070] JOGADA Fidalgo Football Club | Janardo Páscoa x Igarapava Baldin line=2 duel=13.04 corte=-1.11
+[070] JOGADA Fidalgo Football Club | Bryan Figueiredo x Uaupés Cunha line=3 duel=26.21 corte=-1.11
+[070] JOGADA Fidalgo Football Club | Lukas Lombardi x Edimilson Graça line=4 duel=11.09 corte=-1.11
+[070] FINAL Fidalgo Football Club | Arley Quadros fam=3 duel=7.90 on_target=0.616 goal=0.188
+[070] FINAL Arley Quadros: GOL subtipo=CABECA (roll=0.120)
+[071] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 1 Fidalgo Football Club
+[071] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.350 roll=0.332
+[071] JOGADA Fidalgo Football Club | Lukas Lombardi x Anatólio Filippi line=3 duel=21.50 corte=-1.30
+[071] JOGADA Fidalgo Football Club | Arley Quadros x Anatólio Filippi line=4 duel=39.23 corte=-1.30
+[071] JOGADA Fidalgo Football Club | Ícaro Custódio x Estevão Nunes line=4 duel=26.80 corte=-1.30
+[071] FINAL Fidalgo Football Club | Jequitibá Bispo fam=1 duel=25.22 on_target=0.667 goal=0.251
+[071] FINAL Jequitibá Bispo: no alvo sem gol (roll=0.769)
+[072] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Fidalgo Football Club
+[072] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.399 roll=0.181
+[072] JOGADA Silva Manoel Athletico Clube | Iguape Saviano x Bauá Laranjeira line=2 duel=-4.40 corte=-1.70
+[072] FINAL Silva Manoel Athletico Clube | Iguape Saviano fam=5 duel=-49.27 on_target=0.580 goal=0.132
+[072] FINAL Iguape Saviano: fora/alvo perdido (roll=0.744)
+[073] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 1 Fidalgo Football Club
+[073] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.350 roll=0.518
+[074] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Fidalgo Football Club
+[074] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.399 roll=0.671
+[075] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Fidalgo Football Club
+[075] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.399 roll=0.568
+[076] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 0 x 1 Fidalgo Football Club
+[076] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.340 roll=0.071
+[076] JOGADA Fidalgo Football Club | Avati Volpi x Tarek Rios line=3 duel=-8.12 corte=-1.30
+[077] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 0 x 1 Fidalgo Football Club
+[077] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.431 roll=0.106
+[077] JOGADA Silva Manoel Athletico Clube | Estevão Nunes x Ícaro Custódio line=2 duel=59.32 corte=-1.70
+[077] JOGADA Silva Manoel Athletico Clube | Lemuel Sodré x Nilton Soares line=4 duel=-10.92 corte=-1.70
+[077] FINAL Silva Manoel Athletico Clube | Lemuel Sodré fam=5 duel=-12.72 on_target=0.632 goal=0.159
+[077] FINAL Lemuel Sodré: GOL subtipo=FALTA (roll=0.018)
+[078] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[078] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.346 roll=0.630
+[079] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[079] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.377 roll=0.100
+[079] JOGADA Silva Manoel Athletico Clube | Iguape Saviano x Nilton Soares line=3 duel=-13.15 corte=-1.70
+[079] FINAL Silva Manoel Athletico Clube | Iguape Saviano fam=5 duel=-8.01 on_target=0.593 goal=0.151
+[079] FINAL Iguape Saviano: no alvo sem gol (roll=0.160)
+[080] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[080] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.346 roll=0.435
+[081] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[081] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.377 roll=0.801
+[082] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[082] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.346 roll=0.859
+[083] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[083] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.346 roll=0.184
+[083] JOGADA Fidalgo Football Club | Ícaro Custódio x Uaupés Cunha line=4 duel=4.75 corte=-1.07
+[083] FINAL Fidalgo Football Club | Arley Quadros fam=1 duel=19.32 on_target=0.694 goal=0.251
+[083] FINAL Arley Quadros: no alvo sem gol (roll=0.920)
+[084] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[084] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.346 roll=0.812
+[085] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[085] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.397 roll=0.595
+[086] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[086] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.397 roll=0.501
+[087] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[087] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.365 roll=0.700
+[088] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[088] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.397 roll=0.694
+[089] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[089] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.397 roll=0.418
+[090] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[090] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.397 roll=0.726
+[091] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[091] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.365 roll=0.313
+[091] JOGADA Fidalgo Football Club | Ícaro Custódio x Anatólio Filippi line=2 duel=106.18 corte=-1.07
+[091] JOGADA Fidalgo Football Club | Lukas Lombardi x Uaupés Cunha line=5 duel=25.40 corte=-1.32
+[091] JOGADA Fidalgo Football Club | Lukas Lombardi x Lemuel Sodré line=5 duel=-4.39 corte=-1.32
+[091] JOGADA falhou: Lemuel Sodré cortou
+[092] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[092] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.397 roll=0.585
+[093] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[093] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.397 roll=0.549
+[094] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[094] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.365 roll=0.653
+[095] posse=Fidalgo Football Club | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[095] BUILD Fidalgo Football Club vs Silva Manoel Athletico Clube prob=0.365 roll=0.919
+[096] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[096] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.397 roll=0.412
+[097] posse=Silva Manoel Athletico Clube | placar Silva Manoel Athletico Clube 1 x 1 Fidalgo Football Club
+[097] BUILD Silva Manoel Athletico Clube vs Fidalgo Football Club prob=0.397 roll=0.362
+[097] JOGADA Silva Manoel Athletico Clube | Aron Capiberibe x Nilton Soares line=2 duel=-0.07 corte=-1.70
+[097] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Jequitibá Bispo line=3 duel=9.70 corte=-1.70
+[097] JOGADA Silva Manoel Athletico Clube | Tarek Rios x Janardo Páscoa line=5 duel=-11.91 corte=-1.95
+[097] JOGADA falhou: Janardo Páscoa cortou

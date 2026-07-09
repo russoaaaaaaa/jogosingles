@@ -1,0 +1,316 @@
+Partida #181
+Data: 1912-01-16
+Mandante: Modesto Football Club
+Visitante: Associação Athletica Internacional
+Placar: 3 x 1
+Seed: -
+Estádio: Esplanada da Bocayuva
+Clima: Chuva leve
+Placar tempo normal: 3 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Modesto Football Club x Associação Athletica Internacional | estádio=Esplanada da Bocayuva | clima=Chuva leve | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[001] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.334 roll=0.759
+[002] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[002] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.334 roll=0.674
+[003] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[003] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.334 roll=0.527
+[004] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[004] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.334 roll=0.733
+[004] FINAL Associação Athletica Internacional | Horácio Canhão fam=5 duel=-12.26 on_target=0.580 goal=0.149
+[004] FINAL Horácio Canhão: fora/alvo perdido (roll=0.615)
+[005] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[005] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.334 roll=0.523
+[006] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[006] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.384 roll=0.862
+[007] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[007] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.334 roll=0.863
+[008] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[008] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.334 roll=0.444
+[009] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[009] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.334 roll=0.599
+[010] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[010] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.334 roll=0.506
+[011] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[011] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.361 roll=0.523
+[012] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[012] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.361 roll=0.503
+[013] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[013] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.361 roll=0.532
+[014] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[014] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.361 roll=0.730
+[015] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[015] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.415 roll=0.038
+[015] JOGADA Modesto Football Club | Primitivo Ramos x Didinho line=4 duel=66.63 corte=-1.12
+[015] FINAL Modesto Football Club | Marton Amaral fam=1 duel=12.11 on_target=0.722 goal=0.259
+[015] FINAL Marton Amaral: fora/alvo perdido (roll=0.989)
+[016] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[016] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.415 roll=0.670
+[017] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[017] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.361 roll=0.869
+[018] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[018] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.361 roll=0.077
+[018] JOGADA Associação Athletica Internacional | Lorenzo Silva x Canhoteiro line=3 duel=-0.32 corte=-1.30
+[018] JOGADA Associação Athletica Internacional | Christiano Cordeiro x Tales Saldanha line=4 duel=-22.25 corte=-1.30
+[019] posse=Associação Athletica Internacional | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[019] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.361 roll=0.154
+[019] JOGADA Associação Athletica Internacional | Christiano Cordeiro x Bissau line=4 duel=6.01 corte=-1.30
+[019] FINAL Associação Athletica Internacional | Horácio Canhão fam=5 duel=-12.25 on_target=0.626 goal=0.159
+[019] FINAL Horácio Canhão: fora/alvo perdido (roll=0.948)
+[020] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Associação Athletica Internacional
+[020] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.415 roll=0.042
+[020] JOGADA Modesto Football Club | Cid Lamego x Lorenzo Silva line=4 duel=0.41 corte=-1.12
+[020] FINAL Modesto Football Club | Bissau fam=1 duel=11.82 on_target=0.720 goal=0.258
+[020] FINAL Bissau: GOL subtipo=CHUTE (roll=0.155)
+[021] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[021] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.458 roll=0.715
+[022] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[022] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.447 roll=0.565
+[023] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[023] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.447 roll=0.999
+[024] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[024] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.458 roll=0.051
+[024] JOGADA Associação Athletica Internacional | Gio Occhetto x Canhoteiro line=4 duel=-12.49 corte=-1.30
+[024] JOGADA falhou: Canhoteiro cortou
+[025] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[025] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.447 roll=0.287
+[025] JOGADA Modesto Football Club | Canhoteiro x Alceo Panicucci line=3 duel=10.78 corte=-1.30
+[025] FINAL Modesto Football Club | Bissau fam=1 duel=13.97 on_target=0.758 goal=0.267
+[025] FINAL Bissau: fora/alvo perdido (roll=0.823)
+[026] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[026] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.458 roll=0.019
+[026] JOGADA Associação Athletica Internacional | Didinho x Canhoteiro line=2 duel=4.02 corte=-1.30
+[026] JOGADA Associação Athletica Internacional | Didinho x Cid Lamego line=3 duel=-1.57 corte=-1.30
+[027] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[027] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.458 roll=0.623
+[028] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[028] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.447 roll=0.677
+[029] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[029] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.447 roll=0.261
+[029] JOGADA Modesto Football Club | Bissau x Astrojildo line=4 duel=64.46 corte=-1.30
+[029] FINAL Modesto Football Club | Marton Amaral fam=1 duel=10.25 on_target=0.760 goal=0.266
+[029] FINAL Marton Amaral: no alvo sem gol (roll=0.569)
+[030] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[030] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.458 roll=0.923
+[031] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[031] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.447 roll=0.306
+[031] JOGADA Modesto Football Club | Conceição Malta x Didinho line=3 duel=-15.67 corte=-1.30
+[031] JOGADA falhou: Didinho cortou
+[032] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[032] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.458 roll=0.397
+[032] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Margarido Caminha line=4 duel=-71.50 corte=-1.30
+[032] JOGADA falhou: Margarido Caminha cortou
+[033] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[033] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.458 roll=0.775
+[034] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[034] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.447 roll=0.887
+[035] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[035] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.458 roll=0.776
+[036] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[036] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.447 roll=0.018
+[036] JOGADA Modesto Football Club | Cid Lamego x Astrojildo line=3 duel=-4.18 corte=-1.30
+[036] JOGADA falhou: Astrojildo cortou
+[037] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[037] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.458 roll=0.994
+[038] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[038] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.458 roll=0.325
+[038] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Marton Amaral line=4 duel=39.55 corte=-1.30
+[038] JOGADA Associação Athletica Internacional | Lorenzo Silva x Bissau line=4 duel=19.00 corte=-1.30
+[038] JOGADA Associação Athletica Internacional | Christiano Cordeiro x Primitivo Ramos line=5 duel=40.23 corte=-1.55
+[038] FINAL Associação Athletica Internacional | Leo Basbaum fam=1 duel=-15.34 on_target=0.762 goal=0.265
+[038] FINAL Leo Basbaum: fora/alvo perdido (roll=0.794)
+[039] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[039] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.447 roll=0.686
+[040] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[040] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.447 roll=0.270
+[040] JOGADA Modesto Football Club | Primitivo Ramos x Berno Rossi line=4 duel=60.22 corte=-1.30
+[040] FINAL Modesto Football Club | Bissau fam=1 duel=5.38 on_target=0.758 goal=0.263
+[040] FINAL Bissau: no alvo sem gol (roll=0.869)
+[041] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[041] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.447 roll=0.596
+[042] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[042] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.458 roll=0.169
+[042] JOGADA Associação Athletica Internacional | Astrojildo x Aquil Gavião line=4 duel=-39.57 corte=-1.30
+[042] JOGADA falhou: Aquil Gavião cortou
+[043] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[043] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.458 roll=0.794
+[044] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[044] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.447 roll=0.537
+[045] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[045] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.458 roll=0.932
+[046] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[046] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.426 roll=0.790
+[047] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[047] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.415 roll=0.218
+[047] JOGADA Modesto Football Club | Canhoteiro x Alceo Panicucci line=3 duel=10.25 corte=-1.30
+[047] FINAL Modesto Football Club | Bissau fam=1 duel=2.41 on_target=0.720 goal=0.253
+[047] FINAL Bissau: no alvo sem gol (roll=0.700)
+[048] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[048] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.415 roll=0.200
+[048] JOGADA Modesto Football Club | Marton Amaral x Berno Rossi line=4 duel=12.41 corte=-1.30
+[048] FINAL Modesto Football Club | Marton Amaral fam=1 duel=7.41 on_target=0.722 goal=0.257
+[048] FINAL Marton Amaral: no alvo sem gol (roll=0.332)
+[049] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[049] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.426 roll=0.049
+[049] JOGADA Associação Athletica Internacional | Gio Occhetto x Canhoteiro line=3 duel=-12.45 corte=-1.30
+[050] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[050] SUB Modesto Football Club: saiu Bissau (CA) | entrou Rigoberto Cabral (SA) | subs=1/5
+[050] SUB Associação Athletica Internacional: saiu Gio Occhetto (CA) | entrou Elizeu Alagoano (CA) | subs=1/5
+[050] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.375 roll=0.883
+[051] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[051] SUB Associação Athletica Internacional: saiu Leo Basbaum (CA) | entrou Ítalinho (CA) | subs=2/5
+[051] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.378 roll=0.323
+[051] JOGADA Modesto Football Club | Canhoteiro x Didinho line=5 duel=11.11 corte=-1.55
+[051] FINAL Modesto Football Club | Rigoberto Cabral fam=1 duel=28.94 on_target=0.728 goal=0.270
+[051] FINAL Rigoberto Cabral: no alvo sem gol (roll=0.796)
+[052] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[052] SUB Associação Athletica Internacional: saiu Horácio Canhão (MA) | entrou Arythoreon (MA) | subs=3/5
+[052] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.366 roll=0.116
+[052] JOGADA Associação Athletica Internacional | Arythoreon x Canhoteiro line=3 duel=15.79 corte=-1.30
+[052] FINAL Associação Athletica Internacional | Elizeu Alagoano fam=5 duel=6.33 on_target=0.633 goal=0.173
+[052] FINAL Elizeu Alagoano: no alvo sem gol (roll=0.364)
+[053] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[053] SUB Modesto Football Club: saiu Marton Amaral (SA) | entrou Aldonço Canavieira (PD) | subs=2/5
+[053] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.366 roll=0.070
+[053] JOGADA Associação Athletica Internacional | Didinho x Aquil Gavião line=3 duel=4.32 corte=-1.30
+[053] FINAL Associação Athletica Internacional | Arythoreon fam=5 duel=-48.85 on_target=0.629 goal=0.145
+[053] FINAL Arythoreon: fora/alvo perdido (roll=0.929)
+[054] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[054] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.366 roll=0.291
+[054] JOGADA Associação Athletica Internacional | Berno Rossi x Tales Saldanha line=4 duel=8.04 corte=-1.30
+[054] FINAL Associação Athletica Internacional | Berno Rossi fam=5 duel=-71.54 on_target=0.626 goal=0.134
+[054] FINAL Berno Rossi: no alvo sem gol (roll=0.957)
+[055] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[055] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.366 roll=0.590
+[056] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[056] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.393 roll=0.971
+[057] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[057] SUB Associação Athletica Internacional: saiu Berno Rossi (ZAG) | entrou Fabrício Leão (ZAG) | subs=4/5
+[057] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.393 roll=0.952
+[058] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[058] SUB Modesto Football Club: saiu Conceição Malta (ZAG) | entrou Célio Dimas (ZAG) | subs=3/5
+[058] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.394 roll=0.989
+[059] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[059] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.394 roll=0.993
+[060] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[060] SUB Modesto Football Club: saiu Aquil Gavião (ZAG) | entrou Joscelino Santana (ZAG) | subs=4/5
+[060] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.399 roll=0.989
+[061] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[061] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.399 roll=0.985
+[062] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[062] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.399 roll=0.382
+[062] JOGADA Modesto Football Club | Canhoteiro x Fabrício Leão line=4 duel=-10.34 corte=-1.30
+[062] JOGADA falhou: Fabrício Leão cortou
+[063] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[063] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.399 roll=0.440
+[064] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[064] SUB Associação Athletica Internacional: saiu Christiano Cordeiro (AD) | entrou Otacílio Silveira (AD) | subs=5/5
+[064] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.411 roll=0.651
+[065] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[065] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.402 roll=0.064
+[065] JOGADA Associação Athletica Internacional | Otacílio Silveira x Joscelino Santana line=3 duel=5.10 corte=-1.30
+[065] FINAL Associação Athletica Internacional | Alceo Panicucci fam=5 duel=-50.65 on_target=0.661 goal=0.150
+[065] FINAL Alceo Panicucci: no alvo sem gol (roll=0.853)
+[066] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[066] SUB Modesto Football Club: saiu Cid Lamego (LD) | entrou Paranhos Pedrosa (LE) | subs=5/5
+[066] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.410 roll=0.967
+[067] posse=Associação Athletica Internacional | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[067] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.404 roll=0.294
+[067] JOGADA Associação Athletica Internacional | Alceo Panicucci x Primitivo Ramos line=3 duel=-3.99 corte=-1.30
+[067] JOGADA falhou: Primitivo Ramos cortou
+[068] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[068] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.410 roll=0.173
+[068] JOGADA Modesto Football Club | Primitivo Ramos x Elizeu Alagoano line=5 duel=48.21 corte=-1.55
+[068] FINAL Modesto Football Club | Rigoberto Cabral fam=1 duel=19.88 on_target=0.766 goal=0.273
+[068] FINAL Rigoberto Cabral: no alvo sem gol (roll=0.888)
+[069] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[069] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.410 roll=0.262
+[069] JOGADA Modesto Football Club | Joscelino Santana x Fabrício Leão line=4 duel=-9.28 corte=-1.30
+[070] posse=Modesto Football Club | placar Modesto Football Club 1 x 0 Associação Athletica Internacional
+[070] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.406 roll=0.394
+[070] JOGADA Modesto Football Club | Paranhos Pedrosa x Fabrício Leão line=5 duel=13.50 corte=-1.55
+[070] FINAL Modesto Football Club | Rigoberto Cabral fam=1 duel=31.61 on_target=0.755 goal=0.279
+[070] FINAL Rigoberto Cabral: GOL subtipo=CHUTE (roll=0.186)
+[071] posse=Associação Athletica Internacional | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[071] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.409 roll=0.698
+[072] posse=Associação Athletica Internacional | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[072] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.409 roll=0.001
+[072] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Canhoteiro line=3 duel=-10.96 corte=-1.30
+[073] posse=Associação Athletica Internacional | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[073] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.409 roll=0.569
+[074] posse=Modesto Football Club | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[074] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.402 roll=0.984
+[075] posse=Associação Athletica Internacional | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[075] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.409 roll=0.954
+[076] posse=Modesto Football Club | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[076] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.390 roll=0.377
+[076] JOGADA Modesto Football Club | Paranhos Pedrosa x Fabrício Leão line=3 duel=4.52 corte=-1.30
+[076] FINAL Modesto Football Club | Canhoteiro fam=1 duel=10.40 on_target=0.719 goal=0.249
+[076] FINAL Canhoteiro: fora/alvo perdido (roll=0.756)
+[077] posse=Modesto Football Club | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[077] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.390 roll=0.872
+[078] posse=Associação Athletica Internacional | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[078] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.441 roll=0.982
+[079] posse=Associação Athletica Internacional | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[079] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.441 roll=0.237
+[079] JOGADA Associação Athletica Internacional | Astrojildo x Tales Saldanha line=2 duel=15.85 corte=-1.30
+[079] JOGADA Associação Athletica Internacional | Elizeu Alagoano x Célio Dimas line=5 duel=55.35 corte=-2.05
+[079] FINAL Associação Athletica Internacional | Ítalinho fam=5 duel=-42.73 on_target=0.711 goal=0.163
+[079] FINAL Ítalinho: no alvo sem gol (roll=0.895)
+[080] posse=Associação Athletica Internacional | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[080] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.441 roll=0.879
+[081] posse=Modesto Football Club | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[081] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.390 roll=0.718
+[082] posse=Associação Athletica Internacional | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[082] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.441 roll=0.181
+[082] JOGADA Associação Athletica Internacional | Astrojildo x Célio Dimas line=3 duel=-14.24 corte=-1.30
+[082] JOGADA falhou: Célio Dimas cortou
+[083] posse=Modesto Football Club | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[083] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.390 roll=0.557
+[084] posse=Associação Athletica Internacional | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[084] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.441 roll=0.526
+[085] posse=Associação Athletica Internacional | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[085] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.511 roll=0.207
+[085] JOGADA Associação Athletica Internacional | Alceo Panicucci x Primitivo Ramos line=3 duel=-6.56 corte=-1.30
+[085] JOGADA falhou: Primitivo Ramos cortou
+[086] posse=Modesto Football Club | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[086] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.390 roll=0.334
+[086] JOGADA Modesto Football Club | Rigoberto Cabral x Fabrício Leão line=5 duel=60.51 corte=-2.05
+[086] FINAL Modesto Football Club | Canhoteiro fam=1 duel=4.10 on_target=0.719 goal=0.253
+[086] FINAL Canhoteiro: no alvo sem gol (roll=0.852)
+[087] posse=Associação Athletica Internacional | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[087] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.511 roll=0.516
+[088] posse=Modesto Football Club | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[088] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.390 roll=0.701
+[089] posse=Associação Athletica Internacional | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[089] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.511 roll=0.255
+[089] JOGADA Associação Athletica Internacional | Astrojildo x Aldonço Canavieira line=3 duel=3.96 corte=-1.30
+[089] JOGADA Associação Athletica Internacional | Astrojildo x Primitivo Ramos line=4 duel=-28.50 corte=-1.30
+[089] JOGADA falhou: Primitivo Ramos cortou
+[090] posse=Modesto Football Club | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[090] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.390 roll=0.640
+[091] posse=Associação Athletica Internacional | placar Modesto Football Club 2 x 0 Associação Athletica Internacional
+[091] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.511 roll=0.265
+[091] JOGADA Associação Athletica Internacional | Didinho x Rigoberto Cabral line=3 duel=13.52 corte=-1.30
+[091] JOGADA Associação Athletica Internacional | Otacílio Silveira x Mário Ricci line=5 duel=5.27 corte=-1.55
+[091] JOGADA Associação Athletica Internacional | Fabrício Leão x Célio Dimas line=5 duel=29.67 corte=-1.55
+[091] FINAL Associação Athletica Internacional | Elizeu Alagoano fam=1 duel=-6.53 on_target=0.920 goal=0.294
+[091] FINAL Elizeu Alagoano: GOL subtipo=CHUTE (roll=0.100)
+[092] posse=Modesto Football Club | placar Modesto Football Club 2 x 1 Associação Athletica Internacional
+[092] BUILD Modesto Football Club vs Associação Athletica Internacional prob=0.394 roll=0.348
+[092] JOGADA Modesto Football Club | Rigoberto Cabral x Otacílio Silveira line=4 duel=17.96 corte=-1.30
+[092] FINAL Modesto Football Club | Rigoberto Cabral fam=1 duel=17.47 on_target=0.739 goal=0.271
+[092] FINAL Rigoberto Cabral: GOL subtipo=CHUTE (roll=0.176)
+[093] posse=Associação Athletica Internacional | placar Modesto Football Club 3 x 1 Associação Athletica Internacional
+[093] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.511 roll=0.156
+[093] JOGADA Associação Athletica Internacional | Didinho x Rigoberto Cabral line=3 duel=15.03 corte=-1.30
+[093] FINAL Associação Athletica Internacional | Arythoreon fam=5 duel=-7.23 on_target=0.815 goal=0.187
+[093] FINAL Arythoreon: no alvo sem gol (roll=0.765)
+[094] posse=Associação Athletica Internacional | placar Modesto Football Club 3 x 1 Associação Athletica Internacional
+[094] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.511 roll=0.886
+[095] posse=Associação Athletica Internacional | placar Modesto Football Club 3 x 1 Associação Athletica Internacional
+[095] BUILD Associação Athletica Internacional vs Modesto Football Club prob=0.511 roll=0.889

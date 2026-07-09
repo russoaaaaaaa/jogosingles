@@ -1,0 +1,321 @@
+Partida #157
+Data: 1912-01-14
+Mandante: Columbia Skyline Football Club
+Visitante: Esporte Clube Carioca
+Placar: 2 x 3
+Seed: -
+Estádio: Estádio Comstock
+Clima: Chuva forte
+Placar tempo normal: 2 x 3
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Columbia Skyline Football Club x Esporte Clube Carioca | estádio=Estádio Comstock | clima=Chuva forte | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[001] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.331 roll=0.729
+[002] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[002] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.356 roll=0.249
+[002] JOGADA Columbia Skyline Football Club | Fruit Salad James x Clife Topete line=4 duel=14.83 corte=-1.13
+[002] JOGADA Columbia Skyline Football Club | Josh Battle x Wilfrid Aurmund line=4 duel=34.01 corte=-1.13
+[002] FINAL Columbia Skyline Football Club | Douglas Philson fam=1 duel=-10.93 on_target=0.672 goal=0.235
+[002] FINAL Douglas Philson: no alvo sem gol (roll=0.716)
+[003] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[003] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.356 roll=0.025
+[003] JOGADA Columbia Skyline Football Club | Awper x Filémon Matos line=2 duel=75.48 corte=-1.13
+[003] JOGADA Columbia Skyline Football Club | Ray Bonder x Wilfrid Aurmund line=4 duel=46.57 corte=-1.13
+[003] FINAL Columbia Skyline Football Club | Awper fam=1 duel=-3.04 on_target=0.667 goal=0.236
+[003] FINAL Awper: no alvo sem gol (roll=0.468)
+[004] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[004] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.331 roll=0.489
+[005] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[005] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.331 roll=0.347
+[006] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[006] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.356 roll=0.443
+[007] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[007] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.331 roll=0.411
+[008] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[008] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.331 roll=0.597
+[009] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[009] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.356 roll=0.634
+[009] FINAL Columbia Skyline Football Club | Fruit Salad James fam=5 duel=-87.74 on_target=0.564 goal=0.099
+[009] FINAL Fruit Salad James: no alvo sem gol (roll=0.900)
+[010] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[010] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.356 roll=0.298
+[010] JOGADA Columbia Skyline Football Club | Jack Wynand x Hemaxi Custódio line=3 duel=6.76 corte=-1.13
+[010] JOGADA Columbia Skyline Football Club | Douglas Philson x Clife Topete line=4 duel=-4.52 corte=-1.13
+[010] JOGADA falhou: Clife Topete cortou
+[011] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[011] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.385 roll=0.780
+[012] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[012] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.358 roll=0.488
+[013] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[013] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.385 roll=0.739
+[014] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[014] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.385 roll=0.166
+[014] JOGADA Columbia Skyline Football Club | Shutz Ethan Cuckley x Clife Topete line=2 duel=0.39 corte=-1.13
+[014] FINAL Columbia Skyline Football Club | Awper fam=3 duel=-17.38 on_target=0.652 goal=0.186
+[014] FINAL Awper: no alvo sem gol (roll=0.759)
+[015] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[015] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.358 roll=0.430
+[016] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[016] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.385 roll=0.194
+[016] JOGADA Columbia Skyline Football Club | Awper x Wilhem Foort line=2 duel=78.31 corte=-1.13
+[016] JOGADA Columbia Skyline Football Club | Jack Wynand x Filémon Matos line=5 duel=80.62 corte=-1.38
+[016] JOGADA Columbia Skyline Football Club | Jack Wynand x Oliver Lindström line=5 duel=4.07 corte=-1.38
+[016] FINAL Columbia Skyline Football Club | Awper fam=1 duel=-6.81 on_target=0.720 goal=0.250
+[016] FINAL Awper: no alvo sem gol (roll=0.747)
+[017] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[017] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.358 roll=0.138
+[017] JOGADA Esporte Clube Carioca | Filémon Matos x Awper line=3 duel=37.01 corte=-1.30
+[017] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=5 duel=-3.51 on_target=0.632 goal=0.165
+[017] FINAL Wilfrid Aurmund: no alvo sem gol (roll=0.353)
+[018] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[018] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.385 roll=0.423
+[019] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[019] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.358 roll=0.772
+[020] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[020] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.385 roll=0.135
+[020] JOGADA Columbia Skyline Football Club | Edward Gayville x Filémon Matos line=4 duel=3.98 corte=-1.13
+[020] JOGADA Columbia Skyline Football Club | Fruit Salad James x Alex Valente line=5 duel=93.30 corte=-1.38
+[020] JOGADA Columbia Skyline Football Club | Quagmire x Hugo Bergiund line=5 duel=20.66 corte=-1.38
+[020] FINAL Columbia Skyline Football Club | Louis Long fam=1 duel=-3.31 on_target=0.719 goal=0.251
+[020] FINAL Louis Long: fora/alvo perdido (roll=0.905)
+[021] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 0 x 0 Esporte Clube Carioca
+[021] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.414 roll=0.154
+[021] JOGADA Columbia Skyline Football Club | Ray Bonder x Getúlio Leitão line=3 duel=4.74 corte=-1.13
+[021] FINAL Columbia Skyline Football Club | Awper fam=1 duel=0.41 on_target=0.758 goal=0.261
+[021] FINAL Awper: GOL subtipo=CHUTE (roll=0.238)
+[022] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[022] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.438 roll=0.535
+[023] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[023] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.438 roll=0.969
+[024] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[024] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.414 roll=0.566
+[025] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[025] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.414 roll=0.947
+[026] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[026] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.438 roll=0.469
+[027] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[027] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.438 roll=0.784
+[028] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[028] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.414 roll=0.744
+[029] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[029] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.414 roll=0.116
+[029] JOGADA Columbia Skyline Football Club | Douglas Philson x Filémon Matos line=3 duel=4.98 corte=-1.30
+[029] JOGADA Columbia Skyline Football Club | Quagmire x Johan Lindström line=4 duel=-8.64 corte=-1.30
+[029] JOGADA falhou: Johan Lindström cortou
+[030] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[030] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.438 roll=0.624
+[031] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[031] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.414 roll=0.975
+[032] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[032] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.438 roll=0.219
+[032] JOGADA Esporte Clube Carioca | Hugo Bergiund x Fruit Salad James line=4 duel=-21.86 corte=-1.30
+[032] JOGADA falhou: Fruit Salad James cortou
+[033] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[033] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.438 roll=0.445
+[034] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[034] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.438 roll=0.004
+[034] JOGADA Esporte Clube Carioca | Johan Lindström x Edward Gayville line=3 duel=2.36 corte=-1.30
+[034] FINAL Esporte Clube Carioca | Johan Lindström fam=5 duel=-56.47 on_target=0.665 goal=0.146
+[034] FINAL Johan Lindström: no alvo sem gol (roll=0.867)
+[035] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[035] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.438 roll=0.912
+[036] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[036] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.438 roll=0.307
+[036] JOGADA Esporte Clube Carioca | Clife Topete x Fruit Salad James line=4 duel=1.51 corte=-1.30
+[036] FINAL Esporte Clube Carioca | Wilhem Foort fam=5 duel=-1.78 on_target=0.673 goal=0.176
+[036] FINAL Wilhem Foort: no alvo sem gol (roll=0.806)
+[037] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 0 Esporte Clube Carioca
+[037] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.438 roll=0.194
+[037] JOGADA Esporte Clube Carioca | Oliver Lindström x Josh Battle line=2 duel=57.69 corte=-1.30
+[037] FINAL Esporte Clube Carioca | Hugo Bergiund fam=5 duel=-7.30 on_target=0.674 goal=0.174
+[037] FINAL Hugo Bergiund: GOL subtipo=FALTA (roll=0.059)
+[038] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 1 Esporte Clube Carioca
+[038] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.414 roll=0.843
+[039] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 1 Esporte Clube Carioca
+[039] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.388 roll=0.271
+[039] JOGADA Esporte Clube Carioca | Hemaxi Custódio x Ray Bonder line=4 duel=-31.55 corte=-1.30
+[039] JOGADA falhou: Ray Bonder cortou
+[040] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 1 Esporte Clube Carioca
+[040] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.414 roll=0.309
+[040] JOGADA Columbia Skyline Football Club | Louis Long x Getúlio Leitão line=3 duel=-8.39 corte=-1.13
+[040] JOGADA falhou: Getúlio Leitão cortou
+[041] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 1 Esporte Clube Carioca
+[041] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.388 roll=0.348
+[041] JOGADA Esporte Clube Carioca | Filémon Matos x Douglas Philson line=3 duel=32.40 corte=-1.30
+[041] FINAL Esporte Clube Carioca | Hemaxi Custódio fam=5 duel=-21.72 on_target=0.667 goal=0.163
+[041] FINAL Hemaxi Custódio: no alvo sem gol (roll=0.725)
+[042] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 1 Esporte Clube Carioca
+[042] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.388 roll=0.472
+[043] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 1 Esporte Clube Carioca
+[043] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.388 roll=0.494
+[044] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 1 Esporte Clube Carioca
+[044] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.388 roll=0.763
+[045] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 1 Esporte Clube Carioca
+[045] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.388 roll=0.251
+[045] JOGADA Esporte Clube Carioca | Clife Topete x Ray Bonder line=2 duel=46.28 corte=-1.30
+[045] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=5 duel=-59.75 on_target=0.662 goal=0.142
+[045] FINAL Wilfrid Aurmund: fora/alvo perdido (roll=0.774)
+[046] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 1 Esporte Clube Carioca
+[046] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.361 roll=0.250
+[046] JOGADA Esporte Clube Carioca | Wilfrid Aurmund x Shutz Ethan Cuckley line=3 duel=10.41 corte=-1.30
+[046] FINAL Esporte Clube Carioca | Johan Lindström fam=5 duel=8.53 on_target=0.634 goal=0.172
+[046] FINAL Johan Lindström: GOL subtipo=FALTA (roll=0.030)
+[047] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[047] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.463 roll=0.738
+[048] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[048] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.463 roll=0.254
+[048] JOGADA Columbia Skyline Football Club | Shutz Ethan Cuckley x Alex Valente line=4 duel=12.26 corte=-1.13
+[048] JOGADA Columbia Skyline Football Club | Quagmire x Hugo Bergiund line=4 duel=18.48 corte=-1.13
+[048] FINAL Columbia Skyline Football Club | Ray Bonder fam=1 duel=15.67 on_target=0.723 goal=0.262
+[048] FINAL Ray Bonder: fora/alvo perdido (roll=0.853)
+[049] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[049] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.361 roll=0.020
+[049] JOGADA Esporte Clube Carioca | Oliver Lindström x Quagmire line=4 duel=-9.32 corte=-1.30
+[050] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[050] SUB Columbia Skyline Football Club: saiu Awper (PE) | entrou Pedrão (PD) | subs=1/5
+[050] SUB Esporte Clube Carioca: saiu Wilfrid Aurmund (SA) | entrou Nils Nil (SA) | subs=1/5
+[050] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.359 roll=0.704
+[051] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[051] SUB Esporte Clube Carioca: saiu Hugo Bergiund (CA) | entrou João Oliveira (CA) | subs=2/5
+[051] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.455 roll=0.941
+[052] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[052] SUB Columbia Skyline Football Club: saiu Quagmire (ZAG) | entrou Valdemir Clemente (ZAG) | subs=2/5
+[052] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.356 roll=0.264
+[052] JOGADA Esporte Clube Carioca | Oliver Lindström x Douglas Philson line=4 duel=25.67 corte=-1.30
+[052] FINAL Esporte Clube Carioca | Clife Topete fam=5 duel=11.62 on_target=0.637 goal=0.175
+[052] FINAL Clife Topete: no alvo sem gol (roll=0.709)
+[053] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[053] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.458 roll=0.701
+[054] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[054] SUB Esporte Clube Carioca: saiu Wilhem Foort (MC) | entrou Erik Holmberg (MC) | subs=3/5
+[054] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.458 roll=0.574
+[055] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[055] SUB Columbia Skyline Football Club: saiu Douglas Philson (MC) | entrou Leon First Bush (VOL) | subs=3/5
+[055] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.457 roll=0.499
+[056] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[056] SUB Columbia Skyline Football Club: saiu Shutz Ethan Cuckley (ME) | entrou Owen Barkfield (ME) | subs=4/5
+[056] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.394 roll=0.513
+[057] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[057] SUB Columbia Skyline Football Club: saiu Josh Battle (VOL) | entrou T Guy (VOL) | subs=5/5
+[057] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.538 roll=0.233
+[057] JOGADA Columbia Skyline Football Club | Louis Long x João Oliveira line=3 duel=19.57 corte=-1.70
+[057] JOGADA Columbia Skyline Football Club | Leon First Bush x Hemaxi Custódio line=4 duel=-43.29 corte=-1.70
+[057] JOGADA falhou: Hemaxi Custódio cortou
+[058] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[058] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.538 roll=0.493
+[058] JOGADA Columbia Skyline Football Club | Valdemir Clemente x Alex Valente line=2 duel=20.80 corte=-1.70
+[058] JOGADA Columbia Skyline Football Club | Jack Wynand x Oliver Lindström line=3 duel=-1.57 corte=-1.70
+[058] JOGADA Columbia Skyline Football Club | Fruit Salad James x Johan Lindström line=4 duel=6.79 corte=-1.70
+[059] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[059] SUB Esporte Clube Carioca: saiu Alex Valente (LE) | entrou Isidoro Varela (AE) | subs=4/5
+[059] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.354 roll=0.818
+[060] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[060] SUB Esporte Clube Carioca: saiu Hemaxi Custódio (ZAG) | entrou Aristóteles Coelho (ZAG) | subs=5/5
+[060] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.356 roll=0.498
+[061] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[061] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.356 roll=0.132
+[061] JOGADA Esporte Clube Carioca | Nils Nil x Jack Wynand line=2 duel=6.31 corte=-1.30
+[061] FINAL Esporte Clube Carioca | João Oliveira fam=1 duel=22.13 on_target=0.769 goal=0.282
+[061] FINAL João Oliveira: no alvo sem gol (roll=0.390)
+[062] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[062] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.356 roll=0.852
+[063] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[063] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.356 roll=0.054
+[063] JOGADA Esporte Clube Carioca | Clife Topete x Louis Long line=4 duel=-9.34 corte=-1.30
+[063] JOGADA falhou: Louis Long cortou
+[064] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[064] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.356 roll=0.887
+[065] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[065] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.547 roll=0.861
+[066] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 2 Esporte Clube Carioca
+[066] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.356 roll=0.053
+[066] JOGADA Esporte Clube Carioca | Nils Nil x Edward Gayville line=2 duel=7.88 corte=-1.30
+[066] FINAL Esporte Clube Carioca | João Oliveira fam=1 duel=18.56 on_target=0.769 goal=0.280
+[066] FINAL João Oliveira: GOL subtipo=CHUTE (roll=0.035)
+[067] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[067] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.551 roll=0.845
+[068] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[068] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.551 roll=0.608
+[069] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[069] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.551 roll=0.756
+[070] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[070] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.350 roll=0.402
+[071] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[071] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.551 roll=0.885
+[072] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[072] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.551 roll=0.550
+[072] JOGADA Columbia Skyline Football Club | Ray Bonder x Filémon Matos line=2 duel=80.21 corte=-1.70
+[072] JOGADA Columbia Skyline Football Club | Valdemir Clemente x Nils Nil line=4 duel=29.47 corte=-1.70
+[072] JOGADA Columbia Skyline Football Club | Leon First Bush x Oliver Lindström line=5 duel=61.92 corte=-1.95
+[072] FINAL Columbia Skyline Football Club | Edward Gayville fam=5 duel=15.64 on_target=0.663 goal=0.181
+[072] FINAL Edward Gayville: no alvo sem gol (roll=0.992)
+[073] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[073] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.551 roll=0.708
+[073] FINAL Columbia Skyline Football Club | Valdemir Clemente fam=5 duel=-7.57 on_target=0.665 goal=0.171
+[073] FINAL Valdemir Clemente: fora/alvo perdido (roll=0.893)
+[074] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[074] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.350 roll=0.443
+[075] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[075] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.350 roll=0.842
+[076] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[076] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.580 roll=0.041
+[076] JOGADA Columbia Skyline Football Club | Leon First Bush x Erik Holmberg line=3 duel=46.59 corte=-1.70
+[076] JOGADA Columbia Skyline Football Club | Jack Wynand x Filémon Matos line=4 duel=-3.94 corte=-1.70
+[077] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[077] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.580 roll=0.867
+[078] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[078] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.339 roll=0.611
+[079] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[079] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.580 roll=0.766
+[080] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[080] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.339 roll=0.792
+[081] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 1 x 3 Esporte Clube Carioca
+[081] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.580 roll=0.322
+[081] JOGADA Columbia Skyline Football Club | T Guy x Aristóteles Coelho line=4 duel=13.07 corte=-1.70
+[081] FINAL Columbia Skyline Football Club | Leon First Bush fam=5 duel=-37.62 on_target=0.710 goal=0.164
+[081] FINAL Leon First Bush: GOL subtipo=FALTA (roll=0.011)
+[082] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 2 x 3 Esporte Clube Carioca
+[082] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.580 roll=0.838
+[083] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 2 x 3 Esporte Clube Carioca
+[083] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.580 roll=0.337
+[083] JOGADA Columbia Skyline Football Club | Pedrão x Clife Topete line=2 duel=-6.27 corte=-1.70
+[084] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 2 x 3 Esporte Clube Carioca
+[084] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.342 roll=0.918
+[085] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 2 x 3 Esporte Clube Carioca
+[085] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.342 roll=0.833
+[086] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 2 x 3 Esporte Clube Carioca
+[086] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.342 roll=0.621
+[087] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 2 x 3 Esporte Clube Carioca
+[087] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.580 roll=0.994
+[088] posse=Esporte Clube Carioca | placar Columbia Skyline Football Club 2 x 3 Esporte Clube Carioca
+[088] BUILD Esporte Clube Carioca vs Columbia Skyline Football Club prob=0.342 roll=0.048
+[088] JOGADA Esporte Clube Carioca | Oliver Lindström x Owen Barkfield line=3 duel=5.43 corte=-1.30
+[088] FINAL Esporte Clube Carioca | João Oliveira fam=1 duel=0.68 on_target=0.741 goal=0.270
+[088] FINAL João Oliveira: no alvo sem gol (roll=0.596)
+[089] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 2 x 3 Esporte Clube Carioca
+[089] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.580 roll=0.014
+[089] JOGADA Columbia Skyline Football Club | T Guy x Getúlio Leitão line=4 duel=-5.64 corte=-1.70
+[089] JOGADA falhou: Getúlio Leitão cortou
+[090] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 2 x 3 Esporte Clube Carioca
+[090] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.580 roll=0.643
+[091] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 2 x 3 Esporte Clube Carioca
+[091] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.580 roll=0.084
+[091] JOGADA Columbia Skyline Football Club | Fruit Salad James x Johan Lindström line=2 duel=88.24 corte=-1.70
+[091] FINAL Columbia Skyline Football Club | Edward Gayville fam=5 duel=8.31 on_target=0.810 goal=0.191
+[091] FINAL Edward Gayville: no alvo sem gol (roll=0.972)
+[092] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 2 x 3 Esporte Clube Carioca
+[092] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.580 roll=0.541
+[092] JOGADA Columbia Skyline Football Club | Louis Long x Isidoro Varela line=2 duel=19.23 corte=-1.70
+[092] JOGADA Columbia Skyline Football Club | Edward Gayville x Johan Lindström line=3 duel=1.00 corte=-1.70
+[092] JOGADA Columbia Skyline Football Club | Leon First Bush x Nils Nil line=4 duel=28.13 corte=-1.70
+[092] FINAL Columbia Skyline Football Club | Edward Gayville fam=5 duel=8.31 on_target=0.810 goal=0.191
+[092] FINAL Edward Gayville: fora/alvo perdido (roll=0.990)
+[093] posse=Columbia Skyline Football Club | placar Columbia Skyline Football Club 2 x 3 Esporte Clube Carioca
+[093] BUILD Columbia Skyline Football Club vs Esporte Clube Carioca prob=0.580 roll=0.192
+[093] JOGADA Columbia Skyline Football Club | Edward Gayville x Johan Lindström line=3 duel=13.00 corte=-1.70
+[093] FINAL Columbia Skyline Football Club | Ray Bonder fam=5 duel=3.77 on_target=0.810 goal=0.188
+[093] FINAL Ray Bonder: no alvo sem gol (roll=0.952)

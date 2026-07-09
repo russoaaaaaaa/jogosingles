@@ -1,0 +1,328 @@
+Partida #249
+Data: 1912-01-27
+Mandante: Andarahy Atlético Clube
+Visitante: Clube Fluminense de Futebol Odisséia
+Placar: 2 x 2
+Seed: -
+Estádio: Arena Andarahy
+Clima: Chuva leve
+Placar tempo normal: 2 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Andarahy Atlético Clube x Clube Fluminense de Futebol Odisséia | estádio=Arena Andarahy | clima=Chuva leve | seed=- | perfil=normal | pressão=Oitavas · peso 9/10
+[001] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 0 x 0 Clube Fluminense de Futebol Odisséia
+[001] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.401 roll=0.093
+[001] JOGADA Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas x Heitor Barbosa line=5 duel=29.06 corte=-1.84
+[001] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=1 duel=16.31 on_target=0.605 goal=0.227
+[001] FINAL Eustáquio Miranda: fora/alvo perdido (roll=0.611)
+[002] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Clube Fluminense de Futebol Odisséia
+[002] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.361 roll=0.946
+[002] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=-1.99 on_target=0.534 goal=0.148
+[002] FINAL Ptolomeu Garcia: GOL subtipo=FALTA (roll=0.135)
+[003] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 0 Clube Fluminense de Futebol Odisséia
+[003] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.393 roll=0.158
+[003] JOGADA Andarahy Atlético Clube | Vizeu Júnior x Marcel Ganem line=4 duel=97.53 corte=-1.70
+[003] FINAL Andarahy Atlético Clube | Heitor Barbosa fam=5 duel=-33.41 on_target=0.524 goal=0.132
+[003] FINAL Heitor Barbosa: fora/alvo perdido (roll=0.975)
+[004] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 0 Clube Fluminense de Futebol Odisséia
+[004] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.393 roll=0.435
+[005] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 0 Clube Fluminense de Futebol Odisséia
+[005] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.393 roll=0.329
+[005] JOGADA Andarahy Atlético Clube | Vevé x Eustáquio Miranda line=5 duel=77.40 corte=-2.45
+[005] FINAL Andarahy Atlético Clube | Vizeu Júnior fam=5 duel=-15.79 on_target=0.529 goal=0.141
+[005] FINAL Vizeu Júnior: fora/alvo perdido (roll=0.897)
+[006] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 0 Clube Fluminense de Futebol Odisséia
+[006] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.481 roll=0.485
+[007] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 0 Clube Fluminense de Futebol Odisséia
+[007] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.481 roll=0.954
+[008] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 0 Clube Fluminense de Futebol Odisséia
+[008] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.393 roll=0.450
+[009] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 0 Clube Fluminense de Futebol Odisséia
+[009] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.393 roll=0.622
+[010] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 0 Clube Fluminense de Futebol Odisséia
+[010] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.481 roll=0.927
+[011] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 0 Clube Fluminense de Futebol Odisséia
+[011] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.426 roll=0.503
+[012] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 0 Clube Fluminense de Futebol Odisséia
+[012] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.520 roll=0.274
+[012] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Ptolomeu Garcia line=3 duel=18.52 corte=-1.07
+[012] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=14.55 on_target=0.655 goal=0.241
+[012] FINAL Tomás Soares Ziza: GOL subtipo=CHUTE (roll=0.104)
+[013] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[013] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.391 roll=0.802
+[014] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[014] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.391 roll=0.569
+[015] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[015] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.433 roll=0.986
+[016] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[016] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.433 roll=0.199
+[016] JOGADA Clube Fluminense de Futebol Odisséia | Hildebrando Guardado x Juan Ferraresi line=5 duel=80.81 corte=-1.84
+[016] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=11.21 on_target=0.658 goal=0.242
+[016] FINAL Hildebrando Guardado: fora/alvo perdido (roll=0.692)
+[017] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[017] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.391 roll=0.625
+[018] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[018] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.391 roll=0.315
+[018] JOGADA Andarahy Atlético Clube | Maurílio Barros x Eustáquio Miranda line=4 duel=2.41 corte=-1.70
+[018] FINAL Andarahy Atlético Clube | Vizeu Júnior fam=5 duel=-89.54 on_target=0.567 goal=0.117
+[018] FINAL Vizeu Júnior: no alvo sem gol (roll=0.854)
+[019] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[019] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.391 roll=0.418
+[020] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[020] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.433 roll=0.390
+[020] JOGADA Clube Fluminense de Futebol Odisséia | Armando de Almeida x Vevé line=3 duel=51.18 corte=-1.09
+[020] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=14.95 on_target=0.662 goal=0.245
+[020] FINAL Teobaldo Mascarenhas: fora/alvo perdido (roll=0.805)
+[021] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[021] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.466 roll=0.922
+[022] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[022] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.466 roll=0.015
+[022] JOGADA Clube Fluminense de Futebol Odisséia | Armando de Almeida x Maurílio Barros line=5 duel=17.75 corte=-1.34
+[022] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=17.30 on_target=0.697 goal=0.254
+[022] FINAL Teobaldo Mascarenhas: fora/alvo perdido (roll=0.797)
+[023] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[023] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.466 roll=0.326
+[023] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Maurílio Barros line=4 duel=7.91 corte=-1.09
+[023] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=18.00 on_target=0.697 goal=0.254
+[023] FINAL Teobaldo Mascarenhas: fora/alvo perdido (roll=0.962)
+[024] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[024] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.420 roll=0.929
+[025] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[025] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.420 roll=0.911
+[026] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[026] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.466 roll=0.741
+[027] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[027] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.420 roll=0.323
+[027] JOGADA Andarahy Atlético Clube | Osvaldo Daimi x Armando de Almeida line=5 duel=57.91 corte=-1.95
+[027] FINAL Andarahy Atlético Clube | Erasmo do Carmo fam=5 duel=-91.38 on_target=0.596 goal=0.119
+[027] FINAL Erasmo do Carmo: no alvo sem gol (roll=0.562)
+[028] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[028] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.466 roll=0.275
+[028] JOGADA Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas x Vizeu Júnior line=5 duel=53.13 corte=-1.84
+[028] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=18.66 on_target=0.697 goal=0.255
+[028] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.581)
+[029] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[029] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.420 roll=0.973
+[030] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[030] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.420 roll=0.937
+[031] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[031] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.420 roll=0.149
+[031] JOGADA Andarahy Atlético Clube | Cláudio Maciel Fonseca x Hildebrando Guardado line=5 duel=24.18 corte=-1.95
+[031] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=-74.13 on_target=0.602 goal=0.129
+[031] FINAL Ptolomeu Garcia: no alvo sem gol (roll=0.783)
+[032] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[032] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.422 roll=0.034
+[032] JOGADA Andarahy Atlético Clube | Heitor Barbosa x Adhemar Meira line=5 duel=-32.46 corte=-1.95
+[032] JOGADA falhou: Adhemar Meira cortou
+[033] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[033] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.422 roll=0.996
+[034] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[034] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.466 roll=0.917
+[035] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[035] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.466 roll=0.085
+[035] JOGADA Clube Fluminense de Futebol Odisséia | Eustáquio Miranda x Erasmo do Carmo line=5 duel=23.32 corte=-1.84
+[035] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=3 duel=10.75 on_target=0.624 goal=0.191
+[035] FINAL Eustáquio Miranda: no alvo sem gol (roll=0.796)
+[036] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[036] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.422 roll=0.552
+[037] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[037] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.422 roll=0.874
+[038] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[038] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.422 roll=0.470
+[039] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[039] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.466 roll=0.358
+[039] JOGADA Clube Fluminense de Futebol Odisséia | Hildebrando Guardado x Vevé line=5 duel=83.40 corte=-1.84
+[039] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=17.04 on_target=0.697 goal=0.254
+[039] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.927)
+[040] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[040] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.422 roll=0.833
+[041] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[041] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.422 roll=0.220
+[041] JOGADA Andarahy Atlético Clube | Vizeu Júnior x Hildebrando Guardado line=5 duel=17.39 corte=-2.45
+[041] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=2.89 on_target=0.607 goal=0.166
+[041] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.824)
+[042] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[042] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.466 roll=0.108
+[042] JOGADA Clube Fluminense de Futebol Odisséia | Armando de Almeida x Maurílio Barros line=4 duel=80.87 corte=-1.09
+[042] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=22.81 on_target=0.690 goal=0.253
+[042] FINAL Tomás Soares Ziza: no alvo sem gol (roll=0.656)
+[043] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[043] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.466 roll=0.311
+[043] JOGADA Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas x Heitor Barbosa line=5 duel=30.65 corte=-1.84
+[043] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=1 duel=20.16 on_target=0.688 goal=0.251
+[043] FINAL Eustáquio Miranda: fora/alvo perdido (roll=0.825)
+[044] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[044] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.466 roll=0.821
+[045] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[045] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.422 roll=0.798
+[046] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[046] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.433 roll=0.146
+[046] JOGADA Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas x Osvaldo Daimi line=5 duel=4.20 corte=-1.84
+[046] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=-2.80 on_target=0.657 goal=0.235
+[046] FINAL Hildebrando Guardado: no alvo sem gol (roll=0.346)
+[047] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[047] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.433 roll=0.609
+[048] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[048] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.433 roll=0.735
+[049] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[049] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.433 roll=0.405
+[049] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Osvaldo Daimi line=5 duel=13.01 corte=-1.34
+[049] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=17.90 on_target=0.662 goal=0.247
+[049] FINAL Teobaldo Mascarenhas: fora/alvo perdido (roll=0.947)
+[050] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[050] SUB Andarahy Atlético Clube: saiu Vevé (MA) | entrou Roberto Paiva Gomes (MC) | subs=1/5
+[050] SUB Clube Fluminense de Futebol Odisséia: saiu Hildebrando Guardado (CA) | entrou Walfrid Hoff (CA) | subs=1/5
+[050] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.431 roll=0.618
+[051] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[051] SUB Andarahy Atlético Clube: saiu Vizeu Júnior (CA) | entrou Fabiano Maldonado (CA) | subs=2/5
+[051] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.381 roll=0.501
+[052] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[052] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.433 roll=0.283
+[052] JOGADA Clube Fluminense de Futebol Odisséia | Armando de Almeida x Erasmo do Carmo line=5 duel=83.05 corte=-1.33
+[052] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=17.88 on_target=0.662 goal=0.247
+[052] FINAL Teobaldo Mascarenhas: fora/alvo perdido (roll=0.681)
+[053] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[053] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.433 roll=0.507
+[054] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[054] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.433 roll=0.377
+[054] JOGADA Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza x Osvaldo Daimi line=5 duel=82.40 corte=-1.83
+[054] FINAL Clube Fluminense de Futebol Odisséia | Armando de Almeida fam=3 duel=2.21 on_target=0.595 goal=0.182
+[054] FINAL Armando de Almeida: fora/alvo perdido (roll=0.834)
+[055] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[055] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.433 roll=0.448
+[056] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[056] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.409 roll=0.885
+[057] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[057] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.409 roll=0.236
+[057] JOGADA Andarahy Atlético Clube | Osvaldo Daimi x Adhemar Meira line=4 duel=24.48 corte=-1.70
+[057] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=4.66 on_target=0.608 goal=0.167
+[057] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.695)
+[058] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[058] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.409 roll=0.520
+[059] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[059] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.409 roll=0.528
+[060] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 1 Clube Fluminense de Futebol Odisséia
+[060] SUB Clube Fluminense de Futebol Odisséia: saiu Adhemar Meira (ZAG) | entrou Áquiles Nascimento (ZAG) | subs=2/5
+[060] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.416 roll=0.224
+[060] JOGADA Andarahy Atlético Clube | Fabiano Maldonado x Tomás Soares Ziza line=5 duel=-0.39 corte=-2.45
+[060] FINAL Andarahy Atlético Clube | Fabiano Maldonado fam=5 duel=-2.93 on_target=0.597 goal=0.160
+[060] FINAL Fabiano Maldonado: GOL subtipo=FALTA (roll=0.039)
+[061] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 1 Clube Fluminense de Futebol Odisséia
+[061] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.453 roll=0.197
+[061] JOGADA Andarahy Atlético Clube | Heitor Barbosa x Teobaldo Mascarenhas line=4 duel=-16.41 corte=-1.70
+[062] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 1 Clube Fluminense de Futebol Odisséia
+[062] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.529 roll=0.789
+[063] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 1 Clube Fluminense de Futebol Odisséia
+[063] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.529 roll=0.595
+[064] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 1 Clube Fluminense de Futebol Odisséia
+[064] SUB Clube Fluminense de Futebol Odisséia: saiu Armando de Almeida (MC) | entrou Dmitri Frank (MC) | subs=3/5
+[064] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.529 roll=0.138
+[064] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Heitor Barbosa line=3 duel=18.62 corte=-1.06
+[064] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=27.88 on_target=0.687 goal=0.254
+[064] FINAL Walfrid Hoff: no alvo sem gol (roll=0.868)
+[065] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 1 Clube Fluminense de Futebol Odisséia
+[065] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.529 roll=0.065
+[065] JOGADA Clube Fluminense de Futebol Odisséia | Eduardo Batista x Maurílio Barros line=4 duel=56.80 corte=-1.06
+[065] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=25.82 on_target=0.687 goal=0.253
+[065] FINAL Walfrid Hoff: GOL subtipo=CHUTE (roll=0.226)
+[066] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[066] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.436 roll=0.147
+[066] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Heitor Barbosa line=3 duel=35.98 corte=-1.08
+[066] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=27.29 on_target=0.687 goal=0.253
+[066] FINAL Walfrid Hoff: no alvo sem gol (roll=0.441)
+[067] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[067] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.436 roll=0.670
+[068] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[068] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.419 roll=0.301
+[068] JOGADA Andarahy Atlético Clube | Juan Ferraresi x Dmitri Frank line=3 duel=-37.90 corte=-1.70
+[068] JOGADA falhou: Dmitri Frank cortou
+[069] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[069] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.436 roll=0.915
+[070] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[070] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.419 roll=0.607
+[071] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[071] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.419 roll=0.276
+[071] JOGADA Andarahy Atlético Clube | Heitor Barbosa x Walfrid Hoff line=5 duel=0.57 corte=-1.95
+[071] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=-48.39 on_target=0.606 goal=0.144
+[071] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.721)
+[072] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[072] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.419 roll=0.466
+[073] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[073] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.436 roll=0.635
+[074] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[074] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.436 roll=0.527
+[075] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[075] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.436 roll=0.870
+[076] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[076] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.432 roll=0.168
+[076] JOGADA Andarahy Atlético Clube | Juan Ferraresi x Eustáquio Miranda line=3 duel=-16.49 corte=-1.70
+[077] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[077] SUB Clube Fluminense de Futebol Odisséia: saiu Teobaldo Mascarenhas (SA) | entrou Renato Lugon (SA) | subs=4/5
+[077] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.443 roll=0.322
+[077] JOGADA Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza x Roberto Paiva Gomes line=5 duel=12.53 corte=-1.79
+[077] FINAL Clube Fluminense de Futebol Odisséia | Renato Lugon fam=3 duel=8.40 on_target=0.631 goal=0.189
+[077] FINAL Renato Lugon: no alvo sem gol (roll=0.389)
+[078] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[078] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.443 roll=0.832
+[079] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[079] SUB Clube Fluminense de Futebol Odisséia: saiu Bremer Klotzbücher Nunes (ZAG) | entrou Ricardo Galeano (ZAG) | subs=5/5
+[079] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.442 roll=0.855
+[080] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[080] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.435 roll=0.421
+[080] JOGADA Andarahy Atlético Clube | Heitor Barbosa x Eduardo Batista line=5 duel=13.67 corte=-1.95
+[080] FINAL Andarahy Atlético Clube | Erasmo do Carmo fam=5 duel=-12.18 on_target=0.614 goal=0.160
+[080] FINAL Erasmo do Carmo: no alvo sem gol (roll=0.280)
+[081] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[081] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.435 roll=0.630
+[082] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[082] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.442 roll=0.557
+[083] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[083] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.435 roll=0.746
+[084] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[084] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.442 roll=0.102
+[084] JOGADA Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza x Maurílio Barros line=4 duel=66.94 corte=-1.04
+[084] FINAL Clube Fluminense de Futebol Odisséia | Dmitri Frank fam=3 duel=-2.47 on_target=0.633 goal=0.185
+[084] FINAL Dmitri Frank: fora/alvo perdido (roll=0.748)
+[085] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[085] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.464 roll=0.892
+[086] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[086] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.464 roll=0.014
+[086] JOGADA Andarahy Atlético Clube | Maurílio Barros x Eduardo Batista line=4 duel=-2.43 corte=-1.70
+[086] JOGADA falhou: Eduardo Batista cortou
+[087] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[087] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.472 roll=0.203
+[087] JOGADA Clube Fluminense de Futebol Odisséia | Áquiles Nascimento x Osvaldo Daimi line=5 duel=47.70 corte=-1.29
+[087] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=9.27 on_target=0.753 goal=0.248
+[087] FINAL Walfrid Hoff: fora/alvo perdido (roll=0.813)
+[088] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[088] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.464 roll=0.799
+[089] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[089] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.464 roll=0.563
+[090] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[090] BUILD Andarahy Atlético Clube vs Clube Fluminense de Futebol Odisséia prob=0.464 roll=0.877
+[091] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[091] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.472 roll=0.652
+[092] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[092] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.472 roll=0.824
+[093] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[093] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.472 roll=0.757
+[094] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[094] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.472 roll=0.414
+[094] JOGADA Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza x Cláudio Maciel Fonseca line=3 duel=13.63 corte=-1.04
+[094] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=3 duel=-17.06 on_target=0.683 goal=0.180
+[094] FINAL Eustáquio Miranda: fora/alvo perdido (roll=0.780)
+[095] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[095] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.472 roll=0.988
+[096] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[096] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.472 roll=0.044
+[096] JOGADA Clube Fluminense de Futebol Odisséia | Renato Lugon x Cláudio Maciel Fonseca line=5 duel=33.39 corte=-1.79
+[096] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=8.52 on_target=0.753 goal=0.247
+[096] FINAL Walfrid Hoff: no alvo sem gol (roll=0.758)
+[097] posse=Clube Fluminense de Futebol Odisséia | placar Andarahy Atlético Clube 2 x 2 Clube Fluminense de Futebol Odisséia
+[097] BUILD Clube Fluminense de Futebol Odisséia vs Andarahy Atlético Clube prob=0.472 roll=0.071
+[097] JOGADA Clube Fluminense de Futebol Odisséia | Áquiles Nascimento x Roberto Paiva Gomes line=3 duel=2.42 corte=-1.04
+[097] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=1 duel=12.08 on_target=0.755 goal=0.250
+[097] FINAL Eustáquio Miranda: fora/alvo perdido (roll=0.838)

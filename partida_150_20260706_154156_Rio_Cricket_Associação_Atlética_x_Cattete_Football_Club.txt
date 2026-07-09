@@ -1,0 +1,306 @@
+Partida #150
+Data: 1912-01-14
+Mandante: Rio Cricket Associação Atlética
+Visitante: Cattete Football Club
+Placar: 2 x 1
+Seed: -
+Estádio: Arena Icaraí
+Clima: Chuva forte
+Placar tempo normal: 2 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Rio Cricket Associação Atlética x Cattete Football Club | estádio=Arena Icaraí | clima=Chuva forte | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[001] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.349 roll=0.232
+[001] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Teodemiro Leão line=3 duel=43.37 corte=-1.70
+[001] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Ubiraci Schneider line=4 duel=8.70 corte=-1.70
+[001] JOGADA Rio Cricket Associação Atlética | Luke Kennard x Ubiraci Schneider line=5 duel=98.10 corte=-2.45
+[001] FINAL Rio Cricket Associação Atlética | Enrico Pucci fam=5 duel=21.95 on_target=0.477 goal=0.139
+[001] FINAL Enrico Pucci: no alvo sem gol (roll=0.217)
+[002] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[002] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.349 roll=0.564
+[003] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[003] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.268 roll=0.775
+[004] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[004] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.268 roll=0.723
+[005] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[005] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.349 roll=0.603
+[006] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[006] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.268 roll=0.214
+[006] JOGADA Cattete Football Club | Cândido Baptista x Zagueiro Atacante da Silva line=3 duel=-2.41 corte=-1.12
+[006] JOGADA falhou: Zagueiro Atacante da Silva cortou
+[007] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[007] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.349 roll=0.750
+[008] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[008] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.349 roll=0.933
+[009] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[009] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.268 roll=0.888
+[010] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[010] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.349 roll=0.847
+[011] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[011] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.377 roll=0.758
+[012] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[012] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.377 roll=0.517
+[013] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[013] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.377 roll=0.836
+[014] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[014] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.289 roll=0.196
+[014] JOGADA Cattete Football Club | Acácio Casagrande x Enrico Pucci line=3 duel=16.37 corte=-1.12
+[014] FINAL Cattete Football Club | Cananéia Padilha fam=1 duel=-1.27 on_target=0.596 goal=0.219
+[014] FINAL Cananéia Padilha: no alvo sem gol (roll=0.991)
+[015] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[015] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.289 roll=0.728
+[016] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[016] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.377 roll=0.018
+[016] JOGADA Rio Cricket Associação Atlética | Zagueiro Atacante da Silva x Acácio Casagrande line=3 duel=-18.55 corte=-1.70
+[016] JOGADA falhou: Acácio Casagrande cortou
+[017] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[017] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.289 roll=0.429
+[018] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[018] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.377 roll=0.042
+[018] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Jetro Seixas line=3 duel=-26.29 corte=-1.70
+[018] JOGADA falhou: Jetro Seixas cortou
+[019] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[019] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.377 roll=0.542
+[020] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[020] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.289 roll=0.115
+[020] JOGADA Cattete Football Club | Cananéia Padilha x Wilson Perry line=3 duel=8.30 corte=-1.12
+[020] FINAL Cattete Football Club | Héber Galvão fam=3 duel=5.27 on_target=0.550 goal=0.175
+[020] FINAL Héber Galvão: no alvo sem gol (roll=0.949)
+[021] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[021] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.406 roll=0.417
+[022] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[022] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.179
+[022] JOGADA Cattete Football Club | Ubiraci Schneider x Murilo Oliveira line=3 duel=-3.80 corte=-1.12
+[022] JOGADA falhou: Murilo Oliveira cortou
+[023] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[023] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.923
+[024] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[024] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.236
+[024] JOGADA Cattete Football Club | Cananéia Padilha x Enrico Pucci line=3 duel=93.39 corte=-1.12
+[024] FINAL Cattete Football Club | Cananéia Padilha fam=3 duel=-30.67 on_target=0.568 goal=0.161
+[024] FINAL Cananéia Padilha: fora/alvo perdido (roll=0.855)
+[025] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[025] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.406 roll=0.083
+[025] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Teodemiro Leão line=2 duel=64.57 corte=-1.70
+[025] FINAL Rio Cricket Associação Atlética | André Gomes Sobrinho fam=5 duel=-61.73 on_target=0.547 goal=0.120
+[025] FINAL André Gomes Sobrinho: no alvo sem gol (roll=0.915)
+[026] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[026] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.406 roll=0.553
+[027] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[027] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.836
+[028] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[028] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.406 roll=0.031
+[028] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Cândido Baptista line=4 duel=20.44 corte=-1.70
+[028] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Jetro Seixas line=5 duel=-6.74 corte=-1.95
+[028] JOGADA falhou: Jetro Seixas cortou
+[029] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[029] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.406 roll=0.151
+[029] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Ubiraci Schneider line=3 duel=8.19 corte=-1.70
+[029] FINAL Rio Cricket Associação Atlética | Enrico Pucci fam=5 duel=-46.90 on_target=0.538 goal=0.123
+[029] FINAL Enrico Pucci: no alvo sem gol (roll=0.195)
+[030] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[030] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.376
+[031] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[031] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.895
+[032] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[032] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.408 roll=0.493
+[033] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[033] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.261
+[033] JOGADA Cattete Football Club | Cananéia Padilha x Enrico Pucci line=4 duel=23.78 corte=-1.11
+[033] JOGADA Cattete Football Club | Cândido Baptista x Murilo Oliveira line=4 duel=-1.18 corte=-1.11
+[033] FINAL Cattete Football Club | Cândido Baptista fam=5 duel=-6.18 on_target=0.535 goal=0.130
+[033] FINAL Cândido Baptista: fora/alvo perdido (roll=0.771)
+[034] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[034] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.408 roll=0.859
+[035] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[035] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.408 roll=0.571
+[036] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[036] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.408 roll=0.615
+[037] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[037] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.408 roll=0.210
+[037] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Teodemiro Leão line=2 duel=28.62 corte=-1.70
+[037] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Crixás Lima line=3 duel=27.04 corte=-1.70
+[037] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Crixás Lima line=4 duel=5.64 corte=-1.70
+[038] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[038] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.408 roll=0.686
+[039] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[039] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.408 roll=0.856
+[040] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[040] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.408 roll=0.451
+[041] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[041] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.311 roll=0.111
+[041] JOGADA Cattete Football Club | Jetro Seixas x Oliver Barkley line=4 duel=-3.68 corte=-1.11
+[042] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[042] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.408 roll=0.984
+[043] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[043] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.408 roll=0.829
+[044] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[044] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.408 roll=0.207
+[044] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Acácio Casagrande line=3 duel=-13.02 corte=-1.70
+[045] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[045] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.408 roll=0.894
+[046] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[046] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.289 roll=0.005
+[046] JOGADA Cattete Football Club | Jetro Seixas x Enrico Pucci line=2 duel=111.11 corte=-1.11
+[046] FINAL Cattete Football Club | Cândido Baptista fam=1 duel=-2.97 on_target=0.596 goal=0.218
+[046] FINAL Cândido Baptista: fora/alvo perdido (roll=0.803)
+[047] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[047] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.380 roll=0.012
+[047] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Cananéia Padilha line=4 duel=-7.70 corte=-1.70
+[047] JOGADA falhou: Cananéia Padilha cortou
+[048] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[048] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.289 roll=0.747
+[049] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[049] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.380 roll=0.482
+[050] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[050] SUB Rio Cricket Associação Atlética: saiu William Stanischowsky (MD) | entrou Cruz Credo (PD) | subs=1/5
+[050] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.287 roll=0.886
+[051] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[051] SUB Rio Cricket Associação Atlética: saiu Luke Kennard (SA) | entrou Wilson Ford (CA) | subs=2/5
+[051] SUB Cattete Football Club: saiu Teodemiro Leão (MC) | entrou Emanuel Robledo (VOL) | subs=1/5
+[051] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.288 roll=0.998
+[052] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[052] SUB Rio Cricket Associação Atlética: saiu Enrico Pucci (CA) | entrou João Garcia (CA) | subs=3/5
+[052] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.286 roll=0.339
+[053] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[053] SUB Rio Cricket Associação Atlética: saiu Umberto Entei (ME) | entrou William Smith (MC) | subs=4/5
+[053] SUB Cattete Football Club: saiu Ubiraci Schneider (MC) | entrou Xanxerê Alcoforado (VOL) | subs=2/5
+[053] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.291 roll=0.814
+[054] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[054] SUB Cattete Football Club: saiu Crixás Lima (SA) | entrou Alão Schultz (PE) | subs=3/5
+[054] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.295 roll=0.566
+[055] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[055] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.357 roll=0.245
+[055] JOGADA Rio Cricket Associação Atlética | William Smith x Cândido Baptista line=3 duel=22.90 corte=-1.70
+[055] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Xanxerê Alcoforado line=4 duel=-37.79 corte=-1.70
+[056] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[056] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.384 roll=0.314
+[056] JOGADA Rio Cricket Associação Atlética | João Garcia x Xanxerê Alcoforado line=3 duel=-7.00 corte=-1.70
+[056] JOGADA falhou: Xanxerê Alcoforado cortou
+[057] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[057] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.384 roll=0.347
+[057] JOGADA Rio Cricket Associação Atlética | Cruz Credo x Emanuel Robledo line=4 duel=-74.17 corte=-1.70
+[057] JOGADA falhou: Emanuel Robledo cortou
+[058] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[058] SUB Cattete Football Club: saiu Cananéia Padilha (ME) | entrou Jandir Minas (ME) | subs=4/5
+[058] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.386 roll=0.421
+[059] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[059] SUB Rio Cricket Associação Atlética: saiu Zagueiro Atacante da Silva (ZAG) | entrou Arnold Brewerton (ZAG) | subs=5/5
+[059] SUB Cattete Football Club: saiu Acácio Casagrande (ZAG) | entrou Eudes Manhães (ZAG) | subs=5/5
+[059] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.389 roll=0.410
+[060] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[060] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.392 roll=0.411
+[061] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[061] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.392 roll=0.657
+[062] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[062] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.392 roll=0.750
+[063] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[063] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.317 roll=0.415
+[064] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 0 Cattete Football Club
+[064] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.317 roll=0.040
+[064] JOGADA Cattete Football Club | Héber Galvão x Wilson Perry line=2 duel=53.90 corte=-1.11
+[064] FINAL Cattete Football Club | Jandir Minas fam=1 duel=24.95 on_target=0.629 goal=0.237
+[064] FINAL Jandir Minas: GOL subtipo=CHUTE (roll=0.065)
+[065] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[065] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.445 roll=0.302
+[065] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Xanxerê Alcoforado line=3 duel=-34.64 corte=-1.70
+[066] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[066] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.445 roll=0.588
+[067] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[067] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.445 roll=0.022
+[067] JOGADA Rio Cricket Associação Atlética | João Garcia x Xanxerê Alcoforado line=4 duel=-15.53 corte=-1.70
+[068] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[068] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.445 roll=0.140
+[068] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Jandir Minas line=3 duel=14.80 corte=-1.70
+[068] JOGADA Rio Cricket Associação Atlética | Wilson Ford x Edmar Portela line=4 duel=-3.35 corte=-1.70
+[069] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[069] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.445 roll=0.737
+[070] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[070] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.445 roll=0.229
+[070] JOGADA Rio Cricket Associação Atlética | Wilson Ford x Jetro Seixas line=2 duel=66.81 corte=-1.70
+[070] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Alão Schultz line=5 duel=13.62 corte=-1.95
+[070] JOGADA Rio Cricket Associação Atlética | Cruz Credo x Cândido Baptista line=5 duel=47.07 corte=-2.45
+[070] FINAL Rio Cricket Associação Atlética | Wilson Ford fam=1 duel=12.50 on_target=0.627 goal=0.235
+[070] FINAL Wilson Ford: no alvo sem gol (roll=0.307)
+[071] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[071] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.445 roll=0.380
+[071] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Jetro Seixas line=3 duel=-3.96 corte=-1.70
+[072] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[072] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.445 roll=0.017
+[072] JOGADA Rio Cricket Associação Atlética | William Smith x Emanuel Robledo line=2 duel=-11.19 corte=-1.70
+[072] JOGADA falhou: Emanuel Robledo cortou
+[073] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[073] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.445 roll=0.706
+[074] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[074] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.313 roll=0.183
+[074] JOGADA Cattete Football Club | Eudes Manhães x Wilson Perry line=3 duel=7.48 corte=-1.30
+[074] FINAL Cattete Football Club | Héber Galvão fam=1 duel=-2.30 on_target=0.624 goal=0.230
+[074] FINAL Héber Galvão: fora/alvo perdido (roll=0.794)
+[075] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[075] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.313 roll=0.213
+[075] JOGADA Cattete Football Club | Jetro Seixas x Wilson Perry line=3 duel=7.63 corte=-1.30
+[075] FINAL Cattete Football Club | Héber Galvão fam=1 duel=-2.70 on_target=0.624 goal=0.223
+[075] FINAL Héber Galvão: fora/alvo perdido (roll=0.912)
+[076] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[076] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.481 roll=0.890
+[077] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[077] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.304 roll=0.203
+[077] JOGADA Cattete Football Club | Edmar Portela x André Gomes Sobrinho line=4 duel=13.18 corte=-1.30
+[077] JOGADA Cattete Football Club | Guatambu Magalhães x Murilo Oliveira line=4 duel=-4.46 corte=-1.30
+[077] JOGADA falhou: Murilo Oliveira cortou
+[078] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[078] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.481 roll=0.914
+[079] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[079] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.304 roll=0.540
+[080] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[080] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.481 roll=0.957
+[081] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[081] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.304 roll=0.805
+[082] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[082] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.304 roll=0.902
+[083] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[083] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.481 roll=0.810
+[084] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[084] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.304 roll=0.941
+[085] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[085] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.304 roll=0.418
+[086] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[086] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.304 roll=0.672
+[087] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[087] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.476 roll=0.684
+[088] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[088] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.304 roll=0.679
+[089] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 0 x 1 Cattete Football Club
+[089] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.476 roll=0.159
+[089] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Alão Schultz line=4 duel=4.06 corte=-1.70
+[089] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Eudes Manhães line=5 duel=31.58 corte=-1.95
+[089] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Edmar Portela line=5 duel=39.60 corte=-1.95
+[089] FINAL Rio Cricket Associação Atlética | João Garcia fam=5 duel=2.35 on_target=0.584 goal=0.151
+[089] FINAL João Garcia: GOL subtipo=FALTA (roll=0.147)
+[090] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 1 x 1 Cattete Football Club
+[090] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.403 roll=0.524
+[091] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 1 x 1 Cattete Football Club
+[091] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.403 roll=0.122
+[091] JOGADA Rio Cricket Associação Atlética | Wilson Ford x Edmar Portela line=2 duel=54.84 corte=-1.70
+[091] JOGADA Rio Cricket Associação Atlética | Cruz Credo x Jandir Minas line=5 duel=24.29 corte=-2.45
+[091] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Alão Schultz line=5 duel=44.01 corte=-1.95
+[091] FINAL Rio Cricket Associação Atlética | João Garcia fam=1 duel=1.71 on_target=0.639 goal=0.232
+[091] FINAL João Garcia: GOL subtipo=CHUTE (roll=0.108)
+[092] posse=Cattete Football Club | placar Rio Cricket Associação Atlética 2 x 1 Cattete Football Club
+[092] BUILD Cattete Football Club vs Rio Cricket Associação Atlética prob=0.386 roll=0.184
+[092] JOGADA Cattete Football Club | Xanxerê Alcoforado x Murilo Oliveira line=3 duel=3.54 corte=-1.06
+[092] FINAL Cattete Football Club | Héber Galvão fam=1 duel=-2.70 on_target=0.682 goal=0.234
+[092] FINAL Héber Galvão: no alvo sem gol (roll=0.672)
+[093] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 2 x 1 Cattete Football Club
+[093] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.380 roll=0.251
+[093] JOGADA Rio Cricket Associação Atlética | Arnold Brewerton x Guatambu Magalhães line=3 duel=26.66 corte=-1.70
+[093] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Guatambu Magalhães line=4 duel=-1.60 corte=-1.70
+[093] JOGADA Rio Cricket Associação Atlética | Cruz Credo x Guatambu Magalhães line=5 duel=47.03 corte=-2.45
+[093] FINAL Rio Cricket Associação Atlética | Wilson Ford fam=1 duel=1.08 on_target=0.602 goal=0.214
+[093] FINAL Wilson Ford: no alvo sem gol (roll=0.634)
+[094] posse=Rio Cricket Associação Atlética | placar Rio Cricket Associação Atlética 2 x 1 Cattete Football Club
+[094] BUILD Rio Cricket Associação Atlética vs Cattete Football Club prob=0.380 roll=0.428

@@ -1,0 +1,302 @@
+Partida #238
+Data: 1912-01-24
+Mandante: Futebol Clube Galitos
+Visitante: Esporte Clube Carioca
+Placar: 1 x 1
+Seed: -
+Estádio: Vaz do Engenho
+Clima: Ensolarado
+Placar tempo normal: 1 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Futebol Clube Galitos x Esporte Clube Carioca | estádio=Vaz do Engenho | clima=Ensolarado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Esporte Clube Carioca
+[001] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.246 roll=0.776
+[002] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Esporte Clube Carioca
+[002] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.246 roll=0.925
+[003] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Esporte Clube Carioca
+[003] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.246 roll=0.622
+[004] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Esporte Clube Carioca
+[004] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.246 roll=0.248
+[005] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 0 Esporte Clube Carioca
+[005] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.353 roll=0.989
+[006] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Esporte Clube Carioca
+[006] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.246 roll=0.109
+[006] JOGADA Futebol Clube Galitos | Erico Bissoli x Oliver Lindström line=3 duel=-33.24 corte=-1.70
+[006] JOGADA falhou: Oliver Lindström cortou
+[007] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 0 Esporte Clube Carioca
+[007] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.353 roll=0.498
+[008] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Esporte Clube Carioca
+[008] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.246 roll=0.682
+[009] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Esporte Clube Carioca
+[009] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.246 roll=0.520
+[010] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 0 Esporte Clube Carioca
+[010] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.246 roll=0.198
+[010] JOGADA Futebol Clube Galitos | Benedito Buss x Wilfrid Aurmund line=2 duel=80.01 corte=-1.70
+[010] FINAL Futebol Clube Galitos | Uru Mina fam=5 duel=-10.61 on_target=0.513 goal=0.134
+[010] FINAL Uru Mina: no alvo sem gol (roll=0.434)
+[011] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 0 Esporte Clube Carioca
+[011] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.381 roll=0.446
+[012] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 0 Esporte Clube Carioca
+[012] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.381 roll=0.084
+[012] JOGADA Esporte Clube Carioca | Oliver Lindström x Mamede Garcia line=3 duel=10.27 corte=-1.11
+[012] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=1 duel=9.34 on_target=0.647 goal=0.237
+[012] FINAL Wilfrid Aurmund: fora/alvo perdido (roll=0.951)
+[013] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 0 Esporte Clube Carioca
+[013] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.381 roll=0.220
+[013] JOGADA Esporte Clube Carioca | Getúlio Leitão x Mamede Garcia line=3 duel=3.85 corte=-1.11
+[013] FINAL Esporte Clube Carioca | Hugo Bergiund fam=1 duel=11.12 on_target=0.653 goal=0.240
+[013] FINAL Hugo Bergiund: GOL subtipo=CHUTE (roll=0.081)
+[014] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[014] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.381 roll=0.676
+[015] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[015] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.381 roll=0.203
+[015] JOGADA Esporte Clube Carioca | Hemaxi Custódio x Erico Bissoli line=3 duel=0.87 corte=-1.30
+[015] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=1 duel=8.06 on_target=0.647 goal=0.236
+[015] FINAL Wilfrid Aurmund: fora/alvo perdido (roll=0.982)
+[016] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[016] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.381 roll=0.354
+[016] JOGADA Esporte Clube Carioca | William Äkerlundt x Poti Malaquias line=4 duel=-40.56 corte=-1.30
+[016] JOGADA falhou: Poti Malaquias cortou
+[017] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[017] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.306 roll=0.583
+[018] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[018] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.381 roll=0.803
+[019] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[019] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.306 roll=0.984
+[020] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[020] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.381 roll=0.551
+[021] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[021] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.595
+[022] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[022] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.330 roll=0.546
+[023] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[023] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.214
+[023] JOGADA Esporte Clube Carioca | Hemaxi Custódio x Pajeú Bottura line=3 duel=-0.48 corte=-1.30
+[023] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=1 duel=4.62 on_target=0.681 goal=0.242
+[023] FINAL Wilfrid Aurmund: no alvo sem gol (roll=0.870)
+[024] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[024] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.330 roll=0.425
+[025] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[025] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.307
+[025] JOGADA Esporte Clube Carioca | Getúlio Leitão x Mamede Garcia line=3 duel=53.56 corte=-1.30
+[025] FINAL Esporte Clube Carioca | Hugo Bergiund fam=1 duel=9.38 on_target=0.687 goal=0.247
+[025] FINAL Hugo Bergiund: fora/alvo perdido (roll=0.818)
+[026] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[026] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.330 roll=0.616
+[027] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[027] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.330 roll=0.407
+[028] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[028] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.330 roll=0.993
+[029] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[029] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.369
+[029] JOGADA Esporte Clube Carioca | Getúlio Leitão x Erico Bissoli line=3 duel=14.46 corte=-1.30
+[029] FINAL Esporte Clube Carioca | João Oliveira fam=1 duel=0.56 on_target=0.683 goal=0.241
+[029] FINAL João Oliveira: fora/alvo perdido (roll=0.729)
+[030] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[030] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.479
+[031] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[031] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.330 roll=0.355
+[031] FINAL Futebol Clube Galitos | Pajeú Bottura fam=5 duel=-80.17 on_target=0.579 goal=0.119
+[031] FINAL Pajeú Bottura: no alvo sem gol (roll=0.754)
+[032] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[032] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.273
+[032] JOGADA Esporte Clube Carioca | Oliver Lindström x Bruce Moleiro line=2 duel=46.56 corte=-1.30
+[032] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=1 duel=0.67 on_target=0.680 goal=0.240
+[032] FINAL Wilfrid Aurmund: no alvo sem gol (roll=0.616)
+[033] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[033] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.330 roll=0.068
+[033] JOGADA Futebol Clube Galitos | Erico Bissoli x Johan Lindström line=4 duel=17.66 corte=-1.70
+[033] FINAL Futebol Clube Galitos | Galito fam=5 duel=9.45 on_target=0.586 goal=0.159
+[033] FINAL Galito: no alvo sem gol (roll=0.668)
+[034] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[034] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.661
+[035] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[035] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.316
+[035] JOGADA Esporte Clube Carioca | Wilfrid Aurmund x Mamede Garcia line=4 duel=0.84 corte=-1.30
+[035] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=1 duel=-0.62 on_target=0.680 goal=0.239
+[035] FINAL Wilfrid Aurmund: fora/alvo perdido (roll=0.867)
+[036] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[036] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.330 roll=0.182
+[036] JOGADA Futebol Clube Galitos | Benedito Buss x William Äkerlundt line=3 duel=-27.57 corte=-1.70
+[036] JOGADA falhou: William Äkerlundt cortou
+[037] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 0 x 1 Esporte Clube Carioca
+[037] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.330 roll=0.130
+[037] JOGADA Futebol Clube Galitos | Bruce Moleiro x João Oliveira line=3 duel=13.32 corte=-1.70
+[037] FINAL Futebol Clube Galitos | Galito fam=5 duel=0.40 on_target=0.586 goal=0.155
+[037] FINAL Galito: GOL subtipo=FALTA (roll=0.066)
+[038] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[038] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.516
+[039] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[039] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.245
+[039] JOGADA Esporte Clube Carioca | Wilfrid Aurmund x Erico Bissoli line=4 duel=-8.80 corte=-1.11
+[039] JOGADA falhou: Erico Bissoli cortou
+[040] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[040] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.757
+[041] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[041] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.115
+[041] JOGADA Esporte Clube Carioca | Johan Lindström x Erico Bissoli line=4 duel=-40.50 corte=-1.11
+[041] JOGADA falhou: Erico Bissoli cortou
+[042] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[042] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.876
+[043] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[043] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.410 roll=0.437
+[044] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[044] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.289 roll=0.297
+[045] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[045] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.289 roll=0.304
+[046] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[046] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.381 roll=0.959
+[047] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[047] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.269 roll=0.314
+[048] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[048] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.381 roll=0.008
+[048] JOGADA Esporte Clube Carioca | Hugo Bergiund x Mamede Garcia line=3 duel=5.81 corte=-1.11
+[048] FINAL Esporte Clube Carioca | Getúlio Leitão fam=1 duel=16.32 on_target=0.647 goal=0.240
+[048] FINAL Getúlio Leitão: fora/alvo perdido (roll=0.746)
+[049] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[049] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.381 roll=0.662
+[050] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[050] SUB Futebol Clube Galitos: saiu Bruce Moleiro (SA) | entrou Ildo Gatti (PE) | subs=1/5
+[050] SUB Esporte Clube Carioca: saiu João Oliveira (CA) | entrou Nils Nil (SA) | subs=1/5
+[050] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.382 roll=0.596
+[051] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[051] SUB Futebol Clube Galitos: saiu Galito (CA) | entrou Rui Paim (CA) | subs=2/5
+[051] SUB Esporte Clube Carioca: saiu Wilfrid Aurmund (SA) | entrou Lukas Lopes (MA) | subs=2/5
+[051] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.244 roll=0.781
+[052] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[052] SUB Futebol Clube Galitos: saiu Uru Mina (PD) | entrou Teffé Cabrera (PD) | subs=3/5
+[052] SUB Esporte Clube Carioca: saiu Hugo Bergiund (CA) | entrou Wilhem Foort (CA) | subs=3/5
+[052] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.241 roll=0.107
+[052] JOGADA Futebol Clube Galitos | Florival Ottoni x Oliver Lindström line=2 duel=-27.27 corte=-1.70
+[052] JOGADA falhou: Oliver Lindström cortou
+[053] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[053] SUB Futebol Clube Galitos: saiu Florival Ottoni (LE) | entrou Sandrino Eça (LE) | subs=4/5
+[053] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.371 roll=0.388
+[054] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[054] SUB Futebol Clube Galitos: saiu Mamede Garcia (LD) | entrou Franklim Ladeira (LD) | subs=5/5
+[054] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.228 roll=0.377
+[055] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[055] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.382 roll=0.176
+[055] JOGADA Esporte Clube Carioca | Johan Lindström x Poti Malaquias line=4 duel=6.51 corte=-1.11
+[055] JOGADA Esporte Clube Carioca | Filémon Matos x Franklim Ladeira line=4 duel=12.05 corte=-1.11
+[055] JOGADA Esporte Clube Carioca | Getúlio Leitão x Erico Bissoli line=5 duel=65.33 corte=-1.36
+[055] FINAL Esporte Clube Carioca | Johan Lindström fam=1 duel=25.02 on_target=0.651 goal=0.245
+[055] FINAL Johan Lindström: no alvo sem gol (roll=0.255)
+[056] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[056] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.246 roll=0.901
+[057] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[057] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.411 roll=0.272
+[057] JOGADA Esporte Clube Carioca | Hemaxi Custódio x Ildo Gatti line=3 duel=15.47 corte=-1.11
+[057] FINAL Esporte Clube Carioca | Nils Nil fam=1 duel=30.10 on_target=0.683 goal=0.254
+[057] FINAL Nils Nil: fora/alvo perdido (roll=0.909)
+[058] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[058] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.383 roll=0.648
+[059] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[059] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.383 roll=0.859
+[060] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[060] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.383 roll=0.702
+[061] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[061] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.249 roll=0.037
+[061] JOGADA Futebol Clube Galitos | Erico Bissoli x Oliver Lindström line=3 duel=-40.77 corte=-1.70
+[061] JOGADA falhou: Oliver Lindström cortou
+[062] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[062] SUB Esporte Clube Carioca: saiu Getúlio Leitão (VOL) | entrou Aristóteles Coelho (ZAG) | subs=4/5
+[062] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.262 roll=0.568
+[063] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[063] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.262 roll=0.958
+[064] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[064] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.262 roll=0.288
+[065] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[065] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.262 roll=0.439
+[066] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[066] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.381 roll=0.443
+[067] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[067] SUB Esporte Clube Carioca: saiu Hemaxi Custódio (ZAG) | entrou Erik Holmberg (ZAG) | subs=5/5
+[067] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.379 roll=0.817
+[067] FINAL Esporte Clube Carioca | Aristóteles Coelho fam=5 duel=-5.30 on_target=0.581 goal=0.138
+[067] FINAL Aristóteles Coelho: no alvo sem gol (roll=0.156)
+[068] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[068] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.279 roll=0.257
+[068] JOGADA Futebol Clube Galitos | Sandrino Eça x Lukas Lopes line=4 duel=-16.98 corte=-1.70
+[068] FINAL Futebol Clube Galitos | Sandrino Eça fam=5 duel=-49.26 on_target=0.589 goal=0.136
+[068] FINAL Sandrino Eça: no alvo sem gol (roll=0.605)
+[069] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[069] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.379 roll=0.513
+[070] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[070] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.379 roll=0.073
+[070] JOGADA Esporte Clube Carioca | William Äkerlundt x Sandrino Eça line=4 duel=-37.96 corte=-1.09
+[070] JOGADA falhou: Sandrino Eça cortou
+[071] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[071] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.379 roll=0.812
+[072] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[072] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.379 roll=0.523
+[073] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[073] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.279 roll=0.634
+[074] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[074] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.379 roll=0.542
+[075] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[075] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.279 roll=0.428
+[076] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[076] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.287 roll=0.124
+[076] JOGADA Futebol Clube Galitos | Pajeú Bottura x Filémon Matos line=4 duel=-31.16 corte=-1.70
+[077] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[077] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.391 roll=0.079
+[077] JOGADA Esporte Clube Carioca | Nils Nil x Teffé Cabrera line=2 duel=24.12 corte=-1.05
+[077] FINAL Esporte Clube Carioca | Lukas Lopes fam=1 duel=18.55 on_target=0.696 goal=0.251
+[077] FINAL Lukas Lopes: no alvo sem gol (roll=0.953)
+[078] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[078] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.287 roll=1.000
+[079] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[079] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.287 roll=0.672
+[080] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[080] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.391 roll=0.912
+[081] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[081] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.287 roll=0.821
+[082] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[082] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.287 roll=0.202
+[082] JOGADA Futebol Clube Galitos | Sandrino Eça x William Äkerlundt line=4 duel=-26.48 corte=-1.70
+[082] FINAL Futebol Clube Galitos | Sandrino Eça fam=5 duel=-22.02 on_target=0.603 goal=0.149
+[082] FINAL Sandrino Eça: fora/alvo perdido (roll=0.606)
+[083] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[083] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.287 roll=0.672
+[084] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[084] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.392 roll=0.144
+[084] JOGADA Esporte Clube Carioca | Johan Lindström x Benedito Buss line=4 duel=24.90 corte=-1.05
+[084] JOGADA Esporte Clube Carioca | Filémon Matos x Erico Bissoli line=5 duel=17.83 corte=-1.30
+[084] JOGADA Esporte Clube Carioca | Aristóteles Coelho x Poti Malaquias line=5 duel=9.40 corte=-1.30
+[084] FINAL Esporte Clube Carioca | Clife Topete fam=1 duel=11.34 on_target=0.699 goal=0.250
+[084] FINAL Clife Topete: no alvo sem gol (roll=0.994)
+[085] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[085] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.302 roll=0.687
+[086] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[086] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.412 roll=0.934
+[087] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[087] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.412 roll=0.470
+[088] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[088] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.302 roll=0.951
+[089] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[089] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.412 roll=0.359
+[089] JOGADA Esporte Clube Carioca | Aristóteles Coelho x Franklim Ladeira line=3 duel=5.37 corte=-1.05
+[089] FINAL Esporte Clube Carioca | Nils Nil fam=1 duel=8.02 on_target=0.739 goal=0.246
+[089] FINAL Nils Nil: no alvo sem gol (roll=0.309)
+[090] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[090] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.302 roll=0.872
+[091] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[091] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.302 roll=0.864
+[092] posse=Esporte Clube Carioca | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[092] BUILD Esporte Clube Carioca vs Futebol Clube Galitos prob=0.412 roll=0.874
+[093] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[093] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.302 roll=0.779
+[094] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[094] LESÃO Futebol Clube Galitos: Rui Paim | ruptura muscular | gravidade=grave | 19 jogo(s)
+[094] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.302 roll=0.489
+[095] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[095] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.302 roll=0.829
+[096] posse=Futebol Clube Galitos | placar Futebol Clube Galitos 1 x 1 Esporte Clube Carioca
+[096] BUILD Futebol Clube Galitos vs Esporte Clube Carioca prob=0.302 roll=0.067
+[096] JOGADA Futebol Clube Galitos | Ildo Gatti x Filémon Matos line=4 duel=-15.49 corte=-1.70
+[096] JOGADA falhou: Filémon Matos cortou

@@ -1,0 +1,314 @@
+Partida #199
+Data: 1912-01-18
+Mandante: Associação Athletica Internacional
+Visitante: Clube de Regatas Vasco da Gama
+Placar: 0 x 5
+Seed: -
+Estádio: Estádio Carneiro Leão
+Clima: Chuva leve
+Placar tempo normal: 0 x 5
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Associação Athletica Internacional x Clube de Regatas Vasco da Gama | estádio=Estádio Carneiro Leão | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[001] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.356 roll=0.858
+[002] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[002] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.356 roll=0.366
+[003] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[003] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.356 roll=0.444
+[004] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[004] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.319 roll=0.514
+[005] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[005] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.356 roll=0.855
+[006] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[006] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.319 roll=0.477
+[007] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[007] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.356 roll=0.886
+[008] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[008] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.319 roll=0.047
+[008] JOGADA Associação Athletica Internacional | Horácio Canhão x Pedro Silva line=2 duel=45.12 corte=-1.70
+[008] JOGADA Associação Athletica Internacional | Astrojildo x Pedro Silva line=5 duel=-11.29 corte=-1.95
+[008] JOGADA falhou: Pedro Silva cortou
+[009] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[009] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.319 roll=0.159
+[009] JOGADA Associação Athletica Internacional | Alceo Panicucci x Victoriano Bandeira line=4 duel=36.57 corte=-1.70
+[009] FINAL Associação Athletica Internacional | Gio Occhetto fam=5 duel=-84.70 on_target=0.514 goal=0.105
+[009] FINAL Gio Occhetto: no alvo sem gol (roll=0.411)
+[010] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[010] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.356 roll=0.129
+[010] JOGADA Clube de Regatas Vasco da Gama | Eduardo Freitas x Christiano Cordeiro line=5 duel=6.27 corte=-1.85
+[010] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=1 duel=4.91 on_target=0.612 goal=0.226
+[010] FINAL Fusiano Colón: no alvo sem gol (roll=0.997)
+[011] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[011] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.385 roll=0.700
+[012] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[012] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.385 roll=0.757
+[013] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[013] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.345 roll=0.793
+[014] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[014] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.385 roll=0.232
+[014] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Astrojildo line=5 duel=54.84 corte=-1.35
+[014] FINAL Clube de Regatas Vasco da Gama | Enaldo Marcelo fam=1 duel=-0.29 on_target=0.653 goal=0.234
+[014] FINAL Enaldo Marcelo: fora/alvo perdido (roll=0.818)
+[015] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[015] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.345 roll=0.019
+[015] JOGADA Associação Athletica Internacional | Didinho x Eduardo Freitas line=2 duel=38.82 corte=-1.70
+[015] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Suspiro Menezes line=3 duel=-28.72 corte=-1.70
+[015] JOGADA falhou: Suspiro Menezes cortou
+[016] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[016] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.345 roll=0.026
+[016] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Pedro Guaraná line=3 duel=5.94 corte=-1.70
+[016] FINAL Associação Athletica Internacional | Didinho fam=5 duel=-16.26 on_target=0.559 goal=0.142
+[016] FINAL Didinho: no alvo sem gol (roll=0.842)
+[017] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[017] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.345 roll=0.789
+[018] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[018] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.345 roll=0.538
+[019] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[019] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.345 roll=0.611
+[020] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[020] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.385 roll=0.706
+[021] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[021] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.371 roll=0.676
+[022] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[022] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.414 roll=0.610
+[023] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[023] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.371 roll=0.029
+[023] JOGADA Associação Athletica Internacional | Lorenzo Silva x Suspiro Menezes line=3 duel=-18.82 corte=-1.70
+[023] FINAL Associação Athletica Internacional | Lorenzo Silva fam=5 duel=-15.88 on_target=0.590 goal=0.147
+[023] FINAL Lorenzo Silva: no alvo sem gol (roll=0.216)
+[024] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[024] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.371 roll=0.077
+[024] JOGADA Associação Athletica Internacional | Alceo Panicucci x Enaldo Marcelo line=3 duel=37.24 corte=-1.70
+[024] JOGADA Associação Athletica Internacional | Lorenzo Silva x Pedro Guaraná line=4 duel=-7.50 corte=-1.70
+[024] JOGADA falhou: Pedro Guaraná cortou
+[025] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[025] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.371 roll=0.094
+[025] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Fusiano Colón line=3 duel=37.93 corte=-1.70
+[025] JOGADA Associação Athletica Internacional | Didinho x Eduardo Freitas line=4 duel=37.31 corte=-1.70
+[025] JOGADA Associação Athletica Internacional | Alceo Panicucci x Pedro Silva line=5 duel=-5.72 corte=-1.95
+[025] JOGADA falhou: Pedro Silva cortou
+[026] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[026] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.414 roll=0.251
+[026] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Berno Rossi line=3 duel=87.18 corte=-1.10
+[026] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=1 duel=2.21 on_target=0.695 goal=0.247
+[026] FINAL Fusiano Colón: no alvo sem gol (roll=0.628)
+[027] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[027] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.371 roll=0.615
+[028] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 0 Clube de Regatas Vasco da Gama
+[028] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.414 roll=0.196
+[028] JOGADA Clube de Regatas Vasco da Gama | Eduardo Freitas x Horácio Canhão line=3 duel=4.61 corte=-1.10
+[028] FINAL Clube de Regatas Vasco da Gama | Eduardo Freitas fam=1 duel=-2.25 on_target=0.687 goal=0.241
+[028] FINAL Eduardo Freitas: GOL subtipo=CHUTE (roll=0.118)
+[029] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 1 Clube de Regatas Vasco da Gama
+[029] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.414 roll=0.350
+[029] JOGADA Clube de Regatas Vasco da Gama | Eduardo Freitas x Leo Basbaum line=3 duel=30.74 corte=-1.30
+[029] FINAL Clube de Regatas Vasco da Gama | Pedro Silva fam=1 duel=15.62 on_target=0.686 goal=0.248
+[029] FINAL Pedro Silva: no alvo sem gol (roll=0.659)
+[030] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 1 Clube de Regatas Vasco da Gama
+[030] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.434 roll=0.176
+[030] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Nininho line=4 duel=-23.57 corte=-1.70
+[031] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 1 Clube de Regatas Vasco da Gama
+[031] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.434 roll=0.875
+[032] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 1 Clube de Regatas Vasco da Gama
+[032] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.414 roll=0.824
+[033] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 1 Clube de Regatas Vasco da Gama
+[033] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.414 roll=0.284
+[033] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Berno Rossi line=3 duel=-0.20 corte=-1.30
+[033] FINAL Clube de Regatas Vasco da Gama | Eduardo Freitas fam=1 duel=-7.19 on_target=0.687 goal=0.238
+[033] FINAL Eduardo Freitas: GOL subtipo=CHUTE (roll=0.009)
+[034] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[034] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.439 roll=0.989
+[035] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[035] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.439 roll=0.825
+[036] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[036] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.439 roll=0.046
+[036] JOGADA Associação Athletica Internacional | Astrojildo x Victoriano Bandeira line=2 duel=16.05 corte=-1.70
+[036] FINAL Associação Athletica Internacional | Horácio Canhão fam=5 duel=-18.26 on_target=0.589 goal=0.148
+[036] FINAL Horácio Canhão: fora/alvo perdido (roll=0.789)
+[037] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[037] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.439 roll=0.236
+[037] JOGADA Associação Athletica Internacional | Astrojildo x Enaldo Marcelo line=3 duel=19.38 corte=-1.70
+[037] JOGADA Associação Athletica Internacional | Didinho x Eduardo Freitas line=4 duel=41.37 corte=-1.70
+[037] FINAL Associação Athletica Internacional | Horácio Canhão fam=5 duel=-18.26 on_target=0.589 goal=0.148
+[037] FINAL Horácio Canhão: no alvo sem gol (roll=0.457)
+[038] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[038] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.439 roll=0.906
+[039] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[039] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.439 roll=0.094
+[039] JOGADA Associação Athletica Internacional | Alceo Panicucci x Pedro Guaraná line=4 duel=-52.38 corte=-1.70
+[039] JOGADA falhou: Pedro Guaraná cortou
+[040] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[040] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.439 roll=0.996
+[041] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[041] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.439 roll=0.985
+[042] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[042] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.439 roll=0.486
+[043] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[043] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.405 roll=0.613
+[044] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[044] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.405 roll=0.462
+[045] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[045] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.405 roll=0.699
+[046] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[046] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.408 roll=0.509
+[047] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[047] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.377 roll=0.591
+[048] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[048] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.377 roll=0.072
+[048] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Gio Occhetto line=4 duel=114.25 corte=-1.30
+[048] FINAL Clube de Regatas Vasco da Gama | Pedro Guaraná fam=1 duel=12.12 on_target=0.629 goal=0.224
+[048] FINAL Pedro Guaraná: no alvo sem gol (roll=0.552)
+[049] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[049] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.377 roll=0.330
+[049] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Abílio Boca-torta line=3 duel=-11.27 corte=-1.30
+[049] JOGADA falhou: Abílio Boca-torta cortou
+[050] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[050] SUB Associação Athletica Internacional: saiu Gio Occhetto (CA) | entrou Elizeu Alagoano (CA) | subs=1/5
+[050] SUB Clube de Regatas Vasco da Gama: saiu Eduardo Freitas (SA) | entrou Hugo Júnior Cruz (CA) | subs=1/5
+[050] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.369 roll=0.801
+[051] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[051] SUB Associação Athletica Internacional: saiu Leo Basbaum (CA) | entrou Ítalinho (CA) | subs=2/5
+[051] SUB Clube de Regatas Vasco da Gama: saiu Victoriano Bandeira (SA) | entrou Fausto Garcia (SA) | subs=2/5
+[051] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.358 roll=0.844
+[052] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[052] SUB Associação Athletica Internacional: saiu Horácio Canhão (MA) | entrou Arythoreon (MA) | subs=3/5
+[052] SUB Clube de Regatas Vasco da Gama: saiu Fusiano Colón (CA) | entrou Ronaldo Mendonça (CA) | subs=3/5
+[052] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.361 roll=0.535
+[053] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[053] SUB Clube de Regatas Vasco da Gama: saiu Enaldo Marcelo (CA) | entrou Álvaro Teixeira (CA) | subs=4/5
+[053] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.336 roll=0.072
+[053] JOGADA Clube de Regatas Vasco da Gama | Fausto Garcia x Lorenzo Silva line=5 duel=98.43 corte=-2.05
+[053] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=1 duel=22.64 on_target=0.624 goal=0.226
+[053] FINAL Hugo Júnior Cruz: no alvo sem gol (roll=0.518)
+[054] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[054] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.360 roll=0.594
+[055] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[055] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.360 roll=0.841
+[056] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[056] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.362 roll=0.266
+[056] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Berno Rossi line=5 duel=66.35 corte=-1.55
+[056] FINAL Clube de Regatas Vasco da Gama | Ronaldo Mendonça fam=1 duel=22.47 on_target=0.656 goal=0.232
+[056] FINAL Ronaldo Mendonça: no alvo sem gol (roll=0.506)
+[057] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[057] SUB Associação Athletica Internacional: saiu Berno Rossi (ZAG) | entrou Fabrício Leão (ZAG) | subs=4/5
+[057] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.363 roll=0.860
+[058] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[058] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.363 roll=0.990
+[059] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[059] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.387 roll=0.446
+[060] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[060] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.390 roll=0.556
+[061] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[061] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.363 roll=0.784
+[062] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[062] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.390 roll=0.754
+[063] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[063] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.390 roll=0.449
+[064] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[064] SUB Associação Athletica Internacional: saiu Christiano Cordeiro (AD) | entrou Otacílio Silveira (AD) | subs=5/5
+[064] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.373 roll=0.166
+[064] JOGADA Clube de Regatas Vasco da Gama | Hugo Júnior Cruz x Ítalinho line=3 duel=56.17 corte=-1.30
+[064] FINAL Clube de Regatas Vasco da Gama | Ronaldo Mendonça fam=1 duel=15.52 on_target=0.656 goal=0.229
+[064] FINAL Ronaldo Mendonça: no alvo sem gol (roll=0.763)
+[065] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[065] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.373 roll=0.842
+[066] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 2 Clube de Regatas Vasco da Gama
+[066] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.373 roll=0.205
+[066] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Lorenzo Silva line=5 duel=8.91 corte=-1.55
+[066] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=1 duel=17.52 on_target=0.657 goal=0.231
+[066] FINAL Hugo Júnior Cruz: GOL subtipo=CHUTE (roll=0.188)
+[067] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 3 Clube de Regatas Vasco da Gama
+[067] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.365 roll=0.737
+[068] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 3 Clube de Regatas Vasco da Gama
+[068] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.365 roll=0.291
+[068] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Fabrício Leão line=4 duel=-1.46 corte=-1.30
+[068] JOGADA falhou: Fabrício Leão cortou
+[069] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 3 Clube de Regatas Vasco da Gama
+[069] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.391 roll=0.197
+[069] JOGADA Associação Athletica Internacional | Lorenzo Silva x Suspiro Menezes line=4 duel=-43.20 corte=-1.70
+[069] JOGADA falhou: Suspiro Menezes cortou
+[070] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 3 Clube de Regatas Vasco da Gama
+[070] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.391 roll=0.881
+[071] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 3 Clube de Regatas Vasco da Gama
+[071] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.391 roll=0.994
+[072] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 3 Clube de Regatas Vasco da Gama
+[072] SUB Clube de Regatas Vasco da Gama: saiu Pedro Guaraná (MA) | entrou Rodrigo Justino (ME) | subs=5/5
+[072] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.392 roll=0.382
+[072] JOGADA Associação Athletica Internacional | Alceo Panicucci x Fausto Garcia line=2 duel=-11.46 corte=-1.70
+[073] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 3 Clube de Regatas Vasco da Gama
+[073] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.392 roll=0.966
+[074] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 3 Clube de Regatas Vasco da Gama
+[074] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.360 roll=0.982
+[075] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 3 Clube de Regatas Vasco da Gama
+[075] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.392 roll=0.562
+[076] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 3 Clube de Regatas Vasco da Gama
+[076] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.349 roll=0.220
+[076] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Lorenzo Silva line=4 duel=41.33 corte=-1.30
+[076] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=1 duel=10.81 on_target=0.617 goal=0.211
+[076] FINAL Hugo Júnior Cruz: GOL subtipo=CHUTE (roll=0.076)
+[077] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 4 Clube de Regatas Vasco da Gama
+[077] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.341 roll=0.878
+[078] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 4 Clube de Regatas Vasco da Gama
+[078] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.424 roll=0.384
+[078] JOGADA Associação Athletica Internacional | Alceo Panicucci x Adriano Pacheco line=3 duel=-7.02 corte=-1.70
+[079] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 4 Clube de Regatas Vasco da Gama
+[079] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.341 roll=0.074
+[079] JOGADA Clube de Regatas Vasco da Gama | Ronaldo Mendonça x Arythoreon line=5 duel=66.77 corte=-2.05
+[079] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=1 duel=7.74 on_target=0.591 goal=0.198
+[079] FINAL Hugo Júnior Cruz: fora/alvo perdido (roll=0.819)
+[080] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 4 Clube de Regatas Vasco da Gama
+[080] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.341 roll=0.055
+[080] JOGADA Clube de Regatas Vasco da Gama | Hugo Júnior Cruz x Arythoreon line=5 duel=41.10 corte=-2.05
+[080] FINAL Clube de Regatas Vasco da Gama | Fausto Garcia fam=1 duel=22.90 on_target=0.592 goal=0.204
+[080] FINAL Fausto Garcia: GOL subtipo=CHUTE (roll=0.142)
+[081] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[081] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.424 roll=0.465
+[082] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[082] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.337 roll=0.639
+[083] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[083] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.337 roll=0.167
+[083] JOGADA Clube de Regatas Vasco da Gama | Nininho x Otacílio Silveira line=4 duel=3.87 corte=-1.30
+[083] FINAL Clube de Regatas Vasco da Gama | Álvaro Teixeira fam=1 duel=14.31 on_target=0.577 goal=0.192
+[083] FINAL Álvaro Teixeira: no alvo sem gol (roll=0.432)
+[084] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[084] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.424 roll=0.042
+[084] JOGADA Associação Athletica Internacional | Alceo Panicucci x Adriano Pacheco line=4 duel=-15.74 corte=-1.70
+[084] JOGADA falhou: Adriano Pacheco cortou
+[085] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[085] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.816
+[086] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[086] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.348
+[086] JOGADA Associação Athletica Internacional | Arythoreon x Ronaldo Mendonça line=4 duel=-22.21 corte=-1.70
+[086] JOGADA falhou: Ronaldo Mendonça cortou
+[087] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[087] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.337 roll=0.637
+[088] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[088] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.647
+[089] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[089] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.379
+[089] JOGADA Associação Athletica Internacional | Arythoreon x Pedro Silva line=3 duel=-6.41 corte=-1.70
+[089] JOGADA falhou: Pedro Silva cortou
+[090] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[090] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.048
+[090] JOGADA Associação Athletica Internacional | Elizeu Alagoano x Fausto Garcia line=4 duel=-39.29 corte=-1.70
+[090] JOGADA falhou: Fausto Garcia cortou
+[091] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[091] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.654
+[092] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[092] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.337 roll=0.993
+[093] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[093] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.337 roll=0.652
+[093] FINAL Clube de Regatas Vasco da Gama | Júlio Martins fam=5 duel=-15.14 on_target=0.492 goal=0.104
+[093] FINAL Júlio Martins: no alvo sem gol (roll=0.413)
+[094] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[094] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.959
+[095] posse=Clube de Regatas Vasco da Gama | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[095] BUILD Clube de Regatas Vasco da Gama vs Associação Athletica Internacional prob=0.337 roll=0.509
+[096] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[096] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.891
+[097] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 5 Clube de Regatas Vasco da Gama
+[097] BUILD Associação Athletica Internacional vs Clube de Regatas Vasco da Gama prob=0.446 roll=0.550

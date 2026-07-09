@@ -1,0 +1,330 @@
+Partida #200
+Data: 1912-01-20
+Mandante: Bangu Athletic Club
+Visitante: Rio Cricket Associação Atlética
+Placar: 4 x 1
+Seed: -
+Estádio: Estádio Moça Bonita
+Clima: Frio forte
+Placar tempo normal: 4 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Bangu Athletic Club x Rio Cricket Associação Atlética | estádio=Estádio Moça Bonita | clima=Frio forte | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[001] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.366 roll=0.845
+[002] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[002] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.366 roll=0.433
+[003] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[003] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.366 roll=0.345
+[003] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Júlio Gutierres Barbosa line=2 duel=43.64 corte=-1.30
+[003] FINAL Rio Cricket Associação Atlética | André Gomes Sobrinho fam=5 duel=-15.11 on_target=0.585 goal=0.149
+[003] FINAL André Gomes Sobrinho: no alvo sem gol (roll=0.722)
+[004] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[004] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.366 roll=0.447
+[005] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[005] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.366 roll=0.885
+[006] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[006] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.391 roll=0.667
+[007] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[007] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.391 roll=0.819
+[008] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[008] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.391 roll=0.985
+[009] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[009] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.391 roll=0.759
+[010] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[010] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.391 roll=0.155
+[010] JOGADA Bangu Athletic Club | Saulo Linhares x André Gomes Sobrinho line=4 duel=4.77 corte=-1.12
+[010] FINAL Bangu Athletic Club | Moacir Zanetti fam=3 duel=2.23 on_target=0.617 goal=0.192
+[010] FINAL Moacir Zanetti: no alvo sem gol (roll=0.532)
+[011] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[011] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.423 roll=0.034
+[011] JOGADA Bangu Athletic Club | André Luiz Barcelos x Wilson Perry line=3 duel=78.78 corte=-1.12
+[011] FINAL Bangu Athletic Club | Vitor Quitério Gonzaga fam=1 duel=-5.18 on_target=0.733 goal=0.261
+[011] FINAL Vitor Quitério Gonzaga: no alvo sem gol (roll=0.646)
+[012] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[012] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.396 roll=0.343
+[012] JOGADA Rio Cricket Associação Atlética | Enrico Pucci x Júlio Gutierres Barbosa line=4 duel=-0.40 corte=-1.30
+[012] FINAL Rio Cricket Associação Atlética | Luke Kennard fam=5 duel=-12.18 on_target=0.627 goal=0.158
+[012] FINAL Luke Kennard: fora/alvo perdido (roll=0.842)
+[013] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[013] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.396 roll=0.305
+[013] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Moacir Zanetti line=4 duel=11.23 corte=-1.30
+[013] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Alfred Moore line=4 duel=1.12 corte=-1.30
+[013] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x André Luiz Barcelos line=5 duel=57.51 corte=-1.55
+[013] FINAL Rio Cricket Associação Atlética | Enrico Pucci fam=5 duel=-0.46 on_target=0.626 goal=0.163
+[013] FINAL Enrico Pucci: fora/alvo perdido (roll=0.668)
+[014] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[014] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.423 roll=0.239
+[014] JOGADA Bangu Athletic Club | Frederick Burton x Tobias Humphrey line=5 duel=10.29 corte=-1.87
+[014] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=14.92 on_target=0.744 goal=0.276
+[014] FINAL Frederick Burton: no alvo sem gol (roll=0.518)
+[015] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[015] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.423 roll=0.822
+[016] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Rio Cricket Associação Atlética
+[016] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.423 roll=0.127
+[016] JOGADA Bangu Athletic Club | Frederick Burton x Wilson Perry line=3 duel=19.16 corte=-1.12
+[016] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=7.54 on_target=0.735 goal=0.268
+[016] FINAL Moacir Zanetti: GOL subtipo=CHUTE (roll=0.171)
+[017] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 0 Rio Cricket Associação Atlética
+[017] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.479 roll=0.103
+[017] JOGADA Rio Cricket Associação Atlética | Zagueiro Atacante da Silva x Roberto Alves line=3 duel=-27.91 corte=-1.30
+[017] JOGADA falhou: Roberto Alves cortou
+[018] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 0 Rio Cricket Associação Atlética
+[018] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.479 roll=0.027
+[018] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Roberto Alves line=3 duel=-21.05 corte=-1.30
+[018] JOGADA falhou: Roberto Alves cortou
+[019] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 0 Rio Cricket Associação Atlética
+[019] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.479 roll=0.512
+[020] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 0 Rio Cricket Associação Atlética
+[020] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.423 roll=0.954
+[021] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 0 Rio Cricket Associação Atlética
+[021] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.515 roll=0.578
+[022] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 0 Rio Cricket Associação Atlética
+[022] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.777
+[023] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 0 Rio Cricket Associação Atlética
+[023] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.515 roll=0.389
+[023] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Vitor Quitério Gonzaga line=3 duel=-5.83 corte=-1.30
+[023] JOGADA falhou: Vitor Quitério Gonzaga cortou
+[024] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 0 Rio Cricket Associação Atlética
+[024] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.834
+[025] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 0 Rio Cricket Associação Atlética
+[025] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.515 roll=0.150
+[025] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Moacir Zanetti line=2 duel=72.82 corte=-1.30
+[025] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Moacir Zanetti line=5 duel=27.60 corte=-1.55
+[025] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Heleno Garcia line=5 duel=44.50 corte=-1.55
+[025] FINAL Rio Cricket Associação Atlética | Luke Kennard fam=5 duel=-19.49 on_target=0.661 goal=0.162
+[025] FINAL Luke Kennard: GOL subtipo=FALTA (roll=0.059)
+[026] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[026] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.426 roll=0.020
+[026] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Moacir Zanetti line=2 duel=18.07 corte=-1.30
+[026] JOGADA Rio Cricket Associação Atlética | Enrico Pucci x Frederick Burton line=3 duel=76.25 corte=-1.30
+[026] JOGADA Rio Cricket Associação Atlética | Zagueiro Atacante da Silva x Heleno Garcia line=4 duel=-30.24 corte=-1.30
+[026] JOGADA falhou: Heleno Garcia cortou
+[027] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[027] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.716
+[028] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[028] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.426 roll=0.659
+[029] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[029] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.426 roll=0.958
+[030] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[030] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.426 roll=0.539
+[031] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[031] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.682
+[032] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[032] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.428 roll=0.657
+[033] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[033] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.222
+[033] JOGADA Bangu Athletic Club | Moacir Zanetti x Murilo Oliveira line=3 duel=54.29 corte=-1.12
+[033] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=-5.67 on_target=0.773 goal=0.269
+[033] FINAL Moacir Zanetti: fora/alvo perdido (roll=0.865)
+[034] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[034] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.582
+[035] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[035] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.467
+[036] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[036] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.428 roll=0.104
+[036] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Heleno Garcia line=3 duel=-18.26 corte=-1.30
+[037] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[037] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.615
+[038] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[038] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.596
+[039] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[039] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.977
+[040] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[040] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.269
+[040] JOGADA Bangu Athletic Club | Frederick Burton x Zagueiro Atacante da Silva line=5 duel=90.35 corte=-1.87
+[040] FINAL Bangu Athletic Club | Saulo Linhares fam=1 duel=-3.64 on_target=0.763 goal=0.265
+[040] FINAL Saulo Linhares: fora/alvo perdido (roll=0.885)
+[041] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[041] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.500
+[042] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[042] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.436
+[042] JOGADA Bangu Athletic Club | Moacir Zanetti x Wilson Perry line=4 duel=1.29 corte=-1.12
+[042] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=18.60 on_target=0.783 goal=0.286
+[042] FINAL Frederick Burton: no alvo sem gol (roll=0.502)
+[043] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[043] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.428 roll=0.624
+[044] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[044] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.428 roll=0.645
+[045] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[045] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.454 roll=0.527
+[046] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[046] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.423 roll=0.132
+[046] JOGADA Bangu Athletic Club | Saulo Linhares x Murilo Oliveira line=5 duel=48.08 corte=-1.37
+[046] FINAL Bangu Athletic Club | Frederick Burton fam=3 duel=21.67 on_target=0.675 goal=0.217
+[046] FINAL Frederick Burton: no alvo sem gol (roll=0.219)
+[047] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[047] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.398 roll=0.384
+[047] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Roberto Alves line=4 duel=-51.15 corte=-1.30
+[047] JOGADA falhou: Roberto Alves cortou
+[048] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[048] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.423 roll=0.214
+[048] JOGADA Bangu Athletic Club | Júlio Gutierres Barbosa x Wilson Perry line=4 duel=19.30 corte=-1.12
+[048] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=18.53 on_target=0.744 goal=0.278
+[048] FINAL Frederick Burton: fora/alvo perdido (roll=0.958)
+[049] posse=Bangu Athletic Club | placar Bangu Athletic Club 1 x 1 Rio Cricket Associação Atlética
+[049] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.423 roll=0.337
+[049] JOGADA Bangu Athletic Club | Bernardo Guimarães x André Gomes Sobrinho line=4 duel=63.19 corte=-1.12
+[049] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=-0.25 on_target=0.735 goal=0.264
+[049] FINAL Moacir Zanetti: GOL subtipo=CHUTE (roll=0.262)
+[050] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[050] SUB Bangu Athletic Club: saiu Moacir Zanetti (SA) | entrou Fernando Donohoe (MA) | subs=1/5
+[050] SUB Rio Cricket Associação Atlética: saiu William Stanischowsky (MD) | entrou Cruz Credo (PD) | subs=1/5
+[050] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.487 roll=0.132
+[050] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Júlio Gutierres Barbosa line=3 duel=-14.78 corte=-1.30
+[050] JOGADA falhou: Júlio Gutierres Barbosa cortou
+[051] posse=Bangu Athletic Club | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[051] SUB Rio Cricket Associação Atlética: saiu Luke Kennard (SA) | entrou Wilson Ford (CA) | subs=2/5
+[051] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.404 roll=0.677
+[052] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[052] SUB Rio Cricket Associação Atlética: saiu Enrico Pucci (CA) | entrou João Garcia (CA) | subs=3/5
+[052] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.436 roll=0.950
+[053] posse=Bangu Athletic Club | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[053] SUB Rio Cricket Associação Atlética: saiu Umberto Entei (ME) | entrou William Smith (MC) | subs=4/5
+[053] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.408 roll=0.366
+[053] JOGADA Bangu Athletic Club | Alfred Moore x Zagueiro Atacante da Silva line=4 duel=49.35 corte=-1.30
+[053] FINAL Bangu Athletic Club | Fernando Donohoe fam=1 duel=26.43 on_target=0.729 goal=0.274
+[053] FINAL Fernando Donohoe: no alvo sem gol (roll=0.423)
+[054] posse=Bangu Athletic Club | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[054] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.408 roll=0.389
+[054] JOGADA Bangu Athletic Club | André Luiz Barcelos x Cruz Credo line=5 duel=40.06 corte=-1.55
+[054] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=21.48 on_target=0.744 goal=0.279
+[054] FINAL Frederick Burton: no alvo sem gol (roll=0.482)
+[055] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[055] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.432 roll=0.796
+[056] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[056] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.464 roll=0.536
+[057] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[057] SUB Rio Cricket Associação Atlética: saiu Zagueiro Atacante da Silva (ZAG) | entrou Arnold Brewerton (ZAG) | subs=5/5
+[057] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.465 roll=0.276
+[057] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Bernardo Guimarães line=4 duel=-24.79 corte=-1.30
+[057] FINAL Rio Cricket Associação Atlética | Tobias Humphrey fam=5 duel=-29.20 on_target=0.656 goal=0.155
+[057] FINAL Tobias Humphrey: no alvo sem gol (roll=0.548)
+[058] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[058] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.464 roll=0.185
+[058] JOGADA Rio Cricket Associação Atlética | William Smith x Frederick Burton line=3 duel=27.34 corte=-1.30
+[058] FINAL Rio Cricket Associação Atlética | Murilo Oliveira fam=5 duel=-10.41 on_target=0.659 goal=0.165
+[058] FINAL Murilo Oliveira: fora/alvo perdido (roll=0.696)
+[059] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[059] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.464 roll=0.571
+[060] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[060] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.468 roll=0.061
+[060] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Heleno Garcia line=3 duel=-2.91 corte=-1.30
+[060] JOGADA falhou: Heleno Garcia cortou
+[061] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[061] SUB Bangu Athletic Club: saiu Saulo Linhares (MD) | entrou Mário José Neto (MC) | subs=2/5
+[061] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.465 roll=0.605
+[062] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[062] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.465 roll=0.934
+[063] posse=Bangu Athletic Club | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[063] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.450 roll=0.759
+[064] posse=Bangu Athletic Club | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[064] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.450 roll=0.457
+[065] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[065] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.465 roll=0.011
+[065] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Roberto Alves line=3 duel=12.59 corte=-1.30
+[065] JOGADA Rio Cricket Associação Atlética | Cruz Credo x Frederick Burton line=4 duel=31.98 corte=-1.30
+[065] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Júlio Gutierres Barbosa line=4 duel=-4.09 corte=-1.30
+[065] FINAL Rio Cricket Associação Atlética | André Gomes Sobrinho fam=5 duel=-5.68 on_target=0.668 goal=0.172
+[065] FINAL André Gomes Sobrinho: fora/alvo perdido (roll=0.898)
+[066] posse=Bangu Athletic Club | placar Bangu Athletic Club 2 x 1 Rio Cricket Associação Atlética
+[066] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.450 roll=0.233
+[066] JOGADA Bangu Athletic Club | Roberto Alves x Tobias Humphrey line=4 duel=0.43 corte=-1.30
+[066] FINAL Bangu Athletic Club | Mário José Neto fam=1 duel=27.40 on_target=0.769 goal=0.283
+[066] FINAL Mário José Neto: GOL subtipo=CHUTE (roll=0.090)
+[067] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 3 x 1 Rio Cricket Associação Atlética
+[067] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.470 roll=0.004
+[067] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Frederick Burton line=3 duel=18.54 corte=-1.30
+[067] JOGADA Rio Cricket Associação Atlética | Cruz Credo x Frederick Burton line=4 duel=31.75 corte=-1.30
+[067] JOGADA Rio Cricket Associação Atlética | Cruz Credo x Vitor Quitério Gonzaga line=4 duel=8.06 corte=-1.30
+[067] FINAL Rio Cricket Associação Atlética | Cruz Credo fam=1 duel=10.81 on_target=0.764 goal=0.276
+[067] FINAL Cruz Credo: no alvo sem gol (roll=0.434)
+[068] posse=Bangu Athletic Club | placar Bangu Athletic Club 3 x 1 Rio Cricket Associação Atlética
+[068] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.442 roll=0.237
+[068] JOGADA Bangu Athletic Club | Mário José Neto x André Gomes Sobrinho line=4 duel=93.79 corte=-1.30
+[068] FINAL Bangu Athletic Club | Fernando Donohoe fam=1 duel=26.50 on_target=0.744 goal=0.268
+[068] FINAL Fernando Donohoe: GOL subtipo=CHUTE (roll=0.011)
+[069] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[069] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.435 roll=0.176
+[069] JOGADA Bangu Athletic Club | Fernando Donohoe x Cruz Credo line=4 duel=40.63 corte=-1.30
+[069] FINAL Bangu Athletic Club | Fernando Donohoe fam=3 duel=18.13 on_target=0.653 goal=0.195
+[069] FINAL Fernando Donohoe: no alvo sem gol (roll=0.260)
+[070] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[070] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.473 roll=0.332
+[070] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Alfred Moore line=3 duel=-8.40 corte=-1.30
+[070] JOGADA falhou: Alfred Moore cortou
+[071] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[071] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.434 roll=0.142
+[071] JOGADA Bangu Athletic Club | Alfred Moore x Arnold Brewerton line=5 duel=-7.30 corte=-1.55
+[071] JOGADA falhou: Arnold Brewerton cortou
+[072] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[072] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.473 roll=0.836
+[073] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[073] SUB Bangu Athletic Club: saiu Vitor Quitério Gonzaga (ME) | entrou Tadeu Pelicano (MA) | subs=3/5
+[073] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.470 roll=0.505
+[074] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[074] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.470 roll=0.208
+[074] JOGADA Rio Cricket Associação Atlética | Cruz Credo x Júlio Gutierres Barbosa line=4 duel=2.56 corte=-1.30
+[074] FINAL Rio Cricket Associação Atlética | Wilson Ford fam=5 duel=5.13 on_target=0.668 goal=0.179
+[074] FINAL Wilson Ford: fora/alvo perdido (roll=0.979)
+[075] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[075] SUB Bangu Athletic Club: saiu Roberto Alves (ZAG) | entrou Bernardo Alvares (ZAG) | subs=4/5
+[075] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.480 roll=0.431
+[075] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Heleno Garcia line=2 duel=31.71 corte=-1.30
+[075] JOGADA Rio Cricket Associação Atlética | William Smith x Bernardo Alvares line=4 duel=-17.90 corte=-1.30
+[076] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[076] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.519 roll=0.739
+[077] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[077] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.519 roll=0.689
+[078] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[078] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.519 roll=0.028
+[078] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x André Luiz Barcelos line=3 duel=-23.37 corte=-1.30
+[078] JOGADA falhou: André Luiz Barcelos cortou
+[079] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[079] SUB Bangu Athletic Club: saiu Alfred Moore (ZAG) | entrou John Redwood (ZAG) | subs=5/5
+[079] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.422 roll=0.529
+[080] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[080] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.422 roll=0.528
+[081] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[081] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.537 roll=0.565
+[082] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[082] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.537 roll=0.510
+[082] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Heleno Garcia line=3 duel=1.31 corte=-1.30
+[082] FINAL Rio Cricket Associação Atlética | João Garcia fam=5 duel=-4.74 on_target=0.713 goal=0.187
+[082] FINAL João Garcia: no alvo sem gol (roll=0.443)
+[083] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[083] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.422 roll=0.497
+[084] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[084] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.422 roll=0.123
+[084] JOGADA Bangu Athletic Club | John Redwood x André Gomes Sobrinho line=3 duel=19.48 corte=-1.30
+[084] FINAL Bangu Athletic Club | Fernando Donohoe fam=1 duel=16.07 on_target=0.705 goal=0.255
+[084] FINAL Fernando Donohoe: no alvo sem gol (roll=0.471)
+[085] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[085] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.422 roll=0.920
+[086] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[086] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.422 roll=0.220
+[086] JOGADA Bangu Athletic Club | Fernando Donohoe x André Gomes Sobrinho line=4 duel=21.87 corte=-1.30
+[086] FINAL Bangu Athletic Club | Frederick Burton fam=3 duel=13.37 on_target=0.653 goal=0.202
+[086] FINAL Frederick Burton: no alvo sem gol (roll=0.848)
+[087] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[087] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.422 roll=0.299
+[087] JOGADA Bangu Athletic Club | Mário José Neto x Tobias Humphrey line=4 duel=19.12 corte=-1.30
+[087] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=10.68 on_target=0.719 goal=0.260
+[087] FINAL Frederick Burton: no alvo sem gol (roll=0.621)
+[088] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[088] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.580 roll=0.576
+[088] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Heleno Garcia line=4 duel=-23.49 corte=-1.30
+[088] JOGADA falhou: Heleno Garcia cortou
+[089] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[089] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.580 roll=0.874
+[090] posse=Bangu Athletic Club | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[090] BUILD Bangu Athletic Club vs Rio Cricket Associação Atlética prob=0.422 roll=0.953
+[091] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[091] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.580 roll=0.878
+[092] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[092] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.580 roll=0.841
+[093] posse=Rio Cricket Associação Atlética | placar Bangu Athletic Club 4 x 1 Rio Cricket Associação Atlética
+[093] BUILD Rio Cricket Associação Atlética vs Bangu Athletic Club prob=0.580 roll=0.673
