@@ -1,0 +1,303 @@
+Partida #71
+Data: 1912-01-04
+Mandante: Associação Atlética Light & Power
+Visitante: Atlético Clube Juazeiro de Caetité
+Placar: 3 x 0
+Seed: -
+Estádio: Estádio da Luz
+Clima: Chuva forte
+Placar tempo normal: 3 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: Associação Atlética Light & Power
+
+=== LOG VERBOSE ===
+Início: Associação Atlética Light & Power x Atlético Clube Juazeiro de Caetité | estádio=Estádio da Luz | clima=Chuva forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 0 x 0 Atlético Clube Juazeiro de Caetité
+[001] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.351 roll=0.370
+[002] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 0 x 0 Atlético Clube Juazeiro de Caetité
+[002] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.268 roll=0.340
+[003] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 0 x 0 Atlético Clube Juazeiro de Caetité
+[003] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.351 roll=0.917
+[004] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 0 x 0 Atlético Clube Juazeiro de Caetité
+[004] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.351 roll=0.930
+[005] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 0 x 0 Atlético Clube Juazeiro de Caetité
+[005] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.268 roll=0.530
+[006] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 0 x 0 Atlético Clube Juazeiro de Caetité
+[006] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.351 roll=0.327
+[006] JOGADA Associação Atlética Light & Power | Aldrich Chisenhall x Brasileiro line=5 duel=125.60 corte=-1.38
+[006] FINAL Associação Atlética Light & Power | Crosby Rowan fam=3 duel=-23.97 on_target=0.541 goal=0.158
+[006] FINAL Crosby Rowan: no alvo sem gol (roll=0.911)
+[007] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 0 x 0 Atlético Clube Juazeiro de Caetité
+[007] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.268 roll=0.976
+[008] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 0 x 0 Atlético Clube Juazeiro de Caetité
+[008] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.351 roll=0.047
+[008] JOGADA Associação Atlética Light & Power | Danny Trotman x Noel Cabaço line=4 duel=65.48 corte=-1.13
+[008] FINAL Associação Atlética Light & Power | Darren Cooke fam=1 duel=8.93 on_target=0.600 goal=0.224
+[008] FINAL Darren Cooke: GOL subtipo=CHUTE (roll=0.194)
+[009] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 1 x 0 Atlético Clube Juazeiro de Caetité
+[009] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.311 roll=0.348
+[010] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 1 x 0 Atlético Clube Juazeiro de Caetité
+[010] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.311 roll=0.106
+[010] JOGADA Atlético Clube Juazeiro de Caetité | Sevé Mafioso x Danny Trotman line=3 duel=84.74 corte=-1.30
+[010] JOGADA Atlético Clube Juazeiro de Caetité | Douglas Salles x Graham Penfold line=4 duel=-50.10 corte=-1.30
+[010] JOGADA falhou: Graham Penfold cortou
+[011] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 1 x 0 Atlético Clube Juazeiro de Caetité
+[011] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.336 roll=0.801
+[012] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 1 x 0 Atlético Clube Juazeiro de Caetité
+[012] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.380 roll=0.077
+[012] JOGADA Associação Atlética Light & Power | Matt Maclachlan x Erasminho do Sacolão line=5 duel=47.56 corte=-1.55
+[012] FINAL Associação Atlética Light & Power | Darren Cooke fam=1 duel=1.09 on_target=0.648 goal=0.235
+[012] FINAL Darren Cooke: no alvo sem gol (roll=0.284)
+[013] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 1 x 0 Atlético Clube Juazeiro de Caetité
+[013] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.380 roll=0.958
+[014] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 1 x 0 Atlético Clube Juazeiro de Caetité
+[014] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.380 roll=0.778
+[015] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 1 x 0 Atlético Clube Juazeiro de Caetité
+[015] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.336 roll=0.823
+[016] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 1 x 0 Atlético Clube Juazeiro de Caetité
+[016] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.380 roll=0.327
+[016] JOGADA Associação Atlética Light & Power | Danny Trotman x Brasileiro line=4 duel=93.44 corte=-1.30
+[016] FINAL Associação Atlética Light & Power | Danny Trotman fam=1 duel=0.39 on_target=0.647 goal=0.235
+[016] FINAL Danny Trotman: fora/alvo perdido (roll=0.898)
+[017] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 1 x 0 Atlético Clube Juazeiro de Caetité
+[017] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.380 roll=0.961
+[018] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 1 x 0 Atlético Clube Juazeiro de Caetité
+[018] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.380 roll=0.484
+[019] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 1 x 0 Atlético Clube Juazeiro de Caetité
+[019] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.380 roll=0.249
+[019] JOGADA Associação Atlética Light & Power | Georgie Rayner x Noel Cabaço line=4 duel=14.00 corte=-1.30
+[019] FINAL Associação Atlética Light & Power | Darren Cooke fam=1 duel=3.83 on_target=0.648 goal=0.236
+[019] FINAL Darren Cooke: GOL subtipo=CHUTE (roll=0.102)
+[020] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[020] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.340 roll=0.748
+[021] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[021] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.400 roll=0.769
+[022] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[022] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.224
+[022] JOGADA Atlético Clube Juazeiro de Caetité | Sevé Mafioso x Matt Maclachlan line=4 duel=-72.96 corte=-1.30
+[022] JOGADA falhou: Matt Maclachlan cortou
+[023] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[023] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.400 roll=0.118
+[023] JOGADA Associação Atlética Light & Power | Matt Maclachlan x Noel Cabaço line=5 duel=97.53 corte=-1.55
+[023] FINAL Associação Atlética Light & Power | Danny Trotman fam=1 duel=-1.63 on_target=0.656 goal=0.225
+[023] FINAL Danny Trotman: no alvo sem gol (roll=0.539)
+[024] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[024] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.781
+[025] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[025] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.400 roll=0.130
+[025] JOGADA Associação Atlética Light & Power | Dudley Hawkyard x Sérgio Cangaço line=5 duel=93.71 corte=-1.55
+[025] FINAL Associação Atlética Light & Power | Darren Cooke fam=1 duel=-1.31 on_target=0.656 goal=0.226
+[025] FINAL Darren Cooke: fora/alvo perdido (roll=0.848)
+[026] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[026] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.722
+[027] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[027] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.920
+[028] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[028] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.400 roll=0.396
+[028] JOGADA Associação Atlética Light & Power | Grover Colegrove x Tutui line=5 duel=25.30 corte=-1.55
+[028] FINAL Associação Atlética Light & Power | Danny Trotman fam=1 duel=-6.82 on_target=0.655 goal=0.223
+[028] FINAL Danny Trotman: no alvo sem gol (roll=0.396)
+[029] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[029] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.400 roll=0.794
+[029] FINAL Associação Atlética Light & Power | Aldrich Chisenhall fam=5 duel=-56.40 on_target=0.556 goal=0.108
+[029] FINAL Aldrich Chisenhall: no alvo sem gol (roll=0.932)
+[030] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[030] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.960
+[031] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[031] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.345
+[031] JOGADA Atlético Clube Juazeiro de Caetité | Brasileiro x Danny Trotman line=4 duel=18.64 corte=-1.30
+[031] JOGADA Atlético Clube Juazeiro de Caetité | Brasileiro x Darren Cooke line=5 duel=19.79 corte=-2.05
+[031] JOGADA Atlético Clube Juazeiro de Caetité | Erasminho do Sacolão x Franz Leonhart line=5 duel=-20.18 corte=-2.05
+[031] JOGADA falhou: Franz Leonhart cortou
+[032] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[032] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.400 roll=0.977
+[033] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[033] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.527
+[033] FINAL Atlético Clube Juazeiro de Caetité | Sérgio Cangaço fam=5 duel=-15.07 on_target=0.591 goal=0.151
+[033] FINAL Sérgio Cangaço: fora/alvo perdido (roll=0.699)
+[034] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[034] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.616
+[035] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[035] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.400 roll=0.251
+[035] JOGADA Associação Atlética Light & Power | Georgie Rayner x Douglas Salles line=4 duel=2.65 corte=-1.30
+[035] FINAL Associação Atlética Light & Power | Crosby Rowan fam=1 duel=8.97 on_target=0.655 goal=0.229
+[035] FINAL Crosby Rowan: fora/alvo perdido (roll=0.762)
+[036] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[036] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.149
+[036] JOGADA Atlético Clube Juazeiro de Caetité | Douglas Salles x Dudley Hawkyard line=3 duel=-17.97 corte=-1.30
+[036] JOGADA falhou: Dudley Hawkyard cortou
+[037] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[037] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.165
+[037] JOGADA Atlético Clube Juazeiro de Caetité | Noel Cabaço x Crosby Rowan line=3 duel=3.87 corte=-1.30
+[037] FINAL Atlético Clube Juazeiro de Caetité | Sevé Mafioso fam=5 duel=-12.20 on_target=0.591 goal=0.152
+[037] FINAL Sevé Mafioso: no alvo sem gol (roll=0.172)
+[038] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[038] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.756
+[039] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[039] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.925
+[040] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[040] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.400 roll=0.978
+[041] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[041] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.117
+[041] JOGADA Atlético Clube Juazeiro de Caetité | Brasileiro x Darren Cooke line=4 duel=16.78 corte=-1.30
+[041] JOGADA Atlético Clube Juazeiro de Caetité | Brasileiro x Franz Leonhart line=4 duel=-25.61 corte=-1.30
+[042] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[042] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.025
+[042] JOGADA Atlético Clube Juazeiro de Caetité | Sevé Mafioso x Aldrich Chisenhall line=2 duel=-12.71 corte=-1.30
+[042] JOGADA falhou: Aldrich Chisenhall cortou
+[043] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[043] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.400 roll=0.255
+[043] JOGADA Associação Atlética Light & Power | Aldrich Chisenhall x Cauã Ambrósio line=5 duel=30.93 corte=-1.55
+[043] FINAL Associação Atlética Light & Power | Dudley Hawkyard fam=3 duel=1.60 on_target=0.595 goal=0.174
+[043] FINAL Dudley Hawkyard: fora/alvo perdido (roll=0.950)
+[044] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[044] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.153
+[044] JOGADA Atlético Clube Juazeiro de Caetité | Tutui x Aldrich Chisenhall line=4 duel=-52.98 corte=-1.30
+[044] JOGADA falhou: Aldrich Chisenhall cortou
+[045] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[045] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.366 roll=0.311
+[045] JOGADA Atlético Clube Juazeiro de Caetité | Sevé Mafioso x Franz Leonhart line=4 duel=-64.14 corte=-1.30
+[045] JOGADA falhou: Franz Leonhart cortou
+[046] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[046] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.340 roll=0.864
+[047] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[047] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.372 roll=0.481
+[048] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[048] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.372 roll=0.887
+[049] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[049] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.372 roll=0.278
+[049] JOGADA Associação Atlética Light & Power | Matt Maclachlan x Cauã Ambrósio line=5 duel=35.71 corte=-1.55
+[049] FINAL Associação Atlética Light & Power | Darren Cooke fam=1 duel=-4.77 on_target=0.623 goal=0.217
+[049] FINAL Darren Cooke: no alvo sem gol (roll=0.707)
+[050] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[050] SUB Associação Atlética Light & Power: saiu Darren Cooke (SA) | entrou Derek Bragg (SA) | subs=1/5
+[050] SUB Atlético Clube Juazeiro de Caetité: saiu Brasileiro (CA) | entrou Magrão (CA) | subs=1/5
+[050] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.371 roll=0.765
+[051] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[051] SUB Associação Atlética Light & Power: saiu Danny Trotman (CA) | entrou Chester Thirdkill (PD) | subs=2/5
+[051] SUB Atlético Clube Juazeiro de Caetité: saiu Erasminho do Sacolão (SA) | entrou Juan García (SA) | subs=2/5
+[051] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.382 roll=0.709
+[052] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[052] SUB Atlético Clube Juazeiro de Caetité: saiu Cauã Ambrósio (MC) | entrou Lucas Vadiagem (MC) | subs=3/5
+[052] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.382 roll=0.465
+[053] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[053] SUB Atlético Clube Juazeiro de Caetité: saiu Sevé Mafioso (MA) | entrou Gimenes (MD) | subs=4/5
+[053] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.330 roll=0.444
+[054] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[054] SUB Atlético Clube Juazeiro de Caetité: saiu Tutui (ZAG) | entrou Joel 'Barata' (ZAG) | subs=5/5
+[054] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.332 roll=0.778
+[055] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[055] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.392 roll=0.665
+[056] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[056] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.357 roll=0.002
+[056] JOGADA Atlético Clube Juazeiro de Caetité | Joel 'Barata' x Matt Maclachlan line=3 duel=-16.62 corte=-1.30
+[056] JOGADA falhou: Matt Maclachlan cortou
+[057] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[057] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.422 roll=0.819
+[058] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[058] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.357 roll=0.365
+[059] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[059] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.422 roll=0.590
+[060] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[060] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.422 roll=0.993
+[061] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[061] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.422 roll=0.225
+[061] JOGADA Associação Atlética Light & Power | Franz Leonhart x Gimenes line=4 duel=15.69 corte=-1.30
+[061] FINAL Associação Atlética Light & Power | Chester Thirdkill fam=1 duel=29.30 on_target=0.659 goal=0.240
+[061] FINAL Chester Thirdkill: fora/alvo perdido (roll=0.703)
+[062] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[062] SUB Associação Atlética Light & Power: saiu Dudley Hawkyard (MC) | entrou Chris Padden (MA) | subs=3/5
+[062] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.360 roll=0.514
+[063] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[063] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.423 roll=0.668
+[064] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[064] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.423 roll=0.500
+[065] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[065] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.360 roll=0.373
+[066] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[066] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.360 roll=0.619
+[067] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[067] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.360 roll=0.608
+[068] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[068] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.423 roll=0.175
+[068] JOGADA Associação Atlética Light & Power | Derek Bragg x Sérgio Cangaço line=5 duel=89.08 corte=-2.05
+[068] FINAL Associação Atlética Light & Power | Derek Bragg fam=1 duel=19.99 on_target=0.658 goal=0.236
+[068] FINAL Derek Bragg: fora/alvo perdido (roll=0.966)
+[069] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[069] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.423 roll=0.911
+[070] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[070] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.360 roll=0.042
+[070] JOGADA Atlético Clube Juazeiro de Caetité | Lucas Vadiagem x Grover Colegrove line=3 duel=-12.17 corte=-1.30
+[070] JOGADA falhou: Grover Colegrove cortou
+[071] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[071] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.360 roll=0.046
+[071] JOGADA Atlético Clube Juazeiro de Caetité | Juan García x Aldrich Chisenhall line=4 duel=-6.75 corte=-1.30
+[072] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[072] SUB Associação Atlética Light & Power: saiu Crosby Rowan (MD) | entrou Kelvin MacArchill (MD) | subs=4/5
+[072] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.360 roll=0.407
+[073] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[073] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.422 roll=0.329
+[073] JOGADA Associação Atlética Light & Power | Franz Leonhart x Juan García line=5 duel=106.48 corte=-1.55
+[073] FINAL Associação Atlética Light & Power | Derek Bragg fam=1 duel=14.46 on_target=0.658 goal=0.233
+[073] FINAL Derek Bragg: no alvo sem gol (roll=0.839)
+[074] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[074] SUB Associação Atlética Light & Power: saiu Graham Penfold (ZAG) | entrou Nigel Tyrwhitt (ZAG) | subs=5/5
+[074] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.422 roll=0.681
+[075] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[075] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.422 roll=0.955
+[076] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[076] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.390 roll=0.219
+[076] JOGADA Atlético Clube Juazeiro de Caetité | Lucas Vadiagem x Georgie Rayner line=2 duel=-13.76 corte=-1.30
+[077] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[077] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.410 roll=0.466
+[078] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[078] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.410 roll=0.039
+[078] JOGADA Associação Atlética Light & Power | Kelvin MacArchill x Juan García line=4 duel=65.37 corte=-1.30
+[078] FINAL Associação Atlética Light & Power | Derek Bragg fam=3 duel=-17.47 on_target=0.583 goal=0.165
+[078] FINAL Derek Bragg: no alvo sem gol (roll=0.995)
+[079] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[079] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.390 roll=0.735
+[080] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[080] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.410 roll=0.440
+[081] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[081] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.410 roll=0.793
+[082] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[082] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.410 roll=0.638
+[083] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[083] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.390 roll=0.520
+[084] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[084] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.410 roll=0.689
+[085] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[085] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.410 roll=0.579
+[086] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 2 x 0 Atlético Clube Juazeiro de Caetité
+[086] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.410 roll=0.230
+[086] JOGADA Associação Atlética Light & Power | Franz Leonhart x Juan García line=5 duel=39.90 corte=-1.55
+[086] FINAL Associação Atlética Light & Power | Derek Bragg fam=1 duel=4.61 on_target=0.644 goal=0.225
+[086] FINAL Derek Bragg: GOL subtipo=CHUTE (roll=0.156)
+[087] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 3 x 0 Atlético Clube Juazeiro de Caetité
+[087] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.414 roll=0.269
+[087] JOGADA Atlético Clube Juazeiro de Caetité | Joel 'Barata' x Kelvin MacArchill line=2 duel=-28.25 corte=-1.30
+[088] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 3 x 0 Atlético Clube Juazeiro de Caetité
+[088] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.414 roll=0.772
+[089] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 3 x 0 Atlético Clube Juazeiro de Caetité
+[089] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.401 roll=0.486
+[090] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 3 x 0 Atlético Clube Juazeiro de Caetité
+[090] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.414 roll=0.038
+[090] JOGADA Atlético Clube Juazeiro de Caetité | Magrão x Chris Padden line=3 duel=-15.02 corte=-1.30
+[090] JOGADA falhou: Chris Padden cortou
+[091] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 3 x 0 Atlético Clube Juazeiro de Caetité
+[091] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.414 roll=0.386
+[091] JOGADA Atlético Clube Juazeiro de Caetité | Gimenes x Aldrich Chisenhall line=2 duel=2.40 corte=-1.30
+[091] FINAL Atlético Clube Juazeiro de Caetité | Linhares Lemos fam=3 duel=-15.92 on_target=0.714 goal=0.204
+[091] FINAL Linhares Lemos: no alvo sem gol (roll=0.501)
+[092] posse=Atlético Clube Juazeiro de Caetité | placar Associação Atlética Light & Power 3 x 0 Atlético Clube Juazeiro de Caetité
+[092] BUILD Atlético Clube Juazeiro de Caetité vs Associação Atlética Light & Power prob=0.414 roll=0.136
+[092] JOGADA Atlético Clube Juazeiro de Caetité | Noel Cabaço x Aldrich Chisenhall line=2 duel=37.69 corte=-1.30
+[092] FINAL Atlético Clube Juazeiro de Caetité | Sérgio Cangaço fam=5 duel=-9.98 on_target=0.674 goal=0.161
+[092] FINAL Sérgio Cangaço: fora/alvo perdido (roll=0.993)
+[093] posse=Associação Atlética Light & Power | placar Associação Atlética Light & Power 3 x 0 Atlético Clube Juazeiro de Caetité
+[093] BUILD Associação Atlética Light & Power vs Atlético Clube Juazeiro de Caetité prob=0.401 roll=0.242
+[093] JOGADA Associação Atlética Light & Power | Grover Colegrove x Douglas Salles line=5 duel=56.32 corte=-1.55
+[093] FINAL Associação Atlética Light & Power | Kelvin MacArchill fam=1 duel=28.18 on_target=0.620 goal=0.221
+[093] FINAL Kelvin MacArchill: no alvo sem gol (roll=0.414)

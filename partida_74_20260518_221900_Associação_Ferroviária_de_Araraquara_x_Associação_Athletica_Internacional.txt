@@ -1,0 +1,286 @@
+Partida #74
+Data: 1912-01-04
+Mandante: Associação Ferroviária de Araraquara
+Visitante: Associação Athletica Internacional
+Placar: 0 x 1
+Seed: -
+Estádio: Arena Maria Fumaça
+Clima: Ensolarado
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: Associação Athletica Internacional
+
+=== LOG VERBOSE ===
+Início: Associação Ferroviária de Araraquara x Associação Athletica Internacional | estádio=Arena Maria Fumaça | clima=Ensolarado | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[001] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.333 roll=0.873
+[002] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[002] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.333 roll=0.845
+[003] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[003] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.333 roll=0.555
+[004] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[004] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.354 roll=0.461
+[005] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[005] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.354 roll=0.802
+[006] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[006] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.333 roll=0.874
+[007] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[007] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.354 roll=0.438
+[008] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[008] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.333 roll=0.521
+[009] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[009] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.333 roll=0.850
+[010] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[010] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.354 roll=0.345
+[010] JOGADA Associação Ferroviária de Araraquara | Almiro Águas x Astrojildo line=4 duel=-17.94 corte=-1.70
+[011] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[011] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.361 roll=0.909
+[012] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[012] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.383 roll=0.592
+[013] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[013] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.361 roll=0.567
+[014] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[014] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.361 roll=0.404
+[015] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[015] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.361 roll=0.842
+[016] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[016] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.383 roll=0.340
+[016] JOGADA Associação Ferroviária de Araraquara | Hélder Cortes x Lorenzo Silva line=3 duel=-15.32 corte=-1.70
+[016] JOGADA falhou: Lorenzo Silva cortou
+[017] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[017] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.383 roll=0.158
+[017] JOGADA Associação Ferroviária de Araraquara | Almiro Águas x Astrojildo line=3 duel=-15.58 corte=-1.70
+[017] JOGADA falhou: Astrojildo cortou
+[018] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[018] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.361 roll=0.883
+[019] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[019] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.383 roll=0.727
+[020] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[020] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.361 roll=0.537
+[021] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[021] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.411 roll=0.546
+[022] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[022] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.388 roll=0.161
+[022] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Almiro Águas line=3 duel=74.56 corte=-1.10
+[022] JOGADA Associação Athletica Internacional | Christiano Cordeiro x Almiro Águas line=4 duel=5.27 corte=-1.10
+[022] JOGADA Associação Athletica Internacional | Christiano Cordeiro x Almiro Águas line=4 duel=-14.66 corte=-1.10
+[023] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[023] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.411 roll=0.403
+[023] JOGADA Associação Ferroviária de Araraquara | Sebastião Mascarenhas x Didinho line=4 duel=-64.44 corte=-1.70
+[023] JOGADA falhou: Didinho cortou
+[024] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[024] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.388 roll=0.981
+[025] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[025] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.388 roll=0.007
+[025] JOGADA Associação Athletica Internacional | Didinho x Juan Caribenho line=3 duel=2.97 corte=-1.10
+[025] JOGADA Associação Athletica Internacional | Astrojildo x Hélder Cortes line=4 duel=-3.84 corte=-1.10
+[026] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[026] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.388 roll=0.060
+[026] JOGADA Associação Athletica Internacional | Didinho x Juan Caribenho line=4 duel=-54.04 corte=-1.10
+[026] JOGADA falhou: Juan Caribenho cortou
+[027] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[027] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.411 roll=0.850
+[028] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[028] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.411 roll=0.558
+[029] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[029] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.388 roll=0.841
+[030] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[030] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.388 roll=0.714
+[031] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[031] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.411 roll=0.637
+[032] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[032] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.414 roll=0.010
+[032] JOGADA Associação Ferroviária de Araraquara | Altair do Rosário x Abílio Boca-torta line=4 duel=-42.69 corte=-1.70
+[032] JOGADA falhou: Abílio Boca-torta cortou
+[033] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[033] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.388 roll=0.642
+[034] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[034] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.388 roll=0.837
+[035] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[035] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.388 roll=0.944
+[036] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[036] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.388 roll=0.298
+[036] JOGADA Associação Athletica Internacional | Berno Rossi x Sandro Morais line=3 duel=22.11 corte=-1.10
+[036] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Juan Caribenho line=4 duel=-6.38 corte=-1.10
+[036] JOGADA falhou: Juan Caribenho cortou
+[037] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[037] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.414 roll=0.352
+[037] JOGADA Associação Ferroviária de Araraquara | Balbino Alves x Lorenzo Silva line=3 duel=-18.46 corte=-1.70
+[037] JOGADA falhou: Lorenzo Silva cortou
+[038] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[038] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.414 roll=0.292
+[038] JOGADA Associação Ferroviária de Araraquara | Marco Agostinho x Astrojildo line=3 duel=23.95 corte=-1.70
+[038] FINAL Associação Ferroviária de Araraquara | Sandro Morais fam=5 duel=-73.07 on_target=0.662 goal=0.141
+[038] FINAL Sandro Morais: no alvo sem gol (roll=0.427)
+[039] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[039] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.388 roll=0.149
+[039] JOGADA Associação Athletica Internacional | Gio Occhetto x Valêncio Reserva-de-Todo-Mundo line=2 duel=1.54 corte=-1.10
+[039] JOGADA Associação Athletica Internacional | Christiano Cordeiro x Sebastião Mascarenhas line=3 duel=23.34 corte=-1.10
+[039] JOGADA Associação Athletica Internacional | Gio Occhetto x Balbino Alves line=4 duel=-17.71 corte=-1.10
+[040] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[040] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.414 roll=0.425
+[041] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[041] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.388 roll=0.490
+[042] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[042] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.388 roll=0.316
+[042] JOGADA Associação Athletica Internacional | Leo Basbaum x Valêncio Reserva-de-Todo-Mundo line=2 duel=0.41 corte=-1.10
+[042] FINAL Associação Athletica Internacional | Leo Basbaum fam=1 duel=-6.60 on_target=0.765 goal=0.267
+[042] FINAL Leo Basbaum: no alvo sem gol (roll=0.903)
+[043] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[043] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.414 roll=0.092
+[043] JOGADA Associação Ferroviária de Araraquara | Hélder Cortes x Didinho line=4 duel=-9.44 corte=-1.70
+[044] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[044] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.414 roll=0.454
+[045] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[045] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.414 roll=0.005
+[045] JOGADA Associação Ferroviária de Araraquara | Marco Agostinho x Gio Occhetto line=2 duel=20.31 corte=-1.70
+[045] FINAL Associação Ferroviária de Araraquara | Sebastião Mascarenhas fam=1 duel=-22.43 on_target=0.762 goal=0.265
+[045] FINAL Sebastião Mascarenhas: no alvo sem gol (roll=0.385)
+[046] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[046] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.385 roll=0.036
+[046] JOGADA Associação Ferroviária de Araraquara | Altair do Rosário x Abílio Boca-torta line=3 duel=10.74 corte=-1.70
+[046] FINAL Associação Ferroviária de Araraquara | Sandro Morais fam=5 duel=-16.24 on_target=0.633 goal=0.165
+[046] FINAL Sandro Morais: fora/alvo perdido (roll=0.899)
+[047] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[047] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.385 roll=0.841
+[048] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[048] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.385 roll=0.233
+[048] JOGADA Associação Ferroviária de Araraquara | Juan Caribenho x Alceo Panicucci line=4 duel=-1.42 corte=-1.70
+[048] FINAL Associação Ferroviária de Araraquara | Sandro Morais fam=5 duel=-15.20 on_target=0.633 goal=0.165
+[048] FINAL Sandro Morais: no alvo sem gol (roll=0.788)
+[049] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[049] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.361 roll=0.307
+[049] JOGADA Associação Athletica Internacional | Horácio Canhão x Felipe Correia line=2 duel=-1.21 corte=-1.10
+[050] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[050] SUB Associação Ferroviária de Araraquara: saiu Sebastião Mascarenhas (SA) | entrou Toninho Gusmão (PD) | subs=1/5
+[050] SUB Associação Athletica Internacional: saiu Gio Occhetto (CA) | entrou Elizeu Alagoano (CA) | subs=1/5
+[050] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.393 roll=0.394
+[051] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[051] SUB Associação Ferroviária de Araraquara: saiu Sandro Morais (CA) | entrou Tássio Rubro (PE) | subs=2/5
+[051] SUB Associação Athletica Internacional: saiu Leo Basbaum (CA) | entrou Ítalinho (CA) | subs=2/5
+[051] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.308 roll=0.668
+[052] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[052] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.386 roll=0.866
+[053] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[053] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.308 roll=0.238
+[053] JOGADA Associação Athletica Internacional | Ítalinho x Tássio Rubro line=3 duel=30.56 corte=-1.10
+[053] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Toninho Gusmão line=4 duel=3.26 corte=-1.10
+[053] JOGADA Associação Athletica Internacional | Alceo Panicucci x Felipe Correia line=5 duel=60.20 corte=-1.35
+[053] FINAL Associação Athletica Internacional | Didinho fam=1 duel=7.65 on_target=0.726 goal=0.265
+[053] FINAL Didinho: fora/alvo perdido (roll=0.923)
+[054] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[054] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.386 roll=0.402
+[055] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[055] SUB Associação Athletica Internacional: saiu Horácio Canhão (MA) | entrou Arythoreon (MA) | subs=3/5
+[055] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.386 roll=0.902
+[056] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[056] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.415 roll=0.881
+[057] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[057] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.415 roll=0.633
+[058] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[058] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.299 roll=0.501
+[059] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[059] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.299 roll=0.497
+[060] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[060] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.299 roll=0.707
+[061] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[061] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.299 roll=0.662
+[062] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[062] SUB Associação Athletica Internacional: saiu Berno Rossi (ZAG) | entrou Fabrício Leão (ZAG) | subs=4/5
+[062] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.299 roll=0.134
+[062] JOGADA Associação Athletica Internacional | Astrojildo x Tássio Rubro line=4 duel=-13.97 corte=-1.10
+[062] JOGADA falhou: Tássio Rubro cortou
+[063] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[063] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.419 roll=0.620
+[064] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[064] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.299 roll=0.789
+[065] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[065] SUB Associação Athletica Internacional: saiu Abílio Boca-torta (AE) | entrou Rodolfo Freire (ME) | subs=5/5
+[065] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.422 roll=0.519
+[066] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[066] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.295 roll=0.727
+[067] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[067] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.422 roll=0.727
+[068] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[068] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.295 roll=0.479
+[069] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[069] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.426 roll=0.872
+[070] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[070] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.295 roll=0.502
+[071] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[071] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.426 roll=0.691
+[072] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[072] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.426 roll=0.429
+[073] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 0 Associação Athletica Internacional
+[073] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.295 roll=0.277
+[073] JOGADA Associação Athletica Internacional | Ítalinho x Hélder Cortes line=3 duel=22.92 corte=-1.05
+[073] JOGADA Associação Athletica Internacional | Didinho x Valêncio Reserva-de-Todo-Mundo line=5 duel=7.09 corte=-1.30
+[073] JOGADA Associação Athletica Internacional | Arythoreon x Juan Caribenho line=5 duel=73.29 corte=-1.80
+[073] FINAL Associação Athletica Internacional | Elizeu Alagoano fam=1 duel=18.05 on_target=0.767 goal=0.279
+[073] FINAL Elizeu Alagoano: GOL subtipo=CHUTE (roll=0.186)
+[074] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[074] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.322 roll=0.483
+[075] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[075] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.322 roll=0.274
+[075] JOGADA Associação Athletica Internacional | Arythoreon x Almiro Águas line=2 duel=11.41 corte=-1.30
+[075] JOGADA Associação Athletica Internacional | Arythoreon x Marco Agostinho line=3 duel=19.40 corte=-1.30
+[075] JOGADA Associação Athletica Internacional | Ítalinho x Almiro Águas line=4 duel=-13.26 corte=-1.30
+[075] JOGADA falhou: Almiro Águas cortou
+[076] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[076] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.515 roll=0.760
+[077] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[077] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.313 roll=0.812
+[078] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[078] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.515 roll=0.482
+[078] JOGADA Associação Ferroviária de Araraquara | Valêncio Reserva-de-Todo-Mundo x Didinho line=4 duel=-2.51 corte=-1.70
+[078] FINAL Associação Ferroviária de Araraquara | Valêncio Reserva-de-Todo-Mundo fam=5 duel=-16.22 on_target=0.712 goal=0.180
+[078] FINAL Valêncio Reserva-de-Todo-Mundo: no alvo sem gol (roll=0.537)
+[079] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[079] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.515 roll=0.403
+[079] JOGADA Associação Ferroviária de Araraquara | Balbino Alves x Fabrício Leão line=4 duel=-30.91 corte=-1.70
+[079] JOGADA falhou: Fabrício Leão cortou
+[080] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[080] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.313 roll=0.998
+[081] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[081] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.515 roll=0.256
+[081] JOGADA Associação Ferroviária de Araraquara | Felipe Correia x Alceo Panicucci line=4 duel=-11.64 corte=-1.70
+[081] JOGADA falhou: Alceo Panicucci cortou
+[082] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[082] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.313 roll=0.965
+[083] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[083] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.313 roll=0.109
+[083] JOGADA Associação Athletica Internacional | Lorenzo Silva x Altair do Rosário line=2 duel=32.32 corte=-1.30
+[083] JOGADA Associação Athletica Internacional | Alceo Panicucci x Tássio Rubro line=4 duel=15.18 corte=-1.30
+[083] JOGADA Associação Athletica Internacional | Ítalinho x Juan Caribenho line=5 duel=11.34 corte=-2.05
+[083] FINAL Associação Athletica Internacional | Alceo Panicucci fam=1 duel=-0.85 on_target=0.737 goal=0.268
+[083] FINAL Alceo Panicucci: no alvo sem gol (roll=0.886)
+[084] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[084] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.515 roll=0.848
+[085] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[085] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.580 roll=0.910
+[086] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[086] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.313 roll=0.875
+[087] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[087] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.580 roll=0.168
+[087] JOGADA Associação Ferroviária de Araraquara | Hélder Cortes x Ítalinho line=4 duel=-20.22 corte=-1.70
+[087] JOGADA falhou: Ítalinho cortou
+[088] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[088] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.313 roll=0.778
+[089] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[089] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.580 roll=0.549
+[089] JOGADA Associação Ferroviária de Araraquara | Juan Caribenho x Lorenzo Silva line=3 duel=-6.64 corte=-1.70
+[089] JOGADA falhou: Lorenzo Silva cortou
+[090] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[090] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.580 roll=0.959
+[091] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[091] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.580 roll=0.287
+[091] JOGADA Associação Ferroviária de Araraquara | Balbino Alves x Arythoreon line=3 duel=-7.05 corte=-1.70
+[092] posse=Associação Ferroviária de Araraquara | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[092] BUILD Associação Ferroviária de Araraquara vs Associação Athletica Internacional prob=0.580 roll=0.315
+[092] JOGADA Associação Ferroviária de Araraquara | Altair do Rosário x Lorenzo Silva line=2 duel=49.35 corte=-1.70
+[092] FINAL Associação Ferroviária de Araraquara | Tássio Rubro fam=5 duel=-8.11 on_target=0.816 goal=0.190
+[092] FINAL Tássio Rubro: no alvo sem gol (roll=0.847)
+[093] posse=Associação Athletica Internacional | placar Associação Ferroviária de Araraquara 0 x 1 Associação Athletica Internacional
+[093] BUILD Associação Athletica Internacional vs Associação Ferroviária de Araraquara prob=0.313 roll=0.232
+[093] JOGADA Associação Athletica Internacional | Christiano Cordeiro x Marco Agostinho line=2 duel=-8.14 corte=-1.30

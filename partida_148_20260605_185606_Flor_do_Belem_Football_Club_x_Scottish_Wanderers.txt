@@ -1,0 +1,321 @@
+Partida #148
+Data: 1912-01-10
+Mandante: Flor do Belem Football Club
+Visitante: Scottish Wanderers
+Placar: 0 x 0
+Seed: -
+Estádio: Arena Belenzinho
+Clima: Nublado
+Placar tempo normal: 0 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Flor do Belem Football Club x Scottish Wanderers | estádio=Arena Belenzinho | clima=Nublado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[001] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.284 roll=0.723
+[002] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[002] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.292 roll=0.246
+[002] JOGADA Flor do Belem Football Club | Ataíde Andrade x Stan Perch line=3 duel=31.41 corte=-1.70
+[002] JOGADA Flor do Belem Football Club | Demétrio Correia x Len Weegal line=4 duel=-10.95 corte=-1.70
+[002] JOGADA falhou: Len Weegal cortou
+[003] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[003] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.292 roll=0.425
+[004] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[004] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.292 roll=0.308
+[005] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[005] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.284 roll=0.508
+[006] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[006] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.284 roll=0.254
+[006] JOGADA Scottish Wanderers | Stan Perch x Soeiro Braga line=3 duel=76.66 corte=-1.10
+[006] JOGADA Scottish Wanderers | Brad Coppersmith x Sisenando Bandeira line=4 duel=-26.06 corte=-1.10
+[006] JOGADA falhou: Sisenando Bandeira cortou
+[007] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[007] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.292 roll=0.245
+[007] JOGADA Flor do Belem Football Club | Ivo Vieira x Doran Woodville line=3 duel=23.24 corte=-1.70
+[007] FINAL Flor do Belem Football Club | Casimiro Caymmi fam=5 duel=-17.33 on_target=0.518 goal=0.136
+[007] FINAL Casimiro Caymmi: fora/alvo perdido (roll=0.639)
+[008] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[008] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.292 roll=0.853
+[009] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[009] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.284 roll=0.071
+[009] JOGADA Scottish Wanderers | Stan Perch x Ataíde Andrade line=3 duel=39.18 corte=-1.10
+[009] JOGADA Scottish Wanderers | Stan Perch x Soeiro Braga line=4 duel=-0.25 corte=-1.10
+[009] JOGADA Scottish Wanderers | Louis Clitherow x Amaro Abreu line=4 duel=44.38 corte=-1.10
+[009] FINAL Scottish Wanderers | Louis Clitherow fam=1 duel=3.37 on_target=0.601 goal=0.219
+[009] FINAL Louis Clitherow: fora/alvo perdido (roll=0.826)
+[010] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[010] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.292 roll=0.544
+[011] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[011] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.308 roll=0.176
+[011] JOGADA Scottish Wanderers | Doran Woodville x Soeiro Braga line=4 duel=39.48 corte=-1.10
+[011] FINAL Scottish Wanderers | Louis Clitherow fam=1 duel=8.50 on_target=0.649 goal=0.235
+[011] FINAL Louis Clitherow: fora/alvo perdido (roll=0.738)
+[012] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[012] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.308 roll=0.937
+[013] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[013] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.308 roll=0.007
+[013] JOGADA Scottish Wanderers | Stan Perch x Elioenai Pires line=3 duel=-20.11 corte=-1.10
+[014] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[014] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.315 roll=0.426
+[015] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[015] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.315 roll=0.236
+[015] JOGADA Flor do Belem Football Club | Sisenando Bandeira x Damon Frampton line=3 duel=-3.18 corte=-1.70
+[015] JOGADA falhou: Damon Frampton cortou
+[016] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[016] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.308 roll=0.793
+[017] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[017] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.308 roll=0.011
+[017] JOGADA Scottish Wanderers | Little Geraldo x Sisenando Bandeira line=3 duel=1.03 corte=-1.10
+[017] JOGADA Scottish Wanderers | Len Weegal x Sisenando Bandeira line=4 duel=-34.70 corte=-1.10
+[017] JOGADA falhou: Sisenando Bandeira cortou
+[018] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[018] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.308 roll=0.376
+[019] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[019] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.308 roll=0.739
+[020] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[020] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.315 roll=0.985
+[021] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[021] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.331 roll=0.371
+[022] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[022] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.331 roll=0.067
+[022] JOGADA Scottish Wanderers | Brad Coppersmith x Sisenando Bandeira line=2 duel=16.02 corte=-1.10
+[022] JOGADA Scottish Wanderers | Damon Frampton x Casimiro Caymmi line=3 duel=44.56 corte=-1.10
+[022] JOGADA Scottish Wanderers | Len Weegal x Elioenai Pires line=4 duel=-23.17 corte=-1.10
+[023] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[023] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.331 roll=0.323
+[023] JOGADA Scottish Wanderers | Louis Clitherow x Ataíde Andrade line=3 duel=1.78 corte=-1.10
+[023] JOGADA Scottish Wanderers | Mike Constable x Ivo Vieira line=4 duel=-2.50 corte=-1.10
+[023] JOGADA falhou: Ivo Vieira cortou
+[024] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[024] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.339 roll=0.469
+[025] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[025] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.331 roll=0.458
+[026] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[026] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.339 roll=0.398
+[027] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[027] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.331 roll=0.639
+[028] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[028] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.339 roll=0.402
+[029] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[029] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.339 roll=0.474
+[030] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[030] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.339 roll=0.927
+[031] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[031] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.339 roll=0.916
+[032] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[032] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.342 roll=0.341
+[032] JOGADA Flor do Belem Football Club | Ataíde Andrade x Stan Perch line=4 duel=-24.14 corte=-1.70
+[033] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[033] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.342 roll=0.691
+[034] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[034] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.331 roll=0.175
+[034] JOGADA Scottish Wanderers | Brad Coppersmith x Casimiro Caymmi line=4 duel=-35.24 corte=-1.10
+[034] JOGADA falhou: Casimiro Caymmi cortou
+[035] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[035] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.342 roll=0.107
+[035] JOGADA Flor do Belem Football Club | Casimiro Caymmi x Len Weegal line=3 duel=-15.26 corte=-1.70
+[035] JOGADA falhou: Len Weegal cortou
+[036] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[036] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.331 roll=0.147
+[036] JOGADA Scottish Wanderers | Damon Frampton x Genésio Moniz line=2 duel=14.61 corte=-1.10
+[036] JOGADA Scottish Wanderers | Damon Frampton x Vivaldo Tomás line=3 duel=-19.51 corte=-1.10
+[036] JOGADA falhou: Vivaldo Tomás cortou
+[037] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[037] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.342 roll=0.441
+[038] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[038] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.331 roll=0.616
+[038] FINAL Scottish Wanderers | Darcy Douch fam=5 duel=3.25 on_target=0.579 goal=0.140
+[038] FINAL Darcy Douch: no alvo sem gol (roll=0.310)
+[039] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[039] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.342 roll=0.873
+[040] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[040] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.331 roll=0.346
+[041] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[041] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.331 roll=0.119
+[041] JOGADA Scottish Wanderers | Doran Woodville x Casimiro Caymmi line=2 duel=-19.76 corte=-1.10
+[041] JOGADA falhou: Casimiro Caymmi cortou
+[042] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[042] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.342 roll=0.052
+[042] JOGADA Flor do Belem Football Club | Vivaldo Tomás x Brad Coppersmith line=4 duel=-2.04 corte=-1.70
+[042] JOGADA falhou: Brad Coppersmith cortou
+[043] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[043] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.331 roll=0.317
+[043] JOGADA Scottish Wanderers | Len Weegal x Elioenai Pires line=3 duel=-19.76 corte=-1.10
+[043] JOGADA falhou: Elioenai Pires cortou
+[044] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[044] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.342 roll=0.334
+[044] JOGADA Flor do Belem Football Club | Amaro Abreu x Len Weegal line=3 duel=-7.46 corte=-1.70
+[044] JOGADA falhou: Len Weegal cortou
+[045] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[045] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.342 roll=0.534
+[046] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[046] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.318 roll=0.891
+[047] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[047] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.308 roll=0.689
+[048] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[048] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.308 roll=0.041
+[048] JOGADA Scottish Wanderers | Louis Clitherow x Soeiro Braga line=4 duel=41.65 corte=-1.10
+[048] FINAL Scottish Wanderers | Louis Clitherow fam=1 duel=16.06 on_target=0.649 goal=0.239
+[048] FINAL Louis Clitherow: fora/alvo perdido (roll=0.657)
+[049] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[049] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.318 roll=0.810
+[050] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[050] SUB Flor do Belem Football Club: saiu Demétrio Correia (CA) | entrou Franco Araújo (SA) | subs=1/5
+[050] SUB Scottish Wanderers: saiu Doran Woodville (SA) | entrou Ludo Dobbs (SA) | subs=1/5
+[050] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.303 roll=0.185
+[050] JOGADA Scottish Wanderers | Little Geraldo x Amaro Abreu line=2 duel=22.25 corte=-1.10
+[050] FINAL Scottish Wanderers | Louis Clitherow fam=1 duel=11.88 on_target=0.649 goal=0.237
+[050] FINAL Louis Clitherow: no alvo sem gol (roll=0.345)
+[051] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[051] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.318 roll=0.292
+[051] JOGADA Flor do Belem Football Club | Soeiro Braga x Louis Clitherow line=4 duel=14.86 corte=-1.70
+[051] FINAL Flor do Belem Football Club | Amaro Abreu fam=5 duel=1.27 on_target=0.560 goal=0.153
+[051] FINAL Amaro Abreu: no alvo sem gol (roll=0.911)
+[052] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[052] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.318 roll=0.897
+[053] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[053] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.303 roll=0.911
+[054] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[054] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.303 roll=0.140
+[054] JOGADA Scottish Wanderers | Little Geraldo x Amaro Abreu line=4 duel=21.05 corte=-1.10
+[054] JOGADA Scottish Wanderers | Mike Constable x Elioenai Pires line=5 duel=9.36 corte=-1.35
+[054] JOGADA Scottish Wanderers | Len Weegal x Sisenando Bandeira line=5 duel=45.88 corte=-1.35
+[054] FINAL Scottish Wanderers | Louis Clitherow fam=1 duel=15.01 on_target=0.649 goal=0.238
+[054] FINAL Louis Clitherow: fora/alvo perdido (roll=0.902)
+[055] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[055] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.318 roll=0.713
+[056] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[056] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.326 roll=0.853
+[057] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[057] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.341 roll=0.074
+[057] JOGADA Flor do Belem Football Club | Sisenando Bandeira x Mike Constable line=3 duel=-6.87 corte=-1.70
+[057] JOGADA falhou: Mike Constable cortou
+[058] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[058] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.341 roll=0.592
+[059] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[059] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.341 roll=0.279
+[059] JOGADA Flor do Belem Football Club | Elioenai Pires x Darcy Douch line=3 duel=-16.43 corte=-1.70
+[059] JOGADA falhou: Darcy Douch cortou
+[060] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[060] SUB Flor do Belem Football Club: saiu Amaro Abreu (PE) | entrou Emanuel Queiroz (PD) | subs=2/5
+[060] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.304 roll=0.250
+[060] JOGADA Scottish Wanderers | Edgar Barbosa x Ataíde Andrade line=4 duel=-3.67 corte=-1.09
+[061] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[061] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.343 roll=0.431
+[062] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[062] SUB Flor do Belem Football Club: saiu Soeiro Braga (PD) | entrou Saladino Ribeiro (MD) | subs=3/5
+[062] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.345 roll=0.543
+[063] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[063] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.345 roll=0.530
+[064] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[064] SUB Flor do Belem Football Club: saiu Sisenando Bandeira (MA) | entrou Alamiro Florencio (MA) | subs=4/5
+[064] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.303 roll=0.742
+[065] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[065] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.344 roll=0.565
+[066] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[066] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.344 roll=0.766
+[067] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[067] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.344 roll=0.475
+[068] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[068] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.348 roll=0.083
+[068] JOGADA Flor do Belem Football Club | Saladino Ribeiro x Len Weegal line=4 duel=21.84 corte=-1.70
+[068] JOGADA Flor do Belem Football Club | Elioenai Pires x Brad Coppersmith line=5 duel=27.69 corte=-1.95
+[068] JOGADA Flor do Belem Football Club | Alamiro Florencio x Len Weegal line=5 duel=16.72 corte=-2.45
+[068] FINAL Flor do Belem Football Club | Emanuel Queiroz fam=1 duel=19.32 on_target=0.682 goal=0.257
+[068] FINAL Emanuel Queiroz: no alvo sem gol (roll=0.855)
+[069] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[069] SUB Flor do Belem Football Club: saiu Genésio Moniz (VOL) | entrou Ludovico Carreira (MC) | subs=5/5
+[069] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.350 roll=0.826
+[070] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[070] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.350 roll=0.854
+[071] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[071] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.296 roll=0.967
+[072] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[072] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.296 roll=0.893
+[073] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[073] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.296 roll=0.018
+[073] JOGADA Scottish Wanderers | Len Weegal x Ivo Vieira line=3 duel=-17.04 corte=-1.05
+[073] JOGADA falhou: Ivo Vieira cortou
+[074] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[074] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.296 roll=0.140
+[074] JOGADA Scottish Wanderers | Ludo Dobbs x Ivo Vieira line=3 duel=42.26 corte=-1.05
+[074] JOGADA Scottish Wanderers | Ludo Dobbs x Vivaldo Tomás line=4 duel=1.37 corte=-1.05
+[074] FINAL Scottish Wanderers | Louis Clitherow fam=1 duel=14.41 on_target=0.683 goal=0.245
+[074] FINAL Louis Clitherow: no alvo sem gol (roll=0.669)
+[075] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[075] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.350 roll=0.106
+[075] JOGADA Flor do Belem Football Club | Emanuel Queiroz x Darcy Douch line=4 duel=-67.27 corte=-1.70
+[075] JOGADA falhou: Darcy Douch cortou
+[076] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[076] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.360 roll=0.276
+[076] JOGADA Flor do Belem Football Club | Franco Araújo x Brad Coppersmith line=4 duel=-2.71 corte=-1.70
+[076] JOGADA falhou: Brad Coppersmith cortou
+[077] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[077] SUB Scottish Wanderers: saiu Stan Perch (ZAG) | entrou Sanford Cowell (VOL) | subs=2/5
+[077] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.360 roll=0.844
+[078] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[078] SUB Scottish Wanderers: saiu Len Weegal (ZAG) | entrou Ambrose Sarchet (VOL) | subs=3/5
+[078] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.358 roll=0.442
+[079] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[079] SUB Scottish Wanderers: saiu Edgar Barbosa (ME) | entrou Thomas Watling (MA) | subs=4/5
+[079] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.357 roll=0.326
+[079] JOGADA Flor do Belem Football Club | Saladino Ribeiro x Ludo Dobbs line=4 duel=44.25 corte=-1.70
+[079] JOGADA Flor do Belem Football Club | Ivo Vieira x Brad Coppersmith line=5 duel=38.68 corte=-1.95
+[079] JOGADA Flor do Belem Football Club | Casimiro Caymmi x Louis Clitherow line=5 duel=81.62 corte=-1.95
+[079] FINAL Flor do Belem Football Club | Franco Araújo fam=5 duel=-47.71 on_target=0.603 goal=0.140
+[079] FINAL Franco Araújo: fora/alvo perdido (roll=0.742)
+[080] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[080] SUB Scottish Wanderers: saiu Ludo Dobbs (SA) | entrou Milton Waterhouse (PE) | subs=5/5
+[080] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.311 roll=0.253
+[080] JOGADA Scottish Wanderers | Ambrose Sarchet x Ludovico Carreira line=4 duel=-25.11 corte=-1.05
+[080] JOGADA falhou: Ludovico Carreira cortou
+[081] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[081] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.357 roll=0.992
+[082] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[082] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.311 roll=0.167
+[082] JOGADA Scottish Wanderers | Louis Clitherow x Alamiro Florencio line=4 duel=-1.55 corte=-1.05
+[083] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[083] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.311 roll=0.628
+[084] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[084] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.357 roll=0.093
+[084] JOGADA Flor do Belem Football Club | Alamiro Florencio x Brad Coppersmith line=3 duel=9.77 corte=-1.70
+[084] JOGADA Flor do Belem Football Club | Casimiro Caymmi x Louis Clitherow line=4 duel=1.49 corte=-1.70
+[084] JOGADA Flor do Belem Football Club | Vivaldo Tomás x Ambrose Sarchet line=4 duel=-43.83 corte=-1.70
+[085] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[085] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.376 roll=0.150
+[085] JOGADA Flor do Belem Football Club | Emanuel Queiroz x Damon Frampton line=2 duel=4.84 corte=-1.70
+[085] JOGADA Flor do Belem Football Club | Ludovico Carreira x Little Geraldo line=3 duel=57.08 corte=-1.70
+[085] JOGADA Flor do Belem Football Club | Ivo Vieira x Milton Waterhouse line=4 duel=3.16 corte=-1.70
+[085] FINAL Flor do Belem Football Club | Emanuel Queiroz fam=5 duel=-38.14 on_target=0.642 goal=0.145
+[085] FINAL Emanuel Queiroz: no alvo sem gol (roll=0.629)
+[086] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[086] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.376 roll=0.154
+[086] JOGADA Flor do Belem Football Club | Ludovico Carreira x Brad Coppersmith line=3 duel=10.04 corte=-1.70
+[086] JOGADA Flor do Belem Football Club | Franco Araújo x Damon Frampton line=4 duel=-8.99 corte=-1.70
+[086] JOGADA falhou: Damon Frampton cortou
+[087] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[087] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.376 roll=0.566
+[088] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[088] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.376 roll=0.815
+[089] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[089] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.376 roll=0.307
+[089] JOGADA Flor do Belem Football Club | Saladino Ribeiro x Mike Constable line=4 duel=-2.10 corte=-1.70
+[089] JOGADA falhou: Mike Constable cortou
+[090] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[090] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.328 roll=0.312
+[090] JOGADA Scottish Wanderers | Thomas Watling x Ataíde Andrade line=2 duel=94.52 corte=-1.05
+[090] JOGADA Scottish Wanderers | Milton Waterhouse x Ludovico Carreira line=5 duel=77.09 corte=-1.80
+[090] JOGADA Scottish Wanderers | Thomas Watling x Ivo Vieira line=5 duel=115.15 corte=-1.80
+[090] FINAL Scottish Wanderers | Louis Clitherow fam=1 duel=4.26 on_target=0.740 goal=0.243
+[090] FINAL Louis Clitherow: no alvo sem gol (roll=0.729)
+[091] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[091] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.376 roll=0.584
+[092] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[092] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.376 roll=0.360
+[092] JOGADA Flor do Belem Football Club | Ataíde Andrade x Ambrose Sarchet line=3 duel=-39.11 corte=-1.70
+[093] posse=Scottish Wanderers | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[093] BUILD Scottish Wanderers vs Flor do Belem Football Club prob=0.328 roll=0.457
+[094] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Scottish Wanderers
+[094] BUILD Flor do Belem Football Club vs Scottish Wanderers prob=0.376 roll=0.777

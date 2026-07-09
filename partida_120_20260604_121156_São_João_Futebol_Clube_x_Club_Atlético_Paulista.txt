@@ -1,0 +1,314 @@
+Partida #120
+Data: 1912-01-08
+Mandante: São João Futebol Clube
+Visitante: Club Atlético Paulista
+Placar: 0 x 1
+Seed: -
+Estádio: Olindo Sampaio
+Clima: Ensolarado
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: São João Futebol Clube x Club Atlético Paulista | estádio=Olindo Sampaio | clima=Ensolarado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[001] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.335 roll=0.583
+[002] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[002] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.302 roll=0.749
+[003] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[003] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.302 roll=0.351
+[004] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[004] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.302 roll=0.052
+[004] JOGADA Club Atlético Paulista | Hildegardo Guerra x Amaro Andrade line=4 duel=79.55 corte=-1.13
+[004] FINAL Club Atlético Paulista | Olverio Gimenez fam=1 duel=5.35 on_target=0.600 goal=0.222
+[004] FINAL Olverio Gimenez: fora/alvo perdido (roll=0.790)
+[005] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[005] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.302 roll=0.294
+[005] JOGADA Club Atlético Paulista | Gustavo Miranda x Aitã Palma line=3 duel=-12.32 corte=-1.13
+[006] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[006] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.302 roll=0.952
+[007] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[007] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.335 roll=0.957
+[008] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[008] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.302 roll=0.048
+[008] JOGADA Club Atlético Paulista | Olverio Gimenez x Ipiabas Prado line=5 duel=120.97 corte=-1.38
+[008] FINAL Club Atlético Paulista | Jovelino Torres fam=3 duel=-0.84 on_target=0.544 goal=0.169
+[008] FINAL Jovelino Torres: no alvo sem gol (roll=0.595)
+[009] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[009] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.335 roll=0.295
+[009] JOGADA São João Futebol Clube | Jacy Correa x Hildegardo Guerra line=4 duel=5.71 corte=-1.70
+[009] FINAL São João Futebol Clube | Adelmar Sobral fam=5 duel=-13.80 on_target=0.518 goal=0.135
+[009] FINAL Adelmar Sobral: fora/alvo perdido (roll=0.629)
+[010] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[010] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.335 roll=0.204
+[010] JOGADA São João Futebol Clube | Jacy Correa x Áquila Alves line=4 duel=5.74 corte=-1.70
+[010] JOGADA São João Futebol Clube | Jacy Correa x Augusto Monteiro line=5 duel=72.46 corte=-2.45
+[010] JOGADA São João Futebol Clube | Messias Carrico x Olverio Gimenez line=5 duel=110.76 corte=-1.95
+[010] FINAL São João Futebol Clube | Nabor Fonseca fam=1 duel=-13.97 on_target=0.599 goal=0.219
+[010] FINAL Nabor Fonseca: fora/alvo perdido (roll=0.961)
+[011] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[011] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.327 roll=0.209
+[011] JOGADA Club Atlético Paulista | Randolfo Silva x Nabor Fonseca line=3 duel=44.67 corte=-1.13
+[011] FINAL Club Atlético Paulista | Luís de Castro fam=1 duel=5.33 on_target=0.646 goal=0.236
+[011] FINAL Luís de Castro: no alvo sem gol (roll=0.356)
+[012] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[012] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.362 roll=0.327
+[012] JOGADA São João Futebol Clube | Berto Assis x Jovelino Torres line=2 duel=31.45 corte=-1.70
+[012] JOGADA São João Futebol Clube | Heliodoro Capiberibe x Luís de Castro line=3 duel=3.38 corte=-1.70
+[012] FINAL São João Futebol Clube | Jacy Correa fam=5 duel=-0.30 on_target=0.561 goal=0.150
+[012] FINAL Jacy Correa: fora/alvo perdido (roll=0.646)
+[013] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[013] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.362 roll=0.896
+[014] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[014] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.362 roll=0.070
+[014] JOGADA São João Futebol Clube | Adelmar Sobral x Luís de Castro line=3 duel=14.06 corte=-1.70
+[014] JOGADA São João Futebol Clube | Ipiabas Prado x Hildegardo Guerra line=4 duel=-9.51 corte=-1.70
+[014] JOGADA falhou: Hildegardo Guerra cortou
+[015] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[015] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.327 roll=0.130
+[015] JOGADA Club Atlético Paulista | Jaques Tavares x Nabor Fonseca line=4 duel=45.64 corte=-1.13
+[015] FINAL Club Atlético Paulista | Jovelino Torres fam=3 duel=-1.94 on_target=0.588 goal=0.180
+[015] FINAL Jovelino Torres: fora/alvo perdido (roll=0.905)
+[016] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[016] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.362 roll=0.412
+[017] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[017] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.362 roll=0.994
+[018] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[018] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.362 roll=0.905
+[019] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[019] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.327 roll=0.660
+[020] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[020] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.362 roll=0.399
+[021] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[021] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.601
+[022] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[022] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.254
+[022] JOGADA Club Atlético Paulista | Hildegardo Guerra x Adelmar Sobral line=4 duel=36.18 corte=-1.13
+[022] FINAL Club Atlético Paulista | Jaques Tavares fam=1 duel=12.26 on_target=0.682 goal=0.248
+[022] FINAL Jaques Tavares: fora/alvo perdido (roll=0.696)
+[023] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[023] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.390 roll=0.894
+[024] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[024] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.390 roll=0.715
+[025] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[025] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.658
+[026] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[026] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.390 roll=0.309
+[026] JOGADA São João Futebol Clube | Jacy Correa x Luís de Castro line=3 duel=1.78 corte=-1.70
+[026] JOGADA São João Futebol Clube | Ipiabas Prado x Olverio Gimenez line=4 duel=-32.48 corte=-1.70
+[026] JOGADA falhou: Olverio Gimenez cortou
+[027] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[027] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.390 roll=0.507
+[028] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[028] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.169
+[028] JOGADA Club Atlético Paulista | Randolfo Silva x Nilton Abril line=4 duel=-9.04 corte=-1.13
+[029] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[029] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.557
+[030] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[030] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.390 roll=0.715
+[031] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[031] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.390 roll=0.842
+[032] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[032] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.513
+[033] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[033] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.371
+[034] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[034] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.142
+[034] JOGADA Club Atlético Paulista | Jaques Tavares x Amaro Andrade line=4 duel=74.78 corte=-1.12
+[034] FINAL Club Atlético Paulista | Olverio Gimenez fam=3 duel=-21.16 on_target=0.617 goal=0.176
+[034] FINAL Olverio Gimenez: no alvo sem gol (roll=0.259)
+[035] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[035] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.392 roll=0.158
+[035] JOGADA São João Futebol Clube | Berto Assis x Áquila Alves line=2 duel=-3.97 corte=-1.70
+[035] JOGADA falhou: Áquila Alves cortou
+[036] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[036] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.392 roll=0.664
+[037] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[037] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.392 roll=0.357
+[037] JOGADA São João Futebol Clube | Amaro Andrade x Jovelino Torres line=4 duel=32.43 corte=-1.70
+[037] JOGADA São João Futebol Clube | Aitã Palma x Jovelino Torres line=4 duel=39.51 corte=-1.70
+[037] FINAL São João Futebol Clube | Nabor Fonseca fam=5 duel=-12.96 on_target=0.590 goal=0.150
+[037] FINAL Nabor Fonseca: fora/alvo perdido (roll=0.642)
+[038] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[038] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.392 roll=0.561
+[039] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[039] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.536
+[040] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[040] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.392 roll=0.897
+[041] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[041] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.806
+[042] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[042] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.396
+[043] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[043] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.392 roll=0.072
+[043] JOGADA São João Futebol Clube | Adelmar Sobral x Hildegardo Guerra line=2 duel=-2.65 corte=-1.70
+[043] JOGADA falhou: Hildegardo Guerra cortou
+[044] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[044] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.928
+[045] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[045] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.392 roll=0.292
+[045] JOGADA São João Futebol Clube | Amaro Andrade x Augusto Monteiro line=4 duel=-11.97 corte=-1.70
+[046] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[046] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.327 roll=0.950
+[047] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[047] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.365 roll=0.015
+[047] JOGADA São João Futebol Clube | Adelmar Sobral x Randolfo Silva line=4 duel=-71.05 corte=-1.70
+[047] JOGADA falhou: Randolfo Silva cortou
+[048] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[048] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.327 roll=0.900
+[049] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[049] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.365 roll=0.612
+[050] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[050] SUB São João Futebol Clube: saiu Nabor Fonseca (CA) | entrou Manuel Florenço (PE) | subs=1/5
+[050] SUB Club Atlético Paulista: saiu Jovelino Torres (CA) | entrou Romão Carvalho (CA) | subs=1/5
+[050] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.703
+[051] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[051] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.320 roll=0.794
+[052] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[052] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.320 roll=0.188
+[052] JOGADA São João Futebol Clube | Jacy Correa x Romão Carvalho line=3 duel=30.15 corte=-1.13
+[052] JOGADA São João Futebol Clube | Messias Carrico x Áquila Alves line=4 duel=-6.52 corte=-1.13
+[053] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[053] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.320 roll=0.240
+[053] JOGADA São João Futebol Clube | Ipiabas Prado x Luís de Castro line=4 duel=-13.69 corte=-1.13
+[053] JOGADA falhou: Luís de Castro cortou
+[054] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[054] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.320 roll=0.274
+[054] JOGADA São João Futebol Clube | Amaro Andrade x Jaques Tavares line=3 duel=-18.96 corte=-1.13
+[054] JOGADA falhou: Jaques Tavares cortou
+[055] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[055] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.352 roll=0.810
+[056] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[056] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.345 roll=0.149
+[056] JOGADA São João Futebol Clube | Messias Carrico x Gustavo Miranda line=3 duel=-12.23 corte=-1.13
+[056] JOGADA falhou: Gustavo Miranda cortou
+[057] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[057] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.345 roll=0.065
+[057] JOGADA São João Futebol Clube | Ipiabas Prado x Olverio Gimenez line=4 duel=25.29 corte=-1.13
+[057] FINAL São João Futebol Clube | Jacy Correa fam=3 duel=-3.19 on_target=0.618 goal=0.184
+[057] FINAL Jacy Correa: no alvo sem gol (roll=0.263)
+[058] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[058] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.345 roll=0.437
+[059] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[059] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.378 roll=0.147
+[059] JOGADA Club Atlético Paulista | Gustavo Miranda x Jacy Correa line=5 duel=32.37 corte=-1.55
+[059] FINAL Club Atlético Paulista | Romão Carvalho fam=5 duel=2.83 on_target=0.590 goal=0.156
+[059] FINAL Romão Carvalho: no alvo sem gol (roll=0.901)
+[060] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[060] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.382 roll=0.894
+[061] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[061] SUB São João Futebol Clube: saiu Jacy Correa (SA) | entrou Ivan Pestana (PD) | subs=2/5
+[061] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.340 roll=0.268
+[061] JOGADA São João Futebol Clube | Messias Carrico x Hildegardo Guerra line=4 duel=-13.11 corte=-1.12
+[062] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[062] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.383 roll=0.374
+[062] JOGADA Club Atlético Paulista | Jaques Tavares x Ipiabas Prado line=5 duel=26.61 corte=-2.05
+[062] FINAL Club Atlético Paulista | Olverio Gimenez fam=5 duel=8.75 on_target=0.591 goal=0.159
+[062] FINAL Olverio Gimenez: fora/alvo perdido (roll=0.693)
+[063] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[063] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.383 roll=0.204
+[063] JOGADA Club Atlético Paulista | Randolfo Silva x Heliodoro Capiberibe line=4 duel=60.25 corte=-1.30
+[063] FINAL Club Atlético Paulista | Romão Carvalho fam=5 duel=-43.35 on_target=0.588 goal=0.135
+[063] FINAL Romão Carvalho: fora/alvo perdido (roll=0.961)
+[064] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[064] SUB São João Futebol Clube: saiu Messias Carrico (LD) | entrou Odaír Filippi (LD) | subs=3/5
+[064] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.340 roll=0.758
+[064] FINAL São João Futebol Clube | Adelmar Sobral fam=5 duel=-4.22 on_target=0.580 goal=0.139
+[064] FINAL Adelmar Sobral: fora/alvo perdido (roll=0.859)
+[065] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[065] SUB São João Futebol Clube: saiu Aitã Palma (MC) | entrou Adruzilo Franchi (MC) | subs=4/5
+[065] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.389 roll=0.097
+[065] JOGADA São João Futebol Clube | Odaír Filippi x Sadi Barros line=3 duel=27.33 corte=-1.70
+[065] JOGADA São João Futebol Clube | Heliodoro Capiberibe x Luís de Castro line=4 duel=-5.88 corte=-1.70
+[066] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[066] SUB São João Futebol Clube: saiu Nilton Abril (VOL) | entrou Anhangá Feijóo (VOL) | subs=5/5
+[066] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.338 roll=0.796
+[067] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[067] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.338 roll=0.506
+[068] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[068] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.338 roll=0.787
+[069] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[069] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.338 roll=0.516
+[070] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[070] SUB Club Atlético Paulista: saiu Olverio Gimenez (ME) | entrou Dino Magalhães (MA) | subs=2/5
+[070] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.385 roll=0.874
+[071] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[071] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.343 roll=0.486
+[072] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[072] SUB Club Atlético Paulista: saiu Augusto Monteiro (ZAG) | entrou Almerindo Nicolau (VOL) | subs=3/5
+[072] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.344 roll=0.556
+[073] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[073] SUB Club Atlético Paulista: saiu Sadi Barros (LD) | entrou Jordano Hernandes (AE) | subs=4/5
+[073] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.344 roll=0.121
+[073] JOGADA Club Atlético Paulista | Jaques Tavares x Anhangá Feijóo line=4 duel=-30.88 corte=-1.07
+[073] JOGADA falhou: Anhangá Feijóo cortou
+[074] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[074] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.344 roll=0.673
+[075] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 0 Club Atlético Paulista
+[075] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.344 roll=0.270
+[075] JOGADA Club Atlético Paulista | Almerindo Nicolau x Berto Assis line=5 duel=22.31 corte=-1.32
+[075] FINAL Club Atlético Paulista | Dino Magalhães fam=1 duel=41.86 on_target=0.684 goal=0.262
+[075] FINAL Dino Magalhães: GOL subtipo=CHUTE (roll=0.010)
+[076] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[076] SUB Club Atlético Paulista: saiu Jaques Tavares (MA) | entrou Canto Alves (MC) | subs=5/5
+[076] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.457 roll=0.134
+[076] JOGADA São João Futebol Clube | Amaro Andrade x Hildegardo Guerra line=3 duel=-15.04 corte=-1.70
+[077] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[077] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.327 roll=0.240
+[077] JOGADA Club Atlético Paulista | Almerindo Nicolau x Heliodoro Capiberibe line=5 duel=23.27 corte=-1.55
+[077] FINAL Club Atlético Paulista | Romão Carvalho fam=1 duel=-6.59 on_target=0.653 goal=0.229
+[077] FINAL Romão Carvalho: fora/alvo perdido (roll=0.658)
+[078] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[078] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.457 roll=0.915
+[079] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[079] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.327 roll=0.224
+[079] JOGADA Club Atlético Paulista | Canto Alves x Adruzilo Franchi line=3 duel=44.31 corte=-1.30
+[079] FINAL Club Atlético Paulista | Hildegardo Guerra fam=1 duel=19.01 on_target=0.657 goal=0.242
+[079] FINAL Hildegardo Guerra: fora/alvo perdido (roll=0.972)
+[080] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[080] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.457 roll=0.355
+[080] JOGADA São João Futebol Clube | Berto Assis x Áquila Alves line=2 duel=-3.23 corte=-1.70
+[080] JOGADA falhou: Áquila Alves cortou
+[081] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[081] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.457 roll=0.043
+[081] JOGADA São João Futebol Clube | Adruzilo Franchi x Áquila Alves line=3 duel=11.99 corte=-1.70
+[081] JOGADA São João Futebol Clube | Ipiabas Prado x Jordano Hernandes line=4 duel=-42.51 corte=-1.70
+[082] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[082] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.327 roll=0.626
+[083] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[083] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.457 roll=0.750
+[084] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[084] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.457 roll=0.843
+[085] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[085] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.327 roll=0.928
+[086] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[086] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.482 roll=0.416
+[086] JOGADA São João Futebol Clube | Odaír Filippi x Randolfo Silva line=3 duel=12.89 corte=-1.70
+[086] JOGADA São João Futebol Clube | Berto Assis x Áquila Alves line=4 duel=-68.86 corte=-1.70
+[086] JOGADA falhou: Áquila Alves cortou
+[087] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[087] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.482 roll=0.170
+[087] JOGADA São João Futebol Clube | Odaír Filippi x Dino Magalhães line=3 duel=-5.85 corte=-1.70
+[088] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[088] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.482 roll=0.252
+[088] JOGADA São João Futebol Clube | Ipiabas Prado x Gustavo Miranda line=4 duel=-14.44 corte=-1.70
+[089] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[089] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.482 roll=0.379
+[089] JOGADA São João Futebol Clube | Anhangá Feijóo x Canto Alves line=2 duel=-16.41 corte=-1.70
+[089] JOGADA falhou: Canto Alves cortou
+[090] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[090] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.327 roll=0.559
+[091] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[091] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.327 roll=0.091
+[091] JOGADA Club Atlético Paulista | Luís de Castro x Manuel Florenço line=5 duel=24.44 corte=-1.55
+[091] FINAL Club Atlético Paulista | Hildegardo Guerra fam=3 duel=-1.19 on_target=0.594 goal=0.177
+[091] FINAL Hildegardo Guerra: no alvo sem gol (roll=0.813)
+[092] posse=São João Futebol Clube | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[092] BUILD São João Futebol Clube vs Club Atlético Paulista prob=0.482 roll=0.910
+[093] posse=Club Atlético Paulista | placar São João Futebol Clube 0 x 1 Club Atlético Paulista
+[093] BUILD Club Atlético Paulista vs São João Futebol Clube prob=0.327 roll=0.013
+[093] JOGADA Club Atlético Paulista | Dino Magalhães x Manuel Florenço line=5 duel=41.29 corte=-2.05
+[093] FINAL Club Atlético Paulista | Romão Carvalho fam=3 duel=-11.75 on_target=0.592 goal=0.172
+[093] FINAL Romão Carvalho: no alvo sem gol (roll=0.340)

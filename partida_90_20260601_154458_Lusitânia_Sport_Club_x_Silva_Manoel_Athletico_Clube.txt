@@ -1,0 +1,318 @@
+Partida #90
+Data: 1912-01-07
+Mandante: Lusitânia Sport Club
+Visitante: Silva Manoel Athletico Clube
+Placar: 1 x 0
+Seed: -
+Estádio: Estádio Luso Carioca
+Clima: Nublado
+Placar tempo normal: 1 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Lusitânia Sport Club x Silva Manoel Athletico Clube | estádio=Estádio Luso Carioca | clima=Nublado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 0 x 0 Silva Manoel Athletico Clube
+[001] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.295 roll=0.887
+[002] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 0 x 0 Silva Manoel Athletico Clube
+[002] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.295 roll=0.462
+[003] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Silva Manoel Athletico Clube
+[003] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.281 roll=0.787
+[004] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Silva Manoel Athletico Clube
+[004] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.281 roll=0.680
+[005] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 0 x 0 Silva Manoel Athletico Clube
+[005] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.295 roll=0.851
+[006] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 0 x 0 Silva Manoel Athletico Clube
+[006] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.295 roll=0.536
+[007] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 0 x 0 Silva Manoel Athletico Clube
+[007] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.295 roll=0.844
+[008] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 0 x 0 Silva Manoel Athletico Clube
+[008] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.295 roll=0.553
+[009] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Silva Manoel Athletico Clube
+[009] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.281 roll=0.905
+[010] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Silva Manoel Athletico Clube
+[010] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.281 roll=0.108
+[010] JOGADA Lusitânia Sport Club | Nilton Bettencourt x Estevão Nunes line=2 duel=27.15 corte=-1.14
+[010] FINAL Lusitânia Sport Club | Sindulfo Mascarenhas fam=1 duel=15.59 on_target=0.600 goal=0.227
+[010] FINAL Sindulfo Mascarenhas: no alvo sem gol (roll=0.509)
+[011] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 0 x 0 Silva Manoel Athletico Clube
+[011] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.319 roll=0.803
+[012] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Silva Manoel Athletico Clube
+[012] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.303 roll=0.951
+[013] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 0 x 0 Silva Manoel Athletico Clube
+[013] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.303 roll=0.275
+[013] JOGADA Lusitânia Sport Club | Sindulfo Mascarenhas x Uaupés Cunha line=2 duel=82.81 corte=-1.14
+[013] FINAL Lusitânia Sport Club | Jabes Sousa fam=1 duel=16.73 on_target=0.647 goal=0.241
+[013] FINAL Jabes Sousa: GOL subtipo=CHUTE (roll=0.104)
+[014] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[014] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.356 roll=0.088
+[014] JOGADA Silva Manoel Athletico Clube | Pacal Esteves x Eliseu Mateus line=3 duel=6.00 corte=-1.30
+[014] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Diogo Ribeiro line=4 duel=-11.42 corte=-1.30
+[014] JOGADA falhou: Diogo Ribeiro cortou
+[015] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[015] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.303 roll=0.237
+[015] JOGADA Lusitânia Sport Club | Diogo Ribeiro x Estevão Nunes line=2 duel=23.05 corte=-1.30
+[015] FINAL Lusitânia Sport Club | Jabes Sousa fam=1 duel=15.86 on_target=0.647 goal=0.241
+[015] FINAL Jabes Sousa: no alvo sem gol (roll=0.956)
+[016] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[016] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.356 roll=0.438
+[017] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[017] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.303 roll=0.211
+[017] JOGADA Lusitânia Sport Club | Cícero Feijóo x Edimilson Graça line=4 duel=-21.82 corte=-1.30
+[017] FINAL Lusitânia Sport Club | Cícero Feijóo fam=5 duel=-27.07 on_target=0.550 goal=0.125
+[017] FINAL Cícero Feijóo: no alvo sem gol (roll=0.189)
+[018] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[018] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.356 roll=0.204
+[018] JOGADA Silva Manoel Athletico Clube | Iguape Saviano x Sindulfo Mascarenhas line=2 duel=107.48 corte=-1.30
+[018] JOGADA Silva Manoel Athletico Clube | Raphael Lima x Diogo Ribeiro line=4 duel=-18.60 corte=-1.30
+[019] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[019] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.303 roll=0.043
+[019] JOGADA Lusitânia Sport Club | Fábio Pinto x Igarapava Baldin line=2 duel=35.74 corte=-1.30
+[019] FINAL Lusitânia Sport Club | Nilton Bettencourt fam=1 duel=4.04 on_target=0.648 goal=0.237
+[019] FINAL Nilton Bettencourt: fora/alvo perdido (roll=0.762)
+[020] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[020] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.303 roll=0.961
+[021] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[021] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.326 roll=0.308
+[021] JOGADA Lusitânia Sport Club | Laércio Falcao x Raphael Lima line=4 duel=2.10 corte=-1.30
+[021] JOGADA Lusitânia Sport Club | Alcino Lobo x Uaupés Cunha line=4 duel=4.44 corte=-1.30
+[021] JOGADA Lusitânia Sport Club | Sindulfo Mascarenhas x Amado Mina line=5 duel=-6.04 corte=-2.05
+[021] JOGADA falhou: Amado Mina cortou
+[022] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[022] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.326 roll=0.176
+[022] JOGADA Lusitânia Sport Club | Jabes Sousa x Pacal Esteves line=2 duel=27.61 corte=-1.30
+[022] FINAL Lusitânia Sport Club | Jabes Sousa fam=3 duel=-18.13 on_target=0.615 goal=0.177
+[022] FINAL Jabes Sousa: fora/alvo perdido (roll=0.671)
+[023] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[023] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.326 roll=0.022
+[023] JOGADA Lusitânia Sport Club | Jabes Sousa x Uaupés Cunha line=4 duel=-20.00 corte=-1.30
+[023] JOGADA falhou: Uaupés Cunha cortou
+[024] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[024] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.326 roll=0.144
+[024] JOGADA Lusitânia Sport Club | Sindulfo Mascarenhas x Pacal Esteves line=4 duel=7.80 corte=-1.30
+[024] FINAL Lusitânia Sport Club | Nilton Bettencourt fam=1 duel=2.11 on_target=0.682 goal=0.243
+[024] FINAL Nilton Bettencourt: fora/alvo perdido (roll=0.739)
+[025] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[025] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.383 roll=0.146
+[025] JOGADA Silva Manoel Athletico Clube | Igarapava Baldin x Eliseu Mateus line=2 duel=51.39 corte=-1.30
+[025] JOGADA Silva Manoel Athletico Clube | Amado Mina x Eliseu Mateus line=5 duel=-11.74 corte=-1.55
+[025] JOGADA falhou: Eliseu Mateus cortou
+[026] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[026] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.326 roll=0.983
+[027] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[027] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.326 roll=0.416
+[028] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[028] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.383 roll=0.497
+[029] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[029] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.383 roll=0.852
+[030] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[030] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.383 roll=0.302
+[030] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Fábio Pinto line=4 duel=1.84 corte=-1.30
+[030] JOGADA Silva Manoel Athletico Clube | Igarapava Baldin x Eliseu Mateus line=4 duel=-8.52 corte=-1.30
+[031] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[031] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.383 roll=0.352
+[031] JOGADA Silva Manoel Athletico Clube | Estevão Nunes x Alcino Lobo line=4 duel=-2.96 corte=-1.30
+[032] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[032] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.383 roll=0.668
+[033] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[033] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.326 roll=0.356
+[034] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[034] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.326 roll=0.983
+[035] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[035] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.383 roll=0.543
+[036] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[036] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.383 roll=0.927
+[037] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[037] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.383 roll=0.181
+[037] JOGADA Silva Manoel Athletico Clube | Maragogi Perdigão x Anaim Rodrigues line=2 duel=50.31 corte=-1.30
+[037] FINAL Silva Manoel Athletico Clube | Maragogi Perdigão fam=5 duel=-14.70 on_target=0.590 goal=0.149
+[037] FINAL Maragogi Perdigão: no alvo sem gol (roll=0.630)
+[038] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[038] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.326 roll=0.112
+[038] JOGADA Lusitânia Sport Club | Jabes Sousa x Iguape Saviano line=2 duel=35.12 corte=-1.30
+[038] FINAL Lusitânia Sport Club | Sindulfo Mascarenhas fam=3 duel=-29.56 on_target=0.616 goal=0.172
+[038] FINAL Sindulfo Mascarenhas: fora/alvo perdido (roll=0.873)
+[039] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[039] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.383 roll=0.909
+[040] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[040] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.326 roll=0.628
+[041] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[041] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.326 roll=0.968
+[042] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[042] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.383 roll=0.950
+[043] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[043] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.326 roll=0.097
+[043] JOGADA Lusitânia Sport Club | Cícero Feijóo x Edimilson Graça line=3 duel=0.81 corte=-1.30
+[043] FINAL Lusitânia Sport Club | Nilton Bettencourt fam=1 duel=-2.43 on_target=0.682 goal=0.241
+[043] FINAL Nilton Bettencourt: no alvo sem gol (roll=0.928)
+[044] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[044] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.326 roll=0.106
+[044] JOGADA Lusitânia Sport Club | Eliseu Mateus x Raphael Lima line=3 duel=42.04 corte=-1.30
+[044] FINAL Lusitânia Sport Club | Sindulfo Mascarenhas fam=1 duel=3.45 on_target=0.682 goal=0.244
+[044] FINAL Sindulfo Mascarenhas: no alvo sem gol (roll=0.601)
+[045] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[045] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.383 roll=0.195
+[045] JOGADA Silva Manoel Athletico Clube | Uaupés Cunha x Anaim Rodrigues line=3 duel=0.51 corte=-1.30
+[045] FINAL Silva Manoel Athletico Clube | Raphael Lima fam=5 duel=-8.59 on_target=0.590 goal=0.152
+[045] FINAL Raphael Lima: fora/alvo perdido (roll=0.812)
+[046] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[046] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.356 roll=0.962
+[047] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[047] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.303 roll=0.231
+[047] JOGADA Lusitânia Sport Club | Anaim Rodrigues x Amado Mina line=2 duel=59.19 corte=-1.30
+[047] FINAL Lusitânia Sport Club | Eliseu Mateus fam=3 duel=9.77 on_target=0.588 goal=0.185
+[047] FINAL Eliseu Mateus: fora/alvo perdido (roll=0.773)
+[048] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[048] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.303 roll=0.788
+[049] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[049] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.356 roll=0.283
+[049] JOGADA Silva Manoel Athletico Clube | Igarapava Baldin x Anaim Rodrigues line=2 duel=49.67 corte=-1.30
+[049] JOGADA Silva Manoel Athletico Clube | Raphael Lima x Cícero Feijóo line=5 duel=7.74 corte=-2.05
+[049] FINAL Silva Manoel Athletico Clube | Raphael Lima fam=5 duel=-9.01 on_target=0.561 goal=0.147
+[049] FINAL Raphael Lima: fora/alvo perdido (roll=0.767)
+[050] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[050] SUB Lusitânia Sport Club: saiu Nilton Bettencourt (CA) | entrou Lucínio Menezes (PD) | subs=1/5
+[050] SUB Silva Manoel Athletico Clube: saiu Raphael Lima (CA) | entrou Iauaretê Capitão (PE) | subs=1/5
+[050] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.363 roll=0.288
+[050] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Alcino Lobo line=3 duel=-8.65 corte=-1.30
+[050] JOGADA falhou: Alcino Lobo cortou
+[051] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[051] SUB Lusitânia Sport Club: saiu Sindulfo Mascarenhas (SA) | entrou Jonathan Gama (MA) | subs=2/5
+[051] SUB Silva Manoel Athletico Clube: saiu Maragogi Perdigão (MC) | entrou Tarek Rios (VOL) | subs=2/5
+[051] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.367 roll=0.405
+[052] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[052] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.296 roll=0.327
+[053] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[053] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.296 roll=0.555
+[054] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[054] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.367 roll=0.533
+[055] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[055] SUB Silva Manoel Athletico Clube: saiu Pacal Esteves (MD) | entrou Anatólio Filippi (PD) | subs=3/5
+[055] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.295 roll=0.685
+[056] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[056] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.391 roll=0.777
+[057] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[057] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.317 roll=0.451
+[058] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[058] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.317 roll=0.648
+[059] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[059] SUB Silva Manoel Athletico Clube: saiu Igarapava Baldin (ZAG) | entrou Lemuel Sodré (ZAG) | subs=4/5
+[059] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.390 roll=0.589
+[060] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[060] SUB Lusitânia Sport Club: saiu Laércio Falcao (MC) | entrou Leonídio Furtado (MD) | subs=3/5
+[060] SUB Silva Manoel Athletico Clube: saiu Inocêncio Natividade (LD) | entrou Aron Capiberibe (LD) | subs=5/5
+[060] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.323 roll=0.761
+[061] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[061] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.388 roll=0.868
+[062] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[062] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.323 roll=0.233
+[062] JOGADA Lusitânia Sport Club | Eliseu Mateus x Uaupés Cunha line=3 duel=34.39 corte=-1.30
+[062] FINAL Lusitânia Sport Club | Jonathan Gama fam=1 duel=30.03 on_target=0.682 goal=0.255
+[062] FINAL Jonathan Gama: fora/alvo perdido (roll=0.757)
+[063] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[063] SUB Lusitânia Sport Club: saiu Fábio Pinto (LE) | entrou Susano Bettencourt (LE) | subs=4/5
+[063] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.323 roll=0.146
+[063] JOGADA Lusitânia Sport Club | Leonídio Furtado x Uaupés Cunha line=3 duel=39.05 corte=-1.30
+[063] FINAL Lusitânia Sport Club | Leonídio Furtado fam=3 duel=-5.13 on_target=0.616 goal=0.183
+[063] FINAL Leonídio Furtado: no alvo sem gol (roll=0.478)
+[064] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[064] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.394 roll=0.877
+[065] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[065] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.394 roll=0.225
+[065] JOGADA Silva Manoel Athletico Clube | Anatólio Filippi x Cícero Feijóo line=3 duel=0.44 corte=-1.30
+[065] FINAL Silva Manoel Athletico Clube | Estevão Nunes fam=5 duel=0.33 on_target=0.591 goal=0.156
+[065] FINAL Estevão Nunes: no alvo sem gol (roll=0.485)
+[066] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[066] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.394 roll=0.426
+[067] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[067] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.323 roll=0.513
+[068] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[068] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.323 roll=0.864
+[069] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[069] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.394 roll=0.209
+[069] JOGADA Silva Manoel Athletico Clube | Anatólio Filippi x Lucínio Menezes line=2 duel=98.10 corte=-1.30
+[069] JOGADA Silva Manoel Athletico Clube | Tarek Rios x Susano Bettencourt line=5 duel=-8.92 corte=-1.55
+[069] JOGADA falhou: Susano Bettencourt cortou
+[070] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[070] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.320 roll=0.844
+[071] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[071] SUB Lusitânia Sport Club: saiu Diogo Ribeiro (ZAG) | entrou Evangelista Branco (ZAG) | subs=5/5
+[071] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.398 roll=0.007
+[071] JOGADA Silva Manoel Athletico Clube | Tarek Rios x Lucínio Menezes line=2 duel=15.72 corte=-1.30
+[071] JOGADA Silva Manoel Athletico Clube | Tarek Rios x Cícero Feijóo line=3 duel=-8.51 corte=-1.30
+[071] JOGADA falhou: Cícero Feijóo cortou
+[072] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[072] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.320 roll=0.074
+[072] JOGADA Lusitânia Sport Club | Leonídio Furtado x Tarek Rios line=4 duel=14.13 corte=-1.30
+[072] JOGADA Lusitânia Sport Club | Alcino Lobo x Iguape Saviano line=5 duel=74.71 corte=-1.55
+[072] FINAL Lusitânia Sport Club | Leonídio Furtado fam=1 duel=34.26 on_target=0.668 goal=0.257
+[072] FINAL Leonídio Furtado: no alvo sem gol (roll=0.698)
+[073] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[073] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.320 roll=0.689
+[074] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[074] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.398 roll=0.827
+[075] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[075] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.320 roll=0.009
+[075] JOGADA Lusitânia Sport Club | Susano Bettencourt x Amado Mina line=3 duel=23.77 corte=-1.30
+[075] FINAL Lusitânia Sport Club | Eliseu Mateus fam=1 duel=19.70 on_target=0.669 goal=0.244
+[075] FINAL Eliseu Mateus: no alvo sem gol (roll=0.700)
+[076] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[076] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.311 roll=0.936
+[077] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[077] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.311 roll=0.924
+[078] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[078] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.311 roll=0.565
+[079] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[079] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.311 roll=0.001
+[079] JOGADA Lusitânia Sport Club | Cícero Feijóo x Anatólio Filippi line=3 duel=8.65 corte=-1.30
+[079] FINAL Lusitânia Sport Club | Jabes Sousa fam=1 duel=20.06 on_target=0.654 goal=0.240
+[079] FINAL Jabes Sousa: fora/alvo perdido (roll=0.812)
+[080] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[080] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.430 roll=0.072
+[080] JOGADA Silva Manoel Athletico Clube | Aron Capiberibe x Jabes Sousa line=2 duel=74.77 corte=-1.30
+[080] JOGADA Silva Manoel Athletico Clube | Aron Capiberibe x Alcino Lobo line=4 duel=6.00 corte=-1.30
+[080] FINAL Silva Manoel Athletico Clube | Uaupés Cunha fam=5 duel=-46.25 on_target=0.629 goal=0.141
+[080] FINAL Uaupés Cunha: no alvo sem gol (roll=0.163)
+[081] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[081] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.311 roll=0.450
+[082] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[082] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.430 roll=0.376
+[082] JOGADA Silva Manoel Athletico Clube | Aron Capiberibe x Evangelista Branco line=4 duel=-5.01 corte=-1.30
+[082] JOGADA falhou: Evangelista Branco cortou
+[083] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[083] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.311 roll=0.144
+[083] JOGADA Lusitânia Sport Club | Cícero Feijóo x Iguape Saviano line=3 duel=5.30 corte=-1.30
+[083] FINAL Lusitânia Sport Club | Anaim Rodrigues fam=1 duel=8.18 on_target=0.653 goal=0.233
+[083] FINAL Anaim Rodrigues: no alvo sem gol (roll=0.910)
+[084] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[084] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.311 roll=0.336
+[085] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[085] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.311 roll=0.816
+[086] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[086] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.311 roll=0.034
+[086] JOGADA Lusitânia Sport Club | Lucínio Menezes x Iauaretê Capitão line=4 duel=-44.35 corte=-1.30
+[086] JOGADA falhou: Iauaretê Capitão cortou
+[087] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[087] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.311 roll=0.765
+[088] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[088] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.452 roll=0.426
+[088] JOGADA Silva Manoel Athletico Clube | Iauaretê Capitão x Leonídio Furtado line=2 duel=-5.17 corte=-1.30
+[088] JOGADA falhou: Leonídio Furtado cortou
+[089] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[089] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.311 roll=0.553
+[090] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[090] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.452 roll=0.338
+[090] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Jabes Sousa line=2 duel=59.95 corte=-1.30
+[090] FINAL Silva Manoel Athletico Clube | Anatólio Filippi fam=5 duel=-40.14 on_target=0.669 goal=0.143
+[090] FINAL Anatólio Filippi: fora/alvo perdido (roll=0.963)
+[091] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[091] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.452 roll=0.708
+[092] posse=Silva Manoel Athletico Clube | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[092] BUILD Silva Manoel Athletico Clube vs Lusitânia Sport Club prob=0.452 roll=0.050
+[092] JOGADA Silva Manoel Athletico Clube | Edimilson Graça x Evangelista Branco line=4 duel=-15.31 corte=-1.30
+[092] JOGADA falhou: Evangelista Branco cortou
+[093] posse=Lusitânia Sport Club | placar Lusitânia Sport Club 1 x 0 Silva Manoel Athletico Clube
+[093] BUILD Lusitânia Sport Club vs Silva Manoel Athletico Clube prob=0.311 roll=0.264
+[093] JOGADA Lusitânia Sport Club | Alcino Lobo x Tarek Rios line=3 duel=-1.66 corte=-1.30
+[093] JOGADA falhou: Tarek Rios cortou

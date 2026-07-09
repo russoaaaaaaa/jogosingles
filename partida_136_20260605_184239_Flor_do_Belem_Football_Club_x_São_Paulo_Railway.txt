@@ -1,0 +1,317 @@
+Partida #136
+Data: 1912-01-10
+Mandante: Flor do Belem Football Club
+Visitante: São Paulo Railway
+Placar: 0 x 4
+Seed: -
+Estádio: Arena Belenzinho
+Clima: Calor forte
+Placar tempo normal: 0 x 4
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Flor do Belem Football Club x São Paulo Railway | estádio=Arena Belenzinho | clima=Calor forte | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[001] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.413 roll=0.477
+[002] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[002] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.413 roll=0.834
+[003] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[003] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.413 roll=0.812
+[003] FINAL São Paulo Railway | Leroy Clark fam=5 duel=-35.18 on_target=0.569 goal=0.124
+[003] FINAL Leroy Clark: no alvo sem gol (roll=0.726)
+[004] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[004] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.283 roll=0.456
+[005] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[005] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.283 roll=0.681
+[006] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[006] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.413 roll=0.366
+[006] JOGADA São Paulo Railway | Edwin Horácio Cox x Elioenai Pires line=2 duel=102.65 corte=-1.10
+[006] JOGADA São Paulo Railway | Daniel Gallegos x Sisenando Bandeira line=4 duel=0.39 corte=-1.10
+[006] JOGADA São Paulo Railway | Fuycan x Ataíde Andrade line=5 duel=60.36 corte=-1.35
+[006] FINAL São Paulo Railway | Arthur Friedenreich fam=1 duel=12.83 on_target=0.673 goal=0.246
+[006] FINAL Arthur Friedenreich: no alvo sem gol (roll=0.816)
+[007] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[007] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.283 roll=0.741
+[008] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[008] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.413 roll=0.826
+[009] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[009] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.283 roll=0.089
+[009] JOGADA Flor do Belem Football Club | Sisenando Bandeira x Fuycan line=2 duel=-10.97 corte=-1.70
+[010] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[010] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.413 roll=0.571
+[011] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[011] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.306 roll=0.580
+[012] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[012] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.446 roll=0.633
+[013] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[013] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.446 roll=0.880
+[014] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[014] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.446 roll=0.492
+[015] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[015] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.446 roll=0.533
+[016] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[016] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.446 roll=0.599
+[017] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[017] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.446 roll=0.715
+[018] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[018] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.306 roll=0.679
+[019] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[019] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.306 roll=0.138
+[019] JOGADA Flor do Belem Football Club | Amaro Abreu x Adriano Guerra line=2 duel=62.48 corte=-1.70
+[019] JOGADA Flor do Belem Football Club | Ataíde Andrade x Lótus Braga line=5 duel=22.84 corte=-1.95
+[019] FINAL Flor do Belem Football Club | Soeiro Braga fam=5 duel=-11.46 on_target=0.634 goal=0.168
+[019] FINAL Soeiro Braga: no alvo sem gol (roll=0.997)
+[020] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[020] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.306 roll=0.455
+[021] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[021] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.329 roll=0.806
+[022] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[022] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.480 roll=0.873
+[023] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[023] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.329 roll=0.673
+[024] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[024] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.480 roll=0.158
+[024] JOGADA São Paulo Railway | Edwin Horácio Cox x Sisenando Bandeira line=4 duel=9.38 corte=-1.10
+[024] JOGADA São Paulo Railway | Fuycan x Ataíde Andrade line=4 duel=-12.82 corte=-1.10
+[024] JOGADA falhou: Ataíde Andrade cortou
+[025] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[025] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.329 roll=0.692
+[026] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[026] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.480 roll=0.371
+[026] JOGADA São Paulo Railway | Adriano Guerra x Elioenai Pires line=2 duel=18.50 corte=-1.10
+[026] JOGADA São Paulo Railway | Daniel Gallegos x Vivaldo Tomás line=3 duel=-3.11 corte=-1.10
+[026] JOGADA falhou: Vivaldo Tomás cortou
+[027] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[027] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.329 roll=0.165
+[027] JOGADA Flor do Belem Football Club | Casimiro Caymmi x Arthur Friedenreich line=2 duel=22.10 corte=-1.70
+[027] JOGADA Flor do Belem Football Club | Vivaldo Tomás x Walter Kirkham line=3 duel=10.18 corte=-1.70
+[027] JOGADA Flor do Belem Football Club | Casimiro Caymmi x Antônio Don-don line=4 duel=-45.04 corte=-1.70
+[027] JOGADA falhou: Antônio Don-don cortou
+[028] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[028] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.480 roll=0.710
+[029] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[029] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.480 roll=0.755
+[030] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[030] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.329 roll=0.726
+[031] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[031] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.329 roll=0.871
+[032] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[032] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.480 roll=0.795
+[033] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[033] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.480 roll=0.698
+[034] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[034] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.480 roll=0.759
+[035] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[035] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.332 roll=0.930
+[036] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[036] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.332 roll=0.965
+[037] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[037] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.480 roll=0.334
+[037] JOGADA São Paulo Railway | Antônio Don-don x Ataíde Andrade line=4 duel=9.11 corte=-1.10
+[037] FINAL São Paulo Railway | Edwin Horácio Cox fam=1 duel=-7.27 on_target=0.772 goal=0.264
+[037] FINAL Edwin Horácio Cox: no alvo sem gol (roll=0.903)
+[038] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[038] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.332 roll=0.812
+[039] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[039] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.480 roll=0.311
+[039] JOGADA São Paulo Railway | Fuycan x Elioenai Pires line=3 duel=-3.18 corte=-1.10
+[039] JOGADA falhou: Elioenai Pires cortou
+[040] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[040] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.480 roll=0.487
+[040] FINAL São Paulo Railway | Walter Kirkham fam=5 duel=-19.41 on_target=0.648 goal=0.144
+[040] FINAL Walter Kirkham: no alvo sem gol (roll=0.434)
+[041] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[041] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.480 roll=0.809
+[042] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[042] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.332 roll=0.688
+[043] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[043] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.332 roll=0.894
+[044] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[044] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.480 roll=0.747
+[045] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[045] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.332 roll=0.149
+[045] JOGADA Flor do Belem Football Club | Vivaldo Tomás x Leroy Clark line=3 duel=-22.94 corte=-1.70
+[045] JOGADA falhou: Leroy Clark cortou
+[046] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[046] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.446 roll=0.213
+[046] JOGADA São Paulo Railway | Lótus Braga x Sisenando Bandeira line=2 duel=66.74 corte=-1.10
+[046] JOGADA São Paulo Railway | Leroy Clark x Ivo Vieira line=4 duel=-14.55 corte=-1.10
+[047] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[047] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.446 roll=0.746
+[048] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[048] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.446 roll=0.710
+[049] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[049] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.309 roll=0.003
+[049] JOGADA Flor do Belem Football Club | Elioenai Pires x Walter Kirkham line=2 duel=-31.85 corte=-1.70
+[050] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[050] SUB Flor do Belem Football Club: saiu Demétrio Correia (CA) | entrou Franco Araújo (SA) | subs=1/5
+[050] SUB São Paulo Railway: saiu Edwin Horácio Cox (SA) | entrou Andrew Young (CA) | subs=1/5
+[050] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.308 roll=0.340
+[051] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[051] SUB Flor do Belem Football Club: saiu Soeiro Braga (PD) | entrou Emanuel Queiroz (PD) | subs=2/5
+[051] SUB São Paulo Railway: saiu Arthur Friedenreich (CA) | entrou Tadeu Bernadeschi (CA) | subs=2/5
+[051] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.435 roll=0.162
+[051] JOGADA São Paulo Railway | Antônio Don-don x Emanuel Queiroz line=3 duel=74.92 corte=-1.09
+[051] JOGADA São Paulo Railway | Andrew Young x Amaro Abreu line=4 duel=62.53 corte=-1.09
+[051] FINAL São Paulo Railway | Rubens Salles fam=1 duel=8.51 on_target=0.727 goal=0.261
+[051] FINAL Rubens Salles: fora/alvo perdido (roll=0.909)
+[052] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[052] SUB Flor do Belem Football Club: saiu Amaro Abreu (PE) | entrou Heitor Menezes (SA) | subs=3/5
+[052] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.436 roll=0.509
+[053] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[053] SUB Flor do Belem Football Club: saiu Sisenando Bandeira (MA) | entrou Alamiro Florencio (MA) | subs=4/5
+[053] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.303 roll=0.618
+[054] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[054] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.303 roll=0.810
+[055] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[055] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.303 roll=0.781
+[056] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[056] SUB Flor do Belem Football Club: saiu Genésio Moniz (VOL) | entrou Ludovico Carreira (MC) | subs=5/5
+[056] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.334 roll=0.508
+[057] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[057] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.464 roll=0.608
+[058] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[058] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.433 roll=0.465
+[059] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[059] SUB São Paulo Railway: saiu Antônio Don-don (MC) | entrou Nicolas McCawley (MD) | subs=3/5
+[059] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.434 roll=0.261
+[059] JOGADA São Paulo Railway | Walter Kirkham x Casimiro Caymmi line=3 duel=-9.15 corte=-1.10
+[059] JOGADA falhou: Casimiro Caymmi cortou
+[060] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[060] SUB São Paulo Railway: saiu Walter Kirkham (AE) | entrou Leonard Griffin (AE) | subs=4/5
+[060] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.342 roll=0.507
+[060] FINAL Flor do Belem Football Club | Heitor Menezes fam=5 duel=-37.24 on_target=0.666 goal=0.161
+[060] FINAL Heitor Menezes: no alvo sem gol (roll=0.547)
+[061] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[061] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.342 roll=0.239
+[061] JOGADA Flor do Belem Football Club | Ludovico Carreira x Daniel Gallegos line=3 duel=7.53 corte=-1.70
+[061] JOGADA Flor do Belem Football Club | Ivo Vieira x Tadeu Bernadeschi line=4 duel=20.63 corte=-1.70
+[061] JOGADA Flor do Belem Football Club | Vivaldo Tomás x Leroy Clark line=4 duel=-32.90 corte=-1.70
+[062] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[062] SUB São Paulo Railway: saiu Daniel Gallegos (ZAG) | entrou Randolph Diprose (ZAG) | subs=5/5
+[062] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.345 roll=0.511
+[063] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 0 São Paulo Railway
+[063] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.428 roll=0.036
+[063] JOGADA São Paulo Railway | Leonard Griffin x Ludovico Carreira line=4 duel=13.57 corte=-1.10
+[063] JOGADA São Paulo Railway | Tadeu Bernadeschi x Vivaldo Tomás line=4 duel=16.28 corte=-1.10
+[063] FINAL São Paulo Railway | Andrew Young fam=1 duel=26.43 on_target=0.768 goal=0.278
+[063] FINAL Andrew Young: GOL subtipo=CHUTE (roll=0.138)
+[064] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 1 São Paulo Railway
+[064] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.459 roll=0.540
+[065] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 1 São Paulo Railway
+[065] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.381 roll=0.099
+[065] JOGADA Flor do Belem Football Club | Heitor Menezes x Andrew Young line=3 duel=14.03 corte=-1.70
+[065] JOGADA Flor do Belem Football Club | Ludovico Carreira x Leroy Clark line=4 duel=7.22 corte=-1.70
+[065] JOGADA Flor do Belem Football Club | Ataíde Andrade x Lótus Braga line=5 duel=9.68 corte=-1.95
+[065] FINAL Flor do Belem Football Club | Emanuel Queiroz fam=5 duel=16.49 on_target=0.671 goal=0.191
+[065] FINAL Emanuel Queiroz: fora/alvo perdido (roll=0.863)
+[066] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 1 São Paulo Railway
+[066] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.381 roll=0.992
+[067] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 1 São Paulo Railway
+[067] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.459 roll=0.374
+[067] JOGADA São Paulo Railway | Randolph Diprose x Emanuel Queiroz line=4 duel=11.07 corte=-1.30
+[067] JOGADA São Paulo Railway | Lótus Braga x Ataíde Andrade line=4 duel=12.11 corte=-1.30
+[067] FINAL São Paulo Railway | Andrew Young fam=1 duel=23.15 on_target=0.768 goal=0.277
+[067] FINAL Andrew Young: GOL subtipo=CHUTE (roll=0.023)
+[068] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 2 São Paulo Railway
+[068] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.386 roll=0.511
+[069] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 2 São Paulo Railway
+[069] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.386 roll=0.928
+[070] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 2 São Paulo Railway
+[070] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.451 roll=0.434
+[070] JOGADA São Paulo Railway | Fuycan x Vivaldo Tomás line=3 duel=-1.33 corte=-1.30
+[071] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 2 São Paulo Railway
+[071] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.451 roll=0.431
+[071] JOGADA São Paulo Railway | Nicolas McCawley x Emanuel Queiroz line=3 duel=57.80 corte=-1.30
+[071] JOGADA São Paulo Railway | Randolph Diprose x Ivo Vieira line=4 duel=-11.71 corte=-1.30
+[071] JOGADA falhou: Ivo Vieira cortou
+[072] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 2 São Paulo Railway
+[072] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.386 roll=0.349
+[072] JOGADA Flor do Belem Football Club | Vivaldo Tomás x Leroy Clark line=4 duel=-29.18 corte=-1.70
+[073] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 2 São Paulo Railway
+[073] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.386 roll=0.185
+[073] JOGADA Flor do Belem Football Club | Elioenai Pires x Rubens Salles line=3 duel=-13.49 corte=-1.70
+[073] JOGADA falhou: Rubens Salles cortou
+[074] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 2 São Paulo Railway
+[074] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.451 roll=0.111
+[074] JOGADA São Paulo Railway | Lótus Braga x Vivaldo Tomás line=4 duel=-37.48 corte=-1.30
+[074] JOGADA falhou: Vivaldo Tomás cortou
+[075] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 2 São Paulo Railway
+[075] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.386 roll=0.742
+[076] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 2 São Paulo Railway
+[076] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.437 roll=0.750
+[077] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 2 São Paulo Railway
+[077] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.437 roll=0.171
+[077] JOGADA São Paulo Railway | Randolph Diprose x Heitor Menezes line=3 duel=33.83 corte=-1.30
+[077] JOGADA São Paulo Railway | Rubens Salles x Heitor Menezes line=4 duel=36.48 corte=-1.30
+[077] FINAL São Paulo Railway | Andrew Young fam=1 duel=15.35 on_target=0.729 goal=0.256
+[077] FINAL Andrew Young: no alvo sem gol (roll=0.889)
+[078] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 2 São Paulo Railway
+[078] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.437 roll=0.825
+[079] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 2 São Paulo Railway
+[079] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.417 roll=0.537
+[080] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 2 São Paulo Railway
+[080] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.437 roll=0.331
+[080] JOGADA São Paulo Railway | Andrew Young x Heitor Menezes line=2 duel=114.30 corte=-1.30
+[080] JOGADA São Paulo Railway | Adriano Guerra x Ataíde Andrade line=5 duel=14.34 corte=-2.05
+[080] JOGADA São Paulo Railway | Leroy Clark x Vivaldo Tomás line=5 duel=32.38 corte=-1.55
+[080] FINAL São Paulo Railway | Tadeu Bernadeschi fam=1 duel=4.73 on_target=0.727 goal=0.251
+[080] FINAL Tadeu Bernadeschi: GOL subtipo=CHUTE (roll=0.236)
+[081] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 3 São Paulo Railway
+[081] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.430 roll=0.310
+[081] JOGADA São Paulo Railway | Fuycan x Ivo Vieira line=3 duel=-6.60 corte=-1.30
+[082] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 3 São Paulo Railway
+[082] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.430 roll=0.941
+[083] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 3 São Paulo Railway
+[083] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.421 roll=0.483
+[084] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 3 São Paulo Railway
+[084] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.421 roll=0.831
+[084] FINAL Flor do Belem Football Club | Vivaldo Tomás fam=5 duel=-28.24 on_target=0.717 goal=0.184
+[084] FINAL Vivaldo Tomás: fora/alvo perdido (roll=0.876)
+[085] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 3 São Paulo Railway
+[085] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.487 roll=0.958
+[086] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 3 São Paulo Railway
+[086] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.487 roll=0.244
+[086] JOGADA Flor do Belem Football Club | Ludovico Carreira x Fuycan line=3 duel=2.13 corte=-1.70
+[086] JOGADA Flor do Belem Football Club | Ataíde Andrade x Lótus Braga line=5 duel=17.34 corte=-1.95
+[086] FINAL Flor do Belem Football Club | Alamiro Florencio fam=5 duel=-51.87 on_target=0.817 goal=0.170
+[086] FINAL Alamiro Florencio: no alvo sem gol (roll=0.491)
+[087] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 3 São Paulo Railway
+[087] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.430 roll=0.013
+[087] JOGADA São Paulo Railway | Andrew Young x Vivaldo Tomás line=3 duel=2.06 corte=-1.30
+[087] JOGADA São Paulo Railway | Randolph Diprose x Heitor Menezes line=4 duel=28.64 corte=-1.30
+[087] JOGADA São Paulo Railway | Adriano Guerra x Franco Araújo line=5 duel=35.38 corte=-2.05
+[087] FINAL São Paulo Railway | Andrew Young fam=1 duel=4.65 on_target=0.705 goal=0.247
+[087] FINAL Andrew Young: no alvo sem gol (roll=0.261)
+[088] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 3 São Paulo Railway
+[088] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.430 roll=0.119
+[088] JOGADA São Paulo Railway | Nicolas McCawley x Ludovico Carreira line=2 duel=23.72 corte=-1.30
+[088] FINAL São Paulo Railway | Andrew Young fam=3 duel=9.92 on_target=0.640 goal=0.193
+[088] FINAL Andrew Young: no alvo sem gol (roll=0.869)
+[089] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 3 São Paulo Railway
+[089] BUILD Flor do Belem Football Club vs São Paulo Railway prob=0.487 roll=0.396
+[089] JOGADA Flor do Belem Football Club | Heitor Menezes x Randolph Diprose line=3 duel=-24.78 corte=-1.70
+[089] JOGADA falhou: Randolph Diprose cortou
+[090] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 3 São Paulo Railway
+[090] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.430 roll=0.708
+[091] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 3 São Paulo Railway
+[091] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.430 roll=0.287
+[091] JOGADA São Paulo Railway | Nicolas McCawley x Alamiro Florencio line=3 duel=30.68 corte=-1.30
+[091] JOGADA São Paulo Railway | Tadeu Bernadeschi x Emanuel Queiroz line=4 duel=24.05 corte=-1.30
+[091] JOGADA São Paulo Railway | Tadeu Bernadeschi x Alamiro Florencio line=5 duel=52.13 corte=-2.05
+[091] FINAL São Paulo Railway | Rubens Salles fam=1 duel=-2.66 on_target=0.704 goal=0.243
+[091] FINAL Rubens Salles: no alvo sem gol (roll=0.693)
+[092] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 3 São Paulo Railway
+[092] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.430 roll=0.206
+[092] JOGADA São Paulo Railway | Andrew Young x Alamiro Florencio line=3 duel=13.14 corte=-1.30
+[092] JOGADA São Paulo Railway | Adriano Guerra x Ivo Vieira line=4 duel=9.59 corte=-1.30
+[092] JOGADA São Paulo Railway | Leonard Griffin x Casimiro Caymmi line=5 duel=28.65 corte=-1.55
+[092] FINAL São Paulo Railway | Andrew Young fam=1 duel=4.81 on_target=0.705 goal=0.247
+[092] FINAL Andrew Young: no alvo sem gol (roll=0.788)
+[093] posse=São Paulo Railway | placar Flor do Belem Football Club 0 x 3 São Paulo Railway
+[093] BUILD São Paulo Railway vs Flor do Belem Football Club prob=0.430 roll=0.376
+[093] JOGADA São Paulo Railway | Randolph Diprose x Alamiro Florencio line=3 duel=10.05 corte=-1.30
+[093] FINAL São Paulo Railway | Tadeu Bernadeschi fam=1 duel=2.01 on_target=0.704 goal=0.245
+[093] FINAL Tadeu Bernadeschi: GOL subtipo=CHUTE (roll=0.199)

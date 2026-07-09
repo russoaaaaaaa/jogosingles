@@ -1,0 +1,348 @@
+Partida #115
+Data: 1912-01-08
+Mandante: Café Futebol Clube
+Visitante: Ruggerone Foot Ball Club
+Placar: 2 x 2
+Seed: -
+Estádio: Arena Cafezal
+Clima: Nublado
+Placar tempo normal: 2 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Café Futebol Clube x Ruggerone Foot Ball Club | estádio=Arena Cafezal | clima=Nublado | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[001] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.401
+[002] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[002] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.297 roll=0.198
+[002] JOGADA Ruggerone Foot Ball Club | Djalmo Frisoni x Purus Machado line=4 duel=78.08 corte=-1.30
+[002] FINAL Ruggerone Foot Ball Club | Alexandre Cronzini fam=5 duel=-24.39 on_target=0.476 goal=0.123
+[002] FINAL Alexandre Cronzini: no alvo sem gol (roll=0.295)
+[003] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[003] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.498
+[004] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[004] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.297 roll=0.126
+[004] JOGADA Ruggerone Foot Ball Club | Sário Bonazzi x Ieiê line=4 duel=-3.74 corte=-1.30
+[004] JOGADA falhou: Ieiê cortou
+[005] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[005] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.287
+[005] JOGADA Café Futebol Clube | Eda Anjos x Ranier Renosto line=3 duel=2.34 corte=-1.12
+[005] FINAL Café Futebol Clube | Ieiê fam=1 duel=8.52 on_target=0.553 goal=0.210
+[005] FINAL Ieiê: fora/alvo perdido (roll=0.805)
+[006] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[006] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.636
+[006] FINAL Café Futebol Clube | Ioiô fam=5 duel=7.89 on_target=0.472 goal=0.124
+[006] FINAL Ioiô: no alvo sem gol (roll=0.421)
+[007] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[007] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.781
+[008] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[008] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.662
+[009] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[009] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.923
+[010] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[010] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.634
+[011] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[011] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.387 roll=0.342
+[011] JOGADA Café Futebol Clube | Maurício Coado x Ranier Renosto line=3 duel=87.79 corte=-1.12
+[011] FINAL Café Futebol Clube | Ieiê fam=1 duel=2.65 on_target=0.596 goal=0.221
+[011] FINAL Ieiê: no alvo sem gol (roll=0.510)
+[012] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[012] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.387 roll=0.694
+[013] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[013] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.387 roll=0.357
+[013] JOGADA Café Futebol Clube | Ieiê x Alexandre Cronzini line=3 duel=28.41 corte=-1.12
+[013] FINAL Café Futebol Clube | João Grão Torrado fam=1 duel=2.47 on_target=0.597 goal=0.222
+[013] FINAL João Grão Torrado: no alvo sem gol (roll=0.783)
+[014] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[014] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.387 roll=0.818
+[015] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[015] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.387 roll=0.706
+[016] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[016] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.321 roll=0.220
+[016] JOGADA Ruggerone Foot Ball Club | Edmur Perizzolo x Ioiô line=4 duel=39.21 corte=-1.30
+[016] FINAL Ruggerone Foot Ball Club | Djalmo Frisoni fam=5 duel=-5.07 on_target=0.517 goal=0.140
+[016] FINAL Djalmo Frisoni: GOL subtipo=FALTA (roll=0.115)
+[017] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 1 Ruggerone Foot Ball Club
+[017] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.353 roll=0.913
+[018] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 1 Ruggerone Foot Ball Club
+[018] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.353 roll=0.746
+[019] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 1 Ruggerone Foot Ball Club
+[019] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.353 roll=0.119
+[019] JOGADA Ruggerone Foot Ball Club | Alexandre Cronzini x Ioiô line=5 duel=15.37 corte=-1.55
+[019] FINAL Ruggerone Foot Ball Club | Djalmo Frisoni fam=5 duel=-7.61 on_target=0.517 goal=0.138
+[019] FINAL Djalmo Frisoni: no alvo sem gol (roll=0.544)
+[020] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 1 Ruggerone Foot Ball Club
+[020] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.353 roll=0.670
+[021] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 1 Ruggerone Foot Ball Club
+[021] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.498 roll=0.360
+[021] JOGADA Café Futebol Clube | Paulinho Colhe-colhe x Leopoldo Valgiusti line=3 duel=15.64 corte=-1.11
+[021] FINAL Café Futebol Clube | João Grão Torrado fam=1 duel=-1.00 on_target=0.629 goal=0.227
+[021] FINAL João Grão Torrado: fora/alvo perdido (roll=0.709)
+[022] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 1 Ruggerone Foot Ball Club
+[022] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.379 roll=0.212
+[022] JOGADA Ruggerone Foot Ball Club | Leopoldo Valgiusti x Ieiê line=3 duel=5.06 corte=-1.30
+[022] FINAL Ruggerone Foot Ball Club | Leopoldo Valgiusti fam=5 duel=-12.37 on_target=0.542 goal=0.140
+[022] FINAL Leopoldo Valgiusti: GOL subtipo=FALTA (roll=0.123)
+[023] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[023] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.371 roll=0.473
+[024] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[024] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.371 roll=0.407
+[025] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[025] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.325
+[025] JOGADA Café Futebol Clube | Ieiê x Nezeri Cortese line=3 duel=39.50 corte=-1.11
+[025] FINAL Café Futebol Clube | Ioiô fam=1 duel=5.62 on_target=0.628 goal=0.229
+[025] FINAL Ioiô: no alvo sem gol (roll=0.447)
+[026] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[026] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.636
+[027] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[027] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.313
+[027] JOGADA Café Futebol Clube | João Grão Torrado x Consulino Tarquini line=3 duel=89.59 corte=-1.11
+[027] FINAL Café Futebol Clube | João Grão Torrado fam=1 duel=-0.32 on_target=0.629 goal=0.227
+[027] FINAL João Grão Torrado: fora/alvo perdido (roll=0.960)
+[028] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[028] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.371 roll=0.337
+[028] JOGADA Ruggerone Foot Ball Club | Leopoldo Valgiusti x Frederico Villardi line=5 duel=55.30 corte=-1.55
+[028] FINAL Ruggerone Foot Ball Club | Djalmo Frisoni fam=5 duel=-10.11 on_target=0.522 goal=0.132
+[028] FINAL Djalmo Frisoni: fora/alvo perdido (roll=0.754)
+[029] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[029] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.540
+[030] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[030] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.484
+[030] JOGADA Café Futebol Clube | Purus Machado x Ranier Renosto line=3 duel=16.81 corte=-1.11
+[030] FINAL Café Futebol Clube | Frederico Villardi fam=1 duel=21.89 on_target=0.629 goal=0.236
+[030] FINAL Frederico Villardi: fora/alvo perdido (roll=0.795)
+[031] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[031] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.371 roll=0.073
+[031] JOGADA Ruggerone Foot Ball Club | Leopoldo Valgiusti x Quiriri Botelho line=3 duel=0.26 corte=-1.30
+[031] FINAL Ruggerone Foot Ball Club | Edmur Perizzolo fam=5 duel=-5.51 on_target=0.523 goal=0.134
+[031] FINAL Edmur Perizzolo: fora/alvo perdido (roll=0.678)
+[032] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[032] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.231
+[032] JOGADA Café Futebol Clube | Ieiê x Consulino Tarquini line=3 duel=54.37 corte=-1.11
+[032] FINAL Café Futebol Clube | Maurício Coado fam=1 duel=7.04 on_target=0.628 goal=0.230
+[032] FINAL Maurício Coado: fora/alvo perdido (roll=0.870)
+[033] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[033] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.373 roll=0.300
+[033] JOGADA Ruggerone Foot Ball Club | Ranier Renosto x Quiriri Botelho line=4 duel=-1.85 corte=-1.30
+[033] JOGADA falhou: Quiriri Botelho cortou
+[034] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[034] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.925
+[035] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[035] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.442
+[035] JOGADA Café Futebol Clube | Ieiê x Liciniano Acquaroli line=2 duel=61.71 corte=-1.11
+[035] FINAL Café Futebol Clube | Ioiô fam=1 duel=9.87 on_target=0.628 goal=0.231
+[035] FINAL Ioiô: fora/alvo perdido (roll=0.902)
+[036] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[036] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.249
+[036] JOGADA Café Futebol Clube | Ioiô x Ranier Renosto line=4 duel=4.41 corte=-1.11
+[036] JOGADA Café Futebol Clube | Ieiê x Alexandre Cronzini line=5 duel=28.62 corte=-1.86
+[036] JOGADA Café Futebol Clube | Quiriri Botelho x Alexandre Cronzini line=5 duel=8.90 corte=-1.36
+[036] FINAL Café Futebol Clube | Ieiê fam=1 duel=2.07 on_target=0.628 goal=0.228
+[036] FINAL Ieiê: no alvo sem gol (roll=0.773)
+[037] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[037] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.373 roll=0.186
+[037] JOGADA Ruggerone Foot Ball Club | Djalmo Frisoni x Paulinho Colhe-colhe line=4 duel=-12.75 corte=-1.30
+[037] JOGADA falhou: Paulinho Colhe-colhe cortou
+[038] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[038] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.629
+[039] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[039] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.376
+[039] JOGADA Café Futebol Clube | Quiriri Botelho x Alexandre Cronzini line=4 duel=-49.77 corte=-1.11
+[039] JOGADA falhou: Alexandre Cronzini cortou
+[040] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[040] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.981
+[041] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[041] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.373 roll=0.098
+[041] JOGADA Ruggerone Foot Ball Club | Alexandre Cronzini x João Grão Torrado line=4 duel=61.10 corte=-1.30
+[041] FINAL Ruggerone Foot Ball Club | Djalmo Frisoni fam=5 duel=-68.94 on_target=0.519 goal=0.109
+[041] FINAL Djalmo Frisoni: no alvo sem gol (roll=0.290)
+[042] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[042] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.612
+[043] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[043] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.554
+[044] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[044] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.373 roll=0.942
+[045] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[045] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.499 roll=0.144
+[045] JOGADA Café Futebol Clube | Eda Anjos x Alexandre Cronzini line=3 duel=7.85 corte=-1.11
+[045] FINAL Café Futebol Clube | Ioiô fam=1 duel=9.83 on_target=0.628 goal=0.231
+[045] FINAL Ioiô: no alvo sem gol (roll=0.500)
+[046] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[046] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.464 roll=0.214
+[046] JOGADA Café Futebol Clube | João Grão Torrado x Alexandre Cronzini line=2 duel=7.35 corte=-1.11
+[046] FINAL Café Futebol Clube | Frederico Villardi fam=1 duel=27.12 on_target=0.598 goal=0.232
+[046] FINAL Frederico Villardi: fora/alvo perdido (roll=0.792)
+[047] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[047] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.464 roll=0.516
+[048] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[048] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.464 roll=0.007
+[048] JOGADA Café Futebol Clube | Eda Anjos x Djalmo Frisoni line=2 duel=30.58 corte=-1.11
+[048] FINAL Café Futebol Clube | Ioiô fam=1 duel=5.47 on_target=0.596 goal=0.222
+[048] FINAL Ioiô: no alvo sem gol (roll=0.281)
+[049] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[049] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.464 roll=0.527
+[050] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[050] SUB Café Futebol Clube: saiu João Grão Torrado (CA) | entrou João Planta-planta (CA) | subs=1/5
+[050] SUB Ruggerone Foot Ball Club: saiu Consulino Tarquini (SA) | entrou Ângelo Solari (SA) | subs=1/5
+[050] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.344 roll=0.453
+[051] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[051] SUB Ruggerone Foot Ball Club: saiu Djalmo Frisoni (CA) | entrou Dúnio Cairoli (CA) | subs=2/5
+[051] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.334 roll=0.941
+[052] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[052] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.334 roll=0.513
+[053] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[053] SUB Café Futebol Clube: saiu Eda Anjos (ZAG) | entrou Adelino Sardinha (VOL) | subs=2/5
+[053] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.462 roll=0.480
+[054] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[054] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.462 roll=0.737
+[055] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[055] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.462 roll=0.377
+[055] JOGADA Café Futebol Clube | Paulinho Colhe-colhe x Liciniano Acquaroli line=3 duel=-0.83 corte=-1.11
+[055] FINAL Café Futebol Clube | Ieiê fam=1 duel=3.24 on_target=0.596 goal=0.221
+[055] FINAL Ieiê: fora/alvo perdido (roll=0.663)
+[056] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[056] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.497 roll=0.900
+[057] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[057] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.358 roll=0.100
+[057] JOGADA Ruggerone Foot Ball Club | Ranier Renosto x Paulinho Colhe-colhe line=4 duel=63.07 corte=-1.30
+[057] FINAL Ruggerone Foot Ball Club | Dúnio Cairoli fam=5 duel=8.26 on_target=0.523 goal=0.139
+[057] FINAL Dúnio Cairoli: no alvo sem gol (roll=0.833)
+[058] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[058] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.476 roll=0.830
+[059] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[059] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.476 roll=0.340
+[059] JOGADA Café Futebol Clube | Péricles Ribeiro x Ranier Renosto line=3 duel=-1.13 corte=-1.11
+[060] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[060] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.361 roll=0.378
+[061] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[061] SUB Café Futebol Clube: saiu Ioiô (PE) | entrou Irapuã Santos (PE) | subs=3/5
+[061] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.476 roll=0.825
+[062] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[062] SUB Café Futebol Clube: saiu Ieiê (SA) | entrou Pato Lobisomem (MA) | subs=4/5
+[062] SUB Ruggerone Foot Ball Club: saiu Alexandre Cronzini (MD) | entrou Bóris Carrara (MA) | subs=3/5
+[062] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.477 roll=0.001
+[062] JOGADA Café Futebol Clube | Irapuã Santos x Rubi Ratto line=2 duel=114.16 corte=-1.10
+[062] FINAL Café Futebol Clube | João Planta-planta fam=3 duel=26.09 on_target=0.571 goal=0.186
+[062] FINAL João Planta-planta: no alvo sem gol (roll=0.601)
+[063] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[063] SUB Ruggerone Foot Ball Club: saiu Edmur Perizzolo (MC) | entrou Bacoaro (VOL) | subs=4/5
+[063] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.362 roll=0.964
+[064] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[064] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.477 roll=0.809
+[065] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[065] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.477 roll=0.472
+[065] JOGADA Café Futebol Clube | Adelino Sardinha x Rubi Ratto line=4 duel=8.68 corte=-1.10
+[065] JOGADA Café Futebol Clube | Quiriri Botelho x Leopoldo Valgiusti line=4 duel=-2.29 corte=-1.10
+[066] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[066] SUB Café Futebol Clube: saiu Quiriri Botelho (ZAG) | entrou Amanaci Sant'Anna (VOL) | subs=5/5
+[066] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.477 roll=0.301
+[066] JOGADA Café Futebol Clube | Irapuã Santos x Liciniano Acquaroli line=2 duel=17.15 corte=-1.10
+[066] FINAL Café Futebol Clube | João Planta-planta fam=3 duel=23.49 on_target=0.571 goal=0.185
+[066] FINAL João Planta-planta: fora/alvo perdido (roll=0.908)
+[067] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[067] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.477 roll=0.873
+[068] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[068] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.477 roll=0.054
+[068] JOGADA Café Futebol Clube | Pato Lobisomem x Rubi Ratto line=4 duel=32.89 corte=-1.10
+[068] JOGADA Café Futebol Clube | Irapuã Santos x Leopoldo Valgiusti line=5 duel=42.08 corte=-1.85
+[068] JOGADA Café Futebol Clube | Maurício Coado x Ângelo Solari line=5 duel=35.76 corte=-1.35
+[068] FINAL Café Futebol Clube | João Planta-planta fam=1 duel=20.82 on_target=0.629 goal=0.236
+[068] FINAL João Planta-planta: no alvo sem gol (roll=0.633)
+[069] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[069] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.477 roll=0.982
+[070] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[070] SUB Ruggerone Foot Ball Club: saiu Ângelo Solari (SA) | entrou Cristoforo Golinelli (MA) | subs=5/5
+[070] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.380 roll=0.162
+[070] JOGADA Ruggerone Foot Ball Club | Sário Bonazzi x Adelino Sardinha line=4 duel=-23.81 corte=-1.30
+[070] JOGADA falhou: Adelino Sardinha cortou
+[071] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[071] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.478 roll=0.893
+[072] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[072] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.478 roll=0.850
+[073] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[073] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.478 roll=0.755
+[074] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[074] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.478 roll=0.344
+[074] JOGADA Café Futebol Clube | Frederico Villardi x Nezeri Cortese line=3 duel=46.71 corte=-1.05
+[074] FINAL Café Futebol Clube | João Planta-planta fam=3 duel=18.69 on_target=0.571 goal=0.183
+[074] FINAL João Planta-planta: no alvo sem gol (roll=0.923)
+[075] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[075] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.380 roll=0.418
+[076] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[076] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.517 roll=0.156
+[076] JOGADA Café Futebol Clube | João Planta-planta x Rubi Ratto line=3 duel=80.19 corte=-1.05
+[076] FINAL Café Futebol Clube | Frederico Villardi fam=1 duel=28.03 on_target=0.674 goal=0.251
+[076] FINAL Frederico Villardi: no alvo sem gol (roll=0.777)
+[077] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[077] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.369 roll=0.425
+[078] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[078] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.517 roll=0.625
+[079] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[079] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.369 roll=0.733
+[080] posse=Café Futebol Clube | placar Café Futebol Clube 0 x 2 Ruggerone Foot Ball Club
+[080] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.517 roll=0.346
+[080] JOGADA Café Futebol Clube | João Planta-planta x Bóris Carrara line=3 duel=3.92 corte=-1.05
+[080] FINAL Café Futebol Clube | Maurício Coado fam=1 duel=1.36 on_target=0.671 goal=0.239
+[080] FINAL Maurício Coado: GOL subtipo=CHUTE (roll=0.018)
+[081] posse=Café Futebol Clube | placar Café Futebol Clube 1 x 2 Ruggerone Foot Ball Club
+[081] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.516 roll=0.060
+[081] JOGADA Café Futebol Clube | Maurício Coado x Sário Bonazzi line=3 duel=4.34 corte=-1.05
+[081] FINAL Café Futebol Clube | João Planta-planta fam=1 duel=6.74 on_target=0.673 goal=0.241
+[081] FINAL João Planta-planta: no alvo sem gol (roll=0.902)
+[082] posse=Café Futebol Clube | placar Café Futebol Clube 1 x 2 Ruggerone Foot Ball Club
+[082] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.516 roll=0.968
+[083] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 1 x 2 Ruggerone Foot Ball Club
+[083] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.373 roll=0.288
+[083] JOGADA Ruggerone Foot Ball Club | Ranier Renosto x Maurício Coado line=4 duel=9.38 corte=-1.30
+[083] FINAL Ruggerone Foot Ball Club | Cristoforo Golinelli fam=5 duel=-44.34 on_target=0.521 goal=0.120
+[083] FINAL Cristoforo Golinelli: fora/alvo perdido (roll=0.865)
+[084] posse=Café Futebol Clube | placar Café Futebol Clube 1 x 2 Ruggerone Foot Ball Club
+[084] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.516 roll=0.679
+[085] posse=Café Futebol Clube | placar Café Futebol Clube 1 x 2 Ruggerone Foot Ball Club
+[085] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.511 roll=0.614
+[086] posse=Café Futebol Clube | placar Café Futebol Clube 1 x 2 Ruggerone Foot Ball Club
+[086] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.511 roll=0.579
+[087] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 1 x 2 Ruggerone Foot Ball Club
+[087] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.373 roll=0.554
+[088] posse=Café Futebol Clube | placar Café Futebol Clube 1 x 2 Ruggerone Foot Ball Club
+[088] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.511 roll=0.406
+[088] JOGADA Café Futebol Clube | João Planta-planta x Bóris Carrara line=3 duel=2.22 corte=-1.05
+[088] FINAL Café Futebol Clube | Irapuã Santos fam=1 duel=24.75 on_target=0.672 goal=0.242
+[088] FINAL Irapuã Santos: no alvo sem gol (roll=0.548)
+[089] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 1 x 2 Ruggerone Foot Ball Club
+[089] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.373 roll=0.046
+[089] JOGADA Ruggerone Foot Ball Club | Bacoaro x Adelino Sardinha line=4 duel=-6.93 corte=-1.30
+[089] JOGADA falhou: Adelino Sardinha cortou
+[090] posse=Café Futebol Clube | placar Café Futebol Clube 1 x 2 Ruggerone Foot Ball Club
+[090] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.511 roll=0.191
+[090] JOGADA Café Futebol Clube | Frederico Villardi x Nezeri Cortese line=3 duel=37.99 corte=-1.05
+[090] FINAL Café Futebol Clube | João Planta-planta fam=3 duel=6.19 on_target=0.610 goal=0.181
+[090] FINAL João Planta-planta: no alvo sem gol (roll=0.603)
+[091] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 1 x 2 Ruggerone Foot Ball Club
+[091] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.373 roll=0.591
+[092] posse=Café Futebol Clube | placar Café Futebol Clube 1 x 2 Ruggerone Foot Ball Club
+[092] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.511 roll=0.270
+[092] JOGADA Café Futebol Clube | Paulinho Colhe-colhe x Rubi Ratto line=2 duel=7.90 corte=-1.05
+[092] FINAL Café Futebol Clube | João Planta-planta fam=1 duel=7.03 on_target=0.672 goal=0.235
+[092] FINAL João Planta-planta: no alvo sem gol (roll=0.279)
+[093] posse=Café Futebol Clube | placar Café Futebol Clube 1 x 2 Ruggerone Foot Ball Club
+[093] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.511 roll=0.460
+[093] JOGADA Café Futebol Clube | Adelino Sardinha x Bóris Carrara line=3 duel=54.21 corte=-1.05
+[093] FINAL Café Futebol Clube | João Planta-planta fam=1 duel=3.00 on_target=0.672 goal=0.233
+[093] FINAL João Planta-planta: GOL subtipo=CHUTE (roll=0.104)
+[094] posse=Café Futebol Clube | placar Café Futebol Clube 2 x 2 Ruggerone Foot Ball Club
+[094] BUILD Café Futebol Clube vs Ruggerone Foot Ball Club prob=0.403 roll=0.630
+[095] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 2 x 2 Ruggerone Foot Ball Club
+[095] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.342 roll=0.170
+[095] JOGADA Ruggerone Foot Ball Club | Sário Bonazzi x Frederico Villardi line=3 duel=14.27 corte=-1.30
+[095] FINAL Ruggerone Foot Ball Club | Cristoforo Golinelli fam=5 duel=-52.14 on_target=0.553 goal=0.127
+[095] FINAL Cristoforo Golinelli: fora/alvo perdido (roll=0.877)
+[096] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 2 x 2 Ruggerone Foot Ball Club
+[096] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.342 roll=0.319
+[096] JOGADA Ruggerone Foot Ball Club | Bacoaro x Irapuã Santos line=3 duel=8.49 corte=-1.30
+[096] FINAL Ruggerone Foot Ball Club | Cristoforo Golinelli fam=5 duel=-52.85 on_target=0.553 goal=0.127
+[096] FINAL Cristoforo Golinelli: no alvo sem gol (roll=0.231)
+[097] posse=Ruggerone Foot Ball Club | placar Café Futebol Clube 2 x 2 Ruggerone Foot Ball Club
+[097] BUILD Ruggerone Foot Ball Club vs Café Futebol Clube prob=0.342 roll=0.771

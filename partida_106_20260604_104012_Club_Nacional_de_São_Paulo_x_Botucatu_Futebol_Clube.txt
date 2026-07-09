@@ -1,0 +1,312 @@
+Partida #106
+Data: 1912-01-08
+Mandante: Club Nacional de São Paulo
+Visitante: Botucatu Futebol Clube
+Placar: 4 x 1
+Seed: -
+Estádio: Estádio Sete de Setembro
+Clima: Chuva forte
+Placar tempo normal: 4 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Club Nacional de São Paulo x Botucatu Futebol Clube | estádio=Estádio Sete de Setembro | clima=Chuva forte | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[001] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.387 roll=0.556
+[002] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[002] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.342 roll=0.135
+[002] JOGADA Botucatu Futebol Clube | Gildásio Rodrigues x Daniel Frederiques line=3 duel=-6.78 corte=-1.30
+[002] JOGADA falhou: Daniel Frederiques cortou
+[003] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[003] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.387 roll=0.903
+[004] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[004] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.387 roll=0.095
+[004] JOGADA Club Nacional de São Paulo | Joselino Siqueira x Hernani Donatto line=3 duel=-27.19 corte=-1.12
+[005] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[005] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.342 roll=0.336
+[005] JOGADA Botucatu Futebol Clube | Russel Mattos x Noé Carvalho line=3 duel=26.67 corte=-1.30
+[005] FINAL Botucatu Futebol Clube | Hernani Donatto fam=5 duel=14.64 on_target=0.586 goal=0.165
+[005] FINAL Hernani Donatto: no alvo sem gol (roll=0.343)
+[006] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[006] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.387 roll=0.513
+[007] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[007] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.387 roll=0.918
+[008] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[008] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.387 roll=0.320
+[008] JOGADA Club Nacional de São Paulo | Bernardo Filho do Sapateiro Josias x Rapaz Milani line=4 duel=11.79 corte=-1.12
+[008] FINAL Club Nacional de São Paulo | Romano Barboza fam=1 duel=10.30 on_target=0.673 goal=0.250
+[008] FINAL Romano Barboza: fora/alvo perdido (roll=0.956)
+[009] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[009] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.342 roll=0.583
+[010] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[010] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.342 roll=0.881
+[011] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[011] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.418 roll=0.892
+[012] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[012] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.418 roll=0.264
+[012] JOGADA Club Nacional de São Paulo | Romano Barboza x Mago Bachega line=5 duel=68.87 corte=-1.37
+[012] FINAL Club Nacional de São Paulo | Taciano Queiroz fam=3 duel=-17.65 on_target=0.659 goal=0.193
+[012] FINAL Taciano Queiroz: fora/alvo perdido (roll=0.877)
+[013] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[013] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.370 roll=0.113
+[013] JOGADA Botucatu Futebol Clube | Mago Bachega x Noé Carvalho line=4 duel=-35.42 corte=-1.30
+[014] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[014] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.418 roll=0.424
+[015] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[015] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.418 roll=0.820
+[016] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[016] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.418 roll=0.688
+[016] FINAL Club Nacional de São Paulo | Taciano Queiroz fam=5 duel=12.88 on_target=0.622 goal=0.160
+[016] FINAL Taciano Queiroz: fora/alvo perdido (roll=0.686)
+[017] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[017] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.418 roll=0.268
+[017] JOGADA Club Nacional de São Paulo | Joselino Siqueira x Russel Mattos line=4 duel=-17.39 corte=-1.12
+[017] JOGADA falhou: Russel Mattos cortou
+[018] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[018] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.370 roll=0.227
+[018] JOGADA Botucatu Futebol Clube | Amonati Palhares x Bernardo Filho do Sapateiro Josias line=2 duel=85.17 corte=-1.30
+[018] FINAL Botucatu Futebol Clube | Amonati Palhares fam=5 duel=-56.15 on_target=0.628 goal=0.141
+[018] FINAL Amonati Palhares: fora/alvo perdido (roll=0.649)
+[019] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[019] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.418 roll=0.125
+[019] JOGADA Club Nacional de São Paulo | Joselino Siqueira x Gildásio Rodrigues line=4 duel=-8.71 corte=-1.12
+[019] JOGADA falhou: Gildásio Rodrigues cortou
+[020] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[020] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.418 roll=0.537
+[021] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[021] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.397 roll=0.766
+[022] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[022] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.450 roll=0.822
+[023] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[023] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.397 roll=0.908
+[024] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[024] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.450 roll=0.449
+[024] JOGADA Club Nacional de São Paulo | Romano Barboza x Mago Bachega line=3 duel=6.81 corte=-1.12
+[024] FINAL Club Nacional de São Paulo | Taciano Queiroz fam=3 duel=-24.92 on_target=0.693 goal=0.195
+[024] FINAL Taciano Queiroz: fora/alvo perdido (roll=0.741)
+[025] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[025] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.397 roll=0.096
+[025] JOGADA Botucatu Futebol Clube | Pedro Capibaribe Saraiva x Taciano Queiroz line=2 duel=14.02 corte=-1.30
+[025] FINAL Botucatu Futebol Clube | Amonati Palhares fam=1 duel=-0.05 on_target=0.766 goal=0.276
+[025] FINAL Amonati Palhares: fora/alvo perdido (roll=0.840)
+[026] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[026] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.397 roll=0.807
+[027] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[027] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.397 roll=0.043
+[027] JOGADA Botucatu Futebol Clube | Chavante Mantoan x Taciano Queiroz line=2 duel=85.75 corte=-1.30
+[027] FINAL Botucatu Futebol Clube | Amonati Palhares fam=5 duel=11.51 on_target=0.665 goal=0.180
+[027] FINAL Amonati Palhares: no alvo sem gol (roll=0.621)
+[028] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[028] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.397 roll=0.653
+[029] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[029] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.450 roll=0.047
+[029] JOGADA Club Nacional de São Paulo | Bernardo Filho do Sapateiro Josias x Russel Mattos line=3 duel=-12.86 corte=-1.12
+[029] JOGADA falhou: Russel Mattos cortou
+[030] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[030] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.397 roll=0.492
+[031] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[031] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.397 roll=0.406
+[032] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[032] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.400 roll=0.829
+[033] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 0 Botucatu Futebol Clube
+[033] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.400 roll=0.110
+[033] JOGADA Botucatu Futebol Clube | Pedro Capibaribe Saraiva x Romano Barboza line=2 duel=57.01 corte=-1.30
+[033] FINAL Botucatu Futebol Clube | Hernani Donatto fam=5 duel=19.21 on_target=0.667 goal=0.185
+[033] FINAL Hernani Donatto: GOL subtipo=FALTA (roll=0.057)
+[034] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 0 x 1 Botucatu Futebol Clube
+[034] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.439 roll=0.471
+[035] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 0 x 1 Botucatu Futebol Clube
+[035] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.530 roll=0.442
+[035] JOGADA Club Nacional de São Paulo | Romano Barboza x Chavante Mantoan line=4 duel=32.29 corte=-1.10
+[035] FINAL Club Nacional de São Paulo | Taciano Queiroz fam=3 duel=-5.31 on_target=0.694 goal=0.205
+[035] FINAL Taciano Queiroz: GOL subtipo=CHUTE (roll=0.099)
+[036] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 1 x 1 Botucatu Futebol Clube
+[036] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.400 roll=0.028
+[036] JOGADA Botucatu Futebol Clube | Chavante Mantoan x Artur Barboza line=2 duel=54.50 corte=-1.30
+[036] FINAL Botucatu Futebol Clube | Russel Mattos fam=5 duel=-26.19 on_target=0.662 goal=0.161
+[036] FINAL Russel Mattos: fora/alvo perdido (roll=0.882)
+[037] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 1 x 1 Botucatu Futebol Clube
+[037] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.400 roll=0.122
+[037] JOGADA Botucatu Futebol Clube | Gildásio Rodrigues x Artur Barboza line=3 duel=40.13 corte=-1.30
+[037] FINAL Botucatu Futebol Clube | Gildásio Rodrigues fam=5 duel=-18.19 on_target=0.664 goal=0.165
+[037] FINAL Gildásio Rodrigues: fora/alvo perdido (roll=0.876)
+[038] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 1 x 1 Botucatu Futebol Clube
+[038] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.400 roll=0.921
+[039] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 1 x 1 Botucatu Futebol Clube
+[039] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.400 roll=0.954
+[040] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 1 x 1 Botucatu Futebol Clube
+[040] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.450 roll=0.744
+[041] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 1 x 1 Botucatu Futebol Clube
+[041] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.400 roll=0.279
+[041] JOGADA Botucatu Futebol Clube | Mago Bachega x Romano Barboza line=3 duel=-27.27 corte=-1.30
+[041] JOGADA falhou: Romano Barboza cortou
+[042] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 1 x 1 Botucatu Futebol Clube
+[042] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.450 roll=0.361
+[042] JOGADA Club Nacional de São Paulo | Martinho Supla x Chavante Mantoan line=3 duel=39.86 corte=-1.12
+[042] FINAL Club Nacional de São Paulo | Bernardo Filho do Sapateiro Josias fam=1 duel=-2.08 on_target=0.766 goal=0.270
+[042] FINAL Bernardo Filho do Sapateiro Josias: GOL subtipo=CHUTE (roll=0.214)
+[043] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 2 x 1 Botucatu Futebol Clube
+[043] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.488 roll=0.239
+[043] JOGADA Botucatu Futebol Clube | Rapaz Milani x Artur Barboza line=3 duel=-4.18 corte=-1.30
+[043] JOGADA falhou: Artur Barboza cortou
+[044] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 2 x 1 Botucatu Futebol Clube
+[044] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.488 roll=0.729
+[045] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 2 x 1 Botucatu Futebol Clube
+[045] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.450 roll=0.495
+[046] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 2 x 1 Botucatu Futebol Clube
+[046] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.418 roll=0.132
+[046] JOGADA Club Nacional de São Paulo | Artur Barboza x Amonati Palhares line=5 duel=89.49 corte=-1.55
+[046] FINAL Club Nacional de São Paulo | Bernardo Filho do Sapateiro Josias fam=1 duel=-0.24 on_target=0.728 goal=0.263
+[046] FINAL Bernardo Filho do Sapateiro Josias: GOL subtipo=CHUTE (roll=0.062)
+[047] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[047] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.411 roll=0.861
+[048] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[048] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.411 roll=0.652
+[049] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[049] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.411 roll=0.541
+[050] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[050] SUB Club Nacional de São Paulo: saiu Taciano Queiroz (SA) | entrou Hariel Vasconcellos (SA) | subs=1/5
+[050] SUB Botucatu Futebol Clube: saiu Rapaz Milani (LD) | entrou Renato Falcao (LD) | subs=1/5
+[050] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.458 roll=0.549
+[051] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[051] SUB Club Nacional de São Paulo: saiu Bernardo Filho do Sapateiro Josias (CA) | entrou Alítio Nunes (CA) | subs=2/5
+[051] SUB Botucatu Futebol Clube: saiu Mago Bachega (ZAG) | entrou Iyra Martinelli (ZAG) | subs=2/5
+[051] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.458 roll=0.876
+[052] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[052] SUB Botucatu Futebol Clube: saiu Gildásio Rodrigues (MC) | entrou Jabim Gallardo (MD) | subs=3/5
+[052] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.455 roll=0.166
+[052] JOGADA Botucatu Futebol Clube | Durvalino Lodi x Gomes Prates line=3 duel=24.56 corte=-1.30
+[052] FINAL Botucatu Futebol Clube | Amonati Palhares fam=5 duel=2.52 on_target=0.634 goal=0.174
+[052] FINAL Amonati Palhares: fora/alvo perdido (roll=0.833)
+[053] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[053] SUB Botucatu Futebol Clube: saiu Amonati Palhares (CA) | entrou Ramos Lourenço (PD) | subs=4/5
+[053] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.452 roll=0.046
+[053] JOGADA Botucatu Futebol Clube | Russel Mattos x Artur Barboza line=3 duel=-5.48 corte=-1.30
+[053] JOGADA falhou: Artur Barboza cortou
+[054] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[054] SUB Botucatu Futebol Clube: saiu Itaquaquecetuba Siqueira (ZAG) | entrou Alípio Serra (ZAG) | subs=5/5
+[054] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.396 roll=0.280
+[054] JOGADA Club Nacional de São Paulo | Romano Barboza x Chavante Mantoan line=5 duel=91.33 corte=-1.55
+[054] FINAL Club Nacional de São Paulo | Gomes Prates fam=3 duel=2.21 on_target=0.640 goal=0.192
+[054] FINAL Gomes Prates: no alvo sem gol (roll=0.475)
+[055] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[055] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.453 roll=0.767
+[056] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[056] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.488 roll=0.313
+[056] JOGADA Botucatu Futebol Clube | Chavante Mantoan x Alítio Nunes line=4 duel=15.63 corte=-1.30
+[056] FINAL Botucatu Futebol Clube | Hernani Donatto fam=5 duel=24.98 on_target=0.670 goal=0.192
+[056] FINAL Hernani Donatto: fora/alvo perdido (roll=0.716)
+[057] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[057] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.488 roll=0.329
+[057] JOGADA Botucatu Futebol Clube | Hernani Donatto x Noé Carvalho line=4 duel=3.47 corte=-1.30
+[057] JOGADA Botucatu Futebol Clube | Jabim Gallardo x Artur Barboza line=5 duel=90.57 corte=-1.55
+[057] JOGADA Botucatu Futebol Clube | Renato Falcao x Hariel Vasconcellos line=5 duel=82.80 corte=-1.55
+[057] FINAL Botucatu Futebol Clube | Jabim Gallardo fam=1 duel=14.35 on_target=0.764 goal=0.284
+[057] FINAL Jabim Gallardo: fora/alvo perdido (roll=0.964)
+[058] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[058] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.425 roll=0.831
+[059] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[059] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.488 roll=0.860
+[060] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[060] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.491 roll=0.560
+[061] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[061] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.491 roll=0.652
+[062] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[062] SUB Club Nacional de São Paulo: saiu Gomes Prates (MA) | entrou Cláudio Nápoles (MA) | subs=3/5
+[062] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.491 roll=0.991
+[063] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[063] SUB Club Nacional de São Paulo: saiu Noé Carvalho (AD) | entrou Torcato Azevedo (AD) | subs=4/5
+[063] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.422 roll=0.994
+[064] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[064] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.494 roll=0.777
+[065] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[065] SUB Club Nacional de São Paulo: saiu Joselino Siqueira (ZAG) | entrou Yuri Queiroz (VOL) | subs=5/5
+[065] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.420 roll=0.442
+[066] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[066] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.497 roll=0.151
+[066] JOGADA Botucatu Futebol Clube | Renato Falcao x Cláudio Nápoles line=3 duel=-13.62 corte=-1.30
+[066] JOGADA falhou: Cláudio Nápoles cortou
+[067] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[067] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.420 roll=0.443
+[068] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[068] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.420 roll=1.000
+[069] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[069] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.497 roll=0.666
+[070] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[070] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.420 roll=0.915
+[071] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[071] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.497 roll=0.104
+[071] JOGADA Botucatu Futebol Clube | Jabim Gallardo x Martinho Supla line=3 duel=35.72 corte=-1.30
+[071] FINAL Botucatu Futebol Clube | Ramos Lourenço fam=5 duel=20.85 on_target=0.668 goal=0.189
+[071] FINAL Ramos Lourenço: no alvo sem gol (roll=0.720)
+[072] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[072] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.420 roll=0.659
+[073] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[073] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.420 roll=0.906
+[074] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 3 x 1 Botucatu Futebol Clube
+[074] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.420 roll=0.379
+[074] JOGADA Club Nacional de São Paulo | Artur Barboza x Russel Mattos line=5 duel=43.35 corte=-1.55
+[074] FINAL Club Nacional de São Paulo | Cláudio Nápoles fam=1 duel=33.21 on_target=0.744 goal=0.273
+[074] FINAL Cláudio Nápoles: GOL subtipo=CHUTE (roll=0.116)
+[075] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[075] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.413 roll=0.252
+[075] JOGADA Club Nacional de São Paulo | Torcato Azevedo x Durvalino Lodi line=5 duel=90.55 corte=-1.55
+[075] FINAL Club Nacional de São Paulo | Alítio Nunes fam=1 duel=13.44 on_target=0.720 goal=0.252
+[075] FINAL Alítio Nunes: no alvo sem gol (roll=0.626)
+[076] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[076] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.400 roll=0.731
+[077] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[077] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.400 roll=0.816
+[078] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[078] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.400 roll=0.939
+[079] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[079] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.400 roll=0.404
+[080] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[080] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.540 roll=0.785
+[081] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[081] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.400 roll=0.268
+[081] JOGADA Club Nacional de São Paulo | Daniel Frederiques x Renato Falcao line=4 duel=16.85 corte=-1.30
+[081] FINAL Club Nacional de São Paulo | Hariel Vasconcellos fam=1 duel=9.29 on_target=0.705 goal=0.247
+[081] FINAL Hariel Vasconcellos: fora/alvo perdido (roll=0.718)
+[082] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[082] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.540 roll=0.812
+[083] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[083] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.540 roll=0.936
+[084] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[084] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.400 roll=0.284
+[084] JOGADA Club Nacional de São Paulo | Yuri Queiroz x Durvalino Lodi line=5 duel=6.54 corte=-1.55
+[084] FINAL Club Nacional de São Paulo | Daniel Frederiques fam=1 duel=0.54 on_target=0.704 goal=0.250
+[084] FINAL Daniel Frederiques: no alvo sem gol (roll=0.580)
+[085] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[085] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.400 roll=0.430
+[086] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[086] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.400 roll=0.052
+[086] JOGADA Club Nacional de São Paulo | Cláudio Nápoles x Durvalino Lodi line=4 duel=10.91 corte=-1.30
+[086] FINAL Club Nacional de São Paulo | Alítio Nunes fam=3 duel=6.55 on_target=0.640 goal=0.195
+[086] FINAL Alítio Nunes: no alvo sem gol (roll=0.825)
+[087] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[087] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.580 roll=0.343
+[087] JOGADA Botucatu Futebol Clube | Pedro Capibaribe Saraiva x Torcato Azevedo line=2 duel=-31.96 corte=-1.30
+[087] JOGADA falhou: Torcato Azevedo cortou
+[088] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[088] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.400 roll=0.562
+[089] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[089] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.400 roll=0.121
+[089] JOGADA Club Nacional de São Paulo | Martinho Supla x Renato Falcao line=4 duel=-3.51 corte=-1.30
+[089] JOGADA falhou: Renato Falcao cortou
+[090] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[090] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.580 roll=0.794
+[091] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[091] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.400 roll=0.027
+[091] JOGADA Club Nacional de São Paulo | Alítio Nunes x Durvalino Lodi line=4 duel=-5.20 corte=-1.30
+[092] posse=Club Nacional de São Paulo | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[092] BUILD Club Nacional de São Paulo vs Botucatu Futebol Clube prob=0.400 roll=0.561
+[093] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[093] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.580 roll=0.681
+[094] posse=Botucatu Futebol Clube | placar Club Nacional de São Paulo 4 x 1 Botucatu Futebol Clube
+[094] BUILD Botucatu Futebol Clube vs Club Nacional de São Paulo prob=0.580 roll=0.285
+[094] JOGADA Botucatu Futebol Clube | Durvalino Lodi x Romano Barboza line=3 duel=30.06 corte=-1.30
+[094] FINAL Botucatu Futebol Clube | Chavante Mantoan fam=5 duel=-9.47 on_target=0.817 goal=0.189
+[094] FINAL Chavante Mantoan: fora/alvo perdido (roll=0.965)

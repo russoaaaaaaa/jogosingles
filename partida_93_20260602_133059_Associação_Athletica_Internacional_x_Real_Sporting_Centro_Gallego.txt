@@ -1,0 +1,308 @@
+Partida #93
+Data: 1912-01-07
+Mandante: Associação Athletica Internacional
+Visitante: Real Sporting Centro Gallego
+Placar: 0 x 0
+Seed: -
+Estádio: Estádio Carneiro Leão
+Clima: Chuva leve
+Placar tempo normal: 0 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Associação Athletica Internacional x Real Sporting Centro Gallego | estádio=Estádio Carneiro Leão | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[001] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.314 roll=1.000
+[002] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[002] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.314 roll=0.746
+[003] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[003] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.314 roll=0.823
+[004] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[004] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.337 roll=0.817
+[005] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[005] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.337 roll=0.945
+[006] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[006] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.337 roll=0.951
+[007] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[007] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.337 roll=0.865
+[008] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[008] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.314 roll=0.030
+[008] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Alerrando Mesquita line=2 duel=-19.54 corte=-1.70
+[009] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[009] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.337 roll=0.116
+[009] JOGADA Real Sporting Centro Gallego | Alejandro Cordero x Lorenzo Silva line=4 duel=-17.37 corte=-1.10
+[010] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[010] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.337 roll=0.405
+[011] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[011] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.364 roll=0.767
+[012] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[012] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.339 roll=0.288
+[012] JOGADA Associação Athletica Internacional | Gio Occhetto x Alejandro Cordero line=2 duel=-14.37 corte=-1.70
+[012] JOGADA falhou: Alejandro Cordero cortou
+[013] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[013] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.364 roll=0.959
+[014] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[014] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.339 roll=0.895
+[015] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[015] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.339 roll=0.185
+[015] JOGADA Associação Athletica Internacional | Leo Basbaum x Ítalo Terrível line=3 duel=20.12 corte=-1.70
+[015] JOGADA Associação Athletica Internacional | Alceo Panicucci x Linwood Hays line=4 duel=-6.07 corte=-1.70
+[015] JOGADA falhou: Linwood Hays cortou
+[016] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[016] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.339 roll=0.482
+[017] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[017] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.339 roll=0.448
+[018] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[018] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.339 roll=0.425
+[019] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[019] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.339 roll=0.268
+[019] JOGADA Associação Athletica Internacional | Christiano Cordeiro x Ítalo Terrível line=3 duel=10.36 corte=-1.70
+[019] FINAL Associação Athletica Internacional | Gio Occhetto fam=5 duel=-15.62 on_target=0.563 goal=0.148
+[019] FINAL Gio Occhetto: no alvo sem gol (roll=0.444)
+[020] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[020] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.364 roll=0.143
+[020] JOGADA Real Sporting Centro Gallego | Júlio Falcão x Lorenzo Silva line=2 duel=76.98 corte=-1.10
+[020] JOGADA Real Sporting Centro Gallego | Laércio Neto x Berno Rossi line=5 duel=59.86 corte=-1.35
+[020] JOGADA Real Sporting Centro Gallego | Alejandro Cordero x Astrojildo line=5 duel=11.21 corte=-1.35
+[020] FINAL Real Sporting Centro Gallego | Costa Cavalcanti fam=1 duel=15.03 on_target=0.648 goal=0.236
+[020] FINAL Costa Cavalcanti: fora/alvo perdido (roll=0.927)
+[021] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[021] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.392 roll=0.660
+[022] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[022] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.392 roll=0.658
+[023] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[023] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.365 roll=0.238
+[023] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Alejandro Cordero line=3 duel=-3.04 corte=-1.70
+[023] JOGADA falhou: Alejandro Cordero cortou
+[024] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[024] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.365 roll=0.417
+[025] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[025] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.365 roll=0.460
+[026] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[026] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.392 roll=0.756
+[027] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[027] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.392 roll=0.137
+[027] JOGADA Real Sporting Centro Gallego | Ítalo Terrível x Leo Basbaum line=3 duel=55.86 corte=-1.10
+[027] JOGADA Real Sporting Centro Gallego | Laércio Neto x Horácio Canhão line=4 duel=-4.02 corte=-1.10
+[028] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[028] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.392 roll=0.655
+[029] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[029] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.392 roll=0.270
+[029] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Alceo Panicucci line=3 duel=26.88 corte=-1.10
+[029] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Gio Occhetto line=4 duel=56.04 corte=-1.10
+[029] FINAL Real Sporting Centro Gallego | Ítalo Terrível fam=3 duel=-23.71 on_target=0.617 goal=0.172
+[029] FINAL Ítalo Terrível: fora/alvo perdido (roll=0.711)
+[030] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[030] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.365 roll=0.358
+[030] JOGADA Associação Athletica Internacional | Leo Basbaum x Linwood Hays line=2 duel=30.83 corte=-1.70
+[030] JOGADA Associação Athletica Internacional | Lorenzo Silva x Laércio Neto line=4 duel=-13.60 corte=-1.70
+[031] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[031] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.392 roll=0.715
+[032] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[032] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.367 roll=0.220
+[032] JOGADA Associação Athletica Internacional | Leo Basbaum x Francesco Maldonatti line=2 duel=26.59 corte=-1.70
+[032] JOGADA Associação Athletica Internacional | Horácio Canhão x Francesco Maldonatti line=4 duel=-19.99 corte=-1.70
+[033] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[033] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.367 roll=0.283
+[033] JOGADA Associação Athletica Internacional | Lorenzo Silva x Laércio Neto line=4 duel=-14.69 corte=-1.70
+[034] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[034] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.392 roll=0.518
+[035] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[035] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.392 roll=0.790
+[036] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[036] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.392 roll=0.013
+[036] JOGADA Real Sporting Centro Gallego | Laércio Neto x Gio Occhetto line=2 duel=24.38 corte=-1.10
+[036] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Abílio Boca-torta line=3 duel=16.43 corte=-1.10
+[036] FINAL Real Sporting Centro Gallego | Ítalo Terrível fam=3 duel=9.66 on_target=0.619 goal=0.187
+[036] FINAL Ítalo Terrível: fora/alvo perdido (roll=0.881)
+[037] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[037] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.367 roll=0.867
+[038] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[038] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.392 roll=0.603
+[039] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[039] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.367 roll=0.696
+[040] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[040] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.367 roll=0.059
+[040] JOGADA Associação Athletica Internacional | Horácio Canhão x Linwood Hays line=4 duel=-35.53 corte=-1.70
+[040] JOGADA falhou: Linwood Hays cortou
+[041] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[041] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.367 roll=0.400
+[042] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[042] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.367 roll=0.835
+[043] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[043] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.367 roll=0.726
+[044] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[044] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.392 roll=0.665
+[045] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[045] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.367 roll=0.487
+[046] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[046] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.364 roll=0.316
+[046] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Berno Rossi line=3 duel=96.09 corte=-1.10
+[046] JOGADA Real Sporting Centro Gallego | Alejandro Cordero x Leo Basbaum line=4 duel=-28.32 corte=-1.10
+[046] JOGADA falhou: Leo Basbaum cortou
+[047] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[047] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.341 roll=0.651
+[048] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[048] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.364 roll=0.708
+[049] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[049] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.341 roll=0.174
+[049] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Alerrando Mesquita line=2 duel=-21.84 corte=-1.70
+[050] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[050] SUB Associação Athletica Internacional: saiu Gio Occhetto (CA) | entrou Elizeu Alagoano (CA) | subs=1/5
+[050] SUB Real Sporting Centro Gallego: saiu Argonauta Tenório (CA) | entrou Guiné (CA) | subs=1/5
+[050] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.312 roll=0.017
+[050] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Costa Cavalcanti line=4 duel=-0.52 corte=-1.70
+[050] JOGADA Associação Athletica Internacional | Leo Basbaum x Júlio Falcão line=4 duel=-27.39 corte=-1.70
+[051] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[051] SUB Associação Athletica Internacional: saiu Leo Basbaum (CA) | entrou Ítalinho (CA) | subs=2/5
+[051] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.305 roll=0.602
+[052] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[052] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.366 roll=0.315
+[052] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Lorenzo Silva line=4 duel=-40.80 corte=-1.10
+[052] JOGADA falhou: Lorenzo Silva cortou
+[053] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[053] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.366 roll=0.898
+[054] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[054] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.366 roll=0.877
+[055] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[055] SUB Associação Athletica Internacional: saiu Horácio Canhão (MA) | entrou Arythoreon (MA) | subs=3/5
+[055] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.305 roll=0.152
+[055] JOGADA Associação Athletica Internacional | Berno Rossi x Alerrando Mesquita line=3 duel=-27.62 corte=-1.70
+[055] JOGADA falhou: Alerrando Mesquita cortou
+[056] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[056] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.328 roll=0.038
+[056] JOGADA Associação Athletica Internacional | Christiano Cordeiro x Júlio Falcão line=2 duel=-14.25 corte=-1.70
+[056] JOGADA falhou: Júlio Falcão cortou
+[057] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[057] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.394 roll=0.952
+[058] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[058] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.328 roll=0.161
+[058] JOGADA Associação Athletica Internacional | Elizeu Alagoano x Costa Cavalcanti line=2 duel=4.85 corte=-1.70
+[058] JOGADA Associação Athletica Internacional | Astrojildo x Alejandro Cordero line=3 duel=6.33 corte=-1.70
+[058] JOGADA Associação Athletica Internacional | Christiano Cordeiro x Júlio Falcão line=4 duel=-9.60 corte=-1.70
+[058] JOGADA falhou: Júlio Falcão cortou
+[059] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[059] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.328 roll=0.456
+[060] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[060] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.366 roll=0.491
+[061] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[061] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.331 roll=0.081
+[061] JOGADA Associação Athletica Internacional | Alceo Panicucci x Júlio Falcão line=3 duel=-6.78 corte=-1.70
+[061] JOGADA falhou: Júlio Falcão cortou
+[062] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[062] SUB Associação Athletica Internacional: saiu Berno Rossi (ZAG) | entrou Fabrício Leão (ZAG) | subs=4/5
+[062] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.331 roll=0.572
+[063] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[063] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.331 roll=0.542
+[064] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[064] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.366 roll=0.019
+[064] JOGADA Real Sporting Centro Gallego | Laércio Neto x Didinho line=3 duel=3.65 corte=-1.09
+[064] JOGADA Real Sporting Centro Gallego | Linwood Hays x Alceo Panicucci line=4 duel=-14.13 corte=-1.09
+[064] JOGADA falhou: Alceo Panicucci cortou
+[065] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[065] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.331 roll=0.120
+[065] JOGADA Associação Athletica Internacional | Fabrício Leão x Rogério Freitas line=3 duel=-10.70 corte=-1.70
+[065] JOGADA falhou: Rogério Freitas cortou
+[066] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[066] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.331 roll=0.088
+[066] JOGADA Associação Athletica Internacional | Ítalinho x Alejandro Cordero line=3 duel=49.07 corte=-1.70
+[066] JOGADA Associação Athletica Internacional | Alceo Panicucci x Laércio Neto line=4 duel=-62.96 corte=-1.70
+[066] JOGADA falhou: Laércio Neto cortou
+[067] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[067] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.366 roll=0.500
+[068] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[068] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.366 roll=0.916
+[069] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[069] SUB Associação Athletica Internacional: saiu Christiano Cordeiro (AD) | entrou Rodolfo Freire (AD) | subs=5/5
+[069] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.372 roll=0.043
+[069] JOGADA Real Sporting Centro Gallego | Guiné x Ítalinho line=4 duel=9.63 corte=-1.09
+[069] JOGADA Real Sporting Centro Gallego | Linwood Hays x Abílio Boca-torta line=4 duel=-5.89 corte=-1.09
+[070] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[070] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.372 roll=0.561
+[071] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[071] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.372 roll=0.648
+[072] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[072] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.372 roll=0.233
+[072] JOGADA Real Sporting Centro Gallego | Guiné x Elizeu Alagoano line=3 duel=7.52 corte=-1.05
+[072] JOGADA Real Sporting Centro Gallego | Costa Cavalcanti x Astrojildo line=4 duel=-32.66 corte=-1.05
+[072] JOGADA falhou: Astrojildo cortou
+[073] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[073] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.334 roll=0.255
+[073] JOGADA Associação Athletica Internacional | Abílio Boca-torta x Júlio Falcão line=4 duel=-2.77 corte=-1.70
+[073] JOGADA falhou: Júlio Falcão cortou
+[074] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[074] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.372 roll=0.834
+[075] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[075] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.334 roll=0.961
+[076] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[076] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.344 roll=0.411
+[077] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[077] SUB Real Sporting Centro Gallego: saiu Laércio Neto (LD) | entrou Mognólio Danieles (AD) | subs=2/5
+[077] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.382 roll=0.423
+[078] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[078] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.382 roll=0.746
+[079] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[079] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.343 roll=0.953
+[080] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[080] SUB Real Sporting Centro Gallego: saiu Linwood Hays (ZAG) | entrou Rodrigão Barbosa (ZAG) | subs=3/5
+[080] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.382 roll=0.596
+[081] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[081] SUB Real Sporting Centro Gallego: saiu Guiné (CA) | entrou Juan Gordito Artetas (PE) | subs=4/5
+[081] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.344 roll=0.780
+[082] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[082] SUB Real Sporting Centro Gallego: saiu Ítalo Terrível (SA) | entrou Salazar Bravo (MA) | subs=5/5
+[082] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.377 roll=0.551
+[083] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[083] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.377 roll=0.644
+[084] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[084] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.344 roll=0.984
+[085] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[085] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.362 roll=0.996
+[086] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[086] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.362 roll=0.473
+[087] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[087] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.362 roll=0.217
+[087] JOGADA Associação Athletica Internacional | Astrojildo x Francesco Maldonatti line=2 duel=-14.51 corte=-1.70
+[087] JOGADA falhou: Francesco Maldonatti cortou
+[088] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[088] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.397 roll=0.722
+[089] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[089] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.362 roll=0.271
+[089] JOGADA Associação Athletica Internacional | Elizeu Alagoano x Mognólio Danieles line=3 duel=53.85 corte=-1.70
+[089] JOGADA Associação Athletica Internacional | Rodolfo Freire x Costa Cavalcanti line=4 duel=-46.33 corte=-1.70
+[089] JOGADA falhou: Costa Cavalcanti cortou
+[090] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[090] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.362 roll=0.036
+[090] JOGADA Associação Athletica Internacional | Arythoreon x Alerrando Mesquita line=2 duel=-6.81 corte=-1.70
+[090] JOGADA falhou: Alerrando Mesquita cortou
+[091] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[091] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.397 roll=0.259
+[091] JOGADA Real Sporting Centro Gallego | Júlio Falcão x Lorenzo Silva line=3 duel=15.14 corte=-1.05
+[091] JOGADA Real Sporting Centro Gallego | Alerrando Mesquita x Didinho line=4 duel=18.44 corte=-1.05
+[091] FINAL Real Sporting Centro Gallego | Júlio Falcão fam=1 duel=14.18 on_target=0.738 goal=0.245
+[091] FINAL Júlio Falcão: no alvo sem gol (roll=0.672)
+[092] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[092] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.397 roll=0.336
+[092] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Rodolfo Freire line=3 duel=14.42 corte=-1.05
+[092] JOGADA Real Sporting Centro Gallego | Júlio Falcão x Lorenzo Silva line=4 duel=15.24 corte=-1.05
+[092] FINAL Real Sporting Centro Gallego | Juan Gordito Artetas fam=3 duel=22.32 on_target=0.673 goal=0.195
+[092] FINAL Juan Gordito Artetas: no alvo sem gol (roll=0.320)
+[093] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[093] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.362 roll=0.220
+[093] JOGADA Associação Athletica Internacional | Alceo Panicucci x Rodrigão Barbosa line=3 duel=-31.55 corte=-1.70
+[093] JOGADA falhou: Rodrigão Barbosa cortou
+[094] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[094] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.397 roll=0.143
+[094] JOGADA Real Sporting Centro Gallego | Rogério Freitas x Abílio Boca-torta line=2 duel=12.74 corte=-1.05
+[094] FINAL Real Sporting Centro Gallego | Juan Gordito Artetas fam=3 duel=23.71 on_target=0.673 goal=0.195
+[094] FINAL Juan Gordito Artetas: no alvo sem gol (roll=0.922)
+[095] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[095] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.362 roll=0.835
+[096] posse=Associação Athletica Internacional | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[096] BUILD Associação Athletica Internacional vs Real Sporting Centro Gallego prob=0.362 roll=0.402
+[096] FINAL Associação Athletica Internacional | Lorenzo Silva fam=5 duel=-12.64 on_target=0.648 goal=0.158
+[096] FINAL Lorenzo Silva: fora/alvo perdido (roll=0.880)
+[097] posse=Real Sporting Centro Gallego | placar Associação Athletica Internacional 0 x 0 Real Sporting Centro Gallego
+[097] BUILD Real Sporting Centro Gallego vs Associação Athletica Internacional prob=0.397 roll=0.539

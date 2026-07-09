@@ -1,0 +1,305 @@
+Partida #103
+Data: 1912-01-08
+Mandante: Associação Atlética São Bento
+Visitante: Esporte Clube Água Santa
+Placar: 3 x 0
+Seed: -
+Estádio: Padre Katon
+Clima: Chuva leve
+Placar tempo normal: 3 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Associação Atlética São Bento x Esporte Clube Água Santa | estádio=Padre Katon | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[001] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.345 roll=0.671
+[002] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[002] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.282 roll=0.396
+[003] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[003] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.345 roll=0.922
+[004] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[004] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.282 roll=0.793
+[005] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[005] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.345 roll=0.911
+[006] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[006] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.345 roll=0.779
+[007] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[007] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.282 roll=0.171
+[007] JOGADA Esporte Clube Água Santa | Diamantino Nascimento x Jacinto Aquino Pinto line=2 duel=-21.78 corte=-1.30
+[007] JOGADA falhou: Jacinto Aquino Pinto cortou
+[008] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[008] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.345 roll=0.046
+[008] JOGADA Associação Atlética São Bento | Jordano Carmona x Érico Torres line=3 duel=11.88 corte=-1.12
+[008] FINAL Associação Atlética São Bento | Toledo Silva fam=1 duel=-3.75 on_target=0.599 goal=0.218
+[008] FINAL Toledo Silva: fora/alvo perdido (roll=0.999)
+[009] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[009] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.345 roll=0.873
+[010] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[010] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.282 roll=0.533
+[011] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[011] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.373 roll=0.754
+[012] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[012] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.305 roll=0.376
+[013] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[013] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.373 roll=0.564
+[014] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[014] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.373 roll=0.584
+[015] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[015] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.373 roll=0.267
+[015] JOGADA Associação Atlética São Bento | Assis Lobo x Aleu Álvares line=4 duel=24.11 corte=-1.12
+[015] FINAL Associação Atlética São Bento | Elvino Seixas fam=3 duel=-3.00 on_target=0.585 goal=0.178
+[015] FINAL Elvino Seixas: no alvo sem gol (roll=0.282)
+[016] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[016] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.373 roll=0.483
+[017] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[017] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.373 roll=0.639
+[018] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[018] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.373 roll=0.624
+[019] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[019] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.373 roll=0.727
+[020] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[020] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.373 roll=0.810
+[021] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[021] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.328 roll=0.823
+[022] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[022] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.938
+[023] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[023] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.734
+[024] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[024] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.328 roll=0.855
+[025] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[025] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.328 roll=0.048
+[025] JOGADA Esporte Clube Água Santa | Heleno Lobo x Emo Macedo line=3 duel=-30.39 corte=-1.30
+[025] JOGADA falhou: Emo Macedo cortou
+[026] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[026] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.328 roll=0.908
+[027] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[027] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.328 roll=0.924
+[028] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[028] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.641
+[029] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 0 x 0 Esporte Clube Água Santa
+[029] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.235
+[029] JOGADA Associação Atlética São Bento | Canto Falcão x Heleno Lobo line=5 duel=47.91 corte=-1.87
+[029] FINAL Associação Atlética São Bento | Canto Falcão fam=1 duel=4.37 on_target=0.682 goal=0.244
+[029] FINAL Canto Falcão: GOL subtipo=CHUTE (roll=0.137)
+[030] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[030] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.242
+[030] JOGADA Associação Atlética São Bento | Canto Falcão x Bartolomeu Álvares line=5 duel=4.30 corte=-2.05
+[030] FINAL Associação Atlética São Bento | Elvino Seixas fam=1 duel=16.66 on_target=0.680 goal=0.248
+[030] FINAL Elvino Seixas: fora/alvo perdido (roll=0.699)
+[031] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[031] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.377 roll=0.387
+[032] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[032] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.377 roll=0.783
+[033] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[033] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.177
+[033] JOGADA Associação Atlética São Bento | Elvino Seixas x Bartolomeu Álvares line=5 duel=22.72 corte=-1.55
+[033] FINAL Associação Atlética São Bento | Jacinto Aquino Pinto fam=3 duel=-13.74 on_target=0.617 goal=0.179
+[033] FINAL Jacinto Aquino Pinto: no alvo sem gol (roll=0.982)
+[034] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[034] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.377 roll=0.132
+[034] JOGADA Esporte Clube Água Santa | Aleu Álvares x Mair Bettencourt line=4 duel=8.63 corte=-1.30
+[034] FINAL Esporte Clube Água Santa | Érico Torres fam=5 duel=-7.38 on_target=0.590 goal=0.154
+[034] FINAL Érico Torres: fora/alvo perdido (roll=0.816)
+[035] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[035] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.417
+[036] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[036] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.377 roll=0.600
+[037] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[037] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.169
+[037] JOGADA Associação Atlética São Bento | Jacinto Aquino Pinto x Mohammed Jalim Rabei line=5 duel=107.75 corte=-1.55
+[037] FINAL Associação Atlética São Bento | Jordano Carmona fam=1 duel=-1.32 on_target=0.681 goal=0.241
+[037] FINAL Jordano Carmona: fora/alvo perdido (roll=0.769)
+[038] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[038] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.379
+[038] JOGADA Associação Atlética São Bento | Juventino Munhoz x Érico Torres line=4 duel=7.15 corte=-1.30
+[038] FINAL Associação Atlética São Bento | Jordano Carmona fam=1 duel=-2.20 on_target=0.681 goal=0.241
+[038] FINAL Jordano Carmona: fora/alvo perdido (roll=0.908)
+[039] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[039] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.739
+[040] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[040] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.376
+[040] JOGADA Associação Atlética São Bento | Jordano Carmona x Bartolomeu Álvares line=5 duel=4.62 corte=-2.05
+[040] FINAL Associação Atlética São Bento | Jordano Carmona fam=1 duel=0.89 on_target=0.681 goal=0.242
+[040] FINAL Jordano Carmona: fora/alvo perdido (roll=0.958)
+[041] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[041] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.377 roll=0.693
+[042] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[042] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.377 roll=0.152
+[042] JOGADA Esporte Clube Água Santa | Diamantino Nascimento x Jacinto Aquino Pinto line=2 duel=-30.79 corte=-1.30
+[042] JOGADA falhou: Jacinto Aquino Pinto cortou
+[043] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[043] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.580
+[044] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[044] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.304
+[044] JOGADA Associação Atlética São Bento | Benjamim Texeira x Gabriel Agro line=5 duel=77.73 corte=-1.55
+[044] FINAL Associação Atlética São Bento | Canto Falcão fam=1 duel=-4.48 on_target=0.681 goal=0.240
+[044] FINAL Canto Falcão: no alvo sem gol (roll=0.765)
+[045] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[045] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.401 roll=0.968
+[046] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[046] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.373 roll=0.955
+[047] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[047] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.351 roll=0.535
+[048] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[048] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.373 roll=0.626
+[049] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[049] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.373 roll=0.161
+[049] JOGADA Associação Atlética São Bento | Juventino Munhoz x Aleu Álvares line=4 duel=5.97 corte=-1.30
+[049] FINAL Associação Atlética São Bento | Jordano Carmona fam=1 duel=2.64 on_target=0.647 goal=0.236
+[049] FINAL Jordano Carmona: no alvo sem gol (roll=0.618)
+[050] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[050] SUB Associação Atlética São Bento: saiu Jordano Carmona (SA) | entrou Dóriclo Agra (MA) | subs=1/5
+[050] SUB Esporte Clube Água Santa: saiu Mohammed Jalim Rabei (MD) | entrou Tarcísio Topete (MD) | subs=1/5
+[050] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.341 roll=0.710
+[051] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[051] SUB Associação Atlética São Bento: saiu Canto Falcão (CA) | entrou Vinício Góes (CA) | subs=2/5
+[051] SUB Esporte Clube Água Santa: saiu Aprígio Munhoz (CA) | entrou Pépio Caymmi (CA) | subs=2/5
+[051] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.375 roll=0.652
+[052] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[052] SUB Esporte Clube Água Santa: saiu Diamantino Nascimento (LE) | entrou Óscar Alves da Silva (AE) | subs=3/5
+[052] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.373 roll=0.320
+[052] JOGADA Associação Atlética São Bento | Dóriclo Agra x Bartolomeu Álvares line=3 duel=48.52 corte=-1.30
+[052] FINAL Associação Atlética São Bento | Jacinto Aquino Pinto fam=3 duel=5.73 on_target=0.587 goal=0.183
+[052] FINAL Jacinto Aquino Pinto: fora/alvo perdido (roll=0.970)
+[053] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[053] SUB Esporte Clube Água Santa: saiu Bartolomeu Álvares (LD) | entrou Lorenzo Pereira da Silva (LD) | subs=4/5
+[053] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.376 roll=0.944
+[054] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[054] SUB Esporte Clube Água Santa: saiu Oliveiros Prates (MC) | entrou Jesus Fernandes (MC) | subs=5/5
+[054] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.337 roll=0.157
+[054] JOGADA Esporte Clube Água Santa | Lorenzo Pereira da Silva x Jacinto Aquino Pinto line=3 duel=6.67 corte=-1.30
+[054] FINAL Esporte Clube Água Santa | Tarcísio Topete fam=5 duel=-44.07 on_target=0.557 goal=0.131
+[054] FINAL Tarcísio Topete: no alvo sem gol (roll=0.786)
+[055] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[055] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.377 roll=0.552
+[056] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[056] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.363 roll=0.264
+[056] JOGADA Esporte Clube Água Santa | Diogo Simões x Mair Bettencourt line=4 duel=-65.96 corte=-1.30
+[056] JOGADA falhou: Mair Bettencourt cortou
+[057] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[057] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.405 roll=0.352
+[057] JOGADA Associação Atlética São Bento | Toledo Silva x Heleno Lobo line=3 duel=14.04 corte=-1.30
+[057] FINAL Associação Atlética São Bento | Assis Lobo fam=1 duel=21.53 on_target=0.681 goal=0.251
+[057] FINAL Assis Lobo: no alvo sem gol (roll=0.519)
+[058] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 1 x 0 Esporte Clube Água Santa
+[058] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.405 roll=0.208
+[058] JOGADA Associação Atlética São Bento | Dóriclo Agra x Heleno Lobo line=4 duel=46.10 corte=-1.30
+[058] FINAL Associação Atlética São Bento | Dóriclo Agra fam=3 duel=-3.67 on_target=0.618 goal=0.184
+[058] FINAL Dóriclo Agra: GOL subtipo=CABECA (roll=0.180)
+[059] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[059] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.397 roll=0.711
+[060] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[060] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.397 roll=0.509
+[061] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[061] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.397 roll=0.700
+[062] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[062] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.370 roll=0.550
+[063] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[063] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.370 roll=0.072
+[063] JOGADA Esporte Clube Água Santa | Tarcísio Topete x Elvino Seixas line=3 duel=45.42 corte=-1.30
+[063] FINAL Esporte Clube Água Santa | Jesus Fernandes fam=5 duel=-2.48 on_target=0.592 goal=0.157
+[063] FINAL Jesus Fernandes: fora/alvo perdido (roll=0.947)
+[064] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[064] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.370 roll=0.886
+[065] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[065] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.370 roll=0.529
+[066] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[066] SUB Associação Atlética São Bento: saiu Toledo Silva (MC) | entrou Dércio Aguiar (MA) | subs=3/5
+[066] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.369 roll=0.159
+[066] JOGADA Esporte Clube Água Santa | Gabriel Agro x Dóriclo Agra line=4 duel=-20.10 corte=-1.30
+[066] JOGADA falhou: Dóriclo Agra cortou
+[067] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[067] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.369 roll=0.404
+[068] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[068] SUB Associação Atlética São Bento: saiu Jacinto Aquino Pinto (MC) | entrou Jacó Nogueira (VOL) | subs=4/5
+[068] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.371 roll=0.148
+[068] JOGADA Esporte Clube Água Santa | Jesus Fernandes x Elvino Seixas line=4 duel=-32.94 corte=-1.30
+[068] JOGADA falhou: Elvino Seixas cortou
+[069] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[069] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.396 roll=0.244
+[069] JOGADA Associação Atlética São Bento | Benjamim Texeira x Tarcísio Topete line=4 duel=57.34 corte=-1.30
+[069] FINAL Associação Atlética São Bento | Assis Lobo fam=1 duel=23.27 on_target=0.656 goal=0.236
+[069] FINAL Assis Lobo: fora/alvo perdido (roll=0.763)
+[070] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[070] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.396 roll=0.248
+[070] JOGADA Associação Atlética São Bento | Elvino Seixas x Pépio Caymmi line=3 duel=83.87 corte=-1.30
+[070] FINAL Associação Atlética São Bento | Dóriclo Agra fam=3 duel=27.23 on_target=0.597 goal=0.186
+[070] FINAL Dóriclo Agra: no alvo sem gol (roll=0.728)
+[071] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[071] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.396 roll=0.128
+[071] JOGADA Associação Atlética São Bento | Emo Macedo x Aleu Álvares line=5 duel=48.55 corte=-1.55
+[071] FINAL Associação Atlética São Bento | Vinício Góes fam=1 duel=20.40 on_target=0.658 goal=0.236
+[071] FINAL Vinício Góes: no alvo sem gol (roll=0.729)
+[072] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[072] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.371 roll=0.440
+[073] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[073] SUB Associação Atlética São Bento: saiu Juventino Munhoz (ZAG) | entrou Jair Lima (AD) | subs=5/5
+[073] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.371 roll=0.674
+[074] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[074] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.396 roll=0.417
+[075] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[075] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.396 roll=0.245
+[075] JOGADA Associação Atlética São Bento | Jair Lima x Pépio Caymmi line=4 duel=119.83 corte=-1.30
+[075] FINAL Associação Atlética São Bento | Vinício Góes fam=1 duel=18.21 on_target=0.658 goal=0.235
+[075] FINAL Vinício Góes: no alvo sem gol (roll=0.248)
+[076] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[076] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.401 roll=0.846
+[077] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[077] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.401 roll=0.079
+[077] JOGADA Esporte Clube Água Santa | Jesus Fernandes x Assis Lobo line=3 duel=-8.06 corte=-1.30
+[077] JOGADA falhou: Assis Lobo cortou
+[078] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[078] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.384 roll=0.774
+[079] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[079] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.384 roll=0.501
+[080] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[080] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.401 roll=0.277
+[080] JOGADA Esporte Clube Água Santa | Aleu Álvares x Dércio Aguiar line=4 duel=-38.95 corte=-1.30
+[080] JOGADA falhou: Dércio Aguiar cortou
+[081] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[081] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.401 roll=0.792
+[081] FINAL Esporte Clube Água Santa | Érico Torres fam=5 duel=-4.68 on_target=0.632 goal=0.163
+[081] FINAL Érico Torres: fora/alvo perdido (roll=0.635)
+[082] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[082] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.401 roll=0.899
+[083] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[083] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.384 roll=0.171
+[083] JOGADA Associação Atlética São Bento | Benjamim Texeira x Óscar Alves da Silva line=5 duel=25.15 corte=-1.55
+[083] FINAL Associação Atlética São Bento | Vinício Góes fam=1 duel=9.00 on_target=0.644 goal=0.227
+[083] FINAL Vinício Góes: no alvo sem gol (roll=0.520)
+[084] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[084] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.401 roll=0.576
+[085] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[085] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.384 roll=0.144
+[085] JOGADA Associação Atlética São Bento | Elvino Seixas x Óscar Alves da Silva line=3 duel=25.14 corte=-1.30
+[085] FINAL Associação Atlética São Bento | Vinício Góes fam=3 duel=2.72 on_target=0.584 goal=0.172
+[085] FINAL Vinício Góes: no alvo sem gol (roll=0.342)
+[086] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[086] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.384 roll=0.451
+[087] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[087] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.422 roll=0.916
+[088] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[088] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.422 roll=0.831
+[089] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 2 x 0 Esporte Clube Água Santa
+[089] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.384 roll=0.092
+[089] JOGADA Associação Atlética São Bento | Mair Bettencourt x Gabriel Agro line=5 duel=26.91 corte=-1.55
+[089] FINAL Associação Atlética São Bento | Dóriclo Agra fam=1 duel=26.17 on_target=0.645 goal=0.234
+[089] FINAL Dóriclo Agra: GOL subtipo=CHUTE (roll=0.224)
+[090] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 3 x 0 Esporte Clube Água Santa
+[090] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.376 roll=0.956
+[091] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 3 x 0 Esporte Clube Água Santa
+[091] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.376 roll=0.468
+[092] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 3 x 0 Esporte Clube Água Santa
+[092] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.426 roll=0.679
+[093] posse=Associação Atlética São Bento | placar Associação Atlética São Bento 3 x 0 Esporte Clube Água Santa
+[093] BUILD Associação Atlética São Bento vs Esporte Clube Água Santa prob=0.376 roll=0.162
+[093] JOGADA Associação Atlética São Bento | Dércio Aguiar x Gabriel Agro line=5 duel=31.69 corte=-2.05
+[093] FINAL Associação Atlética São Bento | Vinício Góes fam=3 duel=6.80 on_target=0.562 goal=0.164
+[093] FINAL Vinício Góes: fora/alvo perdido (roll=0.919)
+[094] posse=Esporte Clube Água Santa | placar Associação Atlética São Bento 3 x 0 Esporte Clube Água Santa
+[094] BUILD Esporte Clube Água Santa vs Associação Atlética São Bento prob=0.426 roll=0.105
+[094] JOGADA Esporte Clube Água Santa | Heleno Lobo x Elvino Seixas line=4 duel=-23.16 corte=-1.30
+[094] JOGADA falhou: Elvino Seixas cortou

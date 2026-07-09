@@ -1,0 +1,336 @@
+Partida #51
+Data: 1912-01-04
+Mandante: Palestra Itália de Coritiba
+Visitante: Bangu Athletic Club
+Placar: 1 x 6
+Seed: -
+Estádio: Tomazzi di Pisa
+Clima: Nublado
+Placar tempo normal: 1 x 6
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: Bangu Athletic Club
+
+=== LOG VERBOSE ===
+Início: Palestra Itália de Coritiba x Bangu Athletic Club | estádio=Tomazzi di Pisa | clima=Nublado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[001] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.336 roll=0.955
+[002] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[002] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.336 roll=0.298
+[002] JOGADA Palestra Itália de Coritiba | Manuel Genovese x Alfred Moore line=5 duel=52.53 corte=-2.45
+[002] FINAL Palestra Itália de Coritiba | Atilla Petacchi fam=5 duel=-90.02 on_target=0.518 goal=0.108
+[002] FINAL Atilla Petacchi: fora/alvo perdido (roll=0.847)
+[003] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[003] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.344 roll=0.474
+[004] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[004] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.336 roll=0.378
+[005] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[005] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.336 roll=0.428
+[005] FINAL Palestra Itália de Coritiba | Atilla Petacchi fam=5 duel=-1.86 on_target=0.522 goal=0.145
+[005] FINAL Atilla Petacchi: fora/alvo perdido (roll=0.588)
+[006] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[006] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.336 roll=0.828
+[007] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[007] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.344 roll=0.223
+[007] JOGADA Bangu Athletic Club | Alfred Moore x Mattia Fanucci line=4 duel=57.40 corte=-1.10
+[007] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=14.26 on_target=0.602 goal=0.227
+[007] FINAL Frederick Burton: fora/alvo perdido (roll=0.852)
+[008] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[008] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.336 roll=0.794
+[009] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[009] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.336 roll=0.826
+[010] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[010] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.336 roll=0.499
+[011] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[011] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.363 roll=0.153
+[011] JOGADA Palestra Itália de Coritiba | Juan Cancellara x Heleno Garcia line=4 duel=-0.27 corte=-1.70
+[011] FINAL Palestra Itália de Coritiba | Jan Acquaroli fam=5 duel=-25.79 on_target=0.561 goal=0.143
+[011] FINAL Jan Acquaroli: fora/alvo perdido (roll=0.957)
+[012] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[012] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.363 roll=0.493
+[013] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[013] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.372 roll=0.395
+[014] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[014] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.363 roll=0.309
+[014] JOGADA Palestra Itália de Coritiba | Árali Golinelli x Frederick Burton line=4 duel=85.09 corte=-1.70
+[014] FINAL Palestra Itália de Coritiba | Manuel Genovese fam=5 duel=-15.91 on_target=0.562 goal=0.148
+[014] FINAL Manuel Genovese: fora/alvo perdido (roll=0.620)
+[015] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[015] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.372 roll=0.357
+[015] JOGADA Bangu Athletic Club | Alfred Moore x Juan Cancellara line=5 duel=-3.54 corte=-1.35
+[015] JOGADA falhou: Juan Cancellara cortou
+[016] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[016] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.372 roll=0.096
+[016] JOGADA Bangu Athletic Club | Frederick Burton x Martin Galli line=5 duel=93.53 corte=-1.85
+[016] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=8.52 on_target=0.648 goal=0.238
+[016] FINAL Moacir Zanetti: no alvo sem gol (roll=0.356)
+[017] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 0 Bangu Athletic Club
+[017] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.372 roll=0.348
+[017] JOGADA Bangu Athletic Club | Moacir Zanetti x Árali Golinelli line=4 duel=114.06 corte=-1.10
+[017] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=15.58 on_target=0.650 goal=0.242
+[017] FINAL Frederick Burton: GOL subtipo=CHUTE (roll=0.157)
+[018] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[018] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.406 roll=0.272
+[018] JOGADA Palestra Itália de Coritiba | Allo Tafi x André Luiz Barcelos line=3 duel=-22.62 corte=-1.70
+[019] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[019] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.372 roll=0.981
+[020] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[020] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.406 roll=0.966
+[021] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[021] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.436 roll=0.629
+[022] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[022] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.436 roll=0.173
+[022] JOGADA Palestra Itália de Coritiba | Allo Tafi x Frederick Burton line=4 duel=55.88 corte=-1.70
+[022] FINAL Palestra Itália de Coritiba | Jan Acquaroli fam=5 duel=-25.50 on_target=0.592 goal=0.150
+[022] FINAL Jan Acquaroli: fora/alvo perdido (roll=0.878)
+[023] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[023] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.400 roll=0.674
+[024] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[024] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.400 roll=0.562
+[025] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[025] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.400 roll=0.553
+[026] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[026] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.436 roll=0.085
+[026] JOGADA Palestra Itália de Coritiba | Juan Cancellara x Bernardo Guimarães line=5 duel=34.58 corte=-1.95
+[026] FINAL Palestra Itália de Coritiba | Manuel Genovese fam=5 duel=-88.98 on_target=0.589 goal=0.121
+[026] FINAL Manuel Genovese: fora/alvo perdido (roll=0.668)
+[027] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[027] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.400 roll=0.888
+[028] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[028] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.436 roll=0.252
+[028] JOGADA Palestra Itália de Coritiba | Mattia Fanucci x Alfred Moore line=4 duel=1.38 corte=-1.70
+[028] FINAL Palestra Itália de Coritiba | Jan Acquaroli fam=5 duel=-24.16 on_target=0.592 goal=0.150
+[028] FINAL Jan Acquaroli: fora/alvo perdido (roll=0.853)
+[029] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[029] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.400 roll=0.915
+[030] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[030] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.400 roll=0.338
+[030] JOGADA Bangu Athletic Club | Frederick Burton x Jan Acquaroli line=4 duel=31.85 corte=-1.30
+[030] FINAL Bangu Athletic Club | Saulo Linhares fam=1 duel=-4.75 on_target=0.679 goal=0.238
+[030] FINAL Saulo Linhares: no alvo sem gol (roll=0.848)
+[031] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[031] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.400 roll=0.628
+[032] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 0 x 1 Bangu Athletic Club
+[032] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.436 roll=0.137
+[032] JOGADA Palestra Itália de Coritiba | Jan Acquaroli x Roberto Alves line=5 duel=30.18 corte=-1.95
+[032] FINAL Palestra Itália de Coritiba | Mattia Fanucci fam=5 duel=-8.19 on_target=0.595 goal=0.159
+[032] FINAL Mattia Fanucci: GOL subtipo=FALTA (roll=0.101)
+[033] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[033] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.393 roll=0.937
+[034] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[034] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.400 roll=0.579
+[035] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[035] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.393 roll=0.028
+[035] JOGADA Palestra Itália de Coritiba | Juan Cancellara x Vitor Quitério Gonzaga line=5 duel=-6.60 corte=-1.95
+[035] JOGADA falhou: Vitor Quitério Gonzaga cortou
+[036] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[036] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.393 roll=0.756
+[037] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[037] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.393 roll=0.219
+[037] JOGADA Palestra Itália de Coritiba | Manuel Genovese x Alfred Moore line=4 duel=35.65 corte=-1.70
+[037] FINAL Palestra Itália de Coritiba | Árali Golinelli fam=5 duel=-79.95 on_target=0.590 goal=0.124
+[037] FINAL Árali Golinelli: no alvo sem gol (roll=0.212)
+[038] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[038] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.400 roll=0.883
+[039] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[039] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.400 roll=0.369
+[039] JOGADA Bangu Athletic Club | Roberto Alves x Árali Golinelli line=5 duel=42.81 corte=-1.34
+[039] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=-2.71 on_target=0.682 goal=0.241
+[039] FINAL Moacir Zanetti: fora/alvo perdido (roll=0.736)
+[040] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[040] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.393 roll=0.850
+[041] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[041] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.400 roll=0.679
+[042] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[042] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.393 roll=0.624
+[043] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[043] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.393 roll=0.830
+[044] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[044] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.393 roll=0.310
+[044] JOGADA Palestra Itália de Coritiba | Árali Golinelli x Moacir Zanetti line=5 duel=17.79 corte=-2.45
+[044] FINAL Palestra Itália de Coritiba | Árali Golinelli fam=5 duel=-20.77 on_target=0.593 goal=0.151
+[044] FINAL Árali Golinelli: fora/alvo perdido (roll=0.836)
+[045] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[045] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.400 roll=0.806
+[046] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[046] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.365 roll=0.882
+[047] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[047] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.365 roll=0.377
+[048] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[048] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.365 roll=0.132
+[048] JOGADA Palestra Itália de Coritiba | Enrique Lombardi x Alfred Moore line=4 duel=-19.94 corte=-1.70
+[049] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[049] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.365 roll=0.742
+[050] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[050] SUB Palestra Itália de Coritiba: saiu Árali Golinelli (CA) | entrou Felix Fisichella (SA) | subs=1/5
+[050] SUB Bangu Athletic Club: saiu Moacir Zanetti (SA) | entrou Fernando Donohoe (MA) | subs=1/5
+[050] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.364 roll=0.231
+[050] JOGADA Bangu Athletic Club | Alfred Moore x Martin Galli line=3 duel=-11.03 corte=-1.10
+[050] JOGADA falhou: Martin Galli cortou
+[051] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[051] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.364 roll=0.832
+[052] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[052] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.365 roll=0.136
+[052] JOGADA Palestra Itália de Coritiba | Jesus Renosto x Júlio Gutierres Barbosa line=5 duel=-10.19 corte=-1.95
+[052] JOGADA falhou: Júlio Gutierres Barbosa cortou
+[053] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[053] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.365 roll=0.566
+[054] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 1 Bangu Athletic Club
+[054] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.364 roll=0.111
+[054] JOGADA Bangu Athletic Club | Frederick Burton x Martin Galli line=3 duel=13.64 corte=-1.10
+[054] FINAL Bangu Athletic Club | Fernando Donohoe fam=1 duel=26.20 on_target=0.648 goal=0.246
+[054] FINAL Fernando Donohoe: GOL subtipo=CHUTE (roll=0.182)
+[055] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 2 Bangu Athletic Club
+[055] SUB Palestra Itália de Coritiba: saiu Manuel Genovese (PE) | entrou Victorini Trentini (SA) | subs=2/5
+[055] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.364 roll=0.883
+[056] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 2 Bangu Athletic Club
+[056] SUB Palestra Itália de Coritiba: saiu Jan Acquaroli (MD) | entrou Mateo Bramati (MC) | subs=3/5
+[056] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.388 roll=0.038
+[056] JOGADA Bangu Athletic Club | Roberto Alves x Mattia Fanucci line=4 duel=3.78 corte=-1.30
+[056] FINAL Bangu Athletic Club | Fernando Donohoe fam=1 duel=26.23 on_target=0.682 goal=0.253
+[056] FINAL Fernando Donohoe: GOL subtipo=CHUTE (roll=0.123)
+[057] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 3 Bangu Athletic Club
+[057] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.380 roll=0.517
+[058] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 3 Bangu Athletic Club
+[058] SUB Palestra Itália de Coritiba: saiu Enrique Lombardi (ZAG) | entrou Samuel Vera (ZAG) | subs=4/5
+[058] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.392 roll=0.440
+[059] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 3 Bangu Athletic Club
+[059] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.443 roll=0.405
+[059] JOGADA Palestra Itália de Coritiba | Victorini Trentini x Fernando Donohoe line=4 duel=56.82 corte=-1.70
+[059] FINAL Palestra Itália de Coritiba | Felix Fisichella fam=5 duel=7.82 on_target=0.596 goal=0.167
+[059] FINAL Felix Fisichella: fora/alvo perdido (roll=0.812)
+[060] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 3 Bangu Athletic Club
+[060] SUB Bangu Athletic Club: saiu Saulo Linhares (MD) | entrou Mário José Neto (MC) | subs=2/5
+[060] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.395 roll=0.304
+[060] JOGADA Bangu Athletic Club | Fernando Donohoe x Martin Galli line=5 duel=89.25 corte=-2.05
+[060] FINAL Bangu Athletic Club | Júlio Gutierres Barbosa fam=3 duel=7.03 on_target=0.595 goal=0.177
+[060] FINAL Júlio Gutierres Barbosa: no alvo sem gol (roll=0.844)
+[061] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 3 Bangu Athletic Club
+[061] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.444 roll=0.248
+[061] JOGADA Palestra Itália de Coritiba | Victorini Trentini x Fernando Donohoe line=4 duel=-0.06 corte=-1.70
+[061] FINAL Palestra Itália de Coritiba | Atilla Petacchi fam=5 duel=-57.48 on_target=0.593 goal=0.138
+[061] FINAL Atilla Petacchi: fora/alvo perdido (roll=0.805)
+[062] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 3 Bangu Athletic Club
+[062] SUB Palestra Itália de Coritiba: saiu Atilla Petacchi (MA) | entrou Unai Chiappa (MC) | subs=5/5
+[062] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.396 roll=0.305
+[062] JOGADA Bangu Athletic Club | Heleno Garcia x Jesus Renosto line=4 duel=7.53 corte=-1.30
+[062] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=22.39 on_target=0.658 goal=0.236
+[062] FINAL Frederick Burton: GOL subtipo=CHUTE (roll=0.020)
+[063] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[063] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.439 roll=0.958
+[064] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[064] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.388 roll=0.473
+[065] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[065] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.439 roll=0.702
+[066] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[066] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.439 roll=0.564
+[067] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[067] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.439 roll=0.082
+[067] JOGADA Palestra Itália de Coritiba | Jesus Renosto x Roberto Alves line=4 duel=-13.23 corte=-1.70
+[067] JOGADA falhou: Roberto Alves cortou
+[068] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[068] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.439 roll=0.701
+[069] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[069] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.439 roll=0.955
+[070] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[070] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.439 roll=0.237
+[070] JOGADA Palestra Itália de Coritiba | Mattia Fanucci x Bernardo Guimarães line=4 duel=-6.58 corte=-1.70
+[071] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[071] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.388 roll=0.575
+[072] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[072] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.388 roll=0.250
+[072] JOGADA Bangu Athletic Club | Júlio Gutierres Barbosa x Unai Chiappa line=5 duel=9.22 corte=-1.55
+[072] FINAL Bangu Athletic Club | Vitor Quitério Gonzaga fam=1 duel=7.15 on_target=0.628 goal=0.214
+[072] FINAL Vitor Quitério Gonzaga: no alvo sem gol (roll=0.963)
+[073] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[073] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.439 roll=0.088
+[073] JOGADA Palestra Itália de Coritiba | Mattia Fanucci x Frederick Burton line=3 duel=24.47 corte=-1.70
+[073] FINAL Palestra Itália de Coritiba | Felix Fisichella fam=5 duel=1.33 on_target=0.596 goal=0.165
+[073] FINAL Felix Fisichella: no alvo sem gol (roll=0.348)
+[074] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[074] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.439 roll=0.414
+[074] JOGADA Palestra Itália de Coritiba | Martin Galli x Alfred Moore line=4 duel=-11.25 corte=-1.70
+[074] JOGADA falhou: Alfred Moore cortou
+[075] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[075] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.388 roll=0.953
+[076] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[076] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.376 roll=0.066
+[076] JOGADA Bangu Athletic Club | Frederick Burton x Mattia Fanucci line=4 duel=17.35 corte=-1.30
+[076] FINAL Bangu Athletic Club | Heleno Garcia fam=1 duel=18.61 on_target=0.618 goal=0.217
+[076] FINAL Heleno Garcia: no alvo sem gol (roll=0.336)
+[077] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[077] SUB Bangu Athletic Club: saiu Vitor Quitério Gonzaga (ME) | entrou Tadeu Pelicano (MA) | subs=3/5
+[077] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.470 roll=0.296
+[077] JOGADA Palestra Itália de Coritiba | Martin Galli x Bernardo Guimarães line=4 duel=-18.94 corte=-1.70
+[078] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[078] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.379 roll=0.917
+[079] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[079] SUB Bangu Athletic Club: saiu Roberto Alves (ZAG) | entrou Bernardo Alvares (ZAG) | subs=4/5
+[079] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.378 roll=0.113
+[079] JOGADA Bangu Athletic Club | Mário José Neto x Allo Tafi line=4 duel=89.08 corte=-1.30
+[079] FINAL Bangu Athletic Club | Heleno Garcia fam=1 duel=14.42 on_target=0.617 goal=0.215
+[079] FINAL Heleno Garcia: no alvo sem gol (roll=0.877)
+[080] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[080] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.481 roll=0.149
+[080] JOGADA Palestra Itália de Coritiba | Victorini Trentini x Fernando Donohoe line=4 duel=-8.75 corte=-1.70
+[080] JOGADA falhou: Fernando Donohoe cortou
+[081] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 4 Bangu Athletic Club
+[081] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.378 roll=0.084
+[081] JOGADA Bangu Athletic Club | Frederick Burton x Victorini Trentini line=5 duel=98.65 corte=-2.05
+[081] FINAL Bangu Athletic Club | Heleno Garcia fam=1 duel=14.43 on_target=0.617 goal=0.215
+[081] FINAL Heleno Garcia: GOL subtipo=CHUTE (roll=0.186)
+[082] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[082] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.369 roll=0.712
+[083] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[083] SUB Bangu Athletic Club: saiu Alfred Moore (ZAG) | entrou John Redwood (ZAG) | subs=5/5
+[083] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.495 roll=0.099
+[083] JOGADA Palestra Itália de Coritiba | Mateo Bramati x Tadeu Pelicano line=5 duel=60.88 corte=-1.95
+[083] FINAL Palestra Itália de Coritiba | Felix Fisichella fam=5 duel=-55.84 on_target=0.634 goal=0.144
+[083] FINAL Felix Fisichella: no alvo sem gol (roll=0.449)
+[084] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[084] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.495 roll=0.360
+[084] JOGADA Palestra Itália de Coritiba | Martin Galli x Frederick Burton line=3 duel=5.78 corte=-1.70
+[084] FINAL Palestra Itália de Coritiba | Felix Fisichella fam=5 duel=-7.23 on_target=0.638 goal=0.168
+[084] FINAL Felix Fisichella: no alvo sem gol (roll=0.482)
+[085] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[085] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.368 roll=0.651
+[086] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[086] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.521 roll=0.390
+[086] JOGADA Palestra Itália de Coritiba | Martin Galli x Bernardo Guimarães line=3 duel=-14.53 corte=-1.70
+[086] JOGADA falhou: Bernardo Guimarães cortou
+[087] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[087] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.521 roll=0.279
+[087] JOGADA Palestra Itália de Coritiba | Martin Galli x André Luiz Barcelos line=5 duel=15.37 corte=-1.95
+[087] FINAL Palestra Itália de Coritiba | Victorini Trentini fam=5 duel=-10.78 on_target=0.677 goal=0.166
+[087] FINAL Victorini Trentini: no alvo sem gol (roll=0.734)
+[088] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[088] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.521 roll=0.630
+[089] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[089] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.521 roll=0.915
+[090] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[090] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.368 roll=0.865
+[090] FINAL Bangu Athletic Club | André Luiz Barcelos fam=5 duel=-48.65 on_target=0.500 goal=0.096
+[090] FINAL André Luiz Barcelos: no alvo sem gol (roll=0.703)
+[091] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[091] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.368 roll=0.123
+[091] JOGADA Bangu Athletic Club | Bernardo Guimarães x Allo Tafi line=4 duel=53.70 corte=-1.30
+[091] FINAL Bangu Athletic Club | Fernando Donohoe fam=1 duel=12.01 on_target=0.589 goal=0.200
+[091] FINAL Fernando Donohoe: fora/alvo perdido (roll=0.673)
+[092] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[092] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.521 roll=0.973
+[093] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[093] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.368 roll=0.461
+[094] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[094] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.368 roll=0.761
+[095] posse=Palestra Itália de Coritiba | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[095] BUILD Palestra Itália de Coritiba vs Bangu Athletic Club prob=0.521 roll=0.384
+[095] JOGADA Palestra Itália de Coritiba | Mattia Fanucci x Júlio Gutierres Barbosa line=5 duel=51.49 corte=-1.95
+[095] FINAL Palestra Itália de Coritiba | Felix Fisichella fam=5 duel=-55.84 on_target=0.675 goal=0.144
+[095] FINAL Felix Fisichella: no alvo sem gol (roll=0.621)
+[096] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[096] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.368 roll=0.745
+[097] posse=Bangu Athletic Club | placar Palestra Itália de Coritiba 1 x 5 Bangu Athletic Club
+[097] BUILD Bangu Athletic Club vs Palestra Itália de Coritiba prob=0.368 roll=0.268
+[097] JOGADA Bangu Athletic Club | Fernando Donohoe x Felix Fisichella line=5 duel=26.38 corte=-2.05
+[097] FINAL Bangu Athletic Club | Heleno Garcia fam=3 duel=-13.64 on_target=0.534 goal=0.146
+[097] FINAL Heleno Garcia: GOL subtipo=CHUTE (roll=0.093)

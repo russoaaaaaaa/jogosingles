@@ -1,0 +1,302 @@
+Partida #79
+Data: 1912-01-06
+Mandante: Bangu Athletic Club
+Visitante: Tabajara Futebol Clube
+Placar: 0 x 0
+Seed: -
+Estádio: Estádio Moça Bonita
+Clima: Chuva forte
+Placar tempo normal: 0 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Bangu Athletic Club x Tabajara Futebol Clube | estádio=Estádio Moça Bonita | clima=Chuva forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[001] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.269 roll=0.976
+[002] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[002] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.269 roll=0.799
+[003] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[003] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.269 roll=0.364
+[004] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[004] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.381 roll=0.265
+[004] JOGADA Bangu Athletic Club | Bernardo Guimarães x Tom Cruise line=3 duel=-4.44 corte=-1.12
+[004] JOGADA falhou: Tom Cruise cortou
+[005] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[005] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.381 roll=0.358
+[005] JOGADA Bangu Athletic Club | Moacir Zanetti x Abaeté Hoffmann line=3 duel=19.83 corte=-1.12
+[005] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=21.27 on_target=0.611 goal=0.235
+[005] FINAL Frederick Burton: fora/alvo perdido (roll=0.979)
+[006] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[006] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.269 roll=0.629
+[007] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[007] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.269 roll=0.545
+[008] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[008] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.381 roll=0.710
+[009] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[009] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.381 roll=0.317
+[009] JOGADA Bangu Athletic Club | Alfred Moore x Délio Proença line=4 duel=19.23 corte=-1.12
+[009] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=24.89 on_target=0.611 goal=0.236
+[009] FINAL Frederick Burton: no alvo sem gol (roll=0.560)
+[010] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[010] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.381 roll=0.021
+[010] JOGADA Bangu Athletic Club | Saulo Linhares x Udo Salomão line=4 duel=33.03 corte=-1.12
+[010] FINAL Bangu Athletic Club | Moacir Zanetti fam=3 duel=8.95 on_target=0.552 goal=0.177
+[010] FINAL Moacir Zanetti: no alvo sem gol (roll=0.186)
+[011] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[011] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.291 roll=0.763
+[012] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[012] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.413 roll=0.249
+[012] JOGADA Bangu Athletic Club | Bernardo Guimarães x Heldo Silveira line=5 duel=6.84 corte=-1.37
+[012] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=26.16 on_target=0.660 goal=0.252
+[012] FINAL Frederick Burton: no alvo sem gol (roll=0.287)
+[013] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[013] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.413 roll=0.027
+[013] JOGADA Bangu Athletic Club | Alfred Moore x Udo Salomão line=3 duel=24.87 corte=-1.12
+[013] FINAL Bangu Athletic Club | Saulo Linhares fam=1 duel=-3.11 on_target=0.648 goal=0.234
+[013] FINAL Saulo Linhares: no alvo sem gol (roll=0.611)
+[014] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[014] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.413 roll=0.090
+[014] JOGADA Bangu Athletic Club | Roberto Alves x Ruinvaldo line=4 duel=93.72 corte=-1.12
+[014] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=28.43 on_target=0.660 goal=0.253
+[014] FINAL Frederick Burton: fora/alvo perdido (roll=0.732)
+[015] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[015] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.413 roll=0.700
+[016] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[016] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.291 roll=0.374
+[017] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[017] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.291 roll=0.420
+[018] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[018] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.413 roll=0.938
+[019] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[019] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.291 roll=0.487
+[020] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[020] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.413 roll=0.064
+[020] JOGADA Bangu Athletic Club | Frederick Burton x Délio Proença line=4 duel=120.20 corte=-1.12
+[020] FINAL Bangu Athletic Club | Moacir Zanetti fam=1 duel=16.24 on_target=0.658 goal=0.247
+[020] FINAL Moacir Zanetti: no alvo sem gol (roll=0.792)
+[021] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[021] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.313 roll=0.976
+[022] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[022] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.444 roll=0.453
+[023] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[023] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.313 roll=0.569
+[024] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[024] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.444 roll=0.293
+[024] JOGADA Bangu Athletic Club | Bernardo Guimarães x Samambaia line=5 duel=72.52 corte=-1.37
+[024] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=26.36 on_target=0.694 goal=0.260
+[024] FINAL Frederick Burton: no alvo sem gol (roll=0.343)
+[025] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[025] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.313 roll=0.103
+[025] JOGADA Tabajara Futebol Clube | Nivaldo Calado x Heleno Garcia line=3 duel=46.16 corte=-1.30
+[025] FINAL Tabajara Futebol Clube | Udo Salomão fam=5 duel=-91.30 on_target=0.586 goal=0.112
+[025] FINAL Udo Salomão: fora/alvo perdido (roll=0.712)
+[026] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[026] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.444 roll=0.971
+[027] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[027] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.313 roll=0.877
+[028] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[028] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.444 roll=0.733
+[029] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[029] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.313 roll=0.875
+[030] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[030] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.444 roll=0.146
+[030] JOGADA Bangu Athletic Club | Moacir Zanetti x Udo Salomão line=4 duel=89.15 corte=-1.12
+[030] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=26.94 on_target=0.694 goal=0.260
+[030] FINAL Frederick Burton: fora/alvo perdido (roll=0.752)
+[031] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[031] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.444 roll=0.641
+[032] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[032] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.315 roll=0.136
+[032] JOGADA Tabajara Futebol Clube | Tom Cruise x André Luiz Barcelos line=4 duel=6.41 corte=-1.30
+[032] FINAL Tabajara Futebol Clube | Nivaldo Calado fam=5 duel=-80.99 on_target=0.586 goal=0.117
+[032] FINAL Nivaldo Calado: fora/alvo perdido (roll=0.947)
+[033] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[033] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.315 roll=0.703
+[034] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[034] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.444 roll=0.794
+[035] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[035] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.315 roll=0.071
+[035] JOGADA Tabajara Futebol Clube | Tom Cruise x Bernardo Guimarães line=4 duel=-27.50 corte=-1.30
+[035] JOGADA falhou: Bernardo Guimarães cortou
+[036] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[036] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.315 roll=0.094
+[036] JOGADA Tabajara Futebol Clube | Délio Proença x André Luiz Barcelos line=5 duel=-29.10 corte=-2.05
+[036] JOGADA falhou: André Luiz Barcelos cortou
+[037] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[037] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.315 roll=0.564
+[038] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[038] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.315 roll=0.490
+[039] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[039] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.315 roll=0.558
+[040] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[040] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.444 roll=0.355
+[040] JOGADA Bangu Athletic Club | Vitor Quitério Gonzaga x Udo Salomão line=5 duel=85.32 corte=-1.36
+[040] FINAL Bangu Athletic Club | Frederick Burton fam=3 duel=32.15 on_target=0.630 goal=0.206
+[040] FINAL Frederick Burton: no alvo sem gol (roll=0.261)
+[041] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[041] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.315 roll=0.668
+[042] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[042] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.444 roll=0.960
+[043] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[043] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.315 roll=0.508
+[044] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[044] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.315 roll=0.933
+[045] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[045] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.315 roll=0.902
+[046] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[046] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.293 roll=0.145
+[046] JOGADA Tabajara Futebol Clube | Nivaldo Calado x Moacir Zanetti line=4 duel=20.27 corte=-1.30
+[046] FINAL Tabajara Futebol Clube | Ruinvaldo fam=5 duel=-20.89 on_target=0.560 goal=0.140
+[046] FINAL Ruinvaldo: no alvo sem gol (roll=0.975)
+[047] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[047] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.413 roll=0.403
+[047] JOGADA Bangu Athletic Club | André Luiz Barcelos x Tom Cruise line=4 duel=14.20 corte=-1.11
+[047] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=29.89 on_target=0.660 goal=0.254
+[047] FINAL Frederick Burton: no alvo sem gol (roll=0.412)
+[048] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[048] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.413 roll=0.739
+[049] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[049] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.293 roll=0.803
+[050] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[050] SUB Bangu Athletic Club: saiu Moacir Zanetti (SA) | entrou Fernando Donohoe (MA) | subs=1/5
+[050] SUB Tabajara Futebol Clube: saiu Abaeté Hoffmann (VOL) | entrou Gedeão Andrade (MC) | subs=1/5
+[050] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.298 roll=0.142
+[050] JOGADA Tabajara Futebol Clube | Délio Proença x Fernando Donohoe line=3 duel=8.50 corte=-1.30
+[050] FINAL Tabajara Futebol Clube | Ruinvaldo fam=5 duel=-22.45 on_target=0.561 goal=0.140
+[050] FINAL Ruinvaldo: no alvo sem gol (roll=0.344)
+[051] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[051] SUB Tabajara Futebol Clube: saiu Ruinvaldo (CA) | entrou Duplex (SA) | subs=2/5
+[051] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.401 roll=0.074
+[051] JOGADA Bangu Athletic Club | Frederick Burton x Délio Proença line=4 duel=46.86 corte=-1.11
+[051] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=26.15 on_target=0.660 goal=0.252
+[051] FINAL Frederick Burton: no alvo sem gol (roll=0.575)
+[052] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[052] SUB Tabajara Futebol Clube: saiu Samambaia (ZAG) | entrou Kiekeylson (ZAG) | subs=3/5
+[052] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.402 roll=0.537
+[053] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[053] SUB Tabajara Futebol Clube: saiu Délio Proença (PE) | entrou Vladimir Ali (ME) | subs=4/5
+[053] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.401 roll=0.108
+[053] JOGADA Bangu Athletic Club | Alfred Moore x Ruinzinho Gaúcho line=5 duel=5.77 corte=-1.36
+[053] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=31.23 on_target=0.660 goal=0.255
+[053] FINAL Frederick Burton: fora/alvo perdido (roll=0.822)
+[054] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[054] SUB Tabajara Futebol Clube: saiu Tom Cruise (LE) | entrou Tupiniquim Ladeira (LE) | subs=5/5
+[054] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.302 roll=0.955
+[055] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[055] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.404 roll=0.893
+[056] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[056] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.434 roll=0.832
+[057] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[057] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.325 roll=0.944
+[058] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[058] SUB Bangu Athletic Club: saiu Saulo Linhares (MD) | entrou Mário José Neto (MC) | subs=2/5
+[058] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.409 roll=0.520
+[059] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[059] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.409 roll=0.672
+[060] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[060] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.409 roll=0.915
+[061] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[061] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.327 roll=0.518
+[062] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[062] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.409 roll=0.383
+[062] JOGADA Bangu Athletic Club | Vitor Quitério Gonzaga x Udo Salomão line=3 duel=19.47 corte=-1.10
+[062] FINAL Bangu Athletic Club | Frederick Burton fam=3 duel=27.39 on_target=0.630 goal=0.203
+[062] FINAL Frederick Burton: no alvo sem gol (roll=0.912)
+[063] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[063] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.327 roll=0.063
+[063] JOGADA Tabajara Futebol Clube | Kiekeylson x Roberto Alves line=4 duel=8.50 corte=-1.30
+[063] FINAL Tabajara Futebol Clube | Nivaldo Calado fam=5 duel=-61.10 on_target=0.588 goal=0.128
+[063] FINAL Nivaldo Calado: no alvo sem gol (roll=0.257)
+[064] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[064] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.327 roll=0.630
+[065] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[065] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.327 roll=0.095
+[065] JOGADA Tabajara Futebol Clube | Ruinzinho Gaúcho x Bernardo Guimarães line=3 duel=-28.39 corte=-1.30
+[065] JOGADA falhou: Bernardo Guimarães cortou
+[066] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[066] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.409 roll=0.752
+[067] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[067] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.409 roll=0.409
+[068] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[068] SUB Bangu Athletic Club: saiu Vitor Quitério Gonzaga (ME) | entrou Tadeu Pelicano (MA) | subs=3/5
+[068] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.412 roll=0.314
+[068] JOGADA Bangu Athletic Club | Mário José Neto x Tupiniquim Ladeira line=4 duel=79.59 corte=-1.10
+[068] FINAL Bangu Athletic Club | Heleno Garcia fam=1 duel=23.80 on_target=0.694 goal=0.259
+[068] FINAL Heleno Garcia: no alvo sem gol (roll=0.683)
+[069] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[069] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.324 roll=0.439
+[070] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[070] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.412 roll=0.049
+[070] JOGADA Bangu Athletic Club | André Luiz Barcelos x Udo Salomão line=5 duel=35.94 corte=-1.35
+[070] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=24.22 on_target=0.694 goal=0.259
+[070] FINAL Frederick Burton: no alvo sem gol (roll=0.988)
+[071] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[071] SUB Bangu Athletic Club: saiu Roberto Alves (ZAG) | entrou Bernardo Alvares (ZAG) | subs=4/5
+[071] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.410 roll=0.115
+[071] JOGADA Bangu Athletic Club | Bernardo Guimarães x Kiekeylson line=5 duel=49.81 corte=-1.35
+[071] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=25.81 on_target=0.694 goal=0.260
+[071] FINAL Frederick Burton: no alvo sem gol (roll=0.444)
+[072] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[072] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.336 roll=0.465
+[073] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[073] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.410 roll=0.708
+[074] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[074] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.336 roll=0.599
+[075] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[075] SUB Bangu Athletic Club: saiu Alfred Moore (ZAG) | entrou John Redwood (ZAG) | subs=5/5
+[075] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.346 roll=0.179
+[075] JOGADA Tabajara Futebol Clube | Gisvaldo Teles x Bernardo Guimarães line=5 duel=4.08 corte=-1.55
+[075] FINAL Tabajara Futebol Clube | Udo Salomão fam=5 duel=-17.01 on_target=0.592 goal=0.148
+[075] FINAL Udo Salomão: fora/alvo perdido (roll=0.640)
+[076] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[076] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.356 roll=0.870
+[077] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[077] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.422 roll=0.739
+[078] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[078] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.356 roll=0.862
+[079] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[079] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.422 roll=0.170
+[079] JOGADA Bangu Athletic Club | Frederick Burton x Kiekeylson line=3 duel=12.65 corte=-1.06
+[079] FINAL Bangu Athletic Club | Frederick Burton fam=1 duel=20.88 on_target=0.708 goal=0.260
+[079] FINAL Frederick Burton: fora/alvo perdido (roll=0.923)
+[080] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[080] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.356 roll=0.526
+[081] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[081] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.356 roll=0.423
+[082] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[082] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.356 roll=0.234
+[082] JOGADA Tabajara Futebol Clube | Kiekeylson x John Redwood line=5 duel=-8.91 corte=-1.55
+[082] JOGADA falhou: John Redwood cortou
+[083] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[083] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.422 roll=0.499
+[084] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[084] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.356 roll=0.858
+[085] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[085] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.375 roll=0.401
+[086] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[086] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.375 roll=0.476
+[087] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[087] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.444 roll=0.426
+[087] JOGADA Bangu Athletic Club | Frederick Burton x Udo Salomão line=5 duel=30.69 corte=-1.81
+[087] FINAL Bangu Athletic Club | Júlio Gutierres Barbosa fam=1 duel=4.24 on_target=0.747 goal=0.250
+[087] FINAL Júlio Gutierres Barbosa: no alvo sem gol (roll=0.680)
+[088] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[088] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.375 roll=0.251
+[088] JOGADA Tabajara Futebol Clube | Gedeão Andrade x Júlio Gutierres Barbosa line=5 duel=36.49 corte=-1.55
+[088] FINAL Tabajara Futebol Clube | Ruinzinho Gaúcho fam=5 duel=-22.99 on_target=0.641 goal=0.146
+[088] FINAL Ruinzinho Gaúcho: fora/alvo perdido (roll=0.810)
+[089] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[089] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.375 roll=0.713
+[090] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[090] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.375 roll=0.346
+[090] JOGADA Tabajara Futebol Clube | Udo Salomão x Fernando Donohoe line=4 duel=24.78 corte=-1.30
+[090] FINAL Tabajara Futebol Clube | Nivaldo Calado fam=5 duel=-11.74 on_target=0.641 goal=0.151
+[090] FINAL Nivaldo Calado: no alvo sem gol (roll=0.892)
+[091] posse=Bangu Athletic Club | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[091] BUILD Bangu Athletic Club vs Tabajara Futebol Clube prob=0.444 roll=0.506
+[092] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[092] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.375 roll=0.837
+[093] posse=Tabajara Futebol Clube | placar Bangu Athletic Club 0 x 0 Tabajara Futebol Clube
+[093] BUILD Tabajara Futebol Clube vs Bangu Athletic Club prob=0.375 roll=0.557

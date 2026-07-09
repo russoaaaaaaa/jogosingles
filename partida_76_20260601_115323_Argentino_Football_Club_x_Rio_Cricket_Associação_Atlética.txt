@@ -1,0 +1,334 @@
+Partida #76
+Data: 1912-01-06
+Mandante: Argentino Football Club
+Visitante: Rio Cricket Associação Atlética
+Placar: 3 x 2
+Seed: -
+Estádio: Aurélio Marques
+Clima: Chuva leve
+Placar tempo normal: 3 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Argentino Football Club x Rio Cricket Associação Atlética | estádio=Aurélio Marques | clima=Chuva leve | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 0 x 0 Rio Cricket Associação Atlética
+[001] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.377 roll=0.184
+[001] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Anisauá Peralta line=3 duel=43.88 corte=-1.30
+[001] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Abaçaí Azevedo line=4 duel=-10.66 corte=-1.30
+[002] posse=Argentino Football Club | placar Argentino Football Club 0 x 0 Rio Cricket Associação Atlética
+[002] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.359 roll=0.498
+[003] posse=Argentino Football Club | placar Argentino Football Club 0 x 0 Rio Cricket Associação Atlética
+[003] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.359 roll=0.396
+[004] posse=Argentino Football Club | placar Argentino Football Club 0 x 0 Rio Cricket Associação Atlética
+[004] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.359 roll=0.581
+[005] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 0 x 0 Rio Cricket Associação Atlética
+[005] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.377 roll=0.917
+[005] FINAL Rio Cricket Associação Atlética | André Gomes Sobrinho fam=5 duel=-93.23 on_target=0.578 goal=0.113
+[005] FINAL André Gomes Sobrinho: GOL subtipo=FALTA (roll=0.035)
+[006] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 0 x 1 Rio Cricket Associação Atlética
+[006] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.377 roll=0.237
+[006] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Abaçaí Azevedo line=4 duel=-15.85 corte=-1.30
+[007] posse=Argentino Football Club | placar Argentino Football Club 0 x 1 Rio Cricket Associação Atlética
+[007] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.433 roll=0.716
+[008] posse=Argentino Football Club | placar Argentino Football Club 0 x 1 Rio Cricket Associação Atlética
+[008] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.433 roll=0.198
+[008] JOGADA Argentino Football Club | Márcio de Lima x Enrico Pucci line=2 duel=78.01 corte=-1.12
+[008] JOGADA Argentino Football Club | Florentino Berdardinelli x Luke Kennard line=4 duel=58.64 corte=-1.12
+[008] FINAL Argentino Football Club | Anisauá Peralta fam=3 duel=3.61 on_target=0.611 goal=0.191
+[008] FINAL Anisauá Peralta: fora/alvo perdido (roll=0.906)
+[009] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 0 x 1 Rio Cricket Associação Atlética
+[009] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.377 roll=0.516
+[010] posse=Argentino Football Club | placar Argentino Football Club 0 x 1 Rio Cricket Associação Atlética
+[010] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.433 roll=0.354
+[010] JOGADA Argentino Football Club | Tamandaré Maldonado x Tobias Humphrey line=3 duel=-3.80 corte=-1.12
+[010] JOGADA falhou: Tobias Humphrey cortou
+[011] posse=Argentino Football Club | placar Argentino Football Club 0 x 1 Rio Cricket Associação Atlética
+[011] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.468 roll=0.237
+[011] JOGADA Argentino Football Club | Florentino Berdardinelli x Umberto Entei line=4 duel=21.66 corte=-1.12
+[011] JOGADA Argentino Football Club | Kevin Arinos x Zagueiro Atacante da Silva line=4 duel=8.54 corte=-1.12
+[011] JOGADA Argentino Football Club | Florentino Berdardinelli x Oliver Barkley line=5 duel=93.42 corte=-1.87
+[011] FINAL Argentino Football Club | Coari Ladeira fam=1 duel=-9.72 on_target=0.727 goal=0.257
+[011] FINAL Coari Ladeira: GOL subtipo=CHUTE (roll=0.195)
+[012] posse=Argentino Football Club | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[012] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.388 roll=0.244
+[012] JOGADA Argentino Football Club | Filinto Quinteiro x Zagueiro Atacante da Silva line=2 duel=-10.01 corte=-1.13
+[012] JOGADA falhou: Zagueiro Atacante da Silva cortou
+[013] posse=Argentino Football Club | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[013] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.388 roll=0.716
+[014] posse=Argentino Football Club | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[014] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.388 roll=0.697
+[015] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[015] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.408 roll=0.619
+[016] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[016] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.408 roll=0.756
+[017] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[017] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.408 roll=0.063
+[017] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Ariello line=2 duel=26.97 corte=-1.30
+[017] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Kevin Arinos line=3 duel=0.97 corte=-1.30
+[017] JOGADA Rio Cricket Associação Atlética | Enrico Pucci x Anisauá Peralta line=5 duel=101.22 corte=-2.05
+[017] FINAL Rio Cricket Associação Atlética | Umberto Entei fam=1 duel=-5.71 on_target=0.726 goal=0.264
+[017] FINAL Umberto Entei: fora/alvo perdido (roll=0.968)
+[018] posse=Argentino Football Club | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[018] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.388 roll=0.643
+[019] posse=Argentino Football Club | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[019] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.388 roll=0.568
+[020] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[020] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.408 roll=0.484
+[021] posse=Argentino Football Club | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[021] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.417 roll=0.473
+[022] posse=Argentino Football Club | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[022] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.417 roll=0.014
+[022] JOGADA Argentino Football Club | Filinto Quinteiro x Murilo Oliveira line=2 duel=-6.31 corte=-1.13
+[022] JOGADA falhou: Murilo Oliveira cortou
+[023] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[023] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.438 roll=0.790
+[024] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[024] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.438 roll=0.825
+[025] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 1 Rio Cricket Associação Atlética
+[025] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.438 roll=0.137
+[025] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Anisauá Peralta line=3 duel=37.24 corte=-1.30
+[025] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Ariello line=5 duel=74.66 corte=-1.55
+[025] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Anisauá Peralta line=5 duel=28.59 corte=-1.55
+[025] FINAL Rio Cricket Associação Atlética | André Gomes Sobrinho fam=1 duel=2.89 on_target=0.766 goal=0.277
+[025] FINAL André Gomes Sobrinho: GOL subtipo=CHUTE (roll=0.118)
+[026] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[026] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.504 roll=0.137
+[026] JOGADA Argentino Football Club | Florentino Berdardinelli x Zagueiro Atacante da Silva line=4 duel=-64.11 corte=-1.12
+[026] JOGADA falhou: Zagueiro Atacante da Silva cortou
+[027] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[027] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.439 roll=0.251
+[027] JOGADA Rio Cricket Associação Atlética | Enrico Pucci x Coari Ladeira line=3 duel=80.67 corte=-1.30
+[027] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Filinto Quinteiro line=4 duel=-12.33 corte=-1.30
+[028] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[028] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.504 roll=0.545
+[029] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[029] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.439 roll=0.972
+[030] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[030] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.439 roll=0.994
+[031] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[031] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.504 roll=0.555
+[032] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[032] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.442 roll=0.350
+[032] JOGADA Rio Cricket Associação Atlética | Oliver Barkley x Florentino Berdardinelli line=4 duel=63.19 corte=-1.30
+[032] FINAL Rio Cricket Associação Atlética | Murilo Oliveira fam=5 duel=-9.63 on_target=0.663 goal=0.168
+[032] FINAL Murilo Oliveira: fora/alvo perdido (roll=0.828)
+[033] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[033] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.442 roll=0.291
+[033] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Florentino Berdardinelli line=2 duel=43.89 corte=-1.30
+[033] FINAL Rio Cricket Associação Atlética | Enrico Pucci fam=5 duel=-2.77 on_target=0.664 goal=0.172
+[033] FINAL Enrico Pucci: fora/alvo perdido (roll=0.846)
+[034] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[034] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.504 roll=0.294
+[034] JOGADA Argentino Football Club | Márcio de Lima x Wilson Perry line=4 duel=-8.63 corte=-1.12
+[035] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[035] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.442 roll=0.357
+[035] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Abaçaí Azevedo line=4 duel=0.74 corte=-1.30
+[035] FINAL Rio Cricket Associação Atlética | Luke Kennard fam=5 duel=-75.47 on_target=0.658 goal=0.134
+[035] FINAL Luke Kennard: no alvo sem gol (roll=0.579)
+[036] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[036] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.504 roll=0.461
+[036] JOGADA Argentino Football Club | Kevin Arinos x André Gomes Sobrinho line=4 duel=19.54 corte=-1.12
+[036] JOGADA Argentino Football Club | Kevin Arinos x Wilson Perry line=4 duel=8.22 corte=-1.12
+[036] JOGADA Argentino Football Club | Abaçaí Azevedo x Wilson Perry line=5 duel=34.83 corte=-1.37
+[036] FINAL Argentino Football Club | Florentino Berdardinelli fam=1 duel=13.76 on_target=0.768 goal=0.278
+[036] FINAL Florentino Berdardinelli: no alvo sem gol (roll=0.326)
+[037] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[037] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.442 roll=0.011
+[037] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Filinto Quinteiro line=4 duel=-26.87 corte=-1.30
+[037] JOGADA falhou: Filinto Quinteiro cortou
+[038] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[038] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.442 roll=0.548
+[039] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[039] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.504 roll=0.233
+[039] JOGADA Argentino Football Club | Anisauá Peralta x André Gomes Sobrinho line=4 duel=-9.25 corte=-1.12
+[039] JOGADA falhou: André Gomes Sobrinho cortou
+[040] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[040] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.504 roll=0.451
+[040] JOGADA Argentino Football Club | Kevin Arinos x André Gomes Sobrinho line=3 duel=7.21 corte=-1.12
+[040] JOGADA Argentino Football Club | Abaçaí Azevedo x Oliver Barkley line=5 duel=-8.34 corte=-1.37
+[040] JOGADA falhou: Oliver Barkley cortou
+[041] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[041] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.504 roll=0.435
+[041] JOGADA Argentino Football Club | Tamandaré Maldonado x Wilson Perry line=2 duel=77.98 corte=-1.12
+[041] JOGADA Argentino Football Club | Enoch Magia x Enrico Pucci line=5 duel=31.39 corte=-1.87
+[041] JOGADA Argentino Football Club | Anisauá Peralta x William Stanischowsky line=5 duel=36.20 corte=-1.87
+[041] FINAL Argentino Football Club | Enoch Magia fam=1 duel=-3.69 on_target=0.764 goal=0.268
+[041] FINAL Enoch Magia: no alvo sem gol (roll=0.529)
+[042] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[042] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.442 roll=0.015
+[042] JOGADA Rio Cricket Associação Atlética | Murilo Oliveira x Coari Ladeira line=2 duel=36.65 corte=-1.30
+[042] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Ariello line=3 duel=19.11 corte=-1.30
+[042] JOGADA Rio Cricket Associação Atlética | André Gomes Sobrinho x Florentino Berdardinelli line=5 duel=25.89 corte=-1.55
+[042] FINAL Rio Cricket Associação Atlética | Enrico Pucci fam=1 duel=-4.22 on_target=0.766 goal=0.274
+[042] FINAL Enrico Pucci: no alvo sem gol (roll=0.690)
+[043] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[043] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.504 roll=0.973
+[044] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[044] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.442 roll=0.480
+[045] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[045] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.442 roll=0.211
+[045] JOGADA Rio Cricket Associação Atlética | Zagueiro Atacante da Silva x Florentino Berdardinelli line=3 duel=-16.30 corte=-1.30
+[045] JOGADA falhou: Florentino Berdardinelli cortou
+[046] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[046] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.411 roll=0.034
+[046] JOGADA Rio Cricket Associação Atlética | Umberto Entei x Ariello line=4 duel=-9.78 corte=-1.30
+[046] JOGADA falhou: Ariello cortou
+[047] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[047] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.468 roll=0.530
+[048] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[048] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.411 roll=0.021
+[048] JOGADA Rio Cricket Associação Atlética | William Stanischowsky x Kevin Arinos line=3 duel=11.41 corte=-1.30
+[048] JOGADA Rio Cricket Associação Atlética | Tobias Humphrey x Ariello line=4 duel=-8.52 corte=-1.30
+[048] JOGADA falhou: Ariello cortou
+[049] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[049] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.468 roll=0.628
+[050] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[050] SUB Argentino Football Club: saiu Filinto Quinteiro (LD) | entrou Amani Pádua (LE) | subs=1/5
+[050] SUB Rio Cricket Associação Atlética: saiu William Stanischowsky (MD) | entrou Cruz Credo (PD) | subs=1/5
+[050] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.465 roll=0.892
+[051] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[051] SUB Rio Cricket Associação Atlética: saiu Luke Kennard (SA) | entrou Wilson Ford (CA) | subs=2/5
+[051] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.465 roll=0.326
+[051] JOGADA Argentino Football Club | Abaçaí Azevedo x Enrico Pucci line=3 duel=17.70 corte=-1.13
+[051] JOGADA Argentino Football Club | Anisauá Peralta x Enrico Pucci line=4 duel=26.27 corte=-1.13
+[051] JOGADA Argentino Football Club | Anisauá Peralta x Wilson Perry line=5 duel=52.27 corte=-1.88
+[051] FINAL Argentino Football Club | Enoch Magia fam=1 duel=-4.88 on_target=0.726 goal=0.259
+[051] FINAL Enoch Magia: fora/alvo perdido (roll=0.881)
+[052] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[052] SUB Rio Cricket Associação Atlética: saiu Enrico Pucci (CA) | entrou João Garcia (CA) | subs=3/5
+[052] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.384 roll=0.711
+[053] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[053] SUB Rio Cricket Associação Atlética: saiu Umberto Entei (ME) | entrou William Smith (MC) | subs=4/5
+[053] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.383 roll=0.640
+[054] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[054] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.466 roll=0.726
+[055] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[055] SUB Argentino Football Club: saiu Enoch Magia (PE) | entrou Heliodoro Catão (PD) | subs=2/5
+[055] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.418 roll=0.542
+[056] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[056] SUB Argentino Football Club: saiu Coari Ladeira (CA) | entrou Eriberto Reyes (CA) | subs=3/5
+[056] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.493 roll=0.652
+[057] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[057] SUB Argentino Football Club: saiu Anisauá Peralta (SA) | entrou Quatiguá Mourinho (SA) | subs=4/5
+[057] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.479 roll=0.877
+[058] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[058] SUB Argentino Football Club: saiu Ariello (MC) | entrou Quimbaya Torreno (VOL) | subs=5/5
+[058] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.479 roll=0.867
+[059] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[059] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.423 roll=0.910
+[060] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[060] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.479 roll=0.975
+[061] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[061] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.426 roll=0.309
+[061] JOGADA Rio Cricket Associação Atlética | João Garcia x Heliodoro Catão line=4 duel=24.95 corte=-1.30
+[061] JOGADA Rio Cricket Associação Atlética | William Smith x Eriberto Reyes line=5 duel=-15.07 corte=-1.55
+[061] JOGADA falhou: Eriberto Reyes cortou
+[062] posse=Argentino Football Club | placar Argentino Football Club 1 x 2 Rio Cricket Associação Atlética
+[062] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.479 roll=0.395
+[062] JOGADA Argentino Football Club | Abaçaí Azevedo x João Garcia line=4 duel=12.53 corte=-1.13
+[062] JOGADA Argentino Football Club | Quimbaya Torreno x André Gomes Sobrinho line=4 duel=19.84 corte=-1.13
+[062] JOGADA Argentino Football Club | Quimbaya Torreno x Oliver Barkley line=5 duel=10.73 corte=-1.38
+[062] FINAL Argentino Football Club | Eriberto Reyes fam=1 duel=16.99 on_target=0.767 goal=0.279
+[062] FINAL Eriberto Reyes: GOL subtipo=CHUTE (roll=0.171)
+[063] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Rio Cricket Associação Atlética
+[063] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.392 roll=0.911
+[064] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Rio Cricket Associação Atlética
+[064] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.392 roll=0.898
+[065] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Rio Cricket Associação Atlética
+[065] SUB Rio Cricket Associação Atlética: saiu Zagueiro Atacante da Silva (ZAG) | entrou Arnold Brewerton (ZAG) | subs=5/5
+[065] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.395 roll=0.093
+[065] JOGADA Argentino Football Club | Florentino Berdardinelli x Tobias Humphrey line=3 duel=8.68 corte=-1.13
+[065] JOGADA Argentino Football Club | Eriberto Reyes x Cruz Credo line=4 duel=34.89 corte=-1.13
+[065] JOGADA Argentino Football Club | Abaçaí Azevedo x Cruz Credo line=4 duel=15.77 corte=-1.13
+[065] FINAL Argentino Football Club | Eriberto Reyes fam=1 duel=17.92 on_target=0.767 goal=0.279
+[065] FINAL Eriberto Reyes: no alvo sem gol (roll=0.404)
+[066] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 2 x 2 Rio Cricket Associação Atlética
+[066] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.425 roll=0.553
+[067] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 2 x 2 Rio Cricket Associação Atlética
+[067] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.425 roll=0.990
+[067] FINAL Rio Cricket Associação Atlética | Wilson Perry fam=5 duel=1.64 on_target=0.664 goal=0.174
+[067] FINAL Wilson Perry: no alvo sem gol (roll=0.535)
+[068] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 2 x 2 Rio Cricket Associação Atlética
+[068] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.428 roll=0.487
+[069] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 2 x 2 Rio Cricket Associação Atlética
+[069] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.428 roll=0.844
+[070] posse=Argentino Football Club | placar Argentino Football Club 2 x 2 Rio Cricket Associação Atlética
+[070] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.395 roll=0.152
+[070] JOGADA Argentino Football Club | Tamandaré Maldonado x Oliver Barkley line=3 duel=3.37 corte=-1.12
+[070] JOGADA Argentino Football Club | Heliodoro Catão x João Garcia line=4 duel=31.66 corte=-1.12
+[070] FINAL Argentino Football Club | Heliodoro Catão fam=3 duel=23.21 on_target=0.696 goal=0.219
+[070] FINAL Heliodoro Catão: GOL subtipo=CHUTE (roll=0.099)
+[071] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[071] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.392 roll=0.240
+[071] JOGADA Argentino Football Club | Tamandaré Maldonado x Arnold Brewerton line=3 duel=-13.98 corte=-1.30
+[071] JOGADA falhou: Arnold Brewerton cortou
+[072] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[072] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.487 roll=0.047
+[072] JOGADA Rio Cricket Associação Atlética | João Garcia x Florentino Berdardinelli line=3 duel=5.66 corte=-1.30
+[072] JOGADA Rio Cricket Associação Atlética | William Smith x Quimbaya Torreno line=4 duel=-11.72 corte=-1.30
+[072] FINAL Rio Cricket Associação Atlética | William Smith fam=5 duel=3.62 on_target=0.664 goal=0.176
+[072] FINAL William Smith: fora/alvo perdido (roll=0.758)
+[073] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[073] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.487 roll=0.656
+[074] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[074] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.392 roll=0.635
+[075] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[075] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.392 roll=0.011
+[075] JOGADA Argentino Football Club | Márcio de Lima x Arnold Brewerton line=4 duel=-26.92 corte=-1.30
+[076] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[076] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.380 roll=0.259
+[076] JOGADA Argentino Football Club | Amani Pádua x Murilo Oliveira line=4 duel=16.64 corte=-1.30
+[076] FINAL Argentino Football Club | Florentino Berdardinelli fam=1 duel=4.75 on_target=0.741 goal=0.265
+[076] FINAL Florentino Berdardinelli: no alvo sem gol (roll=0.443)
+[077] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[077] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.380 roll=0.634
+[078] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[078] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.380 roll=0.498
+[079] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[079] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.526 roll=0.369
+[079] JOGADA Rio Cricket Associação Atlética | Wilson Perry x Heliodoro Catão line=4 duel=-8.74 corte=-1.30
+[079] JOGADA falhou: Heliodoro Catão cortou
+[080] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[080] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.526 roll=0.742
+[081] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[081] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.380 roll=0.499
+[082] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[082] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.380 roll=0.073
+[082] JOGADA Argentino Football Club | Tamandaré Maldonado x João Garcia line=2 duel=92.45 corte=-1.30
+[082] JOGADA Argentino Football Club | Márcio de Lima x Oliver Barkley line=5 duel=21.38 corte=-1.55
+[082] FINAL Argentino Football Club | Eriberto Reyes fam=1 duel=13.61 on_target=0.740 goal=0.276
+[082] FINAL Eriberto Reyes: no alvo sem gol (roll=0.709)
+[083] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[083] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.526 roll=0.785
+[084] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[084] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.526 roll=0.945
+[085] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[085] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.580 roll=0.917
+[086] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[086] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.580 roll=0.720
+[087] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[087] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.380 roll=0.806
+[088] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[088] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.380 roll=0.910
+[089] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[089] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.380 roll=0.810
+[090] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[090] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.380 roll=0.306
+[090] JOGADA Argentino Football Club | Abaçaí Azevedo x João Garcia line=4 duel=17.38 corte=-1.30
+[090] JOGADA Argentino Football Club | Heliodoro Catão x Arnold Brewerton line=4 duel=-4.98 corte=-1.30
+[090] JOGADA falhou: Arnold Brewerton cortou
+[091] posse=Rio Cricket Associação Atlética | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[091] BUILD Rio Cricket Associação Atlética vs Argentino Football Club prob=0.580 roll=0.913
+[092] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[092] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.380 roll=0.196
+[092] JOGADA Argentino Football Club | Quimbaya Torreno x Tobias Humphrey line=3 duel=3.65 corte=-1.30
+[092] JOGADA Argentino Football Club | Heliodoro Catão x Oliver Barkley line=4 duel=5.89 corte=-1.30
+[092] JOGADA Argentino Football Club | Abaçaí Azevedo x Murilo Oliveira line=5 duel=26.59 corte=-1.55
+[092] FINAL Argentino Football Club | Eriberto Reyes fam=1 duel=7.16 on_target=0.739 goal=0.273
+[092] FINAL Eriberto Reyes: no alvo sem gol (roll=0.927)
+[093] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[093] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.380 roll=0.742
+[094] posse=Argentino Football Club | placar Argentino Football Club 3 x 2 Rio Cricket Associação Atlética
+[094] BUILD Argentino Football Club vs Rio Cricket Associação Atlética prob=0.380 roll=0.541

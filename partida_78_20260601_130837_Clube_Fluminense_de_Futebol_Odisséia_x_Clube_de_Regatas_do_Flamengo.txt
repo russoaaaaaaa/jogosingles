@@ -1,0 +1,353 @@
+Partida #78
+Data: 1912-01-06
+Mandante: Clube Fluminense de Futebol Odisséia
+Visitante: Clube de Regatas do Flamengo
+Placar: 3 x 0
+Seed: -
+Estádio: Estádio Olímpico de Nictheroy
+Clima: Chuva leve
+Placar tempo normal: 3 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube Fluminense de Futebol Odisséia x Clube de Regatas do Flamengo | estádio=Estádio Olímpico de Nictheroy | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[001] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.420 roll=0.662
+[002] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[002] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.420 roll=0.746
+[003] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[003] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.291 roll=0.257
+[003] JOGADA Clube de Regatas do Flamengo | Carlo Garcia Bisneto x Eustáquio Miranda line=3 duel=-21.57 corte=-1.30
+[003] JOGADA falhou: Eustáquio Miranda cortou
+[004] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[004] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.420 roll=0.394
+[004] JOGADA Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas x Oliveira Marques line=5 duel=17.09 corte=-1.88
+[004] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=14.46 on_target=0.601 goal=0.226
+[004] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.750)
+[005] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[005] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.420 roll=0.692
+[006] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[006] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.291 roll=0.829
+[007] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[007] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.420 roll=0.378
+[007] JOGADA Clube Fluminense de Futebol Odisséia | Eustáquio Miranda x Evandro Pessoa line=4 duel=104.28 corte=-1.13
+[007] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=3 duel=-29.77 on_target=0.542 goal=0.157
+[007] FINAL Teobaldo Mascarenhas: fora/alvo perdido (roll=0.552)
+[008] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[008] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.291 roll=0.095
+[008] JOGADA Clube de Regatas do Flamengo | Raul Caetano x Wilton Bigode line=3 duel=-28.83 corte=-1.30
+[008] JOGADA falhou: Wilton Bigode cortou
+[009] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[009] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.420 roll=0.551
+[010] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[010] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.420 roll=0.266
+[010] JOGADA Clube Fluminense de Futebol Odisséia | Eduardo Batista x Raul Caetano line=4 duel=29.52 corte=-1.13
+[010] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=11.93 on_target=0.601 goal=0.226
+[010] FINAL Hildebrando Guardado: no alvo sem gol (roll=0.421)
+[011] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[011] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.315 roll=0.081
+[011] JOGADA Clube de Regatas do Flamengo | Vicente Paiva x Tomás Soares Ziza line=3 duel=-13.49 corte=-1.30
+[011] JOGADA falhou: Tomás Soares Ziza cortou
+[012] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[012] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.315 roll=0.804
+[013] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[013] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.315 roll=0.631
+[014] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[014] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.315 roll=0.161
+[014] JOGADA Clube de Regatas do Flamengo | Benedito Justo x Tomás Soares Ziza line=3 duel=-30.60 corte=-1.30
+[015] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[015] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.454 roll=0.157
+[015] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Vicente Paiva line=3 duel=4.55 corte=-1.13
+[015] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=19.25 on_target=0.649 goal=0.243
+[015] FINAL Tomás Soares Ziza: no alvo sem gol (roll=0.925)
+[016] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[016] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.454 roll=0.042
+[016] JOGADA Clube Fluminense de Futebol Odisséia | Bremer Klotzbücher Nunes x Oliveira Marques line=4 duel=-0.16 corte=-1.13
+[016] FINAL Clube Fluminense de Futebol Odisséia | Marcel Ganem fam=1 duel=6.33 on_target=0.646 goal=0.237
+[016] FINAL Marcel Ganem: no alvo sem gol (roll=0.338)
+[017] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[017] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.454 roll=0.135
+[017] JOGADA Clube Fluminense de Futebol Odisséia | Eustáquio Miranda x José Papato line=4 duel=92.38 corte=-1.13
+[017] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=3 duel=5.52 on_target=0.588 goal=0.183
+[017] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.760)
+[018] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[018] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.315 roll=0.985
+[019] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[019] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.315 roll=0.203
+[019] JOGADA Clube de Regatas do Flamengo | Gabriel Luno x Bremer Klotzbücher Nunes line=4 duel=-27.59 corte=-1.30
+[019] JOGADA falhou: Bremer Klotzbücher Nunes cortou
+[020] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[020] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.315 roll=0.463
+[021] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[021] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.467
+[021] JOGADA Clube Fluminense de Futebol Odisséia | Hildebrando Guardado x Leonardo Praga line=4 duel=77.76 corte=-1.13
+[021] FINAL Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas fam=1 duel=13.03 on_target=0.682 goal=0.248
+[021] FINAL Teobaldo Mascarenhas: no alvo sem gol (roll=0.390)
+[022] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[022] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.339 roll=0.507
+[023] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[023] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.347
+[023] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Benedito Justo line=4 duel=110.10 corte=-1.13
+[023] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=19.44 on_target=0.683 goal=0.251
+[023] FINAL Tomás Soares Ziza: no alvo sem gol (roll=0.752)
+[024] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[024] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.339 roll=0.209
+[024] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Teobaldo Mascarenhas line=3 duel=-11.83 corte=-1.30
+[024] JOGADA falhou: Teobaldo Mascarenhas cortou
+[025] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[025] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.339 roll=0.303
+[025] JOGADA Clube de Regatas do Flamengo | Raul Caetano x Armando de Almeida line=3 duel=-7.10 corte=-1.30
+[025] JOGADA falhou: Armando de Almeida cortou
+[026] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[026] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.192
+[026] JOGADA Clube Fluminense de Futebol Odisséia | Teobaldo Mascarenhas x Gabriel Luno line=5 duel=142.54 corte=-1.88
+[026] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=4.34 on_target=0.683 goal=0.244
+[026] FINAL Hildebrando Guardado: fora/alvo perdido (roll=0.703)
+[027] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[027] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.009
+[027] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x José Papato line=4 duel=14.66 corte=-1.13
+[027] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=1 duel=17.99 on_target=0.683 goal=0.250
+[027] FINAL Eustáquio Miranda: no alvo sem gol (roll=0.251)
+[028] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 0 x 0 Clube de Regatas do Flamengo
+[028] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.202
+[028] JOGADA Clube Fluminense de Futebol Odisséia | Hildebrando Guardado x Narciso Araújo line=3 duel=11.26 corte=-1.13
+[028] FINAL Clube Fluminense de Futebol Odisséia | Wilton Bigode fam=1 duel=7.28 on_target=0.681 goal=0.244
+[028] FINAL Wilton Bigode: GOL subtipo=CHUTE (roll=0.127)
+[029] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[029] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.392 roll=0.731
+[030] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[030] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.392 roll=0.742
+[031] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[031] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.865
+[032] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[032] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.447
+[032] JOGADA Clube Fluminense de Futebol Odisséia | Adhemar Meira x Leonardo Praga line=4 duel=19.75 corte=-1.30
+[032] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=1 duel=18.62 on_target=0.683 goal=0.250
+[032] FINAL Eustáquio Miranda: no alvo sem gol (roll=0.677)
+[033] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[033] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.392 roll=0.330
+[033] JOGADA Clube de Regatas do Flamengo | Benedito Justo x Teobaldo Mascarenhas line=4 duel=-27.41 corte=-1.30
+[034] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[034] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.208
+[034] JOGADA Clube Fluminense de Futebol Odisséia | Eduardo Batista x Raul Caetano line=5 duel=97.07 corte=-1.55
+[034] FINAL Clube Fluminense de Futebol Odisséia | Marcel Ganem fam=1 duel=-22.50 on_target=0.679 goal=0.231
+[034] FINAL Marcel Ganem: no alvo sem gol (roll=0.375)
+[035] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[035] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.077
+[035] JOGADA Clube Fluminense de Futebol Odisséia | Hildebrando Guardado x Gabriel Luno line=3 duel=43.31 corte=-1.30
+[035] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=2.27 on_target=0.683 goal=0.243
+[035] FINAL Hildebrando Guardado: fora/alvo perdido (roll=0.792)
+[036] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[036] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.392 roll=0.284
+[036] JOGADA Clube de Regatas do Flamengo | Carlo Garcia Bisneto x Wilton Bigode line=3 duel=-43.23 corte=-1.30
+[036] JOGADA falhou: Wilton Bigode cortou
+[037] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[037] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.372
+[037] JOGADA Clube Fluminense de Futebol Odisséia | Adhemar Meira x José Papato line=5 duel=53.46 corte=-1.55
+[037] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=4.55 on_target=0.683 goal=0.245
+[037] FINAL Hildebrando Guardado: no alvo sem gol (roll=0.807)
+[038] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[038] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.889
+[039] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[039] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.072
+[039] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Gabriel Luno line=5 duel=129.94 corte=-1.55
+[039] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=22.12 on_target=0.683 goal=0.252
+[039] FINAL Tomás Soares Ziza: fora/alvo perdido (roll=0.984)
+[040] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[040] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.392 roll=0.638
+[041] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[041] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.105
+[041] JOGADA Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza x Carlo Garcia Bisneto line=5 duel=93.94 corte=-2.05
+[041] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=3 duel=12.91 on_target=0.619 goal=0.192
+[041] FINAL Eustáquio Miranda: no alvo sem gol (roll=0.667)
+[042] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[042] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.740
+[043] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[043] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.730
+[044] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[044] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.488 roll=0.428
+[044] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x José Papato line=4 duel=89.10 corte=-1.30
+[044] FINAL Clube Fluminense de Futebol Odisséia | Hildebrando Guardado fam=1 duel=0.03 on_target=0.683 goal=0.242
+[044] FINAL Hildebrando Guardado: no alvo sem gol (roll=0.523)
+[045] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[045] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.392 roll=0.942
+[046] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[046] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.364 roll=0.111
+[046] JOGADA Clube de Regatas do Flamengo | Raul Caetano x Eustáquio Miranda line=2 duel=-26.97 corte=-1.30
+[046] JOGADA falhou: Eustáquio Miranda cortou
+[047] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[047] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.364 roll=0.538
+[048] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[048] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.454 roll=0.556
+[049] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[049] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.454 roll=0.116
+[049] JOGADA Clube Fluminense de Futebol Odisséia | Eustáquio Miranda x Carlo Garcia Bisneto line=4 duel=17.22 corte=-1.30
+[049] FINAL Clube Fluminense de Futebol Odisséia | Eustáquio Miranda fam=3 duel=10.01 on_target=0.588 goal=0.185
+[049] FINAL Eustáquio Miranda: no alvo sem gol (roll=0.628)
+[050] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[050] SUB Clube Fluminense de Futebol Odisséia: saiu Hildebrando Guardado (CA) | entrou Walfrid Hoff (CA) | subs=1/5
+[050] SUB Clube de Regatas do Flamengo: saiu Gabriel Luno (SA) | entrou Bastiano Previti (CA) | subs=1/5
+[050] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.450 roll=0.292
+[050] JOGADA Clube Fluminense de Futebol Odisséia | Armando de Almeida x Leonardo Praga line=3 duel=24.07 corte=-1.30
+[050] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=23.33 on_target=0.649 goal=0.245
+[050] FINAL Tomás Soares Ziza: fora/alvo perdido (roll=0.698)
+[051] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[051] SUB Clube de Regatas do Flamengo: saiu Raul Caetano (CA) | entrou Maurício Sampaio (CA) | subs=2/5
+[051] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.352 roll=0.653
+[052] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[052] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.352 roll=0.504
+[053] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[053] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.352 roll=0.035
+[053] JOGADA Clube de Regatas do Flamengo | Narciso Araújo x Eduardo Batista line=4 duel=-46.30 corte=-1.30
+[053] JOGADA falhou: Eduardo Batista cortou
+[054] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[054] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.352 roll=0.300
+[054] JOGADA Clube de Regatas do Flamengo | Oliveira Marques x Teobaldo Mascarenhas line=3 duel=25.20 corte=-1.30
+[054] JOGADA Clube de Regatas do Flamengo | José Papato x Bremer Klotzbücher Nunes line=4 duel=-23.73 corte=-1.30
+[055] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[055] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.451 roll=0.679
+[056] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[056] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.485 roll=0.610
+[057] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[057] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.379 roll=0.445
+[058] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[058] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.379 roll=0.061
+[058] JOGADA Clube de Regatas do Flamengo | Evandro Pessoa x Bremer Klotzbücher Nunes line=4 duel=1.80 corte=-1.30
+[058] JOGADA Clube de Regatas do Flamengo | José Papato x Tomás Soares Ziza line=4 duel=-20.39 corte=-1.30
+[059] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[059] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.485 roll=0.542
+[060] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 1 x 0 Clube de Regatas do Flamengo
+[060] SUB Clube Fluminense de Futebol Odisséia: saiu Armando de Almeida (MC) | entrou Dmitri Frank (MC) | subs=2/5
+[060] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.486 roll=0.435
+[060] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Narciso Araújo line=4 duel=99.92 corte=-1.30
+[060] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=29.99 on_target=0.684 goal=0.256
+[060] FINAL Walfrid Hoff: GOL subtipo=CHUTE (roll=0.013)
+[061] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 2 x 0 Clube de Regatas do Flamengo
+[061] SUB Clube de Regatas do Flamengo: saiu Vicente Paiva (MC) | entrou Diego Moraes (MC) | subs=3/5
+[061] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.385 roll=0.935
+[062] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 2 x 0 Clube de Regatas do Flamengo
+[062] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.385 roll=0.699
+[063] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 0 Clube de Regatas do Flamengo
+[063] SUB Clube de Regatas do Flamengo: saiu Leonardo Praga (VOL) | entrou Jessé Barros (ZAG) | subs=4/5
+[063] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.483 roll=0.790
+[064] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 0 Clube de Regatas do Flamengo
+[064] SUB Clube de Regatas do Flamengo: saiu Benedito Justo (LE) | entrou Carlos Moura (LE) | subs=5/5
+[064] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.484 roll=0.701
+[065] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 0 Clube de Regatas do Flamengo
+[065] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.484 roll=0.711
+[066] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 2 x 0 Clube de Regatas do Flamengo
+[066] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.386 roll=0.591
+[067] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 2 x 0 Clube de Regatas do Flamengo
+[067] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.386 roll=0.688
+[068] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 2 x 0 Clube de Regatas do Flamengo
+[068] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.386 roll=0.799
+[069] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 0 Clube de Regatas do Flamengo
+[069] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.484 roll=0.568
+[070] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 2 x 0 Clube de Regatas do Flamengo
+[070] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.386 roll=0.385
+[070] JOGADA Clube de Regatas do Flamengo | Evandro Pessoa x Teobaldo Mascarenhas line=2 duel=73.79 corte=-1.30
+[070] JOGADA Clube de Regatas do Flamengo | Carlos Moura x Bremer Klotzbücher Nunes line=4 duel=-17.49 corte=-1.30
+[071] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 0 Clube de Regatas do Flamengo
+[071] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.484 roll=0.116
+[071] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Bastiano Previti line=5 duel=97.35 corte=-1.55
+[071] FINAL Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza fam=1 duel=24.18 on_target=0.657 goal=0.236
+[071] FINAL Tomás Soares Ziza: fora/alvo perdido (roll=0.832)
+[072] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 2 x 0 Clube de Regatas do Flamengo
+[072] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.484 roll=0.321
+[072] JOGADA Clube Fluminense de Futebol Odisséia | Eustáquio Miranda x Maurício Sampaio line=5 duel=104.85 corte=-2.05
+[072] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=3 duel=26.94 on_target=0.597 goal=0.186
+[072] FINAL Walfrid Hoff: GOL subtipo=CHUTE (roll=0.015)
+[073] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[073] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.389 roll=0.506
+[074] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[074] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.473 roll=0.288
+[074] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Bastiano Previti line=5 duel=53.87 corte=-1.55
+[074] FINAL Clube Fluminense de Futebol Odisséia | Walfrid Hoff fam=1 duel=22.84 on_target=0.632 goal=0.222
+[074] FINAL Walfrid Hoff: fora/alvo perdido (roll=0.964)
+[075] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[075] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.389 roll=0.621
+[076] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[076] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.459 roll=0.732
+[077] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[077] SUB Clube Fluminense de Futebol Odisséia: saiu Teobaldo Mascarenhas (SA) | entrou Renato Lugon (SA) | subs=3/5
+[077] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.451 roll=0.696
+[078] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[078] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.451 roll=0.717
+[079] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[079] SUB Clube Fluminense de Futebol Odisséia: saiu Bremer Klotzbücher Nunes (ZAG) | entrou Áquiles Nascimento (ZAG) | subs=4/5
+[079] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.428 roll=0.029
+[079] JOGADA Clube de Regatas do Flamengo | Carlo Garcia Bisneto x Eustáquio Miranda line=4 duel=-28.38 corte=-1.30
+[079] JOGADA falhou: Eustáquio Miranda cortou
+[080] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[080] SUB Clube Fluminense de Futebol Odisséia: saiu Eustáquio Miranda (MA) | entrou Charles Durant (MA) | subs=5/5
+[080] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.429 roll=0.011
+[080] JOGADA Clube de Regatas do Flamengo | Narciso Araújo x Walfrid Hoff line=2 duel=14.68 corte=-1.30
+[080] FINAL Clube de Regatas do Flamengo | Diego Moraes fam=5 duel=4.60 on_target=0.635 goal=0.169
+[080] FINAL Diego Moraes: fora/alvo perdido (roll=0.799)
+[081] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[081] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.429 roll=0.317
+[081] JOGADA Clube de Regatas do Flamengo | Maurício Sampaio x Tomás Soares Ziza line=3 duel=29.35 corte=-1.30
+[081] FINAL Clube de Regatas do Flamengo | Maurício Sampaio fam=5 duel=-8.18 on_target=0.634 goal=0.163
+[081] FINAL Maurício Sampaio: no alvo sem gol (roll=0.747)
+[082] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[082] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.442 roll=0.290
+[082] JOGADA Clube Fluminense de Futebol Odisséia | Marcel Ganem x Narciso Araújo line=4 duel=10.64 corte=-1.30
+[082] FINAL Clube Fluminense de Futebol Odisséia | Renato Lugon fam=1 duel=36.36 on_target=0.616 goal=0.221
+[082] FINAL Renato Lugon: no alvo sem gol (roll=0.283)
+[083] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[083] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.442 roll=0.007
+[083] JOGADA Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza x Diego Moraes line=4 duel=19.24 corte=-1.30
+[083] FINAL Clube Fluminense de Futebol Odisséia | Renato Lugon fam=3 duel=25.47 on_target=0.558 goal=0.169
+[083] FINAL Renato Lugon: no alvo sem gol (roll=0.941)
+[084] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[084] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.442 roll=0.333
+[084] JOGADA Clube Fluminense de Futebol Odisséia | Áquiles Nascimento x Jessé Barros line=4 duel=26.82 corte=-1.30
+[084] FINAL Clube Fluminense de Futebol Odisséia | Renato Lugon fam=1 duel=34.14 on_target=0.616 goal=0.220
+[084] FINAL Renato Lugon: fora/alvo perdido (roll=0.654)
+[085] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[085] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.442 roll=0.327
+[085] JOGADA Clube Fluminense de Futebol Odisséia | Tomás Soares Ziza x Maurício Sampaio line=4 duel=94.77 corte=-1.30
+[085] FINAL Clube Fluminense de Futebol Odisséia | Charles Durant fam=3 duel=23.43 on_target=0.559 goal=0.169
+[085] FINAL Charles Durant: no alvo sem gol (roll=0.947)
+[086] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[086] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.452 roll=0.669
+[087] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[087] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.452 roll=0.311
+[087] JOGADA Clube de Regatas do Flamengo | Carlos Moura x Eduardo Batista line=3 duel=40.42 corte=-1.30
+[087] JOGADA Clube de Regatas do Flamengo | Diego Moraes x Adhemar Meira line=4 duel=-41.01 corte=-1.30
+[087] JOGADA falhou: Adhemar Meira cortou
+[088] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[088] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.442 roll=0.213
+[088] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Oliveira Marques line=5 duel=60.36 corte=-1.55
+[088] FINAL Clube Fluminense de Futebol Odisséia | Renato Lugon fam=1 duel=35.38 on_target=0.616 goal=0.221
+[088] FINAL Renato Lugon: no alvo sem gol (roll=0.701)
+[089] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[089] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.442 roll=0.826
+[090] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[090] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.442 roll=0.151
+[090] JOGADA Clube Fluminense de Futebol Odisséia | Wilton Bigode x Diego Moraes line=4 duel=24.07 corte=-1.30
+[090] FINAL Clube Fluminense de Futebol Odisséia | Marcel Ganem fam=1 duel=3.79 on_target=0.615 goal=0.208
+[090] FINAL Marcel Ganem: no alvo sem gol (roll=0.509)
+[091] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[091] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.452 roll=0.387
+[091] JOGADA Clube de Regatas do Flamengo | Maurício Sampaio x Wilton Bigode line=2 duel=-26.33 corte=-1.30
+[091] JOGADA falhou: Wilton Bigode cortou
+[092] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[092] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.442 roll=0.647
+[093] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[093] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.452 roll=0.079
+[093] JOGADA Clube de Regatas do Flamengo | Bastiano Previti x Marcel Ganem line=3 duel=10.83 corte=-1.30
+[093] JOGADA Clube de Regatas do Flamengo | Evandro Pessoa x Tomás Soares Ziza line=4 duel=-15.92 corte=-1.30
+[093] JOGADA falhou: Tomás Soares Ziza cortou
+[094] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[094] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.452 roll=0.270
+[094] JOGADA Clube de Regatas do Flamengo | Carlos Moura x Dmitri Frank line=2 duel=-7.34 corte=-1.30
+[094] JOGADA falhou: Dmitri Frank cortou
+[095] posse=Clube Fluminense de Futebol Odisséia | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[095] BUILD Clube Fluminense de Futebol Odisséia vs Clube de Regatas do Flamengo prob=0.442 roll=0.972
+[096] posse=Clube de Regatas do Flamengo | placar Clube Fluminense de Futebol Odisséia 3 x 0 Clube de Regatas do Flamengo
+[096] BUILD Clube de Regatas do Flamengo vs Clube Fluminense de Futebol Odisséia prob=0.452 roll=0.026
+[096] JOGADA Clube de Regatas do Flamengo | Diego Moraes x Renato Lugon line=3 duel=-21.62 corte=-1.30
+[096] JOGADA falhou: Renato Lugon cortou

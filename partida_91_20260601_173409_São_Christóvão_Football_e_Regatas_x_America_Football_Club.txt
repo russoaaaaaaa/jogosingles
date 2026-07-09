@@ -1,0 +1,297 @@
+Partida #91
+Data: 1912-01-07
+Mandante: São Christóvão Football e Regatas
+Visitante: America Football Club
+Placar: 1 x 0
+Seed: -
+Estádio: Estádio Figueira de Mello
+Clima: Ensolarado
+Placar tempo normal: 1 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: São Christóvão Football e Regatas x America Football Club | estádio=Estádio Figueira de Mello | clima=Ensolarado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=America Football Club | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[001] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.341 roll=0.522
+[002] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[002] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.369 roll=0.130
+[002] JOGADA São Christóvão Football e Regatas | Regente Feijó x Valdomiro Machado line=5 duel=85.09 corte=-1.95
+[002] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=5 duel=-3.42 on_target=0.522 goal=0.141
+[002] FINAL Tadeu Gavião: fora/alvo perdido (roll=0.983)
+[003] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[003] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.369 roll=0.444
+[004] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[004] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.369 roll=0.112
+[004] JOGADA São Christóvão Football e Regatas | Pedro Bittecourt x Valdomiro Machado line=3 duel=25.61 corte=-1.70
+[004] FINAL São Christóvão Football e Regatas | Tadeu Gavião fam=5 duel=-3.66 on_target=0.522 goal=0.141
+[004] FINAL Tadeu Gavião: fora/alvo perdido (roll=0.671)
+[005] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[005] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.369 roll=0.810
+[006] posse=America Football Club | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[006] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.341 roll=0.787
+[007] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[007] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.369 roll=0.147
+[007] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Filipe de Oliveira line=4 duel=-8.27 corte=-1.70
+[007] JOGADA falhou: Filipe de Oliveira cortou
+[008] posse=America Football Club | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[008] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.341 roll=0.550
+[009] posse=America Football Club | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[009] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.341 roll=0.296
+[009] JOGADA America Football Club | Davi Ambrósio Rios x Pedro Bittecourt line=3 duel=-6.57 corte=-1.10
+[009] JOGADA falhou: Pedro Bittecourt cortou
+[010] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[010] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.369 roll=0.520
+[011] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[011] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.399 roll=0.229
+[011] JOGADA São Christóvão Football e Regatas | Celíaco Diabético x Davi Ambrósio Rios line=5 duel=-2.32 corte=-1.95
+[011] JOGADA falhou: Davi Ambrósio Rios cortou
+[012] posse=America Football Club | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[012] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.368 roll=0.346
+[012] JOGADA America Football Club | Antônio Figueroa x Murilo Sousa line=3 duel=-11.02 corte=-1.10
+[012] JOGADA falhou: Murilo Sousa cortou
+[013] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[013] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.399 roll=0.898
+[014] posse=America Football Club | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[014] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.368 roll=0.987
+[015] posse=America Football Club | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[015] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.368 roll=0.879
+[016] posse=America Football Club | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[016] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.368 roll=0.701
+[017] posse=America Football Club | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[017] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.368 roll=0.809
+[018] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 0 x 0 America Football Club
+[018] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.399 roll=0.320
+[018] JOGADA São Christóvão Football e Regatas | Putréfio Lemos x Filipe de Oliveira line=3 duel=56.31 corte=-1.70
+[018] FINAL São Christóvão Football e Regatas | Murilo Sousa fam=5 duel=3.46 on_target=0.564 goal=0.153
+[018] FINAL Murilo Sousa: GOL subtipo=FALTA (roll=0.047)
+[019] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[019] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.433 roll=0.616
+[020] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[020] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.433 roll=0.551
+[021] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[021] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.837
+[022] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[022] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.008
+[022] JOGADA America Football Club | Paolo Gonçalves x Regente Feijó line=4 duel=-22.09 corte=-1.09
+[022] JOGADA falhou: Regente Feijó cortou
+[023] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[023] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.465 roll=0.482
+[024] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[024] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.647
+[025] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[025] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.568
+[026] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[026] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.033
+[026] JOGADA America Football Club | Filipe de Oliveira x Putréfio Lemos line=2 duel=43.49 corte=-1.09
+[026] FINAL America Football Club | Eduardo Lagarto fam=1 duel=17.05 on_target=0.691 goal=0.254
+[026] FINAL Eduardo Lagarto: no alvo sem gol (roll=0.672)
+[027] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[027] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.465 roll=0.673
+[028] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[028] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.465 roll=0.524
+[029] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[029] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.465 roll=0.876
+[030] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[030] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.841
+[031] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[031] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.888
+[032] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[032] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.468 roll=0.704
+[033] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[033] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.885
+[034] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[034] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.902
+[035] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[035] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.834
+[036] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[036] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.468 roll=0.768
+[037] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[037] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.790
+[038] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[038] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.384
+[038] JOGADA America Football Club | Filipe de Oliveira x Fevereiriano Macedo line=3 duel=73.13 corte=-1.09
+[038] FINAL America Football Club | Filipe de Oliveira fam=1 duel=-2.31 on_target=0.683 goal=0.242
+[038] FINAL Filipe de Oliveira: no alvo sem gol (roll=0.977)
+[039] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[039] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.481
+[040] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[040] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.852
+[041] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[041] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.566
+[042] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[042] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.309
+[042] JOGADA America Football Club | Thiago Aguiar x Celíaco Diabético line=3 duel=-14.23 corte=-1.09
+[042] JOGADA falhou: Celíaco Diabético cortou
+[043] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[043] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.128
+[043] JOGADA America Football Club | Geraldo França x Calistêmico Soares line=4 duel=5.86 corte=-1.09
+[043] FINAL America Football Club | Geraldo França fam=3 duel=0.03 on_target=0.627 goal=0.189
+[043] FINAL Geraldo França: fora/alvo perdido (roll=0.857)
+[044] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[044] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.400
+[044] JOGADA America Football Club | Thiago Freixó x Pedro Bittecourt line=3 duel=8.15 corte=-1.09
+[044] FINAL America Football Club | Valdomiro Machado fam=1 duel=-11.90 on_target=0.684 goal=0.238
+[044] FINAL Valdomiro Machado: no alvo sem gol (roll=0.873)
+[045] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[045] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.449 roll=0.414
+[045] JOGADA America Football Club | Eduardo Lagarto x Mauricélio Canoa line=2 duel=17.90 corte=-1.09
+[045] FINAL America Football Club | Filipe de Oliveira fam=3 duel=-3.73 on_target=0.620 goal=0.185
+[045] FINAL Filipe de Oliveira: fora/alvo perdido (roll=0.900)
+[046] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[046] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.418 roll=0.180
+[046] JOGADA America Football Club | Thiago Aguiar x Mauricélio Canoa line=2 duel=-9.72 corte=-1.09
+[046] JOGADA falhou: Mauricélio Canoa cortou
+[047] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[047] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.435 roll=0.921
+[048] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[048] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.418 roll=0.848
+[049] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[049] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.418 roll=0.410
+[049] JOGADA America Football Club | Thiago Aguiar x Murilo Sousa line=3 duel=-11.26 corte=-1.09
+[049] FINAL America Football Club | Thiago Aguiar fam=5 duel=-5.88 on_target=0.561 goal=0.138
+[049] FINAL Thiago Aguiar: fora/alvo perdido (roll=0.657)
+[050] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[050] SUB São Christóvão Football e Regatas: saiu Tadeu Gavião (SA) | entrou Lúcio Gouveia (MA) | subs=1/5
+[050] SUB America Football Club: saiu Valdomiro Machado (SA) | entrou Lázaro Almeida (MA) | subs=1/5
+[050] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.429 roll=0.745
+[051] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[051] SUB São Christóvão Football e Regatas: saiu Fevereiriano Macedo (CA) | entrou Jacó Freire (CA) | subs=2/5
+[051] SUB America Football Club: saiu Thiago Aguiar (CA) | entrou Pedro Gago (CA) | subs=2/5
+[051] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.419 roll=0.315
+[051] JOGADA São Christóvão Football e Regatas | Regente Feijó x Filipe de Oliveira line=3 duel=-13.39 corte=-1.70
+[051] JOGADA falhou: Filipe de Oliveira cortou
+[052] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[052] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.404 roll=0.237
+[052] JOGADA America Football Club | Lázaro Almeida x Lúcio Gouveia line=3 duel=14.08 corte=-1.09
+[052] FINAL America Football Club | Eduardo Lagarto fam=3 duel=-17.46 on_target=0.593 goal=0.175
+[052] FINAL Eduardo Lagarto: fora/alvo perdido (roll=0.964)
+[053] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[053] SUB São Christóvão Football e Regatas: saiu Pedro Bittecourt (VOL) | entrou Ciríaco Paredes (ZAG) | subs=3/5
+[053] SUB America Football Club: saiu Davi Ambrósio Rios (LE) | entrou Luís Barcelar (LE) | subs=3/5
+[053] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.399 roll=0.810
+[054] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[054] SUB America Football Club: saiu Geraldo França (MA) | entrou Jessé Paiva (MC) | subs=4/5
+[054] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.393 roll=0.507
+[055] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[055] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.395 roll=0.983
+[056] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[056] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.425 roll=0.280
+[056] JOGADA São Christóvão Football e Regatas | Mauricélio Canoa x Pedro Gago line=3 duel=-26.81 corte=-1.70
+[056] JOGADA falhou: Pedro Gago cortou
+[057] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[057] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.425 roll=0.499
+[058] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[058] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.401 roll=0.499
+[059] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[059] SUB São Christóvão Football e Regatas: saiu Valério Cesarino (LD) | entrou Ricardo Leal (LE) | subs=4/5
+[059] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.424 roll=0.062
+[059] JOGADA São Christóvão Football e Regatas | Ricardo Leal x Antônio Figueroa line=5 duel=45.21 corte=-1.95
+[059] FINAL São Christóvão Football e Regatas | Lúcio Gouveia fam=5 duel=16.32 on_target=0.594 goal=0.163
+[059] FINAL Lúcio Gouveia: fora/alvo perdido (roll=0.626)
+[060] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[060] SUB São Christóvão Football e Regatas: saiu Murilo Sousa (MA) | entrou André Meireles (MA) | subs=5/5
+[060] SUB America Football Club: saiu Basílico Freitas (MC) | entrou Hector Barbosa (VOL) | subs=5/5
+[060] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.450 roll=0.676
+[061] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[061] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.411 roll=0.955
+[062] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[062] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.450 roll=0.200
+[062] JOGADA São Christóvão Football e Regatas | Regente Feijó x Antônio Figueroa line=4 duel=30.29 corte=-1.70
+[062] FINAL São Christóvão Football e Regatas | André Meireles fam=5 duel=2.98 on_target=0.593 goal=0.158
+[062] FINAL André Meireles: fora/alvo perdido (roll=0.903)
+[063] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[063] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.450 roll=0.318
+[063] JOGADA São Christóvão Football e Regatas | Putréfio Lemos x Lázaro Almeida line=3 duel=-7.42 corte=-1.70
+[063] JOGADA falhou: Lázaro Almeida cortou
+[064] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[064] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.450 roll=0.955
+[065] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[065] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.411 roll=0.035
+[065] JOGADA America Football Club | Jessé Paiva x Ciríaco Paredes line=4 duel=-28.88 corte=-1.08
+[065] JOGADA falhou: Ciríaco Paredes cortou
+[066] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[066] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.450 roll=0.790
+[067] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[067] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.411 roll=0.939
+[068] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[068] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.411 roll=0.388
+[068] JOGADA America Football Club | Paolo Gonçalves x Putréfio Lemos line=3 duel=-1.83 corte=-1.08
+[068] JOGADA falhou: Putréfio Lemos cortou
+[069] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[069] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.411 roll=0.631
+[070] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[070] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.411 roll=0.472
+[071] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[071] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.468 roll=0.581
+[072] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[072] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.468 roll=0.640
+[073] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[073] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.468 roll=0.575
+[074] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[074] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.411 roll=0.172
+[074] JOGADA America Football Club | Jessé Paiva x Jacó Freire line=4 duel=5.75 corte=-1.04
+[074] JOGADA America Football Club | Jessé Paiva x Mauricélio Canoa line=5 duel=14.53 corte=-1.29
+[074] JOGADA America Football Club | Filipe de Oliveira x Mauricélio Canoa line=5 duel=-5.19 corte=-1.29
+[074] JOGADA falhou: Mauricélio Canoa cortou
+[075] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[075] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.468 roll=0.828
+[076] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[076] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.454 roll=0.910
+[077] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[077] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.454 roll=0.015
+[077] JOGADA São Christóvão Football e Regatas | Lúcio Gouveia x Antônio Figueroa line=4 duel=66.73 corte=-1.70
+[077] FINAL São Christóvão Football e Regatas | Jacó Freire fam=5 duel=-40.99 on_target=0.568 goal=0.134
+[077] FINAL Jacó Freire: fora/alvo perdido (roll=0.676)
+[078] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[078] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.454 roll=0.284
+[078] JOGADA São Christóvão Football e Regatas | Ricardo Leal x Lázaro Almeida line=4 duel=-7.42 corte=-1.70
+[078] JOGADA falhou: Lázaro Almeida cortou
+[079] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[079] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.444 roll=0.236
+[079] JOGADA America Football Club | Antônio Figueroa x Regente Feijó line=3 duel=24.24 corte=-1.04
+[079] FINAL America Football Club | Eduardo Lagarto fam=1 duel=13.04 on_target=0.739 goal=0.264
+[079] FINAL Eduardo Lagarto: no alvo sem gol (roll=0.879)
+[080] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[080] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.454 roll=0.828
+[081] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[081] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.454 roll=0.816
+[082] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[082] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.444 roll=0.045
+[082] JOGADA America Football Club | Lázaro Almeida x Regente Feijó line=2 duel=62.57 corte=-1.04
+[082] FINAL America Football Club | Pedro Gago fam=3 duel=19.22 on_target=0.663 goal=0.203
+[082] FINAL Pedro Gago: no alvo sem gol (roll=0.599)
+[083] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[083] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.444 roll=0.450
+[084] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[084] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.454 roll=0.824
+[085] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[085] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.454 roll=0.564
+[086] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[086] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.454 roll=0.395
+[086] JOGADA São Christóvão Football e Regatas | Calistêmico Soares x Paolo Gonçalves line=3 duel=4.12 corte=-1.70
+[086] FINAL São Christóvão Football e Regatas | André Meireles fam=5 duel=-8.17 on_target=0.570 goal=0.147
+[086] FINAL André Meireles: no alvo sem gol (roll=0.936)
+[087] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[087] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.468 roll=0.169
+[087] JOGADA America Football Club | Luís Barcelar x Calistêmico Soares line=3 duel=-3.58 corte=-1.04
+[088] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[088] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.468 roll=0.151
+[088] JOGADA America Football Club | Jessé Paiva x Lúcio Gouveia line=4 duel=-31.50 corte=-1.04
+[088] JOGADA falhou: Lúcio Gouveia cortou
+[089] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[089] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.468 roll=0.975
+[090] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[090] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.454 roll=0.993
+[091] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[091] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.468 roll=0.179
+[091] JOGADA America Football Club | Jessé Paiva x Mauricélio Canoa line=3 duel=9.69 corte=-1.04
+[091] FINAL America Football Club | Pedro Gago fam=1 duel=13.64 on_target=0.777 goal=0.259
+[091] FINAL Pedro Gago: fora/alvo perdido (roll=0.876)
+[092] posse=America Football Club | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[092] BUILD America Football Club vs São Christóvão Football e Regatas prob=0.468 roll=0.830
+[093] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[093] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.454 roll=0.516
+[094] posse=São Christóvão Football e Regatas | placar São Christóvão Football e Regatas 1 x 0 America Football Club
+[094] BUILD São Christóvão Football e Regatas vs America Football Club prob=0.454 roll=0.727

@@ -1,0 +1,326 @@
+Partida #121
+Data: 1912-01-08
+Mandante: Centro Esportivo São Bernardo do Campo
+Visitante: Palestra Itália
+Placar: 2 x 1
+Seed: -
+Estádio: Gimnásio da Anchieta
+Clima: Nublado
+Placar tempo normal: 2 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Centro Esportivo São Bernardo do Campo x Palestra Itália | estádio=Gimnásio da Anchieta | clima=Nublado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 0 x 0 Palestra Itália
+[001] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.332 roll=0.463
+[002] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 0 x 0 Palestra Itália
+[002] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.382 roll=0.624
+[003] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 0 x 0 Palestra Itália
+[003] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.382 roll=0.396
+[004] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 0 x 0 Palestra Itália
+[004] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.382 roll=0.436
+[005] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 0 x 0 Palestra Itália
+[005] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.382 roll=0.772
+[006] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 0 x 0 Palestra Itália
+[006] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.332 roll=0.528
+[007] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 0 x 0 Palestra Itália
+[007] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.332 roll=0.750
+[008] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 0 x 0 Palestra Itália
+[008] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.382 roll=0.291
+[008] JOGADA Palestra Itália | Augusto Camozzi x Ricardo Alves line=3 duel=44.24 corte=-1.10
+[008] JOGADA Palestra Itália | Miguel Coimbra x Bruno Galazzi line=5 duel=50.62 corte=-1.85
+[008] JOGADA Palestra Itália | Merré x Vitor Reis line=5 duel=59.08 corte=-1.35
+[008] FINAL Palestra Itália | Augusto Camozzi fam=1 duel=21.19 on_target=0.602 goal=0.229
+[008] FINAL Augusto Camozzi: GOL subtipo=CHUTE (roll=0.151)
+[009] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 0 x 1 Palestra Itália
+[009] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.376 roll=0.073
+[009] JOGADA Centro Esportivo São Bernardo do Campo | Otávio Guimarães x Francesco Masso line=4 duel=26.30 corte=-1.70
+[009] FINAL Centro Esportivo São Bernardo do Campo | Ricardo Alves fam=5 duel=-90.33 on_target=0.519 goal=0.109
+[009] FINAL Ricardo Alves: fora/alvo perdido (roll=0.586)
+[010] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 0 x 1 Palestra Itália
+[010] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.382 roll=0.074
+[010] JOGADA Palestra Itália | Lucca Petrucci x Ildebrando Franze line=4 duel=-15.77 corte=-1.30
+[011] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 0 x 1 Palestra Itália
+[011] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.413 roll=0.729
+[012] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 0 x 1 Palestra Itália
+[012] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.407 roll=0.733
+[013] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 0 x 1 Palestra Itália
+[013] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.413 roll=0.152
+[013] JOGADA Palestra Itália | Lucca Petrucci x Otávio Guimarães line=3 duel=-4.05 corte=-1.30
+[013] JOGADA falhou: Otávio Guimarães cortou
+[014] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 0 x 1 Palestra Itália
+[014] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.413 roll=0.995
+[015] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 0 x 1 Palestra Itália
+[015] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.413 roll=0.898
+[016] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 0 x 1 Palestra Itália
+[016] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.413 roll=0.410
+[016] JOGADA Palestra Itália | Cevaldo Barbosa x Hercules dos Santos line=2 duel=1.65 corte=-1.30
+[016] FINAL Palestra Itália | Miguel Coimbra fam=3 duel=-14.93 on_target=0.586 goal=0.173
+[016] FINAL Miguel Coimbra: fora/alvo perdido (roll=0.714)
+[017] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 0 x 1 Palestra Itália
+[017] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.407 roll=0.684
+[018] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 0 x 1 Palestra Itália
+[018] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.407 roll=0.568
+[019] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 0 x 1 Palestra Itália
+[019] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.407 roll=0.454
+[020] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 0 x 1 Palestra Itália
+[020] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.407 roll=0.528
+[020] FINAL Centro Esportivo São Bernardo do Campo | Ildebrando Franze fam=5 duel=-38.78 on_target=0.562 goal=0.139
+[020] FINAL Ildebrando Franze: fora/alvo perdido (roll=0.931)
+[021] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 0 x 1 Palestra Itália
+[021] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.437 roll=0.073
+[021] JOGADA Centro Esportivo São Bernardo do Campo | Bruno Galazzi x Mariano Torchia line=5 duel=29.51 corte=-2.45
+[021] FINAL Centro Esportivo São Bernardo do Campo | Leomar Lima fam=5 duel=-19.48 on_target=0.592 goal=0.152
+[021] FINAL Leomar Lima: GOL subtipo=FALTA (roll=0.045)
+[022] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[022] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.369
+[022] JOGADA Palestra Itália | Henrique Esteves x Attila di Cello line=3 duel=4.30 corte=-1.10
+[022] JOGADA Palestra Itália | Augusto Camozzi x Hugo Serra line=4 duel=17.22 corte=-1.10
+[022] JOGADA Palestra Itália | Mariano Torchia x Leomar Lima line=4 duel=3.93 corte=-1.10
+[022] FINAL Palestra Itália | Alberto Vaz Bonfim fam=1 duel=20.60 on_target=0.683 goal=0.251
+[022] FINAL Alberto Vaz Bonfim: fora/alvo perdido (roll=0.699)
+[023] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[023] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.386 roll=0.276
+[023] JOGADA Centro Esportivo São Bernardo do Campo | Bruno Galazzi x Alberto Vaz Bonfim line=5 duel=62.62 corte=-2.45
+[023] FINAL Centro Esportivo São Bernardo do Campo | Hugo Serra fam=5 duel=-17.98 on_target=0.590 goal=0.150
+[023] FINAL Hugo Serra: no alvo sem gol (roll=0.857)
+[024] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[024] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.386 roll=0.049
+[024] JOGADA Centro Esportivo São Bernardo do Campo | Attila di Cello x Mariano Torchia line=4 duel=-11.14 corte=-1.70
+[025] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[025] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.386 roll=0.444
+[026] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[026] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.386 roll=0.657
+[027] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[027] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.386 roll=0.588
+[028] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[028] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.018
+[028] JOGADA Palestra Itália | Mariano Torchia x Vitor Reis line=3 duel=-7.01 corte=-1.10
+[028] JOGADA falhou: Vitor Reis cortou
+[029] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[029] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.292
+[029] JOGADA Palestra Itália | Merré x Attila di Cello line=3 duel=-1.29 corte=-1.10
+[029] JOGADA falhou: Attila di Cello cortou
+[030] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[030] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.386 roll=0.042
+[030] JOGADA Centro Esportivo São Bernardo do Campo | Hercules dos Santos x Merré line=4 duel=26.95 corte=-1.70
+[030] FINAL Centro Esportivo São Bernardo do Campo | Hugo Serra fam=5 duel=-16.64 on_target=0.590 goal=0.151
+[030] FINAL Hugo Serra: no alvo sem gol (roll=0.303)
+[031] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[031] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.160
+[031] JOGADA Palestra Itália | Francesco Masso x Attila di Cello line=3 duel=0.04 corte=-1.10
+[031] JOGADA Palestra Itália | Flaminco Julinni x Hugo Serra line=4 duel=14.71 corte=-1.10
+[031] JOGADA Palestra Itália | Francesco Masso x Vitor Reis line=4 duel=5.23 corte=-1.10
+[031] FINAL Palestra Itália | Augusto Camozzi fam=1 duel=12.56 on_target=0.683 goal=0.248
+[031] FINAL Augusto Camozzi: no alvo sem gol (roll=0.438)
+[032] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[032] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.192
+[032] JOGADA Palestra Itália | Flaminco Julinni x Bruno Galazzi line=3 duel=54.50 corte=-1.10
+[032] JOGADA Palestra Itália | Cevaldo Barbosa x Otávio Guimarães line=4 duel=17.69 corte=-1.10
+[032] FINAL Palestra Itália | Augusto Camozzi fam=3 duel=14.26 on_target=0.620 goal=0.193
+[032] FINAL Augusto Camozzi: fora/alvo perdido (roll=0.793)
+[033] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[033] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.826
+[034] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[034] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.684
+[035] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[035] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.389 roll=0.954
+[036] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[036] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.187
+[036] JOGADA Palestra Itália | Henrique Esteves x Vitor Reis line=3 duel=10.10 corte=-1.10
+[036] JOGADA Palestra Itália | Henrique Esteves x Alfredo Qiuntana line=4 duel=10.98 corte=-1.10
+[036] JOGADA Palestra Itália | Cevaldo Barbosa x Alfredo Qiuntana line=4 duel=2.82 corte=-1.10
+[036] FINAL Palestra Itália | Miguel Coimbra fam=3 duel=-17.02 on_target=0.617 goal=0.178
+[036] FINAL Miguel Coimbra: fora/alvo perdido (roll=0.907)
+[037] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[037] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.961
+[038] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[038] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.817
+[039] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[039] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.043
+[039] JOGADA Palestra Itália | Miguel Coimbra x Alfredo Qiuntana line=2 duel=39.33 corte=-1.10
+[039] JOGADA Palestra Itália | Augusto Camozzi x Ricardo Alves line=3 duel=32.36 corte=-1.10
+[039] JOGADA Palestra Itália | Flaminco Julinni x Alfredo Qiuntana line=5 duel=48.18 corte=-1.35
+[039] FINAL Palestra Itália | Miguel Coimbra fam=1 duel=18.82 on_target=0.682 goal=0.250
+[039] FINAL Miguel Coimbra: no alvo sem gol (roll=0.951)
+[040] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[040] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.747
+[041] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[041] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.389 roll=0.799
+[042] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[042] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.389 roll=0.679
+[043] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[043] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.947
+[044] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[044] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.006
+[044] JOGADA Palestra Itália | Augusto Camozzi x Vitor Reis line=3 duel=-1.24 corte=-1.10
+[044] JOGADA falhou: Vitor Reis cortou
+[045] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[045] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.444 roll=0.432
+[045] JOGADA Palestra Itália | Alberto Vaz Bonfim x Hercules dos Santos line=2 duel=-5.86 corte=-1.10
+[046] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[046] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.362 roll=0.953
+[047] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[047] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.413 roll=0.631
+[048] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[048] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.413 roll=0.590
+[049] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[049] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.362 roll=0.902
+[050] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[050] SUB Centro Esportivo São Bernardo do Campo: saiu Bruno Galazzi (SA) | entrou Ricardo Pinheiros (SA) | subs=1/5
+[050] SUB Palestra Itália: saiu Alberto Vaz Bonfim (SA) | entrou Cássio Barbosa (CA) | subs=1/5
+[050] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.382 roll=0.968
+[051] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[051] SUB Centro Esportivo São Bernardo do Campo: saiu Ricardo Alves (CA) | entrou Erasmo Flores (CA) | subs=2/5
+[051] SUB Palestra Itália: saiu Augusto Camozzi (CA) | entrou Diego Santana (CA) | subs=2/5
+[051] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.370 roll=0.086
+[051] JOGADA Centro Esportivo São Bernardo do Campo | Alfredo Qiuntana x Merré line=5 duel=-4.81 corte=-1.95
+[051] JOGADA falhou: Merré cortou
+[052] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[052] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.370 roll=0.702
+[053] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[053] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.370 roll=0.811
+[054] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[054] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.370 roll=0.017
+[054] JOGADA Centro Esportivo São Bernardo do Campo | Ricardo Pinheiros x Francesco Masso line=4 duel=4.22 corte=-1.70
+[054] FINAL Centro Esportivo São Bernardo do Campo | Erasmo Flores fam=5 duel=5.65 on_target=0.565 goal=0.159
+[054] FINAL Erasmo Flores: no alvo sem gol (roll=0.411)
+[055] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[055] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.370 roll=0.571
+[056] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[056] SUB Centro Esportivo São Bernardo do Campo: saiu Leomar Lima (MD) | entrou Jurandir Guedes (MA) | subs=3/5
+[056] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.386 roll=0.997
+[057] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[057] SUB Centro Esportivo São Bernardo do Campo: saiu Otávio Guimarães (LE) | entrou Alceu Bueno (LE) | subs=4/5
+[057] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.393 roll=0.243
+[057] JOGADA Centro Esportivo São Bernardo do Campo | Erasmo Flores x Flaminco Julinni line=5 duel=59.97 corte=-2.45
+[057] FINAL Centro Esportivo São Bernardo do Campo | Ricardo Pinheiros fam=5 duel=8.84 on_target=0.594 goal=0.164
+[057] FINAL Ricardo Pinheiros: no alvo sem gol (roll=0.852)
+[058] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[058] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.360 roll=0.989
+[059] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[059] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.360 roll=0.552
+[060] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[060] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.360 roll=0.413
+[061] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[061] SUB Centro Esportivo São Bernardo do Campo: saiu Hugo Serra (ME) | entrou Osmário Jesus (ME) | subs=5/5
+[061] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.364 roll=0.315
+[061] JOGADA Palestra Itália | Miguel Coimbra x Hercules dos Santos line=3 duel=-1.79 corte=-1.08
+[061] JOGADA falhou: Hercules dos Santos cortou
+[062] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[062] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.394 roll=0.158
+[062] JOGADA Centro Esportivo São Bernardo do Campo | Ricardo Pinheiros x Miguel Coimbra line=4 duel=15.61 corte=-1.70
+[062] FINAL Centro Esportivo São Bernardo do Campo | Osmário Jesus fam=5 duel=5.01 on_target=0.595 goal=0.164
+[062] FINAL Osmário Jesus: no alvo sem gol (roll=0.744)
+[063] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[063] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.364 roll=0.168
+[063] JOGADA Palestra Itália | Cevaldo Barbosa x Ricardo Pinheiros line=3 duel=24.91 corte=-1.08
+[063] JOGADA Palestra Itália | Miguel Coimbra x Ildebrando Franze line=5 duel=58.77 corte=-1.83
+[063] JOGADA Palestra Itália | Miguel Coimbra x Ricardo Pinheiros line=5 duel=80.17 corte=-1.83
+[063] FINAL Palestra Itália | Cássio Barbosa fam=1 duel=25.53 on_target=0.683 goal=0.254
+[063] FINAL Cássio Barbosa: fora/alvo perdido (roll=0.885)
+[064] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[064] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.364 roll=0.516
+[065] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 1 x 1 Palestra Itália
+[065] SUB Palestra Itália: saiu Miguel Coimbra (MA) | entrou Maurizio Catalanotto (MC) | subs=3/5
+[065] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.395 roll=0.319
+[065] JOGADA Centro Esportivo São Bernardo do Campo | Hercules dos Santos x Cevaldo Barbosa line=5 duel=51.81 corte=-1.95
+[065] FINAL Centro Esportivo São Bernardo do Campo | Ricardo Pinheiros fam=5 duel=5.14 on_target=0.595 goal=0.164
+[065] FINAL Ricardo Pinheiros: GOL subtipo=FALTA (roll=0.015)
+[066] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[066] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.420 roll=0.064
+[066] JOGADA Palestra Itália | Lucca Petrucci x Vitor Reis line=3 duel=-1.99 corte=-1.06
+[067] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[067] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.432 roll=0.425
+[067] JOGADA Centro Esportivo São Bernardo do Campo | Alfredo Qiuntana x Flaminco Julinni line=4 duel=44.14 corte=-1.70
+[067] FINAL Centro Esportivo São Bernardo do Campo | Ricardo Pinheiros fam=5 duel=4.15 on_target=0.595 goal=0.164
+[067] FINAL Ricardo Pinheiros: fora/alvo perdido (roll=0.813)
+[068] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[068] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.435 roll=0.631
+[069] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[069] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.420 roll=0.065
+[069] JOGADA Palestra Itália | Flaminco Julinni x Alceu Bueno line=2 duel=71.34 corte=-1.06
+[069] JOGADA Palestra Itália | Merré x Osmário Jesus line=4 duel=-23.33 corte=-1.06
+[070] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[070] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.450 roll=0.579
+[071] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[071] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.450 roll=0.336
+[071] JOGADA Centro Esportivo São Bernardo do Campo | Vitor Reis x Cevaldo Barbosa line=3 duel=-7.87 corte=-1.70
+[071] JOGADA falhou: Cevaldo Barbosa cortou
+[072] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[072] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.420 roll=0.152
+[072] JOGADA Palestra Itália | Merré x Jurandir Guedes line=2 duel=-10.16 corte=-1.02
+[072] JOGADA falhou: Jurandir Guedes cortou
+[073] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[073] SUB Palestra Itália: saiu Cevaldo Barbosa (MD) | entrou Alberto Pires (MA) | subs=4/5
+[073] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.413 roll=0.145
+[073] JOGADA Palestra Itália | Henrique Esteves x Alfredo Qiuntana line=3 duel=25.45 corte=-1.02
+[073] JOGADA Palestra Itália | Flaminco Julinni x Ricardo Pinheiros line=4 duel=40.75 corte=-1.02
+[073] JOGADA Palestra Itália | Maurizio Catalanotto x Alceu Bueno line=5 duel=84.57 corte=-1.27
+[073] FINAL Palestra Itália | Cássio Barbosa fam=1 duel=19.54 on_target=0.683 goal=0.251
+[073] FINAL Cássio Barbosa: no alvo sem gol (roll=0.831)
+[074] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[074] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.413 roll=0.979
+[075] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[075] SUB Palestra Itália: saiu Merré (ZAG) | entrou Ampelio Presti (ZAG) | subs=5/5
+[075] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.413 roll=0.616
+[076] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[076] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.443 roll=0.310
+[076] JOGADA Centro Esportivo São Bernardo do Campo | Ildebrando Franze x Mariano Torchia line=3 duel=7.42 corte=-1.70
+[076] FINAL Centro Esportivo São Bernardo do Campo | Ricardo Pinheiros fam=5 duel=-2.54 on_target=0.572 goal=0.155
+[076] FINAL Ricardo Pinheiros: fora/alvo perdido (roll=0.914)
+[077] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[077] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.446 roll=0.393
+[077] JOGADA Palestra Itália | Lucca Petrucci x Hercules dos Santos line=3 duel=-8.12 corte=-1.02
+[077] JOGADA falhou: Hercules dos Santos cortou
+[078] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[078] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.443 roll=0.768
+[079] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[079] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.446 roll=0.942
+[080] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[080] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.446 roll=0.867
+[081] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[081] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.446 roll=0.987
+[082] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[082] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.443 roll=0.746
+[083] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[083] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.446 roll=0.959
+[084] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[084] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.446 roll=0.684
+[085] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[085] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.469 roll=0.714
+[086] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[086] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.469 roll=0.703
+[087] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[087] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.469 roll=0.540
+[088] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[088] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.469 roll=0.711
+[089] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[089] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.469 roll=0.133
+[089] JOGADA Palestra Itália | Francesco Masso x Attila di Cello line=4 duel=3.85 corte=-1.02
+[089] FINAL Palestra Itália | Alberto Pires fam=1 duel=19.91 on_target=0.775 goal=0.261
+[089] FINAL Alberto Pires: no alvo sem gol (roll=0.499)
+[090] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[090] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.443 roll=0.775
+[091] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[091] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.469 roll=0.526
+[092] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[092] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.443 roll=0.665
+[093] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[093] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.443 roll=0.941
+[094] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[094] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.469 roll=0.168
+[094] JOGADA Palestra Itália | Cássio Barbosa x Attila di Cello line=2 duel=71.20 corte=-1.02
+[094] JOGADA Palestra Itália | Cássio Barbosa x Hercules dos Santos line=4 duel=-2.48 corte=-1.02
+[094] JOGADA falhou: Hercules dos Santos cortou
+[095] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[095] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.469 roll=0.238
+[095] JOGADA Palestra Itália | Flaminco Julinni x Ildebrando Franze line=3 duel=9.81 corte=-1.02
+[095] FINAL Palestra Itália | Lucca Petrucci fam=3 duel=-6.70 on_target=0.702 goal=0.190
+[095] FINAL Lucca Petrucci: no alvo sem gol (roll=0.192)
+[096] posse=Palestra Itália | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[096] BUILD Palestra Itália vs Centro Esportivo São Bernardo do Campo prob=0.469 roll=0.886
+[097] posse=Centro Esportivo São Bernardo do Campo | placar Centro Esportivo São Bernardo do Campo 2 x 1 Palestra Itália
+[097] BUILD Centro Esportivo São Bernardo do Campo vs Palestra Itália prob=0.443 roll=0.642

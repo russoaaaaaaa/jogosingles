@@ -1,0 +1,337 @@
+Partida #140
+Data: 1912-01-10
+Mandante: Club Athletico Paulistano
+Visitante: Club Nacional de São Paulo
+Placar: 0 x 2
+Seed: -
+Estádio: Velódromo Paulista
+Clima: Calor forte
+Placar tempo normal: 0 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Club Athletico Paulistano x Club Nacional de São Paulo | estádio=Velódromo Paulista | clima=Calor forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[001] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.370 roll=0.855
+[002] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[002] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.370 roll=0.693
+[003] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[003] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.370 roll=0.223
+[003] JOGADA Club Nacional de São Paulo | Joselino Siqueira x Antonelo Álvares line=4 duel=32.99 corte=-1.30
+[003] FINAL Club Nacional de São Paulo | Taciano Queiroz fam=5 duel=6.77 on_target=0.528 goal=0.145
+[003] FINAL Taciano Queiroz: fora/alvo perdido (roll=0.675)
+[004] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[004] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.353 roll=0.968
+[005] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[005] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.370 roll=0.169
+[005] JOGADA Club Nacional de São Paulo | Gomes Prates x Almurtão Falcao line=5 duel=7.31 corte=-2.05
+[005] FINAL Club Nacional de São Paulo | Taciano Queiroz fam=5 duel=-85.19 on_target=0.523 goal=0.107
+[005] FINAL Taciano Queiroz: no alvo sem gol (roll=0.796)
+[006] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[006] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.370 roll=0.020
+[006] JOGADA Club Nacional de São Paulo | Daniel Frederiques x Jacó Brandão line=4 duel=-6.57 corte=-1.30
+[006] JOGADA falhou: Jacó Brandão cortou
+[007] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[007] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.370 roll=0.958
+[008] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[008] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.370 roll=0.929
+[009] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[009] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.353 roll=0.944
+[010] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[010] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.370 roll=0.170
+[010] JOGADA Club Nacional de São Paulo | Joselino Siqueira x Antonelo Álvares line=4 duel=-23.81 corte=-1.30
+[011] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[011] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.400 roll=0.765
+[012] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[012] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.382 roll=0.071
+[012] JOGADA Club Athletico Paulistano | Boavida Branco x Bernardo Filho do Sapateiro Josias line=4 duel=46.38 corte=-1.12
+[012] FINAL Club Athletico Paulistano | Bernardinho fam=1 duel=0.50 on_target=0.657 goal=0.237
+[012] FINAL Bernardinho: no alvo sem gol (roll=0.289)
+[013] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[013] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.400 roll=0.835
+[014] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[014] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.382 roll=0.633
+[015] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[015] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.382 roll=0.990
+[016] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[016] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.400 roll=0.894
+[017] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[017] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.400 roll=0.270
+[017] JOGADA Club Nacional de São Paulo | Martinho Supla x Remígio Diniz line=5 duel=4.68 corte=-1.55
+[017] FINAL Club Nacional de São Paulo | Taciano Queiroz fam=5 duel=-84.71 on_target=0.564 goal=0.114
+[017] FINAL Taciano Queiroz: fora/alvo perdido (roll=0.611)
+[018] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[018] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.400 roll=0.693
+[018] FINAL Club Nacional de São Paulo | Fred Santos fam=5 duel=-14.23 on_target=0.562 goal=0.143
+[018] FINAL Fred Santos: no alvo sem gol (roll=0.157)
+[019] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[019] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.400 roll=0.702
+[020] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[020] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.400 roll=0.252
+[020] JOGADA Club Nacional de São Paulo | Fred Santos x Almurtão Falcao line=5 duel=50.78 corte=-1.55
+[020] FINAL Club Nacional de São Paulo | Taciano Queiroz fam=5 duel=-84.59 on_target=0.564 goal=0.114
+[020] FINAL Taciano Queiroz: fora/alvo perdido (roll=0.749)
+[021] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[021] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.430 roll=0.757
+[022] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[022] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.378
+[022] JOGADA Club Athletico Paulistano | Miguel Rosa x Bernardo Filho do Sapateiro Josias line=3 duel=87.68 corte=-1.12
+[022] FINAL Club Athletico Paulistano | Judas Bettencourt fam=1 duel=-1.57 on_target=0.693 goal=0.245
+[022] FINAL Judas Bettencourt: no alvo sem gol (roll=0.945)
+[023] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[023] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.392
+[023] JOGADA Club Athletico Paulistano | Alan Gadelha x Gomes Prates line=4 duel=54.16 corte=-1.12
+[023] FINAL Club Athletico Paulistano | Antonelo Álvares fam=1 duel=-6.73 on_target=0.688 goal=0.240
+[023] FINAL Antonelo Álvares: no alvo sem gol (roll=0.901)
+[024] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[024] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.430 roll=0.020
+[024] JOGADA Club Nacional de São Paulo | Bernardo Filho do Sapateiro Josias x Jacó Brandão line=4 duel=34.63 corte=-1.30
+[024] FINAL Club Nacional de São Paulo | Bernardo Filho do Sapateiro Josias fam=5 duel=-78.69 on_target=0.596 goal=0.121
+[024] FINAL Bernardo Filho do Sapateiro Josias: fora/alvo perdido (roll=0.857)
+[025] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[025] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.430 roll=0.784
+[026] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[026] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.430 roll=0.352
+[026] JOGADA Club Nacional de São Paulo | Martinho Supla x Almurtão Falcao line=4 duel=10.98 corte=-1.30
+[026] FINAL Club Nacional de São Paulo | Martinho Supla fam=5 duel=-34.97 on_target=0.590 goal=0.138
+[026] FINAL Martinho Supla: fora/alvo perdido (roll=0.697)
+[027] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[027] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.430 roll=0.776
+[028] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[028] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.430 roll=0.129
+[028] JOGADA Club Nacional de São Paulo | Artur Barboza x Remígio Diniz line=4 duel=0.45 corte=-1.30
+[028] FINAL Club Nacional de São Paulo | Gomes Prates fam=5 duel=-7.34 on_target=0.592 goal=0.151
+[028] FINAL Gomes Prates: no alvo sem gol (roll=0.668)
+[029] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[029] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.520
+[030] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[030] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.430 roll=0.405
+[030] JOGADA Club Nacional de São Paulo | Bernardo Filho do Sapateiro Josias x Madaleno Luz line=5 duel=19.95 corte=-2.05
+[030] FINAL Club Nacional de São Paulo | Artur Barboza fam=5 duel=-10.86 on_target=0.600 goal=0.152
+[030] FINAL Artur Barboza: no alvo sem gol (roll=0.946)
+[031] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[031] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.337
+[031] JOGADA Club Athletico Paulistano | Antonelo Álvares x Noé Carvalho line=4 duel=32.40 corte=-1.12
+[031] FINAL Club Athletico Paulistano | Bernardinho fam=1 duel=-13.50 on_target=0.690 goal=0.238
+[031] FINAL Bernardinho: fora/alvo perdido (roll=0.820)
+[032] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[032] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.813
+[033] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[033] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.364
+[033] JOGADA Club Athletico Paulistano | Boavida Branco x Gomes Prates line=4 duel=73.62 corte=-1.11
+[033] FINAL Club Athletico Paulistano | Judas Bettencourt fam=1 duel=-5.16 on_target=0.692 goal=0.243
+[033] FINAL Judas Bettencourt: fora/alvo perdido (roll=0.840)
+[034] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[034] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.865
+[035] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[035] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.047
+[035] JOGADA Club Athletico Paulistano | Remígio Diniz x Noé Carvalho line=3 duel=19.34 corte=-1.11
+[035] FINAL Club Athletico Paulistano | Judas Bettencourt fam=1 duel=-9.06 on_target=0.692 goal=0.241
+[035] FINAL Judas Bettencourt: fora/alvo perdido (roll=0.727)
+[036] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[036] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.433 roll=0.414
+[036] JOGADA Club Nacional de São Paulo | Romano Barboza x Madaleno Luz line=3 duel=-10.11 corte=-1.30
+[036] JOGADA falhou: Madaleno Luz cortou
+[037] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[037] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.279
+[037] JOGADA Club Athletico Paulistano | Antonelo Álvares x Romano Barboza line=5 duel=4.79 corte=-1.36
+[037] FINAL Club Athletico Paulistano | Judas Bettencourt fam=1 duel=-2.69 on_target=0.693 goal=0.244
+[037] FINAL Judas Bettencourt: no alvo sem gol (roll=0.820)
+[038] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[038] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.350
+[038] JOGADA Club Athletico Paulistano | Boavida Branco x Artur Barboza line=5 duel=17.53 corte=-1.36
+[038] FINAL Club Athletico Paulistano | Judas Bettencourt fam=1 duel=-7.49 on_target=0.692 goal=0.242
+[038] FINAL Judas Bettencourt: no alvo sem gol (roll=0.749)
+[039] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[039] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.926
+[040] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[040] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.816
+[041] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[041] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.433 roll=0.198
+[041] JOGADA Club Nacional de São Paulo | Martinho Supla x Antonelo Álvares line=5 duel=44.67 corte=-1.55
+[041] FINAL Club Nacional de São Paulo | Taciano Queiroz fam=5 duel=-9.04 on_target=0.599 goal=0.153
+[041] FINAL Taciano Queiroz: fora/alvo perdido (roll=0.618)
+[042] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[042] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.433 roll=0.483
+[043] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[043] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.437
+[044] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[044] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.159
+[044] JOGADA Club Athletico Paulistano | Madaleno Luz x Daniel Frederiques line=4 duel=2.20 corte=-1.11
+[044] FINAL Club Athletico Paulistano | Bernardinho fam=1 duel=-6.55 on_target=0.691 goal=0.242
+[044] FINAL Bernardinho: no alvo sem gol (roll=0.538)
+[045] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[045] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.410 roll=0.588
+[046] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[046] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.382 roll=0.621
+[047] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[047] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.402 roll=0.667
+[048] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[048] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.402 roll=0.679
+[049] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[049] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.382 roll=0.250
+[049] JOGADA Club Athletico Paulistano | Remígio Diniz x Martinho Supla line=5 duel=-8.57 corte=-1.36
+[049] JOGADA falhou: Martinho Supla cortou
+[050] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[050] SUB Club Athletico Paulistano: saiu Bernardinho (SA) | entrou Tadeu Góes (PD) | subs=1/5
+[050] SUB Club Nacional de São Paulo: saiu Taciano Queiroz (SA) | entrou Hariel Vasconcellos (SA) | subs=1/5
+[050] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.386 roll=0.687
+[051] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[051] SUB Club Athletico Paulistano: saiu Judas Bettencourt (CA) | entrou Guimar Menezes (PD) | subs=2/5
+[051] SUB Club Nacional de São Paulo: saiu Bernardo Filho do Sapateiro Josias (CA) | entrou Alítio Nunes (CA) | subs=2/5
+[051] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.382 roll=0.957
+[052] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[052] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.375 roll=0.392
+[053] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[053] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.375 roll=0.678
+[054] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[054] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.382 roll=0.528
+[055] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[055] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.375 roll=0.962
+[056] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[056] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.403 roll=0.293
+[056] JOGADA Club Nacional de São Paulo | Romano Barboza x Guimar Menezes line=3 duel=21.77 corte=-1.30
+[056] FINAL Club Nacional de São Paulo | Romano Barboza fam=5 duel=-2.55 on_target=0.599 goal=0.156
+[056] FINAL Romano Barboza: no alvo sem gol (roll=0.435)
+[057] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[057] SUB Club Athletico Paulistano: saiu Almurtão Falcao (MA) | entrou Isaltino Amorim (MC) | subs=3/5
+[057] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.406 roll=0.262
+[057] JOGADA Club Athletico Paulistano | Guimar Menezes x Daniel Frederiques line=5 duel=93.07 corte=-1.86
+[057] FINAL Club Athletico Paulistano | Tadeu Góes fam=3 duel=1.41 on_target=0.620 goal=0.186
+[057] FINAL Tadeu Góes: fora/alvo perdido (roll=0.880)
+[058] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[058] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.405 roll=0.104
+[058] JOGADA Club Nacional de São Paulo | Martinho Supla x Miguel Rosa line=3 duel=2.55 corte=-1.30
+[058] FINAL Club Nacional de São Paulo | Fred Santos fam=5 duel=-3.87 on_target=0.593 goal=0.153
+[058] FINAL Fred Santos: fora/alvo perdido (roll=0.976)
+[059] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[059] SUB Club Athletico Paulistano: saiu Remígio Diniz (ZAG) | entrou Dírio Machado (ZAG) | subs=4/5
+[059] SUB Club Nacional de São Paulo: saiu Gomes Prates (MA) | entrou Cláudio Nápoles (MA) | subs=3/5
+[059] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.409 roll=0.985
+[060] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[060] SUB Club Athletico Paulistano: saiu Madaleno Luz (LD) | entrou Vital Antunes (AE) | subs=5/5
+[060] SUB Club Nacional de São Paulo: saiu Joselino Siqueira (ZAG) | entrou Yuri Queiroz (VOL) | subs=4/5
+[060] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.410 roll=0.066
+[060] JOGADA Club Nacional de São Paulo | Romano Barboza x Vital Antunes line=3 duel=14.63 corte=-1.30
+[060] FINAL Club Nacional de São Paulo | Hariel Vasconcellos fam=5 duel=16.71 on_target=0.595 goal=0.164
+[060] FINAL Hariel Vasconcellos: fora/alvo perdido (roll=0.700)
+[061] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 0 Club Nacional de São Paulo
+[061] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.410 roll=0.196
+[061] JOGADA Club Nacional de São Paulo | Noé Carvalho x Antonelo Álvares line=3 duel=4.59 corte=-1.30
+[061] FINAL Club Nacional de São Paulo | Yuri Queiroz fam=5 duel=11.38 on_target=0.594 goal=0.161
+[061] FINAL Yuri Queiroz: GOL subtipo=FALTA (roll=0.025)
+[062] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[062] SUB Club Nacional de São Paulo: saiu Martinho Supla (AE) | entrou Roriz Florencio (LE) | subs=5/5
+[062] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.445 roll=0.992
+[063] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[063] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.445 roll=0.146
+[063] JOGADA Club Nacional de São Paulo | Fred Santos x Antonelo Álvares line=5 duel=-3.60 corte=-1.55
+[063] JOGADA falhou: Antonelo Álvares cortou
+[064] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[064] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.453 roll=0.041
+[064] JOGADA Club Athletico Paulistano | Isaltino Amorim x Fred Santos line=4 duel=17.13 corte=-1.09
+[064] FINAL Club Athletico Paulistano | Tadeu Góes fam=1 duel=38.92 on_target=0.685 goal=0.259
+[064] FINAL Tadeu Góes: no alvo sem gol (roll=0.747)
+[065] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[065] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.445 roll=0.488
+[066] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[066] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.445 roll=0.826
+[067] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[067] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.445 roll=0.122
+[067] JOGADA Club Nacional de São Paulo | Daniel Frederiques x Vital Antunes line=5 duel=57.17 corte=-1.55
+[067] FINAL Club Nacional de São Paulo | Hariel Vasconcellos fam=5 duel=12.86 on_target=0.595 goal=0.162
+[067] FINAL Hariel Vasconcellos: no alvo sem gol (roll=0.214)
+[068] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[068] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.449 roll=0.710
+[069] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[069] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.449 roll=0.161
+[069] JOGADA Club Nacional de São Paulo | Alítio Nunes x Boavida Branco line=4 duel=1.84 corte=-1.30
+[069] FINAL Club Nacional de São Paulo | Alítio Nunes fam=5 duel=10.28 on_target=0.596 goal=0.162
+[069] FINAL Alítio Nunes: no alvo sem gol (roll=0.178)
+[070] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[070] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.464 roll=0.835
+[071] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[071] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.463 roll=0.264
+[071] JOGADA Club Nacional de São Paulo | Fred Santos x Guimar Menezes line=5 duel=53.51 corte=-1.55
+[071] FINAL Club Nacional de São Paulo | Hariel Vasconcellos fam=5 duel=8.07 on_target=0.583 goal=0.161
+[071] FINAL Hariel Vasconcellos: no alvo sem gol (roll=0.968)
+[072] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[072] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.453 roll=0.823
+[072] FINAL Club Athletico Paulistano | Boavida Branco fam=5 duel=10.90 on_target=0.592 goal=0.149
+[072] FINAL Boavida Branco: fora/alvo perdido (roll=0.681)
+[073] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[073] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.453 roll=0.006
+[073] JOGADA Club Athletico Paulistano | Vital Antunes x Roriz Florencio line=4 duel=72.30 corte=-1.05
+[073] FINAL Club Athletico Paulistano | Guimar Menezes fam=1 duel=25.09 on_target=0.684 goal=0.252
+[073] FINAL Guimar Menezes: no alvo sem gol (roll=0.464)
+[074] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[074] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.453 roll=0.468
+[075] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[075] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.453 roll=0.801
+[076] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[076] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.450 roll=0.094
+[076] JOGADA Club Nacional de São Paulo | Romano Barboza x Isaltino Amorim line=5 duel=-11.57 corte=-1.55
+[076] JOGADA falhou: Isaltino Amorim cortou
+[077] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[077] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.489 roll=0.856
+[078] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[078] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.450 roll=0.295
+[078] JOGADA Club Nacional de São Paulo | Romano Barboza x Miguel Rosa line=5 duel=-4.92 corte=-1.55
+[078] JOGADA falhou: Miguel Rosa cortou
+[079] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[079] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.450 roll=0.550
+[080] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[080] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.450 roll=0.796
+[080] FINAL Club Nacional de São Paulo | Alítio Nunes fam=5 duel=-3.50 on_target=0.571 goal=0.150
+[080] FINAL Alítio Nunes: fora/alvo perdido (roll=0.913)
+[081] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[081] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.489 roll=0.500
+[082] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[082] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.450 roll=0.491
+[083] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[083] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.450 roll=0.567
+[084] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[084] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.489 roll=0.200
+[084] JOGADA Club Athletico Paulistano | Guimar Menezes x Cláudio Nápoles line=5 duel=51.80 corte=-1.80
+[084] FINAL Club Athletico Paulistano | Jacó Brandão fam=3 duel=-5.29 on_target=0.668 goal=0.192
+[084] FINAL Jacó Brandão: no alvo sem gol (roll=0.442)
+[085] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[085] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.450 roll=0.216
+[085] JOGADA Club Nacional de São Paulo | Noé Carvalho x Tadeu Góes line=4 duel=61.23 corte=-1.30
+[085] FINAL Club Nacional de São Paulo | Hariel Vasconcellos fam=5 duel=-3.05 on_target=0.571 goal=0.149
+[085] FINAL Hariel Vasconcellos: fora/alvo perdido (roll=0.999)
+[086] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[086] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.450 roll=0.790
+[087] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[087] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.515 roll=0.137
+[087] JOGADA Club Athletico Paulistano | Tadeu Góes x Cláudio Nápoles line=4 duel=72.84 corte=-1.05
+[087] FINAL Club Athletico Paulistano | Guimar Menezes fam=3 duel=3.77 on_target=0.705 goal=0.195
+[087] FINAL Guimar Menezes: fora/alvo perdido (roll=0.883)
+[088] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[088] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.450 roll=0.511
+[089] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[089] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.515 roll=0.089
+[089] JOGADA Club Athletico Paulistano | Isaltino Amorim x Yuri Queiroz line=4 duel=8.62 corte=-1.05
+[089] FINAL Club Athletico Paulistano | Guimar Menezes fam=1 duel=7.98 on_target=0.777 goal=0.255
+[089] FINAL Guimar Menezes: no alvo sem gol (roll=0.800)
+[090] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 1 Club Nacional de São Paulo
+[090] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.450 roll=0.215
+[090] JOGADA Club Nacional de São Paulo | Cláudio Nápoles x Miguel Rosa line=4 duel=9.86 corte=-1.30
+[090] FINAL Club Nacional de São Paulo | Cláudio Nápoles fam=5 duel=0.11 on_target=0.571 goal=0.150
+[090] FINAL Cláudio Nápoles: GOL subtipo=FALTA (roll=0.108)
+[091] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 2 Club Nacional de São Paulo
+[091] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.444 roll=0.616
+[092] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 2 Club Nacional de São Paulo
+[092] BUILD Club Athletico Paulistano vs Club Nacional de São Paulo prob=0.515 roll=0.380
+[092] JOGADA Club Athletico Paulistano | Boavida Branco x Hariel Vasconcellos line=5 duel=25.96 corte=-1.30
+[092] FINAL Club Athletico Paulistano | Guimar Menezes fam=1 duel=4.46 on_target=0.777 goal=0.253
+[092] FINAL Guimar Menezes: no alvo sem gol (roll=0.379)
+[093] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 2 Club Nacional de São Paulo
+[093] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.444 roll=0.504
+[094] posse=Club Nacional de São Paulo | placar Club Athletico Paulistano 0 x 2 Club Nacional de São Paulo
+[094] BUILD Club Nacional de São Paulo vs Club Athletico Paulistano prob=0.444 roll=0.268
+[094] JOGADA Club Nacional de São Paulo | Roriz Florencio x Guimar Menezes line=4 duel=18.55 corte=-1.30
+[094] FINAL Club Nacional de São Paulo | Hariel Vasconcellos fam=5 duel=-3.05 on_target=0.559 goal=0.143
+[094] FINAL Hariel Vasconcellos: no alvo sem gol (roll=0.375)

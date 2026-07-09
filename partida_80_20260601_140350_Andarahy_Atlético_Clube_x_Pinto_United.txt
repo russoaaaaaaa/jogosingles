@@ -1,0 +1,330 @@
+Partida #80
+Data: 1912-01-01
+Mandante: Andarahy Atlético Clube
+Visitante: Pinto United
+Placar: 6 x 0
+Seed: -
+Estádio: Arena Andarahy
+Clima: Chuva leve
+Placar tempo normal: 6 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Andarahy Atlético Clube x Pinto United | estádio=Arena Andarahy | clima=Chuva leve | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Pinto United
+[001] BUILD Andarahy Atlético Clube vs Pinto United prob=0.441 roll=0.750
+[002] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Pinto United
+[002] BUILD Andarahy Atlético Clube vs Pinto United prob=0.441 roll=0.948
+[003] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Pinto United
+[003] BUILD Andarahy Atlético Clube vs Pinto United prob=0.441 roll=0.359
+[003] JOGADA Andarahy Atlético Clube | Osvaldo Daimi x Capão Bicudo line=4 duel=49.04 corte=-1.70
+[003] FINAL Andarahy Atlético Clube | Vevé fam=5 duel=8.81 on_target=0.591 goal=0.171
+[003] FINAL Vevé: no alvo sem gol (roll=0.444)
+[004] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Pinto United
+[004] BUILD Andarahy Atlético Clube vs Pinto United prob=0.441 roll=0.668
+[005] posse=Pinto United | placar Andarahy Atlético Clube 0 x 0 Pinto United
+[005] BUILD Pinto United vs Andarahy Atlético Clube prob=0.268 roll=0.530
+[006] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Pinto United
+[006] BUILD Andarahy Atlético Clube vs Pinto United prob=0.441 roll=0.487
+[007] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Pinto United
+[007] BUILD Andarahy Atlético Clube vs Pinto United prob=0.441 roll=0.131
+[007] JOGADA Andarahy Atlético Clube | Ptolomeu Garcia x Júlio do Cocoricó line=5 duel=135.32 corte=-2.45
+[007] FINAL Andarahy Atlético Clube | Vizeu Júnior fam=5 duel=-2.03 on_target=0.590 goal=0.165
+[007] FINAL Vizeu Júnior: no alvo sem gol (roll=0.768)
+[008] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Pinto United
+[008] BUILD Andarahy Atlético Clube vs Pinto United prob=0.441 roll=0.692
+[009] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Pinto United
+[009] BUILD Andarahy Atlético Clube vs Pinto United prob=0.441 roll=0.282
+[009] JOGADA Andarahy Atlético Clube | Vizeu Júnior x Júlio do Cocoricó line=3 duel=98.46 corte=-1.70
+[009] FINAL Andarahy Atlético Clube | Erasmo do Carmo fam=5 duel=-8.72 on_target=0.589 goal=0.162
+[009] FINAL Erasmo do Carmo: fora/alvo perdido (roll=0.634)
+[010] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 0 x 0 Pinto United
+[010] BUILD Andarahy Atlético Clube vs Pinto United prob=0.441 roll=0.084
+[010] JOGADA Andarahy Atlético Clube | Juan Ferraresi x Ovoberto line=4 duel=35.15 corte=-1.70
+[010] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=12.81 on_target=0.590 goal=0.172
+[010] FINAL Ptolomeu Garcia: GOL subtipo=FALTA (roll=0.079)
+[011] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 0 Pinto United
+[011] BUILD Andarahy Atlético Clube vs Pinto United prob=0.513 roll=0.784
+[012] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 0 Pinto United
+[012] BUILD Andarahy Atlético Clube vs Pinto United prob=0.513 roll=0.989
+[013] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 0 Pinto United
+[013] BUILD Andarahy Atlético Clube vs Pinto United prob=0.513 roll=0.957
+[014] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 1 x 0 Pinto United
+[014] BUILD Andarahy Atlético Clube vs Pinto United prob=0.513 roll=0.116
+[014] JOGADA Andarahy Atlético Clube | Osvaldo Daimi x Capão Bicudo line=4 duel=47.88 corte=-1.70
+[014] FINAL Andarahy Atlético Clube | Vevé fam=5 duel=-59.09 on_target=0.633 goal=0.148
+[014] FINAL Vevé: GOL subtipo=FALTA (roll=0.093)
+[015] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[015] BUILD Andarahy Atlético Clube vs Pinto United prob=0.505 roll=0.991
+[016] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[016] BUILD Andarahy Atlético Clube vs Pinto United prob=0.505 roll=0.211
+[016] JOGADA Andarahy Atlético Clube | Sandro Delchiaro x Júlio do Cocoricó line=4 duel=39.35 corte=-1.70
+[016] FINAL Andarahy Atlético Clube | Vizeu Júnior fam=5 duel=-4.11 on_target=0.616 goal=0.166
+[016] FINAL Vizeu Júnior: fora/alvo perdido (roll=0.897)
+[017] posse=Pinto United | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[017] BUILD Pinto United vs Andarahy Atlético Clube prob=0.357 roll=0.862
+[018] posse=Pinto United | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[018] BUILD Pinto United vs Andarahy Atlético Clube prob=0.357 roll=0.152
+[018] JOGADA Pinto United | Elisson Gusmão x Cláudio Maciel Fonseca line=3 duel=-7.22 corte=-1.07
+[018] JOGADA falhou: Cláudio Maciel Fonseca cortou
+[019] posse=Pinto United | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[019] BUILD Pinto United vs Andarahy Atlético Clube prob=0.357 roll=0.698
+[020] posse=Pinto United | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[020] BUILD Pinto United vs Andarahy Atlético Clube prob=0.357 roll=0.672
+[021] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[021] BUILD Andarahy Atlético Clube vs Pinto United prob=0.543 roll=0.591
+[022] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[022] BUILD Andarahy Atlético Clube vs Pinto United prob=0.543 roll=0.576
+[023] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[023] BUILD Andarahy Atlético Clube vs Pinto United prob=0.543 roll=0.855
+[024] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[024] BUILD Andarahy Atlético Clube vs Pinto United prob=0.543 roll=0.104
+[024] JOGADA Andarahy Atlético Clube | Vizeu Júnior x Elisson Gusmão line=3 duel=-1.63 corte=-1.70
+[024] FINAL Andarahy Atlético Clube | Maurílio Barros fam=5 duel=8.26 on_target=0.649 goal=0.177
+[024] FINAL Maurílio Barros: fora/alvo perdido (roll=0.710)
+[025] posse=Pinto United | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[025] BUILD Pinto United vs Andarahy Atlético Clube prob=0.384 roll=0.796
+[026] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[026] BUILD Andarahy Atlético Clube vs Pinto United prob=0.543 roll=0.270
+[026] JOGADA Andarahy Atlético Clube | Osvaldo Daimi x Mairã Coxinha line=4 duel=37.30 corte=-1.70
+[026] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=16.52 on_target=0.650 goal=0.181
+[026] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.782)
+[027] posse=Pinto United | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[027] BUILD Pinto United vs Andarahy Atlético Clube prob=0.384 roll=0.082
+[027] JOGADA Pinto United | Áquila Frangalho x Juan Ferraresi line=4 duel=-7.20 corte=-1.07
+[027] JOGADA falhou: Juan Ferraresi cortou
+[028] posse=Pinto United | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[028] BUILD Pinto United vs Andarahy Atlético Clube prob=0.384 roll=0.132
+[028] JOGADA Pinto United | Ladislau Alves x Vevé line=4 duel=18.09 corte=-1.07
+[028] JOGADA Pinto United | Áquila Frangalho x Cláudio Maciel Fonseca line=4 duel=-20.17 corte=-1.07
+[028] FINAL Pinto United | Áquila Frangalho fam=5 duel=-32.77 on_target=0.650 goal=0.141
+[028] FINAL Áquila Frangalho: fora/alvo perdido (roll=0.870)
+[029] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[029] BUILD Andarahy Atlético Clube vs Pinto United prob=0.543 roll=0.058
+[029] JOGADA Andarahy Atlético Clube | Vevé x Capão Bicudo line=4 duel=34.30 corte=-1.70
+[029] FINAL Andarahy Atlético Clube | Vizeu Júnior fam=5 duel=-63.50 on_target=0.645 goal=0.142
+[029] FINAL Vizeu Júnior: fora/alvo perdido (roll=0.905)
+[030] posse=Pinto United | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[030] BUILD Pinto United vs Andarahy Atlético Clube prob=0.384 roll=0.799
+[031] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[031] BUILD Andarahy Atlético Clube vs Pinto United prob=0.543 roll=0.930
+[032] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[032] BUILD Andarahy Atlético Clube vs Pinto United prob=0.545 roll=0.503
+[032] JOGADA Andarahy Atlético Clube | Juan Ferraresi x Mairã Coxinha line=4 duel=68.03 corte=-1.70
+[032] FINAL Andarahy Atlético Clube | Vevé fam=5 duel=-57.94 on_target=0.646 goal=0.146
+[032] FINAL Vevé: no alvo sem gol (roll=0.679)
+[033] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[033] BUILD Andarahy Atlético Clube vs Pinto United prob=0.545 roll=0.408
+[033] JOGADA Andarahy Atlético Clube | Heitor Barbosa x Kuaray Gato line=5 duel=-6.55 corte=-1.95
+[033] JOGADA falhou: Kuaray Gato cortou
+[034] posse=Pinto United | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[034] BUILD Pinto United vs Andarahy Atlético Clube prob=0.384 roll=0.968
+[035] posse=Pinto United | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[035] BUILD Pinto United vs Andarahy Atlético Clube prob=0.384 roll=0.084
+[035] JOGADA Pinto United | Áquila Frangalho x Cláudio Maciel Fonseca line=3 duel=-20.49 corte=-1.06
+[036] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[036] BUILD Andarahy Atlético Clube vs Pinto United prob=0.545 roll=0.905
+[037] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[037] BUILD Andarahy Atlético Clube vs Pinto United prob=0.545 roll=0.147
+[037] JOGADA Andarahy Atlético Clube | Ptolomeu Garcia x Elisson Gusmão line=3 duel=25.23 corte=-1.70
+[037] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=17.78 on_target=0.650 goal=0.183
+[037] FINAL Ptolomeu Garcia: no alvo sem gol (roll=0.338)
+[038] posse=Pinto United | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[038] BUILD Pinto United vs Andarahy Atlético Clube prob=0.384 roll=0.718
+[039] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 2 x 0 Pinto United
+[039] BUILD Andarahy Atlético Clube vs Pinto United prob=0.545 roll=0.410
+[039] JOGADA Andarahy Atlético Clube | Juan Ferraresi x Ovoberto line=4 duel=61.48 corte=-1.70
+[039] FINAL Andarahy Atlético Clube | Erasmo do Carmo fam=5 duel=-0.51 on_target=0.650 goal=0.174
+[039] FINAL Erasmo do Carmo: GOL subtipo=FALTA (roll=0.082)
+[040] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[040] BUILD Andarahy Atlético Clube vs Pinto United prob=0.536 roll=0.706
+[041] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[041] BUILD Andarahy Atlético Clube vs Pinto United prob=0.536 roll=0.612
+[042] posse=Pinto United | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[042] BUILD Pinto United vs Andarahy Atlético Clube prob=0.384 roll=0.993
+[043] posse=Pinto United | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[043] BUILD Pinto United vs Andarahy Atlético Clube prob=0.384 roll=0.204
+[043] JOGADA Pinto United | Jetro Trindade x Erasmo do Carmo line=3 duel=-22.20 corte=-1.06
+[043] JOGADA falhou: Erasmo do Carmo cortou
+[044] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[044] BUILD Andarahy Atlético Clube vs Pinto United prob=0.536 roll=0.979
+[045] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[045] BUILD Andarahy Atlético Clube vs Pinto United prob=0.536 roll=0.213
+[045] JOGADA Andarahy Atlético Clube | Osvaldo Daimi x Ladislau Alves line=4 duel=40.47 corte=-1.70
+[045] FINAL Andarahy Atlético Clube | Vevé fam=5 duel=-1.37 on_target=0.629 goal=0.165
+[045] FINAL Vevé: no alvo sem gol (roll=0.672)
+[046] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[046] BUILD Andarahy Atlético Clube vs Pinto United prob=0.498 roll=0.698
+[047] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[047] BUILD Andarahy Atlético Clube vs Pinto United prob=0.498 roll=0.741
+[048] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[048] BUILD Andarahy Atlético Clube vs Pinto United prob=0.498 roll=0.144
+[048] JOGADA Andarahy Atlético Clube | Maurílio Barros x Jetro Trindade line=3 duel=65.17 corte=-1.70
+[048] FINAL Andarahy Atlético Clube | Vevé fam=5 duel=-45.74 on_target=0.595 goal=0.140
+[048] FINAL Vevé: no alvo sem gol (roll=0.642)
+[049] posse=Pinto United | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[049] BUILD Pinto United vs Andarahy Atlético Clube prob=0.357 roll=0.069
+[049] JOGADA Pinto United | Júlio do Cocoricó x Vizeu Júnior line=3 duel=12.51 corte=-1.06
+[049] JOGADA Pinto United | Ladislau Alves x Vevé line=4 duel=13.42 corte=-1.06
+[049] FINAL Pinto United | Júlio do Cocoricó fam=3 duel=-12.56 on_target=0.659 goal=0.195
+[049] FINAL Júlio do Cocoricó: fora/alvo perdido (roll=0.719)
+[050] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[050] SUB Andarahy Atlético Clube: saiu Vevé (MA) | entrou Roberto Paiva Gomes (MC) | subs=1/5
+[050] BUILD Andarahy Atlético Clube vs Pinto United prob=0.497 roll=0.082
+[050] JOGADA Andarahy Atlético Clube | Sandro Delchiaro x Kuaray Gato line=4 duel=-8.50 corte=-1.70
+[050] JOGADA falhou: Kuaray Gato cortou
+[051] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[051] SUB Andarahy Atlético Clube: saiu Vizeu Júnior (CA) | entrou Augusto Ventura (CA) | subs=2/5
+[051] BUILD Andarahy Atlético Clube vs Pinto United prob=0.483 roll=0.134
+[051] JOGADA Andarahy Atlético Clube | Roberto Paiva Gomes x Falo Furioso line=4 duel=45.82 corte=-1.70
+[051] FINAL Andarahy Atlético Clube | Heitor Barbosa fam=5 duel=-11.64 on_target=0.596 goal=0.156
+[051] FINAL Heitor Barbosa: fora/alvo perdido (roll=0.891)
+[052] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[052] SUB Andarahy Atlético Clube: saiu Heitor Barbosa (VOL) | entrou Fabiano Maldonado (MC) | subs=3/5
+[052] BUILD Andarahy Atlético Clube vs Pinto United prob=0.484 roll=0.029
+[052] JOGADA Andarahy Atlético Clube | Erasmo do Carmo x Júlio do Cocoricó line=4 duel=91.18 corte=-1.70
+[052] FINAL Andarahy Atlético Clube | Augusto Ventura fam=5 duel=-13.08 on_target=0.596 goal=0.156
+[052] FINAL Augusto Ventura: no alvo sem gol (roll=0.693)
+[053] posse=Pinto United | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[053] BUILD Pinto United vs Andarahy Atlético Clube prob=0.359 roll=0.298
+[053] JOGADA Pinto United | Elisson Gusmão x Cláudio Maciel Fonseca line=3 duel=38.80 corte=-1.05
+[053] JOGADA Pinto United | Capão Bicudo x Fabiano Maldonado line=4 duel=-18.04 corte=-1.05
+[053] JOGADA falhou: Fabiano Maldonado cortou
+[054] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[054] SUB Pinto United: saiu Áquila Frangalho (LD) | entrou Paulo Codornaldo (LD) | subs=1/5
+[054] BUILD Andarahy Atlético Clube vs Pinto United prob=0.485 roll=0.360
+[054] JOGADA Andarahy Atlético Clube | Maurílio Barros x Falo Furioso line=4 duel=32.79 corte=-1.70
+[054] FINAL Andarahy Atlético Clube | Fabiano Maldonado fam=5 duel=-36.23 on_target=0.595 goal=0.145
+[054] FINAL Fabiano Maldonado: fora/alvo perdido (roll=0.899)
+[055] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[055] BUILD Andarahy Atlético Clube vs Pinto United prob=0.485 roll=0.615
+[056] posse=Pinto United | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[056] BUILD Pinto United vs Andarahy Atlético Clube prob=0.385 roll=0.204
+[056] JOGADA Pinto United | Jetro Trindade x Roberto Paiva Gomes line=2 duel=-29.13 corte=-1.05
+[056] JOGADA falhou: Roberto Paiva Gomes cortou
+[057] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[057] SUB Pinto United: saiu Júlio do Cocoricó (CA) | entrou Oribá (PD) | subs=2/5
+[057] BUILD Andarahy Atlético Clube vs Pinto United prob=0.521 roll=0.705
+[058] posse=Pinto United | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[058] SUB Pinto United: saiu Mairã Coxinha (MC) | entrou Mairubi Asinha (VOL) | subs=3/5
+[058] BUILD Pinto United vs Andarahy Atlético Clube prob=0.358 roll=0.901
+[059] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[059] SUB Pinto United: saiu Ladislau Alves (MD) | entrou Urbino Pinguino (MD) | subs=4/5
+[059] BUILD Andarahy Atlético Clube vs Pinto United prob=0.522 roll=0.354
+[059] JOGADA Andarahy Atlético Clube | Maurílio Barros x Ovoberto line=3 duel=16.95 corte=-1.70
+[059] FINAL Andarahy Atlético Clube | Roberto Paiva Gomes fam=5 duel=17.27 on_target=0.630 goal=0.175
+[059] FINAL Roberto Paiva Gomes: no alvo sem gol (roll=0.747)
+[060] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[060] BUILD Andarahy Atlético Clube vs Pinto United prob=0.524 roll=0.979
+[061] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[061] BUILD Andarahy Atlético Clube vs Pinto United prob=0.524 roll=0.331
+[061] JOGADA Andarahy Atlético Clube | Sandro Delchiaro x Paulo Codornaldo line=5 duel=17.85 corte=-1.95
+[061] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=-27.26 on_target=0.628 goal=0.154
+[061] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.644)
+[062] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[062] BUILD Andarahy Atlético Clube vs Pinto United prob=0.524 roll=0.643
+[063] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 3 x 0 Pinto United
+[063] SUB Pinto United: saiu Ovoberto (MC) | entrou Raimundo Frango Jeba (VOL) | subs=5/5
+[063] BUILD Andarahy Atlético Clube vs Pinto United prob=0.525 roll=0.215
+[063] JOGADA Andarahy Atlético Clube | Fabiano Maldonado x Urbino Pinguino line=3 duel=30.83 corte=-1.70
+[063] FINAL Andarahy Atlético Clube | Maurílio Barros fam=5 duel=-37.33 on_target=0.626 goal=0.149
+[063] FINAL Maurílio Barros: GOL subtipo=FALTA (roll=0.090)
+[064] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 4 x 0 Pinto United
+[064] BUILD Andarahy Atlético Clube vs Pinto United prob=0.516 roll=0.170
+[064] JOGADA Andarahy Atlético Clube | Sandro Delchiaro x Oribá line=4 duel=40.13 corte=-1.70
+[064] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=20.38 on_target=0.610 goal=0.169
+[064] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.781)
+[065] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 4 x 0 Pinto United
+[065] BUILD Andarahy Atlético Clube vs Pinto United prob=0.516 roll=0.116
+[065] JOGADA Andarahy Atlético Clube | Ptolomeu Garcia x Capão Bicudo line=5 duel=45.75 corte=-2.45
+[065] FINAL Andarahy Atlético Clube | Augusto Ventura fam=5 duel=-10.56 on_target=0.606 goal=0.155
+[065] FINAL Augusto Ventura: GOL subtipo=FALTA (roll=0.007)
+[066] posse=Pinto United | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[066] BUILD Pinto United vs Andarahy Atlético Clube prob=0.352 roll=0.050
+[066] JOGADA Pinto United | Kuaray Gato x Maurílio Barros line=4 duel=-9.70 corte=-1.05
+[067] posse=Pinto United | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[067] BUILD Pinto United vs Andarahy Atlético Clube prob=0.352 roll=0.614
+[068] posse=Pinto United | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[068] BUILD Pinto United vs Andarahy Atlético Clube prob=0.352 roll=0.245
+[068] JOGADA Pinto United | Raimundo Frango Jeba x Cláudio Maciel Fonseca line=3 duel=1.73 corte=-1.05
+[068] JOGADA Pinto United | Elisson Gusmão x Juan Ferraresi line=4 duel=-10.91 corte=-1.05
+[069] posse=Pinto United | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[069] BUILD Pinto United vs Andarahy Atlético Clube prob=0.352 roll=0.613
+[070] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[070] BUILD Andarahy Atlético Clube vs Pinto United prob=0.531 roll=0.744
+[071] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[071] BUILD Andarahy Atlético Clube vs Pinto United prob=0.531 roll=0.988
+[072] posse=Pinto United | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[072] BUILD Pinto United vs Andarahy Atlético Clube prob=0.352 roll=0.504
+[073] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[073] BUILD Andarahy Atlético Clube vs Pinto United prob=0.531 roll=0.997
+[074] posse=Pinto United | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[074] BUILD Pinto United vs Andarahy Atlético Clube prob=0.352 roll=0.300
+[074] JOGADA Pinto United | Mairubi Asinha x Maurílio Barros line=3 duel=58.02 corte=-1.01
+[074] JOGADA Pinto United | Jetro Trindade x Maurílio Barros line=4 duel=-10.52 corte=-1.01
+[075] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[075] BUILD Andarahy Atlético Clube vs Pinto United prob=0.531 roll=0.941
+[076] posse=Pinto United | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[076] BUILD Pinto United vs Andarahy Atlético Clube prob=0.379 roll=0.823
+[077] posse=Pinto United | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[077] BUILD Pinto United vs Andarahy Atlético Clube prob=0.379 roll=0.575
+[078] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[078] BUILD Andarahy Atlético Clube vs Pinto United prob=0.515 roll=0.748
+[079] posse=Pinto United | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[079] BUILD Pinto United vs Andarahy Atlético Clube prob=0.379 roll=0.564
+[080] posse=Pinto United | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[080] BUILD Pinto United vs Andarahy Atlético Clube prob=0.379 roll=0.167
+[080] JOGADA Pinto United | Capão Bicudo x Fabiano Maldonado line=3 duel=-10.23 corte=-1.01
+[080] JOGADA falhou: Fabiano Maldonado cortou
+[081] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[081] BUILD Andarahy Atlético Clube vs Pinto United prob=0.515 roll=0.483
+[081] JOGADA Andarahy Atlético Clube | Roberto Paiva Gomes x Raimundo Frango Jeba line=4 duel=5.96 corte=-1.70
+[081] FINAL Andarahy Atlético Clube | Roberto Paiva Gomes fam=5 duel=-36.64 on_target=0.584 goal=0.139
+[081] FINAL Roberto Paiva Gomes: fora/alvo perdido (roll=0.700)
+[082] posse=Pinto United | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[082] BUILD Pinto United vs Andarahy Atlético Clube prob=0.379 roll=0.538
+[083] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[083] BUILD Andarahy Atlético Clube vs Pinto United prob=0.515 roll=0.734
+[084] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[084] BUILD Andarahy Atlético Clube vs Pinto United prob=0.515 roll=0.460
+[084] JOGADA Andarahy Atlético Clube | Roberto Paiva Gomes x Falo Furioso line=5 duel=88.11 corte=-1.95
+[084] FINAL Andarahy Atlético Clube | Augusto Ventura fam=5 duel=-16.22 on_target=0.584 goal=0.151
+[084] FINAL Augusto Ventura: no alvo sem gol (roll=0.320)
+[085] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 5 x 0 Pinto United
+[085] BUILD Andarahy Atlético Clube vs Pinto United prob=0.515 roll=0.488
+[085] JOGADA Andarahy Atlético Clube | Fabiano Maldonado x Mairubi Asinha line=4 duel=33.83 corte=-1.70
+[085] FINAL Andarahy Atlético Clube | Augusto Ventura fam=5 duel=-48.00 on_target=0.582 goal=0.137
+[085] FINAL Augusto Ventura: GOL subtipo=FALTA (roll=0.052)
+[086] posse=Pinto United | placar Andarahy Atlético Clube 6 x 0 Pinto United
+[086] BUILD Pinto United vs Andarahy Atlético Clube prob=0.439 roll=0.922
+[087] posse=Pinto United | placar Andarahy Atlético Clube 6 x 0 Pinto United
+[087] BUILD Pinto United vs Andarahy Atlético Clube prob=0.439 roll=0.297
+[087] JOGADA Pinto United | Falo Furioso x Augusto Ventura line=3 duel=29.33 corte=-1.01
+[087] JOGADA Pinto United | Capão Bicudo x Cláudio Maciel Fonseca line=4 duel=-14.77 corte=-1.01
+[087] JOGADA falhou: Cláudio Maciel Fonseca cortou
+[088] posse=Pinto United | placar Andarahy Atlético Clube 6 x 0 Pinto United
+[088] BUILD Pinto United vs Andarahy Atlético Clube prob=0.439 roll=0.816
+[089] posse=Pinto United | placar Andarahy Atlético Clube 6 x 0 Pinto United
+[089] BUILD Pinto United vs Andarahy Atlético Clube prob=0.439 roll=0.279
+[089] JOGADA Pinto United | Falo Furioso x Fabiano Maldonado line=3 duel=-3.07 corte=-1.01
+[090] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 6 x 0 Pinto United
+[090] BUILD Andarahy Atlético Clube vs Pinto United prob=0.511 roll=0.100
+[090] JOGADA Andarahy Atlético Clube | Augusto Ventura x Oribá line=5 duel=28.83 corte=-2.45
+[090] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=9.36 on_target=0.576 goal=0.159
+[090] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.661)
+[091] posse=Pinto United | placar Andarahy Atlético Clube 6 x 0 Pinto United
+[091] BUILD Pinto United vs Andarahy Atlético Clube prob=0.439 roll=0.887
+[092] posse=Pinto United | placar Andarahy Atlético Clube 6 x 0 Pinto United
+[092] BUILD Pinto United vs Andarahy Atlético Clube prob=0.439 roll=0.583
+[093] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 6 x 0 Pinto United
+[093] BUILD Andarahy Atlético Clube vs Pinto United prob=0.511 roll=0.972
+[094] posse=Andarahy Atlético Clube | placar Andarahy Atlético Clube 6 x 0 Pinto United
+[094] BUILD Andarahy Atlético Clube vs Pinto United prob=0.511 roll=0.193
+[094] JOGADA Andarahy Atlético Clube | Erasmo do Carmo x Kuaray Gato line=5 duel=13.31 corte=-1.95
+[094] FINAL Andarahy Atlético Clube | Ptolomeu Garcia fam=5 duel=8.81 on_target=0.576 goal=0.159
+[094] FINAL Ptolomeu Garcia: fora/alvo perdido (roll=0.695)
+[095] posse=Pinto United | placar Andarahy Atlético Clube 6 x 0 Pinto United
+[095] BUILD Pinto United vs Andarahy Atlético Clube prob=0.439 roll=0.201
+[095] JOGADA Pinto United | Urbino Pinguino x Fabiano Maldonado line=2 duel=-3.99 corte=-1.01

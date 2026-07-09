@@ -1,0 +1,343 @@
+Partida #52
+Data: 1912-01-04
+Mandante: Hercules Tremvalle Club
+Visitante: Club Nacional de Fútbol
+Placar: 2 x 5
+Seed: -
+Estádio: North Sorae
+Clima: Chuva leve
+Placar tempo normal: 2 x 5
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: Club Nacional de Fútbol
+
+=== LOG VERBOSE ===
+Início: Hercules Tremvalle Club x Club Nacional de Fútbol | estádio=North Sorae | clima=Chuva leve | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 0 Club Nacional de Fútbol
+[001] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.363 roll=0.928
+[002] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 0 Club Nacional de Fútbol
+[002] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.363 roll=0.510
+[003] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 0 Club Nacional de Fútbol
+[003] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.363 roll=0.170
+[003] JOGADA Hercules Tremvalle Club | Franco Soares x Bernardino Daglio line=3 duel=-5.74 corte=-1.70
+[003] JOGADA falhou: Bernardino Daglio cortou
+[004] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 0 Club Nacional de Fútbol
+[004] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.361 roll=0.472
+[005] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 0 Club Nacional de Fútbol
+[005] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.361 roll=0.266
+[005] JOGADA Club Nacional de Fútbol | Juan Cruz Dellucci x Nam Gyu-sik line=5 duel=21.04 corte=-1.85
+[005] FINAL Club Nacional de Fútbol | Damario Ríos fam=3 duel=-0.69 on_target=0.611 goal=0.188
+[005] FINAL Damario Ríos: no alvo sem gol (roll=0.972)
+[006] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 0 Club Nacional de Fútbol
+[006] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.361 roll=0.246
+[006] JOGADA Club Nacional de Fútbol | Galtero Jiménez x Franco Soares line=4 duel=50.76 corte=-1.10
+[006] FINAL Club Nacional de Fútbol | Felippe Hernández fam=1 duel=13.87 on_target=0.676 goal=0.253
+[006] FINAL Felippe Hernández: GOL subtipo=CHUTE (roll=0.216)
+[007] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[007] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.361 roll=0.609
+[008] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[008] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.407 roll=0.696
+[009] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[009] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.361 roll=0.692
+[010] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[010] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.361 roll=0.081
+[010] JOGADA Club Nacional de Fútbol | Félix Rossati x Hector Lee line=4 duel=-4.37 corte=-1.30
+[010] JOGADA falhou: Hector Lee cortou
+[011] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[011] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.391 roll=0.028
+[011] JOGADA Club Nacional de Fútbol | Maximiliano Ruggeno x Franco Soares line=4 duel=10.92 corte=-1.30
+[011] FINAL Club Nacional de Fútbol | Juan Cruz Dellucci fam=1 duel=12.45 on_target=0.728 goal=0.268
+[011] FINAL Juan Cruz Dellucci: no alvo sem gol (roll=0.314)
+[012] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[012] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.441 roll=0.897
+[013] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[013] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.441 roll=0.593
+[014] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[014] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.391 roll=0.618
+[015] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[015] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.441 roll=0.812
+[016] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[016] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.441 roll=0.971
+[017] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[017] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.441 roll=0.219
+[017] JOGADA Hercules Tremvalle Club | Hector Lee x Maduro Corradi line=5 duel=38.00 corte=-1.95
+[017] FINAL Hercules Tremvalle Club | Nam-sun Park fam=5 duel=-58.05 on_target=0.633 goal=0.147
+[017] FINAL Nam-sun Park: no alvo sem gol (roll=0.150)
+[018] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[018] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.441 roll=0.336
+[018] JOGADA Hercules Tremvalle Club | Kim Tae x Félix Rossati line=3 duel=-34.38 corte=-1.70
+[018] JOGADA falhou: Félix Rossati cortou
+[019] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[019] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.391 roll=0.430
+[020] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[020] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.391 roll=0.977
+[021] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[021] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.533
+[022] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[022] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.182
+[022] JOGADA Hercules Tremvalle Club | Choi Taek x Bernardino Daglio line=4 duel=56.17 corte=-1.70
+[022] FINAL Hercules Tremvalle Club | Paulo Oliveira fam=5 duel=-20.12 on_target=0.667 goal=0.171
+[022] FINAL Paulo Oliveira: no alvo sem gol (roll=0.608)
+[023] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[023] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.453
+[023] JOGADA Hercules Tremvalle Club | Kim Tae x Maximiliano Ruggeno line=4 duel=59.46 corte=-1.70
+[023] FINAL Hercules Tremvalle Club | Nam-sun Park fam=5 duel=-54.42 on_target=0.666 goal=0.154
+[023] FINAL Nam-sun Park: no alvo sem gol (roll=0.819)
+[024] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[024] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.280
+[024] JOGADA Hercules Tremvalle Club | Augusto Ferreira x Juan Cruz Dellucci line=3 duel=-20.54 corte=-1.70
+[024] JOGADA falhou: Juan Cruz Dellucci cortou
+[025] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[025] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.945
+[026] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[026] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.402
+[026] JOGADA Hercules Tremvalle Club | Nam-sun Park x Damario Ríos line=4 duel=108.94 corte=-1.70
+[026] FINAL Hercules Tremvalle Club | Nam-sun Park fam=5 duel=9.07 on_target=0.670 goal=0.186
+[026] FINAL Nam-sun Park: no alvo sem gol (roll=0.391)
+[027] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[027] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.420 roll=0.305
+[027] JOGADA Club Nacional de Fútbol | Maximiliano Ruggeno x Nam-sun Park line=5 duel=34.17 corte=-1.55
+[027] FINAL Club Nacional de Fútbol | Felippe Hernández fam=1 duel=15.73 on_target=0.768 goal=0.279
+[027] FINAL Felippe Hernández: no alvo sem gol (roll=0.628)
+[028] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[028] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.420 roll=0.587
+[029] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[029] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.489
+[030] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[030] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.047
+[030] JOGADA Hercules Tremvalle Club | Choi Taek x Felippe Hernández line=5 duel=89.28 corte=-1.95
+[030] FINAL Hercules Tremvalle Club | Franco Soares fam=5 duel=-6.09 on_target=0.667 goal=0.178
+[030] FINAL Franco Soares: fora/alvo perdido (roll=0.899)
+[031] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[031] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.864
+[032] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[032] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.030
+[032] JOGADA Hercules Tremvalle Club | Nam Gyu-sik x Maximiliano Ruggeno line=5 duel=4.58 corte=-1.95
+[032] FINAL Hercules Tremvalle Club | Choi Taek fam=5 duel=-75.21 on_target=0.664 goal=0.143
+[032] FINAL Choi Taek: fora/alvo perdido (roll=0.891)
+[033] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[033] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.911
+[034] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[034] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.710
+[035] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[035] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.420 roll=0.821
+[036] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[036] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.420 roll=0.333
+[036] JOGADA Club Nacional de Fútbol | Carlos Carve Uriosti x Augusto Ferreira line=5 duel=8.93 corte=-1.55
+[036] FINAL Club Nacional de Fútbol | Felippe Hernández fam=1 duel=21.51 on_target=0.769 goal=0.282
+[036] FINAL Felippe Hernández: no alvo sem gol (roll=0.944)
+[037] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[037] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.852
+[038] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[038] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.662
+[039] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[039] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.413
+[039] JOGADA Hercules Tremvalle Club | Osvaldo Conceição x Maximiliano Ruggeno line=4 duel=28.39 corte=-1.70
+[039] FINAL Hercules Tremvalle Club | Nam-sun Park fam=5 duel=11.47 on_target=0.671 goal=0.188
+[039] FINAL Nam-sun Park: fora/alvo perdido (roll=0.794)
+[040] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 1 Club Nacional de Fútbol
+[040] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.420 roll=0.161
+[040] JOGADA Club Nacional de Fútbol | Orlín Monaldo x Franco Soares line=4 duel=75.27 corte=-1.30
+[040] FINAL Club Nacional de Fútbol | Felippe Hernández fam=3 duel=25.51 on_target=0.698 goal=0.221
+[040] FINAL Felippe Hernández: GOL subtipo=CHUTE (roll=0.129)
+[041] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 2 Club Nacional de Fútbol
+[041] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.478 roll=0.061
+[041] JOGADA Hercules Tremvalle Club | Hector Lee x Maximiliano Ruggeno line=4 duel=-16.00 corte=-1.70
+[042] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 0 x 2 Club Nacional de Fútbol
+[042] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.413 roll=0.337
+[042] JOGADA Club Nacional de Fútbol | Félix Rossati x Yi Gwang-su line=5 duel=12.41 corte=-1.55
+[042] FINAL Club Nacional de Fútbol | Orlín Monaldo fam=1 duel=13.35 on_target=0.743 goal=0.263
+[042] FINAL Orlín Monaldo: no alvo sem gol (roll=0.745)
+[043] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 0 x 2 Club Nacional de Fútbol
+[043] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.478 roll=0.109
+[043] JOGADA Hercules Tremvalle Club | Nam-sun Park x Galtero Jiménez line=4 duel=72.77 corte=-1.70
+[043] FINAL Hercules Tremvalle Club | Paulo Oliveira fam=5 duel=-21.32 on_target=0.668 goal=0.171
+[043] FINAL Paulo Oliveira: GOL subtipo=FALTA (roll=0.108)
+[044] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 1 x 2 Club Nacional de Fútbol
+[044] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.577
+[045] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 1 x 2 Club Nacional de Fútbol
+[045] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.474 roll=0.453
+[045] JOGADA Hercules Tremvalle Club | Osvaldo Conceição x Félix Rossati line=4 duel=24.24 corte=-1.70
+[045] FINAL Hercules Tremvalle Club | Nam-sun Park fam=5 duel=13.99 on_target=0.671 goal=0.189
+[045] FINAL Nam-sun Park: GOL subtipo=FALTA (roll=0.002)
+[046] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 2 Club Nacional de Fútbol
+[046] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.396 roll=0.350
+[046] JOGADA Hercules Tremvalle Club | Franco Soares x Felippe Hernández line=4 duel=26.38 corte=-1.70
+[046] FINAL Hercules Tremvalle Club | Osvaldo Conceição fam=5 duel=-12.97 on_target=0.634 goal=0.168
+[046] FINAL Osvaldo Conceição: no alvo sem gol (roll=0.206)
+[047] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 2 Club Nacional de Fútbol
+[047] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.396 roll=0.212
+[047] JOGADA Hercules Tremvalle Club | Yi Gwang-su x Maximiliano Ruggeno line=4 duel=52.77 corte=-1.70
+[047] FINAL Hercules Tremvalle Club | Nam-sun Park fam=5 duel=12.91 on_target=0.636 goal=0.181
+[047] FINAL Nam-sun Park: no alvo sem gol (roll=0.695)
+[048] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 2 Club Nacional de Fútbol
+[048] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.391 roll=0.283
+[048] JOGADA Club Nacional de Fútbol | Orlín Monaldo x Paulo Oliveira line=5 duel=50.39 corte=-1.84
+[048] FINAL Club Nacional de Fútbol | Damario Ríos fam=3 duel=-24.46 on_target=0.658 goal=0.189
+[048] FINAL Damario Ríos: fora/alvo perdido (roll=0.745)
+[049] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 2 Club Nacional de Fútbol
+[049] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.391 roll=0.531
+[050] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 2 Club Nacional de Fútbol
+[050] SUB Hercules Tremvalle Club: saiu Paulo Oliveira (SA) | entrou Baek Dong-jin (MA) | subs=1/5
+[050] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.403 roll=0.211
+[050] JOGADA Hercules Tremvalle Club | Augusto Ferreira x Juan Cruz Dellucci line=4 duel=38.07 corte=-1.70
+[050] FINAL Hercules Tremvalle Club | Nam-sun Park fam=5 duel=14.81 on_target=0.636 goal=0.182
+[050] FINAL Nam-sun Park: fora/alvo perdido (roll=0.830)
+[051] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 2 Club Nacional de Fútbol
+[051] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.403 roll=0.460
+[052] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 2 Club Nacional de Fútbol
+[052] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.390 roll=0.715
+[053] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 2 Club Nacional de Fútbol
+[053] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.403 roll=0.410
+[054] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 2 Club Nacional de Fútbol
+[054] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.390 roll=0.296
+[054] JOGADA Club Nacional de Fútbol | Orlín Monaldo x Nam Gyu-sik line=5 duel=14.88 corte=-1.84
+[054] FINAL Club Nacional de Fútbol | Felippe Hernández fam=3 duel=16.74 on_target=0.662 goal=0.210
+[054] FINAL Felippe Hernández: GOL subtipo=CABECA (roll=0.122)
+[055] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 3 Club Nacional de Fútbol
+[055] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.390 roll=0.046
+[055] JOGADA Club Nacional de Fútbol | Juan Cruz Dellucci x Choi Taek line=3 duel=21.37 corte=-1.30
+[055] FINAL Club Nacional de Fútbol | Félix Rossati fam=3 duel=19.84 on_target=0.661 goal=0.211
+[055] FINAL Félix Rossati: no alvo sem gol (roll=0.675)
+[056] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 3 Club Nacional de Fútbol
+[056] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.420 roll=0.234
+[056] JOGADA Club Nacional de Fútbol | Carlos Carve Uriosti x Nam-sun Park line=5 duel=77.89 corte=-1.55
+[056] FINAL Club Nacional de Fútbol | Damario Ríos fam=1 duel=4.50 on_target=0.766 goal=0.272
+[056] FINAL Damario Ríos: GOL subtipo=CHUTE (roll=0.130)
+[057] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[057] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.413 roll=0.531
+[058] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[058] SUB Hercules Tremvalle Club: saiu Osvaldo Conceição (MC) | entrou Gabriel Duarte (MC) | subs=2/5
+[058] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.413 roll=0.385
+[058] JOGADA Club Nacional de Fútbol | Galtero Jiménez x Kim Tae line=4 duel=-4.62 corte=-1.30
+[058] JOGADA falhou: Kim Tae cortou
+[059] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[059] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.413 roll=0.526
+[060] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[060] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.486 roll=0.736
+[061] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[061] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.413 roll=0.346
+[061] JOGADA Club Nacional de Fútbol | Carlos Carve Uriosti x Kim Tae line=4 duel=1.10 corte=-1.30
+[061] FINAL Club Nacional de Fútbol | Felippe Hernández fam=1 duel=20.93 on_target=0.745 goal=0.267
+[061] FINAL Felippe Hernández: no alvo sem gol (roll=0.707)
+[062] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[062] SUB Hercules Tremvalle Club: saiu Choi Taek (MC) | entrou Lim Chang-ho (MC) | subs=3/5
+[062] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.484 roll=0.171
+[062] JOGADA Hercules Tremvalle Club | Hector Lee x Juan Cruz Dellucci line=5 duel=0.28 corte=-1.95
+[062] FINAL Hercules Tremvalle Club | Nam-sun Park fam=5 duel=15.22 on_target=0.672 goal=0.192
+[062] FINAL Nam-sun Park: no alvo sem gol (roll=0.397)
+[063] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[063] SUB Hercules Tremvalle Club: saiu Kim Tae (ZAG) | entrou Fernando de Lima (ZAG) | subs=4/5
+[063] SUB Club Nacional de Fútbol: saiu Damario Ríos (PD) | entrou José Pérdomo (MD) | subs=1/5
+[063] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.421 roll=0.349
+[063] JOGADA Club Nacional de Fútbol | Maduro Corradi x Franco Soares line=4 duel=38.37 corte=-1.30
+[063] FINAL Club Nacional de Fútbol | Bernardino Daglio fam=1 duel=29.50 on_target=0.745 goal=0.271
+[063] FINAL Bernardino Daglio: no alvo sem gol (roll=0.850)
+[064] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[064] SUB Hercules Tremvalle Club: saiu Nam Gyu-sik (MD) | entrou Han Seong (PD) | subs=5/5
+[064] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.481 roll=0.227
+[064] JOGADA Hercules Tremvalle Club | Fernando de Lima x José Pérdomo line=3 duel=-15.36 corte=-1.70
+[064] JOGADA falhou: José Pérdomo cortou
+[065] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[065] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.421 roll=0.637
+[066] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[066] SUB Club Nacional de Fútbol: saiu Galtero Jiménez (ZAG) | entrou Killian Neudorf (ZAG) | subs=2/5
+[066] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.487 roll=0.389
+[066] JOGADA Hercules Tremvalle Club | Augusto Ferreira x Bernardino Daglio line=5 duel=18.12 corte=-1.95
+[066] FINAL Hercules Tremvalle Club | Han Seong fam=5 duel=-28.16 on_target=0.668 goal=0.169
+[066] FINAL Han Seong: no alvo sem gol (roll=0.929)
+[067] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[067] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.487 roll=0.603
+[067] FINAL Hercules Tremvalle Club | Baek Dong-jin fam=5 duel=-35.71 on_target=0.668 goal=0.166
+[067] FINAL Baek Dong-jin: no alvo sem gol (roll=0.829)
+[068] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[068] SUB Club Nacional de Fútbol: saiu Maximiliano Ruggeno (LD) | entrou Leonardo Villamor (AE) | subs=3/5
+[068] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.480 roll=0.121
+[068] JOGADA Hercules Tremvalle Club | Augusto Ferreira x Bernardino Daglio line=4 duel=-19.79 corte=-1.70
+[068] JOGADA falhou: Bernardino Daglio cortou
+[069] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[069] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.480 roll=0.844
+[070] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[070] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.423 roll=0.273
+[070] JOGADA Club Nacional de Fútbol | Juan Cruz Dellucci x Nam-sun Park line=5 duel=88.13 corte=-2.05
+[070] FINAL Club Nacional de Fútbol | Bernardino Daglio fam=3 duel=0.95 on_target=0.674 goal=0.198
+[070] FINAL Bernardino Daglio: no alvo sem gol (roll=0.821)
+[071] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[071] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.480 roll=0.186
+[071] JOGADA Hercules Tremvalle Club | Yi Gwang-su x Leonardo Villamor line=3 duel=-50.56 corte=-1.70
+[072] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[072] SUB Club Nacional de Fútbol: saiu Orlín Monaldo (PE) | entrou Agustin Lombardi (PE) | subs=4/5
+[072] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.481 roll=0.687
+[073] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 4 Club Nacional de Fútbol
+[073] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.413 roll=0.060
+[073] JOGADA Club Nacional de Fútbol | Killian Neudorf x Yi Gwang-su line=3 duel=50.36 corte=-1.30
+[073] FINAL Club Nacional de Fútbol | Juan Cruz Dellucci fam=1 duel=15.41 on_target=0.743 goal=0.264
+[073] FINAL Juan Cruz Dellucci: GOL subtipo=CHUTE (roll=0.250)
+[074] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[074] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.482 roll=0.742
+[075] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[075] SUB Club Nacional de Fútbol: saiu Juan Cruz Dellucci (MA) | entrou Lorenzo Fontecchio (MA) | subs=5/5
+[075] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.399 roll=0.634
+[076] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[076] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.387 roll=0.888
+[077] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[077] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.524 roll=0.858
+[078] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[078] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.524 roll=0.119
+[078] JOGADA Hercules Tremvalle Club | Baek Dong-jin x Carlos Carve Uriosti line=4 duel=5.38 corte=-1.70
+[078] FINAL Hercules Tremvalle Club | Baek Dong-jin fam=5 duel=13.42 on_target=0.718 goal=0.201
+[078] FINAL Baek Dong-jin: no alvo sem gol (roll=0.726)
+[079] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[079] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.387 roll=0.901
+[080] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[080] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.524 roll=0.245
+[080] JOGADA Hercules Tremvalle Club | Franco Soares x Agustin Lombardi line=4 duel=-28.41 corte=-1.70
+[080] JOGADA falhou: Agustin Lombardi cortou
+[081] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[081] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.387 roll=0.425
+[082] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[082] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.524 roll=0.161
+[082] JOGADA Hercules Tremvalle Club | Hector Lee x Félix Rossati line=5 duel=-24.25 corte=-1.95
+[082] JOGADA falhou: Félix Rossati cortou
+[083] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[083] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.524 roll=0.200
+[083] JOGADA Hercules Tremvalle Club | Lim Chang-ho x Félix Rossati line=4 duel=-4.00 corte=-1.70
+[083] JOGADA falhou: Félix Rossati cortou
+[084] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[084] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.387 roll=0.048
+[084] JOGADA Club Nacional de Fútbol | José Pérdomo x Yi Gwang-su line=5 duel=38.14 corte=-1.55
+[084] FINAL Club Nacional de Fútbol | Felippe Hernández fam=3 duel=11.87 on_target=0.641 goal=0.198
+[084] FINAL Felippe Hernández: fora/alvo perdido (roll=0.997)
+[085] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[085] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.580 roll=0.909
+[086] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[086] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.580 roll=0.233
+[086] JOGADA Hercules Tremvalle Club | Gabriel Duarte x Felippe Hernández line=4 duel=28.02 corte=-1.70
+[086] FINAL Hercules Tremvalle Club | Han Seong fam=5 duel=13.99 on_target=0.822 goal=0.207
+[086] FINAL Han Seong: no alvo sem gol (roll=0.524)
+[087] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[087] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.387 roll=0.135
+[087] JOGADA Club Nacional de Fútbol | Leonardo Villamor x Nam-sun Park line=4 duel=125.05 corte=-1.30
+[087] FINAL Club Nacional de Fútbol | Felippe Hernández fam=1 duel=12.92 on_target=0.706 goal=0.256
+[087] FINAL Felippe Hernández: fora/alvo perdido (roll=0.941)
+[088] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[088] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.580 roll=0.119
+[088] JOGADA Hercules Tremvalle Club | Franco Soares x Maduro Corradi line=5 duel=39.47 corte=-1.95
+[088] FINAL Hercules Tremvalle Club | Nam-sun Park fam=5 duel=8.14 on_target=0.823 goal=0.204
+[088] FINAL Nam-sun Park: no alvo sem gol (roll=0.371)
+[089] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[089] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.580 roll=0.827
+[090] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[090] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.580 roll=0.109
+[090] JOGADA Hercules Tremvalle Club | Yi Gwang-su x Lorenzo Fontecchio line=4 duel=-18.88 corte=-1.70
+[090] JOGADA falhou: Lorenzo Fontecchio cortou
+[091] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[091] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.387 roll=0.892
+[092] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[092] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.580 roll=0.620
+[093] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[093] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.387 roll=0.629
+[094] posse=Club Nacional de Fútbol | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[094] BUILD Club Nacional de Fútbol vs Hercules Tremvalle Club prob=0.387 roll=0.570
+[095] posse=Hercules Tremvalle Club | placar Hercules Tremvalle Club 2 x 5 Club Nacional de Fútbol
+[095] BUILD Hercules Tremvalle Club vs Club Nacional de Fútbol prob=0.580 roll=0.991

@@ -1,0 +1,339 @@
+Partida #95
+Data: 1912-01-07
+Mandante: Clube de Regatas Vasco da Gama
+Visitante: Confraria Ludopédica Reconquista
+Placar: 4 x 0
+Seed: -
+Estádio: Estádio Nau de São Gabriel
+Clima: Ensolarado
+Placar tempo normal: 4 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube de Regatas Vasco da Gama x Confraria Ludopédica Reconquista | estádio=Estádio Nau de São Gabriel | clima=Ensolarado | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[001] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.396 roll=0.692
+[002] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[002] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.396 roll=0.356
+[002] JOGADA Clube de Regatas Vasco da Gama | Moacir Siqueira Russinho x Segofredo Araújo line=4 duel=50.82 corte=-1.13
+[002] FINAL Clube de Regatas Vasco da Gama | Pedro Silva fam=1 duel=-4.80 on_target=0.674 goal=0.244
+[002] FINAL Pedro Silva: fora/alvo perdido (roll=0.753)
+[003] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[003] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.360 roll=0.551
+[004] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[004] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.360 roll=0.094
+[004] JOGADA Confraria Ludopédica Reconquista | Hermenegildo Strauss x Suspiro Menezes line=3 duel=-12.60 corte=-1.30
+[004] JOGADA falhou: Suspiro Menezes cortou
+[005] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[005] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.360 roll=0.788
+[006] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[006] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.396 roll=0.171
+[006] JOGADA Clube de Regatas Vasco da Gama | Fusiano Colón x São Sebastião line=4 duel=66.04 corte=-1.13
+[006] FINAL Clube de Regatas Vasco da Gama | Moacir Siqueira Russinho fam=1 duel=5.82 on_target=0.676 goal=0.249
+[006] FINAL Moacir Siqueira Russinho: fora/alvo perdido (roll=0.760)
+[007] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[007] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.396 roll=0.240
+[007] JOGADA Clube de Regatas Vasco da Gama | Fausto Garcia x Paulo Leleco line=5 duel=68.35 corte=-1.38
+[007] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=1 duel=3.10 on_target=0.675 goal=0.248
+[007] FINAL Fusiano Colón: fora/alvo perdido (roll=0.698)
+[008] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[008] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.396 roll=0.736
+[009] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[009] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.360 roll=0.878
+[010] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[010] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.360 roll=0.454
+[011] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[011] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.428 roll=0.606
+[012] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[012] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.390 roll=0.374
+[012] JOGADA Confraria Ludopédica Reconquista | São Sebastião x Júlio Martins line=2 duel=-21.58 corte=-1.30
+[012] JOGADA falhou: Júlio Martins cortou
+[013] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[013] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.428 roll=0.967
+[014] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[014] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.390 roll=0.267
+[014] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Pedro Guaraná line=3 duel=7.29 corte=-1.30
+[014] JOGADA Confraria Ludopédica Reconquista | São Sebastião x Fusiano Colón line=4 duel=21.18 corte=-1.30
+[014] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Pedro Silva line=4 duel=-5.92 corte=-1.30
+[015] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[015] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.428 roll=0.000
+[015] JOGADA Clube de Regatas Vasco da Gama | Fusiano Colón x Robert Sensacional line=4 duel=87.41 corte=-1.13
+[015] FINAL Clube de Regatas Vasco da Gama | Eduardo Freitas fam=1 duel=-0.09 on_target=0.727 goal=0.262
+[015] FINAL Eduardo Freitas: no alvo sem gol (roll=0.863)
+[016] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[016] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.428 roll=0.991
+[017] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[017] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.428 roll=0.314
+[017] JOGADA Clube de Regatas Vasco da Gama | Nininho x Based Viriato line=4 duel=94.24 corte=-1.13
+[017] FINAL Clube de Regatas Vasco da Gama | Moacir Siqueira Russinho fam=1 duel=12.50 on_target=0.730 goal=0.269
+[017] FINAL Moacir Siqueira Russinho: fora/alvo perdido (roll=0.944)
+[018] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[018] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.390 roll=0.897
+[019] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[019] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.390 roll=0.674
+[020] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[020] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.428 roll=0.563
+[021] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 0 x 0 Confraria Ludopédica Reconquista
+[021] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.461 roll=0.003
+[021] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Based Viriato line=3 duel=51.88 corte=-1.13
+[021] FINAL Clube de Regatas Vasco da Gama | Eduardo Freitas fam=1 duel=1.76 on_target=0.766 goal=0.271
+[021] FINAL Eduardo Freitas: GOL subtipo=CHUTE (roll=0.124)
+[022] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 1 x 0 Confraria Ludopédica Reconquista
+[022] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.501 roll=0.210
+[022] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Adriano Pacheco line=4 duel=3.01 corte=-1.30
+[022] FINAL Confraria Ludopédica Reconquista | Based Viriato fam=5 duel=-3.99 on_target=0.665 goal=0.173
+[022] FINAL Based Viriato: fora/alvo perdido (roll=0.869)
+[023] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 1 x 0 Confraria Ludopédica Reconquista
+[023] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.501 roll=0.088
+[023] JOGADA Confraria Ludopédica Reconquista | Hermenegildo Strauss x Moacir Siqueira Russinho line=3 duel=24.65 corte=-1.30
+[023] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Moacir Siqueira Russinho line=4 duel=24.44 corte=-1.30
+[023] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Adriano Pacheco line=5 duel=47.12 corte=-1.55
+[023] FINAL Confraria Ludopédica Reconquista | Duarte Pacheco fam=5 duel=-8.77 on_target=0.664 goal=0.171
+[023] FINAL Duarte Pacheco: fora/alvo perdido (roll=0.927)
+[024] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 1 x 0 Confraria Ludopédica Reconquista
+[024] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.501 roll=0.277
+[024] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Eduardo Freitas line=4 duel=-13.62 corte=-1.30
+[024] JOGADA falhou: Eduardo Freitas cortou
+[025] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 1 x 0 Confraria Ludopédica Reconquista
+[025] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.461 roll=0.047
+[025] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Hermenegildo Strauss line=4 duel=81.69 corte=-1.30
+[025] FINAL Clube de Regatas Vasco da Gama | Moacir Siqueira Russinho fam=1 duel=5.24 on_target=0.768 goal=0.274
+[025] FINAL Moacir Siqueira Russinho: GOL subtipo=CHUTE (roll=0.042)
+[026] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Confraria Ludopédica Reconquista
+[026] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.453 roll=0.539
+[027] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 2 x 0 Confraria Ludopédica Reconquista
+[027] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.506 roll=0.556
+[028] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 2 x 0 Confraria Ludopédica Reconquista
+[028] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.506 roll=0.263
+[028] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Moacir Siqueira Russinho line=3 duel=24.33 corte=-1.30
+[028] JOGADA Confraria Ludopédica Reconquista | São Sebastião x Pedro Silva line=4 duel=-12.75 corte=-1.30
+[028] JOGADA falhou: Pedro Silva cortou
+[029] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 2 x 0 Confraria Ludopédica Reconquista
+[029] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.506 roll=0.174
+[029] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Adriano Pacheco line=2 duel=63.98 corte=-1.30
+[029] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Nininho line=5 duel=-5.47 corte=-2.05
+[029] JOGADA falhou: Nininho cortou
+[030] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 2 x 0 Confraria Ludopédica Reconquista
+[030] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.506 roll=0.250
+[030] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Moacir Siqueira Russinho line=3 duel=30.61 corte=-1.30
+[030] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Fusiano Colón line=4 duel=47.51 corte=-1.30
+[030] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Adriano Pacheco line=4 duel=-14.01 corte=-1.30
+[031] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Confraria Ludopédica Reconquista
+[031] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.453 roll=0.396
+[031] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Narcelinho line=3 duel=-9.43 corte=-1.30
+[031] JOGADA falhou: Narcelinho cortou
+[032] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 2 x 0 Confraria Ludopédica Reconquista
+[032] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.506 roll=0.971
+[033] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 2 x 0 Confraria Ludopédica Reconquista
+[033] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.506 roll=0.359
+[033] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Adriano Pacheco line=2 duel=6.80 corte=-1.30
+[033] FINAL Confraria Ludopédica Reconquista | Martinho Dume fam=5 duel=-17.93 on_target=0.665 goal=0.167
+[033] FINAL Martinho Dume: no alvo sem gol (roll=0.928)
+[034] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 2 x 0 Confraria Ludopédica Reconquista
+[034] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.453 roll=0.050
+[034] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Duarte Pacheco line=5 duel=32.72 corte=-1.55
+[034] FINAL Clube de Regatas Vasco da Gama | Fusiano Colón fam=1 duel=-13.36 on_target=0.742 goal=0.250
+[034] FINAL Fusiano Colón: GOL subtipo=CHUTE (roll=0.161)
+[035] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[035] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.445 roll=0.599
+[036] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[036] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.445 roll=0.431
+[036] JOGADA Clube de Regatas Vasco da Gama | Eduardo Freitas x Martinho Dume line=5 duel=6.83 corte=-2.05
+[036] FINAL Clube de Regatas Vasco da Gama | Moacir Siqueira Russinho fam=1 duel=3.82 on_target=0.720 goal=0.247
+[036] FINAL Moacir Siqueira Russinho: no alvo sem gol (roll=0.688)
+[037] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[037] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.445 roll=0.978
+[038] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[038] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.509 roll=0.030
+[038] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Pedro Silva line=2 duel=78.38 corte=-1.30
+[038] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Suspiro Menezes line=4 duel=-20.48 corte=-1.30
+[039] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[039] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.445 roll=0.172
+[039] JOGADA Clube de Regatas Vasco da Gama | Pedro Guaraná x Segofredo Araújo line=4 duel=98.34 corte=-1.30
+[039] FINAL Clube de Regatas Vasco da Gama | Eduardo Freitas fam=3 duel=-12.22 on_target=0.650 goal=0.182
+[039] FINAL Eduardo Freitas: no alvo sem gol (roll=0.869)
+[040] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[040] LESÃO Clube de Regatas Vasco da Gama: Moacir Siqueira Russinho | lesão muscular séria | gravidade=seria | 11 jogo(s)
+[040] SUB Clube de Regatas Vasco da Gama: saiu Moacir Siqueira Russinho (CA) | entrou Enaldo Marcelo (CA) | subs=1/5
+[040] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.512 roll=0.217
+[040] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Pedro Silva line=4 duel=-83.20 corte=-1.30
+[040] JOGADA falhou: Pedro Silva cortou
+[041] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[041] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.512 roll=0.466
+[041] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Pedro Silva line=4 duel=-7.13 corte=-1.30
+[042] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[042] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.512 roll=0.157
+[042] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Suspiro Menezes line=4 duel=1.72 corte=-1.30
+[042] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Fusiano Colón line=5 duel=41.98 corte=-2.05
+[042] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Pedro Silva line=5 duel=-0.59 corte=-1.55
+[042] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=1 duel=1.19 on_target=0.765 goal=0.278
+[042] FINAL Segofredo Araújo: fora/alvo perdido (roll=0.983)
+[043] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[043] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.407 roll=0.481
+[044] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[044] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.512 roll=0.790
+[045] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[045] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.407 roll=0.515
+[046] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[046] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.378 roll=0.589
+[047] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[047] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.378 roll=0.952
+[048] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[048] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.477 roll=0.209
+[048] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Eduardo Freitas line=3 duel=33.72 corte=-1.30
+[048] JOGADA Confraria Ludopédica Reconquista | Martinho Dume x Adriano Pacheco line=4 duel=-16.04 corte=-1.30
+[048] JOGADA falhou: Adriano Pacheco cortou
+[049] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[049] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.477 roll=0.633
+[050] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[050] SUB Clube de Regatas Vasco da Gama: saiu Eduardo Freitas (SA) | entrou Victoriano Bandeira (SA) | subs=2/5
+[050] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.478 roll=0.725
+[051] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[051] SUB Clube de Regatas Vasco da Gama: saiu Fusiano Colón (SA) | entrou Hugo Júnior Cruz (CA) | subs=3/5
+[051] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.809
+[052] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[052] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.802
+[053] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[053] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.479 roll=0.255
+[053] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Júlio Martins line=3 duel=-9.90 corte=-1.30
+[053] JOGADA falhou: Júlio Martins cortou
+[054] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[054] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.373 roll=0.237
+[054] JOGADA Clube de Regatas Vasco da Gama | Pedro Silva x Martinho Dume line=4 duel=46.58 corte=-1.30
+[054] FINAL Clube de Regatas Vasco da Gama | Victoriano Bandeira fam=1 duel=21.61 on_target=0.683 goal=0.246
+[054] FINAL Victoriano Bandeira: no alvo sem gol (roll=0.685)
+[055] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[055] SUB Confraria Ludopédica Reconquista: saiu Martinho Dume (MC) | entrou Lécio Carrico (MC) | subs=1/5
+[055] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.481 roll=0.554
+[056] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[056] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.400 roll=0.430
+[057] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[057] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.517 roll=0.767
+[057] FINAL Confraria Ludopédica Reconquista | Based Viriato fam=5 duel=2.81 on_target=0.666 goal=0.178
+[057] FINAL Based Viriato: no alvo sem gol (roll=0.702)
+[058] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[058] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.400 roll=0.727
+[059] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[059] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.517 roll=0.658
+[060] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[060] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.520 roll=0.380
+[060] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Nininho line=3 duel=-17.71 corte=-1.30
+[061] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[061] SUB Confraria Ludopédica Reconquista: saiu Hermenegildo Strauss (LE) | entrou Tamarindo Souto (LE) | subs=2/5
+[061] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.404 roll=0.975
+[062] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[062] SUB Confraria Ludopédica Reconquista: saiu São Sebastião (ZAG) | entrou Principiano Chamberlain (ZAG) | subs=3/5
+[062] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.406 roll=0.208
+[062] JOGADA Clube de Regatas Vasco da Gama | Pedro Guaraná x Tamarindo Souto line=3 duel=-6.41 corte=-1.30
+[062] JOGADA falhou: Tamarindo Souto cortou
+[063] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[063] SUB Confraria Ludopédica Reconquista: saiu Narcelinho (ZAG) | entrou Zé Carioca (ZAG) | subs=4/5
+[063] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.407 roll=0.952
+[064] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[064] SUB Confraria Ludopédica Reconquista: saiu Based Viriato (CA) | entrou Dante Alígero (CA) | subs=5/5
+[064] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.406 roll=0.704
+[065] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[065] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.406 roll=0.818
+[066] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[066] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.406 roll=0.283
+[066] JOGADA Clube de Regatas Vasco da Gama | Adriano Pacheco x Lécio Carrico line=5 duel=-3.29 corte=-1.55
+[066] JOGADA falhou: Lécio Carrico cortou
+[067] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[067] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.406 roll=0.616
+[068] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[068] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.406 roll=0.722
+[069] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[069] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.450 roll=0.489
+[070] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[070] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.450 roll=0.231
+[070] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Júlio Martins line=3 duel=-7.17 corte=-1.30
+[070] JOGADA falhou: Júlio Martins cortou
+[071] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[071] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.450 roll=0.665
+[072] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[072] SUB Clube de Regatas Vasco da Gama: saiu Pedro Guaraná (MA) | entrou Rodrigo Justino (ME) | subs=4/5
+[072] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.402 roll=0.962
+[073] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[073] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.402 roll=0.575
+[074] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[074] SUB Clube de Regatas Vasco da Gama: saiu Enaldo Marcelo (CA) | entrou Ronaldo Mendonça (VOL) | subs=5/5
+[074] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.453 roll=0.482
+[075] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[075] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.400 roll=0.542
+[076] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[076] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.489 roll=0.097
+[076] JOGADA Confraria Ludopédica Reconquista | Lécio Carrico x Fausto Garcia line=3 duel=14.68 corte=-1.30
+[076] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=5 duel=-1.62 on_target=0.714 goal=0.187
+[076] FINAL Segofredo Araújo: fora/alvo perdido (roll=0.968)
+[077] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[077] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.489 roll=0.782
+[078] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[078] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.489 roll=0.789
+[079] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[079] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.489 roll=0.360
+[079] JOGADA Confraria Ludopédica Reconquista | Tamarindo Souto x Pedro Silva line=3 duel=2.10 corte=-1.30
+[079] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Suspiro Menezes line=4 duel=-8.77 corte=-1.30
+[079] JOGADA falhou: Suspiro Menezes cortou
+[080] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[080] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.489 roll=0.359
+[080] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Júlio Martins line=3 duel=-8.08 corte=-1.30
+[080] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=5 duel=-1.40 on_target=0.714 goal=0.187
+[080] FINAL Segofredo Araújo: no alvo sem gol (roll=0.733)
+[081] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[081] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.388 roll=0.703
+[082] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[082] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.489 roll=0.552
+[083] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[083] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.489 roll=0.061
+[083] JOGADA Confraria Ludopédica Reconquista | Segofredo Araújo x Suspiro Menezes line=3 duel=-7.49 corte=-1.30
+[083] JOGADA falhou: Suspiro Menezes cortou
+[084] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[084] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.489 roll=0.013
+[084] JOGADA Confraria Ludopédica Reconquista | Duarte Pacheco x Hugo Júnior Cruz line=4 duel=17.68 corte=-1.30
+[084] FINAL Confraria Ludopédica Reconquista | Robert Sensacional fam=5 duel=5.24 on_target=0.715 goal=0.197
+[084] FINAL Robert Sensacional: no alvo sem gol (roll=0.764)
+[085] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[085] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.566 roll=0.317
+[085] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Fausto Garcia line=3 duel=0.63 corte=-1.30
+[085] JOGADA Confraria Ludopédica Reconquista | Paulo Leleco x Rodrigo Justino line=5 duel=19.64 corte=-1.55
+[085] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Hugo Júnior Cruz line=5 duel=18.78 corte=-1.55
+[085] FINAL Confraria Ludopédica Reconquista | Segofredo Araújo fam=1 duel=-1.37 on_target=0.920 goal=0.299
+[085] FINAL Segofredo Araújo: no alvo sem gol (roll=0.752)
+[086] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[086] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.388 roll=0.379
+[086] JOGADA Clube de Regatas Vasco da Gama | Victoriano Bandeira x Cavaleiro Asturiano line=3 duel=5.30 corte=-1.30
+[086] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=1 duel=-4.00 on_target=0.703 goal=0.247
+[086] FINAL Hugo Júnior Cruz: fora/alvo perdido (roll=0.843)
+[087] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[087] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.566 roll=0.847
+[088] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[088] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.566 roll=0.065
+[088] JOGADA Confraria Ludopédica Reconquista | Principiano Chamberlain x Fausto Garcia line=3 duel=26.25 corte=-1.30
+[088] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Pedro Silva line=4 duel=-8.66 corte=-1.30
+[089] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[089] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.566 roll=0.496
+[089] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Suspiro Menezes line=4 duel=-10.32 corte=-1.30
+[089] JOGADA falhou: Suspiro Menezes cortou
+[090] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[090] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.388 roll=0.559
+[091] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[091] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.566 roll=0.349
+[091] JOGADA Confraria Ludopédica Reconquista | Cavaleiro Asturiano x Rodrigo Justino line=2 duel=-18.72 corte=-1.30
+[092] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[092] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.388 roll=0.473
+[093] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[093] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.388 roll=0.033
+[093] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Segofredo Araújo line=4 duel=13.17 corte=-1.30
+[093] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=1 duel=-4.00 on_target=0.703 goal=0.247
+[093] FINAL Hugo Júnior Cruz: no alvo sem gol (roll=0.598)
+[094] posse=Clube de Regatas Vasco da Gama | placar Clube de Regatas Vasco da Gama 3 x 0 Confraria Ludopédica Reconquista
+[094] BUILD Clube de Regatas Vasco da Gama vs Confraria Ludopédica Reconquista prob=0.388 roll=0.286
+[094] JOGADA Clube de Regatas Vasco da Gama | Suspiro Menezes x Duarte Pacheco line=5 duel=24.11 corte=-1.55
+[094] FINAL Clube de Regatas Vasco da Gama | Hugo Júnior Cruz fam=1 duel=-4.95 on_target=0.703 goal=0.247
+[094] FINAL Hugo Júnior Cruz: GOL subtipo=CHUTE (roll=0.023)
+[095] posse=Confraria Ludopédica Reconquista | placar Clube de Regatas Vasco da Gama 4 x 0 Confraria Ludopédica Reconquista
+[095] BUILD Confraria Ludopédica Reconquista vs Clube de Regatas Vasco da Gama prob=0.566 roll=0.341
+[095] JOGADA Confraria Ludopédica Reconquista | Robert Sensacional x Fausto Garcia line=4 duel=-53.67 corte=-1.30
+[095] JOGADA falhou: Fausto Garcia cortou

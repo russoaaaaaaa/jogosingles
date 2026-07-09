@@ -1,0 +1,324 @@
+Partida #89
+Data: 1912-01-07
+Mandante: Mavilis Football Club
+Visitante: Fluminense Football Club
+Placar: 0 x 5
+Seed: -
+Estádio: Arena Magé
+Clima: Calor forte
+Placar tempo normal: 0 x 5
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Mavilis Football Club x Fluminense Football Club | estádio=Arena Magé | clima=Calor forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[001] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.286 roll=0.296
+[002] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[002] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.379 roll=0.505
+[002] FINAL Fluminense Football Club | Óliver Teixeira fam=5 duel=17.19 on_target=0.513 goal=0.137
+[002] FINAL Óliver Teixeira: no alvo sem gol (roll=0.394)
+[003] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[003] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.286 roll=0.808
+[004] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[004] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.379 roll=0.111
+[004] JOGADA Fluminense Football Club | Élton Brandão x Ruperto Gallo line=4 duel=43.12 corte=-1.12
+[004] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=17.86 on_target=0.601 goal=0.228
+[004] FINAL Óliver Teixeira: fora/alvo perdido (roll=0.707)
+[005] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[005] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.286 roll=0.106
+[005] JOGADA Mavilis Football Club | Jácome Moretti x Leôncio Rebelo line=4 duel=-71.61 corte=-1.70
+[005] JOGADA falhou: Leôncio Rebelo cortou
+[006] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[006] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.379 roll=0.966
+[007] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[007] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.286 roll=0.941
+[008] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[008] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.379 roll=0.336
+[008] JOGADA Fluminense Football Club | Renato Lobo Mau x Isaí Zago line=4 duel=45.49 corte=-1.12
+[008] FINAL Fluminense Football Club | Ricard Seyolle fam=1 duel=13.16 on_target=0.600 goal=0.226
+[008] FINAL Ricard Seyolle: no alvo sem gol (roll=0.271)
+[009] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[009] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.379 roll=0.314
+[009] JOGADA Fluminense Football Club | Élton Brandão x Iguaçu Cristo line=4 duel=0.91 corte=-1.12
+[009] FINAL Fluminense Football Club | Ricard Seyolle fam=1 duel=15.54 on_target=0.601 goal=0.227
+[009] FINAL Ricard Seyolle: no alvo sem gol (roll=0.466)
+[010] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[010] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.379 roll=0.960
+[011] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[011] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.309 roll=0.900
+[012] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[012] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.410 roll=0.821
+[013] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[013] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.309 roll=0.055
+[013] JOGADA Mavilis Football Club | Ruperto Gallo x Élton Brandão line=2 duel=77.84 corte=-1.70
+[013] JOGADA Mavilis Football Club | Iguaçu Cristo x Jerônimo Monteiro line=5 duel=-43.95 corte=-1.95
+[013] JOGADA falhou: Jerônimo Monteiro cortou
+[014] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[014] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.309 roll=0.346
+[015] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[015] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.309 roll=0.592
+[016] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[016] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.410 roll=0.365
+[016] JOGADA Fluminense Football Club | Renato Lobo Mau x Ernane Naves line=5 duel=40.20 corte=-1.87
+[016] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=13.10 on_target=0.648 goal=0.241
+[016] FINAL Óliver Teixeira: no alvo sem gol (roll=0.600)
+[017] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[017] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.309 roll=0.255
+[017] JOGADA Mavilis Football Club | Iguaçu Cristo x Laurindo Nogueira line=4 duel=-113.19 corte=-1.70
+[017] JOGADA falhou: Laurindo Nogueira cortou
+[018] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[018] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.309 roll=0.974
+[019] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 0 Fluminense Football Club
+[019] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.410 roll=0.136
+[019] JOGADA Fluminense Football Club | Florêncio Carmona x Ernane Naves line=3 duel=42.19 corte=-1.12
+[019] FINAL Fluminense Football Club | Ricard Seyolle fam=1 duel=20.73 on_target=0.649 goal=0.244
+[019] FINAL Ricard Seyolle: GOL subtipo=CHUTE (roll=0.173)
+[020] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Fluminense Football Club
+[020] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.350 roll=0.539
+[021] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 1 Fluminense Football Club
+[021] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.441 roll=0.593
+[022] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 1 Fluminense Football Club
+[022] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.441 roll=0.881
+[023] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 1 Fluminense Football Club
+[023] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.441 roll=0.620
+[024] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 1 Fluminense Football Club
+[024] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.376 roll=0.314
+[024] JOGADA Mavilis Football Club | Amam Calmon x Élton Brandão line=4 duel=10.17 corte=-1.70
+[024] FINAL Mavilis Football Club | Ruperto Gallo fam=5 duel=-4.50 on_target=0.593 goal=0.157
+[024] FINAL Ruperto Gallo: no alvo sem gol (roll=0.516)
+[025] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 1 Fluminense Football Club
+[025] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.441 roll=0.313
+[025] JOGADA Fluminense Football Club | Leôncio Rebelo x Adonai Barroso line=3 duel=-4.32 corte=-1.30
+[025] JOGADA falhou: Adonai Barroso cortou
+[026] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 1 Fluminense Football Club
+[026] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.441 roll=0.470
+[027] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 1 Fluminense Football Club
+[027] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.441 roll=0.330
+[027] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Jácome Moretti line=4 duel=50.67 corte=-1.30
+[027] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=12.98 on_target=0.682 goal=0.248
+[027] FINAL Óliver Teixeira: GOL subtipo=CHUTE (roll=0.206)
+[028] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 2 Fluminense Football Club
+[028] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.381 roll=0.920
+[029] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 2 Fluminense Football Club
+[029] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.431 roll=0.264
+[029] JOGADA Fluminense Football Club | Laurindo Nogueira x Ruperto Gallo line=3 duel=43.75 corte=-1.30
+[029] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=16.32 on_target=0.656 goal=0.232
+[029] FINAL Óliver Teixeira: GOL subtipo=CHUTE (roll=0.053)
+[030] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 3 Fluminense Football Club
+[030] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.422 roll=0.513
+[031] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 3 Fluminense Football Club
+[031] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.422 roll=0.816
+[032] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 3 Fluminense Football Club
+[032] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.422 roll=0.814
+[033] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 3 Fluminense Football Club
+[033] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.422 roll=0.033
+[033] JOGADA Fluminense Football Club | Florêncio Carmona x Iguaçu Cristo line=5 duel=74.49 corte=-1.55
+[033] FINAL Fluminense Football Club | Óliver Teixeira fam=1 duel=14.60 on_target=0.629 goal=0.217
+[033] FINAL Óliver Teixeira: fora/alvo perdido (roll=0.838)
+[034] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 3 Fluminense Football Club
+[034] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.422 roll=0.848
+[035] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 3 Fluminense Football Club
+[035] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.422 roll=0.130
+[035] JOGADA Fluminense Football Club | Florêncio Carmona x Murilo Lopes line=4 duel=84.48 corte=-1.30
+[035] FINAL Fluminense Football Club | Élton Brandão fam=1 duel=-4.52 on_target=0.627 goal=0.209
+[035] FINAL Élton Brandão: no alvo sem gol (roll=0.779)
+[036] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 3 Fluminense Football Club
+[036] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.422 roll=0.420
+[036] JOGADA Fluminense Football Club | Nicolau Freitas x Ruperto Gallo line=4 duel=73.49 corte=-1.30
+[036] FINAL Fluminense Football Club | Ricard Seyolle fam=1 duel=23.80 on_target=0.629 goal=0.221
+[036] FINAL Ricard Seyolle: GOL subtipo=CHUTE (roll=0.115)
+[037] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[037] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.384 roll=0.768
+[038] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[038] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.384 roll=0.072
+[038] JOGADA Mavilis Football Club | Isaí Zago x Florêncio Carmona line=3 duel=36.69 corte=-1.70
+[038] JOGADA Mavilis Football Club | Ernane Naves x Renato Lobo Mau line=4 duel=-38.80 corte=-1.70
+[038] JOGADA falhou: Renato Lobo Mau cortou
+[039] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[039] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.412 roll=0.597
+[040] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[040] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.384 roll=0.086
+[040] JOGADA Mavilis Football Club | Adonai Barroso x Laurindo Nogueira line=4 duel=-22.06 corte=-1.70
+[040] JOGADA falhou: Laurindo Nogueira cortou
+[041] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[041] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.412 roll=0.958
+[042] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[042] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.412 roll=0.778
+[043] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[043] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.412 roll=0.750
+[044] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[044] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.384 roll=0.272
+[044] JOGADA Mavilis Football Club | Deusdedito Varella x Nicolau Freitas line=3 duel=16.95 corte=-1.70
+[044] JOGADA Mavilis Football Club | Jácome Moretti x Laurindo Nogueira line=4 duel=-88.88 corte=-1.70
+[044] JOGADA falhou: Laurindo Nogueira cortou
+[045] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[045] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.384 roll=0.730
+[046] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[046] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.383 roll=0.526
+[047] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[047] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.357 roll=0.175
+[047] JOGADA Mavilis Football Club | Deusdedito Varella x Laurindo Nogueira line=4 duel=-41.15 corte=-1.70
+[047] JOGADA falhou: Laurindo Nogueira cortou
+[048] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[048] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.383 roll=0.743
+[049] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[049] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.383 roll=0.372
+[049] JOGADA Fluminense Football Club | Óliver Teixeira x Jácome Moretti line=3 duel=91.30 corte=-1.30
+[049] FINAL Fluminense Football Club | Ricard Seyolle fam=3 duel=-4.98 on_target=0.518 goal=0.147
+[049] FINAL Ricard Seyolle: no alvo sem gol (roll=0.728)
+[050] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[050] SUB Mavilis Football Club: saiu Deusdedito Varella (MC) | entrou Boaçava Cerqueira (VOL) | subs=1/5
+[050] SUB Fluminense Football Club: saiu Élton Brandão (SA) | entrou Wilson Coimbra (PE) | subs=1/5
+[050] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.380 roll=0.368
+[050] JOGADA Fluminense Football Club | Óliver Teixeira x Ernane Naves line=3 duel=37.34 corte=-1.30
+[050] FINAL Fluminense Football Club | Renato Lobo Mau fam=3 duel=2.65 on_target=0.518 goal=0.149
+[050] FINAL Renato Lobo Mau: fora/alvo perdido (roll=0.671)
+[051] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[051] SUB Mavilis Football Club: saiu Murilo Lopes (LD) | entrou Quirilo França (LD) | subs=2/5
+[051] SUB Fluminense Football Club: saiu Renato Lobo Mau (CA) | entrou Agenor Vila (CA) | subs=2/5
+[051] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.361 roll=0.079
+[051] JOGADA Mavilis Football Club | Isaí Zago x Jerônimo Monteiro line=4 duel=-79.76 corte=-1.70
+[051] JOGADA falhou: Jerônimo Monteiro cortou
+[052] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[052] SUB Mavilis Football Club: saiu Isaí Zago (SA) | entrou Valentino Jacinto (PD) | subs=3/5
+[052] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.377 roll=0.944
+[053] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[053] SUB Mavilis Football Club: saiu Iguaçu Cristo (ZAG) | entrou Jordão Resendes (ZAG) | subs=4/5
+[053] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.361 roll=0.576
+[054] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[054] SUB Mavilis Football Club: saiu Amam Calmon (ZAG) | entrou Doberto Tadeu (ZAG) | subs=5/5
+[054] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.379 roll=0.704
+[055] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[055] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.361 roll=0.540
+[056] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[056] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.388 roll=0.995
+[057] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[057] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.407 roll=0.404
+[057] JOGADA Fluminense Football Club | Jerônimo Monteiro x Adonai Barroso line=3 duel=-1.28 corte=-1.30
+[057] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=27.13 on_target=0.602 goal=0.209
+[057] FINAL Agenor Vila: fora/alvo perdido (roll=0.911)
+[058] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[058] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.388 roll=0.209
+[058] JOGADA Mavilis Football Club | Ernane Naves x Nicolau Freitas line=3 duel=-3.83 corte=-1.70
+[058] JOGADA falhou: Nicolau Freitas cortou
+[059] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[059] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.388 roll=0.052
+[059] JOGADA Mavilis Football Club | Valentino Jacinto x Oscar Alfredo Cox line=4 duel=-81.47 corte=-1.70
+[059] JOGADA falhou: Oscar Alfredo Cox cortou
+[060] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[060] SUB Fluminense Football Club: saiu Nicolau Freitas (LE) | entrou Beraldo Botelho (LE) | subs=3/5
+[060] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.391 roll=0.287
+[060] JOGADA Mavilis Football Club | Quirilo França x Jerônimo Monteiro line=2 duel=73.04 corte=-1.70
+[060] JOGADA Mavilis Football Club | Quirilo França x Wilson Coimbra line=5 duel=86.29 corte=-1.95
+[060] JOGADA Mavilis Football Club | Jácome Moretti x Jerônimo Monteiro line=5 duel=-14.69 corte=-1.95
+[060] JOGADA falhou: Jerônimo Monteiro cortou
+[061] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[061] SUB Fluminense Football Club: saiu Óliver Teixeira (PE) | entrou Estefânio Matos (PD) | subs=4/5
+[061] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.395 roll=0.745
+[062] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[062] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.393 roll=0.133
+[062] JOGADA Mavilis Football Club | Quirilo França x Oscar Alfredo Cox line=3 duel=-1.05 corte=-1.70
+[062] JOGADA Mavilis Football Club | Adonai Barroso x Oscar Alfredo Cox line=4 duel=-18.64 corte=-1.70
+[062] JOGADA falhou: Oscar Alfredo Cox cortou
+[063] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[063] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.393 roll=0.802
+[064] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[064] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.393 roll=0.281
+[064] JOGADA Mavilis Football Club | Quirilo França x Florêncio Carmona line=4 duel=-65.14 corte=-1.70
+[064] JOGADA falhou: Florêncio Carmona cortou
+[065] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[065] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.395 roll=0.693
+[066] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[066] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.395 roll=0.535
+[067] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[067] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.393 roll=0.333
+[067] JOGADA Mavilis Football Club | Tapuruquara Páscoa x Ricard Seyolle line=2 duel=-15.37 corte=-1.70
+[067] JOGADA falhou: Ricard Seyolle cortou
+[068] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[068] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.393 roll=0.448
+[069] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[069] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.393 roll=0.214
+[069] JOGADA Mavilis Football Club | Doberto Tadeu x Oscar Alfredo Cox line=3 duel=-8.56 corte=-1.70
+[070] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[070] SUB Fluminense Football Club: saiu Jerônimo Monteiro (ZAG) | entrou João Boscão (ZAG) | subs=5/5
+[070] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.430 roll=0.642
+[071] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[071] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.400 roll=0.653
+[072] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 4 Fluminense Football Club
+[072] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.400 roll=0.003
+[072] JOGADA Fluminense Football Club | Leôncio Rebelo x Jácome Moretti line=4 duel=15.23 corte=-1.30
+[072] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=13.25 on_target=0.600 goal=0.204
+[072] FINAL Agenor Vila: GOL subtipo=CHUTE (roll=0.105)
+[073] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[073] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.430 roll=0.343
+[073] JOGADA Mavilis Football Club | Valentino Jacinto x Florêncio Carmona line=4 duel=17.00 corte=-1.70
+[073] JOGADA Mavilis Football Club | Jácome Moretti x Ricard Seyolle line=4 duel=-5.28 corte=-1.70
+[074] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[074] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.396 roll=0.138
+[074] JOGADA Fluminense Football Club | Laurindo Nogueira x Adonai Barroso line=4 duel=51.97 corte=-1.30
+[074] FINAL Fluminense Football Club | Agenor Vila fam=1 duel=13.91 on_target=0.587 goal=0.196
+[074] FINAL Agenor Vila: no alvo sem gol (roll=0.574)
+[075] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[075] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.396 roll=0.564
+[076] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[076] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.464 roll=0.741
+[077] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[077] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.384 roll=0.454
+[078] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[078] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.384 roll=0.093
+[078] JOGADA Fluminense Football Club | Oscar Alfredo Cox x Jácome Moretti line=4 duel=42.48 corte=-1.30
+[078] FINAL Fluminense Football Club | Estefânio Matos fam=1 duel=18.52 on_target=0.574 goal=0.196
+[078] FINAL Estefânio Matos: no alvo sem gol (roll=0.808)
+[079] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[079] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.384 roll=0.384
+[079] JOGADA Fluminense Football Club | Florêncio Carmona x Jordão Resendes line=4 duel=0.62 corte=-1.30
+[079] FINAL Fluminense Football Club | Estefânio Matos fam=1 duel=15.51 on_target=0.574 goal=0.195
+[079] FINAL Estefânio Matos: no alvo sem gol (roll=0.393)
+[080] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[080] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.464 roll=0.996
+[081] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[081] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.464 roll=0.045
+[081] JOGADA Mavilis Football Club | Ernane Naves x João Boscão line=4 duel=-99.14 corte=-1.70
+[081] JOGADA falhou: João Boscão cortou
+[082] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[082] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.384 roll=0.176
+[082] JOGADA Fluminense Football Club | Beraldo Botelho x Boaçava Cerqueira line=3 duel=-3.36 corte=-1.30
+[082] JOGADA falhou: Boaçava Cerqueira cortou
+[083] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[083] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.464 roll=0.157
+[083] JOGADA Mavilis Football Club | Boaçava Cerqueira x Agenor Vila line=3 duel=32.91 corte=-1.70
+[083] JOGADA Mavilis Football Club | Ruperto Gallo x Laurindo Nogueira line=5 duel=18.16 corte=-2.45
+[083] FINAL Mavilis Football Club | Ruperto Gallo fam=5 duel=-2.76 on_target=0.635 goal=0.166
+[083] FINAL Ruperto Gallo: fora/alvo perdido (roll=0.987)
+[084] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[084] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.464 roll=0.955
+[085] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[085] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.384 roll=0.332
+[085] JOGADA Fluminense Football Club | Wilson Coimbra x Doberto Tadeu line=5 duel=9.22 corte=-2.05
+[085] FINAL Fluminense Football Club | Estefânio Matos fam=3 duel=5.22 on_target=0.521 goal=0.146
+[085] FINAL Estefânio Matos: fora/alvo perdido (roll=0.917)
+[086] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[086] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.384 roll=0.794
+[087] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[087] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.488 roll=0.162
+[087] JOGADA Mavilis Football Club | Ernane Naves x Estefânio Matos line=2 duel=16.74 corte=-1.70
+[087] JOGADA Mavilis Football Club | Doberto Tadeu x Beraldo Botelho line=3 duel=-19.51 corte=-1.70
+[088] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[088] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.488 roll=0.319
+[088] JOGADA Mavilis Football Club | Ernane Naves x Florêncio Carmona line=3 duel=1.38 corte=-1.70
+[088] FINAL Mavilis Football Club | Ruperto Gallo fam=5 duel=1.33 on_target=0.676 goal=0.168
+[088] FINAL Ruperto Gallo: no alvo sem gol (roll=0.486)
+[089] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[089] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.488 roll=0.529
+[090] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[090] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.488 roll=0.858
+[091] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[091] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.488 roll=0.610
+[092] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[092] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.384 roll=0.593
+[093] posse=Mavilis Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[093] BUILD Mavilis Football Club vs Fluminense Football Club prob=0.488 roll=0.669
+[094] posse=Fluminense Football Club | placar Mavilis Football Club 0 x 5 Fluminense Football Club
+[094] BUILD Fluminense Football Club vs Mavilis Football Club prob=0.384 roll=0.513

@@ -1,0 +1,306 @@
+Partida #134
+Data: 1912-01-10
+Mandante: Arsenal Futebol Clube
+Visitante: Dynamo de São Paulo
+Placar: 0 x 2
+Seed: -
+Estádio: Municipal de Lorena
+Clima: Chuva forte
+Placar tempo normal: 0 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Arsenal Futebol Clube x Dynamo de São Paulo | estádio=Municipal de Lorena | clima=Chuva forte | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[001] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.291 roll=0.318
+[002] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[002] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.291 roll=0.410
+[003] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[003] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.291 roll=0.923
+[004] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[004] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.350 roll=0.959
+[005] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[005] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.291 roll=0.080
+[005] JOGADA Arsenal Futebol Clube | Anandor Antunes x Dmitry Miusov line=3 duel=-3.17 corte=-1.70
+[005] JOGADA falhou: Dmitry Miusov cortou
+[006] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[006] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.291 roll=0.705
+[007] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[007] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.350 roll=0.229
+[007] JOGADA Dynamo de São Paulo | Ariel Biancchi x Clife Lemos line=3 duel=90.10 corte=-1.11
+[007] FINAL Dynamo de São Paulo | Arkadius Zimmerman fam=1 duel=14.31 on_target=0.555 goal=0.218
+[007] FINAL Arkadius Zimmerman: fora/alvo perdido (roll=0.931)
+[008] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[008] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.350 roll=0.375
+[009] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[009] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.350 roll=0.637
+[010] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[010] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.350 roll=0.801
+[011] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[011] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.378 roll=0.805
+[012] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[012] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.315 roll=0.555
+[013] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[013] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.315 roll=0.755
+[014] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[014] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.378 roll=0.614
+[015] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[015] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.378 roll=0.681
+[016] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[016] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.378 roll=0.640
+[017] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[017] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.315 roll=0.975
+[018] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[018] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.378 roll=0.288
+[018] JOGADA Dynamo de São Paulo | Renato Papa-léguas x Clife Lemos line=4 duel=12.96 corte=-1.11
+[018] FINAL Dynamo de São Paulo | Arkadius Zimmerman fam=1 duel=12.66 on_target=0.599 goal=0.231
+[018] FINAL Arkadius Zimmerman: no alvo sem gol (roll=0.343)
+[019] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[019] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.378 roll=0.746
+[020] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[020] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.315 roll=0.367
+[021] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[021] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.407 roll=0.376
+[021] JOGADA Dynamo de São Paulo | Ariel Biancchi x Acangatara Robledo line=3 duel=7.18 corte=-1.11
+[021] FINAL Dynamo de São Paulo | Arkadius Zimmerman fam=1 duel=9.35 on_target=0.631 goal=0.237
+[021] FINAL Arkadius Zimmerman: no alvo sem gol (roll=0.625)
+[022] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[022] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.407 roll=0.492
+[023] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[023] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.339 roll=0.116
+[023] JOGADA Arsenal Futebol Clube | Mário Donato x Renato Papa-léguas line=4 duel=14.78 corte=-1.70
+[023] JOGADA Arsenal Futebol Clube | Galiano Padilha x Dmitry Miusov line=4 duel=-12.74 corte=-1.70
+[024] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[024] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.339 roll=0.540
+[025] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[025] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.407 roll=0.587
+[026] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[026] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.339 roll=0.311
+[026] JOGADA Arsenal Futebol Clube | Bira Barreto x Ariel Biancchi line=3 duel=7.98 corte=-1.70
+[026] JOGADA Arsenal Futebol Clube | Quitandinha Maluf x Patrizio del Nero line=4 duel=1.40 corte=-1.70
+[026] JOGADA Arsenal Futebol Clube | Acangatara Robledo x Pegaso Cardona line=5 duel=40.89 corte=-1.95
+[026] FINAL Arsenal Futebol Clube | Quitandinha Maluf fam=5 duel=-55.80 on_target=0.536 goal=0.118
+[026] FINAL Quitandinha Maluf: fora/alvo perdido (roll=0.546)
+[027] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[027] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.407 roll=0.851
+[028] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[028] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.339 roll=0.627
+[029] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[029] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.339 roll=0.311
+[029] JOGADA Arsenal Futebol Clube | Quitandinha Maluf x Renato Papa-léguas line=3 duel=24.40 corte=-1.70
+[029] JOGADA Arsenal Futebol Clube | Amanajé Espinhas x Fadrique Losteau line=4 duel=-41.15 corte=-1.70
+[029] JOGADA falhou: Fadrique Losteau cortou
+[030] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[030] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.339 roll=0.870
+[031] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[031] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.339 roll=0.648
+[032] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[032] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.341 roll=0.740
+[033] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[033] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.407 roll=0.948
+[034] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[034] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.341 roll=0.232
+[034] JOGADA Arsenal Futebol Clube | Galiano Padilha x Jordi Montenegro line=4 duel=-80.99 corte=-1.70
+[034] JOGADA falhou: Jordi Montenegro cortou
+[035] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[035] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.341 roll=0.223
+[035] JOGADA Arsenal Futebol Clube | Bira Barreto x Fadrique Losteau line=4 duel=-23.03 corte=-1.70
+[035] JOGADA falhou: Fadrique Losteau cortou
+[036] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[036] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.341 roll=0.680
+[037] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[037] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.407 roll=0.579
+[038] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[038] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.407 roll=0.413
+[039] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[039] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.341 roll=0.913
+[040] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[040] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.407 roll=0.207
+[040] JOGADA Dynamo de São Paulo | Ariel Biancchi x Carlo Peixe line=3 duel=45.08 corte=-1.11
+[040] FINAL Dynamo de São Paulo | Renato Papa-léguas fam=1 duel=21.51 on_target=0.631 goal=0.242
+[040] FINAL Renato Papa-léguas: no alvo sem gol (roll=0.245)
+[041] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[041] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.407 roll=0.339
+[041] JOGADA Dynamo de São Paulo | Pegaso Cardona x Galiano Padilha line=3 duel=12.05 corte=-1.11
+[041] FINAL Dynamo de São Paulo | Renato Papa-léguas fam=1 duel=21.15 on_target=0.631 goal=0.242
+[041] FINAL Renato Papa-léguas: fora/alvo perdido (roll=0.988)
+[042] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[042] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.341 roll=0.410
+[043] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[043] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.407 roll=0.260
+[043] JOGADA Dynamo de São Paulo | Pegaso Cardona x Mário Donato line=4 duel=-0.25 corte=-1.11
+[043] JOGADA Dynamo de São Paulo | Carlo Garcia Neto x Quitandinha Maluf line=4 duel=47.74 corte=-1.11
+[043] JOGADA Dynamo de São Paulo | Fadrique Losteau x Quitandinha Maluf line=5 duel=97.34 corte=-1.36
+[043] FINAL Dynamo de São Paulo | Renato Papa-léguas fam=1 duel=23.28 on_target=0.631 goal=0.243
+[043] FINAL Renato Papa-léguas: fora/alvo perdido (roll=0.790)
+[044] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[044] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.341 roll=0.508
+[045] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[045] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.407 roll=0.124
+[045] JOGADA Dynamo de São Paulo | Carlo Garcia Neto x Anandor Antunes line=3 duel=45.34 corte=-1.11
+[045] FINAL Dynamo de São Paulo | Dmitry Miusov fam=1 duel=17.09 on_target=0.627 goal=0.238
+[045] FINAL Dmitry Miusov: no alvo sem gol (roll=0.370)
+[046] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[046] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.378 roll=0.998
+[047] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[047] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.317 roll=0.598
+[048] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[048] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.317 roll=0.692
+[049] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[049] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.378 roll=0.120
+[049] JOGADA Dynamo de São Paulo | Jordi Montenegro x Galiano Padilha line=3 duel=-12.91 corte=-1.11
+[050] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[050] SUB Arsenal Futebol Clube: saiu Anandor Antunes (ME) | entrou Patos Delgado (MC) | subs=1/5
+[050] SUB Dynamo de São Paulo: saiu Arkadius Zimmerman (CA) | entrou Zarkhán Volmir (PE) | subs=1/5
+[050] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.373 roll=0.378
+[051] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[051] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.322 roll=0.436
+[052] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[052] SUB Arsenal Futebol Clube: saiu Amanajé Espinhas (SA) | entrou Renato Alvarenga (PD) | subs=2/5
+[052] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.327 roll=0.048
+[052] JOGADA Arsenal Futebol Clube | Clife Lemos x Carlo Garcia Neto line=3 duel=-36.79 corte=-1.70
+[052] JOGADA falhou: Carlo Garcia Neto cortou
+[053] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[053] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.327 roll=0.504
+[054] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[054] SUB Arsenal Futebol Clube: saiu Emaús Borges (MC) | entrou Henrique Domingues (VOL) | subs=3/5
+[054] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.326 roll=0.867
+[055] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[055] SUB Arsenal Futebol Clube: saiu Clife Lemos (ZAG) | entrou Ianis Custódio (ZAG) | subs=4/5
+[055] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.374 roll=0.283
+[055] JOGADA Dynamo de São Paulo | Dmitry Miusov x Henrique Domingues line=3 duel=-1.55 corte=-1.11
+[055] JOGADA falhou: Henrique Domingues cortou
+[056] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[056] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.351 roll=0.336
+[056] JOGADA Arsenal Futebol Clube | Mário Donato x Jordi Montenegro line=4 duel=-11.81 corte=-1.70
+[057] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[057] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.351 roll=0.270
+[057] JOGADA Arsenal Futebol Clube | Renato Alvarenga x Zarkhán Volmir line=2 duel=41.23 corte=-1.70
+[057] JOGADA Arsenal Futebol Clube | Renato Alvarenga x Pegaso Cardona line=3 duel=-0.27 corte=-1.70
+[057] JOGADA Arsenal Futebol Clube | Quitandinha Maluf x Zarkhán Volmir line=4 duel=15.48 corte=-1.70
+[057] FINAL Arsenal Futebol Clube | Patos Delgado fam=5 duel=6.05 on_target=0.545 goal=0.147
+[057] FINAL Patos Delgado: no alvo sem gol (roll=0.353)
+[058] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[058] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.351 roll=0.305
+[058] JOGADA Arsenal Futebol Clube | Acangatara Robledo x Zarkhán Volmir line=3 duel=57.99 corte=-1.70
+[058] JOGADA Arsenal Futebol Clube | Renato Alvarenga x Patrizio del Nero line=4 duel=-67.45 corte=-1.70
+[058] JOGADA falhou: Patrizio del Nero cortou
+[059] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[059] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.375 roll=0.703
+[060] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[060] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.354 roll=0.813
+[061] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[061] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.354 roll=0.760
+[062] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 0 Dynamo de São Paulo
+[062] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.375 roll=0.023
+[062] JOGADA Dynamo de São Paulo | Renato Papa-léguas x Galiano Padilha line=4 duel=4.05 corte=-1.10
+[062] FINAL Dynamo de São Paulo | Carlo Garcia Neto fam=1 duel=29.10 on_target=0.636 goal=0.248
+[062] FINAL Carlo Garcia Neto: GOL subtipo=CHUTE (roll=0.150)
+[063] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[063] SUB Arsenal Futebol Clube: saiu Acangatara Robledo (LD) | entrou Joabe Correa (LD) | subs=5/5
+[063] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.403 roll=0.629
+[064] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[064] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.403 roll=0.446
+[065] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[065] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.403 roll=0.662
+[066] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[066] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.425 roll=0.674
+[067] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[067] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.403 roll=0.805
+[068] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[068] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.425 roll=0.932
+[069] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[069] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.425 roll=0.678
+[070] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[070] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.399 roll=0.855
+[071] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[071] SUB Dynamo de São Paulo: saiu Renato Papa-léguas (SA) | entrou Vasily Butusov (SA) | subs=2/5
+[071] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.398 roll=0.431
+[072] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[072] SUB Dynamo de São Paulo: saiu Jordi Montenegro (ZAG) | entrou Tagalamatu (ZAG) | subs=3/5
+[072] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.423 roll=0.231
+[072] JOGADA Arsenal Futebol Clube | Quitandinha Maluf x Tagalamatu line=2 duel=-39.79 corte=-1.70
+[072] JOGADA falhou: Tagalamatu cortou
+[073] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[073] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.398 roll=0.518
+[074] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[074] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.423 roll=0.050
+[074] JOGADA Arsenal Futebol Clube | Joabe Correa x Pegaso Cardona line=4 duel=6.56 corte=-1.70
+[074] JOGADA Arsenal Futebol Clube | Joabe Correa x Narsélio Byrd line=4 duel=0.14 corte=-1.70
+[074] FINAL Arsenal Futebol Clube | Carlo Peixe fam=5 duel=-8.96 on_target=0.539 goal=0.141
+[074] FINAL Carlo Peixe: no alvo sem gol (roll=0.594)
+[075] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[075] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.398 roll=0.183
+[075] JOGADA Dynamo de São Paulo | Zarkhán Volmir x Ianis Custódio line=3 duel=7.65 corte=-1.30
+[075] FINAL Dynamo de São Paulo | Vasily Butusov fam=3 duel=-1.40 on_target=0.559 goal=0.173
+[075] FINAL Vasily Butusov: no alvo sem gol (roll=0.411)
+[076] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[076] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.457 roll=0.077
+[076] JOGADA Arsenal Futebol Clube | Mário Donato x Tagalamatu line=3 duel=-45.79 corte=-1.70
+[077] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[077] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.386 roll=0.807
+[078] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[078] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.457 roll=0.327
+[078] JOGADA Arsenal Futebol Clube | Patos Delgado x Pegaso Cardona line=4 duel=-15.98 corte=-1.70
+[078] JOGADA falhou: Pegaso Cardona cortou
+[079] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[079] SUB Dynamo de São Paulo: saiu Narsélio Byrd (ZAG) | entrou Nikolay Korotkov (ZAG) | subs=4/5
+[079] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.385 roll=0.133
+[079] JOGADA Dynamo de São Paulo | Patrizio del Nero x Mário Donato line=2 duel=40.07 corte=-1.30
+[079] FINAL Dynamo de São Paulo | Zarkhán Volmir fam=3 duel=19.91 on_target=0.550 goal=0.180
+[079] FINAL Zarkhán Volmir: no alvo sem gol (roll=0.261)
+[080] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[080] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.462 roll=0.083
+[080] JOGADA Arsenal Futebol Clube | Ianis Custódio x Dmitry Miusov line=3 duel=-5.86 corte=-1.70
+[081] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[081] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.385 roll=0.898
+[082] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[082] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.462 roll=0.612
+[083] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[083] SUB Dynamo de São Paulo: saiu Fadrique Losteau (LE) | entrou Salvador Azevedo (LD) | subs=5/5
+[083] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.464 roll=0.459
+[083] JOGADA Arsenal Futebol Clube | Mário Donato x Dmitry Miusov line=3 duel=-8.41 corte=-1.70
+[083] JOGADA falhou: Dmitry Miusov cortou
+[084] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[084] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.464 roll=0.616
+[085] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[085] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.459 roll=0.999
+[086] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[086] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.385 roll=0.634
+[087] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[087] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.459 roll=0.634
+[088] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[088] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.385 roll=0.514
+[089] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[089] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.459 roll=0.042
+[089] JOGADA Arsenal Futebol Clube | Bira Barreto x Zarkhán Volmir line=3 duel=4.43 corte=-1.70
+[089] JOGADA Arsenal Futebol Clube | Galiano Padilha x Dmitry Miusov line=4 duel=-77.68 corte=-1.70
+[089] JOGADA falhou: Dmitry Miusov cortou
+[090] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 1 Dynamo de São Paulo
+[090] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.385 roll=0.060
+[090] JOGADA Dynamo de São Paulo | Carlo Garcia Neto x Quitandinha Maluf line=3 duel=34.41 corte=-1.30
+[090] FINAL Dynamo de São Paulo | Vasily Butusov fam=1 duel=20.13 on_target=0.605 goal=0.225
+[090] FINAL Vasily Butusov: GOL subtipo=CHUTE (roll=0.002)
+[091] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 2 Dynamo de São Paulo
+[091] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.380 roll=0.177
+[091] JOGADA Dynamo de São Paulo | Carlo Garcia Neto x Renato Alvarenga line=3 duel=29.64 corte=-1.30
+[091] FINAL Dynamo de São Paulo | Vasily Butusov fam=1 duel=18.60 on_target=0.593 goal=0.215
+[091] FINAL Vasily Butusov: fora/alvo perdido (roll=0.838)
+[092] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 2 Dynamo de São Paulo
+[092] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.380 roll=0.837
+[093] posse=Dynamo de São Paulo | placar Arsenal Futebol Clube 0 x 2 Dynamo de São Paulo
+[093] BUILD Dynamo de São Paulo vs Arsenal Futebol Clube prob=0.380 roll=0.275
+[093] JOGADA Dynamo de São Paulo | Carlo Garcia Neto x Renato Alvarenga line=3 duel=31.62 corte=-1.30
+[093] FINAL Dynamo de São Paulo | Vasily Butusov fam=1 duel=16.55 on_target=0.593 goal=0.215
+[093] FINAL Vasily Butusov: fora/alvo perdido (roll=0.695)
+[094] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 2 Dynamo de São Paulo
+[094] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.463 roll=0.203
+[094] JOGADA Arsenal Futebol Clube | Bira Barreto x Nikolay Korotkov line=3 duel=-37.37 corte=-1.70
+[094] JOGADA falhou: Nikolay Korotkov cortou
+[095] posse=Arsenal Futebol Clube | placar Arsenal Futebol Clube 0 x 2 Dynamo de São Paulo
+[095] BUILD Arsenal Futebol Clube vs Dynamo de São Paulo prob=0.463 roll=0.312
+[095] JOGADA Arsenal Futebol Clube | Renato Alvarenga x Zarkhán Volmir line=3 duel=24.40 corte=-1.70
+[095] JOGADA Arsenal Futebol Clube | Henrique Domingues x Ariel Biancchi line=4 duel=-4.04 corte=-1.70
+[095] JOGADA falhou: Ariel Biancchi cortou

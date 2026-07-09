@@ -1,0 +1,297 @@
+Partida #57
+Data: 1912-01-04
+Mandante: Treze Foot-ball Club
+Visitante: America Football Club Pernambucano
+Placar: 1 x 0
+Seed: -
+Estádio: Estádio Peixotão
+Clima: Calor forte
+Placar tempo normal: 1 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: Treze Foot-ball Club
+
+=== LOG VERBOSE ===
+Início: Treze Foot-ball Club x America Football Club Pernambucano | estádio=Estádio Peixotão | clima=Calor forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[001] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.302 roll=0.377
+[002] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[002] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.282 roll=0.184
+[002] JOGADA America Football Club Pernambucano | Elizeu Campos x Marcílio Soronha line=3 duel=-5.92 corte=-1.11
+[003] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[003] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.282 roll=0.953
+[004] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[004] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.302 roll=0.789
+[005] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[005] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.282 roll=0.688
+[006] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[006] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.282 roll=0.373
+[007] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[007] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.282 roll=0.039
+[007] JOGADA America Football Club Pernambucano | Elizeu Campos x Eurico Lima line=2 duel=-6.12 corte=-1.11
+[007] JOGADA falhou: Eurico Lima cortou
+[008] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[008] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.302 roll=0.431
+[009] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[009] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.302 roll=0.711
+[010] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[010] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.282 roll=0.863
+[011] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[011] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.305 roll=0.138
+[011] JOGADA America Football Club Pernambucano | Belfort Galindo x Homem Moça Argélia line=3 duel=-11.37 corte=-1.11
+[011] JOGADA falhou: Homem Moça Argélia cortou
+[012] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[012] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.305 roll=0.665
+[013] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[013] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.305 roll=0.624
+[014] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[014] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.305 roll=0.333
+[015] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[015] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.326 roll=0.543
+[016] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[016] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.326 roll=0.324
+[016] JOGADA Treze Foot-ball Club | Níger x Leandro Accioly line=3 duel=18.02 corte=-1.70
+[016] JOGADA Treze Foot-ball Club | Plácido Reys x Pedro Firmino line=4 duel=-70.51 corte=-1.70
+[016] JOGADA falhou: Pedro Firmino cortou
+[017] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[017] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.305 roll=0.862
+[018] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[018] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.326 roll=0.193
+[018] JOGADA Treze Foot-ball Club | Homem Moça Argélia x Balinha line=4 duel=32.93 corte=-1.70
+[018] JOGADA Treze Foot-ball Club | Plácido Reys x Belfort Galindo line=4 duel=-6.75 corte=-1.70
+[019] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[019] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.305 roll=0.832
+[020] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[020] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.326 roll=0.840
+[021] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[021] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.328 roll=0.803
+[022] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[022] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.328 roll=0.835
+[023] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[023] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.351 roll=0.075
+[023] JOGADA Treze Foot-ball Club | Zé Tongo x Doçudo line=2 duel=45.81 corte=-1.70
+[023] JOGADA Treze Foot-ball Club | Níger x Doçudo line=5 duel=22.34 corte=-1.95
+[023] JOGADA Treze Foot-ball Club | Homem Moça Argélia x Otto Stein line=5 duel=43.56 corte=-1.95
+[023] FINAL Treze Foot-ball Club | Plácido Reys fam=1 duel=-9.42 on_target=0.681 goal=0.243
+[023] FINAL Plácido Reys: fora/alvo perdido (roll=0.971)
+[024] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[024] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.328 roll=0.861
+[025] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[025] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.351 roll=0.124
+[025] JOGADA Treze Foot-ball Club | Olívio Reys x Otto Stein line=3 duel=39.51 corte=-1.70
+[025] JOGADA Treze Foot-ball Club | Olívio Reys x Pedro Firmino line=4 duel=-21.30 corte=-1.70
+[025] JOGADA falhou: Pedro Firmino cortou
+[026] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[026] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.351 roll=0.128
+[026] JOGADA Treze Foot-ball Club | Antônio Bióca x Elizeu Campos line=3 duel=12.10 corte=-1.70
+[026] JOGADA Treze Foot-ball Club | Zé Tongo x Belfort Galindo line=4 duel=-19.99 corte=-1.70
+[026] JOGADA falhou: Belfort Galindo cortou
+[027] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[027] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.328 roll=0.435
+[028] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 0 x 0 America Football Club Pernambucano
+[028] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.351 roll=0.850
+[028] FINAL Treze Foot-ball Club | Marcílio Soronha fam=5 duel=-24.65 on_target=0.589 goal=0.145
+[028] FINAL Marcílio Soronha: GOL subtipo=FALTA (roll=0.051)
+[029] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[029] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.388 roll=0.735
+[030] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[030] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.388 roll=0.943
+[031] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[031] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.388 roll=0.297
+[031] JOGADA Treze Foot-ball Club | Níger x Belfort Galindo line=2 duel=13.07 corte=-1.70
+[031] JOGADA Treze Foot-ball Club | Homem Moça Argélia x Éverson Saci line=4 duel=-14.27 corte=-1.70
+[032] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[032] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.390 roll=0.489
+[033] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[033] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.390 roll=0.076
+[033] JOGADA Treze Foot-ball Club | Olívio Reys x Grassani line=3 duel=-8.76 corte=-1.70
+[034] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[034] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.365 roll=0.947
+[035] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[035] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.390 roll=0.246
+[035] JOGADA Treze Foot-ball Club | Cotó x Doçudo line=4 duel=-7.40 corte=-1.70
+[035] JOGADA falhou: Doçudo cortou
+[036] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[036] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.390 roll=0.713
+[037] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[037] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.365 roll=0.439
+[038] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[038] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.365 roll=0.248
+[038] JOGADA America Football Club Pernambucano | Elizeu Campos x Plácido Reys line=3 duel=28.08 corte=-1.09
+[038] JOGADA America Football Club Pernambucano | Éverson Saci x Olívio Reys line=4 duel=-22.61 corte=-1.09
+[038] JOGADA falhou: Olívio Reys cortou
+[039] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[039] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.365 roll=0.034
+[039] JOGADA America Football Club Pernambucano | Pedro Firmino x Antônio Bióca line=2 duel=13.56 corte=-1.09
+[039] JOGADA America Football Club Pernambucano | Grassani x Zacarias do Ó line=3 duel=19.24 corte=-1.09
+[039] JOGADA America Football Club Pernambucano | Belfort Galindo x Zacarias do Ó line=5 duel=64.93 corte=-1.34
+[039] FINAL America Football Club Pernambucano | Ângelo Cabral fam=1 duel=-1.23 on_target=0.680 goal=0.241
+[039] FINAL Ângelo Cabral: fora/alvo perdido (roll=0.793)
+[040] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[040] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.365 roll=0.527
+[041] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[041] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.390 roll=0.428
+[042] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[042] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.365 roll=0.296
+[042] JOGADA America Football Club Pernambucano | Éverson Saci x Olívio Reys line=3 duel=13.31 corte=-1.09
+[042] FINAL America Football Club Pernambucano | Ângelo Cabral fam=1 duel=-2.38 on_target=0.680 goal=0.240
+[042] FINAL Ângelo Cabral: no alvo sem gol (roll=0.907)
+[043] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[043] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.390 roll=0.992
+[044] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[044] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.390 roll=0.165
+[044] JOGADA Treze Foot-ball Club | Olívio Reys x Leandro Accioly line=4 duel=-0.69 corte=-1.70
+[044] FINAL Treze Foot-ball Club | Plácido Reys fam=5 duel=-56.19 on_target=0.589 goal=0.132
+[044] FINAL Plácido Reys: no alvo sem gol (roll=0.360)
+[045] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[045] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.390 roll=0.277
+[045] JOGADA Treze Foot-ball Club | Olívio Reys x Otto Stein line=3 duel=1.28 corte=-1.70
+[045] JOGADA Treze Foot-ball Club | Zé Tongo x Ângelo Cabral line=4 duel=-4.28 corte=-1.70
+[046] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[046] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.340 roll=0.082
+[046] JOGADA America Football Club Pernambucano | Leandro Accioly x Cotó line=2 duel=-9.14 corte=-1.09
+[046] JOGADA falhou: Cotó cortou
+[047] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[047] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.340 roll=0.756
+[048] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[048] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.340 roll=0.701
+[049] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[049] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.340 roll=0.345
+[050] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[050] SUB Treze Foot-ball Club: saiu Plácido Reys (SA) | entrou Zé Preto Uganda (SA) | subs=1/5
+[050] SUB America Football Club Pernambucano: saiu Balinha (CA) | entrou Doçado (CA) | subs=1/5
+[050] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.336 roll=0.000
+[050] JOGADA America Football Club Pernambucano | Leandro Accioly x Marcílio Soronha line=3 duel=-5.01 corte=-1.08
+[050] JOGADA falhou: Marcílio Soronha cortou
+[051] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[051] SUB Treze Foot-ball Club: saiu Zacarias do Ó (CA) | entrou Zé de Castro (CA) | subs=2/5
+[051] SUB America Football Club Pernambucano: saiu Elizeu Campos (LD) | entrou Enrich Mallmann (LD) | subs=2/5
+[051] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.348 roll=0.005
+[051] JOGADA Treze Foot-ball Club | Marcílio Soronha x Doçado line=4 duel=-45.19 corte=-1.70
+[051] JOGADA falhou: Doçado cortou
+[052] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[052] SUB Treze Foot-ball Club: saiu Zé Tongo (SA) | entrou Afonso Madagascar (SA) | subs=3/5
+[052] SUB America Football Club Pernambucano: saiu Ângelo Cabral (MA) | entrou Antônio Couto (MC) | subs=3/5
+[052] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.334 roll=0.960
+[053] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[053] SUB Treze Foot-ball Club: saiu Eurico Lima (LD) | entrou Manoel de Veras (LD) | subs=4/5
+[053] SUB America Football Club Pernambucano: saiu Leandro Accioly (LE) | entrou Frutuoso (LE) | subs=4/5
+[053] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.336 roll=0.791
+[054] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[054] SUB Treze Foot-ball Club: saiu Níger (VOL) | entrou Zé Eloy (ZAG) | subs=5/5
+[054] SUB America Football Club Pernambucano: saiu Éverson Saci (MC) | entrou Rômulo Gusmão (MC) | subs=5/5
+[054] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.335 roll=0.482
+[055] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[055] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.335 roll=0.595
+[056] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[056] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.359 roll=0.821
+[057] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[057] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.361 roll=0.501
+[058] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[058] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.361 roll=0.429
+[059] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[059] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.361 roll=0.963
+[060] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[060] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.364 roll=0.232
+[060] JOGADA Treze Foot-ball Club | Manoel de Veras x Belfort Galindo line=2 duel=11.19 corte=-1.70
+[060] JOGADA Treze Foot-ball Club | Manoel de Veras x Doçudo line=3 duel=14.07 corte=-1.70
+[060] JOGADA Treze Foot-ball Club | Homem Moça Argélia x Belfort Galindo line=4 duel=-12.74 corte=-1.70
+[060] FINAL Treze Foot-ball Club | Homem Moça Argélia fam=5 duel=-66.86 on_target=0.586 goal=0.126
+[060] FINAL Homem Moça Argélia: no alvo sem gol (roll=0.290)
+[061] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[061] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.331 roll=0.155
+[061] JOGADA America Football Club Pernambucano | Belfort Galindo x Zé de Castro line=3 duel=-24.10 corte=-1.09
+[061] JOGADA falhou: Zé de Castro cortou
+[062] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[062] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.331 roll=0.999
+[063] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[063] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.331 roll=0.755
+[064] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[064] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.364 roll=0.185
+[064] JOGADA Treze Foot-ball Club | Zé Preto Uganda x Doçudo line=2 duel=58.23 corte=-1.70
+[064] JOGADA Treze Foot-ball Club | Afonso Madagascar x Frutuoso line=4 duel=-16.27 corte=-1.70
+[065] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[065] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.331 roll=0.356
+[066] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[066] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.364 roll=0.726
+[067] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[067] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.364 roll=0.959
+[068] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[068] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.367 roll=0.866
+[069] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[069] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.331 roll=0.803
+[070] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[070] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.331 roll=0.565
+[071] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[071] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.383 roll=0.388
+[072] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[072] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.383 roll=0.282
+[072] JOGADA Treze Foot-ball Club | Zé Preto Uganda x Doçudo line=3 duel=9.90 corte=-1.70
+[072] JOGADA Treze Foot-ball Club | Cotó x Otto Stein line=4 duel=-9.84 corte=-1.70
+[073] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[073] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.331 roll=0.579
+[074] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[074] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.331 roll=0.870
+[075] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[075] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.383 roll=0.877
+[076] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[076] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.357 roll=0.412
+[077] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[077] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.372 roll=0.116
+[077] JOGADA Treze Foot-ball Club | Homem Moça Argélia x Belfort Galindo line=4 duel=-11.67 corte=-1.70
+[078] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[078] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.357 roll=0.101
+[078] JOGADA America Football Club Pernambucano | Doçudo x Manoel de Veras line=4 duel=-33.08 corte=-1.04
+[078] JOGADA falhou: Manoel de Veras cortou
+[079] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[079] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.357 roll=0.837
+[080] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[080] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.372 roll=0.646
+[081] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[081] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.372 roll=0.654
+[082] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[082] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.357 roll=0.000
+[082] JOGADA America Football Club Pernambucano | Enrich Mallmann x Manoel de Veras line=3 duel=54.90 corte=-1.04
+[082] JOGADA America Football Club Pernambucano | Enrich Mallmann x Antônio Bióca line=4 duel=3.50 corte=-1.04
+[082] JOGADA America Football Club Pernambucano | Doçado x Marcílio Soronha line=4 duel=-0.12 corte=-1.04
+[082] FINAL America Football Club Pernambucano | Doçado fam=1 duel=-6.27 on_target=0.727 goal=0.248
+[082] FINAL Doçado: no alvo sem gol (roll=0.999)
+[083] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[083] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.357 roll=0.914
+[084] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[084] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.372 roll=0.991
+[085] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[085] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.372 roll=0.220
+[085] JOGADA Treze Foot-ball Club | Antônio Bióca x Frutuoso line=3 duel=-6.93 corte=-1.70
+[085] JOGADA falhou: Frutuoso cortou
+[086] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[086] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.376 roll=0.689
+[087] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[087] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.372 roll=0.787
+[088] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[088] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.372 roll=0.329
+[088] JOGADA Treze Foot-ball Club | Zé Preto Uganda x Otto Stein line=4 duel=-8.77 corte=-1.70
+[089] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[089] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.372 roll=0.424
+[090] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[090] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.372 roll=0.543
+[091] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[091] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.372 roll=0.396
+[092] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[092] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.372 roll=0.985
+[093] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[093] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.376 roll=0.481
+[094] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[094] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.376 roll=0.122
+[094] JOGADA America Football Club Pernambucano | Antônio Couto x Zé Preto Uganda line=2 duel=6.02 corte=-1.04
+[094] JOGADA America Football Club Pernambucano | Grassani x Zé Eloy line=3 duel=-0.99 corte=-1.04
+[094] JOGADA America Football Club Pernambucano | Pedro Firmino x Zé Preto Uganda line=4 duel=8.62 corte=-1.04
+[094] FINAL America Football Club Pernambucano | Doçado fam=1 duel=-2.80 on_target=0.773 goal=0.250
+[094] FINAL Doçado: no alvo sem gol (roll=0.554)
+[095] posse=Treze Foot-ball Club | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[095] BUILD Treze Foot-ball Club vs America Football Club Pernambucano prob=0.372 roll=0.672
+[096] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[096] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.376 roll=0.264
+[096] JOGADA America Football Club Pernambucano | Belfort Galindo x Manoel de Veras line=3 duel=-2.21 corte=-1.04
+[097] posse=America Football Club Pernambucano | placar Treze Foot-ball Club 1 x 0 America Football Club Pernambucano
+[097] BUILD America Football Club Pernambucano vs Treze Foot-ball Club prob=0.376 roll=0.428

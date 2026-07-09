@@ -1,0 +1,288 @@
+Partida #124
+Data: 1912-01-08
+Mandante: Sport Club Rio Preto
+Visitante: Associação Athlética Caldense
+Placar: 1 x 0
+Seed: -
+Estádio: Arena Mantiqueira
+Clima: Frio forte
+Placar tempo normal: 1 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Sport Club Rio Preto x Associação Athlética Caldense | estádio=Arena Mantiqueira | clima=Frio forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[001] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.305 roll=0.751
+[002] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[002] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.305 roll=0.319
+[003] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[003] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.305 roll=0.860
+[004] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[004] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.305 roll=0.482
+[005] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[005] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.305 roll=0.968
+[006] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[006] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.305 roll=0.374
+[007] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[007] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.305 roll=0.473
+[008] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[008] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.305 roll=0.084
+[008] JOGADA Sport Club Rio Preto | Tapioca Pereira da Silva x Roque Silva line=3 duel=20.71 corte=-1.70
+[008] JOGADA Sport Club Rio Preto | Tapioca Pereira da Silva x Godofredo Modesto line=4 duel=-19.57 corte=-1.70
+[009] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[009] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.295 roll=0.039
+[009] JOGADA Associação Athlética Caldense | Horácio Modesto x Tapioca Pereira da Silva line=4 duel=37.67 corte=-1.12
+[009] FINAL Associação Athlética Caldense | Defranco Lavoisier fam=1 duel=12.23 on_target=0.599 goal=0.225
+[009] FINAL Defranco Lavoisier: fora/alvo perdido (roll=0.863)
+[010] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[010] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.305 roll=0.326
+[011] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[011] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.319 roll=0.428
+[012] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[012] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.319 roll=0.165
+[012] JOGADA Associação Athlética Caldense | Leopoldo Quero-Quero x Serra Damasceno line=2 duel=99.10 corte=-1.12
+[012] FINAL Associação Athlética Caldense | Roque Silva fam=3 duel=6.98 on_target=0.588 goal=0.184
+[012] FINAL Roque Silva: fora/alvo perdido (roll=0.698)
+[013] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[013] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.330 roll=0.675
+[014] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[014] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.319 roll=0.291
+[014] JOGADA Associação Athlética Caldense | Leopoldo Quero-Quero x Boaventura Sanches line=3 duel=8.12 corte=-1.12
+[014] FINAL Associação Athlética Caldense | Come-cu do Sergipe fam=3 duel=-1.50 on_target=0.586 goal=0.179
+[014] FINAL Come-cu do Sergipe: no alvo sem gol (roll=0.715)
+[015] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[015] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.319 roll=0.634
+[016] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[016] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.330 roll=0.689
+[017] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[017] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.330 roll=0.334
+[018] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[018] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.319 roll=0.447
+[019] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[019] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.330 roll=0.145
+[019] JOGADA Sport Club Rio Preto | Pacheco Pellegrini x Leopoldo Quero-Quero line=2 duel=32.07 corte=-1.70
+[019] JOGADA Sport Club Rio Preto | Delfim Vilaça x Come-cu do Sergipe line=3 duel=-8.17 corte=-1.70
+[020] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[020] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.319 roll=0.525
+[020] FINAL Associação Athlética Caldense | Godofredo Lopes fam=5 duel=-80.81 on_target=0.547 goal=0.101
+[020] FINAL Godofredo Lopes: no alvo sem gol (roll=0.570)
+[021] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[021] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.342 roll=0.635
+[022] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[022] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.355 roll=0.430
+[023] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[023] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.355 roll=0.607
+[024] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[024] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.355 roll=0.072
+[024] JOGADA Sport Club Rio Preto | Saverio Nazareth x Tancredo de Assis line=4 duel=-19.65 corte=-1.70
+[025] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[025] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.355 roll=0.177
+[025] JOGADA Sport Club Rio Preto | Pacheco Pellegrini x Come-cu do Sergipe line=3 duel=55.06 corte=-1.70
+[025] JOGADA Sport Club Rio Preto | Tapioca Pereira da Silva x Defranco Lavoisier line=4 duel=-8.12 corte=-1.70
+[025] FINAL Sport Club Rio Preto | Tapioca Pereira da Silva fam=5 duel=-9.46 on_target=0.589 goal=0.151
+[025] FINAL Tapioca Pereira da Silva: no alvo sem gol (roll=0.980)
+[026] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[026] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.342 roll=0.601
+[027] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[027] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.355 roll=0.774
+[028] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[028] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.355 roll=0.469
+[029] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[029] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.342 roll=0.998
+[030] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[030] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.355 roll=0.638
+[031] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[031] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.355 roll=0.344
+[031] JOGADA Sport Club Rio Preto | Saverio Nazareth x Godofredo Lopes line=4 duel=-43.24 corte=-1.70
+[031] JOGADA falhou: Godofredo Lopes cortou
+[032] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[032] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.357 roll=0.665
+[033] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[033] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.357 roll=0.397
+[034] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[034] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.357 roll=0.665
+[035] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[035] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.357 roll=0.909
+[036] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[036] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.342 roll=0.434
+[037] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[037] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.342 roll=0.300
+[037] JOGADA Associação Athlética Caldense | Tancredo de Assis x Aratuba Cordova line=3 duel=14.69 corte=-1.12
+[037] FINAL Associação Athlética Caldense | Defranco Lavoisier fam=1 duel=0.30 on_target=0.680 goal=0.242
+[037] FINAL Defranco Lavoisier: no alvo sem gol (roll=0.958)
+[038] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[038] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.357 roll=0.311
+[038] JOGADA Sport Club Rio Preto | Balbino Lago x Godofredo Modesto line=3 duel=-28.22 corte=-1.70
+[038] JOGADA falhou: Godofredo Modesto cortou
+[039] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[039] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.357 roll=0.110
+[039] JOGADA Sport Club Rio Preto | Aratuba Cordova x Godofredo Modesto line=4 duel=-15.77 corte=-1.70
+[039] JOGADA falhou: Godofredo Modesto cortou
+[040] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[040] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.342 roll=0.081
+[040] JOGADA Associação Athlética Caldense | Godofredo Lopes x Delfim Vilaça line=4 duel=10.85 corte=-1.12
+[040] FINAL Associação Athlética Caldense | Roque Silva fam=1 duel=-3.18 on_target=0.681 goal=0.241
+[040] FINAL Roque Silva: fora/alvo perdido (roll=0.937)
+[041] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[041] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.342 roll=0.497
+[042] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[042] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.357 roll=0.777
+[043] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[043] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.357 roll=0.036
+[043] JOGADA Sport Club Rio Preto | Pacheco Pellegrini x Roque Silva line=3 duel=36.35 corte=-1.70
+[043] JOGADA Sport Club Rio Preto | Aratuba Cordova x Horácio Modesto line=4 duel=-24.29 corte=-1.70
+[043] JOGADA falhou: Horácio Modesto cortou
+[044] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[044] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.357 roll=0.049
+[044] JOGADA Sport Club Rio Preto | Tapioca Pereira da Silva x Leopoldo Quero-Quero line=4 duel=-62.51 corte=-1.70
+[044] JOGADA falhou: Leopoldo Quero-Quero cortou
+[045] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[045] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.342 roll=0.660
+[046] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[046] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.332 roll=0.266
+[046] JOGADA Sport Club Rio Preto | Balbino Lago x Roque Silva line=4 duel=-43.93 corte=-1.70
+[046] JOGADA falhou: Roque Silva cortou
+[047] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[047] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.332 roll=0.373
+[048] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[048] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.332 roll=0.455
+[049] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[049] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.332 roll=0.284
+[049] JOGADA Sport Club Rio Preto | Namauá Manhães x Índio Come-Mato line=3 duel=19.00 corte=-1.70
+[049] FINAL Sport Club Rio Preto | Serra Damasceno fam=5 duel=-56.83 on_target=0.558 goal=0.126
+[049] FINAL Serra Damasceno: no alvo sem gol (roll=0.139)
+[050] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[050] SUB Sport Club Rio Preto: saiu Saverio Nazareth (CA) | entrou Jonatas Seixas (CA) | subs=1/5
+[050] SUB Associação Athlética Caldense: saiu Roque Silva (CA) | entrou Álvaregerencilino Borges (CA) | subs=1/5
+[050] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.319 roll=0.499
+[051] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[051] SUB Sport Club Rio Preto: saiu Namauá Manhães (SA) | entrou Edo Saviano (SA) | subs=2/5
+[051] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.323 roll=0.797
+[052] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[052] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.314 roll=0.717
+[053] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[053] SUB Sport Club Rio Preto: saiu Tapioca Pereira da Silva (PE) | entrou Suruí Candeias (ME) | subs=3/5
+[053] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.326 roll=0.796
+[054] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[054] SUB Sport Club Rio Preto: saiu Boaventura Sanches (ZAG) | entrou Amanary Zanetti (ZAG) | subs=4/5
+[054] SUB Associação Athlética Caldense: saiu Rory Macdonald (ZAG) | entrou Álvaro Lorenço (ZAG) | subs=2/5
+[054] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.331 roll=0.273
+[054] JOGADA Associação Athlética Caldense | Leopoldo Quero-Quero x Balbino Lago line=4 duel=-4.52 corte=-1.11
+[055] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[055] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.331 roll=0.943
+[056] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[056] SUB Associação Athlética Caldense: saiu Defranco Lavoisier (MA) | entrou Lúcio Albuquerque (MC) | subs=3/5
+[056] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.336 roll=0.999
+[057] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[057] SUB Sport Club Rio Preto: saiu Aratuba Cordova (LE) | entrou Donaldo Brasileiro (LD) | subs=5/5
+[057] SUB Associação Athlética Caldense: saiu Índio Come-Mato (SA) | entrou Tito Pires (CA) | subs=4/5
+[057] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.336 roll=0.897
+[058] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[058] SUB Associação Athlética Caldense: saiu Tancredo de Assis (MC) | entrou Júlio Mendeco (MC) | subs=5/5
+[058] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.335 roll=0.780
+[059] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[059] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.341 roll=0.245
+[059] JOGADA Sport Club Rio Preto | Jonatas Seixas x Leopoldo Quero-Quero line=4 duel=-12.61 corte=-1.70
+[060] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[060] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.344 roll=0.976
+[061] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[061] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.344 roll=0.483
+[062] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[062] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.344 roll=0.035
+[062] JOGADA Sport Club Rio Preto | Edo Saviano x Horácio Modesto line=2 duel=57.98 corte=-1.70
+[062] JOGADA Sport Club Rio Preto | Delfim Vilaça x Tito Pires line=4 duel=9.04 corte=-1.70
+[062] JOGADA Sport Club Rio Preto | Suruí Candeias x Come-cu do Sergipe line=5 duel=65.64 corte=-1.95
+[062] FINAL Sport Club Rio Preto | Jonatas Seixas fam=1 duel=-6.26 on_target=0.680 goal=0.244
+[062] FINAL Jonatas Seixas: fora/alvo perdido (roll=0.696)
+[063] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[063] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.335 roll=0.432
+[064] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[064] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.335 roll=0.298
+[064] JOGADA Associação Athlética Caldense | Horácio Modesto x Balbino Lago line=3 duel=11.11 corte=-1.11
+[064] FINAL Associação Athlética Caldense | Tito Pires fam=1 duel=21.30 on_target=0.682 goal=0.252
+[064] FINAL Tito Pires: fora/alvo perdido (roll=0.766)
+[065] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[065] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.335 roll=0.969
+[066] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[066] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.344 roll=0.177
+[066] JOGADA Sport Club Rio Preto | Balbino Lago x Godofredo Modesto line=3 duel=-23.72 corte=-1.70
+[066] JOGADA falhou: Godofredo Modesto cortou
+[067] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[067] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.335 roll=0.864
+[068] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[068] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.335 roll=0.247
+[068] JOGADA Associação Athlética Caldense | Godofredo Lopes x Marangatu Barreto line=2 duel=87.99 corte=-1.10
+[068] FINAL Associação Athlética Caldense | Álvaregerencilino Borges fam=1 duel=25.91 on_target=0.683 goal=0.254
+[068] FINAL Álvaregerencilino Borges: no alvo sem gol (roll=0.623)
+[069] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[069] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.335 roll=0.779
+[070] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[070] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.348 roll=0.557
+[071] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[071] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.335 roll=0.574
+[072] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[072] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.335 roll=0.584
+[073] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[073] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.348 roll=0.702
+[074] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[074] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.335 roll=0.344
+[075] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[075] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.348 roll=0.943
+[076] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[076] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.345 roll=0.220
+[076] JOGADA Associação Athlética Caldense | Godofredo Modesto x Balbino Lago line=2 duel=67.11 corte=-1.06
+[076] FINAL Associação Athlética Caldense | Álvaregerencilino Borges fam=1 duel=10.47 on_target=0.696 goal=0.250
+[076] FINAL Álvaregerencilino Borges: no alvo sem gol (roll=0.882)
+[077] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[077] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.358 roll=0.290
+[077] JOGADA Sport Club Rio Preto | Amanary Zanetti x Álvaregerencilino Borges line=2 duel=6.12 corte=-1.70
+[077] JOGADA Sport Club Rio Preto | Delfim Vilaça x Horácio Modesto line=3 duel=-21.67 corte=-1.70
+[077] JOGADA falhou: Horácio Modesto cortou
+[078] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 0 x 0 Associação Athlética Caldense
+[078] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.358 roll=0.174
+[078] JOGADA Sport Club Rio Preto | Marangatu Barreto x Álvaregerencilino Borges line=3 duel=3.73 corte=-1.70
+[078] FINAL Sport Club Rio Preto | Serra Damasceno fam=5 duel=-44.00 on_target=0.602 goal=0.140
+[078] FINAL Serra Damasceno: GOL subtipo=FALTA (roll=0.140)
+[079] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[079] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.387 roll=0.496
+[080] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[080] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.436 roll=0.773
+[081] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[081] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.387 roll=0.572
+[082] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[082] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.387 roll=0.232
+[082] JOGADA Sport Club Rio Preto | Edo Saviano x Come-cu do Sergipe line=4 duel=5.69 corte=-1.70
+[082] FINAL Sport Club Rio Preto | Serra Damasceno fam=5 duel=-44.00 on_target=0.567 goal=0.132
+[082] FINAL Serra Damasceno: no alvo sem gol (roll=0.506)
+[083] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[083] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.387 roll=0.601
+[084] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[084] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.436 roll=0.875
+[085] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[085] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.387 roll=0.603
+[086] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[086] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.460 roll=0.931
+[087] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[087] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.387 roll=0.832
+[088] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[088] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.387 roll=0.941
+[089] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[089] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.460 roll=0.130
+[089] JOGADA Associação Athlética Caldense | Horácio Modesto x Donaldo Brasileiro line=3 duel=-7.42 corte=-1.05
+[089] JOGADA falhou: Donaldo Brasileiro cortou
+[090] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[090] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.460 roll=0.481
+[091] posse=Sport Club Rio Preto | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[091] BUILD Sport Club Rio Preto vs Associação Athlética Caldense prob=0.387 roll=0.061
+[091] JOGADA Sport Club Rio Preto | Edo Saviano x Tito Pires line=4 duel=15.85 corte=-1.70
+[091] FINAL Sport Club Rio Preto | Serra Damasceno fam=5 duel=-3.61 on_target=0.569 goal=0.150
+[091] FINAL Serra Damasceno: no alvo sem gol (roll=0.318)
+[092] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[092] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.460 roll=0.985
+[093] posse=Associação Athlética Caldense | placar Sport Club Rio Preto 1 x 0 Associação Athlética Caldense
+[093] BUILD Associação Athlética Caldense vs Sport Club Rio Preto prob=0.460 roll=0.320
+[093] JOGADA Associação Athlética Caldense | Tito Pires x Donaldo Brasileiro line=2 duel=49.15 corte=-1.05
+[093] FINAL Associação Athlética Caldense | Tito Pires fam=1 duel=2.45 on_target=0.775 goal=0.253
+[093] FINAL Tito Pires: fora/alvo perdido (roll=0.984)

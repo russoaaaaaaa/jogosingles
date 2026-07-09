@@ -1,0 +1,309 @@
+Partida #64
+Data: 1912-01-04
+Mandante: Clube Universitário Mineiro
+Visitante: Rio Grande Pirates
+Placar: 1 x 1
+Seed: -
+Estádio: Estádio Dagoberto da Silva
+Clima: Calor forte
+Placar tempo normal: 1 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube Universitário Mineiro x Rio Grande Pirates | estádio=Estádio Dagoberto da Silva | clima=Calor forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[001] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.339 roll=0.750
+[002] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[002] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.339 roll=0.685
+[003] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[003] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.392 roll=0.533
+[004] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[004] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.392 roll=0.285
+[004] JOGADA Clube Universitário Mineiro | Juliano dos Santos x Pedro Papagaio line=4 duel=76.30 corte=-1.12
+[004] FINAL Clube Universitário Mineiro | Juliano dos Santos fam=1 duel=-6.28 on_target=0.599 goal=0.217
+[004] FINAL Juliano dos Santos: fora/alvo perdido (roll=0.849)
+[005] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[005] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.339 roll=0.162
+[005] JOGADA Rio Grande Pirates | Sequestrado Silva x Carlos Brant line=5 duel=0.32 corte=-1.55
+[005] FINAL Rio Grande Pirates | Davy Jones fam=5 duel=-82.42 on_target=0.517 goal=0.107
+[005] FINAL Davy Jones: no alvo sem gol (roll=0.890)
+[006] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[006] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.339 roll=0.656
+[007] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[007] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.392 roll=0.146
+[007] JOGADA Clube Universitário Mineiro | Thiago Jor x Josefino Bandeira line=3 duel=-14.94 corte=-1.12
+[007] JOGADA falhou: Josefino Bandeira cortou
+[008] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[008] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.392 roll=0.480
+[009] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[009] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.392 roll=0.370
+[009] JOGADA Clube Universitário Mineiro | Eduardo Eleonor x Eduardo Barba Negra line=4 duel=-13.12 corte=-1.12
+[010] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[010] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.392 roll=0.427
+[011] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[011] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.424 roll=0.637
+[012] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[012] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.367 roll=0.870
+[013] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[013] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.424 roll=0.814
+[014] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[014] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.367 roll=0.929
+[015] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[015] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.424 roll=0.458
+[016] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[016] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.367 roll=0.585
+[017] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[017] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.367 roll=0.524
+[018] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[018] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.367 roll=0.672
+[019] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[019] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.424 roll=0.382
+[019] JOGADA Clube Universitário Mineiro | Castro José x Davy Jones line=4 duel=46.59 corte=-1.12
+[019] FINAL Clube Universitário Mineiro | Luisinho Tartaruga fam=1 duel=-4.59 on_target=0.647 goal=0.232
+[019] FINAL Luisinho Tartaruga: fora/alvo perdido (roll=0.744)
+[020] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[020] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.367 roll=0.080
+[020] JOGADA Rio Grande Pirates | João Olho de Vidro x Carlos Brant line=5 duel=-16.85 corte=-1.55
+[020] JOGADA falhou: Carlos Brant cortou
+[021] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[021] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.394 roll=0.845
+[022] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[022] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.394 roll=0.860
+[023] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[023] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.456 roll=0.853
+[024] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[024] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.394 roll=0.578
+[024] FINAL Rio Grande Pirates | Espingarda Vibrante fam=5 duel=3.92 on_target=0.592 goal=0.158
+[024] FINAL Espingarda Vibrante: no alvo sem gol (roll=0.513)
+[025] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[025] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.456 roll=0.730
+[026] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[026] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.456 roll=0.912
+[026] FINAL Clube Universitário Mineiro | Luisinho Tartaruga fam=5 duel=-7.23 on_target=0.582 goal=0.138
+[026] FINAL Luisinho Tartaruga: fora/alvo perdido (roll=0.805)
+[027] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[027] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.456 roll=0.519
+[028] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[028] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.394 roll=0.453
+[029] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[029] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.394 roll=0.675
+[030] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[030] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.456 roll=0.117
+[030] JOGADA Clube Universitário Mineiro | Lutério Gomes x Sancho Cozinheiro line=3 duel=-2.95 corte=-1.12
+[031] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[031] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.394 roll=0.928
+[032] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[032] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.456 roll=0.445
+[032] JOGADA Clube Universitário Mineiro | Eduardo Eleonor x Espingarda Vibrante line=4 duel=21.09 corte=-1.12
+[032] FINAL Clube Universitário Mineiro | Eduardo Eleonor fam=1 duel=-13.22 on_target=0.681 goal=0.236
+[032] FINAL Eduardo Eleonor: no alvo sem gol (roll=0.290)
+[033] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Rio Grande Pirates
+[033] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.456 roll=0.063
+[033] JOGADA Clube Universitário Mineiro | Castro José x Josefino Bandeira line=5 duel=54.69 corte=-1.37
+[033] FINAL Clube Universitário Mineiro | Luisinho Tartaruga fam=1 duel=-12.40 on_target=0.681 goal=0.236
+[033] FINAL Luisinho Tartaruga: GOL subtipo=CHUTE (roll=0.162)
+[034] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[034] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.447 roll=0.826
+[035] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[035] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.447 roll=0.071
+[035] JOGADA Rio Grande Pirates | Josefino Bandeira x Thiago Jor line=5 duel=68.78 corte=-1.55
+[035] FINAL Rio Grande Pirates | Davy Jones fam=5 duel=-78.72 on_target=0.589 goal=0.122
+[035] FINAL Davy Jones: no alvo sem gol (roll=0.315)
+[036] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[036] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.447 roll=0.639
+[037] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[037] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.447 roll=0.674
+[038] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[038] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.447 roll=0.021
+[038] JOGADA Rio Grande Pirates | Sancho Cozinheiro x Carlos Brant line=5 duel=-9.28 corte=-1.55
+[038] JOGADA falhou: Carlos Brant cortou
+[039] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[039] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.447 roll=0.639
+[040] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[040] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.447 roll=0.190
+[040] JOGADA Rio Grande Pirates | Sequestrado Silva x Luisinho Tartaruga line=4 duel=3.53 corte=-1.30
+[040] FINAL Rio Grande Pirates | Espingarda Vibrante fam=5 duel=5.75 on_target=0.594 goal=0.161
+[040] FINAL Espingarda Vibrante: no alvo sem gol (roll=0.999)
+[041] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[041] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.447 roll=0.400
+[041] JOGADA Rio Grande Pirates | Davy Jones x Felipe Castro Martins line=5 duel=33.67 corte=-2.05
+[041] FINAL Rio Grande Pirates | Sequestrado Silva fam=5 duel=-13.68 on_target=0.592 goal=0.152
+[041] FINAL Sequestrado Silva: fora/alvo perdido (roll=0.623)
+[042] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[042] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.456 roll=0.168
+[042] JOGADA Clube Universitário Mineiro | Omar Telles x Pedro Papagaio line=4 duel=45.07 corte=-1.30
+[042] FINAL Clube Universitário Mineiro | Eduardo Eleonor fam=3 duel=-11.24 on_target=0.618 goal=0.181
+[042] FINAL Eduardo Eleonor: fora/alvo perdido (roll=0.736)
+[043] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[043] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.447 roll=0.226
+[043] JOGADA Rio Grande Pirates | Davy Jones x Juliano dos Santos line=5 duel=19.68 corte=-2.05
+[043] FINAL Rio Grande Pirates | Davy Jones fam=5 duel=-17.61 on_target=0.593 goal=0.150
+[043] FINAL Davy Jones: fora/alvo perdido (roll=0.784)
+[044] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[044] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.447 roll=0.945
+[045] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[045] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.456 roll=0.895
+[046] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[046] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.416 roll=0.647
+[047] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[047] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.424 roll=0.378
+[047] JOGADA Clube Universitário Mineiro | Luiz Marques x Eduardo Barba Negra line=4 duel=-3.75 corte=-1.30
+[048] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[048] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.416 roll=0.853
+[049] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[049] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.424 roll=0.137
+[049] JOGADA Clube Universitário Mineiro | Lutério Gomes x João Olho de Vidro line=4 duel=11.24 corte=-1.30
+[049] FINAL Clube Universitário Mineiro | Juliano dos Santos fam=1 duel=-5.62 on_target=0.647 goal=0.232
+[049] FINAL Juliano dos Santos: no alvo sem gol (roll=0.632)
+[050] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[050] SUB Clube Universitário Mineiro: saiu Eduardo Eleonor (CA) | entrou Luciano Simões (CA) | subs=1/5
+[050] SUB Rio Grande Pirates: saiu Davy Jones (CA) | entrou Paulo Vegetti (SA) | subs=1/5
+[050] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.421 roll=0.582
+[051] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[051] SUB Clube Universitário Mineiro: saiu Juliano dos Santos (SA) | entrou Said Paulo Borges (SA) | subs=2/5
+[051] SUB Rio Grande Pirates: saiu João Olho de Vidro (LD) | entrou João Cara de Mau (AD) | subs=2/5
+[051] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.408 roll=0.068
+[051] JOGADA Clube Universitário Mineiro | Luisinho Tartaruga x Espingarda Vibrante line=4 duel=74.42 corte=-1.30
+[051] FINAL Clube Universitário Mineiro | Luciano Simões fam=1 duel=21.81 on_target=0.649 goal=0.244
+[051] FINAL Luciano Simões: fora/alvo perdido (roll=0.878)
+[052] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[052] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.423 roll=0.692
+[053] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[053] SUB Rio Grande Pirates: saiu Sancho Cozinheiro (VOL) | entrou Jacó Pardal (VOL) | subs=3/5
+[053] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.409 roll=0.538
+[054] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[054] SUB Clube Universitário Mineiro: saiu Thiago Jor (ZAG) | entrou Erasmo Justo (ZAG) | subs=3/5
+[054] SUB Rio Grande Pirates: saiu Holandês Voador Fezmotim'no Marineskul (ZAG) | entrou Dava Jonas (ZAG) | subs=4/5
+[054] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.421 roll=0.352
+[054] JOGADA Rio Grande Pirates | João Cara de Mau x Luiz Marques line=5 duel=67.66 corte=-1.55
+[054] FINAL Rio Grande Pirates | Paulo Vegetti fam=5 duel=15.85 on_target=0.564 goal=0.160
+[054] FINAL Paulo Vegetti: no alvo sem gol (roll=0.668)
+[055] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[055] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.426 roll=0.433
+[056] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[056] SUB Clube Universitário Mineiro: saiu Lutério Gomes (LE) | entrou Eduardo Vila (LD) | subs=4/5
+[056] SUB Rio Grande Pirates: saiu Eduardo Barba Negra (LE) | entrou João Perna de Pau (LE) | subs=5/5
+[056] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.460 roll=0.624
+[057] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[057] SUB Clube Universitário Mineiro: saiu Omar Telles (MD) | entrou Carlos Pulk (MD) | subs=5/5
+[057] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.454 roll=0.783
+[058] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[058] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.454 roll=0.712
+[059] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[059] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.460 roll=0.681
+[060] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[060] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.457 roll=0.560
+[061] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[061] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.460 roll=0.092
+[061] JOGADA Clube Universitário Mineiro | Erasmo Justo x Paulo Vegetti line=4 duel=19.94 corte=-1.30
+[061] FINAL Clube Universitário Mineiro | Luiz Marques fam=1 duel=1.07 on_target=0.680 goal=0.241
+[061] FINAL Luiz Marques: fora/alvo perdido (roll=0.713)
+[062] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[062] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.457 roll=0.590
+[062] FINAL Rio Grande Pirates | Sequestrado Silva fam=5 duel=-61.00 on_target=0.590 goal=0.131
+[062] FINAL Sequestrado Silva: no alvo sem gol (roll=0.738)
+[063] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[063] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.461 roll=0.389
+[063] JOGADA Clube Universitário Mineiro | Luiz Marques x Espingarda Vibrante line=4 duel=31.05 corte=-1.30
+[063] FINAL Clube Universitário Mineiro | Luciano Simões fam=3 duel=16.83 on_target=0.619 goal=0.194
+[063] FINAL Luciano Simões: fora/alvo perdido (roll=0.628)
+[064] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[064] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.461 roll=0.810
+[065] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[065] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.456 roll=0.333
+[065] JOGADA Rio Grande Pirates | João Cara de Mau x Luiz Marques line=5 duel=20.99 corte=-1.55
+[065] FINAL Rio Grande Pirates | Alma Negra fam=5 duel=0.30 on_target=0.594 goal=0.159
+[065] FINAL Alma Negra: fora/alvo perdido (roll=0.893)
+[066] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[066] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.461 roll=0.807
+[067] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 0 Rio Grande Pirates
+[067] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.456 roll=0.368
+[067] JOGADA Rio Grande Pirates | Paulo Vegetti x Felipe Castro Martins line=4 duel=17.04 corte=-1.30
+[067] FINAL Rio Grande Pirates | Sequestrado Silva fam=5 duel=-11.16 on_target=0.593 goal=0.154
+[067] FINAL Sequestrado Silva: GOL subtipo=FALTA (roll=0.080)
+[068] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[068] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.410 roll=0.919
+[069] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[069] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.410 roll=0.853
+[070] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[070] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.410 roll=0.014
+[070] JOGADA Rio Grande Pirates | Josefino Bandeira x Erasmo Justo line=4 duel=-12.53 corte=-1.30
+[070] JOGADA falhou: Erasmo Justo cortou
+[071] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[071] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.410 roll=0.759
+[072] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[072] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.410 roll=0.796
+[073] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[073] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.461 roll=0.564
+[074] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[074] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.461 roll=0.931
+[075] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[075] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.410 roll=0.390
+[075] JOGADA Rio Grande Pirates | Paulo Vegetti x Luciano Simões line=4 duel=63.51 corte=-1.30
+[075] FINAL Rio Grande Pirates | Paulo Vegetti fam=5 duel=-51.83 on_target=0.590 goal=0.134
+[075] FINAL Paulo Vegetti: fora/alvo perdido (roll=0.991)
+[076] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[076] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.422 roll=0.197
+[076] JOGADA Rio Grande Pirates | Dava Jonas x Eduardo Vila line=4 duel=11.75 corte=-1.30
+[076] FINAL Rio Grande Pirates | Paulo Vegetti fam=5 duel=-3.01 on_target=0.604 goal=0.158
+[076] FINAL Paulo Vegetti: fora/alvo perdido (roll=0.765)
+[077] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[077] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.474 roll=0.456
+[077] JOGADA Clube Universitário Mineiro | Luiz Marques x João Cara de Mau line=5 duel=18.75 corte=-1.32
+[077] FINAL Clube Universitário Mineiro | Luciano Simões fam=3 duel=4.76 on_target=0.631 goal=0.190
+[077] FINAL Luciano Simões: no alvo sem gol (roll=0.552)
+[078] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[078] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.474 roll=0.727
+[079] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[079] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.422 roll=0.197
+[079] JOGADA Rio Grande Pirates | Alma Negra x Luiz Marques line=4 duel=10.93 corte=-1.30
+[079] FINAL Rio Grande Pirates | Espingarda Vibrante fam=5 duel=0.89 on_target=0.605 goal=0.160
+[079] FINAL Espingarda Vibrante: fora/alvo perdido (roll=0.935)
+[080] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[080] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.422 roll=0.993
+[081] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[081] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.422 roll=0.597
+[082] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[082] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.474 roll=0.797
+[083] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[083] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.422 roll=0.366
+[083] JOGADA Rio Grande Pirates | João Perna de Pau x Felipe Castro Martins line=3 duel=7.27 corte=-1.30
+[083] FINAL Rio Grande Pirates | Espingarda Vibrante fam=5 duel=-43.57 on_target=0.603 goal=0.140
+[083] FINAL Espingarda Vibrante: fora/alvo perdido (roll=0.776)
+[084] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[084] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.422 roll=0.251
+[084] JOGADA Rio Grande Pirates | Jacó Pardal x Carlos Brant line=4 duel=26.87 corte=-1.30
+[084] FINAL Rio Grande Pirates | Espingarda Vibrante fam=5 duel=-43.57 on_target=0.603 goal=0.140
+[084] FINAL Espingarda Vibrante: no alvo sem gol (roll=0.286)
+[085] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[085] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.500 roll=0.021
+[085] JOGADA Clube Universitário Mineiro | Eduardo Vila x João Perna de Pau line=4 duel=-5.48 corte=-1.07
+[086] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[086] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.445 roll=0.102
+[086] JOGADA Rio Grande Pirates | Dava Jonas x Erasmo Justo line=5 duel=89.92 corte=-1.55
+[086] FINAL Rio Grande Pirates | Paulo Vegetti fam=5 duel=-6.35 on_target=0.642 goal=0.157
+[086] FINAL Paulo Vegetti: no alvo sem gol (roll=0.519)
+[087] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[087] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.445 roll=0.925
+[088] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[088] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.500 roll=0.119
+[088] JOGADA Clube Universitário Mineiro | Carlos Pulk x João Cara de Mau line=4 duel=80.34 corte=-1.07
+[088] FINAL Clube Universitário Mineiro | Said Paulo Borges fam=3 duel=-6.68 on_target=0.669 goal=0.184
+[088] FINAL Said Paulo Borges: fora/alvo perdido (roll=0.875)
+[089] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[089] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.445 roll=0.415
+[089] JOGADA Rio Grande Pirates | Jacó Pardal x Eduardo Vila line=4 duel=67.61 corte=-1.30
+[089] FINAL Rio Grande Pirates | Paulo Vegetti fam=5 duel=-55.46 on_target=0.639 goal=0.134
+[089] FINAL Paulo Vegetti: fora/alvo perdido (roll=0.902)
+[090] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[090] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.445 roll=0.599
+[091] posse=Rio Grande Pirates | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[091] BUILD Rio Grande Pirates vs Clube Universitário Mineiro prob=0.445 roll=0.547
+[092] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[092] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.500 roll=0.251
+[092] JOGADA Clube Universitário Mineiro | Felipe Castro Martins x João Cara de Mau line=3 duel=-3.55 corte=-1.07
+[092] JOGADA falhou: João Cara de Mau cortou
+[093] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 1 x 1 Rio Grande Pirates
+[093] BUILD Clube Universitário Mineiro vs Rio Grande Pirates prob=0.500 roll=0.519

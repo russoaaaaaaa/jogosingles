@@ -1,0 +1,325 @@
+Partida #127
+Data: 1912-01-08
+Mandante: Yale Atlético Clube
+Visitante: Aussie Club
+Placar: 3 x 0
+Seed: -
+Estádio: Ginásio Andrew Forwood
+Clima: Neblina
+Placar tempo normal: 3 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Yale Atlético Clube x Aussie Club | estádio=Ginásio Andrew Forwood | clima=Neblina | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Aussie Club | placar Yale Atlético Clube 0 x 0 Aussie Club
+[001] BUILD Aussie Club vs Yale Atlético Clube prob=0.303 roll=0.614
+[002] posse=Yale Atlético Clube | placar Yale Atlético Clube 0 x 0 Aussie Club
+[002] BUILD Yale Atlético Clube vs Aussie Club prob=0.363 roll=0.046
+[002] JOGADA Yale Atlético Clube | Karel Freja x Manfred Swanston line=4 duel=-1.46 corte=-1.13
+[003] posse=Yale Atlético Clube | placar Yale Atlético Clube 0 x 0 Aussie Club
+[003] BUILD Yale Atlético Clube vs Aussie Club prob=0.363 roll=0.299
+[003] JOGADA Yale Atlético Clube | Nestor McCawley Freitas x Erasmus Qualls line=3 duel=18.34 corte=-1.13
+[003] FINAL Yale Atlético Clube | John Swanton fam=1 duel=11.99 on_target=0.600 goal=0.225
+[003] FINAL John Swanton: no alvo sem gol (roll=0.334)
+[004] posse=Yale Atlético Clube | placar Yale Atlético Clube 0 x 0 Aussie Club
+[004] BUILD Yale Atlético Clube vs Aussie Club prob=0.363 roll=0.359
+[004] JOGADA Yale Atlético Clube | Carlson Nixon x Cassian Bennett line=5 duel=-2.89 corte=-1.88
+[004] JOGADA falhou: Cassian Bennett cortou
+[005] posse=Yale Atlético Clube | placar Yale Atlético Clube 0 x 0 Aussie Club
+[005] BUILD Yale Atlético Clube vs Aussie Club prob=0.363 roll=0.450
+[006] posse=Yale Atlético Clube | placar Yale Atlético Clube 0 x 0 Aussie Club
+[006] BUILD Yale Atlético Clube vs Aussie Club prob=0.363 roll=0.797
+[007] posse=Yale Atlético Clube | placar Yale Atlético Clube 0 x 0 Aussie Club
+[007] BUILD Yale Atlético Clube vs Aussie Club prob=0.363 roll=0.210
+[007] JOGADA Yale Atlético Clube | Nestor McCawley Freitas x Jesse Lillywhite line=3 duel=35.24 corte=-1.13
+[007] JOGADA Yale Atlético Clube | John Swanton x Jesse Lillywhite line=4 duel=51.42 corte=-1.13
+[007] JOGADA Yale Atlético Clube | Alonso McCloud x Cassian Bennett line=4 duel=8.72 corte=-1.13
+[007] FINAL Yale Atlético Clube | Karel Freja fam=1 duel=1.65 on_target=0.599 goal=0.221
+[007] FINAL Karel Freja: no alvo sem gol (roll=0.414)
+[008] posse=Aussie Club | placar Yale Atlético Clube 0 x 0 Aussie Club
+[008] BUILD Aussie Club vs Yale Atlético Clube prob=0.303 roll=0.670
+[009] posse=Aussie Club | placar Yale Atlético Clube 0 x 0 Aussie Club
+[009] BUILD Aussie Club vs Yale Atlético Clube prob=0.303 roll=0.623
+[009] FINAL Aussie Club | Kelvin Lukis fam=5 duel=-107.60 on_target=0.512 goal=0.095
+[009] FINAL Kelvin Lukis: no alvo sem gol (roll=0.995)
+[010] posse=Aussie Club | placar Yale Atlético Clube 0 x 0 Aussie Club
+[010] BUILD Aussie Club vs Yale Atlético Clube prob=0.303 roll=0.564
+[011] posse=Yale Atlético Clube | placar Yale Atlético Clube 0 x 0 Aussie Club
+[011] BUILD Yale Atlético Clube vs Aussie Club prob=0.393 roll=0.488
+[012] posse=Yale Atlético Clube | placar Yale Atlético Clube 0 x 0 Aussie Club
+[012] BUILD Yale Atlético Clube vs Aussie Club prob=0.393 roll=0.561
+[013] posse=Yale Atlético Clube | placar Yale Atlético Clube 0 x 0 Aussie Club
+[013] BUILD Yale Atlético Clube vs Aussie Club prob=0.393 roll=0.836
+[014] posse=Aussie Club | placar Yale Atlético Clube 0 x 0 Aussie Club
+[014] BUILD Aussie Club vs Yale Atlético Clube prob=0.328 roll=0.585
+[015] posse=Aussie Club | placar Yale Atlético Clube 0 x 0 Aussie Club
+[015] BUILD Aussie Club vs Yale Atlético Clube prob=0.328 roll=0.905
+[016] posse=Aussie Club | placar Yale Atlético Clube 0 x 0 Aussie Club
+[016] BUILD Aussie Club vs Yale Atlético Clube prob=0.328 roll=0.921
+[017] posse=Aussie Club | placar Yale Atlético Clube 0 x 0 Aussie Club
+[017] BUILD Aussie Club vs Yale Atlético Clube prob=0.328 roll=0.663
+[018] posse=Yale Atlético Clube | placar Yale Atlético Clube 0 x 0 Aussie Club
+[018] BUILD Yale Atlético Clube vs Aussie Club prob=0.393 roll=0.340
+[018] JOGADA Yale Atlético Clube | Miguel Leão x Reid Dixon line=5 duel=8.31 corte=-1.38
+[018] JOGADA Yale Atlético Clube | Heraldo Broomfield x Erasmus Qualls line=5 duel=114.64 corte=-1.38
+[018] JOGADA Yale Atlético Clube | Heraldo Broomfield x Jesse Lillywhite line=5 duel=118.73 corte=-1.38
+[018] FINAL Yale Atlético Clube | John Swanton fam=1 duel=18.65 on_target=0.648 goal=0.243
+[018] FINAL John Swanton: no alvo sem gol (roll=0.550)
+[019] posse=Aussie Club | placar Yale Atlético Clube 0 x 0 Aussie Club
+[019] BUILD Aussie Club vs Yale Atlético Clube prob=0.328 roll=0.917
+[020] posse=Aussie Club | placar Yale Atlético Clube 0 x 0 Aussie Club
+[020] BUILD Aussie Club vs Yale Atlético Clube prob=0.328 roll=0.915
+[021] posse=Aussie Club | placar Yale Atlético Clube 0 x 0 Aussie Club
+[021] BUILD Aussie Club vs Yale Atlético Clube prob=0.353 roll=0.606
+[022] posse=Yale Atlético Clube | placar Yale Atlético Clube 0 x 0 Aussie Club
+[022] BUILD Yale Atlético Clube vs Aussie Club prob=0.423 roll=0.113
+[022] JOGADA Yale Atlético Clube | Miguel Leão x Erasmus Qualls line=4 duel=50.52 corte=-1.13
+[022] JOGADA Yale Atlético Clube | John Swanton x Kelvin Lukis line=4 duel=2.10 corte=-1.13
+[022] FINAL Yale Atlético Clube | Carlson Nixon fam=1 duel=-12.35 on_target=0.681 goal=0.236
+[022] FINAL Carlson Nixon: GOL subtipo=CHUTE (roll=0.098)
+[023] posse=Yale Atlético Clube | placar Yale Atlético Clube 1 x 0 Aussie Club
+[023] BUILD Yale Atlético Clube vs Aussie Club prob=0.423 roll=0.320
+[023] JOGADA Yale Atlético Clube | Heraldo Broomfield x Jesse Lillywhite line=4 duel=51.96 corte=-1.30
+[023] FINAL Yale Atlético Clube | John Swanton fam=1 duel=13.39 on_target=0.682 goal=0.248
+[023] FINAL John Swanton: fora/alvo perdido (roll=0.901)
+[024] posse=Aussie Club | placar Yale Atlético Clube 1 x 0 Aussie Club
+[024] BUILD Aussie Club vs Yale Atlético Clube prob=0.404 roll=0.296
+[024] JOGADA Aussie Club | Webster Boulting x Saúl Tenerife line=2 duel=-4.84 corte=-1.30
+[024] JOGADA falhou: Saúl Tenerife cortou
+[025] posse=Yale Atlético Clube | placar Yale Atlético Clube 1 x 0 Aussie Club
+[025] BUILD Yale Atlético Clube vs Aussie Club prob=0.423 roll=0.826
+[026] posse=Aussie Club | placar Yale Atlético Clube 1 x 0 Aussie Club
+[026] BUILD Aussie Club vs Yale Atlético Clube prob=0.404 roll=0.688
+[027] posse=Yale Atlético Clube | placar Yale Atlético Clube 1 x 0 Aussie Club
+[027] BUILD Yale Atlético Clube vs Aussie Club prob=0.423 roll=0.799
+[028] posse=Aussie Club | placar Yale Atlético Clube 1 x 0 Aussie Club
+[028] BUILD Aussie Club vs Yale Atlético Clube prob=0.404 roll=0.801
+[029] posse=Yale Atlético Clube | placar Yale Atlético Clube 1 x 0 Aussie Club
+[029] BUILD Yale Atlético Clube vs Aussie Club prob=0.423 roll=0.727
+[030] posse=Aussie Club | placar Yale Atlético Clube 1 x 0 Aussie Club
+[030] BUILD Aussie Club vs Yale Atlético Clube prob=0.404 roll=0.448
+[031] posse=Aussie Club | placar Yale Atlético Clube 1 x 0 Aussie Club
+[031] BUILD Aussie Club vs Yale Atlético Clube prob=0.404 roll=0.844
+[032] posse=Yale Atlético Clube | placar Yale Atlético Clube 1 x 0 Aussie Club
+[032] BUILD Yale Atlético Clube vs Aussie Club prob=0.423 roll=0.223
+[032] JOGADA Yale Atlético Clube | Karel Freja x Ray Gwatkin line=5 duel=35.09 corte=-2.05
+[032] JOGADA Yale Atlético Clube | Miguel Leão x Dylan Strele line=5 duel=14.46 corte=-1.55
+[032] JOGADA Yale Atlético Clube | Saúl Tenerife x Ray Gwatkin line=5 duel=51.50 corte=-1.55
+[032] FINAL Yale Atlético Clube | Carlson Nixon fam=1 duel=-16.34 on_target=0.680 goal=0.234
+[032] FINAL Carlson Nixon: GOL subtipo=CHUTE (roll=0.222)
+[033] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[033] BUILD Aussie Club vs Yale Atlético Clube prob=0.408 roll=0.743
+[033] FINAL Aussie Club | Kelvin Lukis fam=5 duel=-28.71 on_target=0.589 goal=0.144
+[033] FINAL Kelvin Lukis: fora/alvo perdido (roll=0.634)
+[034] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[034] BUILD Aussie Club vs Yale Atlético Clube prob=0.408 roll=0.791
+[035] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[035] BUILD Aussie Club vs Yale Atlético Clube prob=0.408 roll=0.218
+[035] JOGADA Aussie Club | Erasmus Qualls x John Swanton line=4 duel=11.85 corte=-1.30
+[035] FINAL Aussie Club | Erasmus Qualls fam=5 duel=-80.34 on_target=0.587 goal=0.121
+[035] FINAL Erasmus Qualls: no alvo sem gol (roll=0.789)
+[036] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[036] BUILD Aussie Club vs Yale Atlético Clube prob=0.408 roll=0.299
+[036] JOGADA Aussie Club | Christopher Nixon x Augusto Laslett line=3 duel=6.56 corte=-1.30
+[036] FINAL Aussie Club | Erasmus Qualls fam=5 duel=-79.39 on_target=0.587 goal=0.122
+[036] FINAL Erasmus Qualls: no alvo sem gol (roll=0.889)
+[037] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[037] BUILD Aussie Club vs Yale Atlético Clube prob=0.408 roll=0.257
+[037] JOGADA Aussie Club | Webster Boulting x Nestor McCawley Freitas line=2 duel=-10.04 corte=-1.30
+[037] JOGADA falhou: Nestor McCawley Freitas cortou
+[038] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[038] BUILD Aussie Club vs Yale Atlético Clube prob=0.408 roll=0.212
+[038] JOGADA Aussie Club | Webster Boulting x Saúl Tenerife line=4 duel=-25.37 corte=-1.30
+[038] JOGADA falhou: Saúl Tenerife cortou
+[039] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[039] BUILD Aussie Club vs Yale Atlético Clube prob=0.408 roll=0.277
+[039] JOGADA Aussie Club | Dylan Strele x Carlson Nixon line=4 duel=43.60 corte=-1.30
+[039] JOGADA Aussie Club | Ray Gwatkin x Nestor McCawley Freitas line=5 duel=-18.42 corte=-1.55
+[039] JOGADA falhou: Nestor McCawley Freitas cortou
+[040] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[040] BUILD Yale Atlético Clube vs Aussie Club prob=0.413 roll=0.897
+[041] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[041] BUILD Yale Atlético Clube vs Aussie Club prob=0.413 roll=0.644
+[042] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[042] BUILD Yale Atlético Clube vs Aussie Club prob=0.413 roll=0.878
+[043] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[043] BUILD Aussie Club vs Yale Atlético Clube prob=0.408 roll=0.284
+[043] JOGADA Aussie Club | Erasmus Qualls x Miguel Leão line=2 duel=-24.04 corte=-1.30
+[043] JOGADA falhou: Miguel Leão cortou
+[044] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[044] BUILD Yale Atlético Clube vs Aussie Club prob=0.413 roll=0.756
+[045] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[045] BUILD Aussie Club vs Yale Atlético Clube prob=0.408 roll=0.196
+[045] JOGADA Aussie Club | Erasmus Qualls x Miguel Leão line=4 duel=-88.25 corte=-1.30
+[045] JOGADA falhou: Miguel Leão cortou
+[046] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[046] BUILD Aussie Club vs Yale Atlético Clube prob=0.380 roll=0.458
+[047] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[047] BUILD Yale Atlético Clube vs Aussie Club prob=0.384 roll=0.160
+[047] JOGADA Yale Atlético Clube | Fredy Lawton x Christopher Nixon line=5 duel=-2.44 corte=-1.55
+[047] JOGADA falhou: Christopher Nixon cortou
+[048] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[048] BUILD Aussie Club vs Yale Atlético Clube prob=0.380 roll=0.614
+[049] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[049] BUILD Yale Atlético Clube vs Aussie Club prob=0.384 roll=0.882
+[050] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[050] SUB Yale Atlético Clube: saiu Karel Freja (SA) | entrou Douglas Huston (PD) | subs=1/5
+[050] SUB Aussie Club: saiu Erasmus Qualls (SA) | entrou Manfred Massey (SA) | subs=1/5
+[050] BUILD Aussie Club vs Yale Atlético Clube prob=0.378 roll=0.678
+[051] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[051] SUB Yale Atlético Clube: saiu Alonso McCloud (SA) | entrou Heraldo Donaldson (MA) | subs=2/5
+[051] SUB Aussie Club: saiu Jesse Lillywhite (CA) | entrou Bond Bishop (PD) | subs=2/5
+[051] BUILD Yale Atlético Clube vs Aussie Club prob=0.379 roll=0.673
+[052] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[052] SUB Yale Atlético Clube: saiu Carlson Nixon (CA) | entrou Onofre Conceição (CA) | subs=3/5
+[052] BUILD Yale Atlético Clube vs Aussie Club prob=0.366 roll=0.980
+[053] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[053] BUILD Yale Atlético Clube vs Aussie Club prob=0.366 roll=0.361
+[053] JOGADA Yale Atlético Clube | Miguel Leão x Manfred Massey line=3 duel=22.34 corte=-1.30
+[053] JOGADA Yale Atlético Clube | Douglas Huston x Ray Gwatkin line=4 duel=27.41 corte=-1.30
+[053] JOGADA Yale Atlético Clube | Miguel Leão x Cassian Bennett line=4 duel=-5.75 corte=-1.30
+[054] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[054] BUILD Aussie Club vs Yale Atlético Clube prob=0.384 roll=0.886
+[055] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[055] BUILD Yale Atlético Clube vs Aussie Club prob=0.366 roll=0.357
+[055] JOGADA Yale Atlético Clube | Onofre Conceição x Manfred Swanston line=4 duel=-20.97 corte=-1.30
+[055] JOGADA falhou: Manfred Swanston cortou
+[056] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[056] BUILD Aussie Club vs Yale Atlético Clube prob=0.412 roll=0.723
+[057] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[057] BUILD Aussie Club vs Yale Atlético Clube prob=0.412 roll=0.378
+[057] JOGADA Aussie Club | Dylan Strele x Heraldo Donaldson line=3 duel=41.74 corte=-1.30
+[057] FINAL Aussie Club | Webster Boulting fam=5 duel=-2.09 on_target=0.590 goal=0.156
+[057] FINAL Webster Boulting: fora/alvo perdido (roll=0.724)
+[058] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[058] BUILD Yale Atlético Clube vs Aussie Club prob=0.393 roll=0.280
+[058] JOGADA Yale Atlético Clube | Saúl Tenerife x Manfred Swanston line=4 duel=6.82 corte=-1.30
+[058] JOGADA Yale Atlético Clube | John Swanton x Reid Dixon line=5 duel=66.51 corte=-2.05
+[058] JOGADA Yale Atlético Clube | Saúl Tenerife x Manfred Swanston line=5 duel=47.24 corte=-1.55
+[058] FINAL Yale Atlético Clube | Heraldo Broomfield fam=1 duel=13.27 on_target=0.655 goal=0.231
+[058] FINAL Heraldo Broomfield: no alvo sem gol (roll=0.938)
+[059] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[059] BUILD Yale Atlético Clube vs Aussie Club prob=0.393 roll=0.987
+[060] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[060] SUB Aussie Club: saiu Ray Gwatkin (ZAG) | entrou Alexander Pendelton (VOL) | subs=3/5
+[060] BUILD Aussie Club vs Yale Atlético Clube prob=0.413 roll=0.206
+[060] JOGADA Aussie Club | Bond Bishop x John Swanton line=3 duel=41.15 corte=-1.30
+[060] FINAL Aussie Club | Bond Bishop fam=5 duel=26.01 on_target=0.594 goal=0.170
+[060] FINAL Bond Bishop: no alvo sem gol (roll=0.217)
+[061] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[061] BUILD Yale Atlético Clube vs Aussie Club prob=0.393 roll=0.235
+[061] JOGADA Yale Atlético Clube | Heraldo Donaldson x Bond Bishop line=4 duel=33.62 corte=-1.30
+[061] JOGADA Yale Atlético Clube | Nestor McCawley Freitas x Kelvin Lukis line=5 duel=54.74 corte=-1.55
+[061] JOGADA Yale Atlético Clube | Onofre Conceição x Alexander Pendelton line=5 duel=78.12 corte=-2.05
+[061] FINAL Yale Atlético Clube | Heraldo Donaldson fam=1 duel=22.26 on_target=0.655 goal=0.234
+[061] FINAL Heraldo Donaldson: no alvo sem gol (roll=0.448)
+[062] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[062] SUB Yale Atlético Clube: saiu Fredy Lawton (ZAG) | entrou Tolentino Hardwicke (ZAG) | subs=4/5
+[062] BUILD Aussie Club vs Yale Atlético Clube prob=0.436 roll=0.308
+[062] JOGADA Aussie Club | Kelvin Lukis x Saúl Tenerife line=4 duel=-27.83 corte=-1.30
+[063] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[063] SUB Yale Atlético Clube: saiu Heraldo Broomfield (MC) | entrou Vílson Eddy (ME) | subs=5/5
+[063] SUB Aussie Club: saiu Dylan Strele (MC) | entrou Claude Gofton (MC) | subs=4/5
+[063] BUILD Yale Atlético Clube vs Aussie Club prob=0.399 roll=0.447
+[064] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[064] BUILD Aussie Club vs Yale Atlético Clube prob=0.433 roll=0.126
+[064] JOGADA Aussie Club | Claude Gofton x John Swanton line=2 duel=78.54 corte=-1.30
+[064] FINAL Aussie Club | Cassian Bennett fam=5 duel=4.72 on_target=0.591 goal=0.159
+[064] FINAL Cassian Bennett: fora/alvo perdido (roll=0.872)
+[065] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[065] SUB Aussie Club: saiu Christopher Nixon (MC) | entrou Lester Broadbridge (MC) | subs=5/5
+[065] BUILD Aussie Club vs Yale Atlético Clube prob=0.428 roll=0.292
+[065] JOGADA Aussie Club | Webster Boulting x Nestor McCawley Freitas line=2 duel=44.11 corte=-1.30
+[065] FINAL Aussie Club | Cassian Bennett fam=5 duel=4.82 on_target=0.591 goal=0.159
+[065] FINAL Cassian Bennett: no alvo sem gol (roll=0.921)
+[066] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[066] BUILD Yale Atlético Clube vs Aussie Club prob=0.400 roll=0.813
+[067] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[067] BUILD Yale Atlético Clube vs Aussie Club prob=0.400 roll=0.841
+[068] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[068] BUILD Aussie Club vs Yale Atlético Clube prob=0.428 roll=0.522
+[069] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[069] BUILD Yale Atlético Clube vs Aussie Club prob=0.400 roll=0.144
+[069] JOGADA Yale Atlético Clube | Saúl Tenerife x Webster Boulting line=3 duel=50.81 corte=-1.30
+[069] JOGADA Yale Atlético Clube | Augusto Laslett x Manfred Massey line=4 duel=-11.69 corte=-1.30
+[069] JOGADA falhou: Manfred Massey cortou
+[070] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[070] BUILD Yale Atlético Clube vs Aussie Club prob=0.400 roll=0.568
+[071] posse=Aussie Club | placar Yale Atlético Clube 2 x 0 Aussie Club
+[071] BUILD Aussie Club vs Yale Atlético Clube prob=0.428 roll=0.676
+[072] posse=Yale Atlético Clube | placar Yale Atlético Clube 2 x 0 Aussie Club
+[072] BUILD Yale Atlético Clube vs Aussie Club prob=0.400 roll=0.233
+[072] JOGADA Yale Atlético Clube | Heraldo Donaldson x Bond Bishop line=4 duel=25.37 corte=-1.30
+[072] FINAL Yale Atlético Clube | John Swanton fam=3 duel=-18.91 on_target=0.592 goal=0.165
+[072] FINAL John Swanton: GOL subtipo=CABECA (roll=0.023)
+[073] posse=Yale Atlético Clube | placar Yale Atlético Clube 3 x 0 Aussie Club
+[073] BUILD Yale Atlético Clube vs Aussie Club prob=0.391 roll=0.454
+[074] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[074] BUILD Aussie Club vs Yale Atlético Clube prob=0.431 roll=0.325
+[074] JOGADA Aussie Club | Webster Boulting x Nestor McCawley Freitas line=4 duel=-9.44 corte=-1.30
+[075] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[075] BUILD Aussie Club vs Yale Atlético Clube prob=0.431 roll=0.885
+[076] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[076] BUILD Aussie Club vs Yale Atlético Clube prob=0.466 roll=0.870
+[077] posse=Yale Atlético Clube | placar Yale Atlético Clube 3 x 0 Aussie Club
+[077] BUILD Yale Atlético Clube vs Aussie Club prob=0.379 roll=0.502
+[078] posse=Yale Atlético Clube | placar Yale Atlético Clube 3 x 0 Aussie Club
+[078] BUILD Yale Atlético Clube vs Aussie Club prob=0.379 roll=0.975
+[079] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[079] BUILD Aussie Club vs Yale Atlético Clube prob=0.466 roll=0.267
+[079] JOGADA Aussie Club | Kelvin Lukis x Douglas Huston line=4 duel=18.19 corte=-1.30
+[079] JOGADA Aussie Club | Lester Broadbridge x Heraldo Donaldson line=4 duel=14.16 corte=-1.30
+[079] JOGADA Aussie Club | Manfred Massey x Douglas Huston line=5 duel=20.25 corte=-2.05
+[079] FINAL Aussie Club | Bond Bishop fam=1 duel=18.31 on_target=0.730 goal=0.269
+[079] FINAL Bond Bishop: fora/alvo perdido (roll=0.770)
+[080] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[080] BUILD Aussie Club vs Yale Atlético Clube prob=0.466 roll=0.204
+[080] JOGADA Aussie Club | Kelvin Lukis x Heraldo Donaldson line=4 duel=-2.82 corte=-1.30
+[080] JOGADA falhou: Heraldo Donaldson cortou
+[081] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[081] BUILD Aussie Club vs Yale Atlético Clube prob=0.466 roll=0.796
+[082] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[082] BUILD Aussie Club vs Yale Atlético Clube prob=0.466 roll=0.013
+[082] JOGADA Aussie Club | Lester Broadbridge x Douglas Huston line=4 duel=34.74 corte=-1.30
+[082] JOGADA Aussie Club | Reid Dixon x Saúl Tenerife line=5 duel=-13.98 corte=-1.55
+[082] JOGADA falhou: Saúl Tenerife cortou
+[083] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[083] BUILD Aussie Club vs Yale Atlético Clube prob=0.466 roll=0.572
+[084] posse=Yale Atlético Clube | placar Yale Atlético Clube 3 x 0 Aussie Club
+[084] BUILD Yale Atlético Clube vs Aussie Club prob=0.379 roll=0.070
+[084] JOGADA Yale Atlético Clube | Miguel Leão x Manfred Massey line=4 duel=15.21 corte=-1.30
+[084] FINAL Yale Atlético Clube | Douglas Huston fam=1 duel=12.28 on_target=0.615 goal=0.211
+[084] FINAL Douglas Huston: no alvo sem gol (roll=0.270)
+[085] posse=Yale Atlético Clube | placar Yale Atlético Clube 3 x 0 Aussie Club
+[085] BUILD Yale Atlético Clube vs Aussie Club prob=0.379 roll=0.382
+[086] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[086] BUILD Aussie Club vs Yale Atlético Clube prob=0.491 roll=0.585
+[087] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[087] BUILD Aussie Club vs Yale Atlético Clube prob=0.491 roll=0.939
+[088] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[088] BUILD Aussie Club vs Yale Atlético Clube prob=0.491 roll=0.697
+[089] posse=Yale Atlético Clube | placar Yale Atlético Clube 3 x 0 Aussie Club
+[089] BUILD Yale Atlético Clube vs Aussie Club prob=0.379 roll=0.844
+[090] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[090] BUILD Aussie Club vs Yale Atlético Clube prob=0.491 roll=0.197
+[090] JOGADA Aussie Club | Manfred Massey x Vílson Eddy line=4 duel=-14.34 corte=-1.30
+[090] JOGADA falhou: Vílson Eddy cortou
+[091] posse=Yale Atlético Clube | placar Yale Atlético Clube 3 x 0 Aussie Club
+[091] BUILD Yale Atlético Clube vs Aussie Club prob=0.379 roll=0.214
+[091] JOGADA Yale Atlético Clube | Saúl Tenerife x Lester Broadbridge line=4 duel=2.57 corte=-1.30
+[091] JOGADA Yale Atlético Clube | Saúl Tenerife x Kelvin Lukis line=5 duel=37.89 corte=-1.55
+[091] JOGADA Yale Atlético Clube | Augusto Laslett x Kelvin Lukis line=5 duel=-2.06 corte=-1.55
+[091] JOGADA falhou: Kelvin Lukis cortou
+[092] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[092] BUILD Aussie Club vs Yale Atlético Clube prob=0.491 roll=0.993
+[093] posse=Yale Atlético Clube | placar Yale Atlético Clube 3 x 0 Aussie Club
+[093] BUILD Yale Atlético Clube vs Aussie Club prob=0.379 roll=0.371
+[093] JOGADA Yale Atlético Clube | Saúl Tenerife x Reid Dixon line=4 duel=8.12 corte=-1.30
+[093] JOGADA Yale Atlético Clube | Vílson Eddy x Manfred Massey line=5 duel=34.17 corte=-1.55
+[093] JOGADA Yale Atlético Clube | Douglas Huston x Kelvin Lukis line=5 duel=-0.54 corte=-2.05
+[093] FINAL Yale Atlético Clube | Onofre Conceição fam=1 duel=3.37 on_target=0.615 goal=0.208
+[093] FINAL Onofre Conceição: fora/alvo perdido (roll=0.864)
+[094] posse=Aussie Club | placar Yale Atlético Clube 3 x 0 Aussie Club
+[094] BUILD Aussie Club vs Yale Atlético Clube prob=0.491 roll=0.874

@@ -1,0 +1,304 @@
+Partida #83
+Data: 1912-01-06
+Mandante: Clube Olímpico
+Visitante: Futebol Clube Galitos
+Placar: 4 x 1
+Seed: -
+Estádio: Estádio Moça Bonita
+Clima: Nublado
+Placar tempo normal: 4 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube Olímpico x Futebol Clube Galitos | estádio=Estádio Moça Bonita | clima=Nublado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[001] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.393 roll=0.606
+[002] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[002] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.205 roll=0.554
+[003] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[003] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.393 roll=0.628
+[004] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[004] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.393 roll=0.772
+[005] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[005] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.393 roll=0.196
+[005] JOGADA Clube Olímpico | Ítalo Coimbra x Galito line=3 duel=47.11 corte=-1.13
+[005] FINAL Clube Olímpico | Francisco Borja fam=1 duel=26.70 on_target=0.601 goal=0.232
+[005] FINAL Francisco Borja: no alvo sem gol (roll=0.475)
+[006] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[006] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.205 roll=0.396
+[007] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[007] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.205 roll=0.483
+[008] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[008] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.205 roll=0.878
+[009] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[009] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.393 roll=0.991
+[010] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[010] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.205 roll=0.232
+[011] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[011] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.222 roll=0.935
+[012] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[012] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.425 roll=0.486
+[013] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[013] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.222 roll=0.871
+[014] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[014] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.222 roll=0.801
+[015] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[015] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.425 roll=0.005
+[015] JOGADA Clube Olímpico | Francisco Borja x Galito line=4 duel=138.52 corte=-1.13
+[015] FINAL Clube Olímpico | José Piendibene fam=1 duel=21.92 on_target=0.649 goal=0.245
+[015] FINAL José Piendibene: no alvo sem gol (roll=0.304)
+[016] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[016] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.425 roll=0.512
+[017] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[017] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.222 roll=0.079
+[017] JOGADA Futebol Clube Galitos | Xenócrates Alves x José Piendibene line=3 duel=-2.23 corte=-1.30
+[017] JOGADA falhou: José Piendibene cortou
+[018] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[018] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.222 roll=0.325
+[019] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[019] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.425 roll=0.751
+[020] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[020] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.222 roll=0.461
+[021] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[021] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.239 roll=0.313
+[022] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[022] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.848
+[023] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[023] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.832
+[024] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[024] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.566
+[025] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[025] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.381
+[025] JOGADA Clube Olímpico | Farelo x Poti Malaquias line=4 duel=9.41 corte=-1.13
+[025] FINAL Clube Olímpico | Francisco Borja fam=1 duel=23.59 on_target=0.683 goal=0.253
+[025] FINAL Francisco Borja: fora/alvo perdido (roll=0.709)
+[026] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[026] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.462
+[027] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[027] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.911
+[028] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[028] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.489
+[028] FINAL Clube Olímpico | Epaminondas da Luz fam=5 duel=24.10 on_target=0.584 goal=0.153
+[028] FINAL Epaminondas da Luz: no alvo sem gol (roll=0.372)
+[029] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[029] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.239 roll=0.980
+[030] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[030] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.239 roll=0.294
+[031] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[031] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.239 roll=0.813
+[032] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[032] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.817
+[033] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[033] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.485
+[033] FINAL Clube Olímpico | Kian MacGiolla fam=5 duel=-16.41 on_target=0.580 goal=0.134
+[033] FINAL Kian MacGiolla: fora/alvo perdido (roll=0.621)
+[034] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[034] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.606
+[035] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[035] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.241 roll=0.305
+[036] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[036] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.241 roll=0.601
+[037] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[037] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.306
+[037] JOGADA Clube Olímpico | Omar Cordeiro x Poti Malaquias line=4 duel=24.66 corte=-1.12
+[037] FINAL Clube Olímpico | Ítalo Coimbra fam=1 duel=4.86 on_target=0.682 goal=0.245
+[037] FINAL Ítalo Coimbra: no alvo sem gol (roll=0.611)
+[038] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[038] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.241 roll=0.855
+[039] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[039] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.241 roll=0.423
+[040] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[040] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.397
+[040] JOGADA Clube Olímpico | Adner Albuquerque x Poti Malaquias line=5 duel=64.43 corte=-1.37
+[040] FINAL Clube Olímpico | Ítalo Coimbra fam=1 duel=3.54 on_target=0.682 goal=0.244
+[040] FINAL Ítalo Coimbra: fora/alvo perdido (roll=0.891)
+[041] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[041] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.818
+[042] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[042] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.443
+[042] JOGADA Clube Olímpico | Ítalo Coimbra x Roriz Lanza line=4 duel=45.62 corte=-1.12
+[042] FINAL Clube Olímpico | Pedro Dalcher fam=1 duel=37.43 on_target=0.684 goal=0.260
+[042] FINAL Pedro Dalcher: no alvo sem gol (roll=0.822)
+[043] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[043] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.241 roll=0.396
+[044] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[044] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.457 roll=0.287
+[044] JOGADA Clube Olímpico | Geraldo Barros x Xenócrates Alves line=4 duel=93.80 corte=-1.12
+[044] FINAL Clube Olímpico | Ítalo Coimbra fam=1 duel=0.77 on_target=0.682 goal=0.243
+[044] FINAL Ítalo Coimbra: no alvo sem gol (roll=0.855)
+[045] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[045] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.241 roll=0.176
+[045] JOGADA Futebol Clube Galitos | Rui Paim x Francisco Borja line=3 duel=-30.40 corte=-1.30
+[045] JOGADA falhou: Francisco Borja cortou
+[046] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[046] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.224 roll=0.256
+[047] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[047] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.224 roll=0.102
+[047] JOGADA Futebol Clube Galitos | Teffé Cabrera x Pedro Dalcher line=4 duel=-35.48 corte=-1.30
+[047] JOGADA falhou: Pedro Dalcher cortou
+[048] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[048] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.425 roll=0.139
+[048] JOGADA Clube Olímpico | Farelo x Rui Paim line=3 duel=44.38 corte=-1.12
+[048] FINAL Clube Olímpico | José Piendibene fam=1 duel=10.91 on_target=0.648 goal=0.240
+[048] FINAL José Piendibene: no alvo sem gol (roll=0.601)
+[049] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[049] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.425 roll=0.150
+[049] JOGADA Clube Olímpico | Ítalo Coimbra x Bruce Moleiro line=4 duel=31.05 corte=-1.12
+[049] FINAL Clube Olímpico | Ítalo Coimbra fam=1 duel=7.09 on_target=0.648 goal=0.238
+[049] FINAL Ítalo Coimbra: no alvo sem gol (roll=0.899)
+[050] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[050] SUB Clube Olímpico: saiu José Piendibene (SA) | entrou Salomão Cruz (PE) | subs=1/5
+[050] SUB Futebol Clube Galitos: saiu Rui Paim (MC) | entrou Erico Bissoli (VOL) | subs=1/5
+[050] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.225 roll=0.116
+[050] JOGADA Futebol Clube Galitos | Roriz Lanza x Omar Cordeiro line=2 duel=13.79 corte=-1.30
+[050] FINAL Futebol Clube Galitos | Bruce Moleiro fam=5 duel=-22.01 on_target=0.559 goal=0.140
+[050] FINAL Bruce Moleiro: fora/alvo perdido (roll=0.684)
+[051] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[051] SUB Clube Olímpico: saiu Ítalo Coimbra (CA) | entrou Eduardo Pessoa (SA) | subs=2/5
+[051] SUB Futebol Clube Galitos: saiu Telmo Lousada (MD) | entrou Uru Mina (PD) | subs=2/5
+[051] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.226 roll=0.453
+[052] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[052] SUB Futebol Clube Galitos: saiu Bruce Moleiro (SA) | entrou Ildo Gatti (PE) | subs=3/5
+[052] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.421 roll=0.947
+[053] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[053] SUB Futebol Clube Galitos: saiu Xenócrates Alves (MC) | entrou Franklim Ladeira (VOL) | subs=4/5
+[053] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.421 roll=0.726
+[054] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[054] SUB Futebol Clube Galitos: saiu Galito (CA) | entrou Mamede Garcia (CA) | subs=5/5
+[054] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.422 roll=0.194
+[054] JOGADA Clube Olímpico | Adner Albuquerque x Franklim Ladeira line=4 duel=62.05 corte=-1.12
+[054] FINAL Clube Olímpico | Eduardo Pessoa fam=1 duel=38.41 on_target=0.649 goal=0.252
+[054] FINAL Eduardo Pessoa: fora/alvo perdido (roll=0.800)
+[055] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[055] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.209 roll=0.829
+[056] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[056] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.454 roll=0.891
+[057] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[057] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.454 roll=0.523
+[058] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[058] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.426 roll=0.708
+[059] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[059] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.426 roll=0.928
+[059] FINAL Clube Olímpico | Eduardo Pessoa fam=5 duel=35.62 on_target=0.584 goal=0.158
+[059] FINAL Eduardo Pessoa: no alvo sem gol (roll=0.167)
+[060] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[060] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.426 roll=0.704
+[061] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[061] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.228 roll=0.444
+[062] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[062] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.426 roll=0.465
+[063] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[063] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.228 roll=0.929
+[064] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[064] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.228 roll=0.273
+[065] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[065] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.426 roll=0.358
+[065] JOGADA Clube Olímpico | Farelo x Pajeú Bottura line=5 duel=75.63 corte=-1.37
+[065] FINAL Clube Olímpico | Epaminondas da Luz fam=1 duel=22.46 on_target=0.683 goal=0.253
+[065] FINAL Epaminondas da Luz: no alvo sem gol (roll=0.877)
+[066] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[066] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.426 roll=0.432
+[067] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[067] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.426 roll=0.427
+[068] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[068] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.426 roll=0.125
+[068] JOGADA Clube Olímpico | Omar Cordeiro x Franklim Ladeira line=5 duel=24.48 corte=-1.36
+[068] FINAL Clube Olímpico | Pedro Dalcher fam=1 duel=28.11 on_target=0.683 goal=0.255
+[068] FINAL Pedro Dalcher: no alvo sem gol (roll=0.774)
+[069] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[069] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.231 roll=0.954
+[070] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[070] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.426 roll=0.729
+[071] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[071] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.231 roll=0.899
+[072] posse=Clube Olímpico | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[072] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.426 roll=0.931
+[073] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 0 Futebol Clube Galitos
+[073] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.231 roll=0.038
+[073] JOGADA Futebol Clube Galitos | Mamede Garcia x Salomão Cruz line=2 duel=26.98 corte=-1.30
+[073] FINAL Futebol Clube Galitos | Mamede Garcia fam=1 duel=5.09 on_target=0.680 goal=0.249
+[073] FINAL Mamede Garcia: GOL subtipo=CHUTE (roll=0.120)
+[074] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 1 Futebol Clube Galitos
+[074] SUB Clube Olímpico: saiu Francisco Borja (MC) | entrou Levi Daschner (MC) | subs=3/5
+[074] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.286 roll=0.167
+[074] JOGADA Futebol Clube Galitos | Erico Bissoli x Levi Daschner line=3 duel=-33.20 corte=-1.30
+[074] JOGADA falhou: Levi Daschner cortou
+[075] posse=Clube Olímpico | placar Clube Olímpico 0 x 1 Futebol Clube Galitos
+[075] SUB Clube Olímpico: saiu Epaminondas da Luz (MC) | entrou Juca Martelinho (MA) | subs=4/5
+[075] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.506 roll=0.659
+[075] FINAL Clube Olímpico | Omar Cordeiro fam=5 duel=-13.09 on_target=0.582 goal=0.136
+[075] FINAL Omar Cordeiro: no alvo sem gol (roll=0.495)
+[076] posse=Clube Olímpico | placar Clube Olímpico 0 x 1 Futebol Clube Galitos
+[076] SUB Clube Olímpico: saiu Kian MacGiolla (ZAG) | entrou Jandir Café (ZAG) | subs=5/5
+[076] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.547 roll=0.120
+[076] JOGADA Clube Olímpico | Juca Martelinho x Uru Mina line=5 duel=58.26 corte=-1.80
+[076] FINAL Clube Olímpico | Eduardo Pessoa fam=3 duel=14.07 on_target=0.662 goal=0.202
+[076] FINAL Eduardo Pessoa: no alvo sem gol (roll=0.729)
+[077] posse=Clube Olímpico | placar Clube Olímpico 0 x 1 Futebol Clube Galitos
+[077] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.547 roll=0.810
+[078] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 1 Futebol Clube Galitos
+[078] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.278 roll=0.736
+[078] FINAL Futebol Clube Galitos | Pajeú Bottura fam=5 duel=-66.76 on_target=0.564 goal=0.121
+[078] FINAL Pajeú Bottura: fora/alvo perdido (roll=0.924)
+[079] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 1 Futebol Clube Galitos
+[079] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.278 roll=0.186
+[079] JOGADA Futebol Clube Galitos | Pajeú Bottura x Levi Daschner line=2 duel=-48.16 corte=-1.30
+[079] JOGADA falhou: Levi Daschner cortou
+[080] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 1 Futebol Clube Galitos
+[080] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.278 roll=0.169
+[080] JOGADA Futebol Clube Galitos | Erico Bissoli x Pedro Dalcher line=3 duel=-26.52 corte=-1.30
+[080] JOGADA falhou: Pedro Dalcher cortou
+[081] posse=Clube Olímpico | placar Clube Olímpico 0 x 1 Futebol Clube Galitos
+[081] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.547 roll=0.764
+[082] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 1 Futebol Clube Galitos
+[082] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.278 roll=0.972
+[083] posse=Futebol Clube Galitos | placar Clube Olímpico 0 x 1 Futebol Clube Galitos
+[083] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.278 roll=0.272
+[083] JOGADA Futebol Clube Galitos | Teffé Cabrera x Pedro Dalcher line=3 duel=5.65 corte=-1.30
+[083] FINAL Futebol Clube Galitos | Uru Mina fam=5 duel=-50.85 on_target=0.565 goal=0.127
+[083] FINAL Uru Mina: fora/alvo perdido (roll=0.784)
+[084] posse=Clube Olímpico | placar Clube Olímpico 0 x 1 Futebol Clube Galitos
+[084] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.547 roll=0.196
+[084] JOGADA Clube Olímpico | Geraldo Barros x Uru Mina line=5 duel=25.64 corte=-1.30
+[084] FINAL Clube Olímpico | Eduardo Pessoa fam=1 duel=12.74 on_target=0.729 goal=0.258
+[084] FINAL Eduardo Pessoa: GOL subtipo=CHUTE (roll=0.117)
+[085] posse=Clube Olímpico | placar Clube Olímpico 1 x 1 Futebol Clube Galitos
+[085] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.461 roll=0.041
+[085] JOGADA Clube Olímpico | Omar Cordeiro x Erico Bissoli line=4 duel=19.35 corte=-1.07
+[085] FINAL Clube Olímpico | Eduardo Pessoa fam=1 duel=12.74 on_target=0.739 goal=0.250
+[085] FINAL Eduardo Pessoa: GOL subtipo=CHUTE (roll=0.030)
+[086] posse=Futebol Clube Galitos | placar Clube Olímpico 2 x 1 Futebol Clube Galitos
+[086] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.297 roll=0.639
+[087] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Futebol Clube Galitos
+[087] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.435 roll=0.821
+[088] posse=Futebol Clube Galitos | placar Clube Olímpico 2 x 1 Futebol Clube Galitos
+[088] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.297 roll=0.520
+[089] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Futebol Clube Galitos
+[089] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.435 roll=0.214
+[089] JOGADA Clube Olímpico | Pedro Dalcher x Mamede Garcia line=4 duel=20.43 corte=-1.30
+[089] FINAL Clube Olímpico | Salomão Cruz fam=3 duel=-6.79 on_target=0.595 goal=0.175
+[089] FINAL Salomão Cruz: no alvo sem gol (roll=0.567)
+[090] posse=Clube Olímpico | placar Clube Olímpico 2 x 1 Futebol Clube Galitos
+[090] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.435 roll=0.170
+[090] JOGADA Clube Olímpico | Farelo x Mamede Garcia line=4 duel=8.32 corte=-1.30
+[090] FINAL Clube Olímpico | Juca Martelinho fam=1 duel=37.29 on_target=0.659 goal=0.249
+[090] FINAL Juca Martelinho: GOL subtipo=CHUTE (roll=0.147)
+[091] posse=Clube Olímpico | placar Clube Olímpico 3 x 1 Futebol Clube Galitos
+[091] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.431 roll=0.506
+[092] posse=Futebol Clube Galitos | placar Clube Olímpico 3 x 1 Futebol Clube Galitos
+[092] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.302 roll=0.834
+[093] posse=Futebol Clube Galitos | placar Clube Olímpico 3 x 1 Futebol Clube Galitos
+[093] BUILD Futebol Clube Galitos vs Clube Olímpico prob=0.302 roll=0.704
+[094] posse=Clube Olímpico | placar Clube Olímpico 3 x 1 Futebol Clube Galitos
+[094] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.431 roll=0.185
+[094] JOGADA Clube Olímpico | Juca Martelinho x Franklim Ladeira line=3 duel=102.34 corte=-1.30
+[094] FINAL Clube Olímpico | Omar Cordeiro fam=3 duel=7.48 on_target=0.586 goal=0.175
+[094] FINAL Omar Cordeiro: GOL subtipo=CHUTE (roll=0.105)
+[095] posse=Clube Olímpico | placar Clube Olímpico 4 x 1 Futebol Clube Galitos
+[095] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.422 roll=0.610
+[096] posse=Clube Olímpico | placar Clube Olímpico 4 x 1 Futebol Clube Galitos
+[096] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.422 roll=0.507
+[097] posse=Clube Olímpico | placar Clube Olímpico 4 x 1 Futebol Clube Galitos
+[097] BUILD Clube Olímpico vs Futebol Clube Galitos prob=0.422 roll=0.494

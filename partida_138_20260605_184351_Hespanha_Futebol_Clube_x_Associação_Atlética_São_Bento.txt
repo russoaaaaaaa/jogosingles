@@ -1,0 +1,329 @@
+Partida #138
+Data: 1912-01-10
+Mandante: Hespanha Futebol Clube
+Visitante: Associação Atlética São Bento
+Placar: 1 x 0
+Seed: -
+Estádio: Augusto Nuñez
+Clima: Chuva leve
+Placar tempo normal: 1 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Hespanha Futebol Clube x Associação Atlética São Bento | estádio=Augusto Nuñez | clima=Chuva leve | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[001] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.348 roll=0.670
+[002] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[002] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.348 roll=0.771
+[003] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[003] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.348 roll=0.336
+[003] JOGADA Hespanha Futebol Clube | Vitiza Milani x Elvino Seixas line=3 duel=33.47 corte=-1.13
+[003] FINAL Hespanha Futebol Clube | Quatinga Esposito fam=1 duel=-3.22 on_target=0.669 goal=0.238
+[003] FINAL Quatinga Esposito: fora/alvo perdido (roll=0.819)
+[004] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[004] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.348 roll=0.382
+[005] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[005] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.348 roll=0.820
+[006] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[006] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.348 roll=0.344
+[006] JOGADA Hespanha Futebol Clube | Vitiza Milani x Toledo Silva line=3 duel=30.51 corte=-1.13
+[006] FINAL Hespanha Futebol Clube | Milton Gavião fam=1 duel=3.10 on_target=0.671 goal=0.242
+[006] FINAL Milton Gavião: no alvo sem gol (roll=0.839)
+[007] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[007] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.335 roll=0.076
+[007] JOGADA Associação Atlética São Bento | Elvino Seixas x Castor Barros line=3 duel=-19.02 corte=-1.30
+[007] JOGADA falhou: Castor Barros cortou
+[008] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[008] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.335 roll=0.284
+[008] JOGADA Associação Atlética São Bento | Benjamim Texeira x Gelson Hoffmann line=4 duel=51.70 corte=-1.30
+[008] FINAL Associação Atlética São Bento | Canto Falcão fam=5 duel=-73.78 on_target=0.588 goal=0.125
+[008] FINAL Canto Falcão: fora/alvo perdido (roll=0.742)
+[009] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[009] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.348 roll=0.940
+[010] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[010] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.348 roll=0.210
+[010] JOGADA Hespanha Futebol Clube | Milton Gavião x Toledo Silva line=3 duel=15.31 corte=-1.13
+[010] FINAL Hespanha Futebol Clube | Milton Gavião fam=1 duel=7.53 on_target=0.671 goal=0.244
+[010] FINAL Milton Gavião: fora/alvo perdido (roll=0.744)
+[011] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[011] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.376 roll=0.943
+[012] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[012] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.376 roll=0.294
+[012] JOGADA Hespanha Futebol Clube | Milton Gavião x Toledo Silva line=3 duel=13.11 corte=-1.13
+[012] FINAL Hespanha Futebol Clube | Quimbaya Ávila fam=1 duel=-2.61 on_target=0.724 goal=0.255
+[012] FINAL Quimbaya Ávila: no alvo sem gol (roll=0.708)
+[013] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[013] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.376 roll=0.850
+[014] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[014] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.363 roll=0.326
+[014] JOGADA Associação Atlética São Bento | Emo Macedo x Castor Barros line=5 duel=25.19 corte=-1.55
+[014] FINAL Associação Atlética São Bento | Assis Lobo fam=5 duel=-7.66 on_target=0.633 goal=0.165
+[014] FINAL Assis Lobo: no alvo sem gol (roll=0.692)
+[015] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[015] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.376 roll=0.247
+[015] JOGADA Hespanha Futebol Clube | Idelso Moreira x Elvino Seixas line=3 duel=-11.04 corte=-1.13
+[015] JOGADA falhou: Elvino Seixas cortou
+[016] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[016] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.363 roll=0.439
+[017] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[017] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.363 roll=0.487
+[018] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[018] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.363 roll=0.883
+[019] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[019] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.376 roll=0.639
+[020] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[020] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.376 roll=0.803
+[021] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[021] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.390 roll=0.899
+[022] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[022] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.390 roll=0.084
+[022] JOGADA Associação Atlética São Bento | Emo Macedo x Quimbaya Ávila line=4 duel=66.49 corte=-1.30
+[022] FINAL Associação Atlética São Bento | Jordano Carmona fam=5 duel=-7.84 on_target=0.665 goal=0.169
+[022] FINAL Jordano Carmona: fora/alvo perdido (roll=0.774)
+[023] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[023] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.404 roll=0.761
+[024] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[024] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.390 roll=0.110
+[024] JOGADA Associação Atlética São Bento | Jordano Carmona x Gelson Hoffmann line=5 duel=-21.32 corte=-2.05
+[024] JOGADA falhou: Gelson Hoffmann cortou
+[025] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[025] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.390 roll=0.847
+[026] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[026] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.404 roll=0.208
+[026] JOGADA Hespanha Futebol Clube | Siddhártha Buss x Mair Bettencourt line=4 duel=-23.37 corte=-1.13
+[026] JOGADA falhou: Mair Bettencourt cortou
+[027] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[027] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.390 roll=0.314
+[027] JOGADA Associação Atlética São Bento | Juventino Munhoz x Idelso Moreira line=4 duel=-17.24 corte=-1.30
+[027] JOGADA falhou: Idelso Moreira cortou
+[028] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[028] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.390 roll=0.216
+[028] JOGADA Associação Atlética São Bento | Elvino Seixas x Vitiza Milani line=4 duel=5.86 corte=-1.30
+[028] FINAL Associação Atlética São Bento | Jordano Carmona fam=5 duel=-77.89 on_target=0.660 goal=0.133
+[028] FINAL Jordano Carmona: no alvo sem gol (roll=0.426)
+[029] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[029] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.390 roll=0.399
+[030] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[030] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.404 roll=0.726
+[031] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[031] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.404 roll=0.070
+[031] JOGADA Hespanha Futebol Clube | Siddhártha Buss x Canto Falcão line=2 duel=43.04 corte=-1.13
+[031] FINAL Hespanha Futebol Clube | Quatinga Esposito fam=1 duel=-8.47 on_target=0.760 goal=0.259
+[031] FINAL Quatinga Esposito: no alvo sem gol (roll=0.528)
+[032] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[032] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.404 roll=0.568
+[032] FINAL Hespanha Futebol Clube | Adonai Góis fam=5 duel=-11.48 on_target=0.648 goal=0.149
+[032] FINAL Adonai Góis: no alvo sem gol (roll=0.525)
+[033] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[033] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.393 roll=0.799
+[034] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[034] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.404 roll=0.714
+[035] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[035] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.393 roll=0.113
+[035] JOGADA Associação Atlética São Bento | Mair Bettencourt x Gelson Hoffmann line=4 duel=42.66 corte=-1.30
+[035] FINAL Associação Atlética São Bento | Canto Falcão fam=5 duel=-67.67 on_target=0.669 goal=0.141
+[035] FINAL Canto Falcão: no alvo sem gol (roll=0.781)
+[036] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[036] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.404 roll=0.527
+[037] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[037] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.404 roll=0.927
+[038] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[038] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.393 roll=0.508
+[039] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[039] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.393 roll=0.371
+[039] JOGADA Associação Atlética São Bento | Mair Bettencourt x Idelso Moreira line=4 duel=4.77 corte=-1.30
+[039] FINAL Associação Atlética São Bento | Jacinto Aquino Pinto fam=5 duel=3.85 on_target=0.670 goal=0.177
+[039] FINAL Jacinto Aquino Pinto: fora/alvo perdido (roll=0.859)
+[040] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[040] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.393 roll=0.226
+[040] JOGADA Associação Atlética São Bento | Emo Macedo x Siddhártha Buss line=4 duel=65.72 corte=-1.30
+[040] FINAL Associação Atlética São Bento | Jordano Carmona fam=5 duel=-12.04 on_target=0.665 goal=0.168
+[040] FINAL Jordano Carmona: no alvo sem gol (roll=0.325)
+[041] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[041] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.404 roll=0.702
+[042] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[042] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.393 roll=0.538
+[043] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[043] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.393 roll=0.132
+[043] JOGADA Associação Atlética São Bento | Jordano Carmona x Milton Gavião line=5 duel=15.13 corte=-2.05
+[043] FINAL Associação Atlética São Bento | Jordano Carmona fam=5 duel=-10.06 on_target=0.665 goal=0.169
+[043] FINAL Jordano Carmona: no alvo sem gol (roll=0.487)
+[044] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[044] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.404 roll=0.228
+[044] JOGADA Hespanha Futebol Clube | Vitiza Milani x Jacinto Aquino Pinto line=3 duel=21.04 corte=-1.12
+[044] FINAL Hespanha Futebol Clube | Quimbaya Ávila fam=1 duel=-1.06 on_target=0.763 goal=0.264
+[044] FINAL Quimbaya Ávila: fora/alvo perdido (roll=0.808)
+[045] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[045] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.393 roll=0.198
+[045] JOGADA Associação Atlética São Bento | Mair Bettencourt x Quatinga Esposito line=4 duel=85.91 corte=-1.30
+[045] FINAL Associação Atlética São Bento | Toledo Silva fam=5 duel=-9.45 on_target=0.668 goal=0.170
+[045] FINAL Toledo Silva: fora/alvo perdido (roll=0.909)
+[046] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[046] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.376 roll=0.631
+[047] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[047] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.365 roll=0.687
+[048] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[048] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.365 roll=0.459
+[049] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[049] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.376 roll=0.822
+[050] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[050] SUB Hespanha Futebol Clube: saiu Quatinga Esposito (MD) | entrou Abeuaru Brum (PD) | subs=1/5
+[050] SUB Associação Atlética São Bento: saiu Jordano Carmona (SA) | entrou Dóriclo Agra (MA) | subs=1/5
+[050] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.377 roll=0.270
+[050] JOGADA Hespanha Futebol Clube | Vivaldo Loureiro x Toledo Silva line=3 duel=17.50 corte=-1.12
+[050] FINAL Hespanha Futebol Clube | Abeuaru Brum fam=1 duel=21.02 on_target=0.727 goal=0.267
+[050] FINAL Abeuaru Brum: fora/alvo perdido (roll=0.992)
+[051] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[051] SUB Associação Atlética São Bento: saiu Canto Falcão (CA) | entrou Vinício Góes (CA) | subs=2/5
+[051] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.361 roll=0.942
+[052] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[052] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.376 roll=0.614
+[053] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[053] SUB Hespanha Futebol Clube: saiu Siddhártha Buss (MC) | entrou Jequitibá Torres (VOL) | subs=2/5
+[053] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.363 roll=0.299
+[053] JOGADA Associação Atlética São Bento | Jacinto Aquino Pinto x Castor Barros line=4 duel=-14.64 corte=-1.30
+[054] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[054] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.376 roll=0.328
+[054] JOGADA Hespanha Futebol Clube | Castor Barros x Dóriclo Agra line=3 duel=-14.96 corte=-1.12
+[054] JOGADA falhou: Dóriclo Agra cortou
+[055] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[055] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.376 roll=0.769
+[056] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[056] SUB Hespanha Futebol Clube: saiu Adonai Góis (ME) | entrou Gilson Pellegrini (PE) | subs=3/5
+[056] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.383 roll=0.267
+[056] JOGADA Associação Atlética São Bento | Assis Lobo x Gelson Hoffmann line=4 duel=-2.47 corte=-1.30
+[056] JOGADA falhou: Gelson Hoffmann cortou
+[057] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[057] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.383 roll=0.124
+[057] JOGADA Associação Atlética São Bento | Dóriclo Agra x Idelso Moreira line=4 duel=26.64 corte=-1.30
+[057] FINAL Associação Atlética São Bento | Jacinto Aquino Pinto fam=5 duel=6.10 on_target=0.670 goal=0.179
+[057] FINAL Jacinto Aquino Pinto: no alvo sem gol (roll=0.668)
+[058] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[058] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.383 roll=0.305
+[058] JOGADA Associação Atlética São Bento | Emo Macedo x Gelson Hoffmann line=4 duel=-17.57 corte=-1.30
+[059] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[059] SUB Hespanha Futebol Clube: saiu Milton Gavião (SA) | entrou Mairubi Vila (SA) | subs=4/5
+[059] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.399 roll=0.911
+[060] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[060] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.399 roll=0.390
+[060] JOGADA Hespanha Futebol Clube | Jequitibá Torres x Emo Macedo line=3 duel=6.09 corte=-1.12
+[060] FINAL Hespanha Futebol Clube | Gilson Pellegrini fam=1 duel=27.42 on_target=0.767 goal=0.279
+[060] FINAL Gilson Pellegrini: no alvo sem gol (roll=0.620)
+[061] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[061] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.399 roll=0.640
+[062] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[062] SUB Hespanha Futebol Clube: saiu Idelso Moreira (ZAG) | entrou Marajó Gadelha (ZAG) | subs=5/5
+[062] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.396 roll=0.448
+[063] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[063] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.396 roll=0.664
+[064] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[064] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.399 roll=0.681
+[065] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[065] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.396 roll=0.785
+[066] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[066] SUB Associação Atlética São Bento: saiu Toledo Silva (MC) | entrou Dércio Aguiar (MA) | subs=3/5
+[066] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.398 roll=0.619
+[067] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 0 x 0 Associação Atlética São Bento
+[067] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.398 roll=0.082
+[067] JOGADA Hespanha Futebol Clube | Marajó Gadelha x Juventino Munhoz line=3 duel=5.71 corte=-1.12
+[067] FINAL Hespanha Futebol Clube | Gilson Pellegrini fam=1 duel=33.56 on_target=0.767 goal=0.282
+[067] FINAL Gilson Pellegrini: GOL subtipo=CHUTE (roll=0.192)
+[068] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[068] SUB Associação Atlética São Bento: saiu Jacinto Aquino Pinto (MC) | entrou Jacó Nogueira (VOL) | subs=4/5
+[068] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.400 roll=0.930
+[069] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[069] SUB Associação Atlética São Bento: saiu Juventino Munhoz (ZAG) | entrou Jair Lima (ZAG) | subs=5/5
+[069] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.437 roll=0.330
+[069] JOGADA Associação Atlética São Bento | Dércio Aguiar x Castor Barros line=5 duel=5.43 corte=-2.05
+[069] FINAL Associação Atlética São Bento | Assis Lobo fam=5 duel=7.62 on_target=0.671 goal=0.183
+[069] FINAL Assis Lobo: fora/alvo perdido (roll=0.745)
+[070] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[070] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.437 roll=0.508
+[071] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[071] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.437 roll=0.374
+[071] JOGADA Associação Atlética São Bento | Jacó Nogueira x Gilson Pellegrini line=5 duel=21.16 corte=-1.55
+[071] FINAL Associação Atlética São Bento | Dóriclo Agra fam=5 duel=26.91 on_target=0.670 goal=0.192
+[071] FINAL Dóriclo Agra: no alvo sem gol (roll=0.802)
+[072] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[072] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.437 roll=0.465
+[073] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[073] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.422 roll=0.772
+[074] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[074] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.422 roll=0.481
+[075] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[075] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.437 roll=0.213
+[075] JOGADA Associação Atlética São Bento | Elvino Seixas x Abeuaru Brum line=3 duel=22.34 corte=-1.30
+[075] FINAL Associação Atlética São Bento | Assis Lobo fam=5 duel=-44.06 on_target=0.668 goal=0.156
+[075] FINAL Assis Lobo: no alvo sem gol (roll=0.240)
+[076] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[076] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.409 roll=0.267
+[076] JOGADA Hespanha Futebol Clube | Jequitibá Torres x Vinício Góes line=3 duel=28.99 corte=-1.30
+[076] FINAL Hespanha Futebol Clube | Mairubi Vila fam=1 duel=11.88 on_target=0.739 goal=0.263
+[076] FINAL Mairubi Vila: fora/alvo perdido (roll=0.993)
+[077] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[077] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.472 roll=0.528
+[078] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[078] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.409 roll=0.786
+[079] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[079] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.472 roll=0.737
+[080] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[080] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.409 roll=0.418
+[081] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[081] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.409 roll=0.919
+[081] FINAL Hespanha Futebol Clube | Jequitibá Torres fam=5 duel=-2.22 on_target=0.630 goal=0.150
+[081] FINAL Jequitibá Torres: fora/alvo perdido (roll=0.962)
+[082] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[082] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.472 roll=0.398
+[082] JOGADA Associação Atlética São Bento | Emo Macedo x Vitiza Milani line=5 duel=35.86 corte=-1.55
+[082] FINAL Associação Atlética São Bento | Dércio Aguiar fam=5 duel=12.98 on_target=0.715 goal=0.200
+[082] FINAL Dércio Aguiar: no alvo sem gol (roll=0.503)
+[083] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[083] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.409 roll=0.176
+[083] JOGADA Hespanha Futebol Clube | Jequitibá Torres x Emo Macedo line=4 duel=7.37 corte=-1.30
+[083] JOGADA Hespanha Futebol Clube | Mairubi Vila x Elvino Seixas line=4 duel=11.56 corte=-1.30
+[083] JOGADA Hespanha Futebol Clube | Vivaldo Loureiro x Jacó Nogueira line=5 duel=-3.80 corte=-1.55
+[083] JOGADA falhou: Jacó Nogueira cortou
+[084] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[084] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.472 roll=0.090
+[084] JOGADA Associação Atlética São Bento | Emo Macedo x Castor Barros line=4 duel=-18.55 corte=-1.30
+[084] JOGADA falhou: Castor Barros cortou
+[085] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[085] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.409 roll=0.838
+[086] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[086] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.547 roll=0.522
+[086] JOGADA Associação Atlética São Bento | Jacó Nogueira x Vivaldo Loureiro line=4 duel=41.56 corte=-1.30
+[086] FINAL Associação Atlética São Bento | Elvino Seixas fam=5 duel=-0.91 on_target=0.823 goal=0.194
+[086] FINAL Elvino Seixas: fora/alvo perdido (roll=0.926)
+[087] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[087] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.547 roll=0.890
+[088] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[088] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.547 roll=0.900
+[089] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[089] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.409 roll=0.586
+[090] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[090] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.547 roll=0.350
+[090] JOGADA Associação Atlética São Bento | Mair Bettencourt x Abeuaru Brum line=4 duel=48.88 corte=-1.30
+[090] FINAL Associação Atlética São Bento | Dóriclo Agra fam=5 duel=12.57 on_target=0.819 goal=0.200
+[090] FINAL Dóriclo Agra: fora/alvo perdido (roll=0.864)
+[091] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[091] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.547 roll=0.377
+[091] JOGADA Associação Atlética São Bento | Vinício Góes x Marajó Gadelha line=4 duel=-21.86 corte=-1.30
+[091] JOGADA falhou: Marajó Gadelha cortou
+[092] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[092] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.547 roll=0.246
+[092] JOGADA Associação Atlética São Bento | Benjamim Texeira x Vivaldo Loureiro line=4 duel=-4.76 corte=-1.30
+[092] JOGADA falhou: Vivaldo Loureiro cortou
+[093] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[093] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.409 roll=0.211
+[093] JOGADA Hespanha Futebol Clube | Marajó Gadelha x Vinício Góes line=3 duel=23.23 corte=-1.30
+[093] FINAL Hespanha Futebol Clube | Quimbaya Ávila fam=1 duel=2.45 on_target=0.736 goal=0.265
+[093] FINAL Quimbaya Ávila: no alvo sem gol (roll=0.695)
+[094] posse=Hespanha Futebol Clube | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[094] BUILD Hespanha Futebol Clube vs Associação Atlética São Bento prob=0.409 roll=0.417
+[095] posse=Associação Atlética São Bento | placar Hespanha Futebol Clube 1 x 0 Associação Atlética São Bento
+[095] BUILD Associação Atlética São Bento vs Hespanha Futebol Clube prob=0.547 roll=0.125
+[095] JOGADA Associação Atlética São Bento | Dóriclo Agra x Jequitibá Torres line=4 duel=51.11 corte=-1.30
+[095] FINAL Associação Atlética São Bento | Vinício Góes fam=5 duel=-3.90 on_target=0.818 goal=0.191
+[095] FINAL Vinício Góes: no alvo sem gol (roll=0.407)

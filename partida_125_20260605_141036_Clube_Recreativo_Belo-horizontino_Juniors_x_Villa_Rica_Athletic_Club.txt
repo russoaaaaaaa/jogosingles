@@ -1,0 +1,323 @@
+Partida #125
+Data: 1912-01-08
+Mandante: Clube Recreativo Belo-horizontino Juniors
+Visitante: Villa Rica Athletic Club
+Placar: 1 x 1
+Seed: -
+Estádio: Estudantil Mineiro
+Clima: Frio forte
+Placar tempo normal: 1 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube Recreativo Belo-horizontino Juniors x Villa Rica Athletic Club | estádio=Estudantil Mineiro | clima=Frio forte | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[001] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.345 roll=0.334
+[001] JOGADA Villa Rica Athletic Club | Rolando Varejão x Joscelino Sampaio line=2 duel=35.50 corte=-1.30
+[001] FINAL Villa Rica Athletic Club | Phillipe Bernhard fam=3 duel=-22.82 on_target=0.505 goal=0.159
+[001] FINAL Phillipe Bernhard: no alvo sem gol (roll=0.700)
+[002] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[002] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.345 roll=0.716
+[003] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[003] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.294 roll=0.275
+[003] JOGADA Clube Recreativo Belo-horizontino Juniors | Luisinho Gomes x Rolando Varejão line=3 duel=20.55 corte=-1.14
+[003] FINAL Clube Recreativo Belo-horizontino Juniors | Joscelino Sampaio fam=1 duel=8.40 on_target=0.553 goal=0.210
+[003] FINAL Joscelino Sampaio: fora/alvo perdido (roll=0.828)
+[004] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[004] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.345 roll=0.635
+[005] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[005] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.294 roll=0.639
+[006] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[006] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.294 roll=0.091
+[006] JOGADA Clube Recreativo Belo-horizontino Juniors | Edir Ribeiro x Papaco line=3 duel=14.83 corte=-1.14
+[006] FINAL Clube Recreativo Belo-horizontino Juniors | Joscelino Sampaio fam=1 duel=0.54 on_target=0.553 goal=0.207
+[006] FINAL Joscelino Sampaio: no alvo sem gol (roll=0.611)
+[007] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[007] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.345 roll=0.004
+[007] JOGADA Villa Rica Athletic Club | Phillipe Bernhard x Luisinho Gomes line=3 duel=66.77 corte=-1.30
+[007] JOGADA Villa Rica Athletic Club | Frederico Pascal x Amável Valente line=4 duel=-10.72 corte=-1.30
+[007] JOGADA falhou: Amável Valente cortou
+[008] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[008] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.345 roll=0.406
+[009] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[009] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.294 roll=0.322
+[010] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[010] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.345 roll=0.392
+[011] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[011] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.318 roll=0.916
+[012] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[012] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.373 roll=0.140
+[012] JOGADA Villa Rica Athletic Club | Phillipe Bernhard x Catuarí Ramos line=3 duel=-1.93 corte=-1.30
+[012] JOGADA falhou: Catuarí Ramos cortou
+[013] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[013] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.373 roll=0.219
+[013] JOGADA Villa Rica Athletic Club | Papaco x Catuarí Ramos line=2 duel=-5.96 corte=-1.30
+[013] JOGADA falhou: Catuarí Ramos cortou
+[014] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[014] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.373 roll=0.663
+[015] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[015] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.318 roll=0.161
+[015] JOGADA Clube Recreativo Belo-horizontino Juniors | Castor Veloso x Frederico Pascal line=3 duel=-0.75 corte=-1.14
+[015] FINAL Clube Recreativo Belo-horizontino Juniors | Amável Valente fam=1 duel=-16.67 on_target=0.594 goal=0.212
+[015] FINAL Amável Valente: no alvo sem gol (roll=0.899)
+[016] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[016] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.373 roll=0.994
+[017] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[017] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.373 roll=0.165
+[017] JOGADA Villa Rica Athletic Club | Phillipe Bernhard x Albano Paula line=4 duel=10.14 corte=-1.30
+[017] JOGADA Villa Rica Athletic Club | Frederico Pascal x Ives Meirelles line=5 duel=-2.05 corte=-1.55
+[017] JOGADA falhou: Ives Meirelles cortou
+[018] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[018] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.318 roll=0.901
+[019] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[019] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.373 roll=0.996
+[020] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[020] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.373 roll=0.327
+[020] JOGADA Villa Rica Athletic Club | Frederico Pascal x Japi Bottura line=3 duel=28.83 corte=-1.30
+[020] FINAL Villa Rica Athletic Club | Papaco fam=5 duel=-8.28 on_target=0.515 goal=0.135
+[020] FINAL Papaco: fora/alvo perdido (roll=0.876)
+[021] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[021] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.401 roll=0.730
+[022] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[022] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.342 roll=0.200
+[022] JOGADA Clube Recreativo Belo-horizontino Juniors | Catuarí Ramos x João Novelo line=3 duel=-29.17 corte=-1.14
+[022] JOGADA falhou: João Novelo cortou
+[023] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[023] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.342 roll=0.226
+[023] JOGADA Clube Recreativo Belo-horizontino Juniors | Edir Ribeiro x Carlo Lucca line=3 duel=-22.71 corte=-1.14
+[024] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[024] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.401 roll=0.776
+[025] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[025] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.401 roll=0.739
+[026] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[026] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.342 roll=0.958
+[027] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[027] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.401 roll=0.702
+[028] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[028] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.342 roll=0.714
+[029] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[029] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.401 roll=0.160
+[029] JOGADA Villa Rica Athletic Club | Caristo Topete x Edir Ribeiro line=4 duel=-75.94 corte=-1.30
+[029] JOGADA falhou: Edir Ribeiro cortou
+[030] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[030] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.401 roll=0.245
+[030] JOGADA Villa Rica Athletic Club | Caristo Topete x Edir Ribeiro line=4 duel=-74.33 corte=-1.30
+[030] JOGADA falhou: Edir Ribeiro cortou
+[031] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[031] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.342 roll=0.888
+[032] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[032] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.342 roll=0.103
+[032] JOGADA Clube Recreativo Belo-horizontino Juniors | Luisinho Gomes x Frederico Pascal line=3 duel=-20.60 corte=-1.14
+[032] JOGADA falhou: Frederico Pascal cortou
+[033] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[033] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.403 roll=0.547
+[034] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[034] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.342 roll=0.706
+[035] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[035] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.403 roll=0.644
+[036] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[036] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.342 roll=0.001
+[036] JOGADA Clube Recreativo Belo-horizontino Juniors | Luisinho Gomes x João Novelo line=3 duel=-14.64 corte=-1.14
+[036] JOGADA falhou: João Novelo cortou
+[037] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[037] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.403 roll=0.107
+[037] JOGADA Villa Rica Athletic Club | Phillipe Bernhard x Tim Mayer line=4 duel=87.79 corte=-1.30
+[037] FINAL Villa Rica Athletic Club | Rolando Varejão fam=5 duel=-67.91 on_target=0.538 goal=0.114
+[037] FINAL Rolando Varejão: fora/alvo perdido (roll=0.716)
+[038] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[038] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.342 roll=0.299
+[038] JOGADA Clube Recreativo Belo-horizontino Juniors | Japi Bottura x Lotário Marques line=3 duel=4.37 corte=-1.14
+[038] FINAL Clube Recreativo Belo-horizontino Juniors | Japi Bottura fam=1 duel=0.55 on_target=0.628 goal=0.227
+[038] FINAL Japi Bottura: no alvo sem gol (roll=0.723)
+[039] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[039] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.342 roll=0.343
+[040] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[040] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.403 roll=0.230
+[040] JOGADA Villa Rica Athletic Club | Carlo Lucca x Amável Valente line=3 duel=12.54 corte=-1.30
+[040] JOGADA Villa Rica Athletic Club | Dom Castelo Branco x Luisinho Gomes line=4 duel=10.75 corte=-1.30
+[040] JOGADA Villa Rica Athletic Club | Congo Kinshasa x Luisinho Gomes line=4 duel=-15.99 corte=-1.30
+[041] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[041] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.403 roll=0.810
+[042] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[042] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.403 roll=0.086
+[042] JOGADA Villa Rica Athletic Club | Dom Castelo Branco x Joscelino Sampaio line=3 duel=38.89 corte=-1.30
+[042] JOGADA Villa Rica Athletic Club | Papaco x Edir Ribeiro line=4 duel=-0.51 corte=-1.30
+[042] FINAL Villa Rica Athletic Club | Papaco fam=5 duel=-71.22 on_target=0.539 goal=0.113
+[042] FINAL Papaco: no alvo sem gol (roll=0.291)
+[043] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[043] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.403 roll=0.637
+[044] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[044] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.403 roll=0.402
+[044] JOGADA Villa Rica Athletic Club | Papaco x Castor Veloso line=2 duel=-9.42 corte=-1.30
+[044] JOGADA falhou: Castor Veloso cortou
+[045] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[045] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.342 roll=0.324
+[045] JOGADA Clube Recreativo Belo-horizontino Juniors | Tim Mayer x João Novelo line=4 duel=-68.05 corte=-1.14
+[045] JOGADA falhou: João Novelo cortou
+[046] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[046] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.318 roll=0.685
+[047] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[047] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.375 roll=0.833
+[048] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 0 x 0 Villa Rica Athletic Club
+[048] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.318 roll=0.105
+[048] JOGADA Clube Recreativo Belo-horizontino Juniors | Castor Veloso x Congo Kinshasa line=3 duel=43.70 corte=-1.14
+[048] FINAL Clube Recreativo Belo-horizontino Juniors | Joscelino Sampaio fam=1 duel=-3.24 on_target=0.597 goal=0.219
+[048] FINAL Joscelino Sampaio: GOL subtipo=CHUTE (roll=0.035)
+[049] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[049] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.318 roll=0.802
+[050] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[050] SUB Villa Rica Athletic Club: saiu Papaco (SA) | entrou Adolfo Altemani (SA) | subs=1/5
+[050] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.405 roll=0.473
+[051] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[051] SUB Clube Recreativo Belo-horizontino Juniors: saiu Edir Ribeiro (ZAG) | entrou Aboré Canto (ZAG) | subs=1/5
+[051] SUB Villa Rica Athletic Club: saiu Congo Kinshasa (CA) | entrou Goiano de Ferrari (CA) | subs=2/5
+[051] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.319 roll=0.862
+[052] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[052] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.319 roll=0.323
+[053] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[053] SUB Villa Rica Athletic Club: saiu Caristo Topete (LD) | entrou Luciano Candeias (LD) | subs=3/5
+[053] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.326 roll=0.427
+[054] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[054] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.409 roll=0.865
+[055] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[055] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.326 roll=0.486
+[055] FINAL Clube Recreativo Belo-horizontino Juniors | Catuarí Ramos fam=5 duel=-65.92 on_target=0.506 goal=0.101
+[055] FINAL Catuarí Ramos: fora/alvo perdido (roll=0.547)
+[056] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[056] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.350 roll=0.184
+[056] JOGADA Clube Recreativo Belo-horizontino Juniors | Tim Mayer x Frederico Pascal line=4 duel=11.55 corte=-1.30
+[056] JOGADA Clube Recreativo Belo-horizontino Juniors | Amável Valente x Lotário Marques line=5 duel=7.53 corte=-1.55
+[056] JOGADA Clube Recreativo Belo-horizontino Juniors | Joscelino Sampaio x João Novelo line=5 duel=19.19 corte=-2.05
+[056] FINAL Clube Recreativo Belo-horizontino Juniors | Tim Mayer fam=1 duel=13.18 on_target=0.630 goal=0.233
+[056] FINAL Tim Mayer: fora/alvo perdido (roll=0.696)
+[057] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[057] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.439 roll=0.756
+[058] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[058] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.350 roll=0.254
+[058] JOGADA Clube Recreativo Belo-horizontino Juniors | Tim Mayer x João Novelo line=2 duel=8.52 corte=-1.30
+[058] FINAL Clube Recreativo Belo-horizontino Juniors | Joscelino Sampaio fam=3 duel=8.05 on_target=0.570 goal=0.178
+[058] FINAL Joscelino Sampaio: fora/alvo perdido (roll=0.623)
+[059] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[059] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.350 roll=0.856
+[060] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[060] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.442 roll=0.967
+[061] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[061] SUB Clube Recreativo Belo-horizontino Juniors: saiu Joscelino Sampaio (CA) | entrou Fernando Colorido (CA) | subs=2/5
+[061] SUB Villa Rica Athletic Club: saiu Rolando Varejão (MD) | entrou Josh Mesprit (MA) | subs=4/5
+[061] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.448 roll=0.092
+[061] JOGADA Villa Rica Athletic Club | Josh Mesprit x Amável Valente line=3 duel=32.61 corte=-1.30
+[061] FINAL Villa Rica Athletic Club | Adolfo Altemani fam=5 duel=23.08 on_target=0.545 goal=0.156
+[061] FINAL Adolfo Altemani: fora/alvo perdido (roll=0.840)
+[062] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[062] SUB Clube Recreativo Belo-horizontino Juniors: saiu Catuarí Ramos (ZAG) | entrou Angelino Nazaré (ZAG) | subs=3/5
+[062] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.422 roll=0.007
+[062] JOGADA Villa Rica Athletic Club | Carlo Lucca x Luisinho Gomes line=3 duel=11.97 corte=-1.11
+[062] JOGADA Villa Rica Athletic Club | João Novelo x Fernando Colorido line=4 duel=4.83 corte=-1.11
+[062] JOGADA Villa Rica Athletic Club | Goiano de Ferrari x Aboré Canto line=5 duel=-9.84 corte=-1.86
+[062] JOGADA falhou: Aboré Canto cortou
+[063] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[063] SUB Villa Rica Athletic Club: saiu Phillipe Bernhard (MC) | entrou Finley Houghton Hodgkiss (VOL) | subs=5/5
+[063] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.388 roll=0.150
+[063] JOGADA Clube Recreativo Belo-horizontino Juniors | Amável Valente x Dom Castelo Branco line=3 duel=-1.28 corte=-1.70
+[063] FINAL Clube Recreativo Belo-horizontino Juniors | Japi Bottura fam=5 duel=2.45 on_target=0.545 goal=0.148
+[063] FINAL Japi Bottura: fora/alvo perdido (roll=0.631)
+[064] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[064] SUB Clube Recreativo Belo-horizontino Juniors: saiu Amável Valente (AD) | entrou Patrício Figueiró (MD) | subs=4/5
+[064] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.388 roll=0.007
+[064] JOGADA Clube Recreativo Belo-horizontino Juniors | Ives Meirelles x Dom Castelo Branco line=4 duel=-0.98 corte=-1.70
+[064] FINAL Clube Recreativo Belo-horizontino Juniors | Tim Mayer fam=5 duel=14.03 on_target=0.547 goal=0.153
+[064] FINAL Tim Mayer: no alvo sem gol (roll=0.262)
+[065] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[065] SUB Clube Recreativo Belo-horizontino Juniors: saiu Japi Bottura (SA) | entrou Renato Carrera (PD) | subs=5/5
+[065] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.387 roll=0.400
+[066] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[066] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.387 roll=0.205
+[066] JOGADA Clube Recreativo Belo-horizontino Juniors | Luisinho Gomes x Josh Mesprit line=4 duel=-53.76 corte=-1.70
+[066] JOGADA falhou: Josh Mesprit cortou
+[067] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[067] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.387 roll=0.750
+[068] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[068] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.424 roll=0.627
+[069] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[069] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.390 roll=0.105
+[069] JOGADA Clube Recreativo Belo-horizontino Juniors | Angelino Nazaré x Finley Houghton Hodgkiss line=4 duel=-12.70 corte=-1.70
+[070] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[070] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.386 roll=0.760
+[071] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[071] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.424 roll=0.273
+[071] JOGADA Villa Rica Athletic Club | Adolfo Altemani x Ives Meirelles line=2 duel=15.99 corte=-1.11
+[071] JOGADA Villa Rica Athletic Club | Finley Houghton Hodgkiss x Ives Meirelles line=3 duel=9.63 corte=-1.11
+[071] JOGADA Villa Rica Athletic Club | Josh Mesprit x Castor Veloso line=4 duel=3.35 corte=-1.11
+[072] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[072] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.385 roll=0.710
+[073] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 0 Villa Rica Athletic Club
+[073] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.424 roll=0.172
+[073] JOGADA Villa Rica Athletic Club | João Novelo x Albano Paula line=2 duel=0.21 corte=-1.07
+[073] JOGADA Villa Rica Athletic Club | Luciano Candeias x Luisinho Gomes line=3 duel=21.49 corte=-1.07
+[073] JOGADA Villa Rica Athletic Club | João Novelo x Renato Carrera line=4 duel=0.18 corte=-1.07
+[073] FINAL Villa Rica Athletic Club | Goiano de Ferrari fam=1 duel=21.16 on_target=0.629 goal=0.237
+[073] FINAL Goiano de Ferrari: GOL subtipo=CHUTE (roll=0.231)
+[074] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[074] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.369 roll=0.777
+[075] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[075] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.369 roll=0.714
+[076] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[076] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.401 roll=0.868
+[077] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[077] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.380 roll=0.451
+[078] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[078] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.401 roll=0.624
+[079] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[079] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.380 roll=0.774
+[080] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[080] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.401 roll=0.035
+[080] JOGADA Clube Recreativo Belo-horizontino Juniors | Angelino Nazaré x Dom Castelo Branco line=4 duel=29.03 corte=-1.70
+[080] JOGADA Clube Recreativo Belo-horizontino Juniors | Patrício Figueiró x Goiano de Ferrari line=4 duel=37.74 corte=-1.70
+[080] FINAL Clube Recreativo Belo-horizontino Juniors | Fernando Colorido fam=5 duel=12.59 on_target=0.557 goal=0.155
+[080] FINAL Fernando Colorido: no alvo sem gol (roll=0.336)
+[081] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[081] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.380 roll=0.958
+[082] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[082] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.401 roll=0.974
+[083] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[083] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.401 roll=0.425
+[084] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[084] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.380 roll=0.839
+[085] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[085] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.397 roll=0.796
+[086] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[086] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.377 roll=0.430
+[087] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[087] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.397 roll=0.550
+[088] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[088] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.377 roll=0.278
+[088] JOGADA Villa Rica Athletic Club | Carlo Lucca x Aboré Canto line=3 duel=-26.93 corte=-1.07
+[088] JOGADA falhou: Aboré Canto cortou
+[089] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[089] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.377 roll=0.114
+[089] JOGADA Villa Rica Athletic Club | Frederico Pascal x Patrício Figueiró line=3 duel=6.92 corte=-1.07
+[089] JOGADA Villa Rica Athletic Club | Luciano Candeias x Albano Paula line=4 duel=-41.51 corte=-1.07
+[089] JOGADA falhou: Albano Paula cortou
+[090] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[090] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.397 roll=0.805
+[091] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[091] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.377 roll=0.868
+[092] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[092] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.397 roll=0.131
+[092] JOGADA Clube Recreativo Belo-horizontino Juniors | Tim Mayer x Goiano de Ferrari line=4 duel=28.45 corte=-1.70
+[092] JOGADA Clube Recreativo Belo-horizontino Juniors | Albano Paula x Frederico Pascal line=5 duel=39.68 corte=-1.95
+[092] FINAL Clube Recreativo Belo-horizontino Juniors | Patrício Figueiró fam=5 duel=-34.14 on_target=0.553 goal=0.134
+[092] FINAL Patrício Figueiró: no alvo sem gol (roll=0.181)
+[093] posse=Villa Rica Athletic Club | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[093] BUILD Villa Rica Athletic Club vs Clube Recreativo Belo-horizontino Juniors prob=0.377 roll=0.208
+[093] JOGADA Villa Rica Athletic Club | João Novelo x Patrício Figueiró line=2 duel=23.39 corte=-1.07
+[093] JOGADA Villa Rica Athletic Club | João Novelo x Renato Carrera line=4 duel=3.89 corte=-1.07
+[093] JOGADA Villa Rica Athletic Club | Luciano Candeias x Angelino Nazaré line=5 duel=0.26 corte=-1.32
+[093] FINAL Villa Rica Athletic Club | Goiano de Ferrari fam=1 duel=1.56 on_target=0.641 goal=0.230
+[093] FINAL Goiano de Ferrari: no alvo sem gol (roll=0.669)
+[094] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[094] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.397 roll=0.429
+[095] posse=Clube Recreativo Belo-horizontino Juniors | placar Clube Recreativo Belo-horizontino Juniors 1 x 1 Villa Rica Athletic Club
+[095] BUILD Clube Recreativo Belo-horizontino Juniors vs Villa Rica Athletic Club prob=0.397 roll=0.660

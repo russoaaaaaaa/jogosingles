@@ -1,0 +1,328 @@
+Partida #68
+Data: 1912-01-04
+Mandante: Brazil-London Railway Sport Club
+Visitante: Insurreição Clube dos Guararapes
+Placar: 1 x 2
+Seed: -
+Estádio: Estádio Maria Fumaça
+Clima: Nublado
+Placar tempo normal: 1 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: Insurreição Clube dos Guararapes
+
+=== LOG VERBOSE ===
+Início: Brazil-London Railway Sport Club x Insurreição Clube dos Guararapes | estádio=Estádio Maria Fumaça | clima=Nublado | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[001] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.256 roll=0.396
+[002] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[002] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.256 roll=0.185
+[002] JOGADA Insurreição Clube dos Guararapes | Felipe Moreno x Corey Carter line=3 duel=-18.60 corte=-1.12
+[002] JOGADA falhou: Corey Carter cortou
+[003] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[003] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.309 roll=0.888
+[004] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[004] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.309 roll=0.439
+[005] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[005] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.256 roll=0.223
+[005] JOGADA Insurreição Clube dos Guararapes | Antonino Siqueira x Connor Thomas line=2 duel=3.16 corte=-1.12
+[005] FINAL Insurreição Clube dos Guararapes | Cristofer Florencio fam=1 duel=-1.20 on_target=0.552 goal=0.206
+[005] FINAL Cristofer Florencio: fora/alvo perdido (roll=0.695)
+[006] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[006] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.309 roll=0.622
+[007] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[007] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.256 roll=0.950
+[008] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[008] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.256 roll=0.026
+[008] JOGADA Insurreição Clube dos Guararapes | Cristofer Florencio x Zachary Griffiths line=3 duel=113.89 corte=-1.12
+[008] FINAL Insurreição Clube dos Guararapes | Piroqueta Maluco fam=3 duel=-0.97 on_target=0.501 goal=0.158
+[008] FINAL Piroqueta Maluco: fora/alvo perdido (roll=0.766)
+[009] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[009] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.309 roll=0.250
+[009] JOGADA Brazil-London Railway Sport Club | Corey Carter x Felipe Moreno line=2 duel=-25.07 corte=-1.70
+[009] JOGADA falhou: Felipe Moreno cortou
+[010] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[010] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.256 roll=0.746
+[011] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[011] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.334 roll=0.329
+[011] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Orlando Figueiredo line=3 duel=9.26 corte=-1.70
+[011] JOGADA Brazil-London Railway Sport Club | Corey Carter x Cristofer Florencio line=4 duel=11.83 corte=-1.70
+[011] FINAL Brazil-London Railway Sport Club | Todd Campbel fam=5 duel=-8.17 on_target=0.517 goal=0.139
+[011] FINAL Todd Campbel: fora/alvo perdido (roll=0.867)
+[012] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[012] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.334 roll=0.104
+[012] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Cristofer Florencio line=4 duel=41.17 corte=-1.70
+[012] FINAL Brazil-London Railway Sport Club | Zachary Griffiths fam=5 duel=-7.09 on_target=0.517 goal=0.139
+[012] FINAL Zachary Griffiths: no alvo sem gol (roll=0.720)
+[013] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[013] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.334 roll=0.146
+[013] JOGADA Brazil-London Railway Sport Club | Corey Carter x Orlando Figueiredo line=2 duel=11.61 corte=-1.70
+[013] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Antonino Siqueira line=5 duel=91.81 corte=-1.95
+[013] FINAL Brazil-London Railway Sport Club | Carter Anderson fam=5 duel=-1.43 on_target=0.517 goal=0.141
+[013] FINAL Carter Anderson: no alvo sem gol (roll=0.424)
+[014] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[014] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.277 roll=0.168
+[014] JOGADA Insurreição Clube dos Guararapes | Amorim Angra x Joel Lees line=3 duel=-17.06 corte=-1.12
+[014] JOGADA falhou: Joel Lees cortou
+[015] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[015] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.277 roll=0.289
+[016] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[016] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.277 roll=0.046
+[016] JOGADA Insurreição Clube dos Guararapes | Ulrich Bayer x Leonardo Chambers line=4 duel=-10.16 corte=-1.12
+[017] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[017] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.334 roll=0.646
+[018] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 0 Insurreição Clube dos Guararapes
+[018] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.277 roll=0.055
+[018] JOGADA Insurreição Clube dos Guararapes | Felipe Moreno x Dylan Edwards line=2 duel=19.36 corte=-1.12
+[018] FINAL Insurreição Clube dos Guararapes | Linguição fam=1 duel=0.89 on_target=0.597 goal=0.221
+[018] FINAL Linguição: GOL subtipo=CHUTE (roll=0.101)
+[019] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[019] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.277 roll=0.321
+[020] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[020] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.374 roll=0.179
+[020] JOGADA Brazil-London Railway Sport Club | Zachary Griffiths x Felipe Moreno line=3 duel=-11.10 corte=-1.70
+[020] JOGADA falhou: Felipe Moreno cortou
+[021] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[021] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.515
+[022] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[022] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.901
+[023] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[023] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.989
+[024] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[024] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.587
+[025] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[025] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.816
+[026] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[026] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.403 roll=0.536
+[027] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[027] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.403 roll=0.391
+[027] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Piroqueta Maluco line=3 duel=38.83 corte=-1.70
+[027] JOGADA Brazil-London Railway Sport Club | Zachary Griffiths x Felipe Moreno line=4 duel=-17.28 corte=-1.70
+[027] JOGADA falhou: Felipe Moreno cortou
+[028] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[028] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.403 roll=0.321
+[028] JOGADA Brazil-London Railway Sport Club | Todd Campbel x Piroqueta Maluco line=2 duel=22.33 corte=-1.70
+[028] JOGADA Brazil-London Railway Sport Club | Todd Campbel x Amorim Angra line=3 duel=-12.71 corte=-1.70
+[028] JOGADA falhou: Amorim Angra cortou
+[029] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[029] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.543
+[030] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[030] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.404
+[031] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[031] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.403 roll=0.082
+[031] JOGADA Brazil-London Railway Sport Club | Hugo Filgueira x Felipe Moreno line=3 duel=55.15 corte=-1.70
+[031] JOGADA Brazil-London Railway Sport Club | Todd Campbel x Amorim Angra line=4 duel=-13.33 corte=-1.70
+[031] FINAL Brazil-London Railway Sport Club | Todd Campbel fam=5 duel=-15.29 on_target=0.546 goal=0.142
+[031] FINAL Todd Campbel: no alvo sem gol (roll=0.619)
+[032] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[032] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.469
+[033] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[033] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.001
+[033] JOGADA Insurreição Clube dos Guararapes | Rogério Moreira x Hugo Filgueira line=2 duel=63.39 corte=-1.30
+[033] FINAL Insurreição Clube dos Guararapes | Linguição fam=1 duel=-9.93 on_target=0.628 goal=0.223
+[033] FINAL Linguição: no alvo sem gol (roll=0.620)
+[034] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[034] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.403 roll=0.199
+[034] JOGADA Brazil-London Railway Sport Club | Todd Campbel x Antonino Siqueira line=4 duel=-14.15 corte=-1.70
+[034] JOGADA falhou: Antonino Siqueira cortou
+[035] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[035] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.403 roll=0.007
+[035] JOGADA Brazil-London Railway Sport Club | Todd Campbel x Felipe Moreno line=4 duel=-20.69 corte=-1.70
+[036] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[036] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.403 roll=0.425
+[037] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[037] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.793
+[038] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[038] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.403 roll=0.687
+[039] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[039] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.714
+[040] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[040] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.531
+[041] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[041] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.597
+[042] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[042] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.403 roll=0.572
+[043] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[043] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.417
+[044] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[044] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.403 roll=0.631
+[045] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[045] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.298 roll=0.391
+[046] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[046] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.277 roll=0.956
+[047] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[047] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.374 roll=0.318
+[047] JOGADA Brazil-London Railway Sport Club | Todd Campbel x Piroqueta Maluco line=3 duel=20.02 corte=-1.70
+[047] FINAL Brazil-London Railway Sport Club | Todd Campbel fam=5 duel=-14.57 on_target=0.518 goal=0.138
+[047] FINAL Todd Campbel: fora/alvo perdido (roll=0.821)
+[048] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[048] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.277 roll=0.252
+[048] JOGADA Insurreição Clube dos Guararapes | Linguição x Corey Carter line=4 duel=-14.78 corte=-1.30
+[048] JOGADA falhou: Corey Carter cortou
+[049] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[049] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.374 roll=0.578
+[050] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[050] SUB Brazil-London Railway Sport Club: saiu Zachary Griffiths (SA) | entrou Ewan Freeman (SA) | subs=1/5
+[050] SUB Insurreição Clube dos Guararapes: saiu Linguição (SA) | entrou Tiago Góes (SA) | subs=1/5
+[050] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.370 roll=0.100
+[050] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Cássio Correia line=2 duel=47.70 corte=-1.70
+[050] JOGADA Brazil-London Railway Sport Club | Connor Thomas x Felipe Moreno line=5 duel=31.50 corte=-1.95
+[050] JOGADA Brazil-London Railway Sport Club | Joel Lees x Felipe Moreno line=5 duel=-1.79 corte=-1.95
+[050] FINAL Brazil-London Railway Sport Club | Carter Anderson fam=1 duel=-1.69 on_target=0.596 goal=0.225
+[050] FINAL Carter Anderson: no alvo sem gol (roll=0.600)
+[051] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[051] SUB Brazil-London Railway Sport Club: saiu Todd Campbel (CA) | entrou Alphoense Maverick (SA) | subs=2/5
+[051] SUB Insurreição Clube dos Guararapes: saiu Piroqueta Maluco (CA) | entrou Rudolfo Bento (CA) | subs=2/5
+[051] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.273 roll=0.606
+[052] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[052] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.273 roll=0.289
+[053] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[053] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.273 roll=0.899
+[054] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[054] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.273 roll=0.684
+[055] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[055] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.273 roll=0.130
+[055] JOGADA Insurreição Clube dos Guararapes | Cristofer Florencio x Corey Carter line=4 duel=3.43 corte=-1.30
+[055] JOGADA Insurreição Clube dos Guararapes | Rudolfo Bento x Ewan Freeman line=4 duel=32.82 corte=-1.30
+[055] FINAL Insurreição Clube dos Guararapes | Rudolfo Bento fam=1 duel=21.33 on_target=0.597 goal=0.229
+[055] FINAL Rudolfo Bento: no alvo sem gol (roll=0.978)
+[056] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 0 x 1 Insurreição Clube dos Guararapes
+[056] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.395 roll=0.222
+[056] JOGADA Brazil-London Railway Sport Club | Alphoense Maverick x Rudolfo Bento line=2 duel=26.60 corte=-1.70
+[056] FINAL Brazil-London Railway Sport Club | Hugo Filgueira fam=1 duel=-3.25 on_target=0.627 goal=0.231
+[056] FINAL Hugo Filgueira: GOL subtipo=CHUTE (roll=0.225)
+[057] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[057] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.294 roll=0.444
+[058] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[058] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.294 roll=0.359
+[059] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[059] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.294 roll=0.055
+[059] JOGADA Insurreição Clube dos Guararapes | Ulrich Bayer x Carter Anderson line=3 duel=54.12 corte=-1.11
+[059] FINAL Insurreição Clube dos Guararapes | Tiago Góes fam=1 duel=19.11 on_target=0.628 goal=0.235
+[059] FINAL Tiago Góes: no alvo sem gol (roll=0.711)
+[060] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[060] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.357 roll=0.196
+[060] JOGADA Brazil-London Railway Sport Club | Ewan Freeman x Rudolfo Bento line=4 duel=28.51 corte=-1.70
+[060] JOGADA Brazil-London Railway Sport Club | Leonardo Chambers x Antonino Siqueira line=5 duel=65.56 corte=-1.95
+[060] JOGADA Brazil-London Railway Sport Club | Ewan Freeman x Amorim Angra line=5 duel=70.78 corte=-2.45
+[060] FINAL Brazil-London Railway Sport Club | Carter Anderson fam=1 duel=-2.06 on_target=0.627 goal=0.231
+[060] FINAL Carter Anderson: fora/alvo perdido (roll=0.717)
+[061] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[061] SUB Brazil-London Railway Sport Club: saiu Elivelton Camaçari (MD) | entrou Elias MacLennan (MC) | subs=3/5
+[061] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.358 roll=0.608
+[062] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[062] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.358 roll=0.354
+[062] JOGADA Brazil-London Railway Sport Club | Elias MacLennan x Orlando Figueiredo line=3 duel=71.82 corte=-1.70
+[062] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Rudolfo Bento line=4 duel=-13.30 corte=-1.70
+[062] JOGADA falhou: Rudolfo Bento cortou
+[063] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[063] SUB Brazil-London Railway Sport Club: saiu Joel Lees (ME) | entrou Paulo Humilde (MC) | subs=4/5
+[063] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.358 roll=0.982
+[064] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[064] SUB Brazil-London Railway Sport Club: saiu Carter Anderson (MA) | entrou Evan Wright (MC) | subs=5/5
+[064] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.354 roll=0.214
+[064] JOGADA Brazil-London Railway Sport Club | Dylan Edwards x Orlando Figueiredo line=3 duel=7.10 corte=-1.70
+[064] FINAL Brazil-London Railway Sport Club | Hugo Filgueira fam=5 duel=-53.22 on_target=0.543 goal=0.126
+[064] FINAL Hugo Filgueira: fora/alvo perdido (roll=0.692)
+[065] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[065] SUB Insurreição Clube dos Guararapes: saiu Amorim Angra (ZAG) | entrou Romario Alcantara (ZAG) | subs=3/5
+[065] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.355 roll=0.993
+[066] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[066] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.355 roll=0.805
+[067] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[067] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.297 roll=0.628
+[068] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[068] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.297 roll=0.509
+[069] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[069] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.297 roll=0.197
+[069] JOGADA Insurreição Clube dos Guararapes | Cássio Correia x Connor Thomas line=4 duel=-20.68 corte=-1.10
+[069] JOGADA falhou: Connor Thomas cortou
+[070] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[070] SUB Insurreição Clube dos Guararapes: saiu Cristofer Florencio (MD) | entrou Bertulino Morais (MA) | subs=4/5
+[070] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.358 roll=0.874
+[071] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[071] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.296 roll=0.428
+[072] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[072] SUB Insurreição Clube dos Guararapes: saiu Rogério Moreira (LE) | entrou Francisco Rodrigues (LD) | subs=5/5
+[072] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.296 roll=0.658
+[073] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[073] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.359 roll=0.764
+[074] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[074] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.359 roll=0.833
+[075] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[075] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.359 roll=0.176
+[075] JOGADA Brazil-London Railway Sport Club | Elias MacLennan x Cássio Correia line=4 duel=14.15 corte=-1.70
+[075] FINAL Brazil-London Railway Sport Club | Alphoense Maverick fam=5 duel=1.11 on_target=0.546 goal=0.149
+[075] FINAL Alphoense Maverick: fora/alvo perdido (roll=0.930)
+[076] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[076] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.370 roll=0.852
+[077] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[077] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.305 roll=0.214
+[077] JOGADA Insurreição Clube dos Guararapes | Romario Alcantara x Ewan Freeman line=3 duel=26.18 corte=-1.06
+[077] FINAL Insurreição Clube dos Guararapes | Tiago Góes fam=1 duel=6.34 on_target=0.640 goal=0.232
+[077] FINAL Tiago Góes: no alvo sem gol (roll=0.598)
+[078] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[078] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.370 roll=0.537
+[079] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[079] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.305 roll=0.029
+[079] JOGADA Insurreição Clube dos Guararapes | Bertulino Morais x Evan Wright line=3 duel=15.84 corte=-1.06
+[079] FINAL Insurreição Clube dos Guararapes | Tiago Góes fam=3 duel=-14.43 on_target=0.579 goal=0.170
+[079] FINAL Tiago Góes: fora/alvo perdido (roll=0.851)
+[080] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[080] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.370 roll=0.422
+[081] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[081] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.370 roll=0.672
+[082] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 1 Insurreição Clube dos Guararapes
+[082] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.305 roll=0.132
+[082] JOGADA Insurreição Clube dos Guararapes | Francisco Rodrigues x Connor Thomas line=3 duel=8.66 corte=-1.06
+[082] FINAL Insurreição Clube dos Guararapes | Tiago Góes fam=1 duel=1.08 on_target=0.640 goal=0.229
+[082] FINAL Tiago Góes: GOL subtipo=CHUTE (roll=0.092)
+[083] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[083] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.284 roll=0.498
+[084] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[084] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.428 roll=0.786
+[085] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[085] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.284 roll=0.660
+[086] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[086] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.424 roll=0.674
+[087] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[087] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.424 roll=0.204
+[087] JOGADA Brazil-London Railway Sport Club | Elias MacLennan x Ulrich Bayer line=3 duel=-1.19 corte=-1.70
+[087] JOGADA Brazil-London Railway Sport Club | Elias MacLennan x Ulrich Bayer line=4 duel=-1.04 corte=-1.70
+[087] FINAL Brazil-London Railway Sport Club | Hugo Filgueira fam=5 duel=-6.32 on_target=0.585 goal=0.150
+[087] FINAL Hugo Filgueira: fora/alvo perdido (roll=0.810)
+[088] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[088] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.284 roll=0.207
+[088] JOGADA Insurreição Clube dos Guararapes | Romario Alcantara x Dylan Edwards line=4 duel=0.13 corte=-1.30
+[088] JOGADA Insurreição Clube dos Guararapes | Felipe Moreno x Evan Wright line=5 duel=22.27 corte=-1.55
+[088] JOGADA Insurreição Clube dos Guararapes | Antonino Siqueira x Leonardo Chambers line=5 duel=4.71 corte=-1.55
+[088] FINAL Insurreição Clube dos Guararapes | Cássio Correia fam=1 duel=-0.35 on_target=0.603 goal=0.212
+[088] FINAL Cássio Correia: fora/alvo perdido (roll=0.846)
+[089] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[089] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.284 roll=0.202
+[089] JOGADA Insurreição Clube dos Guararapes | Romario Alcantara x Alphoense Maverick line=3 duel=30.84 corte=-1.30
+[089] FINAL Insurreição Clube dos Guararapes | Rudolfo Bento fam=1 duel=-1.05 on_target=0.603 goal=0.211
+[089] FINAL Rudolfo Bento: fora/alvo perdido (roll=0.925)
+[090] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[090] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.284 roll=0.214
+[090] JOGADA Insurreição Clube dos Guararapes | Cássio Correia x Evan Wright line=3 duel=-3.31 corte=-1.30
+[090] JOGADA falhou: Evan Wright cortou
+[091] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[091] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.424 roll=0.731
+[092] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[092] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.284 roll=0.071
+[092] JOGADA Insurreição Clube dos Guararapes | Orlando Figueiredo x Elias MacLennan line=2 duel=-14.36 corte=-1.30
+[092] JOGADA falhou: Elias MacLennan cortou
+[093] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[093] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.424 roll=0.678
+[094] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[094] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.424 roll=0.610
+[095] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[095] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.284 roll=0.009
+[095] JOGADA Insurreição Clube dos Guararapes | Cássio Correia x Ewan Freeman line=4 duel=25.29 corte=-1.30
+[095] FINAL Insurreição Clube dos Guararapes | Rudolfo Bento fam=1 duel=-0.43 on_target=0.603 goal=0.211
+[095] FINAL Rudolfo Bento: fora/alvo perdido (roll=0.913)
+[096] posse=Insurreição Clube dos Guararapes | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[096] BUILD Insurreição Clube dos Guararapes vs Brazil-London Railway Sport Club prob=0.284 roll=0.841
+[097] posse=Brazil-London Railway Sport Club | placar Brazil-London Railway Sport Club 1 x 2 Insurreição Clube dos Guararapes
+[097] BUILD Brazil-London Railway Sport Club vs Insurreição Clube dos Guararapes prob=0.424 roll=0.902

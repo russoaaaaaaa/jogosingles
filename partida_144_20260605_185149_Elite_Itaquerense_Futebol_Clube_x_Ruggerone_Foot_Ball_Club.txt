@@ -1,0 +1,313 @@
+Partida #144
+Data: 1912-01-10
+Mandante: Elite Itaquerense Futebol Clube
+Visitante: Ruggerone Foot Ball Club
+Placar: 1 x 0
+Seed: -
+Estádio: Distrital de Itaquera
+Clima: Chuva leve
+Placar tempo normal: 1 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Elite Itaquerense Futebol Clube x Ruggerone Foot Ball Club | estádio=Distrital de Itaquera | clima=Chuva leve | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[001] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.296 roll=0.028
+[001] JOGADA Elite Itaquerense Futebol Clube | Rosil Veiga x Consulino Tarquini line=2 duel=18.09 corte=-1.70
+[001] FINAL Elite Itaquerense Futebol Clube | Guaíra Simas fam=5 duel=-4.75 on_target=0.475 goal=0.130
+[001] FINAL Guaíra Simas: fora/alvo perdido (roll=0.635)
+[002] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[002] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.282 roll=0.366
+[003] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[003] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.296 roll=0.650
+[004] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[004] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.282 roll=0.464
+[005] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[005] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.282 roll=0.105
+[005] JOGADA Ruggerone Foot Ball Club | Djalmo Frisoni x Yatã Lamas line=5 duel=108.45 corte=-1.85
+[005] FINAL Ruggerone Foot Ball Club | Djalmo Frisoni fam=1 duel=9.38 on_target=0.557 goal=0.210
+[005] FINAL Djalmo Frisoni: no alvo sem gol (roll=0.689)
+[006] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[006] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.282 roll=0.134
+[006] JOGADA Ruggerone Foot Ball Club | Consulino Tarquini x Daiá Chaves line=3 duel=42.66 corte=-1.10
+[006] FINAL Ruggerone Foot Ball Club | Consulino Tarquini fam=1 duel=-0.77 on_target=0.549 goal=0.203
+[006] FINAL Consulino Tarquini: no alvo sem gol (roll=0.696)
+[007] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[007] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.296 roll=0.662
+[008] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[008] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.296 roll=0.589
+[009] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[009] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.282 roll=0.619
+[010] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[010] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.296 roll=0.183
+[010] JOGADA Elite Itaquerense Futebol Clube | Daiá Chaves x Ranier Renosto line=4 duel=-14.40 corte=-1.70
+[011] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[011] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.305 roll=0.574
+[012] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[012] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.305 roll=0.626
+[013] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[013] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.305 roll=0.021
+[013] JOGADA Ruggerone Foot Ball Club | Rubi Ratto x Yatã Lamas line=4 duel=92.13 corte=-1.10
+[013] FINAL Ruggerone Foot Ball Club | Djalmo Frisoni fam=1 duel=6.24 on_target=0.601 goal=0.223
+[013] FINAL Djalmo Frisoni: fora/alvo perdido (roll=0.657)
+[014] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[014] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.305 roll=0.446
+[015] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[015] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.305 roll=0.015
+[015] JOGADA Ruggerone Foot Ball Club | Leopoldo Valgiusti x Gabriel Leal line=3 duel=97.52 corte=-1.10
+[015] FINAL Ruggerone Foot Ball Club | Ranier Renosto fam=3 duel=-29.55 on_target=0.537 goal=0.154
+[015] FINAL Ranier Renosto: no alvo sem gol (roll=0.446)
+[016] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[016] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.320 roll=0.837
+[017] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[017] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.320 roll=0.907
+[018] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[018] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.305 roll=0.737
+[019] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[019] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.320 roll=0.015
+[019] JOGADA Elite Itaquerense Futebol Clube | Izaque Poli x Djalmo Frisoni line=4 duel=35.59 corte=-1.70
+[019] JOGADA Elite Itaquerense Futebol Clube | Gabriel Leal x Alexandre Cronzini line=5 duel=3.85 corte=-1.95
+[019] JOGADA Elite Itaquerense Futebol Clube | Rosil Veiga x Edmur Perizzolo line=5 duel=-20.92 corte=-1.95
+[019] JOGADA falhou: Edmur Perizzolo cortou
+[020] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[020] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.320 roll=0.326
+[021] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[021] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.328 roll=0.487
+[022] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[022] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.344 roll=0.492
+[023] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[023] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.328 roll=0.293
+[023] JOGADA Ruggerone Foot Ball Club | Alexandre Cronzini x Gabriel Leal line=5 duel=79.33 corte=-1.35
+[023] FINAL Ruggerone Foot Ball Club | Djalmo Frisoni fam=3 duel=3.41 on_target=0.574 goal=0.176
+[023] FINAL Djalmo Frisoni: fora/alvo perdido (roll=0.582)
+[024] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[024] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.344 roll=0.157
+[024] JOGADA Elite Itaquerense Futebol Clube | Karajá Salgado x Alexandre Cronzini line=3 duel=4.89 corte=-1.70
+[024] JOGADA Elite Itaquerense Futebol Clube | Gabriel Leal x Djalmo Frisoni line=4 duel=27.38 corte=-1.70
+[024] JOGADA Elite Itaquerense Futebol Clube | Rosil Veiga x Ranier Renosto line=4 duel=-18.65 corte=-1.70
+[024] JOGADA falhou: Ranier Renosto cortou
+[025] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[025] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.344 roll=0.224
+[025] JOGADA Elite Itaquerense Futebol Clube | Caaporã Belchior x Alexandre Cronzini line=3 duel=15.06 corte=-1.70
+[025] FINAL Elite Itaquerense Futebol Clube | Gabriel Leal fam=5 duel=-29.68 on_target=0.538 goal=0.132
+[025] FINAL Gabriel Leal: no alvo sem gol (roll=0.815)
+[026] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[026] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.344 roll=0.428
+[027] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[027] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.344 roll=0.013
+[027] JOGADA Elite Itaquerense Futebol Clube | Yatã Lamas x Ranier Renosto line=3 duel=-8.97 corte=-1.70
+[028] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[028] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.328 roll=0.706
+[029] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[029] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.344 roll=0.001
+[029] JOGADA Elite Itaquerense Futebol Clube | Gabriel Leal x Liciniano Acquaroli line=2 duel=39.06 corte=-1.70
+[029] JOGADA Elite Itaquerense Futebol Clube | Guaíra Simas x Edmur Perizzolo line=5 duel=39.73 corte=-2.45
+[029] JOGADA Elite Itaquerense Futebol Clube | Caaporã Belchior x Leopoldo Valgiusti line=5 duel=70.44 corte=-1.95
+[029] FINAL Elite Itaquerense Futebol Clube | Guaíra Simas fam=5 duel=-8.53 on_target=0.540 goal=0.141
+[029] FINAL Guaíra Simas: no alvo sem gol (roll=0.192)
+[030] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[030] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.328 roll=0.306
+[030] JOGADA Ruggerone Foot Ball Club | Nezeri Cortese x Karajá Salgado line=4 duel=46.18 corte=-1.10
+[030] FINAL Ruggerone Foot Ball Club | Djalmo Frisoni fam=1 duel=-1.13 on_target=0.633 goal=0.227
+[030] FINAL Djalmo Frisoni: no alvo sem gol (roll=0.857)
+[031] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[031] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.344 roll=0.165
+[031] JOGADA Elite Itaquerense Futebol Clube | Karajá Salgado x Leopoldo Valgiusti line=4 duel=-16.24 corte=-1.70
+[031] JOGADA falhou: Leopoldo Valgiusti cortou
+[032] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[032] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.328 roll=0.270
+[032] JOGADA Ruggerone Foot Ball Club | Djalmo Frisoni x Karajá Salgado line=4 duel=69.15 corte=-1.10
+[032] FINAL Ruggerone Foot Ball Club | Consulino Tarquini fam=1 duel=-7.32 on_target=0.624 goal=0.220
+[032] FINAL Consulino Tarquini: fora/alvo perdido (roll=0.965)
+[033] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[033] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.346 roll=0.744
+[034] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[034] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.328 roll=0.818
+[035] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[035] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.328 roll=0.934
+[036] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[036] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.328 roll=0.128
+[036] JOGADA Ruggerone Foot Ball Club | Liciniano Acquaroli x Izaque Poli line=5 duel=-8.94 corte=-1.35
+[036] JOGADA falhou: Izaque Poli cortou
+[037] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[037] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.346 roll=0.228
+[037] JOGADA Elite Itaquerense Futebol Clube | Jório Borman x Liciniano Acquaroli line=3 duel=-14.62 corte=-1.70
+[037] JOGADA falhou: Liciniano Acquaroli cortou
+[038] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[038] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.346 roll=0.966
+[039] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[039] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.346 roll=0.510
+[040] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[040] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.346 roll=0.425
+[041] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[041] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.328 roll=0.561
+[042] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[042] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.328 roll=0.714
+[043] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[043] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.328 roll=0.781
+[044] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[044] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.328 roll=0.640
+[045] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[045] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.346 roll=0.691
+[046] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[046] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.322 roll=0.624
+[047] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[047] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.305 roll=0.194
+[047] JOGADA Ruggerone Foot Ball Club | Leopoldo Valgiusti x Jório Borman line=3 duel=6.14 corte=-1.10
+[047] FINAL Ruggerone Foot Ball Club | Djalmo Frisoni fam=3 duel=-4.17 on_target=0.545 goal=0.168
+[047] FINAL Djalmo Frisoni: fora/alvo perdido (roll=0.577)
+[048] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[048] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.322 roll=0.184
+[048] JOGADA Elite Itaquerense Futebol Clube | Jório Borman x Rubi Ratto line=3 duel=54.59 corte=-1.70
+[048] JOGADA Elite Itaquerense Futebol Clube | Karajá Salgado x Nezeri Cortese line=4 duel=-34.65 corte=-1.70
+[049] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[049] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.305 roll=0.353
+[050] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[050] SUB Elite Itaquerense Futebol Clube: saiu Daiá Chaves (MC) | entrou Tenório Guerreiro (VOL) | subs=1/5
+[050] SUB Ruggerone Foot Ball Club: saiu Consulino Tarquini (SA) | entrou Ângelo Solari (SA) | subs=1/5
+[050] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.300 roll=0.675
+[051] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[051] SUB Elite Itaquerense Futebol Clube: saiu Karajá Salgado (MD) | entrou Felipe Sá (PD) | subs=2/5
+[051] SUB Ruggerone Foot Ball Club: saiu Djalmo Frisoni (CA) | entrou Dúnio Cairoli (CA) | subs=2/5
+[051] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.287 roll=0.823
+[052] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[052] SUB Elite Itaquerense Futebol Clube: saiu Guaíra Simas (SA) | entrou Aristides Nabuco (PE) | subs=3/5
+[052] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.287 roll=0.933
+[053] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[053] SUB Elite Itaquerense Futebol Clube: saiu Gabriel Leal (ME) | entrou Cariri Pavan (ME) | subs=4/5
+[053] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.289 roll=0.460
+[054] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[054] SUB Elite Itaquerense Futebol Clube: saiu Jório Borman (LE) | entrou Irati Prado (LE) | subs=5/5
+[054] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.321 roll=0.422
+[055] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[055] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.321 roll=0.847
+[056] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[056] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.346 roll=0.877
+[056] FINAL Elite Itaquerense Futebol Clube | Rosil Veiga fam=5 duel=-74.05 on_target=0.536 goal=0.113
+[056] FINAL Rosil Veiga: fora/alvo perdido (roll=0.628)
+[057] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[057] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.346 roll=0.328
+[057] JOGADA Elite Itaquerense Futebol Clube | Estanislau Farias x Rubi Ratto line=4 duel=3.02 corte=-1.70
+[057] FINAL Elite Itaquerense Futebol Clube | Yatã Lamas fam=5 duel=-10.07 on_target=0.540 goal=0.140
+[057] FINAL Yatã Lamas: no alvo sem gol (roll=0.222)
+[058] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[058] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.290 roll=0.141
+[058] JOGADA Ruggerone Foot Ball Club | Rubi Ratto x Caaporã Belchior line=5 duel=88.89 corte=-1.35
+[058] FINAL Ruggerone Foot Ball Club | Ângelo Solari fam=1 duel=25.49 on_target=0.628 goal=0.235
+[058] FINAL Ângelo Solari: no alvo sem gol (roll=0.268)
+[059] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[059] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.346 roll=0.118
+[059] JOGADA Elite Itaquerense Futebol Clube | Estanislau Farias x Nezeri Cortese line=4 duel=-34.56 corte=-1.70
+[059] JOGADA falhou: Nezeri Cortese cortou
+[060] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[060] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.349 roll=0.464
+[061] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[061] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.290 roll=0.480
+[062] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[062] SUB Ruggerone Foot Ball Club: saiu Sário Bonazzi (ZAG) | entrou Remígio Fontana (ZAG) | subs=3/5
+[062] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.290 roll=0.241
+[062] JOGADA Ruggerone Foot Ball Club | Ângelo Solari x Izaque Poli line=4 duel=51.80 corte=-1.10
+[062] FINAL Ruggerone Foot Ball Club | Dúnio Cairoli fam=1 duel=15.37 on_target=0.628 goal=0.231
+[062] FINAL Dúnio Cairoli: no alvo sem gol (roll=0.293)
+[063] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[063] SUB Ruggerone Foot Ball Club: saiu Ranier Renosto (MC) | entrou Bacoaro (VOL) | subs=4/5
+[063] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.356 roll=0.457
+[064] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[064] SUB Ruggerone Foot Ball Club: saiu Alexandre Cronzini (MD) | entrou Bóris Carrara (MA) | subs=5/5
+[064] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.354 roll=0.694
+[065] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[065] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.292 roll=0.331
+[066] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[066] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.354 roll=0.951
+[067] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[067] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.354 roll=0.079
+[067] JOGADA Elite Itaquerense Futebol Clube | Caaporã Belchior x Edmur Perizzolo line=2 duel=-10.81 corte=-1.70
+[068] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[068] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.292 roll=0.194
+[068] JOGADA Ruggerone Foot Ball Club | Rubi Ratto x Irati Prado line=4 duel=-19.70 corte=-1.09
+[069] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[069] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.292 roll=0.455
+[070] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[070] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.119
+[070] JOGADA Elite Itaquerense Futebol Clube | Izaque Poli x Ângelo Solari line=4 duel=27.19 corte=-1.70
+[070] JOGADA Elite Itaquerense Futebol Clube | Izaque Poli x Nezeri Cortese line=4 duel=-17.36 corte=-1.70
+[071] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[071] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.028
+[071] JOGADA Elite Itaquerense Futebol Clube | Tenório Guerreiro x Rubi Ratto line=4 duel=-7.28 corte=-1.70
+[071] JOGADA falhou: Rubi Ratto cortou
+[072] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[072] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.625
+[073] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[073] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.313
+[073] JOGADA Elite Itaquerense Futebol Clube | Caaporã Belchior x Leopoldo Valgiusti line=3 duel=3.18 corte=-1.70
+[073] JOGADA Elite Itaquerense Futebol Clube | Cariri Pavan x Nezeri Cortese line=5 duel=32.05 corte=-1.95
+[073] JOGADA Elite Itaquerense Futebol Clube | Yatã Lamas x Nezeri Cortese line=5 duel=43.74 corte=-2.45
+[073] FINAL Elite Itaquerense Futebol Clube | Aristides Nabuco fam=5 duel=2.55 on_target=0.545 goal=0.149
+[073] FINAL Aristides Nabuco: fora/alvo perdido (roll=0.939)
+[074] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[074] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.160
+[074] JOGADA Elite Itaquerense Futebol Clube | Yatã Lamas x Rubi Ratto line=3 duel=10.60 corte=-1.70
+[074] JOGADA Elite Itaquerense Futebol Clube | Rosil Veiga x Dúnio Cairoli line=4 duel=8.92 corte=-1.70
+[074] FINAL Elite Itaquerense Futebol Clube | Aristides Nabuco fam=5 duel=1.86 on_target=0.545 goal=0.149
+[074] FINAL Aristides Nabuco: fora/alvo perdido (roll=0.793)
+[075] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 0 x 0 Ruggerone Foot Ball Club
+[075] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.358 roll=0.244
+[075] JOGADA Elite Itaquerense Futebol Clube | Felipe Sá x Leopoldo Valgiusti line=2 duel=10.53 corte=-1.70
+[075] FINAL Elite Itaquerense Futebol Clube | Aristides Nabuco fam=5 duel=0.93 on_target=0.545 goal=0.148
+[075] FINAL Aristides Nabuco: GOL subtipo=FALTA (roll=0.115)
+[076] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[076] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.365 roll=0.634
+[077] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[077] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.394 roll=0.003
+[077] JOGADA Elite Itaquerense Futebol Clube | Caaporã Belchior x Nezeri Cortese line=4 duel=49.17 corte=-1.70
+[077] FINAL Elite Itaquerense Futebol Clube | Yatã Lamas fam=5 duel=-4.83 on_target=0.520 goal=0.139
+[077] FINAL Yatã Lamas: no alvo sem gol (roll=0.980)
+[078] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[078] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.365 roll=0.373
+[079] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[079] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.365 roll=0.972
+[080] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[080] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.394 roll=0.667
+[081] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[081] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.365 roll=0.977
+[082] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[082] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.365 roll=0.595
+[083] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[083] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.394 roll=0.656
+[084] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[084] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.365 roll=0.143
+[084] JOGADA Ruggerone Foot Ball Club | Dúnio Cairoli x Tenório Guerreiro line=4 duel=-10.65 corte=-1.04
+[085] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[085] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.394 roll=0.640
+[086] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[086] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.361 roll=0.245
+[086] JOGADA Ruggerone Foot Ball Club | Rubi Ratto x Aristides Nabuco line=3 duel=7.59 corte=-1.04
+[086] FINAL Ruggerone Foot Ball Club | Dúnio Cairoli fam=1 duel=0.25 on_target=0.670 goal=0.229
+[086] FINAL Dúnio Cairoli: no alvo sem gol (roll=0.338)
+[087] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[087] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.394 roll=0.267
+[087] JOGADA Elite Itaquerense Futebol Clube | Rosil Veiga x Bóris Carrara line=4 duel=-73.04 corte=-1.70
+[087] JOGADA falhou: Bóris Carrara cortou
+[088] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[088] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.394 roll=0.628
+[089] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[089] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.394 roll=0.612
+[090] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[090] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.394 roll=0.995
+[091] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[091] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.361 roll=0.932
+[092] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[092] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.394 roll=0.548
+[093] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[093] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.394 roll=0.747
+[094] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[094] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.361 roll=0.026
+[094] JOGADA Ruggerone Foot Ball Club | Bóris Carrara x Aristides Nabuco line=4 duel=66.71 corte=-1.04
+[094] FINAL Ruggerone Foot Ball Club | Dúnio Cairoli fam=3 duel=-0.99 on_target=0.608 goal=0.175
+[094] FINAL Dúnio Cairoli: no alvo sem gol (roll=0.230)
+[095] posse=Ruggerone Foot Ball Club | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[095] BUILD Ruggerone Foot Ball Club vs Elite Itaquerense Futebol Clube prob=0.361 roll=0.465
+[096] posse=Elite Itaquerense Futebol Clube | placar Elite Itaquerense Futebol Clube 1 x 0 Ruggerone Foot Ball Club
+[096] BUILD Elite Itaquerense Futebol Clube vs Ruggerone Foot Ball Club prob=0.394 roll=0.570

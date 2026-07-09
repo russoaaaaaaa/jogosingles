@@ -1,0 +1,298 @@
+Partida #132
+Data: 1912-01-08
+Mandante: Clube Universitário Mineiro
+Visitante: Sociedade Sportiva Floresta
+Placar: 0 x 0
+Seed: -
+Estádio: Estádio Dagoberto da Silva
+Clima: Nublado
+Placar tempo normal: 0 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube Universitário Mineiro x Sociedade Sportiva Floresta | estádio=Estádio Dagoberto da Silva | clima=Nublado | seed=- | perfil=normal | pressão=Clássico: MatoMar
+[001] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[001] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.322 roll=0.324
+[002] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[002] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.403 roll=0.928
+[003] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[003] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.403 roll=0.165
+[003] JOGADA Clube Universitário Mineiro | Luisinho Tartaruga x Pacal Guedes line=5 duel=86.26 corte=-1.95
+[003] FINAL Clube Universitário Mineiro | Eduardo Eleonor fam=5 duel=-72.37 on_target=0.527 goal=0.118
+[003] FINAL Eduardo Eleonor: fora/alvo perdido (roll=0.997)
+[004] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[004] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.322 roll=0.292
+[004] JOGADA Sociedade Sportiva Floresta | Diego Cunha x Carlos Brant line=4 duel=-22.18 corte=-1.11
+[004] FINAL Sociedade Sportiva Floresta | Diego Cunha fam=5 duel=-46.29 on_target=0.510 goal=0.109
+[004] FINAL Diego Cunha: no alvo sem gol (roll=0.723)
+[005] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[005] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.403 roll=0.310
+[005] JOGADA Clube Universitário Mineiro | Luiz Marques x Martino Venetti line=5 duel=13.74 corte=-1.95
+[005] FINAL Clube Universitário Mineiro | Eduardo Eleonor fam=5 duel=-0.13 on_target=0.531 goal=0.149
+[005] FINAL Eduardo Eleonor: no alvo sem gol (roll=0.430)
+[006] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[006] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.403 roll=0.733
+[007] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[007] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.403 roll=0.570
+[008] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[008] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.322 roll=0.720
+[009] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[009] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.322 roll=0.697
+[010] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[010] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.403 roll=0.148
+[010] JOGADA Clube Universitário Mineiro | Thiago Jor x Luca Ricci line=5 duel=45.59 corte=-1.95
+[010] FINAL Clube Universitário Mineiro | Eduardo Eleonor fam=5 duel=-1.99 on_target=0.531 goal=0.148
+[010] FINAL Eduardo Eleonor: fora/alvo perdido (roll=0.975)
+[011] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[011] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.436 roll=0.610
+[012] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[012] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.436 roll=0.090
+[012] JOGADA Clube Universitário Mineiro | Castro José x Fernão de Magalhães Cerqueira line=5 duel=9.05 corte=-1.95
+[012] FINAL Clube Universitário Mineiro | Omar Telles fam=5 duel=-10.62 on_target=0.569 goal=0.152
+[012] FINAL Omar Telles: fora/alvo perdido (roll=0.833)
+[013] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[013] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.349 roll=0.716
+[014] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[014] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.436 roll=0.977
+[015] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[015] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.436 roll=0.240
+[015] JOGADA Clube Universitário Mineiro | Eduardo Eleonor x Elói Confalonieri line=4 duel=-4.16 corte=-1.70
+[016] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[016] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.349 roll=0.354
+[017] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[017] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.436 roll=0.540
+[018] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[018] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.349 roll=0.811
+[019] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[019] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.436 roll=0.640
+[020] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[020] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.349 roll=0.626
+[021] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[021] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.468 roll=0.245
+[021] JOGADA Clube Universitário Mineiro | Carlos Brant x Diego Cunha line=5 duel=-4.63 corte=-1.95
+[021] JOGADA falhou: Diego Cunha cortou
+[022] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[022] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.513
+[023] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[023] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.468 roll=0.111
+[023] JOGADA Clube Universitário Mineiro | Eduardo Eleonor x Fernão de Magalhães Cerqueira line=5 duel=59.17 corte=-2.45
+[023] FINAL Clube Universitário Mineiro | Luciano Simões fam=5 duel=-13.43 on_target=0.603 goal=0.157
+[023] FINAL Luciano Simões: no alvo sem gol (roll=0.991)
+[024] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[024] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.850
+[025] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[025] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.003
+[025] JOGADA Sociedade Sportiva Floresta | Pedro Moreira x Lutério Gomes line=4 duel=-15.42 corte=-1.11
+[025] JOGADA falhou: Lutério Gomes cortou
+[026] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[026] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.468 roll=0.807
+[027] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[027] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.552
+[028] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[028] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.684
+[029] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[029] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.805
+[030] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[030] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.468 roll=0.092
+[030] JOGADA Clube Universitário Mineiro | Eduardo Eleonor x Elói Confalonieri line=5 duel=41.85 corte=-2.45
+[030] FINAL Clube Universitário Mineiro | Eduardo Eleonor fam=5 duel=-9.46 on_target=0.603 goal=0.159
+[030] FINAL Eduardo Eleonor: fora/alvo perdido (roll=0.766)
+[031] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[031] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.288
+[031] JOGADA Sociedade Sportiva Floresta | Fernão de Magalhães Cerqueira x Carlos Brant line=3 duel=0.66 corte=-1.11
+[031] JOGADA Sociedade Sportiva Floresta | Pacal Guedes x Luciano Simões line=4 duel=9.05 corte=-1.11
+[031] JOGADA Sociedade Sportiva Floresta | Luca Ricci x Lutério Gomes line=4 duel=8.80 corte=-1.11
+[031] FINAL Sociedade Sportiva Floresta | Fernão de Magalhães Cerqueira fam=3 duel=-27.05 on_target=0.615 goal=0.172
+[031] FINAL Fernão de Magalhães Cerqueira: fora/alvo perdido (roll=0.658)
+[032] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[032] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.471 roll=0.080
+[032] JOGADA Clube Universitário Mineiro | Eduardo Eleonor x Martino Venetti line=3 duel=-8.38 corte=-1.70
+[032] JOGADA falhou: Martino Venetti cortou
+[033] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[033] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.471 roll=0.810
+[034] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[034] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.725
+[035] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[035] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.733
+[036] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[036] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.471 roll=0.137
+[036] JOGADA Clube Universitário Mineiro | Thiago Jor x Pedro Moreira line=5 duel=37.30 corte=-1.95
+[036] FINAL Clube Universitário Mineiro | Luiz Marques fam=5 duel=-1.46 on_target=0.598 goal=0.161
+[036] FINAL Luiz Marques: no alvo sem gol (roll=0.463)
+[037] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[037] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.471 roll=0.175
+[037] JOGADA Clube Universitário Mineiro | Luiz Marques x Pedro Moreira line=4 duel=49.39 corte=-1.70
+[037] FINAL Clube Universitário Mineiro | Luisinho Tartaruga fam=5 duel=-2.92 on_target=0.595 goal=0.160
+[037] FINAL Luisinho Tartaruga: no alvo sem gol (roll=0.336)
+[038] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[038] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.609
+[039] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[039] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.715
+[040] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[040] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.607
+[041] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[041] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.915
+[042] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[042] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.471 roll=0.578
+[043] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[043] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.189
+[043] JOGADA Sociedade Sportiva Floresta | Elói Confalonieri x Omar Telles line=3 duel=-10.99 corte=-1.10
+[043] JOGADA falhou: Omar Telles cortou
+[044] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[044] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.759
+[045] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[045] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.276
+[045] JOGADA Sociedade Sportiva Floresta | Pacal Guedes x Luisinho Tartaruga line=3 duel=9.56 corte=-1.10
+[045] JOGADA Sociedade Sportiva Floresta | Pacal Guedes x Eduardo Eleonor line=4 duel=42.60 corte=-1.10
+[045] FINAL Sociedade Sportiva Floresta | Aventino Rebelo fam=1 duel=-18.48 on_target=0.683 goal=0.233
+[045] FINAL Aventino Rebelo: no alvo sem gol (roll=0.999)
+[046] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[046] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.438 roll=0.180
+[046] JOGADA Clube Universitário Mineiro | Castro José x Fernão de Magalhães Cerqueira line=4 duel=4.54 corte=-1.70
+[046] FINAL Clube Universitário Mineiro | Luciano Simões fam=5 duel=-14.81 on_target=0.573 goal=0.153
+[046] FINAL Luciano Simões: no alvo sem gol (roll=0.190)
+[047] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[047] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.438 roll=0.444
+[048] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[048] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.438 roll=0.449
+[049] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[049] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.438 roll=0.885
+[050] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[050] SUB Clube Universitário Mineiro: saiu Luciano Simões (SA) | entrou Said Paulo Borges (SA) | subs=1/5
+[050] SUB Sociedade Sportiva Floresta: saiu Aventino Rebelo (CA) | entrou Milho Verde (SA) | subs=1/5
+[050] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.348 roll=0.253
+[050] JOGADA Sociedade Sportiva Floresta | Elói Confalonieri x Luiz Marques line=4 duel=-16.53 corte=-1.10
+[051] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[051] SUB Clube Universitário Mineiro: saiu Eduardo Eleonor (CA) | entrou Picareta Martins (PD) | subs=2/5
+[051] SUB Sociedade Sportiva Floresta: saiu Pedro Moreira (SA) | entrou Francisco Ferreira Góes (SA) | subs=2/5
+[051] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.436 roll=0.684
+[052] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[052] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.345 roll=0.492
+[053] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[053] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.436 roll=0.917
+[054] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[054] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.345 roll=0.924
+[055] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[055] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.436 roll=0.750
+[056] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[056] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.469 roll=0.503
+[057] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[057] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.469 roll=0.790
+[058] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[058] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.469 roll=0.288
+[058] JOGADA Clube Universitário Mineiro | Castro José x Fernão de Magalhães Cerqueira line=3 duel=7.92 corte=-1.70
+[058] FINAL Clube Universitário Mineiro | Luisinho Tartaruga fam=5 duel=-55.49 on_target=0.592 goal=0.135
+[058] FINAL Luisinho Tartaruga: no alvo sem gol (roll=0.924)
+[059] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[059] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.469 roll=0.867
+[060] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[060] SUB Clube Universitário Mineiro: saiu Luisinho Tartaruga (MC) | entrou Alberto Vaz (MA) | subs=3/5
+[060] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.372 roll=0.467
+[060] FINAL Sociedade Sportiva Floresta | Pacal Guedes fam=5 duel=2.64 on_target=0.583 goal=0.142
+[060] FINAL Pacal Guedes: fora/alvo perdido (roll=0.697)
+[061] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[061] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.469 roll=0.593
+[062] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[062] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.469 roll=0.747
+[063] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[063] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.372 roll=0.193
+[063] JOGADA Sociedade Sportiva Floresta | Tomás Cavalcanti x Felipe Castro Martins line=4 duel=-20.16 corte=-1.10
+[063] JOGADA falhou: Felipe Castro Martins cortou
+[064] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[064] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.372 roll=0.677
+[065] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[065] SUB Clube Universitário Mineiro: saiu Thiago Jor (ZAG) | entrou Erasmo Justo (ZAG) | subs=4/5
+[065] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.468 roll=0.956
+[066] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[066] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.375 roll=0.890
+[067] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[067] SUB Sociedade Sportiva Floresta: saiu Diego Cunha (ZAG) | entrou Mateus Carvalho (ZAG) | subs=3/5
+[067] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.470 roll=0.973
+[068] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[068] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.474 roll=0.289
+[068] JOGADA Clube Universitário Mineiro | Castro José x Mohammed Mohammed line=4 duel=55.46 corte=-1.70
+[068] FINAL Clube Universitário Mineiro | Picareta Martins fam=5 duel=22.92 on_target=0.598 goal=0.174
+[068] FINAL Picareta Martins: no alvo sem gol (roll=0.410)
+[069] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[069] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.474 roll=0.566
+[070] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[070] SUB Sociedade Sportiva Floresta: saiu Martino Venetti (ME) | entrou Dieguinho Maciel (ME) | subs=4/5
+[070] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.475 roll=0.573
+[071] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[071] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.475 roll=0.041
+[071] JOGADA Clube Universitário Mineiro | Castro José x Dieguinho Maciel line=4 duel=-19.49 corte=-1.70
+[071] FINAL Clube Universitário Mineiro | Castro José fam=5 duel=-12.68 on_target=0.589 goal=0.155
+[071] FINAL Castro José: fora/alvo perdido (roll=0.773)
+[072] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[072] SUB Clube Universitário Mineiro: saiu Lutério Gomes (LE) | entrou Eduardo Vila (LD) | subs=5/5
+[072] SUB Sociedade Sportiva Floresta: saiu Mohammed Mohammed (LE) | entrou Saleer Fadim (LD) | subs=5/5
+[072] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.376 roll=0.378
+[073] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[073] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.376 roll=0.435
+[074] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[074] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.473 roll=0.492
+[074] FINAL Clube Universitário Mineiro | Picareta Martins fam=5 duel=21.53 on_target=0.598 goal=0.173
+[074] FINAL Picareta Martins: no alvo sem gol (roll=0.442)
+[075] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[075] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.376 roll=0.744
+[076] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[076] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.487 roll=0.457
+[076] JOGADA Clube Universitário Mineiro | Castro José x Mateus Carvalho line=5 duel=-6.74 corte=-1.95
+[076] JOGADA falhou: Mateus Carvalho cortou
+[077] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[077] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.487 roll=0.370
+[077] JOGADA Clube Universitário Mineiro | Carlos Brant x Milho Verde line=4 duel=47.26 corte=-1.70
+[077] FINAL Clube Universitário Mineiro | Alberto Vaz fam=5 duel=23.05 on_target=0.609 goal=0.175
+[077] FINAL Alberto Vaz: fora/alvo perdido (roll=0.821)
+[078] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[078] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.487 roll=0.591
+[079] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[079] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.487 roll=0.667
+[080] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[080] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.487 roll=0.800
+[081] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[081] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.487 roll=0.838
+[082] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[082] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.387 roll=0.275
+[082] JOGADA Sociedade Sportiva Floresta | Elói Confalonieri x Alberto Vaz line=2 duel=-23.79 corte=-1.05
+[083] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[083] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.487 roll=0.168
+[083] JOGADA Clube Universitário Mineiro | Eduardo Vila x Pacal Guedes line=5 duel=57.79 corte=-1.95
+[083] FINAL Clube Universitário Mineiro | Alberto Vaz fam=5 duel=-33.80 on_target=0.606 goal=0.149
+[083] FINAL Alberto Vaz: no alvo sem gol (roll=0.573)
+[084] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[084] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.487 roll=0.758
+[084] FINAL Clube Universitário Mineiro | Carlos Brant fam=5 duel=-58.23 on_target=0.599 goal=0.136
+[084] FINAL Carlos Brant: no alvo sem gol (roll=0.875)
+[085] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[085] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.416 roll=0.649
+[086] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[086] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.523 roll=0.847
+[087] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[087] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.523 roll=0.905
+[088] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[088] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.416 roll=0.617
+[089] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[089] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.416 roll=0.408
+[089] JOGADA Sociedade Sportiva Floresta | Fernão de Magalhães Cerqueira x Erasmo Justo line=3 duel=-11.37 corte=-1.05
+[089] JOGADA falhou: Erasmo Justo cortou
+[090] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[090] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.416 roll=0.651
+[091] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[091] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.523 roll=0.495
+[091] JOGADA Clube Universitário Mineiro | Castro José x Mateus Carvalho line=4 duel=-7.96 corte=-1.70
+[091] JOGADA falhou: Mateus Carvalho cortou
+[092] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[092] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.523 roll=0.283
+[092] JOGADA Clube Universitário Mineiro | Felipe Castro Martins x Tomás Cavalcanti line=4 duel=1.78 corte=-1.70
+[092] FINAL Clube Universitário Mineiro | Omar Telles fam=5 duel=-5.24 on_target=0.665 goal=0.164
+[092] FINAL Omar Telles: no alvo sem gol (roll=0.530)
+[093] posse=Sociedade Sportiva Floresta | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[093] BUILD Sociedade Sportiva Floresta vs Clube Universitário Mineiro prob=0.416 roll=0.703
+[094] posse=Clube Universitário Mineiro | placar Clube Universitário Mineiro 0 x 0 Sociedade Sportiva Floresta
+[094] BUILD Clube Universitário Mineiro vs Sociedade Sportiva Floresta prob=0.523 roll=0.226
+[094] JOGADA Clube Universitário Mineiro | Castro José x Milho Verde line=5 duel=62.74 corte=-1.95
+[094] FINAL Clube Universitário Mineiro | Said Paulo Borges fam=5 duel=-2.89 on_target=0.659 goal=0.163
+[094] FINAL Said Paulo Borges: no alvo sem gol (roll=0.922)

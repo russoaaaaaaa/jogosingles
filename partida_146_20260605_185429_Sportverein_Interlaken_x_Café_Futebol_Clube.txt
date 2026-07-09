@@ -1,0 +1,341 @@
+Partida #146
+Data: 1912-01-10
+Mandante: Sportverein Interlaken
+Visitante: Café Futebol Clube
+Placar: 1 x 1
+Seed: -
+Estádio: Estádio Jannik Sandmeier
+Clima: Nublado
+Placar tempo normal: 1 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Sportverein Interlaken x Café Futebol Clube | estádio=Estádio Jannik Sandmeier | clima=Nublado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[001] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.350 roll=0.192
+[001] JOGADA Café Futebol Clube | Eda Anjos x Vincenzo Mingotti line=4 duel=-71.54 corte=-1.30
+[001] JOGADA falhou: Vincenzo Mingotti cortou
+[002] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[002] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.350 roll=0.087
+[002] JOGADA Café Futebol Clube | Frederico Villardi x Basil Atkinson line=3 duel=17.68 corte=-1.30
+[002] FINAL Café Futebol Clube | João Grão Torrado fam=5 duel=5.02 on_target=0.518 goal=0.143
+[002] FINAL João Grão Torrado: fora/alvo perdido (roll=0.842)
+[003] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[003] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.411 roll=0.785
+[004] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[004] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.411 roll=0.613
+[005] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[005] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.411 roll=0.260
+[005] JOGADA Sportverein Interlaken | Esteban Arcaño x João Grão Torrado line=3 duel=26.83 corte=-1.12
+[005] JOGADA Sportverein Interlaken | Basil Atkinson x Purus Machado line=4 duel=-11.58 corte=-1.12
+[005] JOGADA falhou: Purus Machado cortou
+[006] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[006] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.350 roll=0.460
+[007] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[007] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.350 roll=0.622
+[008] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[008] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.411 roll=0.886
+[008] FINAL Sportverein Interlaken | Jose Miguel Balenciaga fam=5 duel=-37.92 on_target=0.513 goal=0.115
+[008] FINAL Jose Miguel Balenciaga: no alvo sem gol (roll=0.936)
+[009] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[009] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.411 roll=0.807
+[010] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[010] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.350 roll=0.821
+[011] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[011] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.445 roll=0.361
+[011] JOGADA Sportverein Interlaken | Jose Miguel Balenciaga x Purus Machado line=2 duel=2.14 corte=-1.12
+[011] FINAL Sportverein Interlaken | Ander Cisneros fam=1 duel=21.75 on_target=0.658 goal=0.251
+[011] FINAL Ander Cisneros: no alvo sem gol (roll=0.622)
+[012] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[012] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.378 roll=0.378
+[012] JOGADA Café Futebol Clube | Paulinho Colhe-colhe x Jose Miguel Balenciaga line=3 duel=-6.22 corte=-1.30
+[013] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[013] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.445 roll=0.327
+[013] JOGADA Sportverein Interlaken | Esteban Arcaño x Quiriri Botelho line=3 duel=-10.37 corte=-1.12
+[013] JOGADA falhou: Quiriri Botelho cortou
+[014] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[014] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.445 roll=0.952
+[015] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[015] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.445 roll=0.991
+[016] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[016] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.445 roll=0.052
+[016] JOGADA Sportverein Interlaken | Vincenzo Mingotti x Purus Machado line=4 duel=14.79 corte=-1.12
+[016] JOGADA Sportverein Interlaken | Ander Cisneros x Ieiê line=4 duel=8.82 corte=-1.12
+[016] FINAL Sportverein Interlaken | Basil Atkinson fam=3 duel=-31.17 on_target=0.594 goal=0.171
+[016] FINAL Basil Atkinson: fora/alvo perdido (roll=0.997)
+[017] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[017] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.378 roll=0.762
+[018] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[018] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.445 roll=0.644
+[019] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[019] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.378 roll=0.347
+[019] JOGADA Café Futebol Clube | Ieiê x Ander Cisneros line=3 duel=37.35 corte=-1.30
+[019] FINAL Café Futebol Clube | Frederico Villardi fam=5 duel=16.82 on_target=0.560 goal=0.157
+[019] FINAL Frederico Villardi: fora/alvo perdido (roll=0.667)
+[020] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[020] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.378 roll=0.591
+[021] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[021] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.407 roll=0.057
+[021] JOGADA Café Futebol Clube | Paulinho Colhe-colhe x Basil Atkinson line=3 duel=5.89 corte=-1.30
+[021] FINAL Café Futebol Clube | João Grão Torrado fam=5 duel=-1.45 on_target=0.589 goal=0.154
+[021] FINAL João Grão Torrado: no alvo sem gol (roll=0.692)
+[022] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[022] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.407 roll=0.593
+[023] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[023] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.407 roll=0.048
+[023] JOGADA Café Futebol Clube | Péricles Ribeiro x Mohamed Jesus line=3 duel=-6.37 corte=-1.30
+[023] JOGADA falhou: Mohamed Jesus cortou
+[024] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[024] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.478 roll=0.268
+[024] JOGADA Sportverein Interlaken | Archie McLean x João Grão Torrado line=3 duel=35.65 corte=-1.12
+[024] JOGADA Sportverein Interlaken | Vincenzo Mingotti x Quiriri Botelho line=4 duel=-19.17 corte=-1.12
+[024] JOGADA falhou: Quiriri Botelho cortou
+[025] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[025] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.478 roll=0.514
+[026] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[026] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.407 roll=0.225
+[026] JOGADA Café Futebol Clube | Ioiô x Basil Atkinson line=4 duel=-75.38 corte=-1.30
+[026] JOGADA falhou: Basil Atkinson cortou
+[027] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[027] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.478 roll=0.956
+[028] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[028] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.407 roll=0.857
+[029] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[029] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.407 roll=0.711
+[030] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[030] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.478 roll=0.279
+[030] JOGADA Sportverein Interlaken | Esteban Arcaño x João Grão Torrado line=3 duel=83.37 corte=-1.12
+[030] JOGADA Sportverein Interlaken | Basil Atkinson x Frederico Villardi line=4 duel=4.23 corte=-1.12
+[030] JOGADA Sportverein Interlaken | Basil Atkinson x Frederico Villardi line=5 duel=82.39 corte=-1.87
+[030] FINAL Sportverein Interlaken | Richard Kuthan fam=1 duel=16.69 on_target=0.694 goal=0.257
+[030] FINAL Richard Kuthan: fora/alvo perdido (roll=0.708)
+[031] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[031] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.407 roll=0.344
+[031] JOGADA Café Futebol Clube | Frederico Villardi x Vincenzo Mingotti line=2 duel=71.26 corte=-1.30
+[031] FINAL Café Futebol Clube | Frederico Villardi fam=5 duel=19.86 on_target=0.590 goal=0.164
+[031] FINAL Frederico Villardi: no alvo sem gol (roll=0.388)
+[032] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[032] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.478 roll=0.675
+[033] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[033] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.409 roll=0.711
+[034] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[034] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.409 roll=0.333
+[034] JOGADA Café Futebol Clube | Frederico Villardi x Esteban Arcaño line=4 duel=-14.34 corte=-1.30
+[034] JOGADA falhou: Esteban Arcaño cortou
+[035] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[035] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.409 roll=0.396
+[035] JOGADA Café Futebol Clube | Ieiê x Richard Kuthan line=3 duel=31.86 corte=-1.30
+[035] FINAL Café Futebol Clube | Ioiô fam=5 duel=2.84 on_target=0.589 goal=0.156
+[035] FINAL Ioiô: no alvo sem gol (roll=0.406)
+[036] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[036] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.478 roll=0.370
+[036] JOGADA Sportverein Interlaken | Otto Herschmann x Quiriri Botelho line=2 duel=29.34 corte=-1.12
+[036] JOGADA Sportverein Interlaken | Otto Herschmann x Ieiê line=4 duel=-8.20 corte=-1.12
+[037] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[037] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.478 roll=0.585
+[038] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[038] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.478 roll=0.428
+[038] JOGADA Sportverein Interlaken | Vincenzo Mingotti x Paulinho Colhe-colhe line=4 duel=17.04 corte=-1.12
+[038] JOGADA Sportverein Interlaken | Mohamed Jesus x Paulinho Colhe-colhe line=4 duel=17.39 corte=-1.12
+[038] FINAL Sportverein Interlaken | Ander Cisneros fam=1 duel=15.07 on_target=0.692 goal=0.255
+[038] FINAL Ander Cisneros: no alvo sem gol (roll=0.383)
+[039] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[039] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.409 roll=0.413
+[040] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[040] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.409 roll=0.062
+[040] JOGADA Café Futebol Clube | Purus Machado x Jose Miguel Balenciaga line=3 duel=1.62 corte=-1.30
+[040] FINAL Café Futebol Clube | João Grão Torrado fam=5 duel=-68.77 on_target=0.585 goal=0.124
+[040] FINAL João Grão Torrado: no alvo sem gol (roll=0.386)
+[041] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[041] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.409 roll=0.757
+[042] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[042] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.409 roll=0.175
+[042] JOGADA Café Futebol Clube | Frederico Villardi x Mohamed Jesus line=3 duel=10.97 corte=-1.30
+[042] FINAL Café Futebol Clube | Maurício Coado fam=5 duel=5.92 on_target=0.597 goal=0.161
+[042] FINAL Maurício Coado: fora/alvo perdido (roll=0.607)
+[043] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[043] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.409 roll=0.637
+[044] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[044] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.409 roll=0.638
+[045] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[045] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.478 roll=0.089
+[045] JOGADA Sportverein Interlaken | Ander Cisneros x Ieiê line=3 duel=7.82 corte=-1.12
+[045] FINAL Sportverein Interlaken | Ander Cisneros fam=3 duel=6.35 on_target=0.628 goal=0.194
+[045] FINAL Ander Cisneros: no alvo sem gol (roll=0.273)
+[046] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[046] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.445 roll=0.760
+[047] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[047] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.445 roll=0.259
+[047] JOGADA Sportverein Interlaken | Esteban Arcaño x Maurício Coado line=3 duel=-1.20 corte=-1.12
+[047] JOGADA falhou: Maurício Coado cortou
+[048] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[048] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.381 roll=0.680
+[049] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 0 Café Futebol Clube
+[049] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.381 roll=0.309
+[049] JOGADA Café Futebol Clube | Péricles Ribeiro x Jose Miguel Balenciaga line=2 duel=59.83 corte=-1.30
+[049] FINAL Café Futebol Clube | Péricles Ribeiro fam=5 duel=-21.55 on_target=0.556 goal=0.140
+[049] FINAL Péricles Ribeiro: GOL subtipo=FALTA (roll=0.050)
+[050] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[050] SUB Sportverein Interlaken: saiu Archie McLean (CA) | entrou Hermann Friese (CA) | subs=1/5
+[050] SUB Café Futebol Clube: saiu João Grão Torrado (CA) | entrou João Planta-planta (CA) | subs=1/5
+[050] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.529 roll=0.078
+[050] JOGADA Sportverein Interlaken | Richard Kuthan x João Planta-planta line=3 duel=27.03 corte=-1.10
+[050] FINAL Sportverein Interlaken | Richard Kuthan fam=3 duel=19.60 on_target=0.598 goal=0.195
+[050] FINAL Richard Kuthan: no alvo sem gol (roll=0.389)
+[051] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[051] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.412 roll=0.433
+[052] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[052] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.529 roll=0.814
+[053] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[053] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.412 roll=0.934
+[054] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[054] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.412 roll=0.868
+[055] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[055] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.412 roll=0.272
+[055] JOGADA Café Futebol Clube | Ioiô x Ander Cisneros line=4 duel=24.68 corte=-1.30
+[055] FINAL Café Futebol Clube | Ioiô fam=5 duel=-56.16 on_target=0.557 goal=0.126
+[055] FINAL Ioiô: fora/alvo perdido (roll=0.931)
+[056] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[056] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.568 roll=0.319
+[056] JOGADA Sportverein Interlaken | Richard Kuthan x Frederico Villardi line=3 duel=4.45 corte=-1.10
+[056] JOGADA Sportverein Interlaken | Kyran Workman x Maurício Coado line=4 duel=-19.94 corte=-1.10
+[056] JOGADA falhou: Maurício Coado cortou
+[057] posse=Café Futebol Clube | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[057] SUB Café Futebol Clube: saiu Eda Anjos (ZAG) | entrou Adelino Sardinha (VOL) | subs=2/5
+[057] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.443 roll=0.742
+[058] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[058] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.539 roll=0.849
+[059] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[059] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.539 roll=0.642
+[060] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[060] SUB Café Futebol Clube: saiu Maurício Coado (MC) | entrou Nádege Berdardinelli (MC) | subs=3/5
+[060] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.540 roll=0.102
+[060] JOGADA Sportverein Interlaken | Jose Miguel Balenciaga x Frederico Villardi line=2 duel=84.68 corte=-1.10
+[060] JOGADA Sportverein Interlaken | Richard Kuthan x Quiriri Botelho line=5 duel=71.37 corte=-1.85
+[060] FINAL Sportverein Interlaken | Hermann Friese fam=3 duel=37.04 on_target=0.623 goal=0.205
+[060] FINAL Hermann Friese: fora/alvo perdido (roll=0.686)
+[061] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[061] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.540 roll=0.379
+[061] JOGADA Sportverein Interlaken | Vincenzo Mingotti x Adelino Sardinha line=2 duel=-36.81 corte=-1.10
+[062] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[062] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.540 roll=0.314
+[062] JOGADA Sportverein Interlaken | Kyran Workman x Nádege Berdardinelli line=2 duel=49.79 corte=-1.10
+[062] JOGADA Sportverein Interlaken | Mohamed Jesus x Ieiê line=5 duel=80.27 corte=-1.35
+[062] JOGADA Sportverein Interlaken | Ander Cisneros x Purus Machado line=5 duel=63.30 corte=-1.85
+[062] FINAL Sportverein Interlaken | Ander Cisneros fam=1 duel=19.24 on_target=0.693 goal=0.257
+[062] FINAL Ander Cisneros: no alvo sem gol (roll=0.703)
+[063] posse=Sportverein Interlaken | placar Sportverein Interlaken 0 x 1 Café Futebol Clube
+[063] SUB Sportverein Interlaken: saiu Ander Cisneros (PE) | entrou 'Príncipe' Eugênio (PD) | subs=2/5
+[063] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.535 roll=0.413
+[063] JOGADA Sportverein Interlaken | Vincenzo Mingotti x Ioiô line=2 duel=104.27 corte=-1.10
+[063] JOGADA Sportverein Interlaken | Hermann Friese x Frederico Villardi line=5 duel=14.42 corte=-1.85
+[063] JOGADA Sportverein Interlaken | Basil Atkinson x Adelino Sardinha line=5 duel=51.75 corte=-1.85
+[063] FINAL Sportverein Interlaken | Richard Kuthan fam=1 duel=25.68 on_target=0.695 goal=0.261
+[063] FINAL Richard Kuthan: GOL subtipo=CHUTE (roll=0.097)
+[064] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[064] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.445 roll=0.039
+[064] JOGADA Sportverein Interlaken | 'Príncipe' Eugênio x Adelino Sardinha line=3 duel=-6.01 corte=-1.11
+[064] JOGADA falhou: Adelino Sardinha cortou
+[065] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[065] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.445 roll=0.234
+[065] JOGADA Sportverein Interlaken | Richard Kuthan x Quiriri Botelho line=3 duel=11.52 corte=-1.11
+[065] JOGADA Sportverein Interlaken | Vincenzo Mingotti x Ieiê line=4 duel=16.90 corte=-1.11
+[065] JOGADA Sportverein Interlaken | Hermann Friese x Purus Machado line=4 duel=18.59 corte=-1.11
+[065] FINAL Sportverein Interlaken | Hermann Friese fam=1 duel=33.82 on_target=0.686 goal=0.260
+[065] FINAL Hermann Friese: fora/alvo perdido (roll=0.874)
+[066] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[066] SUB Café Futebol Clube: saiu Ioiô (PE) | entrou Irapuã Santos (PE) | subs=4/5
+[066] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.445 roll=0.458
+[067] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[067] SUB Café Futebol Clube: saiu Ieiê (SA) | entrou Pato Lobisomem (MA) | subs=5/5
+[067] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.412 roll=0.035
+[067] JOGADA Café Futebol Clube | Pato Lobisomem x Vincenzo Mingotti line=2 duel=87.39 corte=-1.30
+[067] FINAL Café Futebol Clube | Pato Lobisomem fam=5 duel=43.22 on_target=0.594 goal=0.176
+[067] FINAL Pato Lobisomem: no alvo sem gol (roll=0.391)
+[068] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[068] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.444 roll=0.546
+[069] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[069] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.444 roll=0.632
+[070] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[070] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.444 roll=0.369
+[070] JOGADA Sportverein Interlaken | Esteban Arcaño x Nádege Berdardinelli line=3 duel=-20.57 corte=-1.11
+[071] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[071] SUB Sportverein Interlaken: saiu Richard Kuthan (PD) | entrou Franzi Dumeni Eichenberger (MD) | subs=3/5
+[071] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.408 roll=0.875
+[072] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[072] SUB Sportverein Interlaken: saiu Basil Atkinson (MA) | entrou Henrich Klestil (MA) | subs=4/5
+[072] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.420 roll=0.823
+[073] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[073] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.420 roll=0.228
+[073] JOGADA Café Futebol Clube | Pato Lobisomem x 'Príncipe' Eugênio line=3 duel=46.96 corte=-1.30
+[073] FINAL Café Futebol Clube | Pato Lobisomem fam=5 duel=41.32 on_target=0.594 goal=0.176
+[073] FINAL Pato Lobisomem: fora/alvo perdido (roll=0.949)
+[074] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[074] SUB Sportverein Interlaken: saiu Mohamed Jesus (MC) | entrou Alejandro Domínguez (MC) | subs=5/5
+[074] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.398 roll=0.269
+[074] JOGADA Sportverein Interlaken | Henrich Klestil x João Planta-planta line=2 duel=40.27 corte=-1.07
+[074] FINAL Sportverein Interlaken | Kyran Workman fam=3 duel=-11.97 on_target=0.624 goal=0.184
+[074] FINAL Kyran Workman: no alvo sem gol (roll=0.757)
+[075] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[075] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.422 roll=0.553
+[076] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[076] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.410 roll=0.804
+[077] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[077] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.434 roll=0.541
+[078] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[078] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.410 roll=0.456
+[079] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[079] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.434 roll=0.923
+[080] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[080] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.434 roll=0.937
+[081] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[081] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.410 roll=0.014
+[081] JOGADA Sportverein Interlaken | Vincenzo Mingotti x Nádege Berdardinelli line=3 duel=-21.86 corte=-1.07
+[081] JOGADA falhou: Nádege Berdardinelli cortou
+[082] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[082] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.434 roll=0.922
+[083] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[083] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.434 roll=0.047
+[083] JOGADA Café Futebol Clube | Paulinho Colhe-colhe x Otto Herschmann line=3 duel=-3.06 corte=-1.30
+[083] JOGADA falhou: Otto Herschmann cortou
+[084] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[084] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.434 roll=0.865
+[085] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[085] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.457 roll=0.598
+[086] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[086] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.457 roll=0.910
+[087] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[087] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.457 roll=0.234
+[087] JOGADA Café Futebol Clube | Nádege Berdardinelli x Jose Miguel Balenciaga line=3 duel=7.81 corte=-1.30
+[087] FINAL Café Futebol Clube | Pato Lobisomem fam=5 duel=-25.14 on_target=0.640 goal=0.147
+[087] FINAL Pato Lobisomem: no alvo sem gol (roll=0.534)
+[088] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[088] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.457 roll=0.849
+[089] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[089] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.457 roll=0.438
+[089] JOGADA Café Futebol Clube | Irapuã Santos x Hermann Friese line=4 duel=42.58 corte=-1.30
+[089] JOGADA Café Futebol Clube | Frederico Villardi x Kyran Workman line=5 duel=20.82 corte=-2.05
+[089] JOGADA Café Futebol Clube | Paulinho Colhe-colhe x Alejandro Domínguez line=5 duel=-10.79 corte=-1.55
+[089] JOGADA falhou: Alejandro Domínguez cortou
+[090] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[090] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.432 roll=0.080
+[090] JOGADA Sportverein Interlaken | Otto Herschmann x Adelino Sardinha line=2 duel=10.63 corte=-1.07
+[090] JOGADA Sportverein Interlaken | Jose Miguel Balenciaga x Purus Machado line=5 duel=54.81 corte=-1.32
+[090] JOGADA Sportverein Interlaken | Esteban Arcaño x Paulinho Colhe-colhe line=5 duel=35.79 corte=-1.32
+[090] FINAL Sportverein Interlaken | Hermann Friese fam=1 duel=8.91 on_target=0.743 goal=0.251
+[090] FINAL Hermann Friese: no alvo sem gol (roll=0.294)
+[091] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[091] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.432 roll=0.964
+[092] posse=Sportverein Interlaken | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[092] BUILD Sportverein Interlaken vs Café Futebol Clube prob=0.432 roll=0.751
+[093] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[093] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.457 roll=0.150
+[093] JOGADA Café Futebol Clube | Adelino Sardinha x Henrich Klestil line=4 duel=-61.19 corte=-1.30
+[093] JOGADA falhou: Henrich Klestil cortou
+[094] posse=Café Futebol Clube | placar Sportverein Interlaken 1 x 1 Café Futebol Clube
+[094] BUILD Café Futebol Clube vs Sportverein Interlaken prob=0.457 roll=0.254
+[094] JOGADA Café Futebol Clube | Nádege Berdardinelli x 'Príncipe' Eugênio line=2 duel=93.45 corte=-1.30
+[094] FINAL Café Futebol Clube | Pato Lobisomem fam=5 duel=24.20 on_target=0.643 goal=0.170
+[094] FINAL Pato Lobisomem: no alvo sem gol (roll=0.931)

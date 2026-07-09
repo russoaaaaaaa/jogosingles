@@ -1,0 +1,327 @@
+Partida #67
+Data: 1912-01-04
+Mandante: Real Bragança Athletic
+Visitante: Esporte Clube Renascença
+Placar: 2 x 1
+Seed: -
+Estádio: Estádio Dom Pedro II
+Clima: Ensolarado
+Placar tempo normal: 2 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: Real Bragança Athletic
+
+=== LOG VERBOSE ===
+Início: Real Bragança Athletic x Esporte Clube Renascença | estádio=Estádio Dom Pedro II | clima=Ensolarado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[001] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.282 roll=0.734
+[002] posse=Real Bragança Athletic | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[002] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.351 roll=0.916
+[003] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[003] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.282 roll=0.181
+[003] JOGADA Esporte Clube Renascença | Caio Dias x Aderico Vidal line=4 duel=0.97 corte=-1.30
+[003] FINAL Esporte Clube Renascença | Jeba Primo fam=5 duel=-28.23 on_target=0.520 goal=0.131
+[003] FINAL Jeba Primo: fora/alvo perdido (roll=0.913)
+[004] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[004] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.282 roll=0.799
+[005] posse=Real Bragança Athletic | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[005] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.351 roll=0.569
+[006] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[006] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.282 roll=0.461
+[007] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[007] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.282 roll=0.628
+[008] posse=Real Bragança Athletic | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[008] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.351 roll=0.637
+[009] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[009] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.282 roll=0.832
+[010] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[010] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.282 roll=0.273
+[010] JOGADA Esporte Clube Renascença | Vitor Ribeiro x Frederico Frederiques line=5 duel=34.18 corte=-1.55
+[010] FINAL Esporte Clube Renascença | Leonardo Araújo fam=5 duel=-18.37 on_target=0.519 goal=0.135
+[010] FINAL Leonardo Araújo: fora/alvo perdido (roll=0.922)
+[011] posse=Real Bragança Athletic | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[011] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.379 roll=0.232
+[011] JOGADA Real Bragança Athletic | Vili Resendes x Vinicius Batista line=4 duel=45.19 corte=-1.11
+[011] FINAL Real Bragança Athletic | Vili Resendes fam=1 duel=16.64 on_target=0.649 goal=0.243
+[011] FINAL Vili Resendes: no alvo sem gol (roll=0.857)
+[012] posse=Real Bragança Athletic | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[012] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.379 roll=0.057
+[012] JOGADA Real Bragança Athletic | Omar Medeiros x Ricardo Lopes line=4 duel=109.96 corte=-1.11
+[012] FINAL Real Bragança Athletic | Garibaldo Coutinho fam=3 duel=11.19 on_target=0.588 goal=0.186
+[012] FINAL Garibaldo Coutinho: fora/alvo perdido (roll=0.618)
+[013] posse=Real Bragança Athletic | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[013] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.379 roll=0.971
+[014] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[014] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.305 roll=0.144
+[014] JOGADA Esporte Clube Renascença | Ricardo Lopes x Sisnando Abreu line=4 duel=23.76 corte=-1.30
+[014] FINAL Esporte Clube Renascença | Leonardo Araújo fam=5 duel=-88.95 on_target=0.556 goal=0.112
+[014] FINAL Leonardo Araújo: no alvo sem gol (roll=0.568)
+[015] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[015] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.305 roll=0.685
+[016] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[016] LESÃO Real Bragança Athletic: Agnelo Gonsalves | lesão muscular | gravidade=moderada | 4 jogo(s)
+[016] SUB Real Bragança Athletic: saiu Agnelo Gonsalves (LE) | entrou Florêncio Amaral (AE) | subs=1/5
+[016] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.308 roll=0.711
+[017] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[017] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.308 roll=0.883
+[018] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[018] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.308 roll=0.162
+[018] JOGADA Esporte Clube Renascença | Ricardo Lopes x Aderico Vidal line=4 duel=50.21 corte=-1.30
+[018] FINAL Esporte Clube Renascença | Jeba Primo fam=5 duel=-18.23 on_target=0.561 goal=0.144
+[018] FINAL Jeba Primo: fora/alvo perdido (roll=0.898)
+[019] posse=Real Bragança Athletic | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[019] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.377 roll=0.076
+[019] JOGADA Real Bragança Athletic | Florêncio Amaral x Vitor Ribeiro line=4 duel=57.65 corte=-1.12
+[019] FINAL Real Bragança Athletic | Omar Medeiros fam=1 duel=13.36 on_target=0.647 goal=0.240
+[019] FINAL Omar Medeiros: fora/alvo perdido (roll=0.805)
+[020] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[020] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.308 roll=0.647
+[021] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[021] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.331 roll=0.641
+[022] posse=Real Bragança Athletic | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[022] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.405 roll=0.141
+[022] JOGADA Real Bragança Athletic | Sabino Seixas x Jeba Primo line=3 duel=46.09 corte=-1.12
+[022] FINAL Real Bragança Athletic | Vili Resendes fam=3 duel=4.84 on_target=0.619 goal=0.189
+[022] FINAL Vili Resendes: fora/alvo perdido (roll=0.937)
+[023] posse=Esporte Clube Renascença | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[023] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.331 roll=0.921
+[024] posse=Real Bragança Athletic | placar Real Bragança Athletic 0 x 0 Esporte Clube Renascença
+[024] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.405 roll=0.365
+[024] JOGADA Real Bragança Athletic | Sisnando Abreu x Caio Dias line=5 duel=41.14 corte=-1.37
+[024] FINAL Real Bragança Athletic | Vili Resendes fam=1 duel=23.13 on_target=0.684 goal=0.253
+[024] FINAL Vili Resendes: GOL subtipo=CHUTE (roll=0.215)
+[025] posse=Real Bragança Athletic | placar Real Bragança Athletic 1 x 0 Esporte Clube Renascença
+[025] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.405 roll=0.554
+[026] posse=Esporte Clube Renascença | placar Real Bragança Athletic 1 x 0 Esporte Clube Renascença
+[026] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.378 roll=0.481
+[027] posse=Esporte Clube Renascença | placar Real Bragança Athletic 1 x 0 Esporte Clube Renascença
+[027] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.378 roll=0.875
+[028] posse=Real Bragança Athletic | placar Real Bragança Athletic 1 x 0 Esporte Clube Renascença
+[028] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.405 roll=0.138
+[028] JOGADA Real Bragança Athletic | Natão Queiros x Vinicius Batista line=5 duel=32.38 corte=-1.55
+[028] FINAL Real Bragança Athletic | Vili Resendes fam=1 duel=23.63 on_target=0.684 goal=0.254
+[028] FINAL Vili Resendes: no alvo sem gol (roll=0.780)
+[029] posse=Real Bragança Athletic | placar Real Bragança Athletic 1 x 0 Esporte Clube Renascença
+[029] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.405 roll=0.597
+[030] posse=Real Bragança Athletic | placar Real Bragança Athletic 1 x 0 Esporte Clube Renascença
+[030] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.405 roll=0.746
+[031] posse=Real Bragança Athletic | placar Real Bragança Athletic 1 x 0 Esporte Clube Renascença
+[031] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.405 roll=0.059
+[031] JOGADA Real Bragança Athletic | Garibaldo Coutinho x Vitor Ribeiro line=5 duel=94.68 corte=-2.05
+[031] FINAL Real Bragança Athletic | Geraldo Correia fam=1 duel=28.81 on_target=0.684 goal=0.256
+[031] FINAL Geraldo Correia: no alvo sem gol (roll=0.458)
+[032] posse=Esporte Clube Renascença | placar Real Bragança Athletic 1 x 0 Esporte Clube Renascença
+[032] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.378 roll=0.653
+[033] posse=Real Bragança Athletic | placar Real Bragança Athletic 1 x 0 Esporte Clube Renascença
+[033] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.405 roll=0.584
+[034] posse=Real Bragança Athletic | placar Real Bragança Athletic 1 x 0 Esporte Clube Renascença
+[034] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.405 roll=0.061
+[034] JOGADA Real Bragança Athletic | Florêncio Amaral x Caio Dias line=4 duel=73.15 corte=-1.30
+[034] FINAL Real Bragança Athletic | Aderico Vidal fam=1 duel=23.32 on_target=0.683 goal=0.253
+[034] FINAL Aderico Vidal: no alvo sem gol (roll=0.385)
+[035] posse=Real Bragança Athletic | placar Real Bragança Athletic 1 x 0 Esporte Clube Renascença
+[035] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.405 roll=0.291
+[035] JOGADA Real Bragança Athletic | Sisnando Abreu x Carlos Gomes line=5 duel=30.18 corte=-1.55
+[035] FINAL Real Bragança Athletic | Vili Resendes fam=1 duel=24.64 on_target=0.684 goal=0.254
+[035] FINAL Vili Resendes: GOL subtipo=CHUTE (roll=0.221)
+[036] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[036] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.397 roll=0.672
+[037] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[037] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.397 roll=0.345
+[037] JOGADA Real Bragança Athletic | Sabino Seixas x Caio Dias line=5 duel=112.35 corte=-1.55
+[037] FINAL Real Bragança Athletic | Garibaldo Coutinho fam=3 duel=-15.86 on_target=0.594 goal=0.167
+[037] FINAL Garibaldo Coutinho: fora/alvo perdido (roll=0.814)
+[038] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[038] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.397 roll=0.794
+[039] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[039] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.397 roll=0.382
+[039] JOGADA Real Bragança Athletic | Vili Resendes x Caio Dias line=3 duel=36.49 corte=-1.30
+[039] FINAL Real Bragança Athletic | Vili Resendes fam=1 duel=24.06 on_target=0.658 goal=0.237
+[039] FINAL Vili Resendes: fora/alvo perdido (roll=0.781)
+[040] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[040] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.382 roll=0.612
+[041] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[041] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.382 roll=0.452
+[042] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[042] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.397 roll=0.250
+[042] JOGADA Real Bragança Athletic | Vili Resendes x Vinicius Batista line=4 duel=45.62 corte=-1.30
+[042] FINAL Real Bragança Athletic | Aderico Vidal fam=1 duel=18.00 on_target=0.657 goal=0.234
+[042] FINAL Aderico Vidal: fora/alvo perdido (roll=0.765)
+[043] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[043] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.382 roll=0.865
+[044] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[044] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.397 roll=0.810
+[045] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[045] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.397 roll=0.902
+[046] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[046] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.369 roll=0.219
+[046] JOGADA Real Bragança Athletic | Florêncio Amaral x Ricardo Lopes line=4 duel=28.33 corte=-1.30
+[046] FINAL Real Bragança Athletic | Geraldo Correia fam=1 duel=30.68 on_target=0.625 goal=0.233
+[046] FINAL Geraldo Correia: no alvo sem gol (roll=0.667)
+[047] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[047] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.369 roll=0.361
+[047] JOGADA Real Bragança Athletic | Vili Resendes x Robson Mendes line=5 duel=24.05 corte=-2.05
+[047] FINAL Real Bragança Athletic | Garibaldo Coutinho fam=1 duel=27.61 on_target=0.625 goal=0.231
+[047] FINAL Garibaldo Coutinho: no alvo sem gol (roll=0.519)
+[048] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[048] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.355 roll=0.280
+[048] JOGADA Esporte Clube Renascença | Caio Dias x Sisnando Abreu line=4 duel=-26.58 corte=-1.30
+[048] JOGADA falhou: Sisnando Abreu cortou
+[049] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[049] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.355 roll=0.136
+[049] JOGADA Esporte Clube Renascença | Robson Mendes x Garibaldo Coutinho line=4 duel=-29.73 corte=-1.30
+[049] JOGADA falhou: Garibaldo Coutinho cortou
+[050] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[050] SUB Esporte Clube Renascença: saiu Leonardo Araújo (CA) | entrou Renato Martins (PE) | subs=1/5
+[050] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.369 roll=0.063
+[050] JOGADA Real Bragança Athletic | Sisnando Abreu x Robson Mendes line=4 duel=32.71 corte=-1.30
+[050] FINAL Real Bragança Athletic | Aderico Vidal fam=1 duel=19.54 on_target=0.624 goal=0.228
+[050] FINAL Aderico Vidal: no alvo sem gol (roll=0.981)
+[051] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[051] SUB Esporte Clube Renascença: saiu Ricardo Lopes (SA) | entrou Eduardo Nascimento (SA) | subs=2/5
+[051] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.348 roll=0.291
+[051] JOGADA Esporte Clube Renascença | Vinicius Batista x Florêncio Amaral line=4 duel=49.63 corte=-1.30
+[051] FINAL Esporte Clube Renascença | Caio Dias fam=5 duel=-6.55 on_target=0.564 goal=0.153
+[051] FINAL Caio Dias: fora/alvo perdido (roll=0.807)
+[052] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[052] SUB Esporte Clube Renascença: saiu Vinicius Batista (MC) | entrou Fábio Moreira (VOL) | subs=3/5
+[052] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.350 roll=0.944
+[053] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[053] SUB Esporte Clube Renascença: saiu Robson Mendes (ZAG) | entrou Yago Cardoso (ZAG) | subs=4/5
+[053] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.369 roll=0.547
+[054] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[054] SUB Esporte Clube Renascença: saiu Carlos Gomes (LD) | entrou Fernando Moura (LD) | subs=5/5
+[054] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.371 roll=0.215
+[054] JOGADA Real Bragança Athletic | Omar Medeiros x Vitor Ribeiro line=5 duel=93.62 corte=-1.55
+[054] FINAL Real Bragança Athletic | Vili Resendes fam=3 duel=16.30 on_target=0.567 goal=0.176
+[054] FINAL Vili Resendes: no alvo sem gol (roll=0.886)
+[055] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[055] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.350 roll=0.079
+[055] JOGADA Esporte Clube Renascença | Eduardo Nascimento x Florêncio Amaral line=4 duel=16.91 corte=-1.30
+[055] FINAL Esporte Clube Renascença | Eduardo Nascimento fam=5 duel=-15.49 on_target=0.563 goal=0.149
+[055] FINAL Eduardo Nascimento: fora/alvo perdido (roll=0.855)
+[056] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[056] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.399 roll=0.916
+[057] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[057] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.376 roll=0.836
+[058] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[058] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.376 roll=0.207
+[058] JOGADA Esporte Clube Renascença | Renato Martins x Frederico Frederiques line=5 duel=51.91 corte=-2.05
+[058] FINAL Esporte Clube Renascença | Caio Dias fam=5 duel=-7.22 on_target=0.593 goal=0.157
+[058] FINAL Caio Dias: fora/alvo perdido (roll=0.706)
+[059] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[059] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.376 roll=0.888
+[060] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[060] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.379 roll=0.985
+[060] FINAL Esporte Clube Renascença | Fábio Moreira fam=5 duel=-11.56 on_target=0.593 goal=0.156
+[060] FINAL Fábio Moreira: fora/alvo perdido (roll=0.982)
+[061] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[061] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.379 roll=0.550
+[062] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[062] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.399 roll=0.010
+[062] JOGADA Real Bragança Athletic | Sisnando Abreu x Jeba Primo line=4 duel=96.84 corte=-1.30
+[062] FINAL Real Bragança Athletic | Garibaldo Coutinho fam=1 duel=16.66 on_target=0.657 goal=0.234
+[062] FINAL Garibaldo Coutinho: fora/alvo perdido (roll=0.899)
+[063] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[063] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.379 roll=0.345
+[063] JOGADA Esporte Clube Renascença | Daniel Medeiros x Omar Medeiros line=4 duel=-8.46 corte=-1.30
+[063] JOGADA falhou: Omar Medeiros cortou
+[064] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[064] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.379 roll=0.901
+[065] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[065] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.399 roll=0.727
+[066] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[066] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.379 roll=0.857
+[067] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[067] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.399 roll=0.109
+[067] JOGADA Real Bragança Athletic | Frederico Frederiques x Vitor Ribeiro line=4 duel=4.15 corte=-1.30
+[067] FINAL Real Bragança Athletic | Vili Resendes fam=1 duel=26.00 on_target=0.659 goal=0.238
+[067] FINAL Vili Resendes: no alvo sem gol (roll=0.924)
+[068] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[068] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.399 roll=0.887
+[069] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[069] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.399 roll=0.622
+[070] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[070] SUB Real Bragança Athletic: saiu Florêncio Amaral (AE) | entrou Evandro Furtado (AE) | subs=2/5
+[070] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.380 roll=0.692
+[071] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[071] SUB Real Bragança Athletic: saiu Frederico Frederiques (ZAG) | entrou Adónias Topete (ZAG) | subs=3/5
+[071] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.383 roll=0.016
+[071] JOGADA Esporte Clube Renascença | Yago Cardoso x Aderico Vidal line=4 duel=-10.61 corte=-1.30
+[071] JOGADA falhou: Aderico Vidal cortou
+[072] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[072] SUB Real Bragança Athletic: saiu Garibaldo Coutinho (SA) | entrou Jarbas Correia (SA) | subs=4/5
+[072] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.392 roll=0.397
+[073] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[073] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.392 roll=0.223
+[073] JOGADA Real Bragança Athletic | Geraldo Correia x Vitor Ribeiro line=5 duel=31.59 corte=-1.55
+[073] FINAL Real Bragança Athletic | Vili Resendes fam=1 duel=23.89 on_target=0.658 goal=0.237
+[073] FINAL Vili Resendes: no alvo sem gol (roll=0.479)
+[074] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[074] SUB Real Bragança Athletic: saiu Natão Queiros (ZAG) | entrou Gumesindo Custódio (VOL) | subs=5/5
+[074] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.393 roll=0.019
+[074] JOGADA Real Bragança Athletic | Aderico Vidal x Caio Dias line=4 duel=38.98 corte=-1.30
+[074] FINAL Real Bragança Athletic | Aderico Vidal fam=1 duel=18.44 on_target=0.657 goal=0.234
+[074] FINAL Aderico Vidal: fora/alvo perdido (roll=0.911)
+[075] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 0 Esporte Clube Renascença
+[075] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.383 roll=0.247
+[075] JOGADA Esporte Clube Renascença | Caio Dias x Vili Resendes line=4 duel=51.63 corte=-1.30
+[075] FINAL Esporte Clube Renascença | Marcelo Nunes fam=5 duel=-9.99 on_target=0.594 goal=0.157
+[075] FINAL Marcelo Nunes: GOL subtipo=FALTA (roll=0.090)
+[076] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[076] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.409 roll=0.831
+[077] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[077] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.409 roll=0.440
+[078] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[078] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.409 roll=0.669
+[079] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[079] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.386 roll=0.553
+[080] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[080] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.386 roll=0.944
+[081] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[081] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.409 roll=0.441
+[082] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[082] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.386 roll=0.297
+[082] JOGADA Real Bragança Athletic | Jarbas Correia x Jeba Primo line=4 duel=27.12 corte=-1.30
+[082] FINAL Real Bragança Athletic | Vili Resendes fam=1 duel=16.44 on_target=0.657 goal=0.239
+[082] FINAL Vili Resendes: no alvo sem gol (roll=0.389)
+[083] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[083] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.409 roll=0.659
+[084] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[084] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.386 roll=0.746
+[085] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[085] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.431 roll=0.919
+[086] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[086] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.431 roll=0.342
+[086] JOGADA Esporte Clube Renascença | Daniel Medeiros x Evandro Furtado line=4 duel=-15.85 corte=-1.30
+[086] JOGADA falhou: Evandro Furtado cortou
+[087] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[087] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.386 roll=0.651
+[088] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[088] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.431 roll=0.228
+[088] JOGADA Esporte Clube Renascença | Caio Dias x Sisnando Abreu line=5 duel=54.68 corte=-2.05
+[088] FINAL Esporte Clube Renascença | Caio Dias fam=5 duel=-50.60 on_target=0.671 goal=0.142
+[088] FINAL Caio Dias: fora/alvo perdido (roll=0.986)
+[089] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[089] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.431 roll=0.136
+[089] JOGADA Esporte Clube Renascença | Fábio Moreira x Omar Medeiros line=4 duel=17.27 corte=-1.30
+[089] FINAL Esporte Clube Renascença | Eduardo Nascimento fam=5 duel=-20.38 on_target=0.674 goal=0.157
+[089] FINAL Eduardo Nascimento: no alvo sem gol (roll=0.766)
+[090] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[090] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.386 roll=0.762
+[091] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[091] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.431 roll=0.672
+[092] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[092] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.386 roll=0.111
+[092] JOGADA Real Bragança Athletic | Jarbas Correia x Yago Cardoso line=5 duel=1.74 corte=-2.05
+[092] FINAL Real Bragança Athletic | Vili Resendes fam=1 duel=9.90 on_target=0.657 goal=0.236
+[092] FINAL Vili Resendes: no alvo sem gol (roll=0.243)
+[093] posse=Esporte Clube Renascença | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[093] BUILD Esporte Clube Renascença vs Real Bragança Athletic prob=0.431 roll=0.976
+[094] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[094] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.386 roll=0.002
+[094] JOGADA Real Bragança Athletic | Jarbas Correia x Jeba Primo line=5 duel=19.08 corte=-2.05
+[094] FINAL Real Bragança Athletic | Jarbas Correia fam=1 duel=12.41 on_target=0.655 goal=0.236
+[094] FINAL Jarbas Correia: fora/alvo perdido (roll=0.692)
+[095] posse=Real Bragança Athletic | placar Real Bragança Athletic 2 x 1 Esporte Clube Renascença
+[095] BUILD Real Bragança Athletic vs Esporte Clube Renascença prob=0.386 roll=0.441

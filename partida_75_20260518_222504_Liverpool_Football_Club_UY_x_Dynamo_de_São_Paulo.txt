@@ -1,0 +1,317 @@
+Partida #75
+Data: 1912-01-04
+Mandante: Liverpool Football Club UY
+Visitante: Dynamo de São Paulo
+Placar: 1 x 2
+Seed: -
+Estádio: Belvedere
+Clima: Ensolarado
+Placar tempo normal: 1 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: Dynamo de São Paulo
+
+=== LOG VERBOSE ===
+Início: Liverpool Football Club UY x Dynamo de São Paulo | estádio=Belvedere | clima=Ensolarado | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[001] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.393 roll=0.794
+[002] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[002] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.393 roll=0.559
+[003] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[003] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.393 roll=0.728
+[003] FINAL Dynamo de São Paulo | Dmitry Miusov fam=5 duel=-7.15 on_target=0.574 goal=0.140
+[003] FINAL Dmitry Miusov: fora/alvo perdido (roll=0.767)
+[004] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[004] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.393 roll=0.972
+[005] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[005] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.373 roll=0.295
+[005] JOGADA Liverpool Football Club UY | Diego Marron x Dmitry Miusov line=3 duel=33.43 corte=-1.70
+[005] FINAL Liverpool Football Club UY | Jan Crespi fam=5 duel=-9.24 on_target=0.587 goal=0.159
+[005] FINAL Jan Crespi: fora/alvo perdido (roll=0.746)
+[006] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[006] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.373 roll=0.684
+[007] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[007] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.393 roll=0.527
+[008] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[008] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.373 roll=0.837
+[008] FINAL Liverpool Football Club UY | Izan Morón fam=5 duel=-15.14 on_target=0.586 goal=0.156
+[008] FINAL Izan Morón: no alvo sem gol (roll=0.530)
+[009] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[009] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.393 roll=0.170
+[009] JOGADA Dynamo de São Paulo | Renato Papa-léguas x Nil Aznar line=3 duel=17.32 corte=-1.09
+[009] FINAL Dynamo de São Paulo | Renato Papa-léguas fam=1 duel=6.98 on_target=0.674 goal=0.249
+[009] FINAL Renato Papa-léguas: no alvo sem gol (roll=0.820)
+[010] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[010] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.373 roll=0.818
+[011] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[011] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.404 roll=0.106
+[011] JOGADA Liverpool Football Club UY | Izan Morón x Ariel Biancchi line=5 duel=30.08 corte=-1.95
+[011] FINAL Liverpool Football Club UY | Remondo Fontecchio fam=5 duel=-95.93 on_target=0.627 goal=0.125
+[011] FINAL Remondo Fontecchio: no alvo sem gol (roll=0.291)
+[012] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[012] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.425 roll=0.537
+[013] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[013] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.425 roll=0.007
+[013] JOGADA Dynamo de São Paulo | Carlo Garcia Neto x Jan Crespi line=3 duel=47.82 corte=-1.09
+[013] FINAL Dynamo de São Paulo | Renato Papa-léguas fam=1 duel=6.46 on_target=0.728 goal=0.265
+[013] FINAL Renato Papa-léguas: fora/alvo perdido (roll=0.869)
+[014] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[014] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.404 roll=0.788
+[015] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[015] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.404 roll=0.692
+[016] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[016] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.404 roll=0.708
+[017] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[017] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.425 roll=0.720
+[018] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[018] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.425 roll=0.121
+[018] JOGADA Dynamo de São Paulo | Jordi Montenegro x Dario Carreras line=3 duel=-7.95 corte=-1.09
+[019] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[019] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.425 roll=0.592
+[020] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[020] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.425 roll=0.432
+[021] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[021] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.434 roll=0.104
+[021] JOGADA Liverpool Football Club UY | Izan Morón x Fadrique Losteau line=3 duel=31.13 corte=-1.70
+[021] FINAL Liverpool Football Club UY | Ricardo Cruz fam=5 duel=-77.91 on_target=0.663 goal=0.139
+[021] FINAL Ricardo Cruz: no alvo sem gol (roll=0.194)
+[022] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[022] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.434 roll=0.689
+[023] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[023] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.434 roll=0.670
+[024] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[024] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.457 roll=0.050
+[024] JOGADA Dynamo de São Paulo | Patrizio del Nero x Diego Marron line=4 duel=-50.26 corte=-1.09
+[024] JOGADA falhou: Diego Marron cortou
+[025] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[025] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.434 roll=0.259
+[025] JOGADA Liverpool Football Club UY | Marco Eizaguirre x Carlo Garcia Neto line=5 duel=-5.10 corte=-1.95
+[025] JOGADA falhou: Carlo Garcia Neto cortou
+[026] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[026] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.457 roll=0.050
+[026] JOGADA Dynamo de São Paulo | Patrizio del Nero x Nil Aznar line=4 duel=-4.75 corte=-1.09
+[026] JOGADA falhou: Nil Aznar cortou
+[027] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[027] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.457 roll=0.566
+[028] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[028] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.434 roll=0.085
+[028] JOGADA Liverpool Football Club UY | Ricardo Cruz x Patrizio del Nero line=5 duel=0.07 corte=-2.45
+[028] FINAL Liverpool Football Club UY | Remondo Fontecchio fam=5 duel=-6.53 on_target=0.666 goal=0.175
+[028] FINAL Remondo Fontecchio: fora/alvo perdido (roll=0.972)
+[029] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[029] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.434 roll=0.314
+[029] JOGADA Liverpool Football Club UY | Tomas Albaladejo x Jordi Montenegro line=4 duel=-27.68 corte=-1.70
+[029] JOGADA falhou: Jordi Montenegro cortou
+[030] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[030] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.457 roll=0.655
+[031] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[031] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.434 roll=0.437
+[032] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[032] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.457 roll=0.133
+[032] JOGADA Dynamo de São Paulo | Jordi Montenegro x Tomas Albaladejo line=3 duel=2.00 corte=-1.09
+[032] FINAL Dynamo de São Paulo | Renato Papa-léguas fam=1 duel=9.76 on_target=0.767 goal=0.275
+[032] FINAL Renato Papa-léguas: no alvo sem gol (roll=0.286)
+[033] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[033] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.437 roll=0.622
+[034] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[034] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.437 roll=0.692
+[035] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[035] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.457 roll=0.534
+[036] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[036] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.457 roll=0.289
+[036] JOGADA Dynamo de São Paulo | Patrizio del Nero x Nil Aznar line=2 duel=81.00 corte=-1.09
+[036] FINAL Dynamo de São Paulo | Arkadius Zimmerman fam=3 duel=-1.41 on_target=0.696 goal=0.207
+[036] FINAL Arkadius Zimmerman: no alvo sem gol (roll=0.296)
+[037] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[037] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.457 roll=0.460
+[038] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[038] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.437 roll=0.194
+[038] JOGADA Liverpool Football Club UY | Dario Carreras x Carlo Garcia Neto line=5 duel=35.03 corte=-1.95
+[038] FINAL Liverpool Football Club UY | Ivan Negro fam=5 duel=-16.16 on_target=0.665 goal=0.171
+[038] FINAL Ivan Negro: fora/alvo perdido (roll=0.685)
+[039] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[039] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.437 roll=0.450
+[040] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[040] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.437 roll=0.136
+[040] JOGADA Liverpool Football Club UY | Remondo Fontecchio x Carlo Garcia Neto line=4 duel=5.28 corte=-1.70
+[040] FINAL Liverpool Football Club UY | Ricardo Cruz fam=5 duel=4.45 on_target=0.669 goal=0.182
+[040] FINAL Ricardo Cruz: no alvo sem gol (roll=0.466)
+[041] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[041] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.437 roll=0.477
+[042] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[042] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.437 roll=0.855
+[043] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[043] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.457 roll=0.335
+[043] JOGADA Dynamo de São Paulo | Arkadius Zimmerman x Jan Crespi line=2 duel=27.71 corte=-1.09
+[043] FINAL Dynamo de São Paulo | Arkadius Zimmerman fam=1 duel=-6.38 on_target=0.767 goal=0.268
+[043] FINAL Arkadius Zimmerman: fora/alvo perdido (roll=0.939)
+[044] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[044] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.437 roll=0.368
+[044] JOGADA Liverpool Football Club UY | Remondo Fontecchio x Narsélio Byrd line=4 duel=3.85 corte=-1.70
+[044] FINAL Liverpool Football Club UY | Ricardo Cruz fam=5 duel=2.54 on_target=0.668 goal=0.181
+[044] FINAL Ricardo Cruz: fora/alvo perdido (roll=0.788)
+[045] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[045] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.437 roll=0.790
+[046] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[046] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.406 roll=0.402
+[046] JOGADA Liverpool Football Club UY | Ricardo Cruz x Fadrique Losteau line=4 duel=-11.99 corte=-1.70
+[046] JOGADA falhou: Fadrique Losteau cortou
+[047] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[047] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.406 roll=0.255
+[047] JOGADA Liverpool Football Club UY | Diego Marron x Pegaso Cardona line=3 duel=11.70 corte=-1.70
+[047] FINAL Liverpool Football Club UY | Remondo Fontecchio fam=5 duel=-3.58 on_target=0.633 goal=0.172
+[047] FINAL Remondo Fontecchio: no alvo sem gol (roll=0.350)
+[048] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[048] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.425 roll=0.622
+[049] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[049] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.425 roll=0.672
+[050] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[050] SUB Liverpool Football Club UY: saiu Jan Crespi (CA) | entrou Emilio Tato (PD) | subs=1/5
+[050] SUB Dynamo de São Paulo: saiu Arkadius Zimmerman (CA) | entrou Zarkhán Volmir (PE) | subs=1/5
+[050] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.421 roll=0.050
+[050] JOGADA Dynamo de São Paulo | Pegaso Cardona x Marco Eizaguirre line=4 duel=-9.46 corte=-1.09
+[050] JOGADA falhou: Marco Eizaguirre cortou
+[051] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[051] SUB Liverpool Football Club UY: saiu Tomas Albaladejo (LE) | entrou Gael Herrada (AD) | subs=2/5
+[051] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.414 roll=0.086
+[051] JOGADA Liverpool Football Club UY | Gael Herrada x Zarkhán Volmir line=4 duel=34.21 corte=-1.70
+[051] FINAL Liverpool Football Club UY | Ricardo Cruz fam=5 duel=-61.92 on_target=0.632 goal=0.145
+[051] FINAL Ricardo Cruz: no alvo sem gol (roll=0.418)
+[052] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[052] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.414 roll=0.057
+[052] JOGADA Liverpool Football Club UY | Gael Herrada x Patrizio del Nero line=4 duel=-11.00 corte=-1.70
+[053] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[053] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.414 roll=0.648
+[054] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[054] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.414 roll=0.767
+[055] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[055] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.414 roll=0.884
+[056] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[056] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.445 roll=0.685
+[057] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[057] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.445 roll=0.522
+[058] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[058] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.445 roll=0.534
+[059] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[059] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.417 roll=0.163
+[059] JOGADA Dynamo de São Paulo | Jordi Montenegro x Marco Eizaguirre line=3 duel=5.09 corte=-1.08
+[059] FINAL Dynamo de São Paulo | Renato Papa-léguas fam=1 duel=12.56 on_target=0.767 goal=0.277
+[059] FINAL Renato Papa-léguas: no alvo sem gol (roll=0.918)
+[060] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 0 x 0 Dynamo de São Paulo
+[060] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.449 roll=0.372
+[060] JOGADA Liverpool Football Club UY | Remondo Fontecchio x Patrizio del Nero line=4 duel=10.80 corte=-1.70
+[060] FINAL Liverpool Football Club UY | Ricardo Cruz fam=5 duel=2.24 on_target=0.670 goal=0.184
+[060] FINAL Ricardo Cruz: GOL subtipo=FALTA (roll=0.039)
+[061] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[061] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.508 roll=0.780
+[062] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[062] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.489 roll=0.949
+[063] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[063] SUB Liverpool Football Club UY: saiu Dario Carreras (LD) | entrou Jose Manuel Guzmán (LD) | subs=3/5
+[063] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.489 roll=0.417
+[063] JOGADA Liverpool Football Club UY | Emilio Tato x Dmitry Miusov line=5 duel=69.35 corte=-2.45
+[063] FINAL Liverpool Football Club UY | Remondo Fontecchio fam=5 duel=1.02 on_target=0.669 goal=0.183
+[063] FINAL Remondo Fontecchio: no alvo sem gol (roll=0.924)
+[064] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[064] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.489 roll=0.957
+[065] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[065] SUB Liverpool Football Club UY: saiu Ricardo Cruz (SA) | entrou Rodrigo Campillo (SA) | subs=4/5
+[065] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.475 roll=0.806
+[066] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[066] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.475 roll=0.884
+[067] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[067] SUB Liverpool Football Club UY: saiu Marco Eizaguirre (MC) | entrou Gael Leon (MA) | subs=5/5
+[067] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.474 roll=0.834
+[068] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[068] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.478 roll=0.479
+[069] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[069] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.509 roll=0.394
+[069] JOGADA Dynamo de São Paulo | Jordi Montenegro x Diego Marron line=4 duel=-45.35 corte=-1.06
+[069] JOGADA falhou: Diego Marron cortou
+[070] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[070] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.495 roll=0.543
+[071] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[071] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.509 roll=0.901
+[072] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[072] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.495 roll=0.892
+[073] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[073] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.495 roll=0.627
+[074] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[074] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.495 roll=0.153
+[074] JOGADA Liverpool Football Club UY | Emilio Tato x Narsélio Byrd line=5 duel=1.46 corte=-2.45
+[074] FINAL Liverpool Football Club UY | Remondo Fontecchio fam=5 duel=5.98 on_target=0.658 goal=0.184
+[074] FINAL Remondo Fontecchio: no alvo sem gol (roll=0.507)
+[075] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[075] SUB Dynamo de São Paulo: saiu Jordi Montenegro (ZAG) | entrou Tagalamatu (ZAG) | subs=2/5
+[075] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.495 roll=0.932
+[076] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[076] SUB Dynamo de São Paulo: saiu Renato Papa-léguas (SA) | entrou Vasily Butusov (SA) | subs=3/5
+[076] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.549 roll=0.300
+[076] JOGADA Dynamo de São Paulo | Vasily Butusov x Rodrigo Campillo line=2 duel=60.05 corte=-1.02
+[076] FINAL Dynamo de São Paulo | Pegaso Cardona fam=1 duel=12.43 on_target=0.820 goal=0.290
+[076] FINAL Pegaso Cardona: no alvo sem gol (roll=0.467)
+[077] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[077] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.549 roll=0.736
+[078] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[078] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.480 roll=0.575
+[079] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[079] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.549 roll=0.569
+[080] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[080] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.549 roll=0.139
+[080] JOGADA Dynamo de São Paulo | Fadrique Losteau x Diego Marron line=3 duel=-8.59 corte=-1.02
+[080] JOGADA falhou: Diego Marron cortou
+[081] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[081] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.549 roll=0.727
+[082] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[082] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.549 roll=0.322
+[082] JOGADA Dynamo de São Paulo | Ariel Biancchi x Gael Herrada line=2 duel=-5.95 corte=-1.02
+[082] JOGADA falhou: Gael Herrada cortou
+[083] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[083] SUB Dynamo de São Paulo: saiu Narsélio Byrd (ZAG) | entrou Nikolay Korotkov (ZAG) | subs=4/5
+[083] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.491 roll=0.979
+[084] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 1 x 0 Dynamo de São Paulo
+[084] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.549 roll=0.312
+[084] JOGADA Dynamo de São Paulo | Carlo Garcia Neto x Gael Leon line=3 duel=7.24 corte=-1.01
+[084] FINAL Dynamo de São Paulo | Zarkhán Volmir fam=1 duel=18.16 on_target=0.820 goal=0.302
+[084] FINAL Zarkhán Volmir: GOL subtipo=CHUTE (roll=0.232)
+[085] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 1 x 1 Dynamo de São Paulo
+[085] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.498 roll=0.187
+[085] JOGADA Dynamo de São Paulo | Dmitry Miusov x Ivan Negro line=3 duel=22.62 corte=-1.03
+[085] FINAL Dynamo de São Paulo | Carlo Garcia Neto fam=3 duel=-13.80 on_target=0.811 goal=0.203
+[085] FINAL Carlo Garcia Neto: fora/alvo perdido (roll=0.873)
+[086] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 1 Dynamo de São Paulo
+[086] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.536 roll=0.273
+[086] JOGADA Liverpool Football Club UY | Nil Aznar x Tagalamatu line=5 duel=-14.39 corte=-1.95
+[086] JOGADA falhou: Tagalamatu cortou
+[087] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 1 Dynamo de São Paulo
+[087] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.536 roll=0.378
+[087] JOGADA Liverpool Football Club UY | Gael Herrada x Fadrique Losteau line=4 duel=-8.83 corte=-1.70
+[087] JOGADA falhou: Fadrique Losteau cortou
+[088] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 1 Dynamo de São Paulo
+[088] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.536 roll=0.601
+[089] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 1 Dynamo de São Paulo
+[089] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.536 roll=0.527
+[089] JOGADA Liverpool Football Club UY | Remondo Fontecchio x Ariel Biancchi line=5 duel=33.47 corte=-1.95
+[089] FINAL Liverpool Football Club UY | Gael Leon fam=5 duel=5.50 on_target=0.782 goal=0.188
+[089] FINAL Gael Leon: fora/alvo perdido (roll=0.801)
+[090] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 1 Dynamo de São Paulo
+[090] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.536 roll=0.393
+[090] JOGADA Liverpool Football Club UY | Remondo Fontecchio x Carlo Garcia Neto line=4 duel=6.76 corte=-1.70
+[090] FINAL Liverpool Football Club UY | Izan Morón fam=5 duel=-3.25 on_target=0.782 goal=0.184
+[090] FINAL Izan Morón: no alvo sem gol (roll=0.195)
+[091] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 1 Dynamo de São Paulo
+[091] SUB Dynamo de São Paulo: saiu Fadrique Losteau (LE) | entrou Salvador Azevedo (LD) | subs=5/5
+[091] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.536 roll=0.692
+[092] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 1 x 1 Dynamo de São Paulo
+[092] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.497 roll=0.533
+[093] posse=Dynamo de São Paulo | placar Liverpool Football Club UY 1 x 1 Dynamo de São Paulo
+[093] BUILD Dynamo de São Paulo vs Liverpool Football Club UY prob=0.497 roll=0.201
+[093] JOGADA Dynamo de São Paulo | Carlo Garcia Neto x Gael Leon line=3 duel=6.93 corte=-1.03
+[093] FINAL Dynamo de São Paulo | Zarkhán Volmir fam=1 duel=10.20 on_target=0.894 goal=0.278
+[093] FINAL Zarkhán Volmir: GOL subtipo=CHUTE (roll=0.229)
+[094] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 2 Dynamo de São Paulo
+[094] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.580 roll=0.482
+[094] JOGADA Liverpool Football Club UY | Emilio Tato x Pegaso Cardona line=4 duel=-12.13 corte=-1.70
+[094] JOGADA falhou: Pegaso Cardona cortou
+[095] posse=Liverpool Football Club UY | placar Liverpool Football Club UY 1 x 2 Dynamo de São Paulo
+[095] BUILD Liverpool Football Club UY vs Dynamo de São Paulo prob=0.580 roll=0.732

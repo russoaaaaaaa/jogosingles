@@ -1,0 +1,335 @@
+Partida #54
+Data: 1912-01-04
+Mandante: Collegio Hebraico Brasileiro
+Visitante: Sociedade Esportiva Friburguense
+Placar: 3 x 3
+Seed: -
+Estádio: Patio do Collegio
+Clima: Nublado
+Placar tempo normal: 3 x 3
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Collegio Hebraico Brasileiro x Sociedade Esportiva Friburguense | estádio=Patio do Collegio | clima=Nublado | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[001] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.349 roll=0.968
+[002] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[002] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.378 roll=0.352
+[002] JOGADA Sociedade Esportiva Friburguense | Fritz Schuttler x João Marcos Miguel line=4 duel=69.06 corte=-1.30
+[002] FINAL Sociedade Esportiva Friburguense | Matias Brauner fam=5 duel=-78.25 on_target=0.579 goal=0.121
+[002] FINAL Matias Brauner: no alvo sem gol (roll=0.144)
+[003] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[003] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.378 roll=0.437
+[004] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[004] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.378 roll=0.784
+[005] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[005] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.349 roll=0.236
+[005] JOGADA Collegio Hebraico Brasileiro | Shahar Shushan x Jacó Saldanha line=2 duel=9.33 corte=-1.12
+[005] JOGADA Collegio Hebraico Brasileiro | Fernando Haddad x Matias Brauner line=3 duel=30.20 corte=-1.12
+[005] JOGADA Collegio Hebraico Brasileiro | Elijah Zilberberg x Delfino Queiroz line=4 duel=1.94 corte=-1.12
+[005] FINAL Collegio Hebraico Brasileiro | Shahar Shushan fam=1 duel=-12.04 on_target=0.673 goal=0.240
+[005] FINAL Shahar Shushan: no alvo sem gol (roll=0.983)
+[006] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[006] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.349 roll=0.857
+[007] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[007] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.378 roll=0.829
+[008] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[008] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.349 roll=0.308
+[008] JOGADA Collegio Hebraico Brasileiro | Shahar Shushan x Jacó Saldanha line=4 duel=-34.65 corte=-1.12
+[008] JOGADA falhou: Jacó Saldanha cortou
+[009] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[009] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.349 roll=0.926
+[010] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[010] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.349 roll=0.573
+[011] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[011] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.409 roll=0.067
+[011] JOGADA Sociedade Esportiva Friburguense | Meik Mahler x Fernando Haddad line=5 duel=-8.97 corte=-2.05
+[011] JOGADA falhou: Fernando Haddad cortou
+[012] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[012] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.378 roll=0.149
+[012] JOGADA Collegio Hebraico Brasileiro | Elijah Zilberberg x Pablo Gusmão line=4 duel=-38.89 corte=-1.12
+[012] JOGADA falhou: Pablo Gusmão cortou
+[013] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[013] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.409 roll=0.789
+[014] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 0 x 0 Sociedade Esportiva Friburguense
+[014] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.378 roll=0.066
+[014] JOGADA Collegio Hebraico Brasileiro | Fernando Haddad x Matias Brauner line=4 duel=10.44 corte=-1.12
+[014] JOGADA Collegio Hebraico Brasileiro | Nikita Martynenko x Pablo Gusmão line=4 duel=4.84 corte=-1.12
+[014] JOGADA Collegio Hebraico Brasileiro | João Marcos Miguel x Meik Mahler line=5 duel=83.19 corte=-1.37
+[014] FINAL Collegio Hebraico Brasileiro | Benjamin Netanyahu fam=1 duel=1.65 on_target=0.729 goal=0.263
+[014] FINAL Benjamin Netanyahu: GOL subtipo=CHUTE (roll=0.099)
+[015] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 1 x 0 Sociedade Esportiva Friburguense
+[015] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.378 roll=0.430
+[016] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 1 x 0 Sociedade Esportiva Friburguense
+[016] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.378 roll=0.864
+[017] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 1 x 0 Sociedade Esportiva Friburguense
+[017] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.378 roll=0.481
+[018] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 1 x 0 Sociedade Esportiva Friburguense
+[018] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.378 roll=0.631
+[019] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 1 x 0 Sociedade Esportiva Friburguense
+[019] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.378 roll=0.391
+[019] FINAL Collegio Hebraico Brasileiro | Shahar Shushan fam=5 duel=-73.89 on_target=0.617 goal=0.117
+[019] FINAL Shahar Shushan: no alvo sem gol (roll=0.941)
+[020] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 1 x 0 Sociedade Esportiva Friburguense
+[020] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.378 roll=0.301
+[020] JOGADA Collegio Hebraico Brasileiro | Elijah Zilberberg x Gersão Cortes line=3 duel=51.97 corte=-1.30
+[020] JOGADA Collegio Hebraico Brasileiro | Nikita Martynenko x Pablo Gusmão line=4 duel=2.89 corte=-1.30
+[020] JOGADA Collegio Hebraico Brasileiro | Elijah Zilberberg x Jacó Saldanha line=5 duel=63.20 corte=-1.55
+[020] FINAL Collegio Hebraico Brasileiro | Benjamin Netanyahu fam=1 duel=-0.14 on_target=0.728 goal=0.262
+[020] FINAL Benjamin Netanyahu: GOL subtipo=CHUTE (roll=0.088)
+[021] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 2 x 0 Sociedade Esportiva Friburguense
+[021] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.539 roll=0.837
+[022] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 0 Sociedade Esportiva Friburguense
+[022] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.399 roll=0.150
+[022] JOGADA Collegio Hebraico Brasileiro | Elijah Zilberberg x Celso Teixeira line=3 duel=54.49 corte=-1.30
+[022] JOGADA Collegio Hebraico Brasileiro | Abraham Guttman x Orlandino Álvares line=4 duel=-4.04 corte=-1.30
+[022] JOGADA falhou: Orlandino Álvares cortou
+[023] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 2 x 0 Sociedade Esportiva Friburguense
+[023] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.539 roll=0.756
+[024] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 2 x 0 Sociedade Esportiva Friburguense
+[024] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.539 roll=0.684
+[024] FINAL Sociedade Esportiva Friburguense | Celso Teixeira fam=5 duel=7.56 on_target=0.667 goal=0.181
+[024] FINAL Celso Teixeira: GOL subtipo=FALTA (roll=0.140)
+[025] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[025] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.406 roll=0.108
+[025] JOGADA Collegio Hebraico Brasileiro | Pedrinho do Morro de Israel x Celso Teixeira line=3 duel=3.49 corte=-1.30
+[025] FINAL Collegio Hebraico Brasileiro | Nikita Martynenko fam=1 duel=3.78 on_target=0.765 goal=0.272
+[025] FINAL Nikita Martynenko: no alvo sem gol (roll=0.720)
+[026] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[026] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.406 roll=0.030
+[026] JOGADA Collegio Hebraico Brasileiro | Benjamin Netanyahu x Gersão Cortes line=2 duel=-7.91 corte=-1.30
+[027] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[027] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.406 roll=0.451
+[028] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[028] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.535 roll=0.148
+[028] JOGADA Sociedade Esportiva Friburguense | Pablo Gusmão x João Marcos Miguel line=4 duel=-5.10 corte=-1.30
+[028] JOGADA falhou: João Marcos Miguel cortou
+[029] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[029] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.535 roll=0.990
+[030] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[030] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.406 roll=0.199
+[030] JOGADA Collegio Hebraico Brasileiro | Fernando Haddad x Matias Brauner line=3 duel=35.05 corte=-1.30
+[030] JOGADA Collegio Hebraico Brasileiro | Nikita Martynenko x Gersão Cortes line=4 duel=-17.90 corte=-1.30
+[030] JOGADA falhou: Gersão Cortes cortou
+[031] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[031] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.406 roll=0.490
+[032] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[032] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.535 roll=0.879
+[033] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[033] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.406 roll=0.705
+[034] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[034] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.406 roll=0.867
+[035] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[035] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.535 roll=0.895
+[036] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[036] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.406 roll=0.267
+[036] JOGADA Collegio Hebraico Brasileiro | Shahar Shushan x Pablo Gusmão line=4 duel=-22.38 corte=-1.30
+[036] JOGADA falhou: Pablo Gusmão cortou
+[037] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[037] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.535 roll=0.053
+[037] JOGADA Sociedade Esportiva Friburguense | Fritz Schuttler x Benjamin Netanyahu line=5 duel=101.96 corte=-2.05
+[037] FINAL Sociedade Esportiva Friburguense | Celso Teixeira fam=5 duel=10.59 on_target=0.667 goal=0.182
+[037] FINAL Celso Teixeira: no alvo sem gol (roll=0.653)
+[038] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[038] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.406 roll=0.805
+[039] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[039] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.406 roll=0.006
+[039] JOGADA Collegio Hebraico Brasileiro | Pedrinho do Morro de Israel x Delfino Queiroz line=2 duel=38.06 corte=-1.30
+[039] JOGADA Collegio Hebraico Brasileiro | João Marcos Miguel x Fritz Schuttler line=5 duel=-1.74 corte=-1.55
+[039] JOGADA falhou: Fritz Schuttler cortou
+[040] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[040] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.406 roll=0.300
+[040] JOGADA Collegio Hebraico Brasileiro | Abraham Guttman x Matias Brauner line=4 duel=49.24 corte=-1.30
+[040] JOGADA Collegio Hebraico Brasileiro | João Marcos Miguel x Gersão Cortes line=4 duel=-21.91 corte=-1.30
+[041] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[041] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.406 roll=0.539
+[042] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[042] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.406 roll=0.587
+[043] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[043] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.535 roll=0.470
+[043] JOGADA Sociedade Esportiva Friburguense | Gersão Cortes x Pedrinho do Morro de Israel line=3 duel=22.98 corte=-1.30
+[043] FINAL Sociedade Esportiva Friburguense | Meik Mahler fam=5 duel=-7.20 on_target=0.665 goal=0.173
+[043] FINAL Meik Mahler: no alvo sem gol (roll=0.847)
+[044] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[044] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.535 roll=0.826
+[045] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[045] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.535 roll=0.103
+[045] JOGADA Sociedade Esportiva Friburguense | Matias Brauner x Abraham Guttman line=4 duel=-22.12 corte=-1.30
+[045] JOGADA falhou: Abraham Guttman cortou
+[046] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[046] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.378 roll=0.188
+[046] JOGADA Collegio Hebraico Brasileiro | Levi Rubenstein x Orlandino Álvares line=2 duel=-23.52 corte=-1.30
+[046] JOGADA falhou: Orlandino Álvares cortou
+[047] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 2 x 1 Sociedade Esportiva Friburguense
+[047] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.378 roll=0.230
+[047] JOGADA Collegio Hebraico Brasileiro | Shahar Shushan x Delfino Queiroz line=3 duel=14.01 corte=-1.30
+[047] FINAL Collegio Hebraico Brasileiro | Pedrinho do Morro de Israel fam=1 duel=-11.51 on_target=0.727 goal=0.256
+[047] FINAL Pedrinho do Morro de Israel: GOL subtipo=CHUTE (roll=0.255)
+[048] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[048] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.371 roll=0.113
+[048] JOGADA Collegio Hebraico Brasileiro | Pedrinho do Morro de Israel x Matias Brauner line=3 duel=31.11 corte=-1.30
+[048] JOGADA Collegio Hebraico Brasileiro | Benjamin Netanyahu x Dárcio Nascimento line=4 duel=-8.07 corte=-1.30
+[048] FINAL Collegio Hebraico Brasileiro | Benjamin Netanyahu fam=5 duel=-3.41 on_target=0.603 goal=0.144
+[048] FINAL Benjamin Netanyahu: no alvo sem gol (roll=0.727)
+[049] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[049] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.371 roll=0.076
+[049] JOGADA Collegio Hebraico Brasileiro | João Marcos Miguel x Meik Mahler line=3 duel=19.95 corte=-1.30
+[049] JOGADA Collegio Hebraico Brasileiro | Elijah Zilberberg x Dárcio Nascimento line=4 duel=-5.76 corte=-1.30
+[050] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[050] SUB Collegio Hebraico Brasileiro: saiu Daniel Potok (SA) | entrou Lotan Giladi (PD) | subs=1/5
+[050] SUB Sociedade Esportiva Friburguense: saiu Matias Brauner (SA) | entrou Paulo Gomes (CA) | subs=1/5
+[050] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.489 roll=0.608
+[051] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[051] SUB Collegio Hebraico Brasileiro: saiu Benjamin Netanyahu (CA) | entrou Dorian Berman (PD) | subs=2/5
+[051] SUB Sociedade Esportiva Friburguense: saiu Meik Mahler (CA) | entrou Elias Toman (CA) | subs=2/5
+[051] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.476 roll=0.349
+[051] JOGADA Sociedade Esportiva Friburguense | Orlandino Álvares x Fernando Haddad line=3 duel=-11.09 corte=-1.30
+[051] JOGADA falhou: Fernando Haddad cortou
+[052] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[052] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.361 roll=0.720
+[053] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[053] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.361 roll=0.777
+[054] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[054] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.476 roll=0.407
+[054] JOGADA Sociedade Esportiva Friburguense | Pablo Gusmão x Nikita Martynenko line=3 duel=-8.16 corte=-1.30
+[054] JOGADA falhou: Nikita Martynenko cortou
+[055] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[055] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.476 roll=0.721
+[056] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[056] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.512 roll=0.694
+[057] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[057] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.512 roll=0.999
+[058] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[058] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.512 roll=0.944
+[059] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[059] SUB Collegio Hebraico Brasileiro: saiu Elijah Zilberberg (MC) | entrou Abel Berg (MA) | subs=3/5
+[059] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.513 roll=0.655
+[060] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[060] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.384 roll=0.550
+[061] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[061] SUB Collegio Hebraico Brasileiro: saiu Pedrinho do Morro de Israel (MC) | entrou Rafi Gitlin (VOL) | subs=4/5
+[061] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.384 roll=0.369
+[061] JOGADA Collegio Hebraico Brasileiro | Abel Berg x Pablo Gusmão line=4 duel=17.41 corte=-1.30
+[061] JOGADA Collegio Hebraico Brasileiro | João Marcos Miguel x Orlandino Álvares line=5 duel=11.91 corte=-1.55
+[061] FINAL Collegio Hebraico Brasileiro | Abel Berg fam=1 duel=18.05 on_target=0.742 goal=0.264
+[061] FINAL Abel Berg: fora/alvo perdido (roll=0.835)
+[062] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[062] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.384 roll=0.771
+[063] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[063] SUB Collegio Hebraico Brasileiro: saiu Nikita Martynenko (MA) | entrou Elad Klein (MA) | subs=5/5
+[063] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.525 roll=0.156
+[063] JOGADA Sociedade Esportiva Friburguense | Fritz Schuttler x Abel Berg line=5 duel=50.74 corte=-2.05
+[063] FINAL Sociedade Esportiva Friburguense | Fritz Schuttler fam=5 duel=9.83 on_target=0.668 goal=0.184
+[063] FINAL Fritz Schuttler: fora/alvo perdido (roll=0.785)
+[064] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[064] SUB Sociedade Esportiva Friburguense: saiu Dárcio Nascimento (ZAG) | entrou Bastian Frank (ZAG) | subs=3/5
+[064] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.523 roll=0.916
+[065] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[065] SUB Sociedade Esportiva Friburguense: saiu Pablo Gusmão (ZAG) | entrou Karl Storl (ZAG) | subs=4/5
+[065] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.397 roll=0.253
+[065] JOGADA Collegio Hebraico Brasileiro | Lotan Giladi x Bastian Frank line=2 duel=2.18 corte=-1.30
+[065] JOGADA Collegio Hebraico Brasileiro | Lotan Giladi x Gersão Cortes line=3 duel=8.60 corte=-1.30
+[065] JOGADA Collegio Hebraico Brasileiro | Fernando Haddad x Paulo Gomes line=5 duel=62.70 corte=-1.55
+[065] FINAL Collegio Hebraico Brasileiro | Abel Berg fam=1 duel=17.82 on_target=0.742 goal=0.264
+[065] FINAL Abel Berg: no alvo sem gol (roll=0.580)
+[066] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[066] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.521 roll=0.689
+[067] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[067] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.521 roll=0.340
+[067] JOGADA Sociedade Esportiva Friburguense | Celso Teixeira x Levi Rubenstein line=3 duel=16.14 corte=-1.30
+[067] FINAL Sociedade Esportiva Friburguense | Elias Toman fam=5 duel=17.39 on_target=0.668 goal=0.188
+[067] FINAL Elias Toman: no alvo sem gol (roll=0.412)
+[068] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[068] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.397 roll=0.327
+[068] JOGADA Collegio Hebraico Brasileiro | Dorian Berman x Jacó Saldanha line=3 duel=71.31 corte=-1.30
+[068] JOGADA Collegio Hebraico Brasileiro | Dorian Berman x Elias Toman line=4 duel=0.76 corte=-1.30
+[068] FINAL Collegio Hebraico Brasileiro | Shahar Shushan fam=3 duel=-16.74 on_target=0.672 goal=0.189
+[068] FINAL Shahar Shushan: fora/alvo perdido (roll=0.950)
+[069] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[069] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.521 roll=0.659
+[070] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[070] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.521 roll=0.924
+[071] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[071] SUB Sociedade Esportiva Friburguense: saiu Delfino Queiroz (MC) | entrou Levi Umlauf (MC) | subs=5/5
+[071] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.404 roll=0.242
+[071] JOGADA Collegio Hebraico Brasileiro | Lotan Giladi x Celso Teixeira line=3 duel=9.02 corte=-1.30
+[071] JOGADA Collegio Hebraico Brasileiro | Shahar Shushan x Karl Storl line=5 duel=45.67 corte=-1.55
+[071] FINAL Collegio Hebraico Brasileiro | Dorian Berman fam=1 duel=21.11 on_target=0.743 goal=0.266
+[071] FINAL Dorian Berman: no alvo sem gol (roll=0.907)
+[072] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[072] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.514 roll=0.627
+[073] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[073] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.514 roll=0.633
+[074] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[074] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.404 roll=0.926
+[075] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[075] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.404 roll=0.601
+[076] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[076] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.555 roll=0.902
+[077] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[077] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.555 roll=0.525
+[077] JOGADA Sociedade Esportiva Friburguense | Paulo Gomes x Dorian Berman line=4 duel=36.30 corte=-1.30
+[077] FINAL Sociedade Esportiva Friburguense | Levi Umlauf fam=5 duel=21.50 on_target=0.716 goal=0.200
+[077] FINAL Levi Umlauf: no alvo sem gol (roll=0.452)
+[078] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[078] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.555 roll=0.422
+[078] JOGADA Sociedade Esportiva Friburguense | Celso Teixeira x Rafi Gitlin line=5 duel=51.42 corte=-1.55
+[078] FINAL Sociedade Esportiva Friburguense | Paulo Gomes fam=5 duel=-2.42 on_target=0.714 goal=0.187
+[078] FINAL Paulo Gomes: fora/alvo perdido (roll=0.798)
+[079] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 1 Sociedade Esportiva Friburguense
+[079] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.555 roll=0.124
+[079] JOGADA Sociedade Esportiva Friburguense | Fritz Schuttler x Fernando Haddad line=5 duel=46.82 corte=-2.05
+[079] FINAL Sociedade Esportiva Friburguense | Elias Toman fam=5 duel=13.64 on_target=0.715 goal=0.196
+[079] FINAL Elias Toman: GOL subtipo=FALTA (roll=0.103)
+[080] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 2 Sociedade Esportiva Friburguense
+[080] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.550 roll=0.011
+[080] JOGADA Sociedade Esportiva Friburguense | Bastian Frank x Shahar Shushan line=3 duel=54.36 corte=-1.30
+[080] FINAL Sociedade Esportiva Friburguense | Fritz Schuttler fam=5 duel=5.62 on_target=0.715 goal=0.191
+[080] FINAL Fritz Schuttler: no alvo sem gol (roll=0.527)
+[081] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 2 Sociedade Esportiva Friburguense
+[081] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.395 roll=0.838
+[082] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 2 Sociedade Esportiva Friburguense
+[082] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.550 roll=0.628
+[082] FINAL Sociedade Esportiva Friburguense | Gersão Cortes fam=5 duel=16.15 on_target=0.716 goal=0.203
+[082] FINAL Gersão Cortes: no alvo sem gol (roll=0.594)
+[083] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 2 Sociedade Esportiva Friburguense
+[083] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.395 roll=0.221
+[083] JOGADA Collegio Hebraico Brasileiro | Lotan Giladi x Elias Toman line=2 duel=3.35 corte=-1.30
+[083] JOGADA Collegio Hebraico Brasileiro | Abel Berg x Paulo Gomes line=3 duel=36.94 corte=-1.30
+[083] JOGADA Collegio Hebraico Brasileiro | João Marcos Miguel x Celso Teixeira line=5 duel=21.11 corte=-1.55
+[083] FINAL Collegio Hebraico Brasileiro | Lotan Giladi fam=1 duel=14.25 on_target=0.739 goal=0.276
+[083] FINAL Lotan Giladi: fora/alvo perdido (roll=0.852)
+[084] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 2 Sociedade Esportiva Friburguense
+[084] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.550 roll=0.748
+[085] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 2 Sociedade Esportiva Friburguense
+[085] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.580 roll=0.330
+[085] JOGADA Sociedade Esportiva Friburguense | Celso Teixeira x Shahar Shushan line=4 duel=16.72 corte=-1.30
+[085] FINAL Sociedade Esportiva Friburguense | Fritz Schuttler fam=5 duel=2.20 on_target=0.817 goal=0.195
+[085] FINAL Fritz Schuttler: GOL subtipo=FALTA (roll=0.129)
+[086] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 3 Sociedade Esportiva Friburguense
+[086] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.490 roll=0.655
+[087] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 3 Sociedade Esportiva Friburguense
+[087] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.490 roll=0.663
+[088] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 3 Sociedade Esportiva Friburguense
+[088] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.490 roll=0.920
+[089] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 3 Sociedade Esportiva Friburguense
+[089] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.490 roll=0.662
+[090] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 3 Sociedade Esportiva Friburguense
+[090] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.503 roll=0.797
+[091] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 3 Sociedade Esportiva Friburguense
+[091] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.503 roll=0.820
+[092] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 3 Sociedade Esportiva Friburguense
+[092] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.490 roll=0.578
+[093] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 3 Sociedade Esportiva Friburguense
+[093] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.503 roll=0.825
+[094] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 3 Sociedade Esportiva Friburguense
+[094] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.503 roll=0.268
+[094] JOGADA Sociedade Esportiva Friburguense | Jacó Saldanha x Rafi Gitlin line=4 duel=15.48 corte=-1.30
+[094] FINAL Sociedade Esportiva Friburguense | Levi Umlauf fam=5 duel=10.01 on_target=0.778 goal=0.184
+[094] FINAL Levi Umlauf: no alvo sem gol (roll=0.209)
+[095] posse=Collegio Hebraico Brasileiro | placar Collegio Hebraico Brasileiro 3 x 3 Sociedade Esportiva Friburguense
+[095] BUILD Collegio Hebraico Brasileiro vs Sociedade Esportiva Friburguense prob=0.490 roll=0.911
+[096] posse=Sociedade Esportiva Friburguense | placar Collegio Hebraico Brasileiro 3 x 3 Sociedade Esportiva Friburguense
+[096] BUILD Sociedade Esportiva Friburguense vs Collegio Hebraico Brasileiro prob=0.503 roll=0.659

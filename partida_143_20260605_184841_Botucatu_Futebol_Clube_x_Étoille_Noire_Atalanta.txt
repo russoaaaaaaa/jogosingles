@@ -1,0 +1,328 @@
+Partida #143
+Data: 1912-01-10
+Mandante: Botucatu Futebol Clube
+Visitante: Étoille Noire Atalanta
+Placar: 0 x 1
+Seed: -
+Estádio: Antônio Delmanto
+Clima: Chuva leve
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Botucatu Futebol Clube x Étoille Noire Atalanta | estádio=Antônio Delmanto | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[001] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.374 roll=0.913
+[002] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[002] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.308 roll=0.552
+[003] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[003] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.308 roll=0.750
+[004] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[004] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.374 roll=0.186
+[004] JOGADA Étoille Noire Atalanta | Louis Mesnier x Pedro Capibaribe Saraiva line=2 duel=106.33 corte=-1.11
+[004] JOGADA Étoille Noire Atalanta | Gabriel Hanot x Hernani Donatto line=5 duel=59.21 corte=-1.36
+[004] JOGADA Étoille Noire Atalanta | Neco Nunes x Chavante Mantoan line=5 duel=141.65 corte=-1.36
+[004] FINAL Étoille Noire Atalanta | Eugène Maës fam=1 duel=32.93 on_target=0.611 goal=0.244
+[004] FINAL Eugène Maës: fora/alvo perdido (roll=0.827)
+[005] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[005] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.308 roll=0.268
+[005] JOGADA Botucatu Futebol Clube | Gildásio Rodrigues x Neco Nunes line=3 duel=33.67 corte=-1.70
+[005] FINAL Botucatu Futebol Clube | Chavante Mantoan fam=5 duel=-26.31 on_target=0.512 goal=0.127
+[005] FINAL Chavante Mantoan: fora/alvo perdido (roll=0.999)
+[006] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[006] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.308 roll=0.924
+[007] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[007] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.308 roll=0.266
+[007] JOGADA Botucatu Futebol Clube | Pedro Capibaribe Saraiva x Evaristo Trindade line=3 duel=-19.35 corte=-1.70
+[007] JOGADA falhou: Evaristo Trindade cortou
+[008] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[008] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.374 roll=0.584
+[009] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[009] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.374 roll=0.796
+[010] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[010] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.374 roll=0.097
+[010] JOGADA Étoille Noire Atalanta | Alvaro Kindelán x Russel Mattos line=4 duel=-33.82 corte=-1.11
+[010] JOGADA falhou: Russel Mattos cortou
+[011] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[011] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.333 roll=0.145
+[011] JOGADA Botucatu Futebol Clube | Gildásio Rodrigues x Antony Garrastazu line=3 duel=-12.51 corte=-1.70
+[011] JOGADA falhou: Antony Garrastazu cortou
+[012] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[012] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.333 roll=0.725
+[013] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[013] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.405 roll=0.326
+[013] JOGADA Étoille Noire Atalanta | Louis Mesnier x Gildásio Rodrigues line=4 duel=20.77 corte=-1.11
+[013] JOGADA Étoille Noire Atalanta | Gabriel Hanot x Rapaz Milani line=5 duel=92.31 corte=-1.36
+[013] FINAL Étoille Noire Atalanta | Angelito Agüero fam=1 duel=18.57 on_target=0.659 goal=0.254
+[013] FINAL Angelito Agüero: no alvo sem gol (roll=0.591)
+[014] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[014] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.333 roll=0.513
+[015] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[015] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.333 roll=0.050
+[015] JOGADA Botucatu Futebol Clube | Amonati Palhares x Louis Mesnier line=2 duel=-16.80 corte=-1.70
+[015] JOGADA falhou: Louis Mesnier cortou
+[016] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[016] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.333 roll=0.976
+[017] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[017] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.333 roll=0.819
+[018] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[018] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.405 roll=0.627
+[019] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[019] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.405 roll=0.655
+[020] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[020] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.333 roll=0.205
+[020] JOGADA Botucatu Futebol Clube | Amonati Palhares x Jean Ducret line=3 duel=-5.96 corte=-1.70
+[020] JOGADA falhou: Jean Ducret cortou
+[021] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[021] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.435 roll=0.548
+[022] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[022] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.358 roll=0.972
+[023] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[023] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.435 roll=0.619
+[024] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[024] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.358 roll=0.164
+[024] JOGADA Botucatu Futebol Clube | Gildásio Rodrigues x Antony Garrastazu line=4 duel=-17.77 corte=-1.70
+[024] JOGADA falhou: Antony Garrastazu cortou
+[025] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[025] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.358 roll=0.484
+[026] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[026] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.358 roll=0.421
+[027] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[027] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.435 roll=0.341
+[027] JOGADA Étoille Noire Atalanta | Gabriel Hanot x Hernani Donatto line=3 duel=-3.95 corte=-1.11
+[028] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[028] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.358 roll=0.099
+[028] JOGADA Botucatu Futebol Clube | Gildásio Rodrigues x Gandulla line=4 duel=-7.65 corte=-1.70
+[028] JOGADA falhou: Gandulla cortou
+[029] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[029] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.358 roll=0.963
+[030] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[030] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.358 roll=0.642
+[031] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[031] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.435 roll=0.520
+[032] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[032] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.361 roll=0.503
+[033] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[033] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.361 roll=0.661
+[034] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[034] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.361 roll=0.487
+[035] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[035] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.361 roll=0.915
+[036] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[036] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.435 roll=0.590
+[037] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[037] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.435 roll=0.616
+[038] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[038] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.435 roll=0.119
+[038] JOGADA Étoille Noire Atalanta | Gabriel Hanot x Rapaz Milani line=4 duel=18.74 corte=-1.11
+[038] JOGADA Étoille Noire Atalanta | Angelito Agüero x Rapaz Milani line=4 duel=4.64 corte=-1.11
+[038] JOGADA Étoille Noire Atalanta | Louis Mesnier x Mago Bachega line=5 duel=97.11 corte=-1.36
+[038] FINAL Étoille Noire Atalanta | Gandulla fam=1 duel=18.50 on_target=0.692 goal=0.261
+[038] FINAL Gandulla: no alvo sem gol (roll=0.734)
+[039] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[039] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.361 roll=0.399
+[040] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[040] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.361 roll=0.130
+[040] JOGADA Botucatu Futebol Clube | Russel Mattos x Gabriel Hanot line=3 duel=-24.55 corte=-1.70
+[040] JOGADA falhou: Gabriel Hanot cortou
+[041] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[041] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.361 roll=0.998
+[042] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[042] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.361 roll=0.383
+[043] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[043] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.361 roll=0.696
+[044] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[044] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.435 roll=0.822
+[045] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[045] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.361 roll=0.553
+[046] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[046] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.336 roll=0.200
+[046] JOGADA Botucatu Futebol Clube | Itaquaquecetuba Siqueira x Jean Ducret line=3 duel=16.52 corte=-1.70
+[046] FINAL Botucatu Futebol Clube | Chavante Mantoan fam=5 duel=-74.46 on_target=0.551 goal=0.115
+[046] FINAL Chavante Mantoan: no alvo sem gol (roll=0.774)
+[047] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[047] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.336 roll=0.310
+[047] JOGADA Botucatu Futebol Clube | Itaquaquecetuba Siqueira x Eugène Maës line=3 duel=30.77 corte=-1.70
+[047] FINAL Botucatu Futebol Clube | Chavante Mantoan fam=5 duel=-73.78 on_target=0.551 goal=0.115
+[047] FINAL Chavante Mantoan: no alvo sem gol (roll=0.146)
+[048] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[048] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.336 roll=0.269
+[048] JOGADA Botucatu Futebol Clube | Gildásio Rodrigues x Gabriel Hanot line=3 duel=-24.78 corte=-1.70
+[049] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[049] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.336 roll=0.040
+[049] JOGADA Botucatu Futebol Clube | Durvalino Lodi x Angelito Agüero line=3 duel=32.19 corte=-1.70
+[049] FINAL Botucatu Futebol Clube | Gildásio Rodrigues fam=5 duel=-23.29 on_target=0.555 goal=0.138
+[049] FINAL Gildásio Rodrigues: fora/alvo perdido (roll=0.870)
+[050] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[050] SUB Étoille Noire Atalanta: saiu Angelito Agüero (CA) | entrou Guido Gambinha (CA) | subs=1/5
+[050] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.402 roll=0.342
+[050] JOGADA Étoille Noire Atalanta | Guido Gambinha x Mago Bachega line=4 duel=29.23 corte=-1.11
+[050] JOGADA Étoille Noire Atalanta | Guido Gambinha x Rapaz Milani line=5 duel=44.39 corte=-1.86
+[050] JOGADA Étoille Noire Atalanta | Eugène Maës x Hernani Donatto line=5 duel=0.62 corte=-1.86
+[050] FINAL Étoille Noire Atalanta | Gandulla fam=1 duel=20.73 on_target=0.658 goal=0.254
+[050] FINAL Gandulla: fora/alvo perdido (roll=0.801)
+[051] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[051] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.335 roll=0.636
+[052] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[052] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.402 roll=0.143
+[052] JOGADA Étoille Noire Atalanta | Antony Garrastazu x Rapaz Milani line=3 duel=15.20 corte=-1.11
+[052] JOGADA Étoille Noire Atalanta | Gabriel Hanot x Rapaz Milani line=4 duel=22.78 corte=-1.11
+[052] FINAL Étoille Noire Atalanta | Guido Gambinha fam=1 duel=37.12 on_target=0.651 goal=0.258
+[052] FINAL Guido Gambinha: no alvo sem gol (roll=0.748)
+[053] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[053] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.335 roll=0.885
+[054] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[054] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.335 roll=0.190
+[054] JOGADA Botucatu Futebol Clube | Itaquaquecetuba Siqueira x Guido Gambinha line=4 duel=-5.28 corte=-1.70
+[054] JOGADA falhou: Guido Gambinha cortou
+[055] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[055] SUB Botucatu Futebol Clube: saiu Mago Bachega (ZAG) | entrou Iyra Martinelli (ZAG) | subs=1/5
+[055] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.336 roll=0.903
+[056] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[056] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.432 roll=0.450
+[057] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[057] SUB Botucatu Futebol Clube: saiu Gildásio Rodrigues (MC) | entrou Jabim Gallardo (MD) | subs=2/5
+[057] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.360 roll=0.095
+[057] JOGADA Botucatu Futebol Clube | Chavante Mantoan x Gandulla line=4 duel=3.99 corte=-1.70
+[057] JOGADA Botucatu Futebol Clube | Iyra Martinelli x Alvaro Kindelán line=5 duel=30.70 corte=-1.95
+[057] FINAL Botucatu Futebol Clube | Amonati Palhares fam=5 duel=2.99 on_target=0.585 goal=0.153
+[057] FINAL Amonati Palhares: no alvo sem gol (roll=0.159)
+[058] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[058] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.360 roll=0.475
+[059] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[059] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.360 roll=0.847
+[060] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[060] SUB Botucatu Futebol Clube: saiu Rapaz Milani (LD) | entrou Renato Falcao (LD) | subs=3/5
+[060] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.363 roll=0.554
+[061] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[061] SUB Botucatu Futebol Clube: saiu Amonati Palhares (CA) | entrou Ramos Lourenço (PD) | subs=4/5
+[061] SUB Étoille Noire Atalanta: saiu Neco Nunes (MC) | entrou Italo Gambarotta (MC) | subs=2/5
+[061] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.404 roll=0.820
+[062] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[062] SUB Étoille Noire Atalanta: saiu Gabriel Hanot (ZAG) | entrou Hugão (ZAG) | subs=3/5
+[062] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.366 roll=0.321
+[062] JOGADA Botucatu Futebol Clube | Jabim Gallardo x Gandulla line=2 duel=25.35 corte=-1.70
+[062] FINAL Botucatu Futebol Clube | Jabim Gallardo fam=5 duel=-40.33 on_target=0.588 goal=0.136
+[062] FINAL Jabim Gallardo: fora/alvo perdido (roll=0.732)
+[063] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[063] SUB Étoille Noire Atalanta: saiu Louis Mesnier (MD) | entrou Marius Royet (MD) | subs=4/5
+[063] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.376 roll=0.222
+[063] JOGADA Botucatu Futebol Clube | Russel Mattos x Italo Gambarotta line=3 duel=-28.90 corte=-1.70
+[063] JOGADA falhou: Italo Gambarotta cortou
+[064] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[064] SUB Botucatu Futebol Clube: saiu Itaquaquecetuba Siqueira (ZAG) | entrou Alípio Serra (ZAG) | subs=5/5
+[064] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.369 roll=0.590
+[065] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[065] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.369 roll=0.388
+[066] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[066] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.369 roll=0.198
+[066] JOGADA Botucatu Futebol Clube | Alípio Serra x Alvaro Kindelán line=3 duel=-0.92 corte=-1.70
+[066] FINAL Botucatu Futebol Clube | Ramos Lourenço fam=5 duel=20.17 on_target=0.592 goal=0.164
+[066] FINAL Ramos Lourenço: fora/alvo perdido (roll=0.654)
+[067] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[067] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.408 roll=0.572
+[068] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[068] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.372 roll=0.348
+[068] JOGADA Botucatu Futebol Clube | Renato Falcao x Guido Gambinha line=2 duel=87.64 corte=-1.70
+[068] FINAL Botucatu Futebol Clube | Hernani Donatto fam=5 duel=-22.26 on_target=0.594 goal=0.147
+[068] FINAL Hernani Donatto: no alvo sem gol (roll=0.830)
+[069] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[069] SUB Étoille Noire Atalanta: saiu Gandulla (ME) | entrou Bendito Bem-te-vi (ME) | subs=5/5
+[069] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.373 roll=0.709
+[070] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[070] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.404 roll=0.476
+[071] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[071] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.404 roll=0.148
+[071] JOGADA Étoille Noire Atalanta | Alvaro Kindelán x Chavante Mantoan line=2 duel=54.67 corte=-1.10
+[071] JOGADA Étoille Noire Atalanta | Bendito Bem-te-vi x Renato Falcao line=4 duel=-14.99 corte=-1.10
+[072] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[072] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.404 roll=0.322
+[072] JOGADA Étoille Noire Atalanta | Guido Gambinha x Ramos Lourenço line=3 duel=18.73 corte=-1.06
+[072] FINAL Étoille Noire Atalanta | Eugène Maës fam=1 duel=27.60 on_target=0.694 goal=0.266
+[072] FINAL Eugène Maës: no alvo sem gol (roll=0.807)
+[073] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[073] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.373 roll=0.093
+[073] JOGADA Botucatu Futebol Clube | Iyra Martinelli x Marius Royet line=3 duel=-21.87 corte=-1.70
+[073] JOGADA falhou: Marius Royet cortou
+[074] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[074] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.404 roll=0.445
+[074] FINAL Étoille Noire Atalanta | Bendito Bem-te-vi fam=5 duel=-35.75 on_target=0.579 goal=0.128
+[074] FINAL Bendito Bem-te-vi: no alvo sem gol (roll=0.626)
+[075] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[075] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.373 roll=0.317
+[075] JOGADA Botucatu Futebol Clube | Durvalino Lodi x Eugène Maës line=3 duel=18.13 corte=-1.70
+[075] FINAL Botucatu Futebol Clube | Jabim Gallardo fam=5 duel=6.91 on_target=0.591 goal=0.158
+[075] FINAL Jabim Gallardo: fora/alvo perdido (roll=0.948)
+[076] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[076] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.385 roll=0.160
+[076] JOGADA Botucatu Futebol Clube | Ramos Lourenço x Hugão line=3 duel=-20.92 corte=-1.70
+[077] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[077] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.385 roll=0.817
+[078] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[078] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.416 roll=0.389
+[078] JOGADA Étoille Noire Atalanta | Italo Gambarotta x Renato Falcao line=3 duel=5.97 corte=-1.06
+[078] FINAL Étoille Noire Atalanta | Marius Royet fam=1 duel=37.09 on_target=0.697 goal=0.267
+[078] FINAL Marius Royet: no alvo sem gol (roll=0.826)
+[079] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[079] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.416 roll=0.129
+[079] JOGADA Étoille Noire Atalanta | Hugão x Chavante Mantoan line=4 duel=36.51 corte=-1.06
+[079] JOGADA Étoille Noire Atalanta | Bendito Bem-te-vi x Russel Mattos line=4 duel=7.61 corte=-1.06
+[079] FINAL Étoille Noire Atalanta | Italo Gambarotta fam=3 duel=14.30 on_target=0.633 goal=0.199
+[079] FINAL Italo Gambarotta: no alvo sem gol (roll=0.732)
+[080] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[080] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.385 roll=0.538
+[081] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[081] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.385 roll=0.357
+[081] JOGADA Botucatu Futebol Clube | Hernani Donatto x Eugène Maës line=3 duel=50.26 corte=-1.70
+[081] FINAL Botucatu Futebol Clube | Russel Mattos fam=5 duel=-24.60 on_target=0.595 goal=0.144
+[081] FINAL Russel Mattos: no alvo sem gol (roll=0.239)
+[082] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[082] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.385 roll=0.937
+[083] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[083] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.416 roll=0.644
+[084] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[084] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.385 roll=0.821
+[085] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[085] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.405 roll=0.185
+[085] JOGADA Botucatu Futebol Clube | Hernani Donatto x Jean Ducret line=3 duel=28.54 corte=-1.70
+[085] FINAL Botucatu Futebol Clube | Ramos Lourenço fam=5 duel=10.56 on_target=0.642 goal=0.162
+[085] FINAL Ramos Lourenço: no alvo sem gol (roll=0.365)
+[086] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[086] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.405 roll=0.703
+[087] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[087] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.405 roll=0.079
+[087] JOGADA Botucatu Futebol Clube | Iyra Martinelli x Alvaro Kindelán line=3 duel=-15.50 corte=-1.70
+[087] JOGADA falhou: Alvaro Kindelán cortou
+[088] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[088] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.438 roll=0.717
+[089] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[089] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.438 roll=0.828
+[090] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[090] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.438 roll=0.607
+[091] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[091] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.438 roll=0.954
+[092] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 0 Étoille Noire Atalanta
+[092] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.438 roll=0.054
+[092] JOGADA Étoille Noire Atalanta | Marius Royet x Jabim Gallardo line=3 duel=25.20 corte=-1.06
+[092] JOGADA Étoille Noire Atalanta | Bendito Bem-te-vi x Durvalino Lodi line=5 duel=86.45 corte=-1.31
+[092] JOGADA Étoille Noire Atalanta | Marius Royet x Renato Falcao line=5 duel=80.67 corte=-1.31
+[092] FINAL Étoille Noire Atalanta | Guido Gambinha fam=1 duel=12.86 on_target=0.742 goal=0.257
+[092] FINAL Guido Gambinha: GOL subtipo=CHUTE (roll=0.012)
+[093] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 1 Étoille Noire Atalanta
+[093] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.415 roll=0.296
+[093] JOGADA Étoille Noire Atalanta | Jean Ducret x Russel Mattos line=3 duel=6.88 corte=-1.30
+[093] JOGADA Étoille Noire Atalanta | Eugène Maës x Hernani Donatto line=5 duel=49.25 corte=-2.05
+[093] JOGADA Étoille Noire Atalanta | Eugène Maës x Iyra Martinelli line=5 duel=59.47 corte=-2.05
+[093] FINAL Étoille Noire Atalanta | Guido Gambinha fam=1 duel=12.16 on_target=0.658 goal=0.243
+[093] FINAL Guido Gambinha: no alvo sem gol (roll=0.938)
+[094] posse=Étoille Noire Atalanta | placar Botucatu Futebol Clube 0 x 1 Étoille Noire Atalanta
+[094] BUILD Étoille Noire Atalanta vs Botucatu Futebol Clube prob=0.415 roll=0.149
+[094] JOGADA Étoille Noire Atalanta | Evaristo Trindade x Durvalino Lodi line=3 duel=-9.43 corte=-1.30
+[094] JOGADA falhou: Durvalino Lodi cortou
+[095] posse=Botucatu Futebol Clube | placar Botucatu Futebol Clube 0 x 1 Étoille Noire Atalanta
+[095] BUILD Botucatu Futebol Clube vs Étoille Noire Atalanta prob=0.513 roll=0.025
+[095] JOGADA Botucatu Futebol Clube | Iyra Martinelli x Italo Gambarotta line=3 duel=5.92 corte=-1.70
+[095] FINAL Botucatu Futebol Clube | Ramos Lourenço fam=5 duel=2.35 on_target=0.674 goal=0.164
+[095] FINAL Ramos Lourenço: no alvo sem gol (roll=0.193)

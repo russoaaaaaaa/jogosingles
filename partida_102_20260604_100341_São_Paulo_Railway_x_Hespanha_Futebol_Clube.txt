@@ -1,0 +1,312 @@
+Partida #102
+Data: 1912-01-08
+Mandante: São Paulo Railway
+Visitante: Hespanha Futebol Clube
+Placar: 1 x 1
+Seed: -
+Estádio: Estádio da Luz
+Clima: Frio forte
+Placar tempo normal: 1 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: São Paulo Railway x Hespanha Futebol Clube | estádio=Estádio da Luz | clima=Frio forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[001] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.379 roll=0.022
+[001] JOGADA São Paulo Railway | Edwin Horácio Cox x Quatinga Esposito line=3 duel=53.57 corte=-1.12
+[001] JOGADA São Paulo Railway | Rubens Salles x Idelso Moreira line=4 duel=-36.73 corte=-1.12
+[001] JOGADA falhou: Idelso Moreira cortou
+[002] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[002] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.379 roll=0.467
+[003] posse=Hespanha Futebol Clube | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[003] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.321 roll=0.612
+[004] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[004] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.379 roll=0.504
+[005] posse=Hespanha Futebol Clube | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[005] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.321 roll=0.439
+[006] posse=Hespanha Futebol Clube | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[006] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.321 roll=0.796
+[007] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[007] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.379 roll=0.739
+[008] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[008] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.379 roll=0.665
+[009] posse=Hespanha Futebol Clube | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[009] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.321 roll=0.658
+[010] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[010] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.379 roll=0.651
+[011] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[011] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.696
+[012] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[012] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.115
+[012] JOGADA São Paulo Railway | Arthur Friedenreich x Idelso Moreira line=2 duel=85.07 corte=-1.12
+[012] JOGADA São Paulo Railway | Antônio Don-don x Gelson Hoffmann line=4 duel=11.00 corte=-1.12
+[012] FINAL São Paulo Railway | Arthur Friedenreich fam=1 duel=9.61 on_target=0.649 goal=0.240
+[012] FINAL Arthur Friedenreich: no alvo sem gol (roll=0.616)
+[013] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[013] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.896
+[014] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[014] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.739
+[015] posse=Hespanha Futebol Clube | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[015] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.347 roll=0.032
+[015] JOGADA Hespanha Futebol Clube | Adonai Góis x Daniel Gallegos line=3 duel=-24.65 corte=-1.30
+[015] JOGADA falhou: Daniel Gallegos cortou
+[016] posse=Hespanha Futebol Clube | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[016] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.347 roll=0.551
+[017] posse=Hespanha Futebol Clube | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[017] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.347 roll=0.740
+[018] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[018] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.946
+[019] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[019] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.676
+[020] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[020] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.080
+[020] JOGADA São Paulo Railway | Rubens Salles x Adonai Góis line=2 duel=36.09 corte=-1.12
+[020] FINAL São Paulo Railway | Arthur Friedenreich fam=1 duel=7.23 on_target=0.649 goal=0.239
+[020] FINAL Arthur Friedenreich: fora/alvo perdido (roll=0.924)
+[021] posse=Hespanha Futebol Clube | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[021] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.373 roll=0.900
+[022] posse=Hespanha Futebol Clube | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[022] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.373 roll=0.910
+[023] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[023] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.945
+[024] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[024] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.195
+[024] JOGADA São Paulo Railway | Walter Kirkham x Castor Barros line=4 duel=-27.76 corte=-1.12
+[025] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[025] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.068
+[025] JOGADA São Paulo Railway | Dudinho x Idelso Moreira line=4 duel=-9.35 corte=-1.12
+[026] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[026] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.322
+[026] JOGADA São Paulo Railway | Antônio Don-don x Castor Barros line=2 duel=-6.51 corte=-1.12
+[027] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[027] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.787
+[028] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[028] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.001
+[028] JOGADA São Paulo Railway | Lótus Braga x Vitiza Milani line=4 duel=-23.28 corte=-1.12
+[028] JOGADA falhou: Vitiza Milani cortou
+[029] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[029] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.129
+[029] JOGADA São Paulo Railway | Lótus Braga x Milton Gavião line=4 duel=-4.78 corte=-1.12
+[029] JOGADA falhou: Milton Gavião cortou
+[030] posse=São Paulo Railway | placar São Paulo Railway 0 x 0 Hespanha Futebol Clube
+[030] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.247
+[030] JOGADA São Paulo Railway | Antônio Don-don x Quatinga Esposito line=3 duel=96.69 corte=-1.12
+[030] JOGADA São Paulo Railway | Antônio Don-don x Milton Gavião line=4 duel=39.16 corte=-1.12
+[030] JOGADA São Paulo Railway | Daniel Gallegos x Siddhártha Buss line=5 duel=83.35 corte=-1.37
+[030] FINAL São Paulo Railway | Edwin Horácio Cox fam=1 duel=-1.64 on_target=0.682 goal=0.241
+[030] FINAL Edwin Horácio Cox: GOL subtipo=CHUTE (roll=0.146)
+[031] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[031] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.504
+[032] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[032] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.458 roll=0.347
+[032] JOGADA Hespanha Futebol Clube | Castor Barros x Arthur Friedenreich line=2 duel=109.19 corte=-1.30
+[032] FINAL Hespanha Futebol Clube | Quimbaya Ávila fam=5 duel=-59.22 on_target=0.590 goal=0.131
+[032] FINAL Quimbaya Ávila: no alvo sem gol (roll=0.179)
+[033] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[033] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.458 roll=0.095
+[033] JOGADA Hespanha Futebol Clube | Vivaldo Loureiro x Fuycan line=4 duel=-85.75 corte=-1.30
+[033] JOGADA falhou: Fuycan cortou
+[034] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[034] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.788
+[035] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[035] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.458 roll=0.164
+[035] JOGADA Hespanha Futebol Clube | Siddhártha Buss x Walter Kirkham line=4 duel=-29.31 corte=-1.30
+[035] JOGADA falhou: Walter Kirkham cortou
+[036] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[036] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.458 roll=0.903
+[037] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[037] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.611
+[038] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[038] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.867
+[039] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[039] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.458 roll=0.150
+[039] JOGADA Hespanha Futebol Clube | Quatinga Esposito x Antônio Don-don line=3 duel=-18.77 corte=-1.30
+[040] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[040] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.458 roll=0.519
+[041] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[041] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.267
+[041] JOGADA São Paulo Railway | Fuycan x Gelson Hoffmann line=4 duel=-11.38 corte=-1.30
+[041] JOGADA falhou: Gelson Hoffmann cortou
+[042] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[042] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.458 roll=0.538
+[043] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[043] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.754
+[044] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[044] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.441 roll=0.357
+[044] JOGADA São Paulo Railway | Arthur Friedenreich x Quimbaya Ávila line=3 duel=16.54 corte=-1.30
+[044] JOGADA São Paulo Railway | Rubens Salles x Adonai Góis line=4 duel=-0.66 corte=-1.30
+[044] JOGADA São Paulo Railway | Rubens Salles x Vivaldo Loureiro line=4 duel=4.56 corte=-1.30
+[044] FINAL São Paulo Railway | Arthur Friedenreich fam=1 duel=0.19 on_target=0.683 goal=0.243
+[044] FINAL Arthur Friedenreich: no alvo sem gol (roll=0.698)
+[045] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[045] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.458 roll=0.864
+[046] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[046] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.426 roll=0.431
+[047] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[047] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.934
+[048] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[048] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.426 roll=0.835
+[049] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[049] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.613
+[049] FINAL São Paulo Railway | Daniel Gallegos fam=5 duel=-53.59 on_target=0.550 goal=0.114
+[049] FINAL Daniel Gallegos: no alvo sem gol (roll=0.124)
+[050] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[050] SUB São Paulo Railway: saiu Edwin Horácio Cox (SA) | entrou Adriano Guerra (MA) | subs=1/5
+[050] SUB Hespanha Futebol Clube: saiu Quatinga Esposito (MD) | entrou Abeuaru Brum (PD) | subs=1/5
+[050] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.407 roll=0.324
+[050] JOGADA São Paulo Railway | Adriano Guerra x Milton Gavião line=3 duel=64.32 corte=-1.30
+[050] JOGADA São Paulo Railway | Daniel Gallegos x Gelson Hoffmann line=5 duel=40.63 corte=-1.55
+[050] FINAL São Paulo Railway | Bob Kelly fam=1 duel=6.78 on_target=0.647 goal=0.238
+[050] FINAL Bob Kelly: fora/alvo perdido (roll=0.898)
+[051] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[051] SUB São Paulo Railway: saiu Arthur Friedenreich (CA) | entrou Andrew Young (CA) | subs=2/5
+[051] SUB Hespanha Futebol Clube: saiu Siddhártha Buss (MC) | entrou Jequitibá Torres (VOL) | subs=2/5
+[051] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.426 roll=0.816
+[052] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[052] SUB Hespanha Futebol Clube: saiu Adonai Góis (ME) | entrou Gilson Pellegrini (PE) | subs=3/5
+[052] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.430 roll=0.125
+[052] JOGADA Hespanha Futebol Clube | Gilson Pellegrini x Rubens Salles line=3 duel=9.13 corte=-1.30
+[052] FINAL Hespanha Futebol Clube | Gilson Pellegrini fam=5 duel=22.04 on_target=0.564 goal=0.163
+[052] FINAL Gilson Pellegrini: fora/alvo perdido (roll=0.957)
+[053] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[053] SUB Hespanha Futebol Clube: saiu Milton Gavião (SA) | entrou Mairubi Vila (SA) | subs=4/5
+[053] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.424 roll=0.982
+[054] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[054] SUB Hespanha Futebol Clube: saiu Idelso Moreira (ZAG) | entrou Marajó Gadelha (ZAG) | subs=5/5
+[054] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.406 roll=0.176
+[054] JOGADA São Paulo Railway | Antônio Don-don x Vivaldo Loureiro line=3 duel=41.87 corte=-1.30
+[054] JOGADA São Paulo Railway | Rubens Salles x Vitiza Milani line=4 duel=-21.86 corte=-1.30
+[054] JOGADA falhou: Vitiza Milani cortou
+[055] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[055] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.424 roll=0.711
+[056] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[056] SUB São Paulo Railway: saiu Bob Kelly (PE) | entrou Nicolas McCawley (PE) | subs=3/5
+[056] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.428 roll=0.028
+[056] JOGADA São Paulo Railway | Fuycan x Jequitibá Torres line=3 duel=-28.36 corte=-1.30
+[057] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[057] SUB São Paulo Railway: saiu Dudinho (PD) | entrou Fernando do Algarve (MD) | subs=4/5
+[057] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.456 roll=0.444
+[057] JOGADA Hespanha Futebol Clube | Vitiza Milani x Daniel Gallegos line=3 duel=9.37 corte=-1.30
+[057] FINAL Hespanha Futebol Clube | Gilson Pellegrini fam=5 duel=22.20 on_target=0.594 goal=0.168
+[057] FINAL Gilson Pellegrini: fora/alvo perdido (roll=0.667)
+[058] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[058] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.427 roll=0.947
+[059] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[059] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.427 roll=0.870
+[060] posse=São Paulo Railway | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[060] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.427 roll=0.007
+[060] JOGADA São Paulo Railway | Rubens Salles x Jequitibá Torres line=2 duel=-4.58 corte=-1.30
+[060] JOGADA falhou: Jequitibá Torres cortou
+[061] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[061] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.459 roll=0.003
+[061] JOGADA Hespanha Futebol Clube | Jequitibá Torres x Lótus Braga line=3 duel=-6.38 corte=-1.30
+[061] JOGADA falhou: Lótus Braga cortou
+[062] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 0 Hespanha Futebol Clube
+[062] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.459 roll=0.335
+[062] JOGADA Hespanha Futebol Clube | Gelson Hoffmann x Andrew Young line=2 duel=93.82 corte=-1.30
+[062] FINAL Hespanha Futebol Clube | Mairubi Vila fam=5 duel=-9.19 on_target=0.593 goal=0.155
+[062] FINAL Mairubi Vila: GOL subtipo=FALTA (roll=0.022)
+[063] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[063] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.377 roll=0.473
+[064] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[064] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.377 roll=0.817
+[065] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[065] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.399 roll=0.445
+[066] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[066] SUB São Paulo Railway: saiu Antônio Don-don (LD) | entrou Leroy Clark (LD) | subs=5/5
+[066] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.378 roll=0.351
+[066] JOGADA Hespanha Futebol Clube | Vivaldo Loureiro x Leroy Clark line=3 duel=-40.69 corte=-1.30
+[066] JOGADA falhou: Leroy Clark cortou
+[067] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[067] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.398 roll=0.656
+[068] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[068] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.381 roll=0.061
+[068] JOGADA Hespanha Futebol Clube | Vivaldo Loureiro x Rubens Salles line=4 duel=4.61 corte=-1.30
+[068] JOGADA Hespanha Futebol Clube | Gilson Pellegrini x Fuycan line=4 duel=-2.23 corte=-1.30
+[069] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[069] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.381 roll=0.578
+[070] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[070] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.381 roll=0.451
+[071] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[071] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.398 roll=0.861
+[072] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[072] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.381 roll=0.026
+[072] JOGADA Hespanha Futebol Clube | Abeuaru Brum x Adriano Guerra line=3 duel=52.22 corte=-1.30
+[072] FINAL Hespanha Futebol Clube | Abeuaru Brum fam=5 duel=-36.04 on_target=0.590 goal=0.141
+[072] FINAL Abeuaru Brum: fora/alvo perdido (roll=0.943)
+[073] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[073] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.381 roll=0.797
+[074] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[074] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.398 roll=0.605
+[075] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[075] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.398 roll=0.701
+[076] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[076] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.615
+[077] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[077] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.393 roll=0.333
+[077] JOGADA Hespanha Futebol Clube | Gelson Hoffmann x Rubens Salles line=4 duel=-2.71 corte=-1.30
+[078] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[078] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.086
+[078] JOGADA São Paulo Railway | Andrew Young x Jequitibá Torres line=3 duel=45.01 corte=-1.07
+[078] JOGADA São Paulo Railway | Rubens Salles x Quimbaya Ávila line=4 duel=-0.65 corte=-1.07
+[078] JOGADA São Paulo Railway | Andrew Young x Quimbaya Ávila line=4 duel=27.48 corte=-1.07
+[078] FINAL São Paulo Railway | Andrew Young fam=1 duel=13.27 on_target=0.697 goal=0.251
+[078] FINAL Andrew Young: fora/alvo perdido (roll=0.934)
+[079] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[079] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.595
+[080] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[080] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.192
+[080] JOGADA São Paulo Railway | Fernando do Algarve x Mairubi Vila line=3 duel=79.96 corte=-1.07
+[080] JOGADA São Paulo Railway | Adriano Guerra x Vitiza Milani line=4 duel=9.49 corte=-1.07
+[080] JOGADA São Paulo Railway | Nicolas McCawley x Vivaldo Loureiro line=4 duel=20.98 corte=-1.07
+[080] FINAL São Paulo Railway | Adriano Guerra fam=3 duel=18.31 on_target=0.632 goal=0.196
+[080] FINAL Adriano Guerra: fora/alvo perdido (roll=0.985)
+[081] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[081] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.393 roll=0.365
+[081] JOGADA Hespanha Futebol Clube | Gilson Pellegrini x Fernando do Algarve line=4 duel=-6.92 corte=-1.30
+[081] JOGADA falhou: Fernando do Algarve cortou
+[082] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[082] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.656
+[083] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[083] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.393 roll=0.984
+[084] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[084] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.410 roll=0.043
+[084] JOGADA São Paulo Railway | Adriano Guerra x Castor Barros line=2 duel=20.03 corte=-1.07
+[084] JOGADA São Paulo Railway | Leroy Clark x Gilson Pellegrini line=3 duel=15.29 corte=-1.07
+[084] FINAL São Paulo Railway | Andrew Young fam=1 duel=6.29 on_target=0.697 goal=0.248
+[084] FINAL Andrew Young: no alvo sem gol (roll=0.909)
+[085] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[085] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.414 roll=0.593
+[086] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[086] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.414 roll=0.649
+[087] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[087] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.432 roll=0.696
+[088] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[088] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.432 roll=0.185
+[088] JOGADA São Paulo Railway | Nicolas McCawley x Vitiza Milani line=3 duel=38.16 corte=-1.07
+[088] JOGADA São Paulo Railway | Adriano Guerra x Castor Barros line=4 duel=-41.96 corte=-1.07
+[088] JOGADA falhou: Castor Barros cortou
+[089] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[089] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.414 roll=0.908
+[090] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[090] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.432 roll=0.790
+[091] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[091] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.414 roll=0.899
+[092] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[092] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.414 roll=0.717
+[093] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[093] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.432 roll=0.886
+[093] FINAL São Paulo Railway | Leroy Clark fam=5 duel=-13.05 on_target=0.629 goal=0.137
+[093] FINAL Leroy Clark: fora/alvo perdido (roll=0.903)
+[094] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[094] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.414 roll=0.445
+[095] posse=Hespanha Futebol Clube | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[095] BUILD Hespanha Futebol Clube vs São Paulo Railway prob=0.414 roll=0.603
+[095] FINAL Hespanha Futebol Clube | Jequitibá Torres fam=5 duel=-18.77 on_target=0.641 goal=0.151
+[095] FINAL Jequitibá Torres: no alvo sem gol (roll=0.598)
+[096] posse=São Paulo Railway | placar São Paulo Railway 1 x 1 Hespanha Futebol Clube
+[096] BUILD São Paulo Railway vs Hespanha Futebol Clube prob=0.432 roll=0.346
+[096] JOGADA São Paulo Railway | Daniel Gallegos x Marajó Gadelha line=3 duel=-13.67 corte=-1.07
+[096] JOGADA falhou: Marajó Gadelha cortou

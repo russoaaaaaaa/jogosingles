@@ -1,0 +1,292 @@
+Partida #123
+Data: 1912-01-08
+Mandante: Vespasiano Sport Club
+Visitante: Palestra Itália MG
+Placar: 1 x 2
+Seed: -
+Estádio: Gaio de Castro
+Clima: Frio forte
+Placar tempo normal: 1 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Vespasiano Sport Club x Palestra Itália MG | estádio=Gaio de Castro | clima=Frio forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[001] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.385 roll=0.168
+[001] JOGADA Palestra Itália MG | Aronne Petrucci x Guilhermino Sá line=3 duel=87.29 corte=-1.10
+[001] FINAL Palestra Itália MG | Rodrigo Barroso fam=1 duel=14.59 on_target=0.601 goal=0.226
+[001] FINAL Rodrigo Barroso: fora/alvo perdido (roll=0.655)
+[002] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[002] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.284 roll=0.793
+[003] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[003] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.385 roll=0.588
+[004] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[004] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.385 roll=0.433
+[005] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[005] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.284 roll=0.079
+[005] JOGADA Vespasiano Sport Club | Iatã Santana da Silva x Rodrigo Barroso line=5 duel=3.37 corte=-1.95
+[005] FINAL Vespasiano Sport Club | Guilhermino Sá fam=5 duel=-12.07 on_target=0.520 goal=0.139
+[005] FINAL Guilhermino Sá: no alvo sem gol (roll=0.882)
+[006] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[006] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.284 roll=0.468
+[007] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[007] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.284 roll=0.311
+[008] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[008] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.284 roll=0.465
+[009] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[009] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.284 roll=0.519
+[010] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[010] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.284 roll=0.526
+[011] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[011] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.307 roll=0.161
+[011] JOGADA Vespasiano Sport Club | Iatã Santana da Silva x Epitácio de Montes Belos line=5 duel=-3.53 corte=-1.95
+[011] JOGADA falhou: Epitácio de Montes Belos cortou
+[012] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[012] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.416 roll=0.117
+[012] JOGADA Palestra Itália MG | Rodrigo Barroso x Alex Cordova line=4 duel=96.25 corte=-1.10
+[012] FINAL Palestra Itália MG | Aloísio Góes fam=1 duel=14.76 on_target=0.649 goal=0.242
+[012] FINAL Aloísio Góes: no alvo sem gol (roll=0.295)
+[013] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[013] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.416 roll=0.927
+[014] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[014] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.307 roll=0.630
+[015] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[015] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.307 roll=0.090
+[015] JOGADA Vespasiano Sport Club | Almir Salomão x Aronne Petrucci line=4 duel=-23.86 corte=-1.70
+[015] JOGADA falhou: Aronne Petrucci cortou
+[016] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[016] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.416 roll=0.045
+[016] JOGADA Palestra Itália MG | Fernando Pimpão x Avá Zardo line=4 duel=132.41 corte=-1.10
+[016] FINAL Palestra Itália MG | Tristão Fernandes fam=1 duel=12.67 on_target=0.646 goal=0.239
+[016] FINAL Tristão Fernandes: no alvo sem gol (roll=0.611)
+[017] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[017] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.416 roll=0.251
+[017] JOGADA Palestra Itália MG | Fernando Pimpão x Habacuc Frota line=5 duel=25.68 corte=-1.35
+[017] FINAL Palestra Itália MG | Rodrigo Barroso fam=1 duel=10.02 on_target=0.648 goal=0.239
+[017] FINAL Rodrigo Barroso: no alvo sem gol (roll=0.292)
+[018] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[018] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.307 roll=0.569
+[019] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[019] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.307 roll=0.556
+[020] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[020] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.416 roll=0.412
+[020] JOGADA Palestra Itália MG | Aristide Zanin x Habacuc Frota line=5 duel=58.46 corte=-1.35
+[020] FINAL Palestra Itália MG | Aloísio Góes fam=1 duel=8.01 on_target=0.648 goal=0.239
+[020] FINAL Aloísio Góes: no alvo sem gol (roll=0.619)
+[021] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[021] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.330 roll=0.638
+[021] FINAL Vespasiano Sport Club | Guilhermino Sá fam=5 duel=-21.42 on_target=0.591 goal=0.148
+[021] FINAL Guilhermino Sá: no alvo sem gol (roll=0.176)
+[022] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[022] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.447 roll=0.845
+[023] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[023] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.330 roll=0.340
+[024] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[024] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.447 roll=0.727
+[025] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[025] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.447 roll=0.971
+[026] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[026] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.330 roll=0.128
+[026] JOGADA Vespasiano Sport Club | Almir Salomão x Epitácio de Montes Belos line=4 duel=-19.77 corte=-1.70
+[026] FINAL Vespasiano Sport Club | Almir Salomão fam=5 duel=-33.36 on_target=0.589 goal=0.142
+[026] FINAL Almir Salomão: fora/alvo perdido (roll=0.939)
+[027] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[027] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.447 roll=0.758
+[028] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[028] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.330 roll=0.532
+[028] FINAL Vespasiano Sport Club | Bártolo Aranha fam=5 duel=-35.33 on_target=0.590 goal=0.142
+[028] FINAL Bártolo Aranha: no alvo sem gol (roll=0.481)
+[029] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[029] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.330 roll=0.196
+[029] JOGADA Vespasiano Sport Club | Arcélio Varejão x Epitácio de Montes Belos line=4 duel=-14.04 corte=-1.70
+[029] JOGADA falhou: Epitácio de Montes Belos cortou
+[030] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[030] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.330 roll=0.916
+[031] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[031] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.330 roll=0.402
+[032] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[032] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.333 roll=0.966
+[033] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[033] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.447 roll=0.677
+[034] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[034] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.447 roll=0.662
+[035] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[035] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.447 roll=0.228
+[035] JOGADA Palestra Itália MG | Benedito Gama x Alex Cordova line=4 duel=42.89 corte=-1.10
+[035] FINAL Palestra Itália MG | Aloísio Góes fam=1 duel=-0.98 on_target=0.682 goal=0.242
+[035] FINAL Aloísio Góes: no alvo sem gol (roll=0.764)
+[036] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[036] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.447 roll=0.897
+[037] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[037] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.333 roll=0.297
+[037] JOGADA Vespasiano Sport Club | Habacuc Frota x Tristão Fernandes line=3 duel=-30.10 corte=-1.70
+[037] JOGADA falhou: Tristão Fernandes cortou
+[038] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[038] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.333 roll=0.163
+[038] JOGADA Vespasiano Sport Club | Bártolo Aranha x Tristão Fernandes line=4 duel=-14.34 corte=-1.70
+[039] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[039] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.447 roll=0.679
+[040] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[040] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.333 roll=0.634
+[041] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[041] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.447 roll=0.391
+[041] JOGADA Palestra Itália MG | Epitácio de Montes Belos x Alex Cordova line=4 duel=70.44 corte=-1.10
+[041] FINAL Palestra Itália MG | Aloísio Góes fam=1 duel=1.63 on_target=0.682 goal=0.243
+[041] FINAL Aloísio Góes: no alvo sem gol (roll=0.742)
+[042] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[042] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.447 roll=0.672
+[043] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[043] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.333 roll=0.704
+[044] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[044] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.333 roll=0.436
+[045] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[045] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.333 roll=0.918
+[046] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[046] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.416 roll=0.573
+[047] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[047] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.416 roll=0.623
+[048] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[048] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.310 roll=0.250
+[048] JOGADA Vespasiano Sport Club | Habacuc Frota x Epitácio de Montes Belos line=4 duel=-25.44 corte=-1.70
+[048] JOGADA falhou: Epitácio de Montes Belos cortou
+[049] posse=Palestra Itália MG | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[049] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.416 roll=0.457
+[050] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 0 x 0 Palestra Itália MG
+[050] SUB Vespasiano Sport Club: saiu Guilhermino Sá (CA) | entrou Róbson Parra (PE) | subs=1/5
+[050] SUB Palestra Itália MG: saiu Rodrigo Barroso (CA) | entrou Benedetto Nuzzo (CA) | subs=1/5
+[050] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.310 roll=0.276
+[050] JOGADA Vespasiano Sport Club | Arcélio Varejão x Aloísio Góes line=5 duel=43.28 corte=-1.95
+[050] JOGADA Vespasiano Sport Club | Anísio Graça x Aloísio Góes line=5 duel=49.71 corte=-2.45
+[050] JOGADA Vespasiano Sport Club | Avá Zardo x Fernando Pimpão line=5 duel=1.69 corte=-1.95
+[050] FINAL Vespasiano Sport Club | Róbson Parra fam=1 duel=-0.48 on_target=0.646 goal=0.240
+[050] FINAL Róbson Parra: GOL subtipo=CHUTE (roll=0.182)
+[051] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 0 Palestra Itália MG
+[051] SUB Vespasiano Sport Club: saiu Bártolo Aranha (MC) | entrou Erique Anchieta (VOL) | subs=2/5
+[051] SUB Palestra Itália MG: saiu Aloísio Góes (SA) | entrou Verenzio Gasparro (MA) | subs=2/5
+[051] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.345 roll=0.619
+[052] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 0 Palestra Itália MG
+[052] SUB Vespasiano Sport Club: saiu Avá Zardo (MD) | entrou Cravinhos Mateus (PD) | subs=3/5
+[052] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.345 roll=0.671
+[053] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 0 Palestra Itália MG
+[053] SUB Vespasiano Sport Club: saiu Anísio Graça (SA) | entrou Otniel Moretti (SA) | subs=4/5
+[053] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.487 roll=0.459
+[053] JOGADA Palestra Itália MG | Fernando Pimpão x Otniel Moretti line=3 duel=72.75 corte=-1.08
+[053] FINAL Palestra Itália MG | Carlinhos Fipo fam=1 duel=8.65 on_target=0.647 goal=0.238
+[053] FINAL Carlinhos Fipo: GOL subtipo=CHUTE (roll=0.093)
+[054] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[054] SUB Vespasiano Sport Club: saiu Arcélio Varejão (LE) | entrou Dositeu Carpinteiro (LE) | subs=5/5
+[054] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.408 roll=0.549
+[055] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[055] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.408 roll=0.302
+[055] JOGADA Palestra Itália MG | Epitácio de Montes Belos x Dositeu Carpinteiro line=5 duel=-12.73 corte=-1.35
+[055] JOGADA falhou: Dositeu Carpinteiro cortou
+[056] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[056] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.328 roll=0.776
+[057] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[057] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.439 roll=0.668
+[058] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[058] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.411 roll=0.962
+[059] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[059] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.328 roll=0.974
+[060] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[060] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.332 roll=0.802
+[061] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[061] SUB Palestra Itália MG: saiu Carlinhos Fipo (PD) | entrou Bollito (PD) | subs=3/5
+[061] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.331 roll=0.365
+[062] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[062] SUB Palestra Itália MG: saiu Aristide Zanin (LD) | entrou Domenico Mezzini (AD) | subs=4/5
+[062] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.330 roll=0.595
+[063] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[063] SUB Palestra Itália MG: saiu Aronne Petrucci (ZAG) | entrou Adalberto Spaziano (ZAG) | subs=5/5
+[063] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.332 roll=0.773
+[064] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[064] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.332 roll=0.731
+[065] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[065] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.398 roll=0.561
+[066] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[066] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.332 roll=0.638
+[067] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[067] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.332 roll=0.273
+[067] JOGADA Vespasiano Sport Club | Habacuc Frota x Domenico Mezzini line=5 duel=-13.32 corte=-1.95
+[067] JOGADA falhou: Domenico Mezzini cortou
+[068] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[068] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.398 roll=0.546
+[069] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[069] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.398 roll=0.700
+[070] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[070] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.398 roll=0.099
+[070] JOGADA Palestra Itália MG | Benedito Gama x Dositeu Carpinteiro line=4 duel=40.33 corte=-1.10
+[070] FINAL Palestra Itália MG | Benedetto Nuzzo fam=1 duel=19.95 on_target=0.683 goal=0.251
+[070] FINAL Benedetto Nuzzo: no alvo sem gol (roll=0.541)
+[071] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 1 Palestra Itália MG
+[071] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.398 roll=0.376
+[071] JOGADA Palestra Itália MG | Benedito Gama x Habacuc Frota line=4 duel=62.69 corte=-1.10
+[071] FINAL Palestra Itália MG | Verenzio Gasparro fam=1 duel=24.93 on_target=0.682 goal=0.253
+[071] FINAL Verenzio Gasparro: GOL subtipo=CHUTE (roll=0.178)
+[072] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[072] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.376 roll=0.069
+[072] JOGADA Vespasiano Sport Club | Dositeu Carpinteiro x Colombo Barsanti line=4 duel=6.85 corte=-1.70
+[072] JOGADA Vespasiano Sport Club | Róbson Parra x Domenico Mezzini line=4 duel=-30.67 corte=-1.70
+[073] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[073] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.421 roll=0.609
+[074] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[074] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.376 roll=0.181
+[074] JOGADA Vespasiano Sport Club | Almir Salomão x Fernando Pimpão line=5 duel=41.66 corte=-1.95
+[074] FINAL Vespasiano Sport Club | Otniel Moretti fam=5 duel=-16.23 on_target=0.592 goal=0.153
+[074] FINAL Otniel Moretti: fora/alvo perdido (roll=0.998)
+[075] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[075] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.376 roll=0.361
+[075] JOGADA Vespasiano Sport Club | Róbson Parra x Benedito Gama line=4 duel=-11.50 corte=-1.70
+[075] JOGADA falhou: Benedito Gama cortou
+[076] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[076] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.406 roll=0.934
+[077] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[077] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.406 roll=0.512
+[078] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[078] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.406 roll=0.141
+[078] JOGADA Vespasiano Sport Club | Habacuc Frota x Domenico Mezzini line=3 duel=-39.49 corte=-1.70
+[078] JOGADA falhou: Domenico Mezzini cortou
+[079] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[079] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.409 roll=0.439
+[080] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[080] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.406 roll=0.979
+[081] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[081] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.406 roll=0.902
+[082] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[082] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.406 roll=0.270
+[082] JOGADA Vespasiano Sport Club | Róbson Parra x Fernando Pimpão line=4 duel=-18.96 corte=-1.70
+[082] JOGADA falhou: Fernando Pimpão cortou
+[083] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[083] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.406 roll=0.909
+[084] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[084] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.409 roll=0.472
+[085] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[085] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.409 roll=0.198
+[085] JOGADA Palestra Itália MG | Domenico Mezzini x Otniel Moretti line=5 duel=22.77 corte=-1.55
+[085] FINAL Palestra Itália MG | Benedetto Nuzzo fam=1 duel=7.02 on_target=0.655 goal=0.234
+[085] FINAL Benedetto Nuzzo: fora/alvo perdido (roll=0.835)
+[086] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[086] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.428 roll=0.155
+[086] JOGADA Vespasiano Sport Club | Iatã Santana da Silva x Verenzio Gasparro line=5 duel=-2.17 corte=-1.95
+[086] JOGADA falhou: Verenzio Gasparro cortou
+[087] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[087] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.428 roll=0.506
+[088] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[088] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.428 roll=0.805
+[089] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[089] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.409 roll=0.844
+[090] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[090] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.409 roll=0.034
+[090] JOGADA Palestra Itália MG | Epitácio de Montes Belos x Dositeu Carpinteiro line=4 duel=-2.74 corte=-1.30
+[090] FINAL Palestra Itália MG | Epitácio de Montes Belos fam=5 duel=-15.97 on_target=0.558 goal=0.128
+[090] FINAL Epitácio de Montes Belos: no alvo sem gol (roll=0.251)
+[091] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[091] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.428 roll=0.434
+[092] posse=Vespasiano Sport Club | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[092] BUILD Vespasiano Sport Club vs Palestra Itália MG prob=0.428 roll=0.422
+[092] JOGADA Vespasiano Sport Club | Iatã Santana da Silva x Fernando Pimpão line=5 duel=-19.06 corte=-1.95
+[092] JOGADA falhou: Fernando Pimpão cortou
+[093] posse=Palestra Itália MG | placar Vespasiano Sport Club 1 x 2 Palestra Itália MG
+[093] BUILD Palestra Itália MG vs Vespasiano Sport Club prob=0.409 roll=0.992

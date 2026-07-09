@@ -1,0 +1,311 @@
+Partida #149
+Data: 1912-01-10
+Mandante: Clube Atlético Flor do Braz
+Visitante: Scottish Wanderers
+Placar: 2 x 0
+Seed: -
+Estádio: Arena Czar
+Clima: Neblina
+Placar tempo normal: 2 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube Atlético Flor do Braz x Scottish Wanderers | estádio=Arena Czar | clima=Neblina | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[001] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.315 roll=0.428
+[002] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[002] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.316 roll=0.745
+[002] FINAL Scottish Wanderers | Louis Clitherow fam=5 duel=14.26 on_target=0.577 goal=0.150
+[002] FINAL Louis Clitherow: fora/alvo perdido (roll=0.924)
+[003] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[003] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.315 roll=0.379
+[004] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[004] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.316 roll=0.983
+[005] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[005] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.315 roll=0.918
+[006] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[006] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.315 roll=0.635
+[007] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[007] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.315 roll=0.745
+[007] FINAL Clube Atlético Flor do Braz | Deodato Tinoco fam=5 duel=-104.28 on_target=0.583 goal=0.114
+[007] FINAL Deodato Tinoco: fora/alvo perdido (roll=0.800)
+[008] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[008] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.316 roll=0.403
+[009] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[009] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.316 roll=0.757
+[009] FINAL Scottish Wanderers | Doran Woodville fam=5 duel=12.12 on_target=0.570 goal=0.147
+[009] FINAL Doran Woodville: no alvo sem gol (roll=0.502)
+[010] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[010] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.315 roll=0.198
+[010] JOGADA Clube Atlético Flor do Braz | Vitálio Peçanha x Little Geraldo line=4 duel=-32.38 corte=-1.70
+[010] JOGADA falhou: Little Geraldo cortou
+[011] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[011] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.340 roll=0.195
+[011] JOGADA Clube Atlético Flor do Braz | Sidney Kato x Damon Frampton line=2 duel=-24.18 corte=-1.70
+[011] JOGADA falhou: Damon Frampton cortou
+[012] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[012] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.340 roll=0.938
+[013] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[013] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.342 roll=0.181
+[013] JOGADA Scottish Wanderers | Mike Constable x Sidney Kato line=4 duel=-54.05 corte=-1.10
+[013] JOGADA falhou: Sidney Kato cortou
+[014] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[014] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.342 roll=0.963
+[015] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[015] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.342 roll=0.436
+[016] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[016] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.340 roll=0.239
+[016] JOGADA Clube Atlético Flor do Braz | Davino Pimenta x Stan Perch line=4 duel=-17.30 corte=-1.70
+[017] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[017] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.342 roll=0.597
+[018] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 0 x 0 Scottish Wanderers
+[018] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.340 roll=0.245
+[018] JOGADA Clube Atlético Flor do Braz | Davino Pimenta x Edgar Barbosa line=3 duel=23.70 corte=-1.70
+[018] JOGADA Clube Atlético Flor do Braz | Quatis Romano x Doran Woodville line=4 duel=35.62 corte=-1.70
+[018] FINAL Clube Atlético Flor do Braz | Tapuru Silva fam=5 duel=-77.80 on_target=0.633 goal=0.135
+[018] FINAL Tapuru Silva: GOL subtipo=FALTA (roll=0.002)
+[019] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[019] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.389 roll=0.749
+[019] FINAL Scottish Wanderers | Mike Constable fam=5 duel=3.40 on_target=0.613 goal=0.151
+[019] FINAL Mike Constable: fora/alvo perdido (roll=0.810)
+[020] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[020] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.377 roll=0.038
+[020] JOGADA Clube Atlético Flor do Braz | Sidney Kato x Darcy Douch line=3 duel=-21.14 corte=-1.70
+[021] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[021] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.406 roll=0.363
+[021] JOGADA Clube Atlético Flor do Braz | Sidney Kato x Len Weegal line=3 duel=-30.01 corte=-1.70
+[021] JOGADA falhou: Len Weegal cortou
+[022] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[022] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.406 roll=0.809
+[023] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[023] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.406 roll=0.388
+[023] JOGADA Clube Atlético Flor do Braz | Sidney Kato x Brad Coppersmith line=2 duel=39.09 corte=-1.70
+[023] JOGADA Clube Atlético Flor do Braz | Tapuru Silva x Doran Woodville line=5 duel=105.63 corte=-1.95
+[023] FINAL Clube Atlético Flor do Braz | Adoniram Guerreiro fam=5 duel=-67.56 on_target=0.659 goal=0.142
+[023] FINAL Adoniram Guerreiro: no alvo sem gol (roll=0.236)
+[024] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[024] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.419 roll=0.348
+[024] JOGADA Scottish Wanderers | Damon Frampton x Porfírio Bona line=4 duel=2.77 corte=-1.08
+[024] FINAL Scottish Wanderers | Louis Clitherow fam=1 duel=27.59 on_target=0.769 goal=0.283
+[024] FINAL Louis Clitherow: fora/alvo perdido (roll=0.975)
+[025] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[025] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.406 roll=0.347
+[025] JOGADA Clube Atlético Flor do Braz | Gilmar Botelho x Stan Perch line=4 duel=-18.07 corte=-1.70
+[026] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[026] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.419 roll=0.636
+[027] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[027] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.419 roll=0.785
+[028] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[028] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.419 roll=0.545
+[029] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[029] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.406 roll=0.878
+[030] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[030] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.406 roll=0.412
+[031] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[031] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.406 roll=0.672
+[032] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[032] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.408 roll=0.035
+[032] JOGADA Clube Atlético Flor do Braz | Davino Pimenta x Damon Frampton line=4 duel=-21.78 corte=-1.70
+[032] JOGADA falhou: Damon Frampton cortou
+[033] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[033] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.408 roll=0.191
+[033] JOGADA Clube Atlético Flor do Braz | Porfírio Bona x Brad Coppersmith line=3 duel=42.72 corte=-1.70
+[033] JOGADA Clube Atlético Flor do Braz | Deodato Tinoco x Mike Constable line=4 duel=-64.80 corte=-1.70
+[033] JOGADA falhou: Mike Constable cortou
+[034] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[034] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.408 roll=0.574
+[034] FINAL Clube Atlético Flor do Braz | Quatis Romano fam=5 duel=-15.90 on_target=0.663 goal=0.169
+[034] FINAL Quatis Romano: no alvo sem gol (roll=0.330)
+[035] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[035] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.408 roll=0.392
+[035] JOGADA Clube Atlético Flor do Braz | Gilmar Botelho x Brad Coppersmith line=4 duel=-70.41 corte=-1.70
+[035] JOGADA falhou: Brad Coppersmith cortou
+[036] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[036] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.419 roll=0.206
+[036] JOGADA Scottish Wanderers | Doran Woodville x Davino Pimenta line=3 duel=-19.27 corte=-1.08
+[037] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[037] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.408 roll=0.545
+[038] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[038] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.408 roll=0.539
+[039] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[039] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.419 roll=0.539
+[040] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[040] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.408 roll=0.207
+[040] JOGADA Clube Atlético Flor do Braz | Porfírio Bona x Mike Constable line=2 duel=56.52 corte=-1.70
+[040] JOGADA Clube Atlético Flor do Braz | Deodato Tinoco x Little Geraldo line=5 duel=-11.08 corte=-1.95
+[040] JOGADA falhou: Little Geraldo cortou
+[041] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[041] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.408 roll=0.170
+[041] JOGADA Clube Atlético Flor do Braz | Deodato Tinoco x Brad Coppersmith line=4 duel=1.95 corte=-1.70
+[041] FINAL Clube Atlético Flor do Braz | Quatis Romano fam=5 duel=-14.75 on_target=0.663 goal=0.170
+[041] FINAL Quatis Romano: no alvo sem gol (roll=0.791)
+[042] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[042] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.419 roll=0.191
+[042] JOGADA Scottish Wanderers | Darcy Douch x Sidney Kato line=2 duel=15.73 corte=-1.08
+[042] JOGADA Scottish Wanderers | Louis Clitherow x Tapuru Silva line=3 duel=20.74 corte=-1.08
+[042] JOGADA Scottish Wanderers | Little Geraldo x Quatis Romano line=5 duel=88.82 corte=-1.33
+[042] FINAL Scottish Wanderers | Doran Woodville fam=1 duel=3.09 on_target=0.757 goal=0.266
+[042] FINAL Doran Woodville: no alvo sem gol (roll=0.725)
+[043] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[043] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.419 roll=0.088
+[043] JOGADA Scottish Wanderers | Doran Woodville x Tapuru Silva line=3 duel=-2.78 corte=-1.08
+[044] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[044] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.419 roll=0.940
+[045] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[045] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.419 roll=0.757
+[046] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[046] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.380 roll=0.053
+[046] JOGADA Clube Atlético Flor do Braz | Clemêncio Amaral x Mike Constable line=4 duel=21.33 corte=-1.70
+[046] FINAL Clube Atlético Flor do Braz | Clemêncio Amaral fam=5 duel=-15.62 on_target=0.630 goal=0.164
+[046] FINAL Clemêncio Amaral: fora/alvo perdido (roll=0.883)
+[047] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[047] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.389 roll=0.572
+[048] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[048] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.389 roll=0.518
+[049] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[049] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.380 roll=0.832
+[050] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[050] SUB Clube Atlético Flor do Braz: saiu Clemêncio Amaral (SA) | entrou Nilton Dornelles (PD) | subs=1/5
+[050] SUB Scottish Wanderers: saiu Doran Woodville (SA) | entrou Ludo Dobbs (SA) | subs=1/5
+[050] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.379 roll=0.072
+[050] JOGADA Clube Atlético Flor do Braz | Davino Pimenta x Brad Coppersmith line=4 duel=-9.75 corte=-1.70
+[050] JOGADA falhou: Brad Coppersmith cortou
+[051] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[051] SUB Clube Atlético Flor do Braz: saiu Gilmar Botelho (MC) | entrou Ariel Rangel (VOL) | subs=2/5
+[051] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.387 roll=0.523
+[052] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[052] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.383 roll=0.928
+[053] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[053] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.387 roll=0.473
+[054] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[054] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.387 roll=0.765
+[055] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[055] SUB Clube Atlético Flor do Braz: saiu Vitálio Peçanha (ZAG) | entrou Norberto Garrido (ZAG) | subs=3/5
+[055] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.388 roll=0.642
+[056] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[056] SUB Clube Atlético Flor do Braz: saiu Adoniram Guerreiro (CA) | entrou Izaque Simões (PE) | subs=4/5
+[056] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.409 roll=0.279
+[056] JOGADA Clube Atlético Flor do Braz | Davino Pimenta x Stan Perch line=3 duel=-12.78 corte=-1.70
+[056] JOGADA falhou: Stan Perch cortou
+[057] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[057] SUB Clube Atlético Flor do Braz: saiu Porfírio Bona (MD) | entrou Ororubá Sampaio (MD) | subs=5/5
+[057] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.416 roll=0.593
+[058] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[058] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.406 roll=0.181
+[058] JOGADA Clube Atlético Flor do Braz | Davino Pimenta x Ludo Dobbs line=3 duel=8.91 corte=-1.70
+[058] JOGADA Clube Atlético Flor do Braz | Sidney Kato x Brad Coppersmith line=4 duel=-22.36 corte=-1.70
+[058] JOGADA falhou: Brad Coppersmith cortou
+[059] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[059] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.406 roll=0.823
+[060] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 1 x 0 Scottish Wanderers
+[060] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.410 roll=0.145
+[060] JOGADA Clube Atlético Flor do Braz | Tapuru Silva x Ludo Dobbs line=3 duel=24.15 corte=-1.70
+[060] FINAL Clube Atlético Flor do Braz | Izaque Simões fam=5 duel=14.52 on_target=0.667 goal=0.186
+[060] FINAL Izaque Simões: GOL subtipo=FALTA (roll=0.004)
+[061] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[061] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.403 roll=0.636
+[062] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[062] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.403 roll=0.126
+[062] JOGADA Clube Atlético Flor do Braz | Nilton Dornelles x Edgar Barbosa line=4 duel=31.67 corte=-1.70
+[062] FINAL Clube Atlético Flor do Braz | Izaque Simões fam=5 duel=14.32 on_target=0.647 goal=0.177
+[062] FINAL Izaque Simões: fora/alvo perdido (roll=0.779)
+[063] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[063] SUB Scottish Wanderers: saiu Darcy Douch (MC) | entrou Thomas Watling (MA) | subs=2/5
+[063] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.403 roll=0.934
+[064] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[064] SUB Scottish Wanderers: saiu Brad Coppersmith (MC) | entrou Sterling Newdigate (MA) | subs=3/5
+[064] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.403 roll=0.117
+[064] JOGADA Clube Atlético Flor do Braz | Davino Pimenta x Damon Frampton line=4 duel=-22.07 corte=-1.70
+[065] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[065] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.389 roll=0.831
+[066] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[066] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.389 roll=0.442
+[067] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[067] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.403 roll=0.455
+[068] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[068] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.407 roll=0.469
+[069] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[069] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.389 roll=0.675
+[070] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[070] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.428 roll=0.459
+[071] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[071] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.428 roll=0.599
+[072] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[072] SUB Scottish Wanderers: saiu Stan Perch (ZAG) | entrou Sanford Cowell (VOL) | subs=4/5
+[072] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.427 roll=0.864
+[073] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[073] SUB Scottish Wanderers: saiu Len Weegal (ZAG) | entrou Ambrose Sarchet (VOL) | subs=5/5
+[073] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.426 roll=0.923
+[074] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[074] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.426 roll=0.692
+[075] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[075] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.390 roll=0.083
+[075] JOGADA Scottish Wanderers | Thomas Watling x Norberto Garrido line=4 duel=12.88 corte=-1.02
+[075] FINAL Scottish Wanderers | Louis Clitherow fam=3 duel=20.79 on_target=0.697 goal=0.217
+[075] FINAL Louis Clitherow: no alvo sem gol (roll=0.596)
+[076] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[076] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.421 roll=0.537
+[077] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[077] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.414 roll=0.596
+[078] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[078] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.421 roll=0.971
+[079] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[079] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.421 roll=0.672
+[080] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[080] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.414 roll=0.475
+[081] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[081] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.414 roll=0.167
+[081] JOGADA Clube Atlético Flor do Braz | Ariel Rangel x Edgar Barbosa line=3 duel=76.25 corte=-1.70
+[081] FINAL Clube Atlético Flor do Braz | Izaque Simões fam=5 duel=7.12 on_target=0.634 goal=0.173
+[081] FINAL Izaque Simões: no alvo sem gol (roll=0.749)
+[082] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[082] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.421 roll=0.855
+[083] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[083] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.414 roll=0.495
+[084] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[084] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.414 roll=0.988
+[085] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[085] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.414 roll=0.236
+[085] JOGADA Clube Atlético Flor do Braz | Tapuru Silva x Ludo Dobbs line=2 duel=94.65 corte=-1.70
+[085] JOGADA Clube Atlético Flor do Braz | Sidney Kato x Damon Frampton line=4 duel=-21.48 corte=-1.70
+[086] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[086] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.414 roll=0.595
+[087] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[087] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.488 roll=0.885
+[088] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[088] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.414 roll=0.211
+[088] JOGADA Clube Atlético Flor do Braz | Ariel Rangel x Louis Clitherow line=4 duel=26.54 corte=-1.70
+[088] JOGADA Clube Atlético Flor do Braz | Ororubá Sampaio x Louis Clitherow line=5 duel=68.03 corte=-1.95
+[088] JOGADA Clube Atlético Flor do Braz | Nilton Dornelles x Thomas Watling line=5 duel=-26.31 corte=-2.45
+[088] JOGADA falhou: Thomas Watling cortou
+[089] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[089] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.414 roll=0.035
+[089] JOGADA Clube Atlético Flor do Braz | Ariel Rangel x Louis Clitherow line=3 duel=23.52 corte=-1.70
+[089] FINAL Clube Atlético Flor do Braz | Tapuru Silva fam=5 duel=-49.79 on_target=0.637 goal=0.152
+[089] FINAL Tapuru Silva: no alvo sem gol (roll=0.664)
+[090] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[090] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.488 roll=0.809
+[091] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[091] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.414 roll=0.205
+[091] JOGADA Clube Atlético Flor do Braz | Tapuru Silva x Sanford Cowell line=4 duel=-25.54 corte=-1.70
+[091] JOGADA falhou: Sanford Cowell cortou
+[092] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[092] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.488 roll=0.945
+[093] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[093] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.488 roll=0.974
+[094] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[094] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.488 roll=0.282
+[094] JOGADA Scottish Wanderers | Sanford Cowell x Deodato Tinoco line=2 duel=19.68 corte=-1.02
+[094] JOGADA Scottish Wanderers | Thomas Watling x Izaque Simões line=3 duel=50.04 corte=-1.02
+[094] JOGADA Scottish Wanderers | Ambrose Sarchet x Sidney Kato line=4 duel=22.60 corte=-1.02
+[094] FINAL Scottish Wanderers | Ludo Dobbs fam=1 duel=9.98 on_target=0.920 goal=0.295
+[094] FINAL Ludo Dobbs: no alvo sem gol (roll=0.705)
+[095] posse=Scottish Wanderers | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[095] BUILD Scottish Wanderers vs Clube Atlético Flor do Braz prob=0.488 roll=0.673
+[096] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[096] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.414 roll=0.736
+[097] posse=Clube Atlético Flor do Braz | placar Clube Atlético Flor do Braz 2 x 0 Scottish Wanderers
+[097] BUILD Clube Atlético Flor do Braz vs Scottish Wanderers prob=0.414 roll=0.193
+[097] JOGADA Clube Atlético Flor do Braz | Davino Pimenta x Sanford Cowell line=4 duel=-29.01 corte=-1.70

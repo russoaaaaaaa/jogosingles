@@ -1,0 +1,336 @@
+Partida #130
+Data: 1912-01-08
+Mandante: Clube da Liberdade Jovem
+Visitante: Esporte Clube Villa Nova
+Placar: 4 x 3
+Seed: -
+Estádio: Arena Liberdade
+Clima: Ensolarado
+Placar tempo normal: 4 x 3
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube da Liberdade Jovem x Esporte Clube Villa Nova | estádio=Arena Liberdade | clima=Ensolarado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[001] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.330 roll=0.851
+[002] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[002] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.331 roll=0.206
+[002] JOGADA Clube da Liberdade Jovem | 'Sorrizo' Ronaldo Smile x Carlos Macedo line=5 duel=78.08 corte=-1.89
+[002] FINAL Clube da Liberdade Jovem | Yuri Alberto fam=1 duel=-9.70 on_target=0.599 goal=0.216
+[002] FINAL Yuri Alberto: no alvo sem gol (roll=0.856)
+[003] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[003] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.331 roll=0.279
+[003] JOGADA Clube da Liberdade Jovem | Giani Cipriano x Candabro Mitti line=3 duel=14.83 corte=-1.14
+[003] FINAL Clube da Liberdade Jovem | 'Sorrizo' Ronaldo Smile fam=1 duel=-4.41 on_target=0.600 goal=0.218
+[003] FINAL 'Sorrizo' Ronaldo Smile: no alvo sem gol (roll=0.783)
+[004] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[004] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.331 roll=0.005
+[004] JOGADA Clube da Liberdade Jovem | Gavião Sarmento x Cabrito Grande line=4 duel=-3.80 corte=-1.14
+[004] JOGADA falhou: Cabrito Grande cortou
+[005] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[005] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.330 roll=0.442
+[006] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[006] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.331 roll=0.618
+[007] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[007] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.331 roll=0.651
+[008] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[008] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.331 roll=0.401
+[009] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[009] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.331 roll=0.941
+[010] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[010] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.330 roll=0.841
+[011] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[011] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.357 roll=0.072
+[011] JOGADA Esporte Clube Villa Nova | Candabro Mitti x Jonatas Ortiz line=3 duel=-12.13 corte=-1.30
+[012] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[012] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.357 roll=0.151
+[012] JOGADA Esporte Clube Villa Nova | Nataniel Almeida x Giani Cipriano line=3 duel=107.27 corte=-1.30
+[012] FINAL Esporte Clube Villa Nova | Gianluigi Sericola fam=5 duel=1.03 on_target=0.561 goal=0.149
+[012] FINAL Gianluigi Sericola: fora/alvo perdido (roll=0.926)
+[013] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[013] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.357 roll=0.857
+[014] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[014] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.357 roll=0.587
+[015] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[015] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.357 roll=0.217
+[015] JOGADA Esporte Clube Villa Nova | William Renato x Yuri Alberto line=3 duel=27.71 corte=-1.30
+[015] FINAL Esporte Clube Villa Nova | Wesley Lindelof fam=5 duel=0.32 on_target=0.560 goal=0.149
+[015] FINAL Wesley Lindelof: fora/alvo perdido (roll=0.657)
+[016] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[016] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.357 roll=0.503
+[017] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[017] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.357 roll=0.215
+[017] JOGADA Clube da Liberdade Jovem | Mátio Guedes x Candabro Mitti line=4 duel=10.73 corte=-1.14
+[017] FINAL Clube da Liberdade Jovem | Giani Cipriano fam=1 duel=1.25 on_target=0.647 goal=0.235
+[017] FINAL Giani Cipriano: fora/alvo perdido (roll=0.753)
+[018] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[018] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.357 roll=0.253
+[018] JOGADA Clube da Liberdade Jovem | Marco Vargas x Gianluigi Sericola line=5 duel=110.79 corte=-1.39
+[018] FINAL Clube da Liberdade Jovem | 'Sorrizo' Ronaldo Smile fam=1 duel=-10.93 on_target=0.648 goal=0.230
+[018] FINAL 'Sorrizo' Ronaldo Smile: no alvo sem gol (roll=0.493)
+[019] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[019] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.357 roll=0.458
+[020] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[020] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.357 roll=0.613
+[021] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[021] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.384 roll=0.564
+[022] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 0 x 0 Esporte Clube Villa Nova
+[022] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.384 roll=0.261
+[022] JOGADA Clube da Liberdade Jovem | Marco Vargas x Nataniel Almeida line=4 duel=7.86 corte=-1.14
+[022] FINAL Clube da Liberdade Jovem | 'Sorrizo' Ronaldo Smile fam=1 duel=-10.80 on_target=0.682 goal=0.237
+[022] FINAL 'Sorrizo' Ronaldo Smile: GOL subtipo=CHUTE (roll=0.121)
+[023] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[023] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.384 roll=0.274
+[023] JOGADA Clube da Liberdade Jovem | Marco Vargas x Wesley Lindelof line=5 duel=42.05 corte=-1.55
+[023] FINAL Clube da Liberdade Jovem | Giani Cipriano fam=1 duel=2.01 on_target=0.682 goal=0.243
+[023] FINAL Giani Cipriano: no alvo sem gol (roll=0.995)
+[024] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[024] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.384 roll=0.777
+[025] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[025] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.384 roll=0.077
+[025] JOGADA Clube da Liberdade Jovem | Marco Vargas x Richard Banks line=4 duel=75.27 corte=-1.30
+[025] FINAL Clube da Liberdade Jovem | Giani Cipriano fam=1 duel=2.24 on_target=0.682 goal=0.243
+[025] FINAL Giani Cipriano: no alvo sem gol (roll=0.738)
+[026] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[026] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.384 roll=0.609
+[027] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[027] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.384 roll=0.994
+[028] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[028] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.384 roll=0.028
+[028] JOGADA Clube da Liberdade Jovem | Pipocaldo Mendes x Richard Banks line=3 duel=2.00 corte=-1.30
+[028] FINAL Clube da Liberdade Jovem | Yuri Alberto fam=1 duel=-22.36 on_target=0.680 goal=0.231
+[028] FINAL Yuri Alberto: no alvo sem gol (roll=0.312)
+[029] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[029] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.440 roll=0.716
+[030] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[030] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.440 roll=0.629
+[031] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[031] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.440 roll=0.099
+[031] JOGADA Esporte Clube Villa Nova | Richard Banks x Marco Vargas line=3 duel=2.05 corte=-1.30
+[031] FINAL Esporte Clube Villa Nova | Wesley Lindelof fam=5 duel=-4.70 on_target=0.591 goal=0.153
+[031] FINAL Wesley Lindelof: no alvo sem gol (roll=0.746)
+[032] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[032] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.440 roll=0.050
+[032] JOGADA Esporte Clube Villa Nova | Cabrito Grande x Nelson Gatti line=3 duel=-12.90 corte=-1.30
+[032] JOGADA falhou: Nelson Gatti cortou
+[033] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[033] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.384 roll=0.867
+[034] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[034] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.440 roll=0.833
+[035] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[035] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.384 roll=0.821
+[036] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[036] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.440 roll=0.913
+[037] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[037] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.384 roll=0.011
+[037] JOGADA Clube da Liberdade Jovem | Pipocaldo Mendes x Gianluigi Sericola line=5 duel=10.97 corte=-1.55
+[037] FINAL Clube da Liberdade Jovem | Mátio Guedes fam=1 duel=-5.59 on_target=0.682 goal=0.239
+[037] FINAL Mátio Guedes: fora/alvo perdido (roll=0.723)
+[038] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 1 x 0 Esporte Clube Villa Nova
+[038] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.384 roll=0.356
+[038] JOGADA Clube da Liberdade Jovem | Marco Vargas x Wesley Lindelof line=3 duel=38.56 corte=-1.30
+[038] FINAL Clube da Liberdade Jovem | 'Sorrizo' Ronaldo Smile fam=1 duel=-19.03 on_target=0.681 goal=0.233
+[038] FINAL 'Sorrizo' Ronaldo Smile: GOL subtipo=CHUTE (roll=0.206)
+[039] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 2 x 0 Esporte Clube Villa Nova
+[039] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.376 roll=0.247
+[039] JOGADA Clube da Liberdade Jovem | Marco Vargas x Roberto Rico line=5 duel=9.98 corte=-1.55
+[039] FINAL Clube da Liberdade Jovem | 'Sorrizo' Ronaldo Smile fam=1 duel=-18.59 on_target=0.654 goal=0.217
+[039] FINAL 'Sorrizo' Ronaldo Smile: GOL subtipo=CHUTE (roll=0.047)
+[040] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[040] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.447 roll=0.420
+[040] JOGADA Esporte Clube Villa Nova | Rosângelo Rosa x Jonatas Ortiz line=4 duel=-24.04 corte=-1.30
+[040] JOGADA falhou: Jonatas Ortiz cortou
+[041] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[041] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.367 roll=0.550
+[042] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[042] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.367 roll=0.872
+[043] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[043] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.367 roll=0.866
+[044] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[044] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.447 roll=0.194
+[044] JOGADA Esporte Clube Villa Nova | William Renato x Nelson Gatti line=4 duel=-33.12 corte=-1.30
+[044] FINAL Esporte Clube Villa Nova | William Renato fam=5 duel=-29.18 on_target=0.589 goal=0.143
+[044] FINAL William Renato: no alvo sem gol (roll=0.727)
+[045] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[045] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.447 roll=0.903
+[046] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[046] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.342 roll=0.354
+[047] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[047] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.416 roll=0.406
+[047] JOGADA Esporte Clube Villa Nova | Rosângelo Rosa x Gavião Sarmento line=3 duel=57.12 corte=-1.30
+[047] FINAL Esporte Clube Villa Nova | Wesley Lindelof fam=5 duel=-7.68 on_target=0.563 goal=0.149
+[047] FINAL Wesley Lindelof: fora/alvo perdido (roll=0.795)
+[048] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[048] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.342 roll=0.322
+[048] JOGADA Clube da Liberdade Jovem | Nelson Gatti x Cabrito Grande line=5 duel=58.01 corte=-1.55
+[048] FINAL Clube da Liberdade Jovem | 'Sorrizo' Ronaldo Smile fam=1 duel=-15.65 on_target=0.595 goal=0.198
+[048] FINAL 'Sorrizo' Ronaldo Smile: fora/alvo perdido (roll=0.985)
+[049] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[049] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.342 roll=0.315
+[049] JOGADA Clube da Liberdade Jovem | 'Sorrizo' Ronaldo Smile x Wesley Lindelof line=4 duel=65.84 corte=-1.30
+[049] FINAL Clube da Liberdade Jovem | Yuri Alberto fam=1 duel=-16.23 on_target=0.595 goal=0.198
+[049] FINAL Yuri Alberto: no alvo sem gol (roll=0.784)
+[050] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[050] SUB Clube da Liberdade Jovem: saiu Yuri Alberto (SA) | entrou Indomável Andorinha (PD) | subs=1/5
+[050] SUB Esporte Clube Villa Nova: saiu Gianluigi Sericola (SA) | entrou Venâncio Maggi (SA) | subs=1/5
+[050] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.344 roll=0.300
+[050] JOGADA Clube da Liberdade Jovem | 'Sorrizo' Ronaldo Smile x Rosângelo Rosa line=4 duel=40.33 corte=-1.30
+[050] FINAL Clube da Liberdade Jovem | Indomável Andorinha fam=1 duel=22.10 on_target=0.596 goal=0.212
+[050] FINAL Indomável Andorinha: fora/alvo perdido (roll=0.628)
+[051] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[051] SUB Clube da Liberdade Jovem: saiu 'Sorrizo' Ronaldo Smile (CA) | entrou Carlo Peralta (CA) | subs=2/5
+[051] SUB Esporte Clube Villa Nova: saiu Wesley Lindelof (CA) | entrou Carl Smith (CA) | subs=2/5
+[051] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.344 roll=0.534
+[052] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[052] SUB Esporte Clube Villa Nova: saiu Candabro Mitti (LD) | entrou Ancelmo Brandão (LD) | subs=3/5
+[052] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.389 roll=0.303
+[052] JOGADA Esporte Clube Villa Nova | Venâncio Maggi x Indomável Andorinha line=2 duel=110.57 corte=-1.30
+[052] FINAL Esporte Clube Villa Nova | Roberto Rico fam=5 duel=-57.82 on_target=0.560 goal=0.128
+[052] FINAL Roberto Rico: fora/alvo perdido (roll=0.629)
+[053] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[053] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.389 roll=0.032
+[053] JOGADA Esporte Clube Villa Nova | Nataniel Almeida x Paulinho de Belém line=4 duel=-9.05 corte=-1.30
+[053] JOGADA falhou: Paulinho de Belém cortou
+[054] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[054] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.389 roll=0.270
+[054] JOGADA Esporte Clube Villa Nova | Roberto Rico x Gavião Sarmento line=4 duel=58.40 corte=-1.30
+[054] FINAL Esporte Clube Villa Nova | Rosângelo Rosa fam=5 duel=-0.41 on_target=0.563 goal=0.154
+[054] FINAL Rosângelo Rosa: no alvo sem gol (roll=0.588)
+[055] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[055] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.389 roll=0.929
+[056] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[056] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.419 roll=0.757
+[057] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[057] SUB Esporte Clube Villa Nova: saiu Rosângelo Rosa (MC) | entrou Álvaro Pioli (MC) | subs=4/5
+[057] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.418 roll=0.100
+[057] JOGADA Esporte Clube Villa Nova | Venâncio Maggi x Indomável Andorinha line=4 duel=31.48 corte=-1.30
+[057] JOGADA Esporte Clube Villa Nova | Venâncio Maggi x Mátio Guedes line=4 duel=33.42 corte=-1.30
+[057] JOGADA Esporte Clube Villa Nova | Álvaro Pioli x Nelson Gatti line=5 duel=85.83 corte=-1.55
+[057] FINAL Esporte Clube Villa Nova | Álvaro Pioli fam=5 duel=14.72 on_target=0.594 goal=0.166
+[057] FINAL Álvaro Pioli: no alvo sem gol (roll=0.768)
+[058] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[058] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.378 roll=0.786
+[059] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[059] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.418 roll=0.003
+[059] JOGADA Esporte Clube Villa Nova | William Renato x Indomável Andorinha line=3 duel=-7.77 corte=-1.30
+[060] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[060] SUB Esporte Clube Villa Nova: saiu William Renato (LE) | entrou Gottardo Malta Arruda (LE) | subs=5/5
+[060] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.420 roll=0.085
+[060] JOGADA Esporte Clube Villa Nova | Roberto Rico x Pipocaldo Mendes line=2 duel=-10.07 corte=-1.30
+[060] JOGADA falhou: Pipocaldo Mendes cortou
+[061] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[061] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.387 roll=0.571
+[062] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[062] SUB Clube da Liberdade Jovem: saiu Paulinho de Belém (LE) | entrou Bajo Gandulla (AD) | subs=3/5
+[062] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.387 roll=0.192
+[062] JOGADA Clube da Liberdade Jovem | Carlo Peralta x Cabrito Grande line=5 duel=58.52 corte=-2.05
+[062] FINAL Clube da Liberdade Jovem | Carlo Peralta fam=1 duel=8.63 on_target=0.629 goal=0.215
+[062] FINAL Carlo Peralta: no alvo sem gol (roll=0.360)
+[063] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[063] SUB Clube da Liberdade Jovem: saiu Gavião Sarmento (VOL) | entrou João Tobinha (VOL) | subs=4/5
+[063] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.388 roll=0.630
+[064] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[064] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.388 roll=0.469
+[065] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[065] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.388 roll=0.881
+[066] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[066] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.419 roll=0.305
+[066] JOGADA Esporte Clube Villa Nova | Venâncio Maggi x Indomável Andorinha line=3 duel=93.56 corte=-1.30
+[066] FINAL Esporte Clube Villa Nova | Venâncio Maggi fam=5 duel=-37.97 on_target=0.592 goal=0.143
+[066] FINAL Venâncio Maggi: no alvo sem gol (roll=0.346)
+[067] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[067] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.419 roll=0.991
+[068] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[068] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.388 roll=0.121
+[068] JOGADA Clube da Liberdade Jovem | Mátio Guedes x Cabrito Grande line=4 duel=-1.73 corte=-1.30
+[068] JOGADA falhou: Cabrito Grande cortou
+[069] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 3 x 0 Esporte Clube Villa Nova
+[069] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.388 roll=0.052
+[069] JOGADA Clube da Liberdade Jovem | João Tobinha x Cabrito Grande line=5 duel=85.81 corte=-1.55
+[069] FINAL Clube da Liberdade Jovem | Carlo Peralta fam=1 duel=19.84 on_target=0.630 goal=0.220
+[069] FINAL Carlo Peralta: GOL subtipo=CHUTE (roll=0.085)
+[070] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 4 x 0 Esporte Clube Villa Nova
+[070] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.379 roll=0.194
+[070] JOGADA Clube da Liberdade Jovem | Carlo Peralta x Ancelmo Brandão line=5 duel=-9.25 corte=-2.05
+[070] JOGADA falhou: Ancelmo Brandão cortou
+[071] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 4 x 0 Esporte Clube Villa Nova
+[071] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.419 roll=0.638
+[072] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 4 x 0 Esporte Clube Villa Nova
+[072] SUB Clube da Liberdade Jovem: saiu Mátio Guedes (MC) | entrou Victor Daniel (MC) | subs=5/5
+[072] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.375 roll=0.380
+[073] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 4 x 0 Esporte Clube Villa Nova
+[073] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.421 roll=0.467
+[074] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 4 x 0 Esporte Clube Villa Nova
+[074] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.421 roll=0.075
+[074] JOGADA Esporte Clube Villa Nova | Cabrito Grande x Indomável Andorinha line=2 duel=34.97 corte=-1.30
+[074] FINAL Esporte Clube Villa Nova | Venâncio Maggi fam=5 duel=12.23 on_target=0.595 goal=0.166
+[074] FINAL Venâncio Maggi: GOL subtipo=FALTA (roll=0.048)
+[075] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 4 x 1 Esporte Clube Villa Nova
+[075] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.421 roll=0.539
+[076] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 4 x 1 Esporte Clube Villa Nova
+[076] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.455 roll=0.348
+[076] JOGADA Esporte Clube Villa Nova | Richard Banks x Giani Cipriano line=3 duel=21.34 corte=-1.30
+[076] FINAL Esporte Clube Villa Nova | Venâncio Maggi fam=5 duel=9.87 on_target=0.636 goal=0.173
+[076] FINAL Venâncio Maggi: no alvo sem gol (roll=0.296)
+[077] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 4 x 1 Esporte Clube Villa Nova
+[077] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.455 roll=0.265
+[077] JOGADA Esporte Clube Villa Nova | Nataniel Almeida x Marco Vargas line=2 duel=6.67 corte=-1.30
+[077] FINAL Esporte Clube Villa Nova | Carl Smith fam=3 duel=12.28 on_target=0.674 goal=0.220
+[077] FINAL Carl Smith: GOL subtipo=CHUTE (roll=0.217)
+[078] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 4 x 2 Esporte Clube Villa Nova
+[078] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.381 roll=0.404
+[079] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 4 x 2 Esporte Clube Villa Nova
+[079] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.451 roll=0.773
+[080] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 4 x 2 Esporte Clube Villa Nova
+[080] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.451 roll=0.103
+[080] JOGADA Esporte Clube Villa Nova | Ancelmo Brandão x Jonatas Ortiz line=2 duel=42.44 corte=-1.30
+[080] FINAL Esporte Clube Villa Nova | Richard Banks fam=5 duel=-5.02 on_target=0.635 goal=0.165
+[080] FINAL Richard Banks: fora/alvo perdido (roll=0.896)
+[081] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 4 x 2 Esporte Clube Villa Nova
+[081] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.381 roll=0.169
+[081] JOGADA Clube da Liberdade Jovem | Bajo Gandulla x Carlos Macedo line=5 duel=63.81 corte=-1.55
+[081] FINAL Clube da Liberdade Jovem | Giani Cipriano fam=1 duel=0.94 on_target=0.642 goal=0.223
+[081] FINAL Giani Cipriano: fora/alvo perdido (roll=0.697)
+[082] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 4 x 2 Esporte Clube Villa Nova
+[082] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.381 roll=0.537
+[083] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 4 x 2 Esporte Clube Villa Nova
+[083] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.451 roll=0.217
+[083] JOGADA Esporte Clube Villa Nova | Ancelmo Brandão x Bajo Gandulla line=3 duel=7.92 corte=-1.30
+[083] FINAL Esporte Clube Villa Nova | Roberto Rico fam=5 duel=-0.21 on_target=0.635 goal=0.166
+[083] FINAL Roberto Rico: no alvo sem gol (roll=0.431)
+[084] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 4 x 2 Esporte Clube Villa Nova
+[084] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.451 roll=0.532
+[085] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 4 x 2 Esporte Clube Villa Nova
+[085] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.381 roll=0.987
+[086] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 4 x 2 Esporte Clube Villa Nova
+[086] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.381 roll=0.569
+[087] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 4 x 2 Esporte Clube Villa Nova
+[087] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.475 roll=0.409
+[087] JOGADA Esporte Clube Villa Nova | Carl Smith x Jonatas Ortiz line=2 duel=61.10 corte=-1.30
+[087] FINAL Esporte Clube Villa Nova | Roberto Rico fam=5 duel=-48.09 on_target=0.672 goal=0.143
+[087] FINAL Roberto Rico: GOL subtipo=FALTA (roll=0.085)
+[088] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 4 x 3 Esporte Clube Villa Nova
+[088] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.385 roll=0.352
+[088] JOGADA Clube da Liberdade Jovem | Giani Cipriano x Álvaro Pioli line=4 duel=-3.73 corte=-1.30
+[088] JOGADA falhou: Álvaro Pioli cortou
+[089] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 4 x 3 Esporte Clube Villa Nova
+[089] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.385 roll=0.138
+[089] JOGADA Clube da Liberdade Jovem | Jonatas Ortiz x Nataniel Almeida line=4 duel=6.59 corte=-1.30
+[089] FINAL Clube da Liberdade Jovem | Indomável Andorinha fam=1 duel=7.92 on_target=0.655 goal=0.234
+[089] FINAL Indomável Andorinha: no alvo sem gol (roll=0.634)
+[090] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 4 x 3 Esporte Clube Villa Nova
+[090] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.385 roll=0.259
+[090] JOGADA Clube da Liberdade Jovem | Bajo Gandulla x Nataniel Almeida line=4 duel=75.87 corte=-1.30
+[090] FINAL Clube da Liberdade Jovem | Giani Cipriano fam=1 duel=-0.10 on_target=0.655 goal=0.231
+[090] FINAL Giani Cipriano: no alvo sem gol (roll=0.877)
+[091] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 4 x 3 Esporte Clube Villa Nova
+[091] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.470 roll=0.825
+[092] posse=Esporte Clube Villa Nova | placar Clube da Liberdade Jovem 4 x 3 Esporte Clube Villa Nova
+[092] BUILD Esporte Clube Villa Nova vs Clube da Liberdade Jovem prob=0.470 roll=0.370
+[092] JOGADA Esporte Clube Villa Nova | Richard Banks x Victor Daniel line=2 duel=53.97 corte=-1.30
+[092] FINAL Esporte Clube Villa Nova | Nataniel Almeida fam=5 duel=-4.13 on_target=0.672 goal=0.162
+[092] FINAL Nataniel Almeida: no alvo sem gol (roll=0.350)
+[093] posse=Clube da Liberdade Jovem | placar Clube da Liberdade Jovem 4 x 3 Esporte Clube Villa Nova
+[093] BUILD Clube da Liberdade Jovem vs Esporte Clube Villa Nova prob=0.385 roll=0.636

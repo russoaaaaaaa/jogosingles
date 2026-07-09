@@ -1,0 +1,316 @@
+Partida #118
+Data: 1912-01-08
+Mandante: Associação Portuguesa de Desportos
+Visitante: Clube de Regatas do Tietê
+Placar: 1 x 0
+Seed: -
+Estádio: Arena Cambuci
+Clima: Chuva forte
+Placar tempo normal: 1 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Associação Portuguesa de Desportos x Clube de Regatas do Tietê | estádio=Arena Cambuci | clima=Chuva forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[001] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.321 roll=0.549
+[002] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[002] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.355 roll=0.646
+[003] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[003] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.321 roll=0.908
+[004] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[004] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.321 roll=0.832
+[005] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[005] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.355 roll=0.411
+[006] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[006] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.321 roll=0.233
+[006] JOGADA Clube de Regatas do Tietê | Francisco Villa x Bruno Villa line=3 duel=32.86 corte=-1.30
+[006] FINAL Clube de Regatas do Tietê | Hugo Gali fam=5 duel=3.42 on_target=0.519 goal=0.140
+[006] FINAL Hugo Gali: fora/alvo perdido (roll=0.948)
+[007] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[007] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.321 roll=0.943
+[008] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[008] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.321 roll=0.067
+[008] JOGADA Clube de Regatas do Tietê | Emannuel Francardi x Félix Garcia line=2 duel=59.30 corte=-1.30
+[008] FINAL Clube de Regatas do Tietê | Francisco Villa fam=5 duel=-74.28 on_target=0.514 goal=0.108
+[008] FINAL Francisco Villa: no alvo sem gol (roll=0.913)
+[009] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[009] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.355 roll=0.320
+[009] JOGADA Associação Portuguesa de Desportos | Merdêncio Braga x João Hélio line=4 duel=66.02 corte=-1.14
+[009] FINAL Associação Portuguesa de Desportos | Trajano Passos fam=1 duel=1.97 on_target=0.598 goal=0.220
+[009] FINAL Trajano Passos: no alvo sem gol (roll=0.450)
+[010] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[010] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.321 roll=0.254
+[010] JOGADA Clube de Regatas do Tietê | Marcelinho Goyano x Félix Garcia line=3 duel=6.75 corte=-1.30
+[010] FINAL Clube de Regatas do Tietê | Francisco Villa fam=5 duel=-74.29 on_target=0.514 goal=0.108
+[010] FINAL Francisco Villa: fora/alvo perdido (roll=0.564)
+[011] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[011] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.347 roll=0.448
+[012] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[012] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.384 roll=0.524
+[013] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[013] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.384 roll=0.812
+[014] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[014] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.384 roll=0.858
+[015] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[015] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.384 roll=0.623
+[016] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[016] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.384 roll=0.834
+[017] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[017] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.384 roll=0.993
+[018] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[018] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.347 roll=0.963
+[019] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[019] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.384 roll=0.297
+[019] JOGADA Associação Portuguesa de Desportos | Merdêncio Braga x Geraldo Barros Freitas line=5 duel=60.19 corte=-1.89
+[019] FINAL Associação Portuguesa de Desportos | Fernando Kock fam=1 duel=-0.37 on_target=0.648 goal=0.235
+[019] FINAL Fernando Kock: no alvo sem gol (roll=0.482)
+[020] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[020] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.384 roll=0.881
+[021] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[021] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.373 roll=0.337
+[021] JOGADA Clube de Regatas do Tietê | Hugo Gali x Fernando Kock line=3 duel=24.59 corte=-1.30
+[021] FINAL Clube de Regatas do Tietê | Júlio Mendonça Pacheco fam=5 duel=-6.35 on_target=0.589 goal=0.150
+[021] FINAL Júlio Mendonça Pacheco: fora/alvo perdido (roll=0.740)
+[022] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[022] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.373 roll=0.467
+[023] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[023] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.413 roll=0.207
+[023] JOGADA Associação Portuguesa de Desportos | Plínio Macieira x João Hélio line=3 duel=58.82 corte=-1.14
+[023] FINAL Associação Portuguesa de Desportos | Plínio Macieira fam=1 duel=-2.44 on_target=0.682 goal=0.241
+[023] FINAL Plínio Macieira: fora/alvo perdido (roll=0.910)
+[024] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[024] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.413 roll=0.708
+[025] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[025] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.373 roll=0.836
+[026] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[026] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.413 roll=0.902
+[027] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[027] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.413 roll=0.327
+[027] JOGADA Associação Portuguesa de Desportos | Elias Moura x João Hélio line=4 duel=-3.35 corte=-1.14
+[028] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[028] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.373 roll=0.936
+[029] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[029] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.373 roll=0.371
+[029] JOGADA Clube de Regatas do Tietê | Hugo Gali x Mateus de Borba line=3 duel=-6.40 corte=-1.30
+[029] JOGADA falhou: Mateus de Borba cortou
+[030] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[030] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.413 roll=0.493
+[031] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[031] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.413 roll=0.262
+[031] JOGADA Associação Portuguesa de Desportos | Merdêncio Braga x Júlio Mendonça Pacheco line=4 duel=-6.46 corte=-1.14
+[031] JOGADA falhou: Júlio Mendonça Pacheco cortou
+[032] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[032] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.413 roll=0.734
+[033] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[033] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.376 roll=0.585
+[034] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[034] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.376 roll=0.427
+[035] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[035] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.376 roll=0.427
+[036] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[036] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.376 roll=0.372
+[036] JOGADA Clube de Regatas do Tietê | Francisco Villa x Isagi Yoichi line=4 duel=-18.07 corte=-1.30
+[036] JOGADA falhou: Isagi Yoichi cortou
+[037] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[037] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.413 roll=0.208
+[037] JOGADA Associação Portuguesa de Desportos | Félix Garcia x Geraldo Barros Freitas line=5 duel=61.07 corte=-1.38
+[037] FINAL Associação Portuguesa de Desportos | Merdêncio Braga fam=1 duel=-13.53 on_target=0.680 goal=0.235
+[037] FINAL Merdêncio Braga: fora/alvo perdido (roll=0.781)
+[038] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[038] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.376 roll=0.685
+[039] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[039] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.413 roll=0.126
+[039] JOGADA Associação Portuguesa de Desportos | Bruno Villa x Francisco Villa line=3 duel=25.10 corte=-1.13
+[039] FINAL Associação Portuguesa de Desportos | Merdêncio Braga fam=1 duel=-14.25 on_target=0.680 goal=0.235
+[039] FINAL Merdêncio Braga: no alvo sem gol (roll=0.807)
+[040] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[040] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.413 roll=0.084
+[040] JOGADA Associação Portuguesa de Desportos | Elias Moura x Hugo Gali line=5 duel=66.81 corte=-1.38
+[040] FINAL Associação Portuguesa de Desportos | Merdêncio Braga fam=1 duel=-11.46 on_target=0.680 goal=0.236
+[040] FINAL Merdêncio Braga: no alvo sem gol (roll=0.737)
+[041] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[041] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.413 roll=0.671
+[042] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[042] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.413 roll=0.423
+[043] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[043] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.413 roll=0.942
+[044] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[044] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.376 roll=0.523
+[045] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[045] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.376 roll=0.173
+[045] JOGADA Clube de Regatas do Tietê | Marcelinho Goyano x Plínio Macieira line=3 duel=6.02 corte=-1.30
+[045] FINAL Clube de Regatas do Tietê | Júlio Mendonça Pacheco fam=5 duel=-61.70 on_target=0.586 goal=0.125
+[045] FINAL Júlio Mendonça Pacheco: fora/alvo perdido (roll=0.607)
+[046] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[046] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.349 roll=0.724
+[047] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[047] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.349 roll=0.425
+[048] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[048] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.349 roll=0.330
+[048] JOGADA Clube de Regatas do Tietê | Emannuel Francardi x Bruno Villa line=2 duel=56.87 corte=-1.30
+[048] FINAL Clube de Regatas do Tietê | Arão Honrado fam=5 duel=-61.79 on_target=0.557 goal=0.121
+[048] FINAL Arão Honrado: no alvo sem gol (roll=0.692)
+[049] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[049] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.384 roll=0.375
+[049] JOGADA Associação Portuguesa de Desportos | Merdêncio Braga x Marcelinho Goyano line=4 duel=36.80 corte=-1.13
+[049] FINAL Associação Portuguesa de Desportos | Fernando Kock fam=1 duel=-3.87 on_target=0.648 goal=0.233
+[049] FINAL Fernando Kock: no alvo sem gol (roll=0.605)
+[050] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[050] SUB Associação Portuguesa de Desportos: saiu Merdêncio Braga (SA) | entrou Octávio Góes (SA) | subs=1/5
+[050] SUB Clube de Regatas do Tietê: saiu Francisco Villa (SA) | entrou Pato Hernandez (MA) | subs=1/5
+[050] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.385 roll=0.916
+[051] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[051] SUB Associação Portuguesa de Desportos: saiu Fernando Kock (CA) | entrou Tchuca (PE) | subs=2/5
+[051] SUB Clube de Regatas do Tietê: saiu Hugo Gali (CA) | entrou Garibaldo Nunes (CA) | subs=2/5
+[051] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.349 roll=0.653
+[052] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[052] SUB Clube de Regatas do Tietê: saiu Celso Pacheco (ZAG) | entrou Nuno Chaves (ZAG) | subs=3/5
+[052] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.387 roll=0.327
+[052] JOGADA Associação Portuguesa de Desportos | Tchuca x João Hélio line=5 duel=27.70 corte=-1.88
+[052] FINAL Associação Portuguesa de Desportos | Octávio Góes fam=3 duel=20.33 on_target=0.588 goal=0.189
+[052] FINAL Octávio Góes: no alvo sem gol (roll=0.299)
+[053] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[053] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.387 roll=0.223
+[053] JOGADA Associação Portuguesa de Desportos | Octávio Góes x João Hélio line=5 duel=105.37 corte=-1.88
+[053] FINAL Associação Portuguesa de Desportos | Octávio Góes fam=1 duel=24.10 on_target=0.648 goal=0.245
+[053] FINAL Octávio Góes: fora/alvo perdido (roll=0.952)
+[054] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[054] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.387 roll=0.787
+[055] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[055] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.348 roll=0.144
+[055] JOGADA Clube de Regatas do Tietê | Marcelinho Goyano x Octávio Góes line=4 duel=3.59 corte=-1.30
+[055] JOGADA Clube de Regatas do Tietê | Geraldo Barros Freitas x Octávio Góes line=4 duel=-4.17 corte=-1.30
+[056] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[056] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.416 roll=0.333
+[056] JOGADA Associação Portuguesa de Desportos | Bruno Villa x Marcelinho Goyano line=4 duel=3.55 corte=-1.13
+[056] FINAL Associação Portuguesa de Desportos | Tchuca fam=1 duel=27.88 on_target=0.683 goal=0.254
+[056] FINAL Tchuca: no alvo sem gol (roll=0.768)
+[057] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[057] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.416 roll=1.000
+[058] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[058] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.375 roll=0.349
+[058] JOGADA Clube de Regatas do Tietê | Marcelinho Goyano x Tchuca line=4 duel=15.23 corte=-1.30
+[058] FINAL Clube de Regatas do Tietê | Garibaldo Nunes fam=5 duel=-23.50 on_target=0.589 goal=0.143
+[058] FINAL Garibaldo Nunes: no alvo sem gol (roll=0.437)
+[059] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 0 x 0 Clube de Regatas do Tietê
+[059] SUB Associação Portuguesa de Desportos: saiu Isagi Yoichi (LE) | entrou Cassandro Gusmão (AD) | subs=3/5
+[059] SUB Clube de Regatas do Tietê: saiu Arão Honrado (MC) | entrou Horácio Silvestre (MC) | subs=4/5
+[059] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.419 roll=0.895
+[059] FINAL Associação Portuguesa de Desportos | Júlio Veríssimo fam=5 duel=3.55 on_target=0.581 goal=0.143
+[059] FINAL Júlio Veríssimo: GOL subtipo=FALTA (roll=0.129)
+[060] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[060] SUB Clube de Regatas do Tietê: saiu João Hélio (LD) | entrou Lopes França (AD) | subs=5/5
+[060] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.421 roll=0.567
+[061] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[061] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.417 roll=0.670
+[062] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[062] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.421 roll=0.821
+[063] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[063] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.421 roll=0.109
+[063] JOGADA Clube de Regatas do Tietê | Emannuel Francardi x Félix Garcia line=3 duel=0.03 corte=-1.30
+[063] FINAL Clube de Regatas do Tietê | Marcelinho Goyano fam=5 duel=-0.76 on_target=0.590 goal=0.156
+[063] FINAL Marcelinho Goyano: fora/alvo perdido (roll=0.797)
+[064] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[064] SUB Associação Portuguesa de Desportos: saiu Elias Moura (ZAG) | entrou Felipe Tavares (VOL) | subs=4/5
+[064] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.429 roll=0.610
+[065] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[065] SUB Associação Portuguesa de Desportos: saiu Mateus de Borba (VOL) | entrou Lucas Monteverde (MC) | subs=5/5
+[065] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.426 roll=0.741
+[066] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[066] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.426 roll=0.935
+[067] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[067] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.426 roll=0.981
+[068] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[068] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.426 roll=0.864
+[069] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[069] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.415 roll=0.065
+[069] JOGADA Associação Portuguesa de Desportos | Tchuca x Marcelinho Goyano line=3 duel=89.10 corte=-1.30
+[069] FINAL Associação Portuguesa de Desportos | Felipe Tavares fam=3 duel=17.57 on_target=0.618 goal=0.193
+[069] FINAL Felipe Tavares: no alvo sem gol (roll=0.377)
+[070] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[070] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.411 roll=0.306
+[070] JOGADA Associação Portuguesa de Desportos | Felipe Tavares x Garibaldo Nunes line=5 duel=77.24 corte=-1.55
+[070] FINAL Associação Portuguesa de Desportos | Octávio Góes fam=1 duel=17.41 on_target=0.669 goal=0.250
+[070] FINAL Octávio Góes: no alvo sem gol (roll=0.782)
+[071] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[071] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.426 roll=0.886
+[072] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[072] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.426 roll=0.478
+[073] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[073] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.426 roll=0.301
+[073] JOGADA Clube de Regatas do Tietê | Garibaldo Nunes x Júlio Veríssimo line=3 duel=6.50 corte=-1.30
+[073] FINAL Clube de Regatas do Tietê | Marcelinho Goyano fam=5 duel=-48.89 on_target=0.587 goal=0.133
+[073] FINAL Marcelinho Goyano: fora/alvo perdido (roll=0.895)
+[074] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[074] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.426 roll=0.362
+[074] JOGADA Clube de Regatas do Tietê | Horácio Silvestre x Tchuca line=3 duel=19.55 corte=-1.30
+[074] FINAL Clube de Regatas do Tietê | Lopes França fam=5 duel=-49.88 on_target=0.587 goal=0.133
+[074] FINAL Lopes França: fora/alvo perdido (roll=0.590)
+[075] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[075] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.410 roll=0.034
+[075] JOGADA Associação Portuguesa de Desportos | Tchuca x Júlio Mendonça Pacheco line=3 duel=83.86 corte=-1.30
+[075] FINAL Associação Portuguesa de Desportos | Tchuca fam=3 duel=20.76 on_target=0.607 goal=0.189
+[075] FINAL Tchuca: fora/alvo perdido (roll=0.936)
+[076] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[076] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.460 roll=0.043
+[076] JOGADA Clube de Regatas do Tietê | Nuno Chaves x Bruno Villa line=2 duel=84.00 corte=-1.30
+[076] FINAL Clube de Regatas do Tietê | Lopes França fam=5 duel=-50.59 on_target=0.628 goal=0.139
+[076] FINAL Lopes França: no alvo sem gol (roll=0.295)
+[077] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[077] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.398 roll=0.194
+[077] JOGADA Associação Portuguesa de Desportos | Plínio Macieira x Lopes França line=4 duel=12.76 corte=-1.30
+[077] FINAL Associação Portuguesa de Desportos | Octávio Góes fam=1 duel=10.21 on_target=0.655 goal=0.237
+[077] FINAL Octávio Góes: no alvo sem gol (roll=0.247)
+[078] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[078] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.460 roll=0.889
+[079] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[079] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.460 roll=0.959
+[080] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[080] LESÃO Clube de Regatas do Tietê: Garibaldo Nunes | lesão muscular séria | gravidade=seria | 8 jogo(s)
+[080] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.460 roll=0.861
+[081] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[081] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.460 roll=0.043
+[081] JOGADA Clube de Regatas do Tietê | Pato Hernandez x Bruno Villa line=3 duel=18.88 corte=-1.30
+[081] FINAL Clube de Regatas do Tietê | Marcelinho Goyano fam=5 duel=-5.59 on_target=0.631 goal=0.161
+[081] FINAL Marcelinho Goyano: no alvo sem gol (roll=0.625)
+[082] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[082] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.398 roll=0.161
+[082] JOGADA Associação Portuguesa de Desportos | Júlio Veríssimo x Nuno Chaves line=4 duel=14.04 corte=-1.30
+[082] FINAL Associação Portuguesa de Desportos | Trajano Passos fam=3 duel=-2.05 on_target=0.592 goal=0.176
+[082] FINAL Trajano Passos: no alvo sem gol (roll=0.230)
+[083] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[083] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.398 roll=0.707
+[084] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[084] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.398 roll=0.032
+[084] JOGADA Associação Portuguesa de Desportos | Tchuca x Lopes França line=4 duel=78.31 corte=-1.30
+[084] FINAL Associação Portuguesa de Desportos | Tchuca fam=3 duel=-10.15 on_target=0.593 goal=0.173
+[084] FINAL Tchuca: no alvo sem gol (roll=0.812)
+[085] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[085] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.398 roll=0.989
+[086] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[086] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.484 roll=0.616
+[087] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[087] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.398 roll=0.207
+[087] JOGADA Associação Portuguesa de Desportos | Tchuca x Pato Hernandez line=3 duel=7.12 corte=-1.30
+[087] FINAL Associação Portuguesa de Desportos | Felipe Tavares fam=3 duel=6.02 on_target=0.593 goal=0.179
+[087] FINAL Felipe Tavares: no alvo sem gol (roll=0.239)
+[088] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[088] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.484 roll=0.307
+[088] JOGADA Clube de Regatas do Tietê | Lopes França x Cassandro Gusmão line=2 duel=56.93 corte=-1.30
+[088] FINAL Clube de Regatas do Tietê | Pato Hernandez fam=5 duel=-33.45 on_target=0.670 goal=0.147
+[088] FINAL Pato Hernandez: no alvo sem gol (roll=0.680)
+[089] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[089] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.484 roll=0.047
+[089] JOGADA Clube de Regatas do Tietê | Nuno Chaves x Felipe Tavares line=3 duel=12.51 corte=-1.30
+[089] FINAL Clube de Regatas do Tietê | Júlio Mendonça Pacheco fam=5 duel=-4.69 on_target=0.673 goal=0.161
+[089] FINAL Júlio Mendonça Pacheco: no alvo sem gol (roll=0.263)
+[090] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[090] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.484 roll=0.574
+[091] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[091] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.398 roll=0.871
+[092] posse=Associação Portuguesa de Desportos | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[092] BUILD Associação Portuguesa de Desportos vs Clube de Regatas do Tietê prob=0.398 roll=0.779
+[093] posse=Clube de Regatas do Tietê | placar Associação Portuguesa de Desportos 1 x 0 Clube de Regatas do Tietê
+[093] BUILD Clube de Regatas do Tietê vs Associação Portuguesa de Desportos prob=0.484 roll=0.998

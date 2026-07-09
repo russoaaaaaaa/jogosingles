@@ -1,0 +1,311 @@
+Partida #86
+Data: 1912-01-07
+Mandante: Esporte Clube Carioca
+Visitante: Manufatora Nacional de Porcelanas FC
+Placar: 3 x 0
+Seed: -
+Estádio: Arena Larson
+Clima: Nublado
+Placar tempo normal: 3 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Esporte Clube Carioca x Manufatora Nacional de Porcelanas FC | estádio=Arena Larson | clima=Nublado | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 0 x 0 Manufatora Nacional de Porcelanas FC
+[001] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.366 roll=0.230
+[001] JOGADA Esporte Clube Carioca | Getúlio Leitão x Torquato Custódio line=3 duel=20.96 corte=-1.12
+[001] FINAL Esporte Clube Carioca | Filémon Matos fam=1 duel=-4.55 on_target=0.672 goal=0.243
+[001] FINAL Filémon Matos: GOL subtipo=CHUTE (roll=0.222)
+[002] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[002] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.366 roll=0.670
+[003] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[003] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.348 roll=0.852
+[004] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[004] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.366 roll=0.935
+[005] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[005] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.348 roll=0.555
+[006] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[006] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.348 roll=0.881
+[007] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[007] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.348 roll=0.490
+[008] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[008] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.348 roll=0.811
+[009] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[009] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.348 roll=0.393
+[010] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[010] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.348 roll=0.938
+[011] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[011] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.377 roll=0.555
+[012] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[012] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.396 roll=0.930
+[013] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[013] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.396 roll=0.641
+[014] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[014] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.396 roll=0.785
+[015] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[015] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.377 roll=0.425
+[016] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[016] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.377 roll=0.160
+[016] JOGADA Manufatora Nacional de Porcelanas FC | Torquato Custódio x Wilfrid Aurmund line=4 duel=0.28 corte=-1.30
+[016] JOGADA Manufatora Nacional de Porcelanas FC | Torquato Custódio x Getúlio Leitão line=5 duel=-6.35 corte=-1.55
+[016] JOGADA falhou: Getúlio Leitão cortou
+[017] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[017] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.396 roll=0.384
+[017] JOGADA Esporte Clube Carioca | Oliver Lindström x Absalão de Castro line=2 duel=5.57 corte=-1.30
+[017] FINAL Esporte Clube Carioca | Hugo Bergiund fam=1 duel=6.39 on_target=0.729 goal=0.266
+[017] FINAL Hugo Bergiund: no alvo sem gol (roll=0.669)
+[018] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[018] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.396 roll=0.635
+[019] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[019] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.396 roll=0.160
+[019] JOGADA Esporte Clube Carioca | Hugo Bergiund x Hamilton Madureira line=4 duel=-55.85 corte=-1.30
+[019] JOGADA falhou: Hamilton Madureira cortou
+[020] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[020] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.377 roll=0.475
+[021] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[021] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.426 roll=0.087
+[021] JOGADA Esporte Clube Carioca | Getúlio Leitão x Marino Moreira line=3 duel=11.42 corte=-1.30
+[021] FINAL Esporte Clube Carioca | Hugo Bergiund fam=1 duel=4.35 on_target=0.767 goal=0.273
+[021] FINAL Hugo Bergiund: no alvo sem gol (roll=0.886)
+[022] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[022] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.405 roll=0.084
+[022] JOGADA Manufatora Nacional de Porcelanas FC | Porcelano x Oliver Lindström line=3 duel=-4.85 corte=-1.30
+[022] JOGADA falhou: Oliver Lindström cortou
+[023] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[023] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.426 roll=0.769
+[024] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[024] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.426 roll=0.257
+[024] JOGADA Esporte Clube Carioca | Wilhem Foort x Didaco Dias line=3 duel=22.55 corte=-1.30
+[024] FINAL Esporte Clube Carioca | Johan Lindström fam=1 duel=12.26 on_target=0.765 goal=0.276
+[024] FINAL Johan Lindström: no alvo sem gol (roll=0.575)
+[025] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[025] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.405 roll=0.137
+[025] JOGADA Manufatora Nacional de Porcelanas FC | Marino Moreira x Hemaxi Custódio line=3 duel=-1.87 corte=-1.30
+[025] JOGADA falhou: Hemaxi Custódio cortou
+[026] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[026] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.405 roll=0.966
+[027] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[027] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.405 roll=0.673
+[028] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[028] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.405 roll=0.328
+[028] JOGADA Manufatora Nacional de Porcelanas FC | Gaudêncio Assunção x Wilhem Foort line=3 duel=-15.98 corte=-1.30
+[028] JOGADA falhou: Wilhem Foort cortou
+[029] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[029] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.426 roll=0.263
+[029] JOGADA Esporte Clube Carioca | Oliver Lindström x Didaco Dias line=3 duel=19.42 corte=-1.30
+[029] FINAL Esporte Clube Carioca | Wilfrid Aurmund fam=1 duel=-5.33 on_target=0.765 goal=0.267
+[029] FINAL Wilfrid Aurmund: no alvo sem gol (roll=0.967)
+[030] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[030] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.426 roll=0.450
+[031] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[031] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.426 roll=0.997
+[032] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[032] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.426 roll=0.430
+[033] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[033] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.426 roll=0.867
+[034] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[034] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.426 roll=0.750
+[035] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[035] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.405 roll=0.659
+[036] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[036] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.426 roll=0.417
+[036] JOGADA Esporte Clube Carioca | Getúlio Leitão x Absalão de Castro line=3 duel=14.85 corte=-1.30
+[036] FINAL Esporte Clube Carioca | Hugo Bergiund fam=1 duel=-1.86 on_target=0.766 goal=0.270
+[036] FINAL Hugo Bergiund: no alvo sem gol (roll=0.416)
+[037] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[037] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.426 roll=0.485
+[038] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 1 x 0 Manufatora Nacional de Porcelanas FC
+[038] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.426 roll=0.294
+[038] JOGADA Esporte Clube Carioca | Wilfrid Aurmund x Marino Moreira line=2 duel=58.67 corte=-1.30
+[038] FINAL Esporte Clube Carioca | Hugo Bergiund fam=1 duel=-4.73 on_target=0.766 goal=0.268
+[038] FINAL Hugo Bergiund: GOL subtipo=CHUTE (roll=0.228)
+[039] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 2 x 0 Manufatora Nacional de Porcelanas FC
+[039] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.419 roll=0.252
+[039] JOGADA Esporte Clube Carioca | Getúlio Leitão x Didaco Dias line=4 duel=2.96 corte=-1.30
+[039] JOGADA Esporte Clube Carioca | Hugo Bergiund x Firmo Machado line=4 duel=24.07 corte=-1.30
+[039] JOGADA Esporte Clube Carioca | Oliver Lindström x Gaudêncio Assunção line=5 duel=18.80 corte=-1.55
+[039] FINAL Esporte Clube Carioca | Hugo Bergiund fam=1 duel=-4.29 on_target=0.744 goal=0.256
+[039] FINAL Hugo Bergiund: fora/alvo perdido (roll=0.920)
+[040] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 2 x 0 Manufatora Nacional de Porcelanas FC
+[040] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.409 roll=0.751
+[041] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 2 x 0 Manufatora Nacional de Porcelanas FC
+[041] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.409 roll=0.904
+[042] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 2 x 0 Manufatora Nacional de Porcelanas FC
+[042] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.409 roll=0.089
+[042] JOGADA Manufatora Nacional de Porcelanas FC | Didaco Dias x Filémon Matos line=4 duel=-66.41 corte=-1.30
+[042] JOGADA falhou: Filémon Matos cortou
+[043] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 2 x 0 Manufatora Nacional de Porcelanas FC
+[043] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.409 roll=0.607
+[044] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 2 x 0 Manufatora Nacional de Porcelanas FC
+[044] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.409 roll=0.349
+[044] JOGADA Manufatora Nacional de Porcelanas FC | Absalão de Castro x Wilfrid Aurmund line=2 duel=50.23 corte=-1.30
+[044] FINAL Manufatora Nacional de Porcelanas FC | Manufator de Gols fam=5 duel=-8.30 on_target=0.667 goal=0.174
+[044] FINAL Manufator de Gols: no alvo sem gol (roll=0.409)
+[045] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 2 x 0 Manufatora Nacional de Porcelanas FC
+[045] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.419 roll=0.079
+[045] JOGADA Esporte Clube Carioca | Johan Lindström x Absalão de Castro line=2 duel=95.93 corte=-1.30
+[045] FINAL Esporte Clube Carioca | Wilhem Foort fam=3 duel=-2.00 on_target=0.673 goal=0.196
+[045] FINAL Wilhem Foort: GOL subtipo=CHUTE (roll=0.032)
+[046] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[046] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.384 roll=0.558
+[047] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[047] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.384 roll=0.199
+[047] JOGADA Esporte Clube Carioca | Hemaxi Custódio x Porcelano line=3 duel=13.72 corte=-1.30
+[047] FINAL Esporte Clube Carioca | Johan Lindström fam=1 duel=20.61 on_target=0.685 goal=0.247
+[047] FINAL Johan Lindström: no alvo sem gol (roll=0.423)
+[048] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[048] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.384 roll=0.968
+[049] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[049] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.384 roll=0.753
+[050] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[050] SUB Esporte Clube Carioca: saiu Wilfrid Aurmund (SA) | entrou Nils Nil (SA) | subs=1/5
+[050] SUB Manufatora Nacional de Porcelanas FC: saiu Firmo Machado (CA) | entrou Silvestre Texeira (CA) | subs=1/5
+[050] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.368 roll=0.597
+[051] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[051] SUB Esporte Clube Carioca: saiu Hugo Bergiund (CA) | entrou João Oliveira (CA) | subs=2/5
+[051] SUB Manufatora Nacional de Porcelanas FC: saiu Manufator de Gols (SA) | entrou Râdamas Seixas (PE) | subs=2/5
+[051] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.358 roll=0.335
+[051] JOGADA Manufatora Nacional de Porcelanas FC | Silvestre Texeira x João Oliveira line=2 duel=7.90 corte=-1.30
+[051] FINAL Manufatora Nacional de Porcelanas FC | Didaco Dias fam=1 duel=-24.83 on_target=0.724 goal=0.256
+[051] FINAL Didaco Dias: no alvo sem gol (roll=0.391)
+[052] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[052] SUB Manufatora Nacional de Porcelanas FC: saiu Absalão de Castro (LD) | entrou Válter Brito (AE) | subs=3/5
+[052] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.380 roll=0.549
+[053] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[053] SUB Manufatora Nacional de Porcelanas FC: saiu Torquato Custódio (ZAG) | entrou Lindorfo Azevedo (ZAG) | subs=4/5
+[053] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.381 roll=0.906
+[054] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[054] SUB Manufatora Nacional de Porcelanas FC: saiu Didaco Dias (MA) | entrou Alamiro Morais (MD) | subs=5/5
+[054] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.379 roll=0.897
+[055] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[055] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.379 roll=0.728
+[056] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[056] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.387 roll=0.929
+[057] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[057] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.407 roll=0.143
+[057] JOGADA Esporte Clube Carioca | Oliver Lindström x Marino Moreira line=4 duel=18.41 corte=-1.30
+[057] JOGADA Esporte Clube Carioca | Clife Topete x Válter Brito line=4 duel=14.94 corte=-1.30
+[057] FINAL Esporte Clube Carioca | João Oliveira fam=1 duel=27.97 on_target=0.724 goal=0.260
+[057] FINAL João Oliveira: no alvo sem gol (roll=0.433)
+[058] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[058] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.387 roll=0.250
+[058] JOGADA Manufatora Nacional de Porcelanas FC | Porcelano x Filémon Matos line=3 duel=-5.08 corte=-1.30
+[058] JOGADA falhou: Filémon Matos cortou
+[059] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[059] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.407 roll=0.084
+[059] JOGADA Esporte Clube Carioca | Filémon Matos x Porcelano line=2 duel=-3.59 corte=-1.30
+[059] JOGADA falhou: Porcelano cortou
+[060] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[060] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.407 roll=0.773
+[060] FINAL Esporte Clube Carioca | Wilhem Foort fam=5 duel=2.46 on_target=0.616 goal=0.146
+[060] FINAL Wilhem Foort: no alvo sem gol (roll=0.982)
+[061] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[061] SUB Esporte Clube Carioca: saiu Wilhem Foort (MC) | entrou Erik Holmberg (MC) | subs=3/5
+[061] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.391 roll=0.229
+[061] JOGADA Manufatora Nacional de Porcelanas FC | Râdamas Seixas x João Oliveira line=4 duel=18.17 corte=-1.30
+[061] JOGADA Manufatora Nacional de Porcelanas FC | Marino Moreira x Oliver Lindström line=4 duel=-13.95 corte=-1.30
+[062] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[062] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.407 roll=0.494
+[063] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[063] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.391 roll=0.682
+[064] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[064] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.407 roll=0.222
+[064] JOGADA Esporte Clube Carioca | Johan Lindström x Alamiro Morais line=4 duel=11.36 corte=-1.30
+[064] FINAL Esporte Clube Carioca | João Oliveira fam=3 duel=16.61 on_target=0.656 goal=0.198
+[064] FINAL João Oliveira: fora/alvo perdido (roll=0.854)
+[065] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[065] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.407 roll=0.246
+[065] JOGADA Esporte Clube Carioca | Clife Topete x Râdamas Seixas line=3 duel=34.56 corte=-1.30
+[065] FINAL Esporte Clube Carioca | Filémon Matos fam=1 duel=20.48 on_target=0.721 goal=0.255
+[065] FINAL Filémon Matos: no alvo sem gol (roll=0.951)
+[066] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[066] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.391 roll=0.546
+[067] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[067] SUB Esporte Clube Carioca: saiu Alex Valente (LE) | entrou Isidoro Varela (AE) | subs=4/5
+[067] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.389 roll=0.655
+[068] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[068] SUB Esporte Clube Carioca: saiu Hemaxi Custódio (ZAG) | entrou Aristóteles Coelho (ZAG) | subs=5/5
+[068] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.392 roll=0.378
+[068] JOGADA Manufatora Nacional de Porcelanas FC | Porcelano x Johan Lindström line=3 duel=4.51 corte=-1.30
+[068] FINAL Manufatora Nacional de Porcelanas FC | Marino Moreira fam=5 duel=-50.70 on_target=0.663 goal=0.152
+[068] FINAL Marino Moreira: no alvo sem gol (roll=0.514)
+[069] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[069] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.392 roll=0.405
+[070] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[070] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.407 roll=0.984
+[071] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[071] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.407 roll=0.604
+[072] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[072] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.392 roll=0.218
+[072] JOGADA Manufatora Nacional de Porcelanas FC | Gaudêncio Assunção x Filémon Matos line=2 duel=0.60 corte=-1.30
+[072] FINAL Manufatora Nacional de Porcelanas FC | Silvestre Texeira fam=5 duel=-11.09 on_target=0.665 goal=0.172
+[072] FINAL Silvestre Texeira: no alvo sem gol (roll=0.942)
+[073] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[073] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.407 roll=0.095
+[073] JOGADA Esporte Clube Carioca | Isidoro Varela x Lindorfo Azevedo line=2 duel=80.04 corte=-1.30
+[073] FINAL Esporte Clube Carioca | Nils Nil fam=1 duel=14.11 on_target=0.722 goal=0.253
+[073] FINAL Nils Nil: no alvo sem gol (roll=0.816)
+[074] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[074] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.407 roll=0.737
+[075] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[075] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.407 roll=0.241
+[075] JOGADA Esporte Clube Carioca | Aristóteles Coelho x Porcelano line=3 duel=33.27 corte=-1.30
+[075] FINAL Esporte Clube Carioca | João Oliveira fam=1 duel=13.75 on_target=0.723 goal=0.253
+[075] FINAL João Oliveira: no alvo sem gol (roll=0.636)
+[076] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[076] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.394 roll=0.410
+[077] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[077] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.424 roll=0.819
+[078] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[078] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.424 roll=0.826
+[079] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[079] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.394 roll=0.648
+[080] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[080] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.424 roll=0.674
+[081] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[081] LESÃO Manufatora Nacional de Porcelanas FC: Gaudêncio Assunção | distensão muscular | gravidade=moderada | 7 jogo(s)
+[081] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.424 roll=0.112
+[081] JOGADA Manufatora Nacional de Porcelanas FC | Hamilton Madureira x Clife Topete line=4 duel=-52.41 corte=-1.30
+[081] JOGADA falhou: Clife Topete cortou
+[082] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[082] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.424 roll=0.007
+[082] JOGADA Manufatora Nacional de Porcelanas FC | Porcelano x Aristóteles Coelho line=2 duel=-5.80 corte=-1.30
+[082] JOGADA falhou: Aristóteles Coelho cortou
+[083] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[083] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.394 roll=0.335
+[083] JOGADA Esporte Clube Carioca | João Oliveira x Hamilton Madureira line=3 duel=10.19 corte=-1.30
+[083] FINAL Esporte Clube Carioca | João Oliveira fam=1 duel=5.07 on_target=0.708 goal=0.254
+[083] FINAL João Oliveira: no alvo sem gol (roll=0.833)
+[084] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[084] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.424 roll=0.144
+[084] JOGADA Manufatora Nacional de Porcelanas FC | Betino Passos x João Oliveira line=2 duel=62.09 corte=-1.30
+[084] FINAL Manufatora Nacional de Porcelanas FC | Silvestre Texeira fam=5 duel=-18.25 on_target=0.711 goal=0.182
+[084] FINAL Silvestre Texeira: fora/alvo perdido (roll=0.769)
+[085] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[085] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.491 roll=0.291
+[085] JOGADA Manufatora Nacional de Porcelanas FC | Silvestre Texeira x Nils Nil line=3 duel=24.03 corte=-1.30
+[085] FINAL Manufatora Nacional de Porcelanas FC | Silvestre Texeira fam=5 duel=-55.09 on_target=0.810 goal=0.161
+[085] FINAL Silvestre Texeira: fora/alvo perdido (roll=0.929)
+[086] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[086] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.491 roll=0.737
+[087] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[087] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.394 roll=0.085
+[087] JOGADA Esporte Clube Carioca | Nils Nil x Râdamas Seixas line=3 duel=20.87 corte=-1.30
+[087] FINAL Esporte Clube Carioca | Isidoro Varela fam=1 duel=13.41 on_target=0.706 goal=0.257
+[087] FINAL Isidoro Varela: no alvo sem gol (roll=0.668)
+[088] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[088] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.491 roll=0.485
+[088] JOGADA Manufatora Nacional de Porcelanas FC | Hamilton Madureira x Aristóteles Coelho line=4 duel=-35.15 corte=-1.30
+[088] JOGADA falhou: Aristóteles Coelho cortou
+[089] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[089] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.394 roll=0.935
+[090] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[090] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.491 roll=0.591
+[091] posse=Manufatora Nacional de Porcelanas FC | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[091] BUILD Manufatora Nacional de Porcelanas FC vs Esporte Clube Carioca prob=0.491 roll=0.542
+[092] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[092] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.394 roll=0.731
+[093] posse=Esporte Clube Carioca | placar Esporte Clube Carioca 3 x 0 Manufatora Nacional de Porcelanas FC
+[093] BUILD Esporte Clube Carioca vs Manufatora Nacional de Porcelanas FC prob=0.394 roll=0.932

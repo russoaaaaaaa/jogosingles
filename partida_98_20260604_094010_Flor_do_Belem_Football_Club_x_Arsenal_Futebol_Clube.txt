@@ -1,0 +1,294 @@
+Partida #98
+Data: 1912-01-07
+Mandante: Flor do Belem Football Club
+Visitante: Arsenal Futebol Clube
+Placar: 2 x 1
+Seed: -
+Estádio: Arena Belenzinho
+Clima: Chuva leve
+Placar tempo normal: 2 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Flor do Belem Football Club x Arsenal Futebol Clube | estádio=Arena Belenzinho | clima=Chuva leve | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[001] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.263 roll=0.905
+[002] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[002] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.280 roll=0.876
+[003] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[003] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.263 roll=0.311
+[004] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[004] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.280 roll=0.739
+[005] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[005] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.263 roll=0.907
+[006] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[006] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.263 roll=0.398
+[007] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[007] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.280 roll=0.828
+[008] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[008] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.280 roll=0.399
+[009] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[009] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.280 roll=0.455
+[010] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[010] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.263 roll=0.509
+[011] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[011] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.284 roll=0.616
+[012] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[012] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.302 roll=0.779
+[013] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[013] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.284 roll=0.126
+[013] JOGADA Flor do Belem Football Club | Amaro Abreu x Cotia Pinto line=2 duel=9.00 corte=-1.14
+[013] FINAL Flor do Belem Football Club | Amaro Abreu fam=3 duel=4.71 on_target=0.587 goal=0.182
+[013] FINAL Amaro Abreu: no alvo sem gol (roll=0.784)
+[014] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[014] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.302 roll=0.421
+[015] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[015] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.302 roll=0.790
+[016] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[016] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.284 roll=0.330
+[017] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[017] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.284 roll=0.231
+[017] JOGADA Flor do Belem Football Club | Ataíde Andrade x Carlo Peixe line=3 duel=16.49 corte=-1.14
+[017] FINAL Flor do Belem Football Club | Amaro Abreu fam=1 duel=1.37 on_target=0.647 goal=0.235
+[017] FINAL Amaro Abreu: fora/alvo perdido (roll=0.905)
+[018] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[018] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.302 roll=0.138
+[018] JOGADA Arsenal Futebol Clube | Sívio Mantoan x Soeiro Braga line=3 duel=15.07 corte=-1.30
+[018] JOGADA Arsenal Futebol Clube | Joabe Correa x Demétrio Correia line=4 duel=31.60 corte=-1.30
+[018] JOGADA Arsenal Futebol Clube | Eni-guaçu Antunes x Demétrio Correia line=5 duel=95.21 corte=-1.55
+[018] FINAL Arsenal Futebol Clube | Duá Mata fam=1 duel=-7.46 on_target=0.646 goal=0.235
+[018] FINAL Duá Mata: fora/alvo perdido (roll=0.756)
+[019] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[019] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.302 roll=0.449
+[020] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[020] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.284 roll=0.590
+[021] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[021] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.325 roll=0.369
+[022] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[022] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.325 roll=0.944
+[023] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[023] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.325 roll=0.771
+[024] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[024] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.325 roll=0.896
+[025] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[025] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.325 roll=0.376
+[026] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[026] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.325 roll=0.690
+[027] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[027] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.305 roll=0.930
+[028] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[028] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.305 roll=0.337
+[029] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[029] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.325 roll=0.599
+[030] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[030] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.325 roll=0.156
+[030] JOGADA Arsenal Futebol Clube | Joabe Correa x Amaro Abreu line=4 duel=26.47 corte=-1.30
+[030] FINAL Arsenal Futebol Clube | Mário Donato fam=5 duel=-6.48 on_target=0.588 goal=0.150
+[030] FINAL Mário Donato: fora/alvo perdido (roll=0.894)
+[031] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[031] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.305 roll=0.727
+[032] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[032] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.305 roll=0.106
+[032] JOGADA Flor do Belem Football Club | Vivaldo Tomás x Mário Donato line=3 duel=71.15 corte=-1.13
+[032] FINAL Flor do Belem Football Club | Amaro Abreu fam=1 duel=1.77 on_target=0.681 goal=0.243
+[032] FINAL Amaro Abreu: no alvo sem gol (roll=0.495)
+[033] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[033] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.305 roll=0.156
+[033] JOGADA Flor do Belem Football Club | Ivo Vieira x Eni-guaçu Antunes line=4 duel=-71.57 corte=-1.13
+[033] JOGADA falhou: Eni-guaçu Antunes cortou
+[034] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[034] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.328 roll=0.875
+[035] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[035] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.305 roll=0.488
+[036] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[036] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.305 roll=0.422
+[037] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[037] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.305 roll=0.758
+[038] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[038] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.305 roll=0.947
+[039] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[039] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.305 roll=0.840
+[040] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[040] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.328 roll=0.620
+[041] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[041] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.328 roll=0.719
+[042] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[042] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.328 roll=0.123
+[042] JOGADA Arsenal Futebol Clube | Eni-guaçu Antunes x Vivaldo Tomás line=3 duel=-16.45 corte=-1.30
+[042] JOGADA falhou: Vivaldo Tomás cortou
+[043] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[043] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.305 roll=0.094
+[043] JOGADA Flor do Belem Football Club | Casimiro Caymmi x Cotia Pinto line=4 duel=-16.94 corte=-1.13
+[043] JOGADA falhou: Cotia Pinto cortou
+[044] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[044] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.305 roll=0.266
+[044] JOGADA Flor do Belem Football Club | Vivaldo Tomás x Eni-guaçu Antunes line=3 duel=1.37 corte=-1.13
+[044] FINAL Flor do Belem Football Club | Demétrio Correia fam=1 duel=-10.29 on_target=0.681 goal=0.237
+[044] FINAL Demétrio Correia: no alvo sem gol (roll=0.829)
+[045] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[045] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.305 roll=0.394
+[045] FINAL Flor do Belem Football Club | Casimiro Caymmi fam=5 duel=4.83 on_target=0.582 goal=0.144
+[045] FINAL Casimiro Caymmi: fora/alvo perdido (roll=0.642)
+[046] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[046] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.305 roll=0.103
+[046] JOGADA Arsenal Futebol Clube | Cotia Pinto x Vivaldo Tomás line=4 duel=-74.59 corte=-1.30
+[046] JOGADA falhou: Vivaldo Tomás cortou
+[047] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[047] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.284 roll=0.569
+[048] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[048] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.305 roll=0.167
+[048] JOGADA Arsenal Futebol Clube | Mário Donato x Ivo Vieira line=2 duel=-6.85 corte=-1.30
+[048] JOGADA falhou: Ivo Vieira cortou
+[049] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[049] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.305 roll=0.621
+[050] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[050] SUB Flor do Belem Football Club: saiu Demétrio Correia (CA) | entrou Franco Araújo (SA) | subs=1/5
+[050] SUB Arsenal Futebol Clube: saiu Duá Mata (SA) | entrou Renato Alvarenga (PD) | subs=1/5
+[050] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.311 roll=0.867
+[051] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[051] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.311 roll=0.785
+[052] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[052] SUB Arsenal Futebol Clube: saiu Quaresma Galdino (CA) | entrou Matapi Badaró (PE) | subs=2/5
+[052] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.284 roll=0.574
+[053] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[053] SUB Arsenal Futebol Clube: saiu Pracídio Cavalcante (ME) | entrou Octávio Moniz (ME) | subs=3/5
+[053] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.285 roll=0.248
+[053] JOGADA Flor do Belem Football Club | Amaro Abreu x Sívio Mantoan line=3 duel=-1.38 corte=-1.13
+[054] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[054] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.313 roll=1.000
+[055] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[055] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.313 roll=0.146
+[055] JOGADA Arsenal Futebol Clube | Eni-guaçu Antunes x Genésio Moniz line=3 duel=3.78 corte=-1.30
+[055] JOGADA Arsenal Futebol Clube | Ianis Custódio x Franco Araújo line=4 duel=-0.58 corte=-1.30
+[055] JOGADA Arsenal Futebol Clube | Renato Alvarenga x Elioenai Pires line=4 duel=19.42 corte=-1.30
+[055] FINAL Arsenal Futebol Clube | Matapi Badaró fam=5 duel=-41.18 on_target=0.557 goal=0.130
+[055] FINAL Matapi Badaró: fora/alvo perdido (roll=0.805)
+[056] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[056] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.336 roll=0.353
+[057] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[057] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.306 roll=0.045
+[057] JOGADA Flor do Belem Football Club | Amaro Abreu x Octávio Moniz line=3 duel=-30.04 corte=-1.13
+[057] JOGADA falhou: Octávio Moniz cortou
+[058] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[058] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.288 roll=0.772
+[059] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[059] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.336 roll=0.192
+[059] JOGADA Arsenal Futebol Clube | Renato Alvarenga x Elioenai Pires line=2 duel=99.62 corte=-1.30
+[059] JOGADA Arsenal Futebol Clube | Joabe Correa x Genésio Moniz line=4 duel=6.82 corte=-1.30
+[059] FINAL Arsenal Futebol Clube | Matapi Badaró fam=5 duel=-39.11 on_target=0.586 goal=0.135
+[059] FINAL Matapi Badaró: no alvo sem gol (roll=0.767)
+[060] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[060] SUB Flor do Belem Football Club: saiu Amaro Abreu (PE) | entrou Emanuel Queiroz (PD) | subs=2/5
+[060] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.286 roll=0.097
+[060] JOGADA Flor do Belem Football Club | Genésio Moniz x Carlo Peixe line=3 duel=14.15 corte=-1.13
+[060] FINAL Flor do Belem Football Club | Soeiro Braga fam=1 duel=-0.43 on_target=0.681 goal=0.241
+[060] FINAL Soeiro Braga: no alvo sem gol (roll=0.821)
+[061] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[061] SUB Arsenal Futebol Clube: saiu Eni-guaçu Antunes (LE) | entrou Alencar Ghirardi (LD) | subs=4/5
+[061] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.287 roll=0.936
+[062] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[062] SUB Flor do Belem Football Club: saiu Soeiro Braga (PD) | entrou Saladino Ribeiro (MD) | subs=3/5
+[062] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.289 roll=0.883
+[063] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[063] SUB Arsenal Futebol Clube: saiu Sívio Mantoan (ZAG) | entrou Adalsino Crispim (ZAG) | subs=5/5
+[063] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.339 roll=0.661
+[064] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[064] SUB Flor do Belem Football Club: saiu Sisenando Bandeira (MA) | entrou Alamiro Florencio (MA) | subs=4/5
+[064] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.339 roll=0.863
+[065] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[065] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.339 roll=0.290
+[065] JOGADA Arsenal Futebol Clube | Mário Donato x Franco Araújo line=3 duel=63.12 corte=-1.30
+[065] JOGADA Arsenal Futebol Clube | Cotia Pinto x Vivaldo Tomás line=4 duel=-14.33 corte=-1.30
+[065] JOGADA falhou: Vivaldo Tomás cortou
+[066] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[066] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.289 roll=0.569
+[067] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 0 x 0 Arsenal Futebol Clube
+[067] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.289 roll=0.195
+[067] JOGADA Flor do Belem Football Club | Elioenai Pires x Mário Donato line=3 duel=14.38 corte=-1.13
+[067] FINAL Flor do Belem Football Club | Alamiro Florencio fam=1 duel=31.17 on_target=0.683 goal=0.256
+[067] FINAL Alamiro Florencio: GOL subtipo=CHUTE (roll=0.187)
+[068] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 0 Arsenal Futebol Clube
+[068] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.307 roll=0.895
+[069] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 0 Arsenal Futebol Clube
+[069] SUB Flor do Belem Football Club: saiu Genésio Moniz (VOL) | entrou Ludovico Carreira (MC) | subs=5/5
+[069] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.312 roll=0.207
+[069] JOGADA Flor do Belem Football Club | Ataíde Andrade x Adalsino Crispim line=4 duel=-36.37 corte=-1.30
+[070] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 0 Arsenal Futebol Clube
+[070] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.309 roll=0.448
+[071] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 0 Arsenal Futebol Clube
+[071] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.309 roll=0.508
+[072] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 1 x 0 Arsenal Futebol Clube
+[072] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.374 roll=0.033
+[072] JOGADA Arsenal Futebol Clube | Cotia Pinto x Ludovico Carreira line=2 duel=42.49 corte=-1.30
+[072] JOGADA Arsenal Futebol Clube | Renato Alvarenga x Ivo Vieira line=5 duel=13.51 corte=-2.05
+[072] JOGADA Arsenal Futebol Clube | Octávio Moniz x Ivo Vieira line=5 duel=4.87 corte=-1.55
+[072] FINAL Arsenal Futebol Clube | Matapi Badaró fam=1 duel=17.04 on_target=0.681 goal=0.255
+[072] FINAL Matapi Badaró: fora/alvo perdido (roll=0.799)
+[073] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 0 Arsenal Futebol Clube
+[073] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.309 roll=0.485
+[074] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 1 x 0 Arsenal Futebol Clube
+[074] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.374 roll=0.606
+[075] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 1 x 0 Arsenal Futebol Clube
+[075] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.374 roll=0.292
+[075] JOGADA Arsenal Futebol Clube | Joabe Correa x Franco Araújo line=4 duel=13.95 corte=-1.30
+[075] FINAL Arsenal Futebol Clube | Renato Alvarenga fam=5 duel=19.25 on_target=0.593 goal=0.166
+[075] FINAL Renato Alvarenga: GOL subtipo=FALTA (roll=0.047)
+[076] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[076] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.303 roll=0.649
+[077] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[077] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.303 roll=0.271
+[077] JOGADA Flor do Belem Football Club | Saladino Ribeiro x Carlo Peixe line=3 duel=45.12 corte=-1.08
+[077] FINAL Flor do Belem Football Club | Alamiro Florencio fam=3 duel=-12.49 on_target=0.629 goal=0.182
+[077] FINAL Alamiro Florencio: fora/alvo perdido (roll=0.899)
+[078] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[078] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.347 roll=0.709
+[079] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[079] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.303 roll=0.068
+[079] JOGADA Flor do Belem Football Club | Elioenai Pires x Adalsino Crispim line=2 duel=-0.39 corte=-1.08
+[079] FINAL Flor do Belem Football Club | Alamiro Florencio fam=1 duel=13.89 on_target=0.695 goal=0.251
+[079] FINAL Alamiro Florencio: fora/alvo perdido (roll=0.837)
+[080] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[080] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.347 roll=0.204
+[080] JOGADA Arsenal Futebol Clube | Joabe Correa x Casimiro Caymmi line=4 duel=-8.02 corte=-1.30
+[080] JOGADA falhou: Casimiro Caymmi cortou
+[081] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[081] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.347 roll=0.397
+[082] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[082] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.303 roll=0.459
+[083] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[083] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.347 roll=0.403
+[084] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[084] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.303 roll=0.547
+[085] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[085] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.319 roll=0.660
+[086] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[086] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.319 roll=0.924
+[087] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[087] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.365 roll=0.834
+[088] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[088] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.319 roll=0.014
+[088] JOGADA Flor do Belem Football Club | Saladino Ribeiro x Carlo Peixe line=2 duel=21.94 corte=-1.08
+[088] FINAL Flor do Belem Football Club | Franco Araújo fam=3 duel=-4.43 on_target=0.670 goal=0.186
+[088] FINAL Franco Araújo: fora/alvo perdido (roll=0.677)
+[089] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[089] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.319 roll=0.869
+[090] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[090] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.365 roll=0.307
+[090] JOGADA Arsenal Futebol Clube | Renato Alvarenga x Franco Araújo line=3 duel=36.81 corte=-1.30
+[090] JOGADA Arsenal Futebol Clube | Cotia Pinto x Franco Araújo line=4 duel=-43.18 corte=-1.30
+[090] JOGADA falhou: Franco Araújo cortou
+[091] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[091] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.365 roll=0.551
+[092] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[092] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.365 roll=0.846
+[093] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[093] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.365 roll=0.751
+[094] posse=Arsenal Futebol Clube | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[094] BUILD Arsenal Futebol Clube vs Flor do Belem Football Club prob=0.365 roll=0.736
+[095] posse=Flor do Belem Football Club | placar Flor do Belem Football Club 1 x 1 Arsenal Futebol Clube
+[095] BUILD Flor do Belem Football Club vs Arsenal Futebol Clube prob=0.319 roll=0.071
+[095] JOGADA Flor do Belem Football Club | Ludovico Carreira x Ianis Custódio line=3 duel=15.77 corte=-1.08
+[095] FINAL Flor do Belem Football Club | Emanuel Queiroz fam=1 duel=2.33 on_target=0.739 goal=0.245
+[095] FINAL Emanuel Queiroz: GOL subtipo=CHUTE (roll=0.159)

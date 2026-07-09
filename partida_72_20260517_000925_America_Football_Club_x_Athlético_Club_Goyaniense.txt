@@ -1,0 +1,307 @@
+Partida #72
+Data: 1912-01-04
+Mandante: America Football Club
+Visitante: Athlético Club Goyaniense
+Placar: 2 x 0
+Seed: -
+Estádio: Arena Andarahy
+Clima: Nublado
+Placar tempo normal: 2 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: America Football Club
+
+=== LOG VERBOSE ===
+Início: America Football Club x Athlético Club Goyaniense | estádio=Arena Andarahy | clima=Nublado | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=America Football Club | placar America Football Club 0 x 0 Athlético Club Goyaniense
+[001] BUILD America Football Club vs Athlético Club Goyaniense prob=0.368 roll=0.968
+[002] posse=Athlético Club Goyaniense | placar America Football Club 0 x 0 Athlético Club Goyaniense
+[002] BUILD Athlético Club Goyaniense vs America Football Club prob=0.288 roll=0.649
+[003] posse=Athlético Club Goyaniense | placar America Football Club 0 x 0 Athlético Club Goyaniense
+[003] BUILD Athlético Club Goyaniense vs America Football Club prob=0.288 roll=0.349
+[004] posse=America Football Club | placar America Football Club 0 x 0 Athlético Club Goyaniense
+[004] BUILD America Football Club vs Athlético Club Goyaniense prob=0.368 roll=0.357
+[004] JOGADA America Football Club | Valdomiro Machado x Devaneio Silva line=3 duel=4.09 corte=-1.12
+[004] FINAL America Football Club | Eduardo Lagarto fam=1 duel=30.44 on_target=0.602 goal=0.233
+[004] FINAL Eduardo Lagarto: no alvo sem gol (roll=0.559)
+[005] posse=America Football Club | placar America Football Club 0 x 0 Athlético Club Goyaniense
+[005] BUILD America Football Club vs Athlético Club Goyaniense prob=0.368 roll=0.094
+[005] JOGADA America Football Club | Geraldo França x João Batista Gonçalves line=4 duel=17.78 corte=-1.12
+[005] FINAL America Football Club | Geraldo França fam=3 duel=20.21 on_target=0.545 goal=0.177
+[005] FINAL Geraldo França: no alvo sem gol (roll=0.756)
+[006] posse=Athlético Club Goyaniense | placar America Football Club 0 x 0 Athlético Club Goyaniense
+[006] BUILD Athlético Club Goyaniense vs America Football Club prob=0.288 roll=0.028
+[006] JOGADA Athlético Club Goyaniense | João Batista Gonçalves x Basílico Freitas line=3 duel=1.14 corte=-1.30
+[006] FINAL Athlético Club Goyaniense | Jair, o Bebum fam=5 duel=-16.22 on_target=0.518 goal=0.134
+[006] FINAL Jair, o Bebum: no alvo sem gol (roll=0.412)
+[007] posse=Athlético Club Goyaniense | placar America Football Club 0 x 0 Athlético Club Goyaniense
+[007] BUILD Athlético Club Goyaniense vs America Football Club prob=0.288 roll=0.148
+[007] JOGADA Athlético Club Goyaniense | Leandro Carlos x Geraldo França line=3 duel=-18.91 corte=-1.30
+[008] posse=Athlético Club Goyaniense | placar America Football Club 0 x 0 Athlético Club Goyaniense
+[008] BUILD Athlético Club Goyaniense vs America Football Club prob=0.288 roll=0.884
+[009] posse=America Football Club | placar America Football Club 0 x 0 Athlético Club Goyaniense
+[009] BUILD America Football Club vs Athlético Club Goyaniense prob=0.368 roll=0.017
+[009] JOGADA America Football Club | Thiago Freixó x Jair, o Bebum line=4 duel=24.67 corte=-1.12
+[009] JOGADA America Football Club | Antônio Figueroa x João Batista Gonçalves line=5 duel=73.01 corte=-1.37
+[009] FINAL America Football Club | Geraldo França fam=1 duel=16.86 on_target=0.600 goal=0.227
+[009] FINAL Geraldo França: GOL subtipo=CHUTE (roll=0.186)
+[010] posse=America Football Club | placar America Football Club 1 x 0 Athlético Club Goyaniense
+[010] BUILD America Football Club vs Athlético Club Goyaniense prob=0.368 roll=0.394
+[011] posse=America Football Club | placar America Football Club 1 x 0 Athlético Club Goyaniense
+[011] BUILD America Football Club vs Athlético Club Goyaniense prob=0.398 roll=0.531
+[012] posse=Athlético Club Goyaniense | placar America Football Club 1 x 0 Athlético Club Goyaniense
+[012] BUILD Athlético Club Goyaniense vs America Football Club prob=0.354 roll=0.547
+[013] posse=Athlético Club Goyaniense | placar America Football Club 1 x 0 Athlético Club Goyaniense
+[013] BUILD Athlético Club Goyaniense vs America Football Club prob=0.354 roll=0.650
+[014] posse=Athlético Club Goyaniense | placar America Football Club 1 x 0 Athlético Club Goyaniense
+[014] BUILD Athlético Club Goyaniense vs America Football Club prob=0.354 roll=0.740
+[015] posse=Athlético Club Goyaniense | placar America Football Club 1 x 0 Athlético Club Goyaniense
+[015] BUILD Athlético Club Goyaniense vs America Football Club prob=0.354 roll=0.419
+[016] posse=Athlético Club Goyaniense | placar America Football Club 1 x 0 Athlético Club Goyaniense
+[016] BUILD Athlético Club Goyaniense vs America Football Club prob=0.354 roll=0.571
+[017] posse=America Football Club | placar America Football Club 1 x 0 Athlético Club Goyaniense
+[017] BUILD America Football Club vs Athlético Club Goyaniense prob=0.398 roll=0.836
+[018] posse=America Football Club | placar America Football Club 1 x 0 Athlético Club Goyaniense
+[018] BUILD America Football Club vs Athlético Club Goyaniense prob=0.398 roll=0.026
+[018] JOGADA America Football Club | Eduardo Lagarto x João Batista Gonçalves line=3 duel=36.39 corte=-1.30
+[018] FINAL America Football Club | Thiago Aguiar fam=3 duel=12.07 on_target=0.589 goal=0.186
+[018] FINAL Thiago Aguiar: GOL subtipo=CABECA (roll=0.152)
+[019] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[019] BUILD America Football Club vs Athlético Club Goyaniense prob=0.389 roll=0.391
+[020] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[020] BUILD America Football Club vs Athlético Club Goyaniense prob=0.389 roll=0.341
+[020] JOGADA America Football Club | Paolo Gonçalves x Antônio Accioly line=3 duel=47.05 corte=-1.30
+[020] FINAL America Football Club | Thiago Aguiar fam=1 duel=5.87 on_target=0.623 goal=0.222
+[020] FINAL Thiago Aguiar: no alvo sem gol (roll=0.946)
+[021] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[021] BUILD America Football Club vs Athlético Club Goyaniense prob=0.419 roll=0.938
+[022] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[022] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.255
+[022] JOGADA Athlético Club Goyaniense | Jair, o Bebum x Basílico Freitas line=3 duel=-3.46 corte=-1.30
+[022] JOGADA falhou: Basílico Freitas cortou
+[023] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[023] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.480
+[024] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[024] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.624
+[025] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[025] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.041
+[025] JOGADA Athlético Club Goyaniense | Leandro Carlos x Thiago Freixó line=4 duel=-28.33 corte=-1.30
+[025] JOGADA falhou: Thiago Freixó cortou
+[026] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[026] BUILD America Football Club vs Athlético Club Goyaniense prob=0.419 roll=0.741
+[027] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[027] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.341
+[027] JOGADA Athlético Club Goyaniense | Thiago Augusto x Valdomiro Machado line=2 duel=20.02 corte=-1.30
+[027] JOGADA Athlético Club Goyaniense | Leandro Carlos x Antônio Figueroa line=3 duel=-27.34 corte=-1.30
+[027] JOGADA falhou: Antônio Figueroa cortou
+[028] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[028] BUILD America Football Club vs Athlético Club Goyaniense prob=0.419 roll=0.926
+[029] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[029] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.746
+[030] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[030] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.391
+[031] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[031] BUILD America Football Club vs Athlético Club Goyaniense prob=0.419 roll=0.474
+[032] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[032] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.621
+[033] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[033] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.752
+[034] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[034] BUILD America Football Club vs Athlético Club Goyaniense prob=0.419 roll=0.522
+[035] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[035] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.235
+[035] JOGADA Athlético Club Goyaniense | Ondomar Sarti x Valdomiro Machado line=3 duel=15.92 corte=-1.30
+[035] FINAL Athlético Club Goyaniense | Antônio Accioly fam=5 duel=3.85 on_target=0.593 goal=0.160
+[035] FINAL Antônio Accioly: no alvo sem gol (roll=0.802)
+[036] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[036] BUILD America Football Club vs Athlético Club Goyaniense prob=0.419 roll=0.481
+[037] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[037] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.120
+[037] JOGADA Athlético Club Goyaniense | Devaneio Silva x Antônio Figueroa line=4 duel=-18.28 corte=-1.30
+[037] JOGADA falhou: Antônio Figueroa cortou
+[038] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[038] BUILD America Football Club vs Athlético Club Goyaniense prob=0.419 roll=0.054
+[038] JOGADA America Football Club | Valdomiro Machado x Nélson Bezerra line=2 duel=-5.20 corte=-1.30
+[038] JOGADA falhou: Nélson Bezerra cortou
+[039] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[039] BUILD America Football Club vs Athlético Club Goyaniense prob=0.419 roll=0.551
+[040] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[040] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.949
+[041] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[041] BUILD America Football Club vs Athlético Club Goyaniense prob=0.419 roll=0.188
+[041] JOGADA America Football Club | Thiago Freixó x Antônio Accioly line=2 duel=-5.87 corte=-1.30
+[041] JOGADA falhou: Antônio Accioly cortou
+[042] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[042] BUILD America Football Club vs Athlético Club Goyaniense prob=0.419 roll=0.755
+[043] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[043] BUILD America Football Club vs Athlético Club Goyaniense prob=0.419 roll=0.549
+[044] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[044] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.858
+[045] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[045] BUILD Athlético Club Goyaniense vs America Football Club prob=0.385 roll=0.485
+[046] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[046] BUILD Athlético Club Goyaniense vs America Football Club prob=0.358 roll=0.241
+[046] JOGADA Athlético Club Goyaniense | Luís Constantino x Paolo Gonçalves line=4 duel=-62.09 corte=-1.30
+[046] JOGADA falhou: Paolo Gonçalves cortou
+[047] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[047] BUILD Athlético Club Goyaniense vs America Football Club prob=0.358 roll=0.061
+[047] JOGADA Athlético Club Goyaniense | Antônio Accioly x Antônio Figueroa line=4 duel=-4.83 corte=-1.30
+[048] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[048] BUILD America Football Club vs Athlético Club Goyaniense prob=0.389 roll=0.171
+[048] JOGADA America Football Club | Thiago Freixó x Antônio Accioly line=2 duel=72.58 corte=-1.30
+[048] FINAL America Football Club | Eduardo Lagarto fam=1 duel=29.46 on_target=0.625 goal=0.232
+[048] FINAL Eduardo Lagarto: no alvo sem gol (roll=0.991)
+[049] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[049] BUILD America Football Club vs Athlético Club Goyaniense prob=0.389 roll=0.179
+[049] JOGADA America Football Club | Filipe de Oliveira x Antônio Accioly line=3 duel=2.29 corte=-1.30
+[049] FINAL America Football Club | Thiago Aguiar fam=1 duel=1.48 on_target=0.623 goal=0.220
+[049] FINAL Thiago Aguiar: no alvo sem gol (roll=0.300)
+[050] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[050] SUB America Football Club: saiu Valdomiro Machado (SA) | entrou Lázaro Almeida (MA) | subs=1/5
+[050] SUB Athlético Club Goyaniense: saiu Jair, o Bebum (SA) | entrou João Albuquerque (SA) | subs=1/5
+[050] BUILD Athlético Club Goyaniense vs America Football Club prob=0.358 roll=0.526
+[051] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[051] SUB America Football Club: saiu Thiago Aguiar (CA) | entrou Pedro Gago (CA) | subs=2/5
+[051] SUB Athlético Club Goyaniense: saiu Leonard Klein (CA) | entrou Lucas Cordeiro (CA) | subs=2/5
+[051] BUILD America Football Club vs Athlético Club Goyaniense prob=0.379 roll=0.350
+[051] JOGADA America Football Club | Davi Ambrósio Rios x Leandro Carlos line=3 duel=-6.01 corte=-1.30
+[051] JOGADA falhou: Leandro Carlos cortou
+[052] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[052] SUB Athlético Club Goyaniense: saiu Ondomar Sarti (LD) | entrou Albert Hollheiser (AD) | subs=3/5
+[052] BUILD America Football Club vs Athlético Club Goyaniense prob=0.382 roll=0.478
+[053] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[053] BUILD America Football Club vs Athlético Club Goyaniense prob=0.382 roll=0.076
+[053] JOGADA America Football Club | Pedro Gago x Albert Hollheiser line=2 duel=63.30 corte=-1.30
+[053] FINAL America Football Club | Pedro Gago fam=1 duel=28.66 on_target=0.623 goal=0.230
+[053] FINAL Pedro Gago: no alvo sem gol (roll=0.844)
+[054] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[054] BUILD Athlético Club Goyaniense vs America Football Club prob=0.352 roll=0.876
+[055] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[055] SUB Athlético Club Goyaniense: saiu Thiago Augusto (ZAG) | entrou Hugo Mãozinha (ZAG) | subs=4/5
+[055] BUILD Athlético Club Goyaniense vs America Football Club prob=0.352 roll=0.500
+[056] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[056] BUILD America Football Club vs Athlético Club Goyaniense prob=0.411 roll=0.478
+[057] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[057] SUB America Football Club: saiu Davi Ambrósio Rios (LE) | entrou Luís Barcelar (LE) | subs=3/5
+[057] SUB Athlético Club Goyaniense: saiu Nélson Bezerra (MC) | entrou Benjamin Roriz (MC) | subs=5/5
+[057] BUILD America Football Club vs Athlético Club Goyaniense prob=0.410 roll=0.466
+[058] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[058] SUB America Football Club: saiu Geraldo França (MA) | entrou Jessé Paiva (MC) | subs=4/5
+[058] BUILD Athlético Club Goyaniense vs America Football Club prob=0.383 roll=0.863
+[059] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[059] BUILD Athlético Club Goyaniense vs America Football Club prob=0.383 roll=0.474
+[060] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[060] SUB America Football Club: saiu Eduardo Lagarto (MA) | entrou Hector Barbosa (MA) | subs=5/5
+[060] BUILD America Football Club vs Athlético Club Goyaniense prob=0.378 roll=0.350
+[060] JOGADA America Football Club | Thiago Freixó x Antônio Accioly line=3 duel=-5.15 corte=-1.30
+[060] JOGADA falhou: Antônio Accioly cortou
+[061] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[061] BUILD America Football Club vs Athlético Club Goyaniense prob=0.378 roll=0.832
+[062] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[062] BUILD Athlético Club Goyaniense vs America Football Club prob=0.392 roll=0.153
+[062] JOGADA Athlético Club Goyaniense | Albert Hollheiser x Filipe de Oliveira line=4 duel=1.83 corte=-1.30
+[062] JOGADA Athlético Club Goyaniense | Devaneio Silva x Filipe de Oliveira line=4 duel=-24.82 corte=-1.30
+[063] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[063] BUILD America Football Club vs Athlético Club Goyaniense prob=0.378 roll=0.190
+[063] JOGADA America Football Club | Paolo Gonçalves x Lucas Cordeiro line=4 duel=11.30 corte=-1.30
+[063] FINAL America Football Club | Pedro Gago fam=1 duel=28.05 on_target=0.655 goal=0.237
+[063] FINAL Pedro Gago: no alvo sem gol (roll=0.756)
+[064] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[064] BUILD America Football Club vs Athlético Club Goyaniense prob=0.378 roll=0.483
+[065] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[065] BUILD America Football Club vs Athlético Club Goyaniense prob=0.378 roll=0.736
+[066] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[066] BUILD Athlético Club Goyaniense vs America Football Club prob=0.392 roll=0.800
+[066] FINAL Athlético Club Goyaniense | Lucas Cordeiro fam=5 duel=2.80 on_target=0.592 goal=0.159
+[066] FINAL Lucas Cordeiro: no alvo sem gol (roll=0.272)
+[067] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[067] BUILD America Football Club vs Athlético Club Goyaniense prob=0.378 roll=0.417
+[068] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[068] BUILD America Football Club vs Athlético Club Goyaniense prob=0.378 roll=0.259
+[068] JOGADA America Football Club | Filipe de Oliveira x Lucas Cordeiro line=2 duel=26.76 corte=-1.30
+[068] FINAL America Football Club | Filipe de Oliveira fam=1 duel=8.90 on_target=0.654 goal=0.228
+[068] FINAL Filipe de Oliveira: no alvo sem gol (roll=0.984)
+[069] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[069] BUILD Athlético Club Goyaniense vs America Football Club prob=0.392 roll=0.947
+[070] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[070] BUILD Athlético Club Goyaniense vs America Football Club prob=0.392 roll=0.132
+[070] JOGADA Athlético Club Goyaniense | Luís Constantino x Hector Barbosa line=4 duel=-35.82 corte=-1.30
+[070] JOGADA falhou: Hector Barbosa cortou
+[071] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[071] BUILD Athlético Club Goyaniense vs America Football Club prob=0.392 roll=0.808
+[072] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[072] BUILD Athlético Club Goyaniense vs America Football Club prob=0.392 roll=0.180
+[072] JOGADA Athlético Club Goyaniense | Leandro Carlos x Luís Barcelar line=4 duel=-35.20 corte=-1.30
+[073] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[073] BUILD Athlético Club Goyaniense vs America Football Club prob=0.392 roll=0.109
+[073] JOGADA Athlético Club Goyaniense | João Batista Gonçalves x Antônio Figueroa line=4 duel=-24.79 corte=-1.30
+[073] JOGADA falhou: Antônio Figueroa cortou
+[074] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[074] BUILD Athlético Club Goyaniense vs America Football Club prob=0.392 roll=0.366
+[074] JOGADA Athlético Club Goyaniense | Lucas Cordeiro x Basílico Freitas line=4 duel=1.33 corte=-1.30
+[074] JOGADA Athlético Club Goyaniense | Devaneio Silva x Basílico Freitas line=4 duel=-11.92 corte=-1.30
+[074] JOGADA falhou: Basílico Freitas cortou
+[075] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[075] BUILD America Football Club vs Athlético Club Goyaniense prob=0.378 roll=0.456
+[076] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[076] BUILD Athlético Club Goyaniense vs America Football Club prob=0.424 roll=0.714
+[077] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[077] BUILD Athlético Club Goyaniense vs America Football Club prob=0.424 roll=0.040
+[077] JOGADA Athlético Club Goyaniense | Benjamin Roriz x Antônio Figueroa line=3 duel=1.42 corte=-1.30
+[077] FINAL Athlético Club Goyaniense | Antônio Accioly fam=5 duel=1.57 on_target=0.634 goal=0.167
+[077] FINAL Antônio Accioly: no alvo sem gol (roll=0.283)
+[078] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[078] BUILD America Football Club vs Athlético Club Goyaniense prob=0.366 roll=0.749
+[079] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[079] BUILD Athlético Club Goyaniense vs America Football Club prob=0.424 roll=0.986
+[080] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[080] BUILD Athlético Club Goyaniense vs America Football Club prob=0.424 roll=0.492
+[080] FINAL Athlético Club Goyaniense | Devaneio Silva fam=5 duel=-28.57 on_target=0.630 goal=0.151
+[080] FINAL Devaneio Silva: fora/alvo perdido (roll=0.644)
+[081] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[081] BUILD Athlético Club Goyaniense vs America Football Club prob=0.424 roll=0.850
+[082] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[082] BUILD America Football Club vs Athlético Club Goyaniense prob=0.366 roll=0.631
+[083] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[083] BUILD Athlético Club Goyaniense vs America Football Club prob=0.424 roll=0.793
+[084] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[084] BUILD America Football Club vs Athlético Club Goyaniense prob=0.366 roll=0.547
+[085] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[085] BUILD America Football Club vs Athlético Club Goyaniense prob=0.366 roll=0.255
+[085] JOGADA America Football Club | Lázaro Almeida x João Albuquerque line=3 duel=28.79 corte=-1.30
+[085] FINAL America Football Club | Lázaro Almeida fam=3 duel=-4.81 on_target=0.581 goal=0.168
+[085] FINAL Lázaro Almeida: no alvo sem gol (roll=0.652)
+[086] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[086] BUILD Athlético Club Goyaniense vs America Football Club prob=0.446 roll=0.627
+[087] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[087] BUILD America Football Club vs Athlético Club Goyaniense prob=0.366 roll=0.948
+[088] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[088] BUILD Athlético Club Goyaniense vs America Football Club prob=0.446 roll=0.076
+[088] JOGADA Athlético Club Goyaniense | Luís Constantino x Jessé Paiva line=4 duel=-64.15 corte=-1.30
+[088] JOGADA falhou: Jessé Paiva cortou
+[089] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[089] BUILD America Football Club vs Athlético Club Goyaniense prob=0.366 roll=0.327
+[089] JOGADA America Football Club | Paolo Gonçalves x Hugo Mãozinha line=3 duel=-3.01 corte=-1.30
+[089] JOGADA falhou: Hugo Mãozinha cortou
+[090] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[090] BUILD Athlético Club Goyaniense vs America Football Club prob=0.446 roll=0.656
+[091] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[091] BUILD America Football Club vs Athlético Club Goyaniense prob=0.366 roll=0.398
+[092] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[092] BUILD America Football Club vs Athlético Club Goyaniense prob=0.366 roll=0.432
+[093] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[093] BUILD America Football Club vs Athlético Club Goyaniense prob=0.366 roll=0.390
+[094] posse=Athlético Club Goyaniense | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[094] BUILD Athlético Club Goyaniense vs America Football Club prob=0.446 roll=0.337
+[094] JOGADA Athlético Club Goyaniense | Leandro Carlos x Antônio Figueroa line=4 duel=-49.27 corte=-1.30
+[094] JOGADA falhou: Antônio Figueroa cortou
+[095] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[095] BUILD America Football Club vs Athlético Club Goyaniense prob=0.366 roll=0.108
+[095] JOGADA America Football Club | Hector Barbosa x João Batista Gonçalves line=3 duel=8.94 corte=-1.30
+[095] FINAL America Football Club | Filipe de Oliveira fam=3 duel=7.95 on_target=0.581 goal=0.173
+[095] FINAL Filipe de Oliveira: fora/alvo perdido (roll=0.738)
+[096] posse=America Football Club | placar America Football Club 2 x 0 Athlético Club Goyaniense
+[096] BUILD America Football Club vs Athlético Club Goyaniense prob=0.366 roll=0.168
+[096] JOGADA America Football Club | Paolo Gonçalves x Luís Constantino line=3 duel=39.23 corte=-1.30
+[096] FINAL America Football Club | Pedro Gago fam=1 duel=22.05 on_target=0.642 goal=0.230
+[096] FINAL Pedro Gago: fora/alvo perdido (roll=0.978)

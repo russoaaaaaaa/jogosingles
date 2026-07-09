@@ -1,0 +1,314 @@
+Partida #97
+Data: 1912-01-07
+Mandante: Modesto Football Club
+Visitante: Rural Atlético Clube
+Placar: 0 x 1
+Seed: -
+Estádio: Esplanada da Bocayuva
+Clima: Calor forte
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Modesto Football Club x Rural Atlético Clube | estádio=Esplanada da Bocayuva | clima=Calor forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[001] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.389 roll=0.832
+[001] FINAL Modesto Football Club | Marton Amaral fam=5 duel=3.12 on_target=0.522 goal=0.146
+[001] FINAL Marton Amaral: fora/alvo perdido (roll=0.634)
+[002] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[002] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.389 roll=0.157
+[002] JOGADA Modesto Football Club | Canhoteiro x Teliciano Garcia line=4 duel=2.59 corte=-1.70
+[002] FINAL Modesto Football Club | Bissau fam=5 duel=-60.43 on_target=0.519 goal=0.119
+[002] FINAL Bissau: fora/alvo perdido (roll=0.621)
+[003] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[003] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.315 roll=0.195
+[003] JOGADA Rural Atlético Clube | Mauro Minotauro x Bissau line=3 duel=108.83 corte=-1.11
+[003] FINAL Rural Atlético Clube | Will Anthonio Zeppeli fam=1 duel=10.39 on_target=0.600 goal=0.225
+[003] FINAL Will Anthonio Zeppeli: no alvo sem gol (roll=0.909)
+[004] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[004] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.389 roll=0.626
+[005] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[005] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.389 roll=0.741
+[006] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[006] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.389 roll=0.513
+[007] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[007] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.389 roll=0.921
+[008] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[008] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.389 roll=0.545
+[009] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[009] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.315 roll=0.408
+[010] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[010] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.315 roll=0.403
+[011] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[011] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.340 roll=0.767
+[012] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[012] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.421 roll=0.513
+[012] FINAL Modesto Football Club | Aquil Gavião fam=5 duel=-37.44 on_target=0.560 goal=0.136
+[012] FINAL Aquil Gavião: fora/alvo perdido (roll=0.850)
+[013] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[013] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.340 roll=0.792
+[014] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[014] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.421 roll=0.384
+[014] JOGADA Modesto Football Club | Marton Amaral x Mauro Minotauro line=4 duel=14.02 corte=-1.70
+[014] FINAL Modesto Football Club | Marton Amaral fam=5 duel=-70.93 on_target=0.560 goal=0.122
+[014] FINAL Marton Amaral: no alvo sem gol (roll=0.620)
+[015] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[015] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.421 roll=0.184
+[015] JOGADA Modesto Football Club | Aquil Gavião x Will Anthonio Zeppeli line=5 duel=26.66 corte=-1.95
+[015] FINAL Modesto Football Club | Canhoteiro fam=5 duel=-71.13 on_target=0.559 goal=0.122
+[015] FINAL Canhoteiro: fora/alvo perdido (roll=0.670)
+[016] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[016] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.340 roll=0.630
+[017] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[017] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.421 roll=0.583
+[018] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[018] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.340 roll=0.592
+[019] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[019] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.421 roll=0.301
+[019] JOGADA Modesto Football Club | Margarido Caminha x Benjamin Saraiva line=4 duel=56.55 corte=-1.70
+[019] FINAL Modesto Football Club | Bissau fam=5 duel=4.86 on_target=0.564 goal=0.156
+[019] FINAL Bissau: no alvo sem gol (roll=0.973)
+[020] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[020] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.421 roll=0.228
+[020] JOGADA Modesto Football Club | Tales Saldanha x Robert E. O. Speedwagon line=4 duel=22.11 corte=-1.70
+[020] FINAL Modesto Football Club | Bissau fam=5 duel=4.48 on_target=0.564 goal=0.156
+[020] FINAL Bissau: no alvo sem gol (roll=0.772)
+[021] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[021] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.109
+[021] JOGADA Rural Atlético Clube | Teliciano Garcia x Tales Saldanha line=5 duel=12.24 corte=-1.36
+[021] FINAL Rural Atlético Clube | Piragibe Haghissé fam=1 duel=-3.84 on_target=0.682 goal=0.240
+[021] FINAL Piragibe Haghissé: no alvo sem gol (roll=0.973)
+[022] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[022] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.017
+[022] JOGADA Rural Atlético Clube | Teliciano Garcia x Marton Amaral line=4 duel=49.02 corte=-1.11
+[022] FINAL Rural Atlético Clube | Piragibe Haghissé fam=1 duel=-4.11 on_target=0.682 goal=0.240
+[022] FINAL Piragibe Haghissé: fora/alvo perdido (roll=0.908)
+[023] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[023] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.453 roll=0.106
+[023] JOGADA Modesto Football Club | Aquil Gavião x Will Anthonio Zeppeli line=3 duel=58.65 corte=-1.70
+[023] FINAL Modesto Football Club | Bissau fam=5 duel=4.57 on_target=0.594 goal=0.161
+[023] FINAL Bissau: no alvo sem gol (roll=0.517)
+[024] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[024] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.870
+[025] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[025] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.453 roll=0.986
+[026] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[026] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.415
+[027] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[027] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.907
+[028] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[028] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.453 roll=0.901
+[029] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[029] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.877
+[030] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[030] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.226
+[030] JOGADA Rural Atlético Clube | Benjamin Saraiva x Bissau line=5 duel=21.00 corte=-1.36
+[030] FINAL Rural Atlético Clube | Piragibe Haghissé fam=1 duel=-8.08 on_target=0.681 goal=0.239
+[030] FINAL Piragibe Haghissé: fora/alvo perdido (roll=0.908)
+[031] posse=Modesto Football Club | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[031] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.453 roll=0.465
+[032] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[032] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.514
+[033] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 0 Rural Atlético Clube
+[033] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.275
+[033] JOGADA Rural Atlético Clube | Robert E. O. Speedwagon x Primitivo Ramos line=3 duel=2.56 corte=-1.10
+[033] FINAL Rural Atlético Clube | Will Anthonio Zeppeli fam=1 duel=-7.72 on_target=0.681 goal=0.238
+[033] FINAL Will Anthonio Zeppeli: GOL subtipo=CHUTE (roll=0.174)
+[034] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[034] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.542 roll=0.387
+[034] JOGADA Modesto Football Club | Canhoteiro x Celeritano Mendes line=4 duel=-7.55 corte=-1.70
+[035] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[035] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.542 roll=0.104
+[035] JOGADA Modesto Football Club | Margarido Caminha x Celeritano Mendes line=5 duel=35.42 corte=-1.95
+[035] FINAL Modesto Football Club | Marton Amaral fam=5 duel=-63.44 on_target=0.591 goal=0.132
+[035] FINAL Marton Amaral: fora/alvo perdido (roll=0.616)
+[036] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[036] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.542 roll=0.160
+[036] JOGADA Modesto Football Club | Conceição Malta x Piragibe Haghissé line=4 duel=11.70 corte=-1.70
+[036] FINAL Modesto Football Club | Canhoteiro fam=5 duel=5.94 on_target=0.595 goal=0.164
+[036] FINAL Canhoteiro: fora/alvo perdido (roll=0.877)
+[037] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[037] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.542 roll=0.473
+[037] JOGADA Modesto Football Club | Conceição Malta x Teliciano Garcia line=4 duel=-19.80 corte=-1.70
+[038] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[038] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.839
+[039] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[039] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.901
+[040] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[040] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.542 roll=0.136
+[040] JOGADA Modesto Football Club | Cid Lamego x Marciano Capetinha line=4 duel=26.27 corte=-1.70
+[040] FINAL Modesto Football Club | Bissau fam=5 duel=-2.20 on_target=0.595 goal=0.160
+[040] FINAL Bissau: no alvo sem gol (roll=0.205)
+[041] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[041] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.959
+[042] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[042] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.711
+[043] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[043] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.949
+[044] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[044] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.979
+[045] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[045] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.366 roll=0.525
+[046] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[046] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.340 roll=0.175
+[046] JOGADA Rural Atlético Clube | Érico Lorentino x Conceição Malta line=5 duel=94.22 corte=-1.55
+[046] FINAL Rural Atlético Clube | Will Anthonio Zeppeli fam=3 duel=-6.91 on_target=0.587 goal=0.177
+[046] FINAL Will Anthonio Zeppeli: no alvo sem gol (roll=0.721)
+[047] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[047] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.340 roll=0.073
+[047] JOGADA Rural Atlético Clube | Teliciano Garcia x Cid Lamego line=5 duel=83.00 corte=-1.55
+[047] FINAL Rural Atlético Clube | Piragibe Haghissé fam=1 duel=-3.85 on_target=0.648 goal=0.233
+[047] FINAL Piragibe Haghissé: no alvo sem gol (roll=0.270)
+[048] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[048] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.340 roll=0.871
+[049] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[049] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.504 roll=0.566
+[050] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[050] SUB Modesto Football Club: saiu Bissau (CA) | entrou Rigoberto Cabral (SA) | subs=1/5
+[050] SUB Rural Atlético Clube: saiu Will Anthonio Zeppeli (MA) | entrou Abdullah Pretão (SA) | subs=1/5
+[050] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.341 roll=0.991
+[051] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[051] SUB Modesto Football Club: saiu Marton Amaral (SA) | entrou Aldonço Canavieira (PD) | subs=2/5
+[051] SUB Rural Atlético Clube: saiu Piragibe Haghissé (CA) | entrou Jebadias de Assunção (CA) | subs=2/5
+[051] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.339 roll=0.441
+[052] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[052] SUB Modesto Football Club: saiu Cid Lamego (LD) | entrou Joscelino Santana (LE) | subs=3/5
+[052] SUB Rural Atlético Clube: saiu Benjamin Saraiva (ZAG) | entrou Sócrates Espinho (ZAG) | subs=3/5
+[052] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.428 roll=0.665
+[053] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[053] SUB Modesto Football Club: saiu Conceição Malta (ZAG) | entrou Célio Dimas (ZAG) | subs=4/5
+[053] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.428 roll=0.682
+[054] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[054] SUB Modesto Football Club: saiu Aquil Gavião (ZAG) | entrou Paranhos Pedrosa (ZAG) | subs=5/5
+[054] SUB Rural Atlético Clube: saiu Geroldo Carlos (MD) | entrou Julielson Mendonça (MD) | subs=4/5
+[054] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.353 roll=0.955
+[055] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[055] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.353 roll=0.828
+[056] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[056] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.380 roll=0.705
+[057] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[057] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.461 roll=0.823
+[058] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[058] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.380 roll=0.992
+[059] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[059] SUB Rural Atlético Clube: saiu Mauro Minotauro (MC) | entrou João Pereba (VOL) | subs=5/5
+[059] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.463 roll=0.870
+[060] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[060] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.466 roll=0.343
+[060] JOGADA Modesto Football Club | Margarido Caminha x Marciano Capetinha line=4 duel=-23.51 corte=-1.70
+[061] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[061] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.466 roll=0.030
+[061] JOGADA Modesto Football Club | Rigoberto Cabral x Julielson Mendonça line=4 duel=40.38 corte=-1.70
+[061] FINAL Modesto Football Club | Rigoberto Cabral fam=5 duel=31.92 on_target=0.598 goal=0.177
+[061] FINAL Rigoberto Cabral: no alvo sem gol (roll=0.528)
+[062] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[062] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.466 roll=0.763
+[063] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[063] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.466 roll=0.870
+[064] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[064] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.466 roll=0.069
+[064] JOGADA Modesto Football Club | Mário Ricci x Robert E. O. Speedwagon line=5 duel=5.13 corte=-1.95
+[064] FINAL Modesto Football Club | Rigoberto Cabral fam=5 duel=31.71 on_target=0.598 goal=0.177
+[064] FINAL Rigoberto Cabral: no alvo sem gol (roll=0.720)
+[065] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[065] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.378 roll=0.715
+[066] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[066] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.466 roll=0.964
+[067] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[067] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.378 roll=0.424
+[068] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[068] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.466 roll=0.529
+[069] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[069] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.466 roll=0.639
+[070] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[070] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.466 roll=0.069
+[070] JOGADA Modesto Football Club | Mário Ricci x Abdullah Pretão line=5 duel=2.53 corte=-1.95
+[070] FINAL Modesto Football Club | Aldonço Canavieira fam=5 duel=12.03 on_target=0.595 goal=0.168
+[070] FINAL Aldonço Canavieira: no alvo sem gol (roll=0.488)
+[071] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[071] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.374 roll=0.228
+[071] JOGADA Rural Atlético Clube | Celeritano Mendes x Célio Dimas line=3 duel=-14.73 corte=-1.30
+[071] JOGADA falhou: Célio Dimas cortou
+[072] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[072] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.374 roll=0.201
+[072] JOGADA Rural Atlético Clube | Jebadias de Assunção x Canhoteiro line=4 duel=20.45 corte=-1.30
+[072] FINAL Rural Atlético Clube | Julielson Mendonça fam=1 duel=9.86 on_target=0.666 goal=0.245
+[072] FINAL Julielson Mendonça: no alvo sem gol (roll=0.949)
+[073] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[073] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.374 roll=0.125
+[073] JOGADA Rural Atlético Clube | Robert E. O. Speedwagon x Aldonço Canavieira line=5 duel=16.01 corte=-1.55
+[073] FINAL Rural Atlético Clube | Abdullah Pretão fam=1 duel=11.70 on_target=0.668 goal=0.247
+[073] FINAL Abdullah Pretão: no alvo sem gol (roll=0.532)
+[074] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[074] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.466 roll=0.974
+[075] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[075] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.466 roll=0.020
+[075] JOGADA Modesto Football Club | Margarido Caminha x Robert E. O. Speedwagon line=5 duel=50.10 corte=-1.95
+[075] FINAL Modesto Football Club | Rigoberto Cabral fam=5 duel=24.33 on_target=0.597 goal=0.174
+[075] FINAL Rigoberto Cabral: fora/alvo perdido (roll=0.671)
+[076] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[076] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.503 roll=0.253
+[076] JOGADA Modesto Football Club | Primitivo Ramos x Teliciano Garcia line=5 duel=-2.36 corte=-1.95
+[076] JOGADA falhou: Teliciano Garcia cortou
+[077] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[077] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.503 roll=0.597
+[078] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[078] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.503 roll=0.247
+[078] JOGADA Modesto Football Club | Paranhos Pedrosa x Jebadias de Assunção line=5 duel=85.75 corte=-1.95
+[078] FINAL Modesto Football Club | Aldonço Canavieira fam=5 duel=-37.87 on_target=0.634 goal=0.152
+[078] FINAL Aldonço Canavieira: no alvo sem gol (roll=0.734)
+[079] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[079] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.503 roll=0.797
+[080] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[080] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.503 roll=0.204
+[080] JOGADA Modesto Football Club | Joscelino Santana x Celeritano Mendes line=3 duel=-7.07 corte=-1.70
+[080] JOGADA falhou: Celeritano Mendes cortou
+[081] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[081] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.503 roll=0.514
+[082] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[082] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.503 roll=0.701
+[083] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[083] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.503 roll=0.509
+[084] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[084] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.363 roll=0.301
+[084] JOGADA Rural Atlético Clube | Sócrates Espinho x Canhoteiro line=5 duel=54.08 corte=-1.55
+[084] FINAL Rural Atlético Clube | Abdullah Pretão fam=1 duel=3.26 on_target=0.654 goal=0.232
+[084] FINAL Abdullah Pretão: fora/alvo perdido (roll=0.894)
+[085] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[085] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.530 roll=0.690
+[086] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[086] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.530 roll=0.273
+[086] JOGADA Modesto Football Club | Paranhos Pedrosa x Teliciano Garcia line=4 duel=10.13 corte=-1.70
+[086] FINAL Modesto Football Club | Aldonço Canavieira fam=5 duel=-1.22 on_target=0.677 goal=0.169
+[086] FINAL Aldonço Canavieira: no alvo sem gol (roll=0.374)
+[087] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[087] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.363 roll=0.080
+[087] JOGADA Rural Atlético Clube | Marciano Capetinha x Mário Ricci line=4 duel=-12.63 corte=-1.30
+[087] JOGADA falhou: Mário Ricci cortou
+[088] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[088] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.530 roll=0.112
+[088] JOGADA Modesto Football Club | Célio Dimas x Érico Lorentino line=4 duel=-15.78 corte=-1.70
+[089] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[089] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.530 roll=0.592
+[090] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[090] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.363 roll=0.749
+[090] FINAL Rural Atlético Clube | Teliciano Garcia fam=5 duel=5.81 on_target=0.560 goal=0.138
+[090] FINAL Teliciano Garcia: no alvo sem gol (roll=0.311)
+[091] posse=Rural Atlético Clube | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[091] BUILD Rural Atlético Clube vs Modesto Football Club prob=0.363 roll=0.836
+[092] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[092] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.530 roll=0.777
+[093] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[093] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.530 roll=0.302
+[093] JOGADA Modesto Football Club | Tales Saldanha x João Pereba line=4 duel=-7.12 corte=-1.70
+[094] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[094] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.530 roll=0.459
+[094] JOGADA Modesto Football Club | Canhoteiro x João Pereba line=3 duel=-6.96 corte=-1.70
+[094] JOGADA falhou: João Pereba cortou
+[095] posse=Modesto Football Club | placar Modesto Football Club 0 x 1 Rural Atlético Clube
+[095] BUILD Modesto Football Club vs Rural Atlético Clube prob=0.530 roll=0.376
+[095] JOGADA Modesto Football Club | Aldonço Canavieira x Jebadias de Assunção line=5 duel=58.85 corte=-2.45
+[095] FINAL Modesto Football Club | Rigoberto Cabral fam=5 duel=5.09 on_target=0.678 goal=0.172
+[095] FINAL Rigoberto Cabral: no alvo sem gol (roll=0.580)

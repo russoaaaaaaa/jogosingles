@@ -1,0 +1,300 @@
+Partida #122
+Data: 1912-01-08
+Mandante: Guarany Marianense Football Club
+Visitante: Clube Atlético Ouro Preto
+Placar: 1 x 3
+Seed: -
+Estádio: Praça Gomes Freire
+Clima: Calor forte
+Placar tempo normal: 1 x 3
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Guarany Marianense Football Club x Clube Atlético Ouro Preto | estádio=Praça Gomes Freire | clima=Calor forte | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 0 x 0 Clube Atlético Ouro Preto
+[001] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.271 roll=0.868
+[002] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 0 x 0 Clube Atlético Ouro Preto
+[002] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.301 roll=0.389
+[003] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 0 x 0 Clube Atlético Ouro Preto
+[003] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.271 roll=0.619
+[004] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 0 x 0 Clube Atlético Ouro Preto
+[004] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.271 roll=0.017
+[004] JOGADA Clube Atlético Ouro Preto | Fudêncio Braga x Kauan de França line=4 duel=15.53 corte=-1.09
+[004] FINAL Clube Atlético Ouro Preto | Fudêncio Braga fam=1 duel=5.55 on_target=0.553 goal=0.209
+[004] FINAL Fudêncio Braga: no alvo sem gol (roll=0.800)
+[005] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 0 x 0 Clube Atlético Ouro Preto
+[005] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.301 roll=0.309
+[006] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 0 x 0 Clube Atlético Ouro Preto
+[006] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.271 roll=0.226
+[006] JOGADA Clube Atlético Ouro Preto | Tuco Tabajara x Dieguinho da Serra line=2 duel=13.82 corte=-1.09
+[006] FINAL Clube Atlético Ouro Preto | Hugo Enríquez fam=1 duel=14.41 on_target=0.553 goal=0.212
+[006] FINAL Hugo Enríquez: GOL subtipo=CHUTE (roll=0.010)
+[007] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 0 x 1 Clube Atlético Ouro Preto
+[007] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.338 roll=0.804
+[008] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 0 x 1 Clube Atlético Ouro Preto
+[008] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.338 roll=0.166
+[008] JOGADA Guarany Marianense Football Club | Bryan Lukas x Bago line=4 duel=97.84 corte=-1.70
+[008] FINAL Guarany Marianense Football Club | Bryan Lukas fam=5 duel=-85.18 on_target=0.479 goal=0.105
+[008] FINAL Bryan Lukas: fora/alvo perdido (roll=0.510)
+[009] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 0 x 1 Clube Atlético Ouro Preto
+[009] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.338 roll=0.011
+[009] JOGADA Guarany Marianense Football Club | Este Bob x Fudêncio Braga line=5 duel=28.01 corte=-1.95
+[009] FINAL Guarany Marianense Football Club | Lucas Soldado Abrantes fam=5 duel=-14.29 on_target=0.482 goal=0.133
+[009] FINAL Lucas Soldado Abrantes: GOL subtipo=FALTA (roll=0.002)
+[010] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 1 Clube Atlético Ouro Preto
+[010] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.301 roll=0.842
+[011] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 1 Clube Atlético Ouro Preto
+[011] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.293 roll=0.683
+[011] FINAL Clube Atlético Ouro Preto | Teixeira Góes fam=5 duel=-3.09 on_target=0.510 goal=0.128
+[011] FINAL Teixeira Góes: fora/alvo perdido (roll=0.998)
+[012] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 1 Clube Atlético Ouro Preto
+[012] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.293 roll=0.035
+[012] JOGADA Clube Atlético Ouro Preto | Felício Defensor Escudo x Este Bob line=3 duel=-13.17 corte=-1.09
+[012] JOGADA falhou: Este Bob cortou
+[013] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 1 Clube Atlético Ouro Preto
+[013] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.325 roll=0.633
+[014] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 1 Clube Atlético Ouro Preto
+[014] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.325 roll=0.605
+[015] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 1 Clube Atlético Ouro Preto
+[015] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.325 roll=0.527
+[016] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 1 Clube Atlético Ouro Preto
+[016] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.325 roll=0.918
+[017] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 1 Clube Atlético Ouro Preto
+[017] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.325 roll=0.517
+[017] FINAL Guarany Marianense Football Club | Este Bob fam=5 duel=-45.46 on_target=0.516 goal=0.126
+[017] FINAL Este Bob: fora/alvo perdido (roll=0.713)
+[018] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 1 Clube Atlético Ouro Preto
+[018] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.293 roll=0.165
+[018] JOGADA Clube Atlético Ouro Preto | Severino Fernandes x Lucas Soldado Abrantes line=3 duel=24.66 corte=-1.09
+[018] FINAL Clube Atlético Ouro Preto | Bago fam=1 duel=13.14 on_target=0.597 goal=0.226
+[018] FINAL Bago: GOL subtipo=CHUTE (roll=0.002)
+[019] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[019] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.366 roll=0.768
+[020] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[020] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.366 roll=0.599
+[021] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[021] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.315 roll=0.076
+[021] JOGADA Clube Atlético Ouro Preto | Perpétuo Juninho x Kauan de França line=3 duel=-0.60 corte=-1.30
+[021] FINAL Clube Atlético Ouro Preto | Diga Teco-Teco fam=1 duel=16.15 on_target=0.629 goal=0.234
+[021] FINAL Diga Teco-Teco: fora/alvo perdido (roll=0.749)
+[022] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[022] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.315 roll=0.879
+[023] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[023] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.910
+[024] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[024] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.315 roll=0.121
+[024] JOGADA Clube Atlético Ouro Preto | Deodato Hernandes x Rafael Mallister line=2 duel=15.34 corte=-1.30
+[024] FINAL Clube Atlético Ouro Preto | Fudêncio Braga fam=1 duel=-3.57 on_target=0.628 goal=0.226
+[024] FINAL Fudêncio Braga: no alvo sem gol (roll=0.782)
+[025] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[025] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.854
+[026] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[026] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.448
+[027] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[027] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.315 roll=0.822
+[028] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[028] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.698
+[029] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[029] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.815
+[030] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[030] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.315 roll=0.343
+[031] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[031] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.333
+[031] JOGADA Guarany Marianense Football Club | Bryan Lukas x Diga Teco-Teco line=5 duel=49.78 corte=-2.45
+[031] FINAL Guarany Marianense Football Club | Bryan Lukas fam=5 duel=-3.55 on_target=0.548 goal=0.151
+[031] FINAL Bryan Lukas: fora/alvo perdido (roll=0.603)
+[032] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[032] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.677
+[033] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[033] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.315 roll=0.576
+[034] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[034] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.075
+[034] JOGADA Guarany Marianense Football Club | Philip Shaw x Bago line=3 duel=83.45 corte=-1.70
+[034] FINAL Guarany Marianense Football Club | Philip Shaw fam=5 duel=-12.26 on_target=0.548 goal=0.148
+[034] FINAL Philip Shaw: no alvo sem gol (roll=0.749)
+[035] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[035] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.315 roll=0.398
+[036] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[036] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.074
+[036] JOGADA Guarany Marianense Football Club | Kauan de França x Teixeira Góes line=5 duel=48.01 corte=-1.95
+[036] FINAL Guarany Marianense Football Club | Lucas Soldado Abrantes fam=5 duel=-22.45 on_target=0.548 goal=0.143
+[036] FINAL Lucas Soldado Abrantes: no alvo sem gol (roll=0.685)
+[037] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[037] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.315 roll=0.355
+[038] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[038] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.315 roll=0.904
+[039] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[039] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.765
+[040] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[040] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.086
+[040] JOGADA Guarany Marianense Football Club | Lucas Soldado Abrantes x Deodato Hernandes line=4 duel=-31.15 corte=-1.70
+[040] JOGADA falhou: Deodato Hernandes cortou
+[041] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[041] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.697
+[042] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[042] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.727
+[043] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[043] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.288
+[043] JOGADA Guarany Marianense Football Club | Bryan Lukas x Tuco Tabajara line=4 duel=23.66 corte=-1.70
+[043] FINAL Guarany Marianense Football Club | Kauan de França fam=5 duel=-15.59 on_target=0.548 goal=0.146
+[043] FINAL Kauan de França: fora/alvo perdido (roll=0.586)
+[044] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[044] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.315 roll=0.050
+[044] JOGADA Clube Atlético Ouro Preto | Severino Fernandes x Lucas Soldado Abrantes line=3 duel=20.44 corte=-1.30
+[044] FINAL Clube Atlético Ouro Preto | Fudêncio Braga fam=1 duel=-3.84 on_target=0.628 goal=0.226
+[044] FINAL Fudêncio Braga: no alvo sem gol (roll=0.968)
+[045] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[045] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.928
+[046] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[046] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.293 roll=0.353
+[047] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[047] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.366 roll=0.485
+[048] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[048] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.293 roll=0.898
+[049] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[049] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.366 roll=0.782
+[050] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[050] SUB Guarany Marianense Football Club: saiu Lucas Soldado Abrantes (CA) | entrou Santiago Herrera (CA) | subs=1/5
+[050] SUB Clube Atlético Ouro Preto: saiu Fudêncio Braga (CA) | entrou Frederico Diamantinho (CA) | subs=1/5
+[050] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.365 roll=0.808
+[051] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[051] SUB Guarany Marianense Football Club: saiu Bryan Lukas (MA) | entrou Garfiel Júnior (MA) | subs=2/5
+[051] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.364 roll=0.426
+[052] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[052] SUB Guarany Marianense Football Club: saiu Rafael Mallister (ZAG) | entrou Patrick Sá (ZAG) | subs=3/5
+[052] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.294 roll=0.289
+[052] JOGADA Clube Atlético Ouro Preto | Perpétuo Juninho x Garfiel Júnior line=3 duel=-17.99 corte=-1.30
+[052] JOGADA falhou: Garfiel Júnior cortou
+[053] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[053] SUB Guarany Marianense Football Club: saiu Este Bob (LD) | entrou Nenê Bruto (AE) | subs=4/5
+[053] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.295 roll=0.664
+[054] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[054] SUB Guarany Marianense Football Club: saiu Kauan de França (MC) | entrou Vicente Mendes (MD) | subs=5/5
+[054] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.366 roll=0.897
+[055] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[055] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.294 roll=0.920
+[056] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[056] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.317 roll=0.304
+[056] JOGADA Clube Atlético Ouro Preto | Teixeira Góes x Luciano Arinos Pereira line=4 duel=-30.08 corte=-1.30
+[056] JOGADA falhou: Luciano Arinos Pereira cortou
+[057] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[057] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.128
+[057] JOGADA Guarany Marianense Football Club | Garfiel Júnior x Hugo Enríquez line=4 duel=106.95 corte=-1.70
+[057] FINAL Guarany Marianense Football Club | Philip Shaw fam=5 duel=-8.83 on_target=0.549 goal=0.149
+[057] FINAL Philip Shaw: fora/alvo perdido (roll=0.597)
+[058] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[058] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.317 roll=0.344
+[059] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[059] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.393 roll=0.147
+[059] JOGADA Guarany Marianense Football Club | Philip Shaw x Frederico Diamantinho line=4 duel=12.56 corte=-1.70
+[059] FINAL Guarany Marianense Football Club | Garfiel Júnior fam=5 duel=-36.12 on_target=0.546 goal=0.137
+[059] FINAL Garfiel Júnior: fora/alvo perdido (roll=0.886)
+[060] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[060] SUB Clube Atlético Ouro Preto: saiu Bago (PE) | entrou Alvino Bento Gonçalves (SA) | subs=2/5
+[060] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.396 roll=0.388
+[060] JOGADA Guarany Marianense Football Club | Lúcio Antunes x Alvino Bento Gonçalves line=4 duel=44.20 corte=-1.70
+[060] FINAL Guarany Marianense Football Club | Garfiel Júnior fam=5 duel=-35.57 on_target=0.547 goal=0.138
+[060] FINAL Garfiel Júnior: no alvo sem gol (roll=0.790)
+[061] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[061] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.396 roll=0.947
+[062] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[062] SUB Clube Atlético Ouro Preto: saiu Hugo Enríquez (PD) | entrou Dourado Ourinhos (PD) | subs=3/5
+[062] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.399 roll=0.151
+[062] JOGADA Guarany Marianense Football Club | Tomé Madureira x Frederico Diamantinho line=5 duel=16.98 corte=-1.95
+[062] FINAL Guarany Marianense Football Club | Vicente Mendes fam=5 duel=11.12 on_target=0.548 goal=0.158
+[062] FINAL Vicente Mendes: no alvo sem gol (roll=0.854)
+[063] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[063] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.399 roll=0.652
+[064] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[064] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.399 roll=0.546
+[065] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[065] SUB Clube Atlético Ouro Preto: saiu Perpétuo Juninho (ZAG) | entrou Eleutério Aguiar (ZAG) | subs=4/5
+[065] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.301 roll=0.254
+[065] JOGADA Clube Atlético Ouro Preto | Teixeira Góes x Santiago Herrera line=4 duel=27.13 corte=-1.30
+[065] FINAL Clube Atlético Ouro Preto | Frederico Diamantinho fam=1 duel=23.63 on_target=0.629 goal=0.237
+[065] FINAL Frederico Diamantinho: no alvo sem gol (roll=0.325)
+[066] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 2 Clube Atlético Ouro Preto
+[066] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.301 roll=0.182
+[066] JOGADA Clube Atlético Ouro Preto | Alvino Bento Gonçalves x Patrick Sá line=2 duel=4.58 corte=-1.30
+[066] FINAL Clube Atlético Ouro Preto | Frederico Diamantinho fam=1 duel=20.48 on_target=0.629 goal=0.236
+[066] FINAL Frederico Diamantinho: GOL subtipo=CHUTE (roll=0.143)
+[067] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[067] SUB Clube Atlético Ouro Preto: saiu Tuco Tabajara (MC) | entrou Arêa Leão (MC) | subs=5/5
+[067] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.293 roll=0.544
+[068] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[068] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.293 roll=0.943
+[069] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[069] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.293 roll=0.357
+[070] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[070] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.402 roll=0.740
+[071] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[071] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.293 roll=0.183
+[071] JOGADA Clube Atlético Ouro Preto | Diga Teco-Teco x Vicente Mendes line=4 duel=-8.31 corte=-1.30
+[071] FINAL Clube Atlético Ouro Preto | Diga Teco-Teco fam=5 duel=8.22 on_target=0.516 goal=0.128
+[071] FINAL Diga Teco-Teco: fora/alvo perdido (roll=0.598)
+[072] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[072] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.293 roll=0.619
+[073] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[073] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.293 roll=0.619
+[074] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[074] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.293 roll=0.606
+[075] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[075] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.402 roll=0.041
+[075] JOGADA Guarany Marianense Football Club | Philip Shaw x Severino Fernandes line=3 duel=-6.39 corte=-1.70
+[075] JOGADA falhou: Severino Fernandes cortou
+[076] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[076] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.434 roll=0.385
+[076] JOGADA Guarany Marianense Football Club | Vicente Mendes x Alvino Bento Gonçalves line=4 duel=40.35 corte=-1.70
+[076] FINAL Guarany Marianense Football Club | Santiago Herrera fam=5 duel=-0.49 on_target=0.588 goal=0.161
+[076] FINAL Santiago Herrera: no alvo sem gol (roll=0.735)
+[077] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[077] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.434 roll=0.201
+[077] JOGADA Guarany Marianense Football Club | Lúcio Antunes x Eleutério Aguiar line=3 duel=-4.83 corte=-1.70
+[077] JOGADA falhou: Eleutério Aguiar cortou
+[078] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[078] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.434 roll=0.964
+[079] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[079] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.284 roll=0.777
+[080] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[080] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.284 roll=0.991
+[081] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[081] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.284 roll=0.778
+[082] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[082] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.284 roll=0.677
+[083] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[083] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.434 roll=0.999
+[084] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[084] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.434 roll=0.111
+[084] JOGADA Guarany Marianense Football Club | Vicente Mendes x Felício Defensor Escudo line=4 duel=63.21 corte=-1.70
+[084] FINAL Guarany Marianense Football Club | Vicente Mendes fam=5 duel=2.39 on_target=0.587 goal=0.157
+[084] FINAL Vicente Mendes: fora/alvo perdido (roll=0.665)
+[085] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[085] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.284 roll=0.512
+[086] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[086] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.284 roll=0.076
+[086] JOGADA Clube Atlético Ouro Preto | Eleutério Aguiar x Lúcio Antunes line=2 duel=1.03 corte=-1.30
+[086] FINAL Clube Atlético Ouro Preto | Frederico Diamantinho fam=1 duel=3.99 on_target=0.592 goal=0.205
+[086] FINAL Frederico Diamantinho: fora/alvo perdido (roll=0.739)
+[087] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[087] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.430 roll=0.805
+[088] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[088] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.284 roll=0.503
+[089] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[089] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.430 roll=0.434
+[090] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[090] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.430 roll=0.718
+[090] FINAL Guarany Marianense Football Club | Tomé Madureira fam=5 duel=-8.96 on_target=0.586 goal=0.152
+[090] FINAL Tomé Madureira: fora/alvo perdido (roll=0.761)
+[091] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[091] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.430 roll=0.708
+[092] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[092] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.430 roll=0.956
+[093] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[093] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.430 roll=0.186
+[093] JOGADA Guarany Marianense Football Club | Dieguinho da Serra x Deodato Hernandes line=4 duel=-7.28 corte=-1.70
+[094] posse=Clube Atlético Ouro Preto | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[094] BUILD Clube Atlético Ouro Preto vs Guarany Marianense Football Club prob=0.284 roll=0.548
+[095] posse=Guarany Marianense Football Club | placar Guarany Marianense Football Club 1 x 3 Clube Atlético Ouro Preto
+[095] BUILD Guarany Marianense Football Club vs Clube Atlético Ouro Preto prob=0.430 roll=0.947

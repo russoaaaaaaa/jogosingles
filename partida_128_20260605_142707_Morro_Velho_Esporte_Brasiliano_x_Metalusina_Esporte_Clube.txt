@@ -1,0 +1,308 @@
+Partida #128
+Data: 1912-01-08
+Mandante: Morro Velho Esporte Brasiliano
+Visitante: Metalusina Esporte Clube
+Placar: 0 x 1
+Seed: -
+Estádio: Arena do Minerador
+Clima: Neblina
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Morro Velho Esporte Brasiliano x Metalusina Esporte Clube | estádio=Arena do Minerador | clima=Neblina | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[001] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.283 roll=0.213
+[001] JOGADA Metalusina Esporte Clube | Sabino Cordeiro x Pedro Crepúsculo line=2 duel=14.15 corte=-1.30
+[001] FINAL Metalusina Esporte Clube | Ary Bettencourt fam=5 duel=-93.58 on_target=0.515 goal=0.103
+[001] FINAL Ary Bettencourt: no alvo sem gol (roll=0.137)
+[002] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[002] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.366 roll=0.899
+[003] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[003] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.283 roll=0.004
+[003] JOGADA Metalusina Esporte Clube | Estêvão Amorim x Fabrício Jorgino line=4 duel=-21.56 corte=-1.30
+[004] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[004] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.366 roll=0.439
+[005] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[005] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.283 roll=0.688
+[006] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[006] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.283 roll=0.072
+[006] JOGADA Metalusina Esporte Clube | Fradique Agra x Dalius Stankevičius line=3 duel=26.51 corte=-1.30
+[006] FINAL Metalusina Esporte Clube | Lisandro Modesto fam=5 duel=-29.71 on_target=0.518 goal=0.129
+[006] FINAL Lisandro Modesto: fora/alvo perdido (roll=0.519)
+[007] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[007] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.283 roll=0.348
+[008] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[008] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.366 roll=0.035
+[008] JOGADA Morro Velho Esporte Brasiliano | Yanauá Maravilha x Lourenço Albergaria line=4 duel=-33.03 corte=-1.12
+[008] JOGADA falhou: Lourenço Albergaria cortou
+[009] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[009] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.366 roll=0.754
+[010] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[010] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.283 roll=0.214
+[010] JOGADA Metalusina Esporte Clube | Máximo Ávila x Eduardo Pinto line=2 duel=9.15 corte=-1.30
+[010] FINAL Metalusina Esporte Clube | Ary Bettencourt fam=5 duel=-12.36 on_target=0.519 goal=0.137
+[010] FINAL Ary Bettencourt: fora/alvo perdido (roll=0.577)
+[011] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[011] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.306 roll=0.792
+[012] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[012] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.396 roll=0.358
+[012] JOGADA Morro Velho Esporte Brasiliano | Franscisco Novaes x Lisandro Modesto line=4 duel=18.36 corte=-1.12
+[012] FINAL Morro Velho Esporte Brasiliano | Fernão Noites fam=3 duel=-5.06 on_target=0.587 goal=0.178
+[012] FINAL Fernão Noites: fora/alvo perdido (roll=0.610)
+[013] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[013] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.396 roll=0.898
+[014] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[014] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.396 roll=0.509
+[015] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[015] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.396 roll=0.299
+[015] JOGADA Morro Velho Esporte Brasiliano | Otávio Vila x Felício de Lima line=3 duel=-3.61 corte=-1.12
+[015] JOGADA falhou: Felício de Lima cortou
+[016] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[016] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.306 roll=0.247
+[016] JOGADA Metalusina Esporte Clube | Estêvão Amorim x Pedro Crepúsculo line=4 duel=-30.80 corte=-1.30
+[017] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[017] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.396 roll=0.131
+[017] JOGADA Morro Velho Esporte Brasiliano | Pedro Crepúsculo x Máximo Ávila line=3 duel=-0.64 corte=-1.12
+[017] JOGADA Morro Velho Esporte Brasiliano | Yanauá Maravilha x Máximo Ávila line=4 duel=-68.12 corte=-1.12
+[017] JOGADA falhou: Máximo Ávila cortou
+[018] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[018] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.306 roll=0.598
+[019] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[019] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.306 roll=0.550
+[020] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[020] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.306 roll=0.066
+[020] JOGADA Metalusina Esporte Clube | Fradique Agra x Eduardo Pinto line=4 duel=-12.21 corte=-1.30
+[020] JOGADA falhou: Eduardo Pinto cortou
+[021] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[021] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.425 roll=0.873
+[022] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[022] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.425 roll=0.131
+[022] JOGADA Morro Velho Esporte Brasiliano | Otávio Vila x Lisandro Modesto line=2 duel=19.16 corte=-1.12
+[022] JOGADA Morro Velho Esporte Brasiliano | Eduardo Pinto x Felício de Lima line=3 duel=2.81 corte=-1.12
+[022] JOGADA Morro Velho Esporte Brasiliano | Dalius Stankevičius x Lisandro Modesto line=4 duel=24.16 corte=-1.12
+[022] FINAL Morro Velho Esporte Brasiliano | Fernão Noites fam=3 duel=-9.70 on_target=0.618 goal=0.181
+[022] FINAL Fernão Noites: no alvo sem gol (roll=0.741)
+[023] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[023] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.329 roll=0.559
+[024] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[024] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.425 roll=0.113
+[024] JOGADA Morro Velho Esporte Brasiliano | Fernão Noites x Lourenço Albergaria line=3 duel=84.69 corte=-1.12
+[024] JOGADA Morro Velho Esporte Brasiliano | Emanuel Tantálides x Felício de Lima line=4 duel=-83.60 corte=-1.12
+[024] JOGADA falhou: Felício de Lima cortou
+[025] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[025] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.329 roll=0.565
+[026] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[026] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.329 roll=0.814
+[027] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[027] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.425 roll=0.784
+[028] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[028] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.425 roll=0.596
+[029] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[029] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.425 roll=0.001
+[029] JOGADA Morro Velho Esporte Brasiliano | Paredão x Lourenço Albergaria line=3 duel=24.09 corte=-1.12
+[029] JOGADA Morro Velho Esporte Brasiliano | Eduardo Pinto x Lourenço Albergaria line=4 duel=11.44 corte=-1.12
+[029] FINAL Morro Velho Esporte Brasiliano | Fernão Noites fam=3 duel=-36.18 on_target=0.616 goal=0.169
+[029] FINAL Fernão Noites: no alvo sem gol (roll=0.448)
+[030] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[030] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.425 roll=0.748
+[031] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[031] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.425 roll=0.770
+[032] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[032] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.332 roll=0.585
+[033] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[033] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.332 roll=0.803
+[034] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[034] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.332 roll=0.842
+[035] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[035] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.332 roll=0.453
+[036] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[036] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.332 roll=0.986
+[037] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[037] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.425 roll=0.622
+[038] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[038] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.425 roll=0.482
+[039] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[039] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.332 roll=0.932
+[040] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[040] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.332 roll=0.192
+[040] JOGADA Metalusina Esporte Clube | Felício de Lima x Paredão line=3 duel=4.73 corte=-1.30
+[040] FINAL Metalusina Esporte Clube | Felício de Lima fam=5 duel=-3.14 on_target=0.592 goal=0.156
+[040] FINAL Felício de Lima: no alvo sem gol (roll=0.645)
+[041] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[041] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.332 roll=0.574
+[042] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[042] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.332 roll=0.677
+[043] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[043] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.332 roll=0.774
+[044] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[044] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.332 roll=0.277
+[044] JOGADA Metalusina Esporte Clube | Ary Bettencourt x Dalius Stankevičius line=2 duel=13.39 corte=-1.30
+[044] FINAL Metalusina Esporte Clube | Fradique Agra fam=1 duel=-25.97 on_target=0.679 goal=0.235
+[044] FINAL Fradique Agra: no alvo sem gol (roll=0.604)
+[045] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[045] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.332 roll=0.781
+[046] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[046] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.396 roll=0.933
+[047] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[047] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.396 roll=0.141
+[047] JOGADA Morro Velho Esporte Brasiliano | Otávio Vila x Décimo Botelho line=3 duel=-10.39 corte=-1.11
+[047] JOGADA falhou: Décimo Botelho cortou
+[048] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[048] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.396 roll=0.736
+[049] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[049] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.396 roll=0.210
+[049] JOGADA Morro Velho Esporte Brasiliano | Paredão x Fradique Agra line=3 duel=27.11 corte=-1.11
+[049] FINAL Morro Velho Esporte Brasiliano | Fernão Noites fam=1 duel=-4.31 on_target=0.647 goal=0.233
+[049] FINAL Fernão Noites: no alvo sem gol (roll=0.971)
+[050] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[050] SUB Morro Velho Esporte Brasiliano: saiu Fernão Noites (SA) | entrou Alberto Teixeira (MA) | subs=1/5
+[050] SUB Metalusina Esporte Clube: saiu Ary Bettencourt (SA) | entrou Basílio Monteiro (SA) | subs=1/5
+[050] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.308 roll=0.743
+[051] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[051] SUB Morro Velho Esporte Brasiliano: saiu Yanauá Maravilha (CA) | entrou Dagoberto de Mello (CA) | subs=2/5
+[051] SUB Metalusina Esporte Clube: saiu Fradique Agra (CA) | entrou Estevão Brito (CA) | subs=2/5
+[051] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.384 roll=0.231
+[051] JOGADA Morro Velho Esporte Brasiliano | Otávio Vila x Lourenço Albergaria line=3 duel=84.03 corte=-1.12
+[051] JOGADA Morro Velho Esporte Brasiliano | Emanuel Tantálides x Basílio Monteiro line=4 duel=37.60 corte=-1.12
+[051] JOGADA Morro Velho Esporte Brasiliano | Paredão x Estêvão Amorim line=4 duel=-0.45 corte=-1.12
+[051] FINAL Morro Velho Esporte Brasiliano | Franscisco Novaes fam=1 duel=-0.38 on_target=0.647 goal=0.234
+[051] FINAL Franscisco Novaes: fora/alvo perdido (roll=0.913)
+[052] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[052] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.384 roll=0.496
+[053] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[053] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.384 roll=0.769
+[054] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 0 Metalusina Esporte Clube
+[054] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.299 roll=0.074
+[054] JOGADA Metalusina Esporte Clube | Felício de Lima x Pedro Crepúsculo line=3 duel=16.37 corte=-1.30
+[054] FINAL Metalusina Esporte Clube | Basílio Monteiro fam=5 duel=5.91 on_target=0.562 goal=0.154
+[054] FINAL Basílio Monteiro: GOL subtipo=FALTA (roll=0.059)
+[055] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[055] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.436 roll=0.426
+[055] JOGADA Morro Velho Esporte Brasiliano | Dagoberto de Mello x Máximo Ávila line=3 duel=107.63 corte=-1.09
+[055] JOGADA Morro Velho Esporte Brasiliano | Alberto Teixeira x Lisandro Modesto line=4 duel=-15.06 corte=-1.09
+[055] JOGADA falhou: Lisandro Modesto cortou
+[056] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[056] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.469 roll=0.063
+[056] JOGADA Morro Velho Esporte Brasiliano | Alberto Teixeira x Lourenço Albergaria line=2 duel=92.39 corte=-1.09
+[056] JOGADA Morro Velho Esporte Brasiliano | Dalius Stankevičius x Basílio Monteiro line=4 duel=26.41 corte=-1.09
+[056] FINAL Morro Velho Esporte Brasiliano | Alberto Teixeira fam=3 duel=18.31 on_target=0.619 goal=0.194
+[056] FINAL Alberto Teixeira: fora/alvo perdido (roll=0.972)
+[057] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[057] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.359 roll=0.523
+[058] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[058] SUB Metalusina Esporte Clube: saiu Lisandro Modesto (MA) | entrou Basílio Gama (MC) | subs=3/5
+[058] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.369 roll=0.191
+[058] JOGADA Metalusina Esporte Clube | Felício de Lima x Pedro Crepúsculo line=3 duel=14.57 corte=-1.30
+[058] FINAL Metalusina Esporte Clube | Estevão Brito fam=5 duel=2.08 on_target=0.593 goal=0.160
+[058] FINAL Estevão Brito: no alvo sem gol (roll=0.883)
+[059] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[059] SUB Metalusina Esporte Clube: saiu Mílton Pinto (AE) | entrou Elzo Mata (AE) | subs=4/5
+[059] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.437 roll=0.421
+[059] JOGADA Morro Velho Esporte Brasiliano | Dalius Stankevičius x Felício de Lima line=3 duel=0.88 corte=-1.08
+[059] JOGADA Morro Velho Esporte Brasiliano | Emanuel Tantálides x Décimo Botelho line=4 duel=-15.58 corte=-1.08
+[060] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[060] SUB Morro Velho Esporte Brasiliano: saiu Pedro Crepúsculo (ZAG) | entrou Konstantin Belov (ZAG) | subs=3/5
+[060] SUB Metalusina Esporte Clube: saiu Estêvão Amorim (ZAG) | entrou Omar Agostinho (ZAG) | subs=5/5
+[060] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.447 roll=0.976
+[061] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[061] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.366 roll=0.878
+[062] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[062] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.366 roll=0.172
+[062] JOGADA Metalusina Esporte Clube | Basílio Gama x Dalius Stankevičius line=3 duel=31.64 corte=-1.30
+[062] FINAL Metalusina Esporte Clube | Basílio Monteiro fam=5 duel=3.45 on_target=0.592 goal=0.159
+[062] FINAL Basílio Monteiro: fora/alvo perdido (roll=0.655)
+[063] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[063] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.366 roll=0.911
+[064] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[064] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.366 roll=0.583
+[065] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[065] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.447 roll=0.941
+[066] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[066] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.366 roll=0.173
+[066] JOGADA Metalusina Esporte Clube | Basílio Gama x Alberto Teixeira line=3 duel=-8.04 corte=-1.30
+[066] JOGADA falhou: Alberto Teixeira cortou
+[067] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[067] SUB Morro Velho Esporte Brasiliano: saiu Franscisco Novaes (PD) | entrou Ezequiel Almirón (MD) | subs=4/5
+[067] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.446 roll=0.453
+[068] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[068] SUB Morro Velho Esporte Brasiliano: saiu Eduardo Pinto (MA) | entrou Jan Klocko (ME) | subs=5/5
+[068] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.370 roll=0.239
+[068] JOGADA Metalusina Esporte Clube | Sabino Cordeiro x Dalius Stankevičius line=4 duel=4.27 corte=-1.30
+[068] JOGADA Metalusina Esporte Clube | Máximo Ávila x Jan Klocko line=4 duel=-38.86 corte=-1.30
+[069] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[069] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.444 roll=0.236
+[069] JOGADA Morro Velho Esporte Brasiliano | Ezequiel Almirón x Estevão Brito line=3 duel=23.51 corte=-1.08
+[069] JOGADA Morro Velho Esporte Brasiliano | Otávio Vila x Elzo Mata line=4 duel=-38.56 corte=-1.08
+[070] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[070] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.385 roll=0.474
+[071] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[071] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.385 roll=0.867
+[072] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[072] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.444 roll=0.330
+[072] JOGADA Morro Velho Esporte Brasiliano | Otávio Vila x Décimo Botelho line=4 duel=10.71 corte=-1.04
+[072] JOGADA Morro Velho Esporte Brasiliano | Paredão x Elzo Mata line=4 duel=-42.72 corte=-1.04
+[072] JOGADA falhou: Elzo Mata cortou
+[073] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[073] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.444 roll=0.357
+[073] JOGADA Morro Velho Esporte Brasiliano | Jan Klocko x Omar Agostinho line=2 duel=76.26 corte=-1.04
+[073] JOGADA Morro Velho Esporte Brasiliano | Jan Klocko x Lourenço Albergaria line=4 duel=33.06 corte=-1.04
+[073] FINAL Morro Velho Esporte Brasiliano | Dagoberto de Mello fam=3 duel=24.31 on_target=0.619 goal=0.197
+[073] FINAL Dagoberto de Mello: fora/alvo perdido (roll=0.720)
+[074] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[074] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.385 roll=0.431
+[075] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[075] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.385 roll=0.489
+[076] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[076] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.374 roll=0.323
+[076] JOGADA Metalusina Esporte Clube | Basílio Monteiro x Fabrício Jorgino line=2 duel=-5.36 corte=-1.30
+[076] JOGADA falhou: Fabrício Jorgino cortou
+[077] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[077] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.374 roll=0.392
+[078] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[078] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.374 roll=0.386
+[079] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[079] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.374 roll=0.727
+[080] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[080] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.480 roll=0.840
+[081] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[081] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.374 roll=0.128
+[081] JOGADA Metalusina Esporte Clube | Basílio Gama x Jan Klocko line=4 duel=-29.35 corte=-1.30
+[081] JOGADA falhou: Jan Klocko cortou
+[082] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[082] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.374 roll=0.602
+[083] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[083] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.480 roll=0.067
+[083] JOGADA Morro Velho Esporte Brasiliano | Jan Klocko x Elzo Mata line=3 duel=-3.21 corte=-1.04
+[083] JOGADA falhou: Elzo Mata cortou
+[084] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[084] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.374 roll=0.610
+[085] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[085] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.374 roll=0.280
+[085] JOGADA Metalusina Esporte Clube | Décimo Botelho x Dagoberto de Mello line=2 duel=-23.02 corte=-1.30
+[085] JOGADA falhou: Dagoberto de Mello cortou
+[086] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[086] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.374 roll=0.549
+[087] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[087] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.505 roll=0.372
+[087] JOGADA Morro Velho Esporte Brasiliano | Fabrício Jorgino x Lourenço Albergaria line=3 duel=34.35 corte=-1.04
+[087] JOGADA Morro Velho Esporte Brasiliano | Otávio Vila x Felício de Lima line=4 duel=-17.02 corte=-1.04
+[087] JOGADA falhou: Felício de Lima cortou
+[088] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[088] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.505 roll=0.358
+[088] JOGADA Morro Velho Esporte Brasiliano | Emanuel Tantálides x Décimo Botelho line=2 duel=-8.64 corte=-1.04
+[089] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[089] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.505 roll=0.271
+[089] JOGADA Morro Velho Esporte Brasiliano | Paredão x Estevão Brito line=4 duel=-28.03 corte=-1.04
+[089] JOGADA falhou: Estevão Brito cortou
+[090] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[090] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.374 roll=0.520
+[091] posse=Metalusina Esporte Clube | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[091] BUILD Metalusina Esporte Clube vs Morro Velho Esporte Brasiliano prob=0.374 roll=0.478
+[092] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[092] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.505 roll=0.291
+[092] JOGADA Morro Velho Esporte Brasiliano | Paredão x Felício de Lima line=4 duel=-21.49 corte=-1.04
+[093] posse=Morro Velho Esporte Brasiliano | placar Morro Velho Esporte Brasiliano 0 x 1 Metalusina Esporte Clube
+[093] BUILD Morro Velho Esporte Brasiliano vs Metalusina Esporte Clube prob=0.505 roll=0.618

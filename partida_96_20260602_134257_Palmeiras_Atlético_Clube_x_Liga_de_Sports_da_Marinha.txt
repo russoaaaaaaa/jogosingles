@@ -1,0 +1,346 @@
+Partida #96
+Data: 1912-01-07
+Mandante: Palmeiras Atlético Clube
+Visitante: Liga de Sports da Marinha
+Placar: 0 x 2
+Seed: -
+Estádio: Arena São Christóvão
+Clima: Calor forte
+Placar tempo normal: 0 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Palmeiras Atlético Clube x Liga de Sports da Marinha | estádio=Arena São Christóvão | clima=Calor forte | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[001] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.305 roll=0.050
+[001] JOGADA Palmeiras Atlético Clube | Oto Dantas x Thales Bacelar line=4 duel=-6.57 corte=-1.70
+[002] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[002] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.338 roll=0.325
+[002] JOGADA Liga de Sports da Marinha | Bianor Caldeira x Oto Dantas line=4 duel=-65.25 corte=-1.11
+[002] JOGADA falhou: Oto Dantas cortou
+[003] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[003] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.305 roll=0.003
+[003] JOGADA Palmeiras Atlético Clube | Aquil Cardoso x Geraldo Montanari line=3 duel=18.99 corte=-1.70
+[003] FINAL Palmeiras Atlético Clube | Aquil Cardoso fam=5 duel=-20.89 on_target=0.583 goal=0.150
+[003] FINAL Aquil Cardoso: fora/alvo perdido (roll=0.727)
+[004] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[004] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.305 roll=0.941
+[004] FINAL Palmeiras Atlético Clube | Hermenegildo Coimbra fam=5 duel=-10.29 on_target=0.584 goal=0.155
+[004] FINAL Hermenegildo Coimbra: fora/alvo perdido (roll=0.790)
+[005] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[005] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.305 roll=0.544
+[006] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[006] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.305 roll=0.843
+[007] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[007] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.305 roll=0.713
+[008] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[008] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.338 roll=0.011
+[008] JOGADA Liga de Sports da Marinha | Bianor Caldeira x Xavier Pascoal line=4 duel=6.41 corte=-1.11
+[008] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=3 duel=10.91 on_target=0.613 goal=0.195
+[008] FINAL Geraldo Montanari: no alvo sem gol (roll=0.818)
+[009] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[009] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.305 roll=0.254
+[009] JOGADA Palmeiras Atlético Clube | Amadeus Carrico x Thales Bacelar line=3 duel=6.04 corte=-1.70
+[009] FINAL Palmeiras Atlético Clube | Caetano Modesto fam=5 duel=-94.85 on_target=0.581 goal=0.116
+[009] FINAL Caetano Modesto: no alvo sem gol (roll=0.311)
+[010] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[010] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.338 roll=0.755
+[011] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[011] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.330 roll=0.652
+[012] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[012] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.330 roll=0.807
+[012] FINAL Palmeiras Atlético Clube | Octaviano Tomás fam=5 duel=-116.94 on_target=0.623 goal=0.112
+[012] FINAL Octaviano Tomás: no alvo sem gol (roll=0.787)
+[013] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[013] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.366 roll=0.101
+[013] JOGADA Liga de Sports da Marinha | Thales Bacelar x Hermenegildo Coimbra line=5 duel=14.94 corte=-1.36
+[013] JOGADA Liga de Sports da Marinha | Arsénio Barros x Albino Rocha line=5 duel=83.98 corte=-1.36
+[013] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=1 duel=-0.15 on_target=0.729 goal=0.263
+[013] FINAL Geraldo Montanari: no alvo sem gol (roll=0.880)
+[014] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[014] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.330 roll=0.039
+[014] JOGADA Palmeiras Atlético Clube | Oto Dantas x Josefino Conceição line=3 duel=-12.16 corte=-1.70
+[014] JOGADA falhou: Josefino Conceição cortou
+[015] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[015] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.366 roll=0.192
+[015] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Vladimiro Bandeira line=5 duel=-5.04 corte=-1.36
+[015] JOGADA falhou: Vladimiro Bandeira cortou
+[016] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[016] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.366 roll=0.392
+[017] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[017] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.330 roll=0.839
+[018] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[018] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.366 roll=0.899
+[019] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[019] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.366 roll=0.010
+[019] JOGADA Liga de Sports da Marinha | Arsénio Barros x Caetano Modesto line=4 duel=8.52 corte=-1.11
+[019] JOGADA Liga de Sports da Marinha | Caim Avelar x Caetano Modesto line=5 duel=76.48 corte=-1.36
+[019] JOGADA Liga de Sports da Marinha | Eriberto Monte x Vladimiro Bandeira line=5 duel=-9.28 corte=-1.36
+[019] JOGADA falhou: Vladimiro Bandeira cortou
+[020] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[020] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.330 roll=0.223
+[020] JOGADA Palmeiras Atlético Clube | Albino Rocha x Eriberto Monte line=2 duel=-17.92 corte=-1.70
+[020] JOGADA falhou: Eriberto Monte cortou
+[021] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[021] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.557
+[022] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[022] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.355 roll=0.773
+[023] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[023] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.818
+[024] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[024] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.270
+[024] JOGADA Liga de Sports da Marinha | Genival Rosa x Caetano Modesto line=4 duel=-8.95 corte=-1.11
+[024] JOGADA falhou: Caetano Modesto cortou
+[025] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[025] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.355 roll=0.992
+[026] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[026] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.773
+[027] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[027] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.355 roll=0.191
+[027] JOGADA Palmeiras Atlético Clube | Amadeus Carrico x Genival Rosa line=2 duel=80.57 corte=-1.70
+[027] FINAL Palmeiras Atlético Clube | Amadeus Carrico fam=5 duel=-14.07 on_target=0.665 goal=0.169
+[027] FINAL Amadeus Carrico: fora/alvo perdido (roll=0.809)
+[028] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[028] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.455
+[029] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[029] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.355 roll=0.787
+[030] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[030] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.355 roll=0.855
+[030] FINAL Palmeiras Atlético Clube | Oto Dantas fam=5 duel=-88.61 on_target=0.659 goal=0.130
+[030] FINAL Oto Dantas: fora/alvo perdido (roll=0.818)
+[031] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[031] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.103
+[031] JOGADA Liga de Sports da Marinha | Arsénio Barros x Amadeus Carrico line=4 duel=41.69 corte=-1.11
+[031] JOGADA Liga de Sports da Marinha | Bianor Caldeira x Amadeus Carrico line=5 duel=40.81 corte=-1.36
+[031] JOGADA Liga de Sports da Marinha | Thales Bacelar x Oto Dantas line=5 duel=2.33 corte=-1.36
+[031] FINAL Liga de Sports da Marinha | Genival Rosa fam=1 duel=3.92 on_target=0.767 goal=0.273
+[031] FINAL Genival Rosa: no alvo sem gol (roll=0.318)
+[032] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[032] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.310
+[032] JOGADA Liga de Sports da Marinha | Eriberto Monte x Octaviano Tomás line=4 duel=0.26 corte=-1.11
+[032] JOGADA Liga de Sports da Marinha | Josefino Conceição x Aquil Cardoso line=4 duel=5.53 corte=-1.11
+[032] JOGADA Liga de Sports da Marinha | Eriberto Monte x Elísio Albergaria line=5 duel=33.61 corte=-1.36
+[032] FINAL Liga de Sports da Marinha | Genival Rosa fam=1 duel=1.73 on_target=0.767 goal=0.271
+[032] FINAL Genival Rosa: no alvo sem gol (roll=0.945)
+[033] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[033] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.968
+[034] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[034] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.358 roll=0.150
+[034] JOGADA Palmeiras Atlético Clube | Hermenegildo Coimbra x Thales Bacelar line=4 duel=-26.17 corte=-1.70
+[034] JOGADA falhou: Thales Bacelar cortou
+[035] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[035] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.358 roll=0.316
+[035] JOGADA Palmeiras Atlético Clube | Oto Dantas x Arsénio Barros line=4 duel=-50.95 corte=-1.70
+[035] JOGADA falhou: Arsénio Barros cortou
+[036] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[036] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.358 roll=0.866
+[037] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[037] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.358 roll=0.355
+[037] JOGADA Palmeiras Atlético Clube | Hermenegildo Coimbra x Arsénio Barros line=3 duel=-17.82 corte=-1.70
+[037] JOGADA falhou: Arsénio Barros cortou
+[038] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[038] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.920
+[039] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[039] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.502
+[040] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 0 Liga de Sports da Marinha
+[040] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.240
+[040] JOGADA Liga de Sports da Marinha | Arsénio Barros x Xavier Pascoal line=5 duel=74.22 corte=-1.36
+[040] JOGADA Liga de Sports da Marinha | Roraima De Marchi x Aquil Cardoso line=5 duel=40.84 corte=-1.36
+[040] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Albino Rocha line=5 duel=47.58 corte=-1.36
+[040] FINAL Liga de Sports da Marinha | Caim Avelar fam=1 duel=-7.27 on_target=0.766 goal=0.267
+[040] FINAL Caim Avelar: GOL subtipo=CHUTE (roll=0.254)
+[041] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[041] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.399 roll=0.725
+[042] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[042] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.721
+[043] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[043] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.182
+[043] JOGADA Liga de Sports da Marinha | Arsénio Barros x Octaviano Tomás line=4 duel=6.97 corte=-1.30
+[043] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=1 duel=9.51 on_target=0.768 goal=0.276
+[043] FINAL Geraldo Montanari: no alvo sem gol (roll=0.786)
+[044] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[044] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.399 roll=0.569
+[045] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[045] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.393 roll=0.793
+[046] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[046] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.366 roll=0.435
+[047] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[047] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.366 roll=0.404
+[048] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[048] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.371 roll=0.645
+[049] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[049] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.371 roll=0.650
+[050] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[050] SUB Palmeiras Atlético Clube: saiu Elísio Albergaria (SA) | entrou Azuil Moura (SA) | subs=1/5
+[050] SUB Liga de Sports da Marinha: saiu Roraima De Marchi (MC) | entrou Agatão Martins (VOL) | subs=1/5
+[050] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.366 roll=0.634
+[051] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[051] SUB Palmeiras Atlético Clube: saiu Amadeus Carrico (CA) | entrou Mílton Albuquerque (CA) | subs=2/5
+[051] SUB Liga de Sports da Marinha: saiu Genival Rosa (SA) | entrou Curuaia Fasano (PE) | subs=2/5
+[051] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.359 roll=0.787
+[052] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[052] SUB Palmeiras Atlético Clube: saiu Hermenegildo Coimbra (MA) | entrou Dorico Guedes (MA) | subs=3/5
+[052] SUB Liga de Sports da Marinha: saiu Bianor Caldeira (MD) | entrou Sócrates Inácio (MD) | subs=3/5
+[052] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.363 roll=0.024
+[052] JOGADA Liga de Sports da Marinha | Sócrates Inácio x Dorico Guedes line=5 duel=87.87 corte=-1.55
+[052] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=3 duel=13.08 on_target=0.662 goal=0.209
+[052] FINAL Geraldo Montanari: fora/alvo perdido (roll=0.888)
+[053] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[053] SUB Palmeiras Atlético Clube: saiu Aquil Cardoso (AE) | entrou Mirco Henriques (LE) | subs=4/5
+[053] SUB Liga de Sports da Marinha: saiu Josefino Conceição (LE) | entrou Elano Nolasco (LE) | subs=4/5
+[053] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.362 roll=0.216
+[053] JOGADA Palmeiras Atlético Clube | Caetano Modesto x Agatão Martins line=4 duel=-18.11 corte=-1.70
+[054] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[054] SUB Palmeiras Atlético Clube: saiu Octaviano Tomás (AD) | entrou Vili Cardoso (LD) | subs=5/5
+[054] SUB Liga de Sports da Marinha: saiu Thales Bacelar (ME) | entrou Waldir Pamplona (ME) | subs=5/5
+[054] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.367 roll=0.192
+[054] JOGADA Palmeiras Atlético Clube | Vili Cardoso x Caim Avelar line=3 duel=24.53 corte=-1.70
+[054] FINAL Palmeiras Atlético Clube | Mílton Albuquerque fam=5 duel=14.73 on_target=0.635 goal=0.181
+[054] FINAL Mílton Albuquerque: no alvo sem gol (roll=0.604)
+[055] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[055] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.351 roll=0.453
+[056] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[056] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.395 roll=0.027
+[056] JOGADA Palmeiras Atlético Clube | Azuil Moura x Eriberto Monte line=3 duel=0.78 corte=-1.70
+[056] FINAL Palmeiras Atlético Clube | Dorico Guedes fam=5 duel=20.85 on_target=0.668 goal=0.190
+[056] FINAL Dorico Guedes: no alvo sem gol (roll=0.924)
+[057] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[057] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.378 roll=0.434
+[058] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[058] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.378 roll=0.708
+[059] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[059] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.378 roll=0.870
+[060] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[060] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.378 roll=0.509
+[061] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[061] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.378 roll=0.992
+[062] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[062] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.378 roll=0.010
+[062] JOGADA Liga de Sports da Marinha | Curuaia Fasano x Xavier Pascoal line=4 duel=25.41 corte=-1.30
+[062] JOGADA Liga de Sports da Marinha | Arsénio Barros x Albino Rocha line=5 duel=58.36 corte=-1.55
+[062] JOGADA Liga de Sports da Marinha | Curuaia Fasano x Azuil Moura line=5 duel=105.03 corte=-2.05
+[062] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=3 duel=7.84 on_target=0.697 goal=0.212
+[062] FINAL Geraldo Montanari: no alvo sem gol (roll=0.522)
+[063] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[063] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.378 roll=0.623
+[064] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[064] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.398 roll=0.378
+[064] JOGADA Palmeiras Atlético Clube | Oto Dantas x Geraldo Montanari line=3 duel=3.09 corte=-1.70
+[064] FINAL Palmeiras Atlético Clube | Dorico Guedes fam=5 duel=-37.01 on_target=0.665 goal=0.161
+[064] FINAL Dorico Guedes: no alvo sem gol (roll=0.246)
+[065] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[065] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.378 roll=0.166
+[065] JOGADA Liga de Sports da Marinha | Arsénio Barros x Oto Dantas line=5 duel=11.99 corte=-1.55
+[065] JOGADA Liga de Sports da Marinha | Waldir Pamplona x Albino Rocha line=5 duel=86.72 corte=-1.55
+[065] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Caetano Modesto line=5 duel=-8.06 corte=-1.55
+[065] JOGADA falhou: Caetano Modesto cortou
+[066] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[066] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.398 roll=0.418
+[067] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[067] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.398 roll=0.365
+[067] JOGADA Palmeiras Atlético Clube | Caetano Modesto x Arsénio Barros line=4 duel=-41.48 corte=-1.70
+[067] JOGADA falhou: Arsénio Barros cortou
+[068] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[068] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.378 roll=0.190
+[068] JOGADA Liga de Sports da Marinha | Arsénio Barros x Albino Rocha line=4 duel=3.52 corte=-1.30
+[068] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=1 duel=11.13 on_target=0.768 goal=0.277
+[068] FINAL Geraldo Montanari: fora/alvo perdido (roll=0.940)
+[069] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[069] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.378 roll=0.154
+[069] JOGADA Liga de Sports da Marinha | Agatão Martins x Azuil Moura line=3 duel=82.22 corte=-1.30
+[069] JOGADA Liga de Sports da Marinha | Geraldo Montanari x Azuil Moura line=4 duel=21.85 corte=-1.30
+[069] FINAL Liga de Sports da Marinha | Caim Avelar fam=1 duel=-0.82 on_target=0.766 goal=0.270
+[069] FINAL Caim Avelar: no alvo sem gol (roll=0.896)
+[070] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[070] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.375 roll=0.960
+[071] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[071] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.398 roll=0.859
+[072] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[072] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.398 roll=0.974
+[073] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[073] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.375 roll=0.550
+[074] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[074] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.375 roll=0.556
+[075] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[075] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.375 roll=0.359
+[075] JOGADA Liga de Sports da Marinha | Eriberto Monte x Albino Rocha line=4 duel=2.99 corte=-1.30
+[075] JOGADA Liga de Sports da Marinha | Isidro Vilaça x Azuil Moura line=4 duel=17.13 corte=-1.30
+[075] JOGADA Liga de Sports da Marinha | Waldir Pamplona x Vili Cardoso line=5 duel=50.63 corte=-1.55
+[075] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=1 duel=3.09 on_target=0.756 goal=0.267
+[075] FINAL Geraldo Montanari: no alvo sem gol (roll=0.367)
+[076] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[076] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.430 roll=0.185
+[076] JOGADA Palmeiras Atlético Clube | Azuil Moura x Agatão Martins line=4 duel=-26.67 corte=-1.70
+[076] JOGADA falhou: Agatão Martins cortou
+[077] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[077] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.363 roll=0.391
+[078] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[078] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.363 roll=0.114
+[078] JOGADA Liga de Sports da Marinha | Eriberto Monte x Dorico Guedes line=5 duel=-3.97 corte=-1.55
+[078] JOGADA falhou: Dorico Guedes cortou
+[079] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[079] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.430 roll=0.282
+[079] JOGADA Palmeiras Atlético Clube | Mílton Albuquerque x Curuaia Fasano line=4 duel=7.44 corte=-1.70
+[079] JOGADA Palmeiras Atlético Clube | Caetano Modesto x Geraldo Montanari line=5 duel=17.46 corte=-1.95
+[079] JOGADA Palmeiras Atlético Clube | Caetano Modesto x Isidro Vilaça line=5 duel=-2.75 corte=-1.95
+[079] JOGADA falhou: Isidro Vilaça cortou
+[080] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[080] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.430 roll=0.032
+[080] JOGADA Palmeiras Atlético Clube | Dorico Guedes x Isidro Vilaça line=2 duel=8.97 corte=-1.70
+[080] FINAL Palmeiras Atlético Clube | Caetano Modesto fam=5 duel=-7.21 on_target=0.715 goal=0.186
+[080] FINAL Caetano Modesto: no alvo sem gol (roll=0.711)
+[081] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[081] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.430 roll=0.749
+[082] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 1 Liga de Sports da Marinha
+[082] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.363 roll=0.301
+[082] JOGADA Liga de Sports da Marinha | Eriberto Monte x Xavier Pascoal line=4 duel=-0.16 corte=-1.30
+[082] JOGADA Liga de Sports da Marinha | Caim Avelar x Azuil Moura line=4 duel=28.39 corte=-1.30
+[082] JOGADA Liga de Sports da Marinha | Waldir Pamplona x Vladimiro Bandeira line=5 duel=11.65 corte=-1.55
+[082] FINAL Liga de Sports da Marinha | Geraldo Montanari fam=1 duel=3.09 on_target=0.741 goal=0.272
+[082] FINAL Geraldo Montanari: GOL subtipo=CHUTE (roll=0.176)
+[083] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[083] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.435 roll=0.770
+[084] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[084] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.435 roll=0.934
+[085] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[085] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.360 roll=0.636
+[086] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[086] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.360 roll=0.633
+[087] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[087] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.503 roll=0.400
+[087] JOGADA Palmeiras Atlético Clube | Vladimiro Bandeira x Isidro Vilaça line=4 duel=-28.56 corte=-1.70
+[087] JOGADA falhou: Isidro Vilaça cortou
+[088] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[088] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.360 roll=0.427
+[089] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[089] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.503 roll=0.783
+[089] FINAL Palmeiras Atlético Clube | Vladimiro Bandeira fam=5 duel=-12.22 on_target=0.817 goal=0.189
+[089] FINAL Vladimiro Bandeira: no alvo sem gol (roll=0.560)
+[090] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[090] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.503 roll=0.157
+[090] JOGADA Palmeiras Atlético Clube | Mirco Henriques x Curuaia Fasano line=3 duel=35.70 corte=-1.70
+[090] FINAL Palmeiras Atlético Clube | Mílton Albuquerque fam=5 duel=-9.59 on_target=0.818 goal=0.191
+[090] FINAL Mílton Albuquerque: fora/alvo perdido (roll=0.993)
+[091] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[091] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.503 roll=0.084
+[091] JOGADA Palmeiras Atlético Clube | Caetano Modesto x Elano Nolasco line=3 duel=30.97 corte=-1.70
+[091] FINAL Palmeiras Atlético Clube | Azuil Moura fam=5 duel=-10.88 on_target=0.817 goal=0.190
+[091] FINAL Azuil Moura: no alvo sem gol (roll=0.514)
+[092] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[092] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.503 roll=0.170
+[092] JOGADA Palmeiras Atlético Clube | Oto Dantas x Waldir Pamplona line=4 duel=-2.71 corte=-1.70
+[092] JOGADA falhou: Waldir Pamplona cortou
+[093] posse=Liga de Sports da Marinha | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[093] BUILD Liga de Sports da Marinha vs Palmeiras Atlético Clube prob=0.360 roll=0.262
+[093] JOGADA Liga de Sports da Marinha | Elano Nolasco x Caetano Modesto line=4 duel=4.62 corte=-1.30
+[093] JOGADA Liga de Sports da Marinha | Geraldo Montanari x Mirco Henriques line=4 duel=2.51 corte=-1.30
+[093] FINAL Liga de Sports da Marinha | Curuaia Fasano fam=1 duel=-0.75 on_target=0.727 goal=0.261
+[093] FINAL Curuaia Fasano: no alvo sem gol (roll=0.492)
+[094] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[094] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.503 roll=0.805
+[095] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[095] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.503 roll=0.714
+[096] posse=Palmeiras Atlético Clube | placar Palmeiras Atlético Clube 0 x 2 Liga de Sports da Marinha
+[096] BUILD Palmeiras Atlético Clube vs Liga de Sports da Marinha prob=0.503 roll=0.560

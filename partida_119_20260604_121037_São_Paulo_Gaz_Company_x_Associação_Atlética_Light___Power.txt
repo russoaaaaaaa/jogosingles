@@ -1,0 +1,309 @@
+Partida #119
+Data: 1912-01-08
+Mandante: São Paulo Gaz Company
+Visitante: Associação Atlética Light & Power
+Placar: 0 x 3
+Seed: -
+Estádio: Arena da Consolação
+Clima: Neblina
+Placar tempo normal: 0 x 3
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: São Paulo Gaz Company x Associação Atlética Light & Power | estádio=Arena da Consolação | clima=Neblina | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[001] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.311 roll=0.212
+[001] JOGADA Associação Atlética Light & Power | Georgie Rayner x Guido Alvarenga line=4 duel=41.53 corte=-1.11
+[001] FINAL Associação Atlética Light & Power | Crosby Rowan fam=1 duel=11.42 on_target=0.602 goal=0.226
+[001] FINAL Crosby Rowan: fora/alvo perdido (roll=0.742)
+[002] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[002] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.311 roll=0.475
+[003] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[003] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.311 roll=0.306
+[003] JOGADA Associação Atlética Light & Power | Danny Trotman x Gílson Menezes line=3 duel=37.21 corte=-1.11
+[003] FINAL Associação Atlética Light & Power | Darren Cooke fam=1 duel=13.02 on_target=0.609 goal=0.230
+[003] FINAL Darren Cooke: fora/alvo perdido (roll=0.948)
+[004] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[004] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.257 roll=0.965
+[005] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[005] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.311 roll=0.335
+[006] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[006] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.257 roll=0.704
+[007] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[007] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.311 roll=0.462
+[008] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[008] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.311 roll=0.795
+[009] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[009] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.257 roll=0.565
+[010] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[010] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.257 roll=0.303
+[011] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[011] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.336 roll=0.151
+[011] JOGADA Associação Atlética Light & Power | Grover Colegrove x Guido Alvarenga line=3 duel=50.29 corte=-1.11
+[011] FINAL Associação Atlética Light & Power | Grover Colegrove fam=1 duel=14.59 on_target=0.655 goal=0.245
+[011] FINAL Grover Colegrove: fora/alvo perdido (roll=0.823)
+[012] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[012] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.336 roll=0.370
+[013] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[013] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.278 roll=0.185
+[013] JOGADA São Paulo Gaz Company | Izaías Nazareth x Graham Penfold line=4 duel=-71.29 corte=-1.70
+[013] JOGADA falhou: Graham Penfold cortou
+[014] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[014] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.278 roll=0.139
+[014] JOGADA São Paulo Gaz Company | Alexandrino Guerra x Georgie Rayner line=4 duel=-24.45 corte=-1.70
+[014] JOGADA falhou: Georgie Rayner cortou
+[015] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[015] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.278 roll=0.228
+[015] JOGADA São Paulo Gaz Company | Leandro Gaspar x Danny Trotman line=3 duel=97.78 corte=-1.70
+[015] JOGADA São Paulo Gaz Company | Izaías Nazareth x Matt Maclachlan line=4 duel=-36.05 corte=-1.70
+[015] JOGADA falhou: Matt Maclachlan cortou
+[016] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[016] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.278 roll=0.945
+[016] FINAL São Paulo Gaz Company | Dener Calado fam=5 duel=-37.70 on_target=0.559 goal=0.132
+[016] FINAL Dener Calado: fora/alvo perdido (roll=0.957)
+[017] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[017] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.278 roll=0.784
+[018] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[018] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.336 roll=0.354
+[019] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[019] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.278 roll=0.818
+[020] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[020] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.278 roll=0.586
+[021] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[021] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.636
+[021] FINAL Associação Atlética Light & Power | Crosby Rowan fam=5 duel=0.23 on_target=0.584 goal=0.143
+[021] FINAL Crosby Rowan: no alvo sem gol (roll=0.906)
+[022] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[022] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.299 roll=0.198
+[022] JOGADA São Paulo Gaz Company | Alexandrino Guerra x Franz Leonhart line=3 duel=-11.59 corte=-1.70
+[023] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[023] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.567
+[024] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[024] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.583
+[025] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[025] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.299 roll=0.859
+[026] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[026] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.336
+[026] JOGADA Associação Atlética Light & Power | Franz Leonhart x Izaías Nazareth line=5 duel=59.08 corte=-1.36
+[026] FINAL Associação Atlética Light & Power | Danny Trotman fam=1 duel=-0.10 on_target=0.691 goal=0.247
+[026] FINAL Danny Trotman: no alvo sem gol (roll=0.285)
+[027] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 0 Associação Atlética Light & Power
+[027] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.184
+[027] JOGADA Associação Atlética Light & Power | Dudley Hawkyard x Guido Alvarenga line=5 duel=42.36 corte=-1.36
+[027] FINAL Associação Atlética Light & Power | Danny Trotman fam=1 duel=-0.44 on_target=0.691 goal=0.247
+[027] FINAL Danny Trotman: GOL subtipo=CHUTE (roll=0.037)
+[028] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[028] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.353
+[028] JOGADA Associação Atlética Light & Power | Dudley Hawkyard x Izaías Nazareth line=4 duel=51.73 corte=-1.30
+[028] FINAL Associação Atlética Light & Power | Danny Trotman fam=1 duel=0.96 on_target=0.691 goal=0.247
+[028] FINAL Danny Trotman: no alvo sem gol (roll=0.600)
+[029] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[029] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.335 roll=0.219
+[029] JOGADA São Paulo Gaz Company | Dener Calado x Franz Leonhart line=3 duel=-15.69 corte=-1.70
+[030] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[030] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.335 roll=0.255
+[030] JOGADA São Paulo Gaz Company | Izaías Nazareth x Dudley Hawkyard line=4 duel=-18.78 corte=-1.70
+[031] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[031] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.335 roll=0.863
+[032] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[032] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.519
+[033] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[033] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.335 roll=0.014
+[033] JOGADA São Paulo Gaz Company | Dener Calado x Grover Colegrove line=2 duel=-13.82 corte=-1.70
+[033] JOGADA falhou: Grover Colegrove cortou
+[034] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[034] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.940
+[035] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[035] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.335 roll=0.915
+[036] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[036] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.218
+[036] JOGADA Associação Atlética Light & Power | Darren Cooke x Alexandrino Guerra line=5 duel=22.27 corte=-2.05
+[036] FINAL Associação Atlética Light & Power | Darren Cooke fam=1 duel=-2.17 on_target=0.691 goal=0.246
+[036] FINAL Darren Cooke: no alvo sem gol (roll=0.257)
+[037] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[037] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.335 roll=0.609
+[038] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[038] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.419
+[039] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[039] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.335 roll=0.945
+[040] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[040] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.944
+[041] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[041] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.335 roll=0.272
+[041] JOGADA São Paulo Gaz Company | Heraldo Jacinto x Danny Trotman line=3 duel=13.60 corte=-1.70
+[041] JOGADA São Paulo Gaz Company | Leandro Gaspar x Matt Maclachlan line=4 duel=-27.56 corte=-1.70
+[042] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[042] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.335 roll=0.821
+[043] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[043] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.493
+[044] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[044] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.318
+[044] JOGADA Associação Atlética Light & Power | Danny Trotman x Guido Alvarenga line=5 duel=58.12 corte=-2.05
+[044] FINAL Associação Atlética Light & Power | Aldrich Chisenhall fam=1 duel=7.53 on_target=0.687 goal=0.248
+[044] FINAL Aldrich Chisenhall: no alvo sem gol (roll=0.270)
+[045] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[045] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.361 roll=0.725
+[046] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[046] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.336 roll=0.499
+[047] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[047] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.336 roll=0.459
+[048] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[048] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.336 roll=0.959
+[049] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[049] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.311 roll=0.092
+[049] JOGADA São Paulo Gaz Company | Dener Calado x Graham Penfold line=4 duel=-12.97 corte=-1.70
+[049] JOGADA falhou: Graham Penfold cortou
+[050] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[050] SUB São Paulo Gaz Company: saiu Izaías Nazareth (SA) | entrou Gleison Velasques (PD) | subs=1/5
+[050] SUB Associação Atlética Light & Power: saiu Darren Cooke (SA) | entrou Derek Bragg (SA) | subs=1/5
+[050] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.321 roll=0.222
+[050] JOGADA São Paulo Gaz Company | Gleison Velasques x Derek Bragg line=4 duel=32.62 corte=-1.70
+[050] FINAL São Paulo Gaz Company | Gleison Velasques fam=5 duel=16.44 on_target=0.564 goal=0.159
+[050] FINAL Gleison Velasques: no alvo sem gol (roll=0.446)
+[051] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[051] SUB São Paulo Gaz Company: saiu Pacal Carneiro (MC) | entrou Natão Siqueira (VOL) | subs=2/5
+[051] SUB Associação Atlética Light & Power: saiu Danny Trotman (CA) | entrou Chester Thirdkill (PD) | subs=2/5
+[051] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.321 roll=0.092
+[051] JOGADA São Paulo Gaz Company | Alexandrino Guerra x Chester Thirdkill line=4 duel=2.76 corte=-1.70
+[051] JOGADA São Paulo Gaz Company | Gílson Menezes x Georgie Rayner line=4 duel=-13.81 corte=-1.70
+[052] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 1 Associação Atlética Light & Power
+[052] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.346 roll=0.254
+[052] JOGADA Associação Atlética Light & Power | Dudley Hawkyard x Guido Alvarenga line=5 duel=102.98 corte=-1.55
+[052] FINAL Associação Atlética Light & Power | Derek Bragg fam=1 duel=35.54 on_target=0.651 goal=0.251
+[052] FINAL Derek Bragg: GOL subtipo=CHUTE (roll=0.107)
+[053] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[053] SUB São Paulo Gaz Company: saiu Natanael Franchini (ZAG) | entrou Anhangá Hipólito (ZAG) | subs=3/5
+[053] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.341 roll=0.516
+[054] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[054] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.341 roll=0.578
+[055] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[055] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.325 roll=0.837
+[056] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[056] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.367 roll=0.805
+[057] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[057] SUB São Paulo Gaz Company: saiu Alexandrino Guerra (MC) | entrou Abaju Fidalgo (VOL) | subs=4/5
+[057] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.350 roll=0.186
+[057] JOGADA São Paulo Gaz Company | Heraldo Jacinto x Georgie Rayner line=4 duel=-32.61 corte=-1.70
+[057] JOGADA falhou: Georgie Rayner cortou
+[058] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[058] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.350 roll=0.041
+[058] JOGADA São Paulo Gaz Company | Castelino Benatti x Chester Thirdkill line=3 duel=20.50 corte=-1.70
+[058] JOGADA São Paulo Gaz Company | Castelino Benatti x Franz Leonhart line=4 duel=-3.77 corte=-1.70
+[058] JOGADA falhou: Franz Leonhart cortou
+[059] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[059] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.350 roll=0.292
+[059] JOGADA São Paulo Gaz Company | Guido Alvarenga x Grover Colegrove line=2 duel=-17.02 corte=-1.70
+[059] JOGADA falhou: Grover Colegrove cortou
+[060] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[060] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.353 roll=0.353
+[060] JOGADA São Paulo Gaz Company | Natão Siqueira x Dudley Hawkyard line=4 duel=-60.49 corte=-1.70
+[060] JOGADA falhou: Dudley Hawkyard cortou
+[061] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[061] SUB São Paulo Gaz Company: saiu Heraldo Jacinto (ZAG) | entrou Alão Rego (ZAG) | subs=5/5
+[061] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.354 roll=0.339
+[061] JOGADA São Paulo Gaz Company | Anhangá Hipólito x Aldrich Chisenhall line=4 duel=-6.20 corte=-1.70
+[062] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[062] SUB Associação Atlética Light & Power: saiu Crosby Rowan (MD) | entrou Kelvin MacArchill (MD) | subs=3/5
+[062] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.370 roll=0.424
+[063] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[063] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.370 roll=0.165
+[063] JOGADA Associação Atlética Light & Power | Graham Penfold x Anhangá Hipólito line=4 duel=-3.77 corte=-1.30
+[064] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[064] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.370 roll=0.314
+[064] JOGADA Associação Atlética Light & Power | Dudley Hawkyard x Gleison Velasques line=5 duel=21.86 corte=-1.55
+[064] FINAL Associação Atlética Light & Power | Derek Bragg fam=1 duel=31.21 on_target=0.658 goal=0.240
+[064] FINAL Derek Bragg: no alvo sem gol (roll=0.941)
+[065] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[065] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.370 roll=0.710
+[066] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[066] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.370 roll=0.221
+[066] JOGADA Associação Atlética Light & Power | Dudley Hawkyard x Castelino Benatti line=5 duel=58.89 corte=-1.55
+[066] FINAL Associação Atlética Light & Power | Kelvin MacArchill fam=1 duel=42.59 on_target=0.657 goal=0.244
+[066] FINAL Kelvin MacArchill: no alvo sem gol (roll=0.351)
+[067] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[067] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.370 roll=0.553
+[068] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[068] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.354 roll=0.588
+[069] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[069] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.354 roll=0.323
+[069] JOGADA São Paulo Gaz Company | Gílson Menezes x Dudley Hawkyard line=3 duel=9.81 corte=-1.70
+[069] FINAL São Paulo Gaz Company | Leandro Gaspar fam=5 duel=-11.46 on_target=0.593 goal=0.153
+[069] FINAL Leandro Gaspar: fora/alvo perdido (roll=0.745)
+[070] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[070] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.370 roll=0.811
+[071] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[071] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.354 roll=0.161
+[071] JOGADA São Paulo Gaz Company | Gílson Menezes x Derek Bragg line=4 duel=-50.08 corte=-1.70
+[071] JOGADA falhou: Derek Bragg cortou
+[072] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[072] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.354 roll=0.536
+[073] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[073] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.354 roll=0.065
+[073] JOGADA São Paulo Gaz Company | Leandro Gaspar x Aldrich Chisenhall line=3 duel=28.89 corte=-1.70
+[073] JOGADA São Paulo Gaz Company | Gílson Menezes x Graham Penfold line=4 duel=-2.47 corte=-1.70
+[074] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[074] SUB Associação Atlética Light & Power: saiu Dudley Hawkyard (MC) | entrou Chris Padden (MA) | subs=4/5
+[074] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.371 roll=0.485
+[075] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[075] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.353 roll=0.860
+[076] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[076] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.381 roll=0.442
+[077] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[077] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.381 roll=0.298
+[077] JOGADA São Paulo Gaz Company | Castelino Benatti x Kelvin MacArchill line=4 duel=-19.71 corte=-1.70
+[078] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[078] SUB Associação Atlética Light & Power: saiu Derek Bragg (SA) | entrou Brewster Natt (MA) | subs=5/5
+[078] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.381 roll=0.078
+[078] JOGADA São Paulo Gaz Company | Gleison Velasques x Kelvin MacArchill line=4 duel=-2.12 corte=-1.70
+[078] JOGADA falhou: Kelvin MacArchill cortou
+[079] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 2 Associação Atlética Light & Power
+[079] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.359 roll=0.102
+[079] JOGADA Associação Atlética Light & Power | Graham Penfold x Abaju Fidalgo line=5 duel=28.51 corte=-1.55
+[079] FINAL Associação Atlética Light & Power | Chester Thirdkill fam=1 duel=26.53 on_target=0.644 goal=0.235
+[079] FINAL Chester Thirdkill: GOL subtipo=CHUTE (roll=0.046)
+[080] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[080] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.385 roll=0.659
+[081] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[081] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.385 roll=0.806
+[082] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[082] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.351 roll=0.681
+[083] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[083] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.351 roll=0.741
+[084] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[084] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.385 roll=0.983
+[085] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[085] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.405 roll=0.860
+[086] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[086] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.351 roll=0.973
+[087] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[087] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.351 roll=0.741
+[088] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[088] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.351 roll=0.432
+[089] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[089] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.405 roll=0.550
+[090] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[090] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.351 roll=0.269
+[090] JOGADA Associação Atlética Light & Power | Chester Thirdkill x Gílson Menezes line=5 duel=77.30 corte=-2.05
+[090] FINAL Associação Atlética Light & Power | Chris Padden fam=3 duel=14.73 on_target=0.560 goal=0.166
+[090] FINAL Chris Padden: no alvo sem gol (roll=0.857)
+[091] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[091] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.351 roll=0.503
+[092] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[092] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.405 roll=0.601
+[093] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[093] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.405 roll=0.537
+[094] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[094] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.405 roll=0.047
+[094] JOGADA São Paulo Gaz Company | Leandro Gaspar x Georgie Rayner line=3 duel=-10.55 corte=-1.70
+[094] JOGADA falhou: Georgie Rayner cortou
+[095] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[095] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.351 roll=0.017
+[095] JOGADA Associação Atlética Light & Power | Chester Thirdkill x Guido Alvarenga line=5 duel=71.80 corte=-2.05
+[095] FINAL Associação Atlética Light & Power | Brewster Natt fam=3 duel=13.48 on_target=0.560 goal=0.165
+[095] FINAL Brewster Natt: fora/alvo perdido (roll=0.779)
+[096] posse=Associação Atlética Light & Power | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[096] BUILD Associação Atlética Light & Power vs São Paulo Gaz Company prob=0.351 roll=0.800
+[097] posse=São Paulo Gaz Company | placar São Paulo Gaz Company 0 x 3 Associação Atlética Light & Power
+[097] BUILD São Paulo Gaz Company vs Associação Atlética Light & Power prob=0.405 roll=0.613

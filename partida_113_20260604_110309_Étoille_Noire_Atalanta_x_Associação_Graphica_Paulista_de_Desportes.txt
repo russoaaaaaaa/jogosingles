@@ -1,0 +1,335 @@
+Partida #113
+Data: 1912-01-08
+Mandante: Étoille Noire Atalanta
+Visitante: Associação Graphica Paulista de Desportes
+Placar: 2 x 0
+Seed: -
+Estádio: Pacaembu
+Clima: Calor forte
+Placar tempo normal: 2 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Étoille Noire Atalanta x Associação Graphica Paulista de Desportes | estádio=Pacaembu | clima=Calor forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 0 x 0 Associação Graphica Paulista de Desportes
+[001] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.375 roll=0.103
+[001] JOGADA Étoille Noire Atalanta | Louis Mesnier x Rubim Cordeiro line=4 duel=14.39 corte=-1.11
+[001] JOGADA Étoille Noire Atalanta | Gandulla x Nilo Varela line=5 duel=92.91 corte=-1.36
+[001] JOGADA Étoille Noire Atalanta | Eugène Maës x Grácio Barros line=5 duel=147.74 corte=-1.86
+[001] FINAL Étoille Noire Atalanta | Angelito Agüero fam=1 duel=9.16 on_target=0.601 goal=0.224
+[001] FINAL Angelito Agüero: GOL subtipo=CHUTE (roll=0.178)
+[002] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[002] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.376 roll=0.970
+[003] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[003] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.376 roll=0.506
+[004] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[004] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.376 roll=0.796
+[004] FINAL Associação Graphica Paulista de Desportes | Mariano Barbosa fam=5 duel=-44.68 on_target=0.519 goal=0.126
+[004] FINAL Mariano Barbosa: fora/alvo perdido (roll=0.542)
+[005] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[005] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.376 roll=0.506
+[006] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[006] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.375 roll=0.935
+[007] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[007] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.375 roll=0.412
+[008] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[008] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.376 roll=0.005
+[008] JOGADA Associação Graphica Paulista de Desportes | Aquino Cortes x Evaristo Trindade line=5 duel=64.50 corte=-1.55
+[008] FINAL Associação Graphica Paulista de Desportes | Grácio Barros fam=5 duel=-6.30 on_target=0.521 goal=0.142
+[008] FINAL Grácio Barros: fora/alvo perdido (roll=0.591)
+[009] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[009] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.375 roll=0.903
+[010] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[010] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.376 roll=0.500
+[011] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[011] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.405 roll=0.952
+[012] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[012] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.405 roll=0.793
+[013] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[013] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.405 roll=0.648
+[014] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[014] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.406 roll=0.949
+[015] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[015] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.406 roll=0.543
+[016] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[016] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.406 roll=0.282
+[016] JOGADA Associação Graphica Paulista de Desportes | Leonardo Costa x Angelito Agüero line=5 duel=137.92 corte=-1.55
+[016] FINAL Associação Graphica Paulista de Desportes | Vero Brito fam=5 duel=-9.44 on_target=0.564 goal=0.151
+[016] FINAL Vero Brito: fora/alvo perdido (roll=0.614)
+[017] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[017] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.406 roll=0.296
+[017] JOGADA Associação Graphica Paulista de Desportes | Narsélio Corte-real x Evaristo Trindade line=4 duel=68.28 corte=-1.30
+[017] FINAL Associação Graphica Paulista de Desportes | Grácio Barros fam=5 duel=-85.84 on_target=0.558 goal=0.116
+[017] FINAL Grácio Barros: fora/alvo perdido (roll=0.926)
+[018] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[018] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.406 roll=0.243
+[018] JOGADA Associação Graphica Paulista de Desportes | Rubim Cordeiro x Alvaro Kindelán line=4 duel=0.25 corte=-1.30
+[018] FINAL Associação Graphica Paulista de Desportes | Vero Brito fam=5 duel=-10.36 on_target=0.564 goal=0.150
+[018] FINAL Vero Brito: no alvo sem gol (roll=0.383)
+[019] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[019] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.405 roll=0.488
+[020] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[020] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.405 roll=0.876
+[021] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[021] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.436 roll=0.299
+[021] JOGADA Étoille Noire Atalanta | Gandulla x Leonardo Costa line=3 duel=4.90 corte=-1.30
+[021] JOGADA Étoille Noire Atalanta | Louis Mesnier x Vero Brito line=4 duel=51.66 corte=-1.30
+[021] FINAL Étoille Noire Atalanta | Angelito Agüero fam=3 duel=-2.32 on_target=0.619 goal=0.185
+[021] FINAL Angelito Agüero: fora/alvo perdido (roll=0.812)
+[022] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[022] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.437 roll=0.889
+[022] FINAL Associação Graphica Paulista de Desportes | Aquira Paiva fam=5 duel=-5.86 on_target=0.594 goal=0.157
+[022] FINAL Aquira Paiva: no alvo sem gol (roll=0.792)
+[023] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[023] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.436 roll=0.264
+[023] JOGADA Étoille Noire Atalanta | Jean Ducret x Narsélio Corte-real line=3 duel=38.70 corte=-1.30
+[023] JOGADA Étoille Noire Atalanta | Gandulla x Aquira Paiva line=4 duel=9.25 corte=-1.30
+[023] FINAL Étoille Noire Atalanta | Angelito Agüero fam=3 duel=-6.79 on_target=0.619 goal=0.183
+[023] FINAL Angelito Agüero: no alvo sem gol (roll=0.611)
+[024] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[024] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.437 roll=0.082
+[024] JOGADA Associação Graphica Paulista de Desportes | Leonardo Costa x Jean Ducret line=5 duel=27.22 corte=-1.55
+[024] FINAL Associação Graphica Paulista de Desportes | Vero Brito fam=5 duel=-77.57 on_target=0.590 goal=0.124
+[024] FINAL Vero Brito: no alvo sem gol (roll=0.929)
+[025] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[025] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.436 roll=0.742
+[026] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[026] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.437 roll=0.981
+[027] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[027] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.437 roll=0.540
+[028] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[028] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.437 roll=0.464
+[029] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[029] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.436 roll=0.001
+[029] JOGADA Étoille Noire Atalanta | Louis Mesnier x Mariano Barbosa line=4 duel=-65.09 corte=-1.30
+[029] JOGADA falhou: Mariano Barbosa cortou
+[030] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[030] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.436 roll=0.723
+[031] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[031] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.436 roll=0.786
+[032] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[032] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.436 roll=0.586
+[033] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[033] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.437 roll=0.970
+[034] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 1 x 0 Associação Graphica Paulista de Desportes
+[034] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.436 roll=0.339
+[034] JOGADA Étoille Noire Atalanta | Evaristo Trindade x Vero Brito line=4 duel=52.86 corte=-1.30
+[034] JOGADA Étoille Noire Atalanta | Antony Garrastazu x Vero Brito line=4 duel=27.12 corte=-1.30
+[034] JOGADA Étoille Noire Atalanta | Alvaro Kindelán x Mariano Barbosa line=5 duel=52.76 corte=-1.55
+[034] FINAL Étoille Noire Atalanta | Eugène Maës fam=1 duel=12.42 on_target=0.684 goal=0.248
+[034] FINAL Eugène Maës: GOL subtipo=CHUTE (roll=0.181)
+[035] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[035] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.427 roll=0.108
+[035] JOGADA Étoille Noire Atalanta | Jean Ducret x Aquino Cortes line=2 duel=14.19 corte=-1.30
+[035] JOGADA Étoille Noire Atalanta | Gabriel Hanot x Vero Brito line=3 duel=40.36 corte=-1.30
+[035] JOGADA Étoille Noire Atalanta | Neco Nunes x Vero Brito line=4 duel=45.94 corte=-1.30
+[036] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[036] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.427 roll=0.996
+[037] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[037] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.441 roll=0.510
+[038] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[038] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.427 roll=0.805
+[039] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[039] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.441 roll=0.575
+[040] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[040] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.441 roll=0.967
+[041] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[041] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.427 roll=0.644
+[042] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[042] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.441 roll=0.854
+[043] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[043] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.441 roll=0.601
+[044] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[044] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.441 roll=0.544
+[045] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[045] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.427 roll=0.022
+[045] JOGADA Étoille Noire Atalanta | Neco Nunes x Leonardo Costa line=4 duel=0.15 corte=-1.30
+[045] JOGADA Étoille Noire Atalanta | Angelito Agüero x Salomão Passos line=5 duel=-2.25 corte=-2.05
+[045] JOGADA falhou: Salomão Passos cortou
+[046] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[046] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.410 roll=0.009
+[046] JOGADA Associação Graphica Paulista de Desportes | Rubim Cordeiro x Eugène Maës line=5 duel=44.09 corte=-2.05
+[046] FINAL Associação Graphica Paulista de Desportes | Vero Brito fam=5 duel=-9.50 on_target=0.565 goal=0.152
+[046] FINAL Vero Brito: no alvo sem gol (roll=0.750)
+[047] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[047] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.410 roll=0.502
+[048] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[048] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.397 roll=0.870
+[049] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[049] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.410 roll=0.909
+[050] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[050] SUB Étoille Noire Atalanta: saiu Angelito Agüero (CA) | entrou Guido Gambinha (CA) | subs=1/5
+[050] SUB Associação Graphica Paulista de Desportes: saiu Vero Brito (SA) | entrou Remi Botelho (CA) | subs=1/5
+[050] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.416 roll=0.887
+[051] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[051] SUB Associação Graphica Paulista de Desportes: saiu Grácio Barros (SA) | entrou Eugénio Parra (MA) | subs=2/5
+[051] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.393 roll=0.505
+[052] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[052] SUB Associação Graphica Paulista de Desportes: saiu Aquino Cortes (MC) | entrou Russel Agostinho (MC) | subs=3/5
+[052] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.393 roll=0.294
+[052] JOGADA Étoille Noire Atalanta | Alvaro Kindelán x Narsélio Corte-real line=3 duel=20.66 corte=-1.30
+[052] JOGADA Étoille Noire Atalanta | Jean Ducret x Remi Botelho line=4 duel=20.62 corte=-1.30
+[052] JOGADA Étoille Noire Atalanta | Evaristo Trindade x Eugénio Parra line=5 duel=52.43 corte=-1.55
+[052] FINAL Étoille Noire Atalanta | Guido Gambinha fam=1 duel=25.31 on_target=0.624 goal=0.229
+[052] FINAL Guido Gambinha: no alvo sem gol (roll=0.291)
+[053] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[053] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.393 roll=0.405
+[054] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[054] SUB Associação Graphica Paulista de Desportes: saiu Mariano Barbosa (ZAG) | entrou Irmino Machado (VOL) | subs=4/5
+[054] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.391 roll=0.336
+[054] JOGADA Étoille Noire Atalanta | Gandulla x Leonardo Costa line=3 duel=-2.14 corte=-1.30
+[054] JOGADA falhou: Leonardo Costa cortou
+[055] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[055] SUB Étoille Noire Atalanta: saiu Gandulla (ME) | entrou Marius Royet (ME) | subs=2/5
+[055] SUB Associação Graphica Paulista de Desportes: saiu Nilo Varela (ZAG) | entrou Adalsino Silva (ZAG) | subs=5/5
+[055] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.402 roll=0.236
+[055] JOGADA Étoille Noire Atalanta | Neco Nunes x Adalsino Silva line=2 duel=-18.76 corte=-1.30
+[055] JOGADA falhou: Adalsino Silva cortou
+[056] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[056] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.432 roll=0.443
+[057] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[057] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.414 roll=0.045
+[057] JOGADA Associação Graphica Paulista de Desportes | Narsélio Corte-real x Evaristo Trindade line=5 duel=-4.52 corte=-1.55
+[057] JOGADA falhou: Evaristo Trindade cortou
+[058] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[058] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.414 roll=0.847
+[059] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[059] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.414 roll=0.302
+[059] JOGADA Associação Graphica Paulista de Desportes | Narsélio Corte-real x Gabriel Hanot line=4 duel=51.02 corte=-1.30
+[059] FINAL Associação Graphica Paulista de Desportes | Remi Botelho fam=5 duel=-18.01 on_target=0.595 goal=0.153
+[059] FINAL Remi Botelho: fora/alvo perdido (roll=0.763)
+[060] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[060] SUB Étoille Noire Atalanta: saiu Eugène Maës (SA) | entrou Carlos Alberto (SA) | subs=3/5
+[060] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.427 roll=0.597
+[061] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[061] SUB Étoille Noire Atalanta: saiu Jean Ducret (MC) | entrou Italo Gambarotta (MC) | subs=4/5
+[061] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.423 roll=0.429
+[062] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[062] SUB Étoille Noire Atalanta: saiu Neco Nunes (MC) | entrou Lúcio Bianchi (MA) | subs=5/5
+[062] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.421 roll=0.881
+[062] FINAL Étoille Noire Atalanta | Carlos Alberto fam=5 duel=-16.15 on_target=0.558 goal=0.125
+[062] FINAL Carlos Alberto: fora/alvo perdido (roll=0.930)
+[063] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[063] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.419 roll=0.159
+[063] JOGADA Associação Graphica Paulista de Desportes | Eugénio Parra x Gabriel Hanot line=4 duel=11.85 corte=-1.30
+[063] FINAL Associação Graphica Paulista de Desportes | Remi Botelho fam=5 duel=29.02 on_target=0.597 goal=0.174
+[063] FINAL Remi Botelho: no alvo sem gol (roll=0.722)
+[064] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[064] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.419 roll=0.460
+[065] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[065] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.419 roll=0.342
+[065] JOGADA Associação Graphica Paulista de Desportes | Rubim Cordeiro x Lúcio Bianchi line=4 duel=40.45 corte=-1.30
+[065] FINAL Associação Graphica Paulista de Desportes | Rubim Cordeiro fam=5 duel=0.21 on_target=0.594 goal=0.161
+[065] FINAL Rubim Cordeiro: no alvo sem gol (roll=0.797)
+[066] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[066] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.421 roll=0.686
+[067] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[067] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.421 roll=0.745
+[068] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[068] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.421 roll=0.933
+[069] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[069] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.419 roll=0.922
+[070] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[070] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.419 roll=0.823
+[071] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[071] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.421 roll=0.965
+[072] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[072] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.421 roll=0.200
+[072] JOGADA Étoille Noire Atalanta | Marius Royet x Irmino Machado line=2 duel=5.24 corte=-1.30
+[072] JOGADA Étoille Noire Atalanta | Gabriel Hanot x Eugénio Parra line=3 duel=-4.23 corte=-1.30
+[072] JOGADA falhou: Eugénio Parra cortou
+[073] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[073] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.419 roll=0.376
+[073] JOGADA Associação Graphica Paulista de Desportes | Remi Botelho x Lúcio Bianchi line=4 duel=7.69 corte=-1.30
+[073] FINAL Associação Graphica Paulista de Desportes | Rubim Cordeiro fam=5 duel=-2.41 on_target=0.594 goal=0.159
+[073] FINAL Rubim Cordeiro: no alvo sem gol (roll=0.770)
+[074] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[074] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.419 roll=0.668
+[075] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[075] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.419 roll=0.725
+[076] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[076] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.408 roll=0.351
+[076] JOGADA Étoille Noire Atalanta | Antony Garrastazu x Narsélio Corte-real line=4 duel=-66.86 corte=-1.30
+[076] JOGADA falhou: Narsélio Corte-real cortou
+[077] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[077] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.453 roll=0.153
+[077] JOGADA Associação Graphica Paulista de Desportes | Narsélio Corte-real x Guido Gambinha line=4 duel=7.75 corte=-1.30
+[077] FINAL Associação Graphica Paulista de Desportes | Rubim Cordeiro fam=5 duel=-52.87 on_target=0.632 goal=0.143
+[077] FINAL Rubim Cordeiro: fora/alvo perdido (roll=0.714)
+[078] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[078] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.453 roll=0.212
+[078] JOGADA Associação Graphica Paulista de Desportes | Adalsino Silva x Lúcio Bianchi line=4 duel=-3.27 corte=-1.30
+[079] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[079] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.408 roll=0.071
+[079] JOGADA Étoille Noire Atalanta | Gabriel Hanot x Aquira Paiva line=4 duel=-0.65 corte=-1.30
+[079] JOGADA Étoille Noire Atalanta | Alvaro Kindelán x Aquira Paiva line=4 duel=-5.56 corte=-1.30
+[080] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[080] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.408 roll=0.480
+[081] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[081] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.453 roll=0.770
+[081] FINAL Associação Graphica Paulista de Desportes | Rubim Cordeiro fam=5 duel=-2.41 on_target=0.636 goal=0.167
+[081] FINAL Rubim Cordeiro: no alvo sem gol (roll=0.639)
+[082] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[082] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.408 roll=0.024
+[082] JOGADA Étoille Noire Atalanta | Alvaro Kindelán x Remi Botelho line=2 duel=12.62 corte=-1.30
+[082] JOGADA Étoille Noire Atalanta | Lúcio Bianchi x Narsélio Corte-real line=3 duel=87.55 corte=-1.30
+[082] JOGADA Étoille Noire Atalanta | Louis Mesnier x Irmino Machado line=4 duel=-12.41 corte=-1.30
+[082] JOGADA falhou: Irmino Machado cortou
+[083] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[083] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.408 roll=0.300
+[083] JOGADA Étoille Noire Atalanta | Antony Garrastazu x Leonardo Costa line=2 duel=79.82 corte=-1.30
+[083] JOGADA Étoille Noire Atalanta | Antony Garrastazu x Rubim Cordeiro line=5 duel=5.75 corte=-1.55
+[083] JOGADA Étoille Noire Atalanta | Louis Mesnier x Narsélio Corte-real line=5 duel=31.11 corte=-1.55
+[083] FINAL Étoille Noire Atalanta | Guido Gambinha fam=1 duel=7.27 on_target=0.643 goal=0.225
+[083] FINAL Guido Gambinha: fora/alvo perdido (roll=0.823)
+[084] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[084] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.453 roll=0.338
+[084] JOGADA Associação Graphica Paulista de Desportes | Rubim Cordeiro x Carlos Alberto line=4 duel=29.60 corte=-1.30
+[084] FINAL Associação Graphica Paulista de Desportes | Narsélio Corte-real fam=5 duel=-22.62 on_target=0.633 goal=0.156
+[084] FINAL Narsélio Corte-real: fora/alvo perdido (roll=0.945)
+[085] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[085] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.477 roll=0.213
+[085] JOGADA Associação Graphica Paulista de Desportes | Adalsino Silva x Evaristo Trindade line=5 duel=53.93 corte=-1.55
+[085] FINAL Associação Graphica Paulista de Desportes | Leonardo Costa fam=5 duel=-55.10 on_target=0.671 goal=0.140
+[085] FINAL Leonardo Costa: no alvo sem gol (roll=0.808)
+[086] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[086] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.408 roll=0.425
+[087] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[087] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.477 roll=0.363
+[087] JOGADA Associação Graphica Paulista de Desportes | Leonardo Costa x Alvaro Kindelán line=5 duel=54.15 corte=-1.55
+[087] FINAL Associação Graphica Paulista de Desportes | Narsélio Corte-real fam=5 duel=-27.38 on_target=0.672 goal=0.154
+[087] FINAL Narsélio Corte-real: fora/alvo perdido (roll=0.961)
+[088] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[088] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.408 roll=0.687
+[089] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[089] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.477 roll=0.459
+[089] JOGADA Associação Graphica Paulista de Desportes | Salomão Passos x Louis Mesnier line=4 duel=-12.27 corte=-1.30
+[089] JOGADA falhou: Louis Mesnier cortou
+[090] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[090] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.408 roll=0.548
+[091] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[091] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.408 roll=0.347
+[091] JOGADA Étoille Noire Atalanta | Louis Mesnier x Aquira Paiva line=2 duel=12.64 corte=-1.30
+[091] JOGADA Étoille Noire Atalanta | Guido Gambinha x Eugénio Parra line=3 duel=10.05 corte=-1.30
+[091] JOGADA Étoille Noire Atalanta | Antony Garrastazu x Rubim Cordeiro line=5 duel=5.58 corte=-1.55
+[091] FINAL Étoille Noire Atalanta | Guido Gambinha fam=1 duel=0.13 on_target=0.642 goal=0.222
+[091] FINAL Guido Gambinha: no alvo sem gol (roll=0.426)
+[092] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[092] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.408 roll=0.561
+[093] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[093] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.477 roll=0.445
+[093] JOGADA Associação Graphica Paulista de Desportes | Narsélio Corte-real x Carlos Alberto line=4 duel=66.79 corte=-1.30
+[093] FINAL Associação Graphica Paulista de Desportes | Eugénio Parra fam=5 duel=-56.72 on_target=0.672 goal=0.140
+[093] FINAL Eugénio Parra: fora/alvo perdido (roll=0.781)
+[094] posse=Associação Graphica Paulista de Desportes | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[094] BUILD Associação Graphica Paulista de Desportes vs Étoille Noire Atalanta prob=0.477 roll=0.037
+[094] JOGADA Associação Graphica Paulista de Desportes | Leonardo Costa x Antony Garrastazu line=5 duel=54.87 corte=-1.55
+[094] FINAL Associação Graphica Paulista de Desportes | Remi Botelho fam=5 duel=-41.86 on_target=0.675 goal=0.148
+[094] FINAL Remi Botelho: fora/alvo perdido (roll=0.846)
+[095] posse=Étoille Noire Atalanta | placar Étoille Noire Atalanta 2 x 0 Associação Graphica Paulista de Desportes
+[095] BUILD Étoille Noire Atalanta vs Associação Graphica Paulista de Desportes prob=0.408 roll=0.300
+[095] JOGADA Étoille Noire Atalanta | Gabriel Hanot x Narsélio Corte-real line=3 duel=4.11 corte=-1.30
+[095] FINAL Étoille Noire Atalanta | Guido Gambinha fam=1 duel=0.88 on_target=0.642 goal=0.222
+[095] FINAL Guido Gambinha: no alvo sem gol (roll=0.771)

@@ -1,0 +1,328 @@
+Partida #105
+Data: 1912-01-08
+Mandante: Clube Olímpico do Tamanduateí
+Visitante: Esporte Clube Sorocaba
+Placar: 0 x 1
+Seed: -
+Estádio: XIV de Dezembro
+Clima: Chuva leve
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Clube Olímpico do Tamanduateí x Esporte Clube Sorocaba | estádio=XIV de Dezembro | clima=Chuva leve | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[001] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.332 roll=0.875
+[002] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[002] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.332 roll=0.702
+[003] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[003] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.382 roll=0.750
+[004] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[004] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.332 roll=0.145
+[004] JOGADA Esporte Clube Sorocaba | Gabino Novais x Madail Ariranha line=3 duel=7.32 corte=-1.11
+[004] JOGADA Esporte Clube Sorocaba | Baguandas Vargas x Lineu Guará line=5 duel=78.67 corte=-1.36
+[004] FINAL Esporte Clube Sorocaba | Engas Seixas fam=1 duel=15.33 on_target=0.674 goal=0.253
+[004] FINAL Engas Seixas: fora/alvo perdido (roll=0.835)
+[005] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[005] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.382 roll=0.484
+[006] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[006] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.382 roll=0.638
+[007] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[007] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.332 roll=0.909
+[008] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[008] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.382 roll=0.477
+[009] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[009] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.382 roll=0.341
+[009] JOGADA Clube Olímpico do Tamanduateí | Erapuã Tanajura x Macaco line=4 duel=-74.75 corte=-1.70
+[009] JOGADA falhou: Macaco cortou
+[010] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[010] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.332 roll=0.846
+[011] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[011] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.414 roll=0.088
+[011] JOGADA Clube Olímpico do Tamanduateí | Jonathas Pombo x Lígio Nóbrega line=4 duel=-11.25 corte=-1.70
+[012] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[012] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.414 roll=0.139
+[012] JOGADA Clube Olímpico do Tamanduateí | Jonathas Pombo x Clídio Bitencourt line=4 duel=20.15 corte=-1.70
+[012] FINAL Clube Olímpico do Tamanduateí | Lineu Guará fam=5 duel=-10.21 on_target=0.630 goal=0.165
+[012] FINAL Lineu Guará: no alvo sem gol (roll=0.531)
+[013] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[013] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.359 roll=0.639
+[014] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[014] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.414 roll=0.717
+[015] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[015] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.414 roll=0.039
+[015] JOGADA Clube Olímpico do Tamanduateí | Inominável Sabiá x Clídio Bitencourt line=4 duel=44.26 corte=-1.70
+[015] JOGADA Clube Olímpico do Tamanduateí | Alvito Góis x Gabino Novais line=5 duel=19.44 corte=-2.45
+[015] JOGADA Clube Olímpico do Tamanduateí | Arandú Capitão x Lígio Nóbrega line=5 duel=74.00 corte=-1.95
+[015] FINAL Clube Olímpico do Tamanduateí | Oitandê Bocudo fam=5 duel=0.18 on_target=0.632 goal=0.170
+[015] FINAL Oitandê Bocudo: fora/alvo perdido (roll=0.859)
+[016] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[016] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.359 roll=0.094
+[016] JOGADA Esporte Clube Sorocaba | Engas Seixas x Jonathas Pombo line=4 duel=-37.35 corte=-1.11
+[016] JOGADA falhou: Jonathas Pombo cortou
+[017] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[017] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.359 roll=0.296
+[017] JOGADA Esporte Clube Sorocaba | Santos Guerreiro x Natalílcion Pardal line=3 duel=2.56 corte=-1.11
+[017] JOGADA Esporte Clube Sorocaba | Clídio Bitencourt x Cachorro-do-Mato-de-Orelha-curta line=4 duel=-17.37 corte=-1.11
+[017] JOGADA falhou: Cachorro-do-Mato-de-Orelha-curta cortou
+[018] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[018] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.414 roll=0.607
+[019] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[019] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.414 roll=0.801
+[020] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[020] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.359 roll=0.765
+[021] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[021] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.386 roll=0.869
+[022] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[022] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.386 roll=0.636
+[023] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[023] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.386 roll=0.816
+[024] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[024] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.386 roll=0.418
+[025] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[025] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.445 roll=0.068
+[025] JOGADA Clube Olímpico do Tamanduateí | Alvito Góis x Gabino Novais line=3 duel=-8.97 corte=-1.70
+[025] JOGADA falhou: Gabino Novais cortou
+[026] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[026] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.445 roll=0.269
+[026] JOGADA Clube Olímpico do Tamanduateí | Madail Ariranha x Baguandas Vargas line=4 duel=9.99 corte=-1.70
+[026] JOGADA Clube Olímpico do Tamanduateí | Madail Ariranha x Alito Gabriel line=4 duel=-3.11 corte=-1.70
+[027] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[027] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.445 roll=0.528
+[027] FINAL Clube Olímpico do Tamanduateí | Inominável Sabiá fam=5 duel=10.24 on_target=0.667 goal=0.181
+[027] FINAL Inominável Sabiá: no alvo sem gol (roll=0.630)
+[028] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[028] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.445 roll=0.868
+[029] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[029] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.445 roll=0.305
+[029] JOGADA Clube Olímpico do Tamanduateí | Jonathas Pombo x Lígio Nóbrega line=2 duel=42.48 corte=-1.70
+[029] JOGADA Clube Olímpico do Tamanduateí | Inominável Sabiá x Macaco line=5 duel=5.60 corte=-1.95
+[029] JOGADA Clube Olímpico do Tamanduateí | Alvito Góis x Engas Seixas line=5 duel=62.51 corte=-2.45
+[029] FINAL Clube Olímpico do Tamanduateí | Oitandê Bocudo fam=1 duel=6.77 on_target=0.766 goal=0.280
+[029] FINAL Oitandê Bocudo: no alvo sem gol (roll=0.822)
+[030] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[030] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.386 roll=0.814
+[031] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[031] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.445 roll=0.442
+[031] JOGADA Clube Olímpico do Tamanduateí | Jonathas Pombo x Alito Gabriel line=3 duel=31.80 corte=-1.70
+[031] JOGADA Clube Olímpico do Tamanduateí | Arandú Capitão x Baguandas Vargas line=4 duel=-65.72 corte=-1.70
+[031] JOGADA falhou: Baguandas Vargas cortou
+[032] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[032] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.448 roll=0.596
+[033] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[033] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.386 roll=0.985
+[034] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[034] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.448 roll=0.387
+[034] JOGADA Clube Olímpico do Tamanduateí | Inominável Sabiá x Santos Guerreiro line=4 duel=17.30 corte=-1.70
+[034] FINAL Clube Olímpico do Tamanduateí | Lineu Guará fam=5 duel=-65.89 on_target=0.660 goal=0.142
+[034] FINAL Lineu Guará: no alvo sem gol (roll=0.665)
+[035] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[035] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.448 roll=0.858
+[036] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[036] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.386 roll=0.205
+[036] JOGADA Esporte Clube Sorocaba | Celestino Monteiro x Jonathas Pombo line=3 duel=9.04 corte=-1.11
+[036] JOGADA Esporte Clube Sorocaba | Lígio Nóbrega x Madail Ariranha line=5 duel=19.28 corte=-1.36
+[036] JOGADA Esporte Clube Sorocaba | Clídio Bitencourt x Inominável Sabiá line=5 duel=54.16 corte=-1.86
+[036] FINAL Esporte Clube Sorocaba | Clídio Bitencourt fam=1 duel=12.38 on_target=0.768 goal=0.277
+[036] FINAL Clídio Bitencourt: fora/alvo perdido (roll=0.937)
+[037] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[037] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.448 roll=0.906
+[038] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[038] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.386 roll=0.164
+[038] JOGADA Esporte Clube Sorocaba | Celestino Monteiro x Natalílcion Pardal line=3 duel=-3.32 corte=-1.11
+[038] JOGADA falhou: Natalílcion Pardal cortou
+[039] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[039] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.448 roll=0.010
+[039] JOGADA Clube Olímpico do Tamanduateí | Arandú Capitão x Gabino Novais line=2 duel=3.84 corte=-1.70
+[039] FINAL Clube Olímpico do Tamanduateí | Alvito Góis fam=5 duel=-8.28 on_target=0.665 goal=0.172
+[039] FINAL Alvito Góis: no alvo sem gol (roll=0.392)
+[040] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[040] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.448 roll=0.013
+[040] JOGADA Clube Olímpico do Tamanduateí | Lineu Guará x Clídio Bitencourt line=2 duel=27.74 corte=-1.70
+[040] JOGADA Clube Olímpico do Tamanduateí | Jonathas Pombo x Macaco line=3 duel=-13.32 corte=-1.70
+[040] JOGADA falhou: Macaco cortou
+[041] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[041] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.448 roll=0.724
+[042] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[042] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.448 roll=0.372
+[042] JOGADA Clube Olímpico do Tamanduateí | Erapuã Tanajura x Lígio Nóbrega line=4 duel=-7.92 corte=-1.70
+[042] JOGADA falhou: Lígio Nóbrega cortou
+[043] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[043] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.448 roll=0.588
+[044] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[044] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.386 roll=0.342
+[044] JOGADA Esporte Clube Sorocaba | Clídio Bitencourt x Lineu Guará line=3 duel=26.72 corte=-1.11
+[044] JOGADA Esporte Clube Sorocaba | Baguandas Vargas x Jonathas Pombo line=4 duel=15.02 corte=-1.11
+[044] JOGADA Esporte Clube Sorocaba | Celestino Monteiro x Inominável Sabiá line=4 duel=-17.88 corte=-1.11
+[044] JOGADA falhou: Inominável Sabiá cortou
+[045] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[045] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.386 roll=0.938
+[046] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[046] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.416 roll=0.394
+[046] JOGADA Clube Olímpico do Tamanduateí | Arandú Capitão x Engas Seixas line=2 duel=95.65 corte=-1.70
+[046] JOGADA Clube Olímpico do Tamanduateí | Arandú Capitão x Baguandas Vargas line=4 duel=-4.36 corte=-1.70
+[047] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[047] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.416 roll=0.043
+[047] JOGADA Clube Olímpico do Tamanduateí | Oitandê Bocudo x Gabino Novais line=3 duel=57.85 corte=-1.70
+[047] JOGADA Clube Olímpico do Tamanduateí | Alvito Góis x Opara Varejão line=4 duel=-72.50 corte=-1.70
+[047] JOGADA falhou: Opara Varejão cortou
+[048] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[048] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.359 roll=0.828
+[049] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[049] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.359 roll=0.693
+[050] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[050] SUB Clube Olímpico do Tamanduateí: saiu Jonathas Pombo (MC) | entrou Huguinho Serpente (VOL) | subs=1/5
+[050] SUB Esporte Clube Sorocaba: saiu Engas Seixas (SA) | entrou Diacuí Abril (SA) | subs=1/5
+[050] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.342 roll=0.429
+[051] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[051] SUB Clube Olímpico do Tamanduateí: saiu Alvito Góis (CA) | entrou Júlio (PE) | subs=2/5
+[051] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.430 roll=0.452
+[052] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[052] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.343 roll=0.857
+[053] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[053] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.343 roll=0.962
+[054] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[054] SUB Clube Olímpico do Tamanduateí: saiu Oitandê Bocudo (SA) | entrou Noel Tamanduá (PD) | subs=3/5
+[054] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.427 roll=0.046
+[054] JOGADA Clube Olímpico do Tamanduateí | Lineu Guará x Gabino Novais line=3 duel=22.98 corte=-1.70
+[054] JOGADA Clube Olímpico do Tamanduateí | Natalílcion Pardal x Lígio Nóbrega line=4 duel=-8.14 corte=-1.70
+[054] JOGADA falhou: Lígio Nóbrega cortou
+[055] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[055] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.427 roll=0.178
+[055] JOGADA Clube Olímpico do Tamanduateí | Noel Tamanduá x Celestino Monteiro line=2 duel=11.28 corte=-1.70
+[055] JOGADA Clube Olímpico do Tamanduateí | Cachorro-do-Mato-de-Orelha-curta x Celestino Monteiro line=3 duel=41.61 corte=-1.70
+[055] JOGADA Clube Olímpico do Tamanduateí | Madail Ariranha x Alito Gabriel line=4 duel=-72.98 corte=-1.70
+[055] JOGADA falhou: Alito Gabriel cortou
+[056] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[056] SUB Clube Olímpico do Tamanduateí: saiu Natalílcion Pardal (ZAG) | entrou Cambaxirra Lobo (ZAG) | subs=4/5
+[056] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.371 roll=0.508
+[057] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[057] SUB Clube Olímpico do Tamanduateí: saiu Arandú Capitão (MC) | entrou Ereco Manteiga (ME) | subs=5/5
+[057] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.459 roll=0.995
+[058] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[058] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.459 roll=0.152
+[058] JOGADA Clube Olímpico do Tamanduateí | Noel Tamanduá x Diacuí Abril line=4 duel=33.15 corte=-1.70
+[058] JOGADA Clube Olímpico do Tamanduateí | Júlio x Celestino Monteiro line=4 duel=20.91 corte=-1.70
+[058] FINAL Clube Olímpico do Tamanduateí | Noel Tamanduá fam=5 duel=17.27 on_target=0.665 goal=0.184
+[058] FINAL Noel Tamanduá: no alvo sem gol (roll=0.660)
+[059] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[059] SUB Esporte Clube Sorocaba: saiu Lígio Nóbrega (ZAG) | entrou Geraldo Fialho (ZAG) | subs=2/5
+[059] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.461 roll=0.674
+[060] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[060] SUB Esporte Clube Sorocaba: saiu Baguandas Vargas (ZAG) | entrou Catuí Lira (ZAG) | subs=3/5
+[060] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.472 roll=0.522
+[061] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[061] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.472 roll=0.388
+[061] JOGADA Clube Olímpico do Tamanduateí | Noel Tamanduá x Catuí Lira line=2 duel=-14.82 corte=-1.70
+[061] JOGADA falhou: Catuí Lira cortou
+[062] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[062] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.472 roll=0.715
+[063] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[063] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.472 roll=0.646
+[064] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[064] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.372 roll=0.994
+[065] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[065] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.372 roll=0.883
+[066] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[066] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.472 roll=0.189
+[066] JOGADA Clube Olímpico do Tamanduateí | Lineu Guará x Alito Gabriel line=2 duel=-8.42 corte=-1.70
+[067] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[067] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.472 roll=0.936
+[068] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[068] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.372 roll=0.764
+[069] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[069] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.372 roll=0.339
+[069] JOGADA Esporte Clube Sorocaba | Clídio Bitencourt x Ereco Manteiga line=2 duel=48.16 corte=-1.10
+[069] JOGADA Esporte Clube Sorocaba | Santos Guerreiro x Ereco Manteiga line=5 duel=18.78 corte=-1.35
+[069] JOGADA Esporte Clube Sorocaba | Alito Gabriel x Ereco Manteiga line=5 duel=83.04 corte=-1.35
+[069] FINAL Esporte Clube Sorocaba | Clídio Bitencourt fam=1 duel=12.72 on_target=0.768 goal=0.278
+[069] FINAL Clídio Bitencourt: no alvo sem gol (roll=0.456)
+[070] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[070] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.372 roll=0.264
+[070] JOGADA Esporte Clube Sorocaba | Santos Guerreiro x Lineu Guará line=4 duel=17.63 corte=-1.10
+[070] JOGADA Esporte Clube Sorocaba | Alito Gabriel x Júlio line=4 duel=17.47 corte=-1.10
+[070] FINAL Esporte Clube Sorocaba | Celestino Monteiro fam=1 duel=1.16 on_target=0.763 goal=0.270
+[070] FINAL Celestino Monteiro: no alvo sem gol (roll=0.723)
+[071] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[071] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.372 roll=0.472
+[072] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[072] SUB Esporte Clube Sorocaba: saiu Celestino Monteiro (ME) | entrou Ubiratã Albuquerque (PE) | subs=4/5
+[072] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.468 roll=0.872
+[073] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[073] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.468 roll=0.985
+[074] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[074] SUB Esporte Clube Sorocaba: saiu Opara Varejão (LE) | entrou Tadeu Onofre (LD) | subs=5/5
+[074] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.379 roll=0.844
+[075] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[075] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.379 roll=0.182
+[075] JOGADA Esporte Clube Sorocaba | Ubiratã Albuquerque x Cambaxirra Lobo line=2 duel=88.18 corte=-1.06
+[075] JOGADA Esporte Clube Sorocaba | Alito Gabriel x Madail Ariranha line=4 duel=-1.97 corte=-1.06
+[075] JOGADA falhou: Madail Ariranha cortou
+[076] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[076] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.391 roll=0.001
+[076] JOGADA Esporte Clube Sorocaba | Gabino Novais x Cachorro-do-Mato-de-Orelha-curta line=2 duel=26.07 corte=-1.06
+[076] JOGADA Esporte Clube Sorocaba | Geraldo Fialho x Huguinho Serpente line=3 duel=-24.20 corte=-1.06
+[076] JOGADA falhou: Huguinho Serpente cortou
+[077] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[077] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.391 roll=0.910
+[078] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[078] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.483 roll=0.978
+[079] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 0 Esporte Clube Sorocaba
+[079] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.391 roll=0.346
+[079] JOGADA Esporte Clube Sorocaba | Geraldo Fialho x Júlio line=4 duel=15.60 corte=-1.06
+[079] FINAL Esporte Clube Sorocaba | Clídio Bitencourt fam=1 duel=8.41 on_target=0.783 goal=0.278
+[079] FINAL Clídio Bitencourt: GOL subtipo=CHUTE (roll=0.174)
+[080] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[080] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.365 roll=0.315
+[080] JOGADA Esporte Clube Sorocaba | Santos Guerreiro x Cachorro-do-Mato-de-Orelha-curta line=4 duel=-49.83 corte=-1.30
+[080] JOGADA falhou: Cachorro-do-Mato-de-Orelha-curta cortou
+[081] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[081] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.365 roll=0.354
+[081] JOGADA Esporte Clube Sorocaba | Tadeu Onofre x Júlio line=3 duel=34.85 corte=-1.30
+[081] JOGADA Esporte Clube Sorocaba | Catuí Lira x Cachorro-do-Mato-de-Orelha-curta line=4 duel=-40.04 corte=-1.30
+[081] JOGADA falhou: Cachorro-do-Mato-de-Orelha-curta cortou
+[082] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[082] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.563 roll=0.905
+[083] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[083] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.365 roll=0.623
+[084] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[084] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.563 roll=0.112
+[084] JOGADA Clube Olímpico do Tamanduateí | Cambaxirra Lobo x Gabino Novais line=2 duel=8.75 corte=-1.70
+[084] JOGADA Clube Olímpico do Tamanduateí | Júlio x Macaco line=3 duel=10.76 corte=-1.70
+[084] JOGADA Clube Olímpico do Tamanduateí | Cachorro-do-Mato-de-Orelha-curta x Macaco line=4 duel=12.42 corte=-1.70
+[085] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[085] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.365 roll=0.051
+[085] JOGADA Esporte Clube Sorocaba | Catuí Lira x Huguinho Serpente line=3 duel=-11.60 corte=-1.30
+[086] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[086] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.580 roll=0.346
+[086] JOGADA Clube Olímpico do Tamanduateí | Lineu Guará x Macaco line=3 duel=5.61 corte=-1.70
+[086] JOGADA Clube Olímpico do Tamanduateí | Madail Ariranha x Tadeu Onofre line=4 duel=-24.23 corte=-1.70
+[087] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[087] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.580 roll=0.460
+[087] JOGADA Clube Olímpico do Tamanduateí | Cachorro-do-Mato-de-Orelha-curta x Ubiratã Albuquerque line=3 duel=13.22 corte=-1.70
+[087] JOGADA Clube Olímpico do Tamanduateí | Inominável Sabiá x Gabino Novais line=4 duel=-63.50 corte=-1.70
+[087] JOGADA falhou: Gabino Novais cortou
+[088] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[088] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.365 roll=0.464
+[089] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[089] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.580 roll=0.202
+[089] JOGADA Clube Olímpico do Tamanduateí | Huguinho Serpente x Alito Gabriel line=3 duel=10.36 corte=-1.70
+[089] JOGADA Clube Olímpico do Tamanduateí | Noel Tamanduá x Geraldo Fialho line=4 duel=-16.15 corte=-1.70
+[090] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[090] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.580 roll=0.214
+[090] JOGADA Clube Olímpico do Tamanduateí | Cachorro-do-Mato-de-Orelha-curta x Macaco line=3 duel=7.45 corte=-1.70
+[090] JOGADA Clube Olímpico do Tamanduateí | Lineu Guará x Clídio Bitencourt line=4 duel=17.84 corte=-1.70
+[090] JOGADA Clube Olímpico do Tamanduateí | Inominável Sabiá x Geraldo Fialho line=4 duel=-3.84 corte=-1.70
+[090] JOGADA falhou: Geraldo Fialho cortou
+[091] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[091] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.365 roll=0.580
+[092] posse=Esporte Clube Sorocaba | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[092] BUILD Esporte Clube Sorocaba vs Clube Olímpico do Tamanduateí prob=0.365 roll=0.540
+[093] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[093] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.580 roll=0.876
+[094] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[094] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.580 roll=0.774
+[095] posse=Clube Olímpico do Tamanduateí | placar Clube Olímpico do Tamanduateí 0 x 1 Esporte Clube Sorocaba
+[095] BUILD Clube Olímpico do Tamanduateí vs Esporte Clube Sorocaba prob=0.580 roll=0.880

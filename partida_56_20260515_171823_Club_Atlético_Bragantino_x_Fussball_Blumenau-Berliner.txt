@@ -1,0 +1,285 @@
+Partida #56
+Data: 1912-01-04
+Mandante: Club Atlético Bragantino
+Visitante: Fussball Blumenau-Berliner
+Placar: 0 x 2
+Seed: -
+Estádio: Estádio Raul Leme
+Clima: Chuva forte
+Placar tempo normal: 0 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: Fussball Blumenau-Berliner
+
+=== LOG VERBOSE ===
+Início: Club Atlético Bragantino x Fussball Blumenau-Berliner | estádio=Estádio Raul Leme | clima=Chuva forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[001] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.265 roll=0.984
+[002] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[002] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.265 roll=0.879
+[003] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[003] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.306 roll=0.296
+[003] JOGADA Club Atlético Bragantino | Pedro Teixeira Neves x Mathias Sommer line=2 duel=4.23 corte=-1.70
+[003] FINAL Club Atlético Bragantino | Rômulo Alencar fam=1 duel=-8.81 on_target=0.598 goal=0.221
+[003] FINAL Rômulo Alencar: fora/alvo perdido (roll=0.659)
+[004] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[004] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.306 roll=0.777
+[005] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[005] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.306 roll=0.569
+[006] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[006] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.265 roll=0.573
+[007] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[007] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.265 roll=0.044
+[007] JOGADA Fussball Blumenau-Berliner | Torsten Ebersbacher x Lúcio Paiva line=2 duel=21.55 corte=-1.12
+[007] FINAL Fussball Blumenau-Berliner | Mathias Sommer fam=1 duel=2.08 on_target=0.598 goal=0.220
+[007] FINAL Mathias Sommer: no alvo sem gol (roll=0.435)
+[008] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[008] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.265 roll=0.125
+[008] JOGADA Fussball Blumenau-Berliner | Jörg Shuster x André do Socorro line=3 duel=8.46 corte=-1.12
+[008] FINAL Fussball Blumenau-Berliner | Mathias Sommer fam=1 duel=1.53 on_target=0.598 goal=0.220
+[008] FINAL Mathias Sommer: no alvo sem gol (roll=0.645)
+[009] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[009] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.306 roll=0.228
+[009] JOGADA Club Atlético Bragantino | Rômulo Alencar x Mathias Sommer line=4 duel=-64.53 corte=-1.70
+[009] JOGADA falhou: Mathias Sommer cortou
+[010] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[010] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.265 roll=0.576
+[010] FINAL Fussball Blumenau-Berliner | Mathias Sommer fam=5 duel=-0.04 on_target=0.511 goal=0.128
+[010] FINAL Mathias Sommer: no alvo sem gol (roll=0.737)
+[011] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[011] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.286 roll=0.915
+[012] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[012] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.331 roll=0.521
+[013] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[013] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.331 roll=0.361
+[014] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[014] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.286 roll=0.875
+[015] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[015] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.286 roll=0.862
+[016] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[016] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.286 roll=0.953
+[017] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[017] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.286 roll=0.148
+[017] JOGADA Fussball Blumenau-Berliner | Mathias Sommer x Rômulo Alencar line=2 duel=35.87 corte=-1.12
+[017] FINAL Fussball Blumenau-Berliner | Jörg Shuster fam=3 duel=3.84 on_target=0.587 goal=0.182
+[017] FINAL Jörg Shuster: no alvo sem gol (roll=0.756)
+[018] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[018] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.331 roll=0.410
+[019] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[019] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.331 roll=0.342
+[020] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[020] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.286 roll=0.178
+[020] JOGADA Fussball Blumenau-Berliner | Dirk Bach x Rômulo Alencar line=3 duel=24.94 corte=-1.12
+[020] FINAL Fussball Blumenau-Berliner | Jörg Shuster fam=1 duel=5.67 on_target=0.647 goal=0.237
+[020] FINAL Jörg Shuster: fora/alvo perdido (roll=0.975)
+[021] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[021] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.308 roll=0.892
+[022] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 0 Fussball Blumenau-Berliner
+[022] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.308 roll=0.269
+[022] JOGADA Fussball Blumenau-Berliner | Tobias Klein x Douglas Araújo line=3 duel=-0.26 corte=-1.12
+[022] FINAL Fussball Blumenau-Berliner | Jörg Shuster fam=1 duel=3.58 on_target=0.681 goal=0.243
+[022] FINAL Jörg Shuster: GOL subtipo=CHUTE (roll=0.125)
+[023] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[023] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.939
+[024] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[024] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.308 roll=0.667
+[025] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[025] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.308 roll=0.316
+[026] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[026] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.308 roll=0.482
+[027] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[027] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.059
+[027] JOGADA Club Atlético Bragantino | Isaías Montani x Mathias Sommer line=2 duel=35.82 corte=-1.70
+[027] FINAL Club Atlético Bragantino | Rômulo Alencar fam=5 duel=-16.15 on_target=0.591 goal=0.150
+[027] FINAL Rômulo Alencar: fora/alvo perdido (roll=0.676)
+[028] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[028] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.794
+[029] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[029] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.308 roll=0.014
+[029] JOGADA Fussball Blumenau-Berliner | Eric Rothschild x Rômulo Alencar line=4 duel=25.70 corte=-1.30
+[029] JOGADA Fussball Blumenau-Berliner | Robert Lehmann x Manuel Brás line=4 duel=2.26 corte=-1.30
+[029] FINAL Fussball Blumenau-Berliner | Mathias Sommer fam=1 duel=0.66 on_target=0.679 goal=0.241
+[029] FINAL Mathias Sommer: no alvo sem gol (roll=0.389)
+[030] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[030] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.016
+[030] JOGADA Club Atlético Bragantino | Lúcio Paiva x Mathias Sommer line=2 duel=0.51 corte=-1.70
+[030] FINAL Club Atlético Bragantino | Pedro Teixeira Neves fam=1 duel=-10.81 on_target=0.680 goal=0.242
+[030] FINAL Pedro Teixeira Neves: fora/alvo perdido (roll=0.723)
+[031] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[031] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.575
+[032] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[032] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.403
+[033] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[033] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.308 roll=0.650
+[034] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[034] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.368
+[034] JOGADA Club Atlético Bragantino | Pedro Teixeira Neves x Mathias Sommer line=4 duel=-9.02 corte=-1.70
+[035] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[035] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.275
+[035] JOGADA Club Atlético Bragantino | André do Socorro x Torsten Ebersbacher line=3 duel=-8.38 corte=-1.70
+[035] JOGADA falhou: Torsten Ebersbacher cortou
+[036] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[036] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.892
+[037] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[037] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.715
+[038] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[038] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.308 roll=0.925
+[039] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[039] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.826
+[040] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[040] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.665
+[041] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[041] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.308 roll=0.636
+[042] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[042] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.308 roll=0.476
+[043] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[043] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.308 roll=0.632
+[044] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[044] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.591
+[045] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[045] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.398 roll=0.342
+[045] JOGADA Club Atlético Bragantino | Peolardo Maciel x Ulrich Neumann line=3 duel=-8.29 corte=-1.70
+[045] JOGADA falhou: Ulrich Neumann cortou
+[046] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[046] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.286 roll=0.983
+[047] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[047] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.286 roll=0.276
+[047] JOGADA Fussball Blumenau-Berliner | Eric Rothschild x André do Socorro line=3 duel=-0.99 corte=-1.30
+[047] FINAL Fussball Blumenau-Berliner | Jörg Shuster fam=1 duel=1.23 on_target=0.647 goal=0.235
+[047] FINAL Jörg Shuster: fora/alvo perdido (roll=0.903)
+[048] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[048] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.286 roll=0.965
+[049] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[049] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.370 roll=0.321
+[049] JOGADA Club Atlético Bragantino | Douglas Araújo x Robert Lehmann line=3 duel=-11.37 corte=-1.70
+[049] JOGADA falhou: Robert Lehmann cortou
+[050] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[050] SUB Club Atlético Bragantino: saiu Pedro Teixeira Neves (SA) | entrou Júlio Meneguel (SA) | subs=1/5
+[050] SUB Fussball Blumenau-Berliner: saiu Jörg Shuster (SA) | entrou David Vogler (SA) | subs=1/5
+[050] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.365 roll=0.525
+[051] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[051] SUB Club Atlético Bragantino: saiu Rômulo Alencar (CA) | entrou Oloares Ferreiras (CA) | subs=2/5
+[051] SUB Fussball Blumenau-Berliner: saiu Eric Rothschild (CA) | entrou Felix Bader (PD) | subs=2/5
+[051] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.349 roll=0.941
+[052] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[052] SUB Club Atlético Bragantino: saiu Elísio Quintanilha (LD) | entrou Ivo Roldán (LD) | subs=3/5
+[052] SUB Fussball Blumenau-Berliner: saiu Torsten Ebersbacher (LD) | entrou Max Ziegler (LD) | subs=3/5
+[052] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.344 roll=0.486
+[053] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[053] SUB Club Atlético Bragantino: saiu Douglas Araújo (LE) | entrou Benedito Tavares (LE) | subs=4/5
+[053] SUB Fussball Blumenau-Berliner: saiu Ulrich Neumann (LE) | entrou Mike Schäfer (LE) | subs=4/5
+[053] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.288 roll=0.698
+[054] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[054] SUB Fussball Blumenau-Berliner: saiu Tobias Klein (MC) | entrou Steffen Meister (MA) | subs=5/5
+[054] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.342 roll=0.068
+[054] JOGADA Club Atlético Bragantino | Benedito Tavares x Mathias Sommer line=3 duel=3.77 corte=-1.70
+[054] FINAL Club Atlético Bragantino | Júlio Meneguel fam=5 duel=-35.86 on_target=0.561 goal=0.138
+[054] FINAL Júlio Meneguel: fora/alvo perdido (roll=0.572)
+[055] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[055] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.283 roll=0.050
+[055] JOGADA Fussball Blumenau-Berliner | Sven Eisenhower x Júlio Meneguel line=3 duel=9.70 corte=-1.30
+[055] FINAL Fussball Blumenau-Berliner | David Vogler fam=1 duel=20.28 on_target=0.647 goal=0.243
+[055] FINAL David Vogler: no alvo sem gol (roll=0.495)
+[056] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 1 Fussball Blumenau-Berliner
+[056] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.305 roll=0.178
+[056] JOGADA Fussball Blumenau-Berliner | Robert Lehmann x Júlio Meneguel line=3 duel=12.99 corte=-1.30
+[056] FINAL Fussball Blumenau-Berliner | David Vogler fam=1 duel=18.73 on_target=0.681 goal=0.250
+[056] FINAL David Vogler: GOL subtipo=CHUTE (roll=0.162)
+[057] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[057] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.372 roll=0.479
+[058] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[058] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.372 roll=0.962
+[059] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[059] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.298 roll=0.180
+[059] JOGADA Fussball Blumenau-Berliner | Felix Bader x Peolardo Maciel line=3 duel=22.16 corte=-1.30
+[059] FINAL Fussball Blumenau-Berliner | David Vogler fam=3 duel=-6.78 on_target=0.592 goal=0.170
+[059] FINAL David Vogler: fora/alvo perdido (roll=0.915)
+[060] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[060] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.375 roll=0.463
+[061] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[061] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.375 roll=0.037
+[061] JOGADA Club Atlético Bragantino | Benedito Tavares x Dirk Bach line=2 duel=26.29 corte=-1.70
+[061] FINAL Club Atlético Bragantino | Manuel Brás fam=5 duel=11.31 on_target=0.595 goal=0.167
+[061] FINAL Manuel Brás: no alvo sem gol (roll=0.951)
+[062] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[062] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.375 roll=0.725
+[063] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[063] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.298 roll=0.900
+[064] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[064] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.298 roll=0.590
+[065] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[065] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.375 roll=0.575
+[066] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[066] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.375 roll=0.043
+[066] JOGADA Club Atlético Bragantino | Lúcio Paiva x Michael Grunewald line=3 duel=-0.91 corte=-1.70
+[066] FINAL Club Atlético Bragantino | Manuel Brás fam=5 duel=10.51 on_target=0.595 goal=0.166
+[066] FINAL Manuel Brás: no alvo sem gol (roll=0.861)
+[067] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[067] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.375 roll=0.185
+[067] JOGADA Club Atlético Bragantino | Lúcio Paiva x Steffen Meister line=3 duel=-12.93 corte=-1.70
+[068] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[068] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.375 roll=0.906
+[069] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[069] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.375 roll=0.956
+[070] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[070] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.375 roll=0.876
+[071] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[071] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.375 roll=0.435
+[072] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[072] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.375 roll=0.947
+[073] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[073] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.298 roll=0.920
+[074] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[074] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.375 roll=0.887
+[075] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[075] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.298 roll=0.781
+[076] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[076] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.289 roll=0.509
+[077] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[077] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.405 roll=0.889
+[078] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[078] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.289 roll=0.145
+[078] JOGADA Fussball Blumenau-Berliner | Mike Schäfer x Oloares Ferreiras line=2 duel=9.26 corte=-1.30
+[078] FINAL Fussball Blumenau-Berliner | David Vogler fam=1 duel=0.98 on_target=0.640 goal=0.223
+[078] FINAL David Vogler: fora/alvo perdido (roll=0.776)
+[079] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[079] LESÃO Club Atlético Bragantino: André do Socorro | distensão muscular | gravidade=moderada | 7 jogo(s)
+[079] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.289 roll=0.494
+[080] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[080] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.405 roll=0.622
+[081] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[081] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.405 roll=0.326
+[081] JOGADA Club Atlético Bragantino | Manuel Brás x Mathias Sommer line=3 duel=8.28 corte=-1.70
+[081] FINAL Club Atlético Bragantino | Peolardo Maciel fam=5 duel=-38.87 on_target=0.632 goal=0.150
+[081] FINAL Peolardo Maciel: no alvo sem gol (roll=0.996)
+[082] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[082] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.289 roll=0.782
+[083] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[083] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.289 roll=0.572
+[084] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[084] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.289 roll=0.416
+[085] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[085] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.289 roll=0.338
+[086] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[086] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.289 roll=0.524
+[087] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[087] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.427 roll=0.820
+[088] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[088] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.427 roll=0.917
+[089] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[089] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.289 roll=0.511
+[090] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[090] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.427 roll=0.285
+[090] JOGADA Club Atlético Bragantino | Isaías Montani x Mike Schäfer line=3 duel=-2.42 corte=-1.70
+[090] JOGADA falhou: Mike Schäfer cortou
+[091] posse=Club Atlético Bragantino | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[091] BUILD Club Atlético Bragantino vs Fussball Blumenau-Berliner prob=0.427 roll=0.886
+[092] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[092] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.289 roll=0.043
+[092] JOGADA Fussball Blumenau-Berliner | Mike Schäfer x Júlio Meneguel line=4 duel=10.53 corte=-1.30
+[092] JOGADA Fussball Blumenau-Berliner | Mike Schäfer x Lúcio Paiva line=4 duel=5.30 corte=-1.30
+[092] JOGADA Fussball Blumenau-Berliner | Mathias Sommer x Rivanildon Jebuzeu line=5 duel=35.15 corte=-1.55
+[092] FINAL Fussball Blumenau-Berliner | Michael Grunewald fam=1 duel=0.41 on_target=0.639 goal=0.220
+[092] FINAL Michael Grunewald: fora/alvo perdido (roll=0.759)
+[093] posse=Fussball Blumenau-Berliner | placar Club Atlético Bragantino 0 x 2 Fussball Blumenau-Berliner
+[093] BUILD Fussball Blumenau-Berliner vs Club Atlético Bragantino prob=0.289 roll=0.998

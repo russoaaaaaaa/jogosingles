@@ -1,0 +1,283 @@
+Partida #131
+Data: 1912-01-08
+Mandante: Atlético Clube Três Corações
+Visitante: Ipatinga Futebol Clube
+Placar: 0 x 0
+Seed: -
+Estádio: Alberto Munhóes
+Clima: Frio forte
+Placar tempo normal: 0 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Atlético Clube Três Corações x Ipatinga Futebol Clube | estádio=Alberto Munhóes | clima=Frio forte | seed=- | perfil=normal | pressão=Normal · peso 9/10
+[001] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[001] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.256 roll=0.217
+[001] JOGADA Ipatinga Futebol Clube | Djalma Barbosa x Joel Agostinho line=3 duel=-24.32 corte=-1.12
+[002] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[002] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.310 roll=0.879
+[003] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[003] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.310 roll=0.678
+[004] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[004] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.310 roll=0.519
+[005] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[005] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.256 roll=0.189
+[005] JOGADA Ipatinga Futebol Clube | Plácido Henriques x Tierri Lousada line=3 duel=-4.61 corte=-1.12
+[006] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[006] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.310 roll=0.827
+[007] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[007] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.256 roll=0.002
+[007] JOGADA Ipatinga Futebol Clube | Primo Gonçalves x Angélico Amaral line=4 duel=23.63 corte=-1.12
+[007] JOGADA Ipatinga Futebol Clube | Dagmar Vidal x Anhangá Caldeira line=5 duel=2.63 corte=-1.37
+[007] JOGADA Ipatinga Futebol Clube | Castelino Azevedo x Anhangá Caldeira line=5 duel=50.19 corte=-1.37
+[007] FINAL Ipatinga Futebol Clube | Nelson Modesto fam=1 duel=4.13 on_target=0.599 goal=0.222
+[007] FINAL Nelson Modesto: no alvo sem gol (roll=0.907)
+[008] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[008] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.310 roll=0.307
+[008] JOGADA Atlético Clube Três Corações | Angélico Amaral x Nelson Modesto line=3 duel=41.94 corte=-1.70
+[008] JOGADA Atlético Clube Três Corações | Angélico Amaral x Afrânio Cruz line=5 duel=87.67 corte=-1.95
+[008] FINAL Atlético Clube Três Corações | Tierri Lousada fam=5 duel=-4.04 on_target=0.519 goal=0.139
+[008] FINAL Tierri Lousada: fora/alvo perdido (roll=0.793)
+[009] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[009] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.256 roll=0.580
+[010] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[010] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.310 roll=0.696
+[011] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[011] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.277 roll=0.511
+[012] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[012] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.277 roll=0.280
+[013] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[013] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.335 roll=0.500
+[014] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[014] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.277 roll=0.967
+[015] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[015] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.335 roll=0.628
+[016] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[016] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.277 roll=0.124
+[016] JOGADA Ipatinga Futebol Clube | Bertoldo Albuquerque x Adalmar Amado line=3 duel=94.86 corte=-1.12
+[016] FINAL Ipatinga Futebol Clube | Bertoldo Albuquerque fam=1 duel=-7.19 on_target=0.647 goal=0.232
+[016] FINAL Bertoldo Albuquerque: no alvo sem gol (roll=0.873)
+[017] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[017] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.277 roll=0.760
+[018] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[018] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.277 roll=0.580
+[019] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[019] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.335 roll=0.952
+[020] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[020] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.335 roll=0.490
+[021] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[021] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.208
+[021] JOGADA Ipatinga Futebol Clube | Castelino Azevedo x Adalmar Amado line=3 duel=21.26 corte=-1.12
+[021] FINAL Ipatinga Futebol Clube | Marito Aguiar fam=1 duel=-2.58 on_target=0.681 goal=0.241
+[021] FINAL Marito Aguiar: no alvo sem gol (roll=0.700)
+[022] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[022] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.487
+[023] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[023] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.360 roll=0.806
+[023] FINAL Atlético Clube Três Corações | Angélico Amaral fam=5 duel=-54.57 on_target=0.586 goal=0.130
+[023] FINAL Angélico Amaral: fora/alvo perdido (roll=0.878)
+[024] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[024] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.023
+[024] JOGADA Ipatinga Futebol Clube | Nelson Modesto x Anhangá Caldeira line=2 duel=-5.91 corte=-1.12
+[024] JOGADA falhou: Anhangá Caldeira cortou
+[025] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[025] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.869
+[026] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[026] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.360 roll=0.053
+[026] JOGADA Atlético Clube Três Corações | Argemiro Castro x Austrelino Simões line=3 duel=-15.32 corte=-1.70
+[026] JOGADA falhou: Austrelino Simões cortou
+[027] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[027] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.399
+[028] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[028] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.360 roll=0.867
+[029] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[029] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.591
+[030] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[030] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.707
+[031] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[031] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.360 roll=0.371
+[032] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[032] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.319
+[033] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[033] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.988
+[034] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[034] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.363 roll=0.643
+[035] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[035] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.072
+[035] JOGADA Ipatinga Futebol Clube | Austrelino Simões x Joel Agostinho line=3 duel=12.96 corte=-1.12
+[035] FINAL Ipatinga Futebol Clube | Austrelino Simões fam=3 duel=-12.87 on_target=0.616 goal=0.179
+[035] FINAL Austrelino Simões: no alvo sem gol (roll=0.270)
+[036] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[036] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.363 roll=0.887
+[037] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[037] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.363 roll=0.712
+[038] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[038] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.363 roll=0.169
+[038] JOGADA Atlético Clube Três Corações | Oriximiná Novais x Dagmar Vidal line=3 duel=-16.79 corte=-1.70
+[038] JOGADA falhou: Dagmar Vidal cortou
+[039] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[039] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.049
+[039] JOGADA Ipatinga Futebol Clube | Castelino Azevedo x Eurico Santoro line=3 duel=20.51 corte=-1.12
+[039] FINAL Ipatinga Futebol Clube | Nelson Modesto fam=1 duel=-6.40 on_target=0.680 goal=0.239
+[039] FINAL Nelson Modesto: no alvo sem gol (roll=0.892)
+[040] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[040] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.479
+[041] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[041] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.662
+[042] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[042] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.770
+[043] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[043] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.363 roll=0.560
+[044] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[044] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.363 roll=0.361
+[044] JOGADA Atlético Clube Três Corações | Oriximiná Novais x Primo Gonçalves line=3 duel=-13.68 corte=-1.70
+[044] JOGADA falhou: Primo Gonçalves cortou
+[045] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[045] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.298 roll=0.908
+[046] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[046] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.337 roll=0.947
+[047] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[047] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.277 roll=0.817
+[048] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[048] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.337 roll=0.667
+[049] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[049] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.337 roll=0.484
+[050] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[050] SUB Atlético Clube Três Corações: saiu Eurico Santoro (SA) | entrou Marcílio Morgado (PE) | subs=1/5
+[050] SUB Ipatinga Futebol Clube: saiu Marito Aguiar (SA) | entrou Gamaliel Venâncio (MA) | subs=1/5
+[050] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.345 roll=0.742
+[051] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[051] SUB Atlético Clube Três Corações: saiu Adalmar Amado (MC) | entrou Durval Camargo (MC) | subs=2/5
+[051] SUB Ipatinga Futebol Clube: saiu Nelson Modesto (CA) | entrou Taciano Carrico (PD) | subs=2/5
+[051] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.341 roll=0.984
+[052] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[052] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.341 roll=0.157
+[052] JOGADA Atlético Clube Três Corações | Janique Berenguer x Afrânio Cruz line=2 duel=-14.45 corte=-1.70
+[052] JOGADA falhou: Afrânio Cruz cortou
+[053] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[053] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.284 roll=0.208
+[053] JOGADA Ipatinga Futebol Clube | Dagmar Vidal x Argemiro Castro line=3 duel=13.52 corte=-1.12
+[053] FINAL Ipatinga Futebol Clube | Afrânio Cruz fam=1 duel=9.75 on_target=0.646 goal=0.238
+[053] FINAL Afrânio Cruz: no alvo sem gol (roll=0.394)
+[054] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[054] SUB Atlético Clube Três Corações: saiu Tierri Lousada (MD) | entrou Jader Peçanha (MD) | subs=3/5
+[054] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.335 roll=0.942
+[055] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[055] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.335 roll=0.789
+[056] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[056] SUB Atlético Clube Três Corações: saiu Argemiro Castro (CA) | entrou Bastian Macieira (PD) | subs=4/5
+[056] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.358 roll=0.909
+[057] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[057] SUB Atlético Clube Três Corações: saiu Janique Berenguer (ZAG) | entrou Quiririm Pereira da Silva (ZAG) | subs=5/5
+[057] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.306 roll=0.926
+[058] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[058] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.358 roll=0.890
+[059] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[059] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.306 roll=0.490
+[060] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[060] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.306 roll=0.281
+[060] JOGADA Ipatinga Futebol Clube | Primo Gonçalves x Caio Ferraz line=4 duel=-30.96 corte=-1.11
+[060] JOGADA falhou: Caio Ferraz cortou
+[061] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[061] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.362 roll=0.993
+[062] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[062] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.362 roll=0.338
+[062] JOGADA Atlético Clube Três Corações | Durval Camargo x Afrânio Cruz line=3 duel=6.98 corte=-1.70
+[062] JOGADA Atlético Clube Três Corações | Joel Agostinho x Dagmar Vidal line=4 duel=-14.87 corte=-1.70
+[062] JOGADA falhou: Dagmar Vidal cortou
+[063] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[063] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.362 roll=0.046
+[063] JOGADA Atlético Clube Três Corações | Marcílio Morgado x Austrelino Simões line=4 duel=7.79 corte=-1.70
+[063] JOGADA Atlético Clube Três Corações | Anhangá Caldeira x Dagmar Vidal line=4 duel=-15.03 corte=-1.70
+[064] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[064] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.306 roll=0.515
+[065] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[065] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.362 roll=0.117
+[065] JOGADA Atlético Clube Três Corações | Bastian Macieira x Austrelino Simões line=2 duel=1.10 corte=-1.70
+[065] JOGADA Atlético Clube Três Corações | Oriximiná Novais x Afrânio Cruz line=3 duel=-18.70 corte=-1.70
+[066] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[066] SUB Ipatinga Futebol Clube: saiu Dagmar Vidal (ZAG) | entrou Juliano Medeiros (ZAG) | subs=3/5
+[066] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.312 roll=0.104
+[066] JOGADA Ipatinga Futebol Clube | Juliano Medeiros x Anhangá Caldeira line=3 duel=101.09 corte=-1.12
+[066] FINAL Ipatinga Futebol Clube | Taciano Carrico fam=1 duel=21.58 on_target=0.682 goal=0.251
+[066] FINAL Taciano Carrico: no alvo sem gol (roll=0.919)
+[067] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[067] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.394 roll=0.652
+[068] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[068] SUB Ipatinga Futebol Clube: saiu Djalma Barbosa (ZAG) | entrou Lídio Mascarenhas (ZAG) | subs=4/5
+[068] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.359 roll=0.591
+[069] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[069] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.352 roll=0.881
+[070] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[070] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.359 roll=0.262
+[070] JOGADA Atlético Clube Três Corações | Caio Ferraz x Primo Gonçalves line=2 duel=-1.94 corte=-1.12
+[071] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[071] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.359 roll=0.111
+[071] JOGADA Atlético Clube Três Corações | Oriximiná Novais x Taciano Carrico line=2 duel=5.18 corte=-1.12
+[071] FINAL Atlético Clube Três Corações | Bastian Macieira fam=1 duel=18.82 on_target=0.681 goal=0.250
+[071] FINAL Bastian Macieira: fora/alvo perdido (roll=0.905)
+[072] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[072] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.352 roll=0.698
+[073] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[073] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.352 roll=0.763
+[073] FINAL Ipatinga Futebol Clube | Taciano Carrico fam=5 duel=14.48 on_target=0.591 goal=0.162
+[073] FINAL Taciano Carrico: fora/alvo perdido (roll=0.962)
+[074] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[074] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.359 roll=0.324
+[074] JOGADA Atlético Clube Três Corações | Caio Ferraz x Austrelino Simões line=4 duel=-85.53 corte=-1.08
+[074] JOGADA falhou: Austrelino Simões cortou
+[075] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[075] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.359 roll=0.541
+[076] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[076] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.370 roll=0.870
+[077] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[077] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.363 roll=0.991
+[078] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[078] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.370 roll=0.348
+[078] JOGADA Atlético Clube Três Corações | Joel Agostinho x Primo Gonçalves line=2 duel=-12.59 corte=-1.08
+[079] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[079] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.370 roll=0.037
+[079] JOGADA Atlético Clube Três Corações | Durval Camargo x Lídio Mascarenhas line=4 duel=-9.39 corte=-1.08
+[080] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[080] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.370 roll=0.763
+[081] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[081] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.370 roll=0.862
+[082] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[082] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.363 roll=0.188
+[082] JOGADA Ipatinga Futebol Clube | Afrânio Cruz x Anhangá Caldeira line=4 duel=3.97 corte=-1.30
+[082] JOGADA Ipatinga Futebol Clube | Gamaliel Venâncio x Marcílio Morgado line=4 duel=29.45 corte=-1.30
+[082] FINAL Ipatinga Futebol Clube | Austrelino Simões fam=5 duel=4.81 on_target=0.602 goal=0.159
+[082] FINAL Austrelino Simões: no alvo sem gol (roll=0.265)
+[083] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[083] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.363 roll=0.726
+[084] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[084] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.370 roll=0.972
+[085] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[085] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.382 roll=0.687
+[086] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[086] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.389 roll=0.086
+[086] JOGADA Atlético Clube Três Corações | Angélico Amaral x Bertoldo Albuquerque line=3 duel=8.05 corte=-1.08
+[086] JOGADA Atlético Clube Três Corações | Angélico Amaral x Plácido Henriques line=4 duel=-1.75 corte=-1.08
+[086] JOGADA falhou: Plácido Henriques cortou
+[087] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[087] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.389 roll=0.824
+[088] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[088] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.382 roll=0.173
+[088] JOGADA Ipatinga Futebol Clube | Primo Gonçalves x Jader Peçanha line=4 duel=25.92 corte=-1.30
+[088] FINAL Ipatinga Futebol Clube | Gamaliel Venâncio fam=5 duel=-38.10 on_target=0.638 goal=0.140
+[088] FINAL Gamaliel Venâncio: no alvo sem gol (roll=0.459)
+[089] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[089] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.382 roll=0.359
+[089] JOGADA Ipatinga Futebol Clube | Lídio Mascarenhas x Joel Agostinho line=4 duel=17.27 corte=-1.30
+[089] FINAL Ipatinga Futebol Clube | Taciano Carrico fam=5 duel=-43.21 on_target=0.638 goal=0.137
+[089] FINAL Taciano Carrico: fora/alvo perdido (roll=0.878)
+[090] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[090] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.389 roll=0.565
+[091] posse=Atlético Clube Três Corações | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[091] BUILD Atlético Clube Três Corações vs Ipatinga Futebol Clube prob=0.389 roll=0.723
+[092] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[092] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.382 roll=0.673
+[093] posse=Ipatinga Futebol Clube | placar Atlético Clube Três Corações 0 x 0 Ipatinga Futebol Clube
+[093] BUILD Ipatinga Futebol Clube vs Atlético Clube Três Corações prob=0.382 roll=0.848

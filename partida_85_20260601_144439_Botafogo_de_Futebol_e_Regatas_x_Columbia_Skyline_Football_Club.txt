@@ -1,0 +1,347 @@
+Partida #85
+Data: 1912-01-07
+Mandante: Botafogo de Futebol e Regatas
+Visitante: Columbia Skyline Football Club
+Placar: 3 x 2
+Seed: -
+Estádio: Estádio General Severiano
+Clima: Neblina
+Placar tempo normal: 3 x 2
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Botafogo de Futebol e Regatas x Columbia Skyline Football Club | estádio=Estádio General Severiano | clima=Neblina | seed=- | perfil=caotico | pressão=Normal · peso 9/10
+[001] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Columbia Skyline Football Club
+[001] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.405 roll=0.866
+[002] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 0 x 0 Columbia Skyline Football Club
+[002] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.405 roll=0.375
+[002] JOGADA Botafogo de Futebol e Regatas | César Delgado x Fruit Salad James line=2 duel=56.08 corte=-1.12
+[002] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Edward Gayville line=5 duel=78.87 corte=-1.37
+[002] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Big W line=5 duel=100.37 corte=-1.37
+[002] FINAL Botafogo de Futebol e Regatas | Fernando Hamada fam=1 duel=7.25 on_target=0.765 goal=0.287
+[002] FINAL Fernando Hamada: GOL subtipo=CHUTE (roll=0.255)
+[003] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[003] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.405 roll=0.771
+[004] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[004] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.405 roll=0.729
+[005] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[005] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.405 roll=0.700
+[006] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[006] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.405 roll=0.841
+[007] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[007] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.405 roll=0.791
+[008] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[008] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.405 roll=0.088
+[008] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Fruit Salad James line=4 duel=-8.51 corte=-1.30
+[008] JOGADA falhou: Fruit Salad James cortou
+[009] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[009] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.452 roll=0.486
+[010] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[010] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.405 roll=0.211
+[010] JOGADA Botafogo de Futebol e Regatas | César Delgado x Big W line=3 duel=-6.95 corte=-1.30
+[010] JOGADA falhou: Big W cortou
+[011] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[011] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.489 roll=0.753
+[012] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[012] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.438 roll=0.725
+[013] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[013] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.489 roll=0.434
+[013] JOGADA Columbia Skyline Football Club | Jack Wynand x João Sanches line=3 duel=42.30 corte=-1.30
+[013] JOGADA Columbia Skyline Football Club | Edward Gayville x Lucimar Garavelo line=4 duel=-88.33 corte=-1.30
+[013] JOGADA falhou: Lucimar Garavelo cortou
+[014] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[014] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.489 roll=0.311
+[014] JOGADA Columbia Skyline Football Club | Jack Wynand x Marco Medeiros line=2 duel=20.49 corte=-1.30
+[014] JOGADA Columbia Skyline Football Club | Edward Gayville x César Delgado line=3 duel=7.66 corte=-1.30
+[014] JOGADA Columbia Skyline Football Club | Awper x João Sanches line=4 duel=-38.79 corte=-1.30
+[014] JOGADA falhou: João Sanches cortou
+[015] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[015] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.438 roll=0.412
+[015] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Awper line=2 duel=39.91 corte=-1.30
+[015] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Edward Gayville line=3 duel=57.75 corte=-1.30
+[015] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Quagmire line=4 duel=-18.42 corte=-1.30
+[016] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[016] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.489 roll=0.844
+[017] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[017] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.438 roll=0.651
+[018] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[018] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.489 roll=0.742
+[019] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[019] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.438 roll=0.615
+[020] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[020] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.438 roll=0.302
+[020] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Big W line=4 duel=-42.35 corte=-1.30
+[020] JOGADA falhou: Big W cortou
+[021] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[021] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.526 roll=0.595
+[022] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[022] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.526 roll=0.780
+[023] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[023] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.471 roll=0.990
+[024] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[024] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.526 roll=0.002
+[024] JOGADA Columbia Skyline Football Club | Big W x Tadeuzinho line=3 duel=29.17 corte=-1.30
+[024] FINAL Columbia Skyline Football Club | Awper fam=5 duel=-5.03 on_target=0.753 goal=0.199
+[024] FINAL Awper: no alvo sem gol (roll=0.603)
+[025] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[025] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.471 roll=0.755
+[026] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[026] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.471 roll=0.328
+[026] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Edward Gayville line=3 duel=5.06 corte=-1.30
+[026] JOGADA Botafogo de Futebol e Regatas | César Delgado x Awper line=4 duel=40.45 corte=-1.30
+[026] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=22.17 on_target=0.870 goal=0.324
+[026] FINAL Tadeuzinho: no alvo sem gol (roll=0.432)
+[027] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[027] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.471 roll=0.367
+[027] JOGADA Botafogo de Futebol e Regatas | João Sanches x Quagmire line=4 duel=-9.85 corte=-1.30
+[027] JOGADA falhou: Quagmire cortou
+[028] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[028] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.471 roll=0.312
+[028] JOGADA Botafogo de Futebol e Regatas | João Sanches x Josh Battle line=3 duel=39.33 corte=-1.30
+[028] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Big W line=4 duel=-21.18 corte=-1.30
+[029] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[029] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.527 roll=0.944
+[030] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[030] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.527 roll=0.717
+[031] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[031] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.470 roll=0.679
+[032] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[032] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.527 roll=0.907
+[033] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[033] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.470 roll=0.837
+[034] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[034] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.527 roll=0.462
+[034] JOGADA Columbia Skyline Football Club | Edward Gayville x César Delgado line=2 duel=2.73 corte=-1.30
+[034] JOGADA Columbia Skyline Football Club | Jack Wynand x Geraldo Pascoal line=3 duel=1.25 corte=-1.30
+[034] JOGADA Columbia Skyline Football Club | Awper x Geraldo Pascoal line=4 duel=-17.32 corte=-1.30
+[035] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 1 x 0 Columbia Skyline Football Club
+[035] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.470 roll=0.235
+[035] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Ray Bonder line=4 duel=11.29 corte=-1.30
+[035] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Quagmire line=4 duel=8.72 corte=-1.30
+[035] FINAL Botafogo de Futebol e Regatas | Marco Medeiros fam=1 duel=4.48 on_target=0.867 goal=0.313
+[035] FINAL Marco Medeiros: GOL subtipo=CHUTE (roll=0.226)
+[036] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 0 Columbia Skyline Football Club
+[036] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.462 roll=0.701
+[037] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 0 Columbia Skyline Football Club
+[037] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.531 roll=0.264
+[037] JOGADA Columbia Skyline Football Club | Willian Biden x João Sanches line=4 duel=16.98 corte=-1.30
+[037] FINAL Columbia Skyline Football Club | Pedrão fam=5 duel=-10.11 on_target=0.753 goal=0.197
+[037] FINAL Pedrão: GOL subtipo=FALTA (roll=0.170)
+[038] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[038] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.527 roll=0.101
+[038] JOGADA Columbia Skyline Football Club | Awper x Geraldo Pascoal line=3 duel=-17.82 corte=-1.30
+[038] JOGADA falhou: Geraldo Pascoal cortou
+[039] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[039] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.527 roll=0.895
+[040] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[040] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.527 roll=0.965
+[041] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[041] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.527 roll=0.198
+[041] JOGADA Columbia Skyline Football Club | Ray Bonder x Tadeuzinho line=2 duel=53.51 corte=-1.30
+[041] JOGADA Columbia Skyline Football Club | Quagmire x Alisson Caiçara line=3 duel=5.29 corte=-1.30
+[041] JOGADA Columbia Skyline Football Club | Quagmire x Rúben Águas line=4 duel=20.20 corte=-1.30
+[041] FINAL Columbia Skyline Football Club | Pedrão fam=1 duel=-13.37 on_target=0.864 goal=0.309
+[041] FINAL Pedrão: fora/alvo perdido (roll=0.912)
+[042] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[042] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.470 roll=0.514
+[043] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[043] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.527 roll=0.929
+[044] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[044] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.470 roll=0.344
+[044] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Fruit Salad James line=3 duel=-3.85 corte=-1.30
+[044] JOGADA falhou: Fruit Salad James cortou
+[045] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[045] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.527 roll=0.909
+[046] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[046] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.438 roll=0.715
+[047] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[047] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.438 roll=0.352
+[047] JOGADA Botafogo de Futebol e Regatas | César Delgado x Willian Biden line=4 duel=26.60 corte=-1.30
+[047] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Pedrão line=4 duel=27.93 corte=-1.30
+[047] FINAL Botafogo de Futebol e Regatas | Fernando Hamada fam=1 duel=17.84 on_target=0.826 goal=0.312
+[047] FINAL Fernando Hamada: no alvo sem gol (roll=0.672)
+[048] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[048] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.490 roll=0.412
+[048] JOGADA Columbia Skyline Football Club | Willian Biden x Rúben Águas line=4 duel=13.61 corte=-1.30
+[048] FINAL Columbia Skyline Football Club | Pedrão fam=5 duel=-65.10 on_target=0.710 goal=0.158
+[048] FINAL Pedrão: fora/alvo perdido (roll=0.730)
+[049] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[049] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.490 roll=0.149
+[049] JOGADA Columbia Skyline Football Club | Willian Biden x Aloísio Coelho line=4 duel=-25.45 corte=-1.30
+[050] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[050] SUB Botafogo de Futebol e Regatas: saiu João Sanches (SA) | entrou Severino Desempregado (MA) | subs=1/5
+[050] SUB Columbia Skyline Football Club: saiu Willian Biden (CA) | entrou Owen Barkfield (SA) | subs=1/5
+[050] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.457 roll=0.956
+[051] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[051] SUB Botafogo de Futebol e Regatas: saiu Rúben Águas (SA) | entrou Escudo Calábrio Defensor (SA) | subs=2/5
+[051] SUB Columbia Skyline Football Club: saiu Awper (PE) | entrou Shutz Ethan Cuckley (ME) | subs=2/5
+[051] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.464 roll=0.195
+[051] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Pedrão line=4 duel=65.96 corte=-1.70
+[051] FINAL Botafogo de Futebol e Regatas | Severino Desempregado fam=5 duel=40.48 on_target=0.719 goal=0.220
+[051] FINAL Severino Desempregado: no alvo sem gol (roll=0.271)
+[052] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[052] SUB Columbia Skyline Football Club: saiu Pedrão (PD) | entrou Louis Long (MD) | subs=3/5
+[052] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.462 roll=0.105
+[052] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Louis Long line=3 duel=5.68 corte=-1.70
+[052] JOGADA Botafogo de Futebol e Regatas | Escudo Calábrio Defensor x Josh Battle line=5 duel=18.04 corte=-2.45
+[052] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Josh Battle line=5 duel=-3.74 corte=-1.95
+[052] JOGADA falhou: Josh Battle cortou
+[053] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[053] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.462 roll=0.209
+[053] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Louis Long line=4 duel=19.25 corte=-1.70
+[053] JOGADA Botafogo de Futebol e Regatas | Lucimar Garavelo x Josh Battle line=5 duel=16.09 corte=-1.95
+[053] JOGADA Botafogo de Futebol e Regatas | Fernando Hamada x Edward Gayville line=5 duel=66.23 corte=-2.45
+[053] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=1 duel=26.73 on_target=0.827 goal=0.325
+[053] FINAL Tadeuzinho: no alvo sem gol (roll=0.326)
+[054] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[054] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.411 roll=0.586
+[054] FINAL Columbia Skyline Football Club | Jack Wynand fam=5 duel=-70.25 on_target=0.697 goal=0.136
+[054] FINAL Jack Wynand: fora/alvo perdido (roll=0.939)
+[055] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[055] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.411 roll=0.976
+[056] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[056] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.441 roll=0.400
+[056] JOGADA Columbia Skyline Football Club | Fruit Salad James x Fernando Hamada line=3 duel=7.94 corte=-1.11
+[056] JOGADA Columbia Skyline Football Club | Jack Wynand x Fernando Hamada line=4 duel=1.64 corte=-1.11
+[056] FINAL Columbia Skyline Football Club | Edward Gayville fam=1 duel=10.95 on_target=0.868 goal=0.317
+[056] FINAL Edward Gayville: fora/alvo perdido (roll=0.908)
+[057] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[057] SUB Columbia Skyline Football Club: saiu Quagmire (ZAG) | entrou Valdemir Clemente (ZAG) | subs=4/5
+[057] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.443 roll=0.350
+[057] JOGADA Columbia Skyline Football Club | Valdemir Clemente x Alisson Caiçara line=2 duel=25.40 corte=-1.11
+[057] JOGADA Columbia Skyline Football Club | Owen Barkfield x Severino Desempregado line=3 duel=3.77 corte=-1.11
+[057] JOGADA Columbia Skyline Football Club | Louis Long x César Delgado line=4 duel=13.59 corte=-1.11
+[057] FINAL Columbia Skyline Football Club | Owen Barkfield fam=1 duel=22.15 on_target=0.868 goal=0.323
+[057] FINAL Owen Barkfield: no alvo sem gol (roll=0.936)
+[058] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[058] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.503 roll=0.281
+[058] JOGADA Botafogo de Futebol e Regatas | César Delgado x Fruit Salad James line=3 duel=56.00 corte=-1.70
+[058] FINAL Botafogo de Futebol e Regatas | Severino Desempregado fam=5 duel=-13.24 on_target=0.753 goal=0.195
+[058] FINAL Severino Desempregado: no alvo sem gol (roll=0.235)
+[059] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[059] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.443 roll=0.576
+[060] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[060] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.507 roll=0.130
+[060] JOGADA Botafogo de Futebol e Regatas | Marco Medeiros x Valdemir Clemente line=3 duel=-29.60 corte=-1.70
+[061] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[061] SUB Botafogo de Futebol e Regatas: saiu Fernando Hamada (MA) | entrou Jessé Soares (MA) | subs=3/5
+[061] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.490 roll=0.819
+[062] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[062] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.490 roll=0.187
+[062] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Edward Gayville line=4 duel=10.51 corte=-1.70
+[062] JOGADA Botafogo de Futebol e Regatas | Aloísio Coelho x Josh Battle line=5 duel=34.37 corte=-1.95
+[062] JOGADA Botafogo de Futebol e Regatas | Alisson Caiçara x Valdemir Clemente line=5 duel=-10.63 corte=-1.95
+[062] JOGADA falhou: Valdemir Clemente cortou
+[063] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[063] SUB Columbia Skyline Football Club: saiu Josh Battle (VOL) | entrou Leon First Bush (VOL) | subs=5/5
+[063] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.494 roll=0.827
+[064] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[064] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.443 roll=0.647
+[065] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[065] SUB Botafogo de Futebol e Regatas: saiu Marco Medeiros (MC) | entrou Isaías da Cruz (VOL) | subs=4/5
+[065] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.445 roll=0.995
+[066] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[066] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.445 roll=0.612
+[067] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[067] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.492 roll=0.516
+[068] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[068] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.495 roll=0.579
+[069] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[069] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.445 roll=0.712
+[070] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[070] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.491 roll=0.301
+[070] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Jack Wynand line=4 duel=0.07 corte=-1.70
+[070] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Leon First Bush line=4 duel=-18.26 corte=-1.70
+[071] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[071] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.491 roll=0.800
+[072] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[072] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.491 roll=0.404
+[072] JOGADA Botafogo de Futebol e Regatas | Escudo Calábrio Defensor x Leon First Bush line=3 duel=-12.47 corte=-1.70
+[072] JOGADA falhou: Leon First Bush cortou
+[073] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 2 x 1 Columbia Skyline Football Club
+[073] SUB Botafogo de Futebol e Regatas: saiu Geraldo Pascoal (ZAG) | entrou Augusto Bota Fogo no Adversário (ZAG) | subs=5/5
+[073] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.490 roll=0.354
+[073] JOGADA Botafogo de Futebol e Regatas | Tadeuzinho x Leon First Bush line=4 duel=48.07 corte=-1.70
+[073] FINAL Botafogo de Futebol e Regatas | Escudo Calábrio Defensor fam=5 duel=-10.49 on_target=0.743 goal=0.200
+[073] FINAL Escudo Calábrio Defensor: GOL subtipo=FALTA (roll=0.018)
+[074] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 1 Columbia Skyline Football Club
+[074] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.448 roll=0.096
+[074] JOGADA Columbia Skyline Football Club | Edward Gayville x Lucimar Garavelo line=4 duel=-1.26 corte=-1.05
+[074] JOGADA falhou: Lucimar Garavelo cortou
+[075] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 1 Columbia Skyline Football Club
+[075] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.448 roll=0.471
+[076] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 1 Columbia Skyline Football Club
+[076] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.471 roll=0.574
+[077] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 1 Columbia Skyline Football Club
+[077] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.471 roll=0.483
+[078] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 1 Columbia Skyline Football Club
+[078] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.484 roll=0.409
+[078] JOGADA Columbia Skyline Football Club | Jack Wynand x Aloísio Coelho line=4 duel=3.86 corte=-1.05
+[078] JOGADA Columbia Skyline Football Club | Jack Wynand x César Delgado line=4 duel=-2.48 corte=-1.05
+[078] FINAL Columbia Skyline Football Club | Jack Wynand fam=5 duel=-13.32 on_target=0.790 goal=0.182
+[078] FINAL Jack Wynand: GOL subtipo=FALTA (roll=0.060)
+[079] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[079] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.483 roll=0.558
+[080] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[080] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.475 roll=0.567
+[081] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[081] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.483 roll=0.866
+[082] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[082] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.475 roll=0.781
+[083] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[083] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.483 roll=0.202
+[083] JOGADA Columbia Skyline Football Club | Valdemir Clemente x Aloísio Coelho line=4 duel=1.42 corte=-1.05
+[083] JOGADA Columbia Skyline Football Club | Owen Barkfield x Augusto Bota Fogo no Adversário line=4 duel=-21.37 corte=-1.05
+[083] JOGADA falhou: Augusto Bota Fogo no Adversário cortou
+[084] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[084] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.475 roll=0.973
+[085] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[085] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.580 roll=0.007
+[085] JOGADA Columbia Skyline Football Club | Edward Gayville x Isaías da Cruz line=4 duel=-8.74 corte=-1.05
+[086] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[086] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.580 roll=0.482
+[086] JOGADA Columbia Skyline Football Club | Valdemir Clemente x Tadeuzinho line=2 duel=26.94 corte=-1.05
+[086] JOGADA Columbia Skyline Football Club | Leon First Bush x Alisson Caiçara line=3 duel=25.49 corte=-1.05
+[086] JOGADA Columbia Skyline Football Club | Owen Barkfield x Isaías da Cruz line=4 duel=-16.41 corte=-1.05
+[086] JOGADA falhou: Isaías da Cruz cortou
+[087] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[087] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.580 roll=0.749
+[088] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[088] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.580 roll=0.575
+[088] JOGADA Columbia Skyline Football Club | Leon First Bush x Aloísio Coelho line=3 duel=6.35 corte=-1.05
+[088] JOGADA Columbia Skyline Football Club | Fruit Salad James x Lucimar Garavelo line=4 duel=-8.65 corte=-1.05
+[089] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[089] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.475 roll=0.167
+[089] JOGADA Botafogo de Futebol e Regatas | Severino Desempregado x Fruit Salad James line=3 duel=20.19 corte=-1.70
+[089] FINAL Botafogo de Futebol e Regatas | Tadeuzinho fam=5 duel=12.31 on_target=0.731 goal=0.217
+[089] FINAL Tadeuzinho: no alvo sem gol (roll=0.565)
+[090] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[090] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.580 roll=0.252
+[090] JOGADA Columbia Skyline Football Club | Ray Bonder x Aloísio Coelho line=2 duel=4.06 corte=-1.05
+[090] JOGADA Columbia Skyline Football Club | Valdemir Clemente x Isaías da Cruz line=3 duel=-13.79 corte=-1.05
+[090] JOGADA falhou: Isaías da Cruz cortou
+[091] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[091] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.475 roll=0.666
+[091] FINAL Botafogo de Futebol e Regatas | César Delgado fam=5 duel=-37.87 on_target=0.727 goal=0.187
+[091] FINAL César Delgado: fora/alvo perdido (roll=0.991)
+[092] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[092] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.580 roll=0.567
+[092] JOGADA Columbia Skyline Football Club | Louis Long x Jessé Soares line=2 duel=62.25 corte=-1.05
+[092] JOGADA Columbia Skyline Football Club | Louis Long x César Delgado line=5 duel=13.22 corte=-1.30
+[092] JOGADA Columbia Skyline Football Club | Valdemir Clemente x Isaías da Cruz line=5 duel=31.83 corte=-1.30
+[092] FINAL Columbia Skyline Football Club | Edward Gayville fam=1 duel=0.64 on_target=0.920 goal=0.342
+[092] FINAL Edward Gayville: no alvo sem gol (roll=0.978)
+[093] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[093] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.475 roll=0.919
+[094] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[094] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.580 roll=0.362
+[094] JOGADA Columbia Skyline Football Club | Edward Gayville x Jessé Soares line=3 duel=-17.40 corte=-1.05
+[094] JOGADA falhou: Jessé Soares cortou
+[095] posse=Columbia Skyline Football Club | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[095] BUILD Columbia Skyline Football Club vs Botafogo de Futebol e Regatas prob=0.580 roll=0.400
+[095] JOGADA Columbia Skyline Football Club | Leon First Bush x Jessé Soares line=3 duel=-15.61 corte=-1.05
+[095] JOGADA falhou: Jessé Soares cortou
+[096] posse=Botafogo de Futebol e Regatas | placar Botafogo de Futebol e Regatas 3 x 2 Columbia Skyline Football Club
+[096] BUILD Botafogo de Futebol e Regatas vs Columbia Skyline Football Club prob=0.475 roll=0.614

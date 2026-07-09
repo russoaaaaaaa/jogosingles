@@ -1,0 +1,321 @@
+Partida #104
+Data: 1912-01-08
+Mandante: Club Athletico Paulistano
+Visitante: Hydecroft Foot-Ball Club
+Placar: 6 x 0
+Seed: -
+Estádio: Velódromo Paulista
+Clima: Neblina
+Placar tempo normal: 6 x 0
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Club Athletico Paulistano x Hydecroft Foot-Ball Club | estádio=Velódromo Paulista | clima=Neblina | seed=- | perfil=aberto | pressão=Normal · peso 9/10
+[001] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[001] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.181 roll=0.860
+[002] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[002] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.181 roll=0.061
+[002] JOGADA Hydecroft Foot-Ball Club | Infeliz x Almurtão Falcao line=4 duel=-76.36 corte=-1.30
+[002] JOGADA falhou: Almurtão Falcao cortou
+[003] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[003] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.419 roll=0.586
+[004] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[004] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.419 roll=0.558
+[005] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[005] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.419 roll=0.115
+[005] JOGADA Club Athletico Paulistano | Bernardinho x Couto Mixto line=5 duel=58.28 corte=-1.87
+[005] FINAL Club Athletico Paulistano | Judas Bettencourt fam=1 duel=14.14 on_target=0.676 goal=0.253
+[005] FINAL Judas Bettencourt: fora/alvo perdido (roll=0.858)
+[006] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[006] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.419 roll=0.053
+[006] JOGADA Club Athletico Paulistano | Bernardinho x Dumal line=4 duel=99.39 corte=-1.12
+[006] FINAL Club Athletico Paulistano | Bernardinho fam=1 duel=8.77 on_target=0.674 goal=0.250
+[006] FINAL Bernardinho: no alvo sem gol (roll=0.310)
+[007] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[007] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.419 roll=0.676
+[008] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[008] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.419 roll=0.832
+[009] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[009] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.419 roll=0.282
+[009] JOGADA Club Athletico Paulistano | Almurtão Falcao x Couto Mixto line=5 duel=57.83 corte=-1.87
+[009] FINAL Club Athletico Paulistano | Bernardinho fam=3 duel=-33.94 on_target=0.609 goal=0.173
+[009] FINAL Bernardinho: no alvo sem gol (roll=0.461)
+[010] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[010] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.419 roll=0.839
+[011] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[011] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.195 roll=0.946
+[012] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[012] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.453 roll=0.791
+[013] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[013] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.453 roll=0.897
+[014] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[014] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.195 roll=0.472
+[015] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[015] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.195 roll=0.033
+[015] JOGADA Hydecroft Foot-Ball Club | Toninho do Diabo x Miguel Rosa line=4 duel=-33.87 corte=-1.30
+[015] JOGADA falhou: Miguel Rosa cortou
+[016] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[016] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.195 roll=0.643
+[017] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[017] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.195 roll=0.737
+[018] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[018] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.195 roll=0.977
+[019] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[019] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.453 roll=0.463
+[020] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[020] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.453 roll=0.627
+[021] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[021] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.487 roll=0.815
+[022] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 0 x 0 Hydecroft Foot-Ball Club
+[022] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.487 roll=0.325
+[022] JOGADA Club Athletico Paulistano | Boavida Branco x Mãe, o Chato line=3 duel=98.17 corte=-1.12
+[022] FINAL Club Athletico Paulistano | Bernardinho fam=1 duel=-2.47 on_target=0.765 goal=0.269
+[022] FINAL Bernardinho: GOL subtipo=CHUTE (roll=0.235)
+[023] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 1 x 0 Hydecroft Foot-Ball Club
+[023] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.487 roll=0.323
+[023] JOGADA Club Athletico Paulistano | Bernardinho x Incestuoso line=4 duel=81.98 corte=-1.30
+[023] FINAL Club Athletico Paulistano | Boavida Branco fam=1 duel=13.20 on_target=0.768 goal=0.278
+[023] FINAL Boavida Branco: no alvo sem gol (roll=0.758)
+[024] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 1 x 0 Hydecroft Foot-Ball Club
+[024] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.238 roll=0.270
+[025] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 1 x 0 Hydecroft Foot-Ball Club
+[025] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.487 roll=0.358
+[025] JOGADA Club Athletico Paulistano | Jacó Brandão x João Gil Itú line=4 duel=85.89 corte=-1.30
+[025] FINAL Club Athletico Paulistano | Judas Bettencourt fam=1 duel=4.80 on_target=0.768 goal=0.274
+[025] FINAL Judas Bettencourt: fora/alvo perdido (roll=0.882)
+[026] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 1 x 0 Hydecroft Foot-Ball Club
+[026] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.487 roll=0.735
+[027] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 1 x 0 Hydecroft Foot-Ball Club
+[027] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.487 roll=0.278
+[027] JOGADA Club Athletico Paulistano | Judas Bettencourt x Frâncio Estão line=4 duel=15.21 corte=-1.30
+[027] FINAL Club Athletico Paulistano | Bernardinho fam=1 duel=-1.91 on_target=0.766 goal=0.269
+[027] FINAL Bernardinho: no alvo sem gol (roll=0.832)
+[028] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 1 x 0 Hydecroft Foot-Ball Club
+[028] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.487 roll=0.319
+[028] JOGADA Club Athletico Paulistano | Alan Gadelha x Dumal line=4 duel=26.85 corte=-1.30
+[028] FINAL Club Athletico Paulistano | Boavida Branco fam=1 duel=13.99 on_target=0.768 goal=0.278
+[028] FINAL Boavida Branco: GOL subtipo=CHUTE (roll=0.274)
+[029] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 2 x 0 Hydecroft Foot-Ball Club
+[029] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.479 roll=0.758
+[030] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 2 x 0 Hydecroft Foot-Ball Club
+[030] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.242 roll=0.304
+[031] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 2 x 0 Hydecroft Foot-Ball Club
+[031] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.479 roll=0.301
+[031] JOGADA Club Athletico Paulistano | Jacó Brandão x Toninho do Diabo line=5 duel=20.05 corte=-1.55
+[031] FINAL Club Athletico Paulistano | Jacó Brandão fam=1 duel=13.14 on_target=0.745 goal=0.264
+[031] FINAL Jacó Brandão: no alvo sem gol (roll=0.286)
+[032] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 2 x 0 Hydecroft Foot-Ball Club
+[032] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.479 roll=0.175
+[032] JOGADA Club Athletico Paulistano | Bernardinho x Infeliz line=4 duel=47.03 corte=-1.30
+[032] FINAL Club Athletico Paulistano | Judas Bettencourt fam=1 duel=1.99 on_target=0.745 goal=0.259
+[032] FINAL Judas Bettencourt: no alvo sem gol (roll=0.529)
+[033] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 2 x 0 Hydecroft Foot-Ball Club
+[033] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.479 roll=0.993
+[034] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 2 x 0 Hydecroft Foot-Ball Club
+[034] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.479 roll=0.359
+[034] JOGADA Club Athletico Paulistano | Remígio Diniz x João Gil Itú line=4 duel=53.14 corte=-1.30
+[034] FINAL Club Athletico Paulistano | Almurtão Falcao fam=1 duel=13.43 on_target=0.744 goal=0.264
+[034] FINAL Almurtão Falcao: GOL subtipo=CHUTE (roll=0.255)
+[035] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 3 x 0 Hydecroft Foot-Ball Club
+[035] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.471 roll=0.628
+[036] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 3 x 0 Hydecroft Foot-Ball Club
+[036] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.246 roll=0.405
+[037] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 3 x 0 Hydecroft Foot-Ball Club
+[037] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.471 roll=0.025
+[037] JOGADA Club Athletico Paulistano | Almurtão Falcao x Toninho do Diabo line=4 duel=16.55 corte=-1.30
+[037] FINAL Club Athletico Paulistano | Judas Bettencourt fam=3 duel=1.04 on_target=0.655 goal=0.190
+[037] FINAL Judas Bettencourt: no alvo sem gol (roll=0.202)
+[038] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 3 x 0 Hydecroft Foot-Ball Club
+[038] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.471 roll=0.076
+[038] JOGADA Club Athletico Paulistano | Almurtão Falcao x Desgraçado line=5 duel=80.21 corte=-2.05
+[038] FINAL Club Athletico Paulistano | Judas Bettencourt fam=3 duel=0.75 on_target=0.655 goal=0.190
+[038] FINAL Judas Bettencourt: GOL subtipo=CHUTE (roll=0.164)
+[039] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[039] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.246 roll=0.018
+[039] JOGADA Hydecroft Foot-Ball Club | Frâncio Estão x Judas Bettencourt line=3 duel=2.12 corte=-1.30
+[039] FINAL Hydecroft Foot-Ball Club | Infeliz fam=5 duel=-31.57 on_target=0.664 goal=0.162
+[039] FINAL Infeliz: no alvo sem gol (roll=0.367)
+[040] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[040] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.463 roll=0.575
+[041] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[041] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.246 roll=0.709
+[042] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[042] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.463 roll=0.885
+[043] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[043] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.246 roll=0.054
+[043] JOGADA Hydecroft Foot-Ball Club | Mãe, o Chato x Miguel Rosa line=4 duel=-28.05 corte=-1.30
+[044] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[044] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.463 roll=0.332
+[044] JOGADA Club Athletico Paulistano | Madaleno Luz x Desgraçado line=4 duel=10.39 corte=-1.30
+[044] FINAL Club Athletico Paulistano | Judas Bettencourt fam=1 duel=-3.42 on_target=0.699 goal=0.236
+[044] FINAL Judas Bettencourt: no alvo sem gol (roll=0.314)
+[045] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[045] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.463 roll=0.671
+[046] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[046] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.431 roll=0.980
+[047] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[047] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.229 roll=0.450
+[048] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[048] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.431 roll=0.639
+[048] FINAL Club Athletico Paulistano | Boavida Branco fam=5 duel=14.60 on_target=0.568 goal=0.141
+[048] FINAL Boavida Branco: fora/alvo perdido (roll=0.822)
+[049] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[049] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.431 roll=0.490
+[050] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[050] SUB Club Athletico Paulistano: saiu Bernardinho (SA) | entrou Tadeu Góes (PD) | subs=1/5
+[050] SUB Hydecroft Foot-Ball Club: saiu Infeliz (SA) | entrou Etah (SA) | subs=1/5
+[050] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.433 roll=0.997
+[051] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[051] SUB Club Athletico Paulistano: saiu Judas Bettencourt (CA) | entrou Guimar Menezes (PD) | subs=2/5
+[051] SUB Hydecroft Foot-Ball Club: saiu Couto Mixto (CA) | entrou Botucatú (CA) | subs=2/5
+[051] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.431 roll=0.009
+[051] JOGADA Club Athletico Paulistano | Madaleno Luz x João Gil Itú line=5 duel=18.21 corte=-1.55
+[051] FINAL Club Athletico Paulistano | Antonelo Álvares fam=1 duel=8.32 on_target=0.663 goal=0.233
+[051] FINAL Antonelo Álvares: fora/alvo perdido (roll=0.856)
+[052] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[052] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.227 roll=0.559
+[053] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[053] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.227 roll=0.461
+[054] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[054] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.431 roll=0.119
+[054] JOGADA Club Athletico Paulistano | Miguel Rosa x Toninho do Diabo line=3 duel=58.73 corte=-1.30
+[054] FINAL Club Athletico Paulistano | Tadeu Góes fam=1 duel=39.51 on_target=0.666 goal=0.247
+[054] FINAL Tadeu Góes: no alvo sem gol (roll=0.924)
+[055] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[055] SUB Hydecroft Foot-Ball Club: saiu Frâncio Estão (LD) | entrou Ricorrupto (AE) | subs=3/5
+[055] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.429 roll=0.222
+[055] JOGADA Club Athletico Paulistano | Tadeu Góes x Desgraçado line=4 duel=42.18 corte=-1.30
+[055] FINAL Club Athletico Paulistano | Guimar Menezes fam=3 duel=22.27 on_target=0.603 goal=0.186
+[055] FINAL Guimar Menezes: fora/alvo perdido (roll=0.715)
+[056] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[056] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.462 roll=0.673
+[057] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[057] SUB Hydecroft Foot-Ball Club: saiu Maldoso & Silva (MD) | entrou Jéssico (PD) | subs=4/5
+[057] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.460 roll=0.117
+[057] JOGADA Club Athletico Paulistano | Almurtão Falcao x Desgraçado line=3 duel=16.40 corte=-1.30
+[057] FINAL Club Athletico Paulistano | Boavida Branco fam=3 duel=-15.17 on_target=0.633 goal=0.175
+[057] FINAL Boavida Branco: no alvo sem gol (roll=0.416)
+[058] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[058] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.460 roll=0.597
+[058] FINAL Club Athletico Paulistano | Antonelo Álvares fam=5 duel=10.12 on_target=0.596 goal=0.143
+[058] FINAL Antonelo Álvares: no alvo sem gol (roll=0.238)
+[059] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[059] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.245 roll=0.930
+[060] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[060] SUB Club Athletico Paulistano: saiu Almurtão Falcao (MA) | entrou Dante Cruz (MA) | subs=3/5
+[060] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.454 roll=0.469
+[061] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[061] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.454 roll=0.085
+[061] JOGADA Club Athletico Paulistano | Miguel Rosa x João Gil Itú line=4 duel=6.96 corte=-1.30
+[061] FINAL Club Athletico Paulistano | Guimar Menezes fam=1 duel=35.79 on_target=0.699 goal=0.252
+[061] FINAL Guimar Menezes: no alvo sem gol (roll=0.913)
+[062] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[062] SUB Hydecroft Foot-Ball Club: saiu Incestuoso (MC) | entrou Belzebu (VOL) | subs=5/5
+[062] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.455 roll=0.856
+[063] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[063] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.455 roll=0.301
+[063] JOGADA Club Athletico Paulistano | Madaleno Luz x João Gil Itú line=3 duel=6.90 corte=-1.30
+[063] FINAL Club Athletico Paulistano | Guimar Menezes fam=1 duel=33.62 on_target=0.699 goal=0.251
+[063] FINAL Guimar Menezes: fora/alvo perdido (roll=0.788)
+[064] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[064] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.455 roll=0.605
+[065] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[065] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.248 roll=0.167
+[065] JOGADA Hydecroft Foot-Ball Club | Belzebu x Jacó Brandão line=3 duel=-15.45 corte=-1.30
+[065] JOGADA falhou: Jacó Brandão cortou
+[066] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[066] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.455 roll=0.382
+[066] JOGADA Club Athletico Paulistano | Guimar Menezes x João Gil Itú line=4 duel=27.21 corte=-1.30
+[066] FINAL Club Athletico Paulistano | Boavida Branco fam=3 duel=-11.19 on_target=0.633 goal=0.177
+[066] FINAL Boavida Branco: no alvo sem gol (roll=0.435)
+[067] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[067] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.455 roll=0.901
+[068] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[068] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.248 roll=0.887
+[069] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[069] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.248 roll=0.835
+[070] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[070] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.248 roll=0.178
+[070] JOGADA Hydecroft Foot-Ball Club | Jéssico x Jacó Brandão line=4 duel=-3.59 corte=-1.30
+[070] JOGADA falhou: Jacó Brandão cortou
+[071] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[071] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.454 roll=0.457
+[072] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[072] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.454 roll=0.343
+[072] JOGADA Club Athletico Paulistano | Antonelo Álvares x João Gil Itú line=4 duel=56.60 corte=-1.30
+[072] FINAL Club Athletico Paulistano | Dante Cruz fam=1 duel=24.36 on_target=0.698 goal=0.246
+[072] FINAL Dante Cruz: no alvo sem gol (roll=0.649)
+[073] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[073] SUB Club Athletico Paulistano: saiu Remígio Diniz (ZAG) | entrou Dírio Machado (ZAG) | subs=4/5
+[073] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.257 roll=0.811
+[074] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 4 x 0 Hydecroft Foot-Ball Club
+[074] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.454 roll=0.369
+[074] JOGADA Club Athletico Paulistano | Antonelo Álvares x Desgraçado line=3 duel=20.14 corte=-1.30
+[074] FINAL Club Athletico Paulistano | Tadeu Góes fam=1 duel=38.52 on_target=0.699 goal=0.253
+[074] FINAL Tadeu Góes: GOL subtipo=CHUTE (roll=0.144)
+[075] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 5 x 0 Hydecroft Foot-Ball Club
+[075] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.257 roll=0.652
+[076] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 5 x 0 Hydecroft Foot-Ball Club
+[076] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.278 roll=0.946
+[077] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 5 x 0 Hydecroft Foot-Ball Club
+[077] SUB Club Athletico Paulistano: saiu Jacó Brandão (MC) | entrou Isaltino Amorim (MC) | subs=5/5
+[077] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.279 roll=0.282
+[078] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 5 x 0 Hydecroft Foot-Ball Club
+[078] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.433 roll=0.114
+[078] JOGADA Club Athletico Paulistano | Guimar Menezes x João Gil Itú line=4 duel=29.44 corte=-1.30
+[078] FINAL Club Athletico Paulistano | Tadeu Góes fam=3 duel=-5.67 on_target=0.609 goal=0.172
+[078] FINAL Tadeu Góes: no alvo sem gol (roll=0.404)
+[079] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 5 x 0 Hydecroft Foot-Ball Club
+[079] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.433 roll=0.045
+[079] JOGADA Club Athletico Paulistano | Tadeu Góes x Dumal line=5 duel=47.46 corte=-2.05
+[079] FINAL Club Athletico Paulistano | Guimar Menezes fam=3 duel=18.40 on_target=0.610 goal=0.183
+[079] FINAL Guimar Menezes: fora/alvo perdido (roll=0.962)
+[080] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 5 x 0 Hydecroft Foot-Ball Club
+[080] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.433 roll=0.190
+[080] JOGADA Club Athletico Paulistano | Alan Gadelha x Jéssico line=4 duel=73.54 corte=-1.30
+[080] FINAL Club Athletico Paulistano | Guimar Menezes fam=1 duel=25.68 on_target=0.672 goal=0.238
+[080] FINAL Guimar Menezes: fora/alvo perdido (roll=0.896)
+[081] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 5 x 0 Hydecroft Foot-Ball Club
+[081] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.433 roll=0.009
+[081] JOGADA Club Athletico Paulistano | Isaltino Amorim x Ricorrupto line=3 duel=55.98 corte=-1.30
+[081] FINAL Club Athletico Paulistano | Tadeu Góes fam=1 duel=31.44 on_target=0.673 goal=0.241
+[081] FINAL Tadeu Góes: GOL subtipo=CHUTE (roll=0.187)
+[082] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 6 x 0 Hydecroft Foot-Ball Club
+[082] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.279 roll=0.336
+[083] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 6 x 0 Hydecroft Foot-Ball Club
+[083] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.429 roll=0.124
+[083] JOGADA Club Athletico Paulistano | Isaltino Amorim x Ricorrupto line=4 duel=58.92 corte=-1.30
+[083] FINAL Club Athletico Paulistano | Boavida Branco fam=1 duel=18.76 on_target=0.662 goal=0.237
+[083] FINAL Boavida Branco: no alvo sem gol (roll=0.567)
+[084] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 6 x 0 Hydecroft Foot-Ball Club
+[084] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.279 roll=0.183
+[084] JOGADA Hydecroft Foot-Ball Club | Ricorrupto x Dante Cruz line=4 duel=-24.57 corte=-1.30
+[085] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 6 x 0 Hydecroft Foot-Ball Club
+[085] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.322 roll=0.806
+[086] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 6 x 0 Hydecroft Foot-Ball Club
+[086] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.322 roll=0.047
+[086] JOGADA Hydecroft Foot-Ball Club | Dumal x Madaleno Luz line=2 duel=-31.58 corte=-1.30
+[086] JOGADA falhou: Madaleno Luz cortou
+[087] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 6 x 0 Hydecroft Foot-Ball Club
+[087] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.322 roll=0.606
+[088] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 6 x 0 Hydecroft Foot-Ball Club
+[088] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.430 roll=0.822
+[089] posse=Club Athletico Paulistano | placar Club Athletico Paulistano 6 x 0 Hydecroft Foot-Ball Club
+[089] BUILD Club Athletico Paulistano vs Hydecroft Foot-Ball Club prob=0.430 roll=0.287
+[089] JOGADA Club Athletico Paulistano | Isaltino Amorim x Mãe, o Chato line=3 duel=105.15 corte=-1.30
+[089] FINAL Club Athletico Paulistano | Boavida Branco fam=1 duel=12.27 on_target=0.661 goal=0.234
+[089] FINAL Boavida Branco: fora/alvo perdido (roll=0.799)
+[090] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 6 x 0 Hydecroft Foot-Ball Club
+[090] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.322 roll=0.248
+[090] JOGADA Hydecroft Foot-Ball Club | Belzebu x Madaleno Luz line=3 duel=-30.02 corte=-1.30
+[090] JOGADA falhou: Madaleno Luz cortou
+[091] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 6 x 0 Hydecroft Foot-Ball Club
+[091] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.322 roll=0.880
+[092] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 6 x 0 Hydecroft Foot-Ball Club
+[092] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.322 roll=0.120
+[092] JOGADA Hydecroft Foot-Ball Club | Etah x Tadeu Góes line=4 duel=-65.46 corte=-1.30
+[092] JOGADA falhou: Tadeu Góes cortou
+[093] posse=Hydecroft Foot-Ball Club | placar Club Athletico Paulistano 6 x 0 Hydecroft Foot-Ball Club
+[093] BUILD Hydecroft Foot-Ball Club vs Club Athletico Paulistano prob=0.322 roll=0.468

@@ -1,0 +1,305 @@
+Partida #101
+Data: 1912-01-08
+Mandante: Club Esperia Societá Italiana di Canottieri
+Visitante: Dynamo de São Paulo
+Placar: 0 x 1
+Seed: -
+Estádio: Arena da Ponte Grande
+Clima: Chuva leve
+Placar tempo normal: 0 x 1
+Teve prorrogação: False
+Teve pênaltis: False
+Classificado: -
+
+=== LOG VERBOSE ===
+Início: Club Esperia Societá Italiana di Canottieri x Dynamo de São Paulo | estádio=Arena da Ponte Grande | clima=Chuva leve | seed=- | perfil=travado | pressão=Normal · peso 9/10
+[001] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[001] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.354 roll=0.273
+[001] JOGADA Club Esperia Societá Italiana di Canottieri | Aldónio Pozzato x Jordi Montenegro line=4 duel=5.52 corte=-1.70
+[001] JOGADA Club Esperia Societá Italiana di Canottieri | Daniel Petacchi x Arkadius Zimmerman line=4 duel=10.87 corte=-1.70
+[001] JOGADA Club Esperia Societá Italiana di Canottieri | Acilino Borghini x Arkadius Zimmerman line=5 duel=29.51 corte=-1.95
+[001] FINAL Club Esperia Societá Italiana di Canottieri | Baptista Missiaggia fam=1 duel=-4.39 on_target=0.552 goal=0.205
+[001] FINAL Baptista Missiaggia: no alvo sem gol (roll=0.358)
+[002] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[002] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.354 roll=0.816
+[003] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[003] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.354 roll=0.583
+[004] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[004] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.354 roll=0.700
+[005] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[005] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.354 roll=0.289
+[005] JOGADA Club Esperia Societá Italiana di Canottieri | Acilino Borghini x Arkadius Zimmerman line=4 duel=11.37 corte=-1.70
+[005] FINAL Club Esperia Societá Italiana di Canottieri | Solano Basso fam=5 duel=-95.29 on_target=0.475 goal=0.094
+[005] FINAL Solano Basso: no alvo sem gol (roll=0.917)
+[006] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[006] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.316 roll=0.763
+[007] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[007] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.354 roll=0.753
+[008] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[008] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.354 roll=0.913
+[009] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[009] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.354 roll=0.810
+[010] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[010] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.316 roll=0.997
+[011] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[011] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.382 roll=0.595
+[012] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[012] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.382 roll=0.846
+[013] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[013] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.342 roll=0.133
+[013] JOGADA Dynamo de São Paulo | Carlo Garcia Neto x Baptista Missiaggia line=2 duel=48.22 corte=-1.12
+[013] FINAL Dynamo de São Paulo | Arkadius Zimmerman fam=1 duel=-4.13 on_target=0.598 goal=0.220
+[013] FINAL Arkadius Zimmerman: fora/alvo perdido (roll=0.695)
+[014] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[014] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.382 roll=0.623
+[015] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[015] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.342 roll=0.912
+[016] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[016] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.342 roll=0.261
+[016] JOGADA Dynamo de São Paulo | Ariel Biancchi x Daniel Petacchi line=3 duel=82.21 corte=-1.12
+[016] FINAL Dynamo de São Paulo | Dmitry Miusov fam=1 duel=0.98 on_target=0.595 goal=0.220
+[016] FINAL Dmitry Miusov: fora/alvo perdido (roll=0.755)
+[017] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[017] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.342 roll=0.055
+[017] JOGADA Dynamo de São Paulo | Fadrique Losteau x Solano Basso line=4 duel=-7.15 corte=-1.12
+[018] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[018] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.382 roll=0.158
+[018] JOGADA Club Esperia Societá Italiana di Canottieri | Baptista Missiaggia x Ariel Biancchi line=4 duel=-37.53 corte=-1.70
+[018] JOGADA falhou: Ariel Biancchi cortou
+[019] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[019] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.342 roll=0.614
+[020] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[020] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.342 roll=0.786
+[021] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[021] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.367 roll=0.211
+[021] JOGADA Dynamo de São Paulo | Fadrique Losteau x Abiel Borghini line=4 duel=27.43 corte=-1.12
+[021] FINAL Dynamo de São Paulo | Dmitry Miusov fam=1 duel=-2.83 on_target=0.626 goal=0.225
+[021] FINAL Dmitry Miusov: no alvo sem gol (roll=0.547)
+[022] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[022] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.367 roll=0.655
+[023] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[023] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.367 roll=0.001
+[023] JOGADA Dynamo de São Paulo | Arkadius Zimmerman x Abiel Borghini line=3 duel=41.13 corte=-1.12
+[023] FINAL Dynamo de São Paulo | Dmitry Miusov fam=1 duel=9.41 on_target=0.627 goal=0.230
+[023] FINAL Dmitry Miusov: fora/alvo perdido (roll=0.884)
+[024] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[024] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.411 roll=0.437
+[025] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[025] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.411 roll=0.406
+[025] JOGADA Club Esperia Societá Italiana di Canottieri | Daniel Petacchi x Renato Papa-léguas line=4 duel=-16.43 corte=-1.70
+[025] JOGADA falhou: Renato Papa-léguas cortou
+[026] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[026] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.367 roll=0.396
+[027] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[027] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.411 roll=0.142
+[027] JOGADA Club Esperia Societá Italiana di Canottieri | Baptista Missiaggia x Carlo Garcia Neto line=4 duel=-80.83 corte=-1.70
+[027] JOGADA falhou: Carlo Garcia Neto cortou
+[028] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[028] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.367 roll=0.731
+[029] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[029] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.411 roll=0.605
+[030] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[030] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.367 roll=0.642
+[031] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[031] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.411 roll=0.986
+[032] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[032] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.414 roll=0.479
+[033] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[033] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.367 roll=0.764
+[034] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[034] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.414 roll=0.657
+[035] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[035] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.414 roll=0.780
+[036] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[036] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.367 roll=0.575
+[037] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[037] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.414 roll=0.599
+[038] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[038] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.414 roll=0.257
+[038] JOGADA Club Esperia Societá Italiana di Canottieri | Daniel Petacchi x Renato Papa-léguas line=4 duel=1.30 corte=-1.70
+[038] JOGADA Club Esperia Societá Italiana di Canottieri | Evaldo Gasparotto x Narsélio Byrd line=4 duel=-1.18 corte=-1.70
+[038] FINAL Club Esperia Societá Italiana di Canottieri | Abiel Borghini fam=5 duel=-18.13 on_target=0.544 goal=0.136
+[038] FINAL Abiel Borghini: fora/alvo perdido (roll=0.977)
+[039] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[039] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.367 roll=0.891
+[040] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[040] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.367 roll=0.508
+[041] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[041] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.367 roll=0.228
+[041] JOGADA Dynamo de São Paulo | Arkadius Zimmerman x Acilino Borghini line=3 duel=24.35 corte=-1.11
+[041] FINAL Dynamo de São Paulo | Renato Papa-léguas fam=1 duel=10.09 on_target=0.630 goal=0.232
+[041] FINAL Renato Papa-léguas: no alvo sem gol (roll=0.963)
+[042] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[042] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.367 roll=0.491
+[043] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[043] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.367 roll=0.457
+[044] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[044] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.414 roll=0.189
+[044] JOGADA Club Esperia Societá Italiana di Canottieri | Gaspar Dellacqua x Dmitry Miusov line=2 duel=-6.48 corte=-1.70
+[045] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[045] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.414 roll=0.720
+[046] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[046] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.385 roll=0.325
+[046] JOGADA Club Esperia Societá Italiana di Canottieri | Evaldo Gasparotto x Narsélio Byrd line=3 duel=-10.41 corte=-1.70
+[046] JOGADA falhou: Narsélio Byrd cortou
+[047] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[047] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.342 roll=0.719
+[048] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[048] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.342 roll=0.206
+[048] JOGADA Dynamo de São Paulo | Ariel Biancchi x Ettore Gasparotto line=4 duel=-8.78 corte=-1.11
+[048] JOGADA falhou: Ettore Gasparotto cortou
+[049] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[049] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.385 roll=0.848
+[050] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[050] SUB Club Esperia Societá Italiana di Canottieri: saiu Abiel Borghini (SA) | entrou Alfonso Sardinni (PD) | subs=1/5
+[050] SUB Dynamo de São Paulo: saiu Arkadius Zimmerman (CA) | entrou Zarkhán Volmir (PE) | subs=1/5
+[050] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.383 roll=0.721
+[051] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[051] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.337 roll=0.113
+[051] JOGADA Dynamo de São Paulo | Fadrique Losteau x Solano Basso line=4 duel=-1.24 corte=-1.12
+[052] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[052] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.383 roll=0.264
+[052] JOGADA Club Esperia Societá Italiana di Canottieri | Ettore Gasparotto x Fadrique Losteau line=4 duel=-40.26 corte=-1.70
+[052] JOGADA falhou: Fadrique Losteau cortou
+[053] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[053] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.383 roll=0.287
+[053] JOGADA Club Esperia Societá Italiana di Canottieri | Aldónio Pozzato x Carlo Garcia Neto line=4 duel=-85.01 corte=-1.70
+[053] JOGADA falhou: Carlo Garcia Neto cortou
+[054] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[054] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.383 roll=0.461
+[055] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[055] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.337 roll=0.878
+[056] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[056] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.363 roll=0.801
+[057] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[057] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.363 roll=0.488
+[058] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[058] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.412 roll=0.765
+[059] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[059] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.345 roll=0.684
+[060] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[060] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.415 roll=0.979
+[061] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[061] SUB Dynamo de São Paulo: saiu Dmitry Miusov (MD) | entrou Júlio Trapézio (MA) | subs=2/5
+[061] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.346 roll=0.338
+[061] JOGADA Dynamo de São Paulo | Jordi Montenegro x Jocelino Gasparotto line=3 duel=-15.37 corte=-1.11
+[061] JOGADA falhou: Jocelino Gasparotto cortou
+[062] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[062] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.346 roll=0.614
+[063] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[063] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.415 roll=0.169
+[063] JOGADA Club Esperia Societá Italiana di Canottieri | Ettore Gasparotto x Pegaso Cardona line=4 duel=-58.08 corte=-1.70
+[063] JOGADA falhou: Pegaso Cardona cortou
+[064] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[064] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.346 roll=0.417
+[065] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[065] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.415 roll=0.905
+[066] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[066] SUB Club Esperia Societá Italiana di Canottieri: saiu Solano Basso (MA) | entrou Eleandro Stropparo (MA) | subs=2/5
+[066] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.416 roll=0.533
+[067] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[067] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.345 roll=0.170
+[067] JOGADA Dynamo de São Paulo | Júlio Trapézio x Acilino Borghini line=4 duel=34.26 corte=-1.11
+[067] JOGADA Dynamo de São Paulo | Pegaso Cardona x Jocelino Gasparotto line=5 duel=9.54 corte=-1.36
+[067] JOGADA Dynamo de São Paulo | Ariel Biancchi x Alfonso Sardinni line=5 duel=34.27 corte=-1.36
+[067] FINAL Dynamo de São Paulo | Patrizio del Nero fam=1 duel=15.87 on_target=0.627 goal=0.233
+[067] FINAL Patrizio del Nero: fora/alvo perdido (roll=0.887)
+[068] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[068] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.345 roll=0.931
+[069] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[069] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.419 roll=0.350
+[069] JOGADA Club Esperia Societá Italiana di Canottieri | Gaspar Dellacqua x Carlo Garcia Neto line=3 duel=38.65 corte=-1.70
+[069] JOGADA Club Esperia Societá Italiana di Canottieri | Ettore Gasparotto x Ariel Biancchi line=4 duel=-6.13 corte=-1.70
+[070] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[070] SUB Club Esperia Societá Italiana di Canottieri: saiu Acilino Borghini (AD) | entrou Rúben Bonazzi (LD) | subs=3/5
+[070] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.420 roll=0.754
+[071] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[071] SUB Club Esperia Societá Italiana di Canottieri: saiu Baptista Missiaggia (CA) | entrou Giuseppe Confalonieri (CA) | subs=4/5
+[071] SUB Dynamo de São Paulo: saiu Jordi Montenegro (ZAG) | entrou Tagalamatu (ZAG) | subs=3/5
+[071] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.414 roll=0.599
+[072] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[072] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.345 roll=0.931
+[073] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[073] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.345 roll=0.360
+[074] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[074] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.345 roll=0.201
+[074] JOGADA Dynamo de São Paulo | Renato Papa-léguas x Alfonso Sardinni line=3 duel=27.04 corte=-1.06
+[074] FINAL Dynamo de São Paulo | Zarkhán Volmir fam=1 duel=32.82 on_target=0.632 goal=0.242
+[074] FINAL Zarkhán Volmir: no alvo sem gol (roll=0.829)
+[075] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[075] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.414 roll=0.307
+[075] JOGADA Club Esperia Societá Italiana di Canottieri | Daniel Petacchi x Pegaso Cardona line=3 duel=-29.71 corte=-1.70
+[075] JOGADA falhou: Pegaso Cardona cortou
+[076] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[076] SUB Club Esperia Societá Italiana di Canottieri: saiu Daniel Petacchi (ZAG) | entrou Filipo Sanaggia (LE) | subs=5/5
+[076] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.426 roll=0.576
+[077] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[077] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.357 roll=0.282
+[077] JOGADA Dynamo de São Paulo | Carlo Garcia Neto x Alfonso Sardinni line=4 duel=-5.14 corte=-1.06
+[077] JOGADA falhou: Alfonso Sardinni cortou
+[078] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[078] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.357 roll=0.514
+[079] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[079] SUB Dynamo de São Paulo: saiu Renato Papa-léguas (SA) | entrou Vasily Butusov (SA) | subs=4/5
+[079] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.426 roll=0.089
+[079] JOGADA Club Esperia Societá Italiana di Canottieri | Rúben Bonazzi x Pegaso Cardona line=3 duel=-14.95 corte=-1.70
+[079] JOGADA falhou: Pegaso Cardona cortou
+[080] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 0 Dynamo de São Paulo
+[080] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.356 roll=0.182
+[080] JOGADA Dynamo de São Paulo | Carlo Garcia Neto x Jocelino Gasparotto line=3 duel=18.44 corte=-1.06
+[080] FINAL Dynamo de São Paulo | Vasily Butusov fam=1 duel=38.23 on_target=0.643 goal=0.246
+[080] FINAL Vasily Butusov: GOL subtipo=CHUTE (roll=0.213)
+[081] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[081] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.493 roll=0.388
+[081] JOGADA Club Esperia Societá Italiana di Canottieri | Filipo Sanaggia x Carlo Garcia Neto line=4 duel=14.06 corte=-1.70
+[081] FINAL Club Esperia Societá Italiana di Canottieri | Eleandro Stropparo fam=5 duel=-22.13 on_target=0.584 goal=0.144
+[081] FINAL Eleandro Stropparo: no alvo sem gol (roll=0.653)
+[082] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[082] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.349 roll=0.182
+[082] JOGADA Dynamo de São Paulo | Patrizio del Nero x Aldónio Pozzato line=4 duel=-7.26 corte=-1.30
+[082] JOGADA falhou: Aldónio Pozzato cortou
+[083] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[083] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.349 roll=0.617
+[084] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[084] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.493 roll=0.766
+[085] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[085] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.349 roll=0.175
+[085] JOGADA Dynamo de São Paulo | Júlio Trapézio x Filipo Sanaggia line=3 duel=-0.07 corte=-1.30
+[085] FINAL Dynamo de São Paulo | Vasily Butusov fam=3 duel=-10.83 on_target=0.547 goal=0.159
+[085] FINAL Vasily Butusov: no alvo sem gol (roll=0.257)
+[086] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[086] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.488 roll=0.197
+[086] JOGADA Club Esperia Societá Italiana di Canottieri | Alfonso Sardinni x Patrizio del Nero line=4 duel=3.65 corte=-1.70
+[086] FINAL Club Esperia Societá Italiana di Canottieri | Jocelino Gasparotto fam=5 duel=-54.58 on_target=0.582 goal=0.126
+[086] FINAL Jocelino Gasparotto: no alvo sem gol (roll=0.755)
+[087] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[087] SUB Dynamo de São Paulo: saiu Narsélio Byrd (ZAG) | entrou Nikolay Korotkov (ZAG) | subs=5/5
+[087] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.493 roll=0.912
+[088] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[088] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.348 roll=0.820
+[089] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[089] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.493 roll=0.716
+[090] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[090] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.493 roll=0.651
+[091] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[091] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.493 roll=0.366
+[091] JOGADA Club Esperia Societá Italiana di Canottieri | Alfonso Sardinni x Júlio Trapézio line=2 duel=77.82 corte=-1.70
+[091] JOGADA Club Esperia Societá Italiana di Canottieri | Eleandro Stropparo x Fadrique Losteau line=5 duel=11.81 corte=-2.45
+[091] JOGADA Club Esperia Societá Italiana di Canottieri | Gaspar Dellacqua x Ariel Biancchi line=5 duel=64.99 corte=-1.95
+[091] FINAL Club Esperia Societá Italiana di Canottieri | Jocelino Gasparotto fam=1 duel=-4.38 on_target=0.672 goal=0.231
+[091] FINAL Jocelino Gasparotto: no alvo sem gol (roll=0.461)
+[092] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[092] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.348 roll=0.132
+[092] JOGADA Dynamo de São Paulo | Zarkhán Volmir x Rúben Bonazzi line=2 duel=-8.04 corte=-1.30
+[092] JOGADA falhou: Rúben Bonazzi cortou
+[093] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[093] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.348 roll=0.676
+[094] posse=Club Esperia Societá Italiana di Canottieri | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[094] BUILD Club Esperia Societá Italiana di Canottieri vs Dynamo de São Paulo prob=0.493 roll=0.715
+[095] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[095] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.348 roll=0.912
+[096] posse=Dynamo de São Paulo | placar Club Esperia Societá Italiana di Canottieri 0 x 1 Dynamo de São Paulo
+[096] BUILD Dynamo de São Paulo vs Club Esperia Societá Italiana di Canottieri prob=0.348 roll=0.027
+[096] JOGADA Dynamo de São Paulo | Nikolay Korotkov x Eleandro Stropparo line=2 duel=0.71 corte=-1.30
+[096] FINAL Dynamo de São Paulo | Patrizio del Nero fam=1 duel=7.83 on_target=0.602 goal=0.214
+[096] FINAL Patrizio del Nero: no alvo sem gol (roll=0.398)
